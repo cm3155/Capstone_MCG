@@ -103,7 +103,7 @@ class ModelSECPreprocessor:
         return text.strip()
     
     def extract_text_from_folders(self, root_folder: str) -> List[Dict[str, str]]:
-        """Extracts text from multiple folderC:/Users/cassi/Capstone/s and returns a structured list with folder hierarchy."""
+        """Extracts text from multiple folders and returns a structured list with folder hierarchy."""
         data = []
         for foldername, _, filenames in os.walk(root_folder):
             for filename in filenames:
@@ -113,13 +113,16 @@ class ModelSECPreprocessor:
                         text = file.read()
                     if text.strip():
                         cleaned_text = self.clean_text(text)
-                        sentences = re.split(r'[.!?]', cleaned_text)
+                        sentences = re.split(r'\.\s', cleaned_text)
                         folder_levels = foldername.replace(root_folder, '').strip(os.sep).split(os.sep)
                         for sentence in sentences:
                             sentence = sentence.strip()
                             if sentence:
-                                row = {f'level_{i+1}': folder_levels[i] if i < len(folder_levels) else '' for i in range(5)}
-                                row['text'] = sentence
+                                row = {
+                                    'Company_Name': folder_levels[2] if len(folder_levels) > 2 else '',
+                                    'Year': folder_levels[3] if len(folder_levels) > 3 else '',
+                                    'Text': sentence
+                                }
                                 data.append(row)
                 except Exception as e:
                     print(f"Error processing {file_path}: {e}")
@@ -127,11 +130,12 @@ class ModelSECPreprocessor:
 
     def save_to_csv(self, data: List[Dict[str, str]], output_file: str):
         """Saves extracted data to a CSV file with hierarchical folder structure."""
-        fieldnames = [f'level_{i+1}' for i in range(5)] + ['text']
+        fieldnames = ['Company_Name', 'Year', 'Text']
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
-            writer.writerows(data)
+            writer.writerows(data)   
+    
 
     def process_folders(self, root_folder: str, output_file: str):
         """Processes multiple folders and saves structured text data to CSV."""
