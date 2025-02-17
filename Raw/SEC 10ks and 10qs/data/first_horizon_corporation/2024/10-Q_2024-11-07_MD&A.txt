@@ -1,0 +1,1118 @@
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+TABLE OF ITEM 2 TOPICS 
+
+Introduction 
+
+Executive Overview 
+
+Results of Operations 
+
+Analysis of Financial Condition 
+
+Capital 
+
+Risk Management 
+
+Repurchase Obligations 
+
+Market Uncertainties and Prospective Trends 
+
+Critical Accounting Policies and Estimates 
+
+Accounting Changes 
+
+Non-GAAP Information 
+
+73 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Introduction 
+
+First Horizon Corporation (NYSE common stock trading symbol &#8220;FHN&#8221;) is a financial holding company headquartered in Memphis, Tennessee. FHN&#8217;s principal subsidiary, and only banking subsidiary, is First Horizon Bank. Through the Bank and other subsidiaries, FHN offers commercial, private banking, consumer, small business, wealth and trust management, retail brokerage, capital markets, fixed income, and mortgage banking services. 
+
+At September 30, 2024, FHN had over 450 business locations in 24 states, including over 400 banking centers 
+
+in 12 states, and employed approximately 7,200 associates. 
+
+This MD&#38;A should be read in conjunction with the accompanying unaudited Consolidated Financial Statements and Notes to Consolidated Financial Statements in Part I, Item 1, as well as other information contained in this document and FHN's 2023 Annual Report on Form 10-K. 
+
+Executive Overview 
+
+Financial Performance Summary 
+
+Third Quarter 2024 Highlights 
+
+FHN reported third quarter 2024 net income available to common shareholders of $213 million, or $0.40 per diluted share, compared to $184 million , or $0.34 per diluted share, in second quarter 2024 and $129 million, or $0.23 per diluted share, in third quarter 2023. 
+
+Net interest income of $627 million decreased $2 million compared to second quarter 2024 from increased deposit costs and higher levels of brokered deposits, partially offset by improvement in loan repricing. Net interest income increased $22 million compared to third quarter 2023, driven by the impact of higher yields on earning assets partially offset by higher funding costs. 
+
+Provision for credit losses was $35 million for third quarter 2024 compared to $55 million for second quarter 2024 and $110 million for third quarter 2023. Net charge-offs were $24 million, or 15 basis points, compared to $34 million, or 22 basis points, in second quarter 2024 and $95 million, or 61 basis points, in third quarter 2023. Third quarter 2023 included a single $72 million charge-off for a company in bankruptcy. 
+
+Noninterest income of $200 million increased $14 million compared to second quarter 2024, largely driven by an increase in fixed income production. Noninterest income for third quarter 2024 increased $27 million, or 16%, compared to third quarter 2023, also largely driven by higher fixed income production. 
+
+Noninterest expense of $511 million increased $11 million from second quarter 2024, largely resulting from $15 million in Visa derivative valuation expense. Compared with third quarter 2023, noninterest expense increased $37 million, or 8%, largely reflecting an increase in personnel expense, expenses related to strategic investments and Visa derivative valuation expense. 
+
+Year-to-Date and Period End Highlights 
+
+For the nine months ended September 30, 2024, net income available to common shareholders was 
+
+$581 million, or $1.06 per diluted share, compared to $689 million, or $1.23 per diluted share, for the nine months ended September 30, 2023. 
+
+Net interest income decreased $42 million, largely driven by higher funding costs partially offset by higher earning asset yields and loan growth. 
+
+Provision for credit losses of $140 million decreased $70 million for the year-to-date period of 2024 compared to the same period of 2023, largely reflecting the impact of a single large credit loss in 2023. 
+
+Noninterest income for the year-to-date period decreased $164 million, or 22%, primarily from the gain on merger termination in 2023, partially offset by higher fixed income, mortgage banking income and brokerage, management fees and commissions in 2024. 
+
+Noninterest expense for the year-to-date period increased $19 million, or 1%, largely attributable to higher personnel expense, deposit insurance expense and legal and professional fees partially offset by lower contributions expense. 
+
+Period-end loans and leases of $62.4 billion increased $1.2 billion, or 2%, from December 31, 2023. Commercial loan growth of $948 million was driven by growth in loans to mortgage companies and CRE loans partially offset by a decline in other C&#38;I loans. Consumer loan growth of $205 million was largely driven by growth in consumer real estate loans. 
+
+Period-end deposits of $66.6 billion increased $795 million, or 1% , compared to December 31, 2023. Interest-bearing deposits increased $1.8 billion and noninterest-bearing deposits decreased $992 million. 
+
+The Common Equity Tier 1 ratio was 11.23% at September 30, 2024 compared to 11.40% at December 31, 2023. Tier 1 risk-based capital and total risk-based capital ratios at September 30, 2024 were 12.24% and 13.88%, down from 12.42% and 13.96% at December 31, 2023, respectively. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+The following portions of this MD&#38;A focus in more detail on the results of operations for the three and nine months ended September 30, 2024 , the three months ended June 30, 2024, and the three and nine months ended 
+
+September 30, 2023 and on information about FHN's financial condition, loan and lease portfolio, liquidity, funding sources, capital and other matters. 
+
+Table I.2.1 
+
+KEY PERFORMANCE INDICATORS 
+
+As of or for the three months ended As of or for the nine months ended (Dollars in millions, except per share data) September 30, 2024 June 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Pre-provision net revenue (a) $ 316 &#160; $ 315 $ 304 $ 935 &#160; $ 1,160 Diluted earnings per common share $ 0.40 &#160; $ 0.34 $ 0.23 $ 1.06 &#160; $ 1.23 Return on average assets (b) 1.08 &#160; % 1.00 % 0.68 % 1.02 &#160; % 1.19 % Return on average common equity (c) 10.10 &#160; % 8.98 % 6.28 % 9.28 &#160; % 11.86 % Return on average tangible common equity (a) (d) 12.60 &#160; % 11.29 % 7.95 % 11.62 &#160; % 15.24 % Net interest margin (e) 3.31 &#160; % 3.38 % 3.17 % 3.35 &#160; % 3.47 % Noninterest income to total revenue (f) 24.06 &#160; % 22.75 % 22.23 % 23.52 &#160; % 27.88 % Efficiency ratio (g) 61.89 &#160; % 61.44 % 60.96 % 62.08 &#160; % 56.53 % Allowance for loan and lease losses to total loans and leases 1.32 &#160; % 1.31 % 1.23 % 1.32 &#160; % 1.23 % Net charge-offs (recoveries) to average loans and leases (annualized) 0.15 &#160; % 0.22 % 0.61 % 0.21 &#160; % 0.30 % Total period-end equity to period-end assets 11.27 &#160; % 10.89 % 10.65 % 11.27 &#160; % 10.65 % Tangible common equity to tangible assets (a) 8.56 &#160; % 8.14 % 7.76 % 8.56 &#160; % 7.76 % Cash dividends declared per common share $ 0.15 &#160; $ 0.15 $ 0.15 $ 0.45 &#160; $ 0.45 Book value per common share $ 16.15 &#160; $ 15.34 $ 14.28 $ 16.15 &#160; $ 14.28 Tangible book value per common share (a) $ 13.02 &#160; $ 12.22 $ 11.22 $ 13.02 &#160; $ 11.22 Common equity Tier 1 11.23 &#160; % 11.05 % 11.12 % 11.23 &#160; % 11.12 % Market capitalization $ 8,265 &#160; $ 8,467 $ 6,157 $ 8,265 &#160; $ 6,157 
+
+(a) Represents a non-GAAP measure which is reconciled in the non-GAAP to GAAP reconciliation in Table I.2.26. 
+
+(b) Calculated using annualized net income divided by average assets. 
+
+(c) Calculated using annualized net income available to common shareholders divided by average common equity. 
+
+(d) Calculated using annualized net income available to common shareholders divided by average tangible common equity. 
+
+(e) Net interest margin is computed using total net interest income adjusted to an FTE basis assuming a statutory federal income tax rate of 21% and, where applicable, state income taxes. 
+
+(f) Ratio is noninterest income excluding securities gains (losses) to total revenue excluding securities gains (losses). 
+
+(g) Ratio is noninterest expense to total revenue excluding securities gains (losses). 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Results of Operations 
+
+Net Interest Income 
+
+Net interest income is FHN's largest source of revenue and is the difference between the interest earned on interest-earning assets (generally loans, leases and investment securities) and the interest expense incurred in connection with interest-bearing liabilities (generally deposits and borrowed funds). The level of net interest income is primarily a function of the difference between the effective yield on average interest-earning assets and the effective cost of interest-bearing liabilities. These factors are influenced by the pricing and mix of interest-earning assets and interest-bearing liabilities which, in turn, are impacted by external factors such as local economic conditions, competition for loans and deposits, the monetary policy of the FRB and market interest rates. 
+
+The following tables present the major components of net interest income and net interest margin: 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.2 
+
+QUARTER-TO-DATE AVERAGE BALANCES, NET INTEREST INCOME &#38; YIELDS/RATES 
+
+Three Months Ended (Dollars in millions) September 30, 2024 June 30, 2024 September 30, 2023 Average Balance Interest Income/Expense Yield/Rate Average Balance Interest Income/Expense Yield/Rate Average Balance Interest Income/Expense Yield/Rate Assets: Loans and leases: Commercial loans and leases $ 47,758 &#160; $ 813 &#160; 6.78 &#160; % $ 47,485 $ 799 6.78 % $ 47,041 $ 779 6.58 % Consumer loans 14,655 &#160; 186 &#160; 5.05 &#160; 14,544 179 4.91 14,391 165 4.55 Total loans and leases 62,413 &#160; 999 &#160; 6.37 &#160; 62,029 978 6.34 61,432 944 6.10 Loans held for sale 491 &#160; 10 &#160; 7.77 &#160; 462 9 7.50 782 15 7.88 Investment securities 9,400 &#160; 61 &#160; 2.58 &#160; 9,261 60 2.58 9,811 63 2.54 Trading securities 1,469 &#160; 22 &#160; 6.05 &#160; 1,367 21 6.30 1,099 19 7.03 Federal funds sold 24 &#160; &#8212; &#160; 5.63 &#160; 55 1 5.64 23 &#8212; 5.87 Securities purchased under agreements to resell 583 &#160; 8 &#160; 5.22 &#160; 621 8 5.28 292 4 5.00 Interest-bearing deposits with banks 1,741 &#160; 23 &#160; 5.40 &#160; 1,448 20 5.46 2,867 39 5.34 Total earning assets / Total interest income $ 76,121 &#160; $ 1,123 &#160; 5.88 &#160; % $ 75,243 $ 1,097 5.86 % $ 76,306 $ 1,084 5.64 % Cash and due from banks 905 &#160; 904 997 Goodwill and other intangible assets, net 1,669 &#160; 1,680 1,714 Premises and equipment, net 578 &#160; 585 592 Allowance for loan and lease losses (827) (810) (766) Other assets 3,920 &#160; 4,119 4,377 Total assets $ 82,366 &#160; $ 81,721 $ 83,220 Liabilities and Shareholders' Equity: Interest-bearing deposits: Savings $ 26,062 &#160; $ 225 &#160; 3.43 &#160; % $ 25,462 $ 208 3.29 % $ 24,963 $ 219 3.48 % Other interest-bearing deposits 15,923 &#160; 114 &#160; 2.85 &#160; 16,484 117 2.86 15,329 102 2.64 Time deposits 8,167 &#160; 95 &#160; 4.63 &#160; 6,683 74 4.45 8,087 88 4.35 Total interest-bearing deposits 50,152 &#160; 434 &#160; 3.44 &#160; 48,629 399 3.30 48,379 409 3.36 Federal funds purchased 423 &#160; 6 &#160; 5.46 &#160; 531 7 5.53 285 4 5.42 Securities sold under agreements to repurchase 1,708 &#160; 17 &#160; 3.89 &#160; 1,677 17 3.99 1,685 17 4.05 Trading liabilities 576 &#160; 6 &#160; 4.13 &#160; 605 7 4.46 276 3 4.20 Other short-term borrowings 884 &#160; 12 &#160; 5.52 &#160; 1,267 17 5.48 1,790 25 5.42 Term borrowings 1,188 &#160; 17 &#160; 5.64 &#160; 1,170 17 5.64 1,161 17 5.82 Total interest-bearing liabilities / Total interest expense $ 54,931 &#160; $ 492 &#160; 3.56 &#160; % $ 53,879 $ 464 3.46 % $ 53,576 $ 475 3.52 % Noninterest-bearing liabilities: Noninterest-bearing deposits 16,111 &#160; 16,332 18,144 Other liabilities 2,196 &#160; 2,561 2,522 Total liabilities 73,238 &#160; 72,772 74,242 Shareholders' equity 8,833 &#160; 8,654 8,683 Noncontrolling interest 295 &#160; 295 295 Total shareholders' equity 9,128 &#160; 8,949 8,978 Total liabilities and shareholders' equity $ 82,366 &#160; $ 81,721 $ 83,220 Net earnings assets / Net interest income (TE) / Net interest spread $ 21,190 &#160; $ 631 &#160; 2.32 &#160; % $ 21,364 $ 633 2.40 % $ 22,730 $ 609 2.12 % Taxable equivalent adjustment (4) 0.99 &#160; (4) 0.98 (4) 1.05 Net interest income / Net interest margin (a) $ 627 &#160; 3.31 &#160; % $ 629 3.38 % $ 605 3.17 % 
+
+(a) Calculated using total net interest income adjusted for FTE assuming a statutory federal income tax rate of 21% and, where applicable, state income taxes. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Third Quarter 2024 versus Second Quarter 2024 
+
+Net interest income of $627 million in third quarter 2024 decreased $2 million from second quarter 2024 and the net interest margin decreased 7 basis points to 3.31%, driven by increased deposit costs and higher levels of brokered deposits, partially offset by improvement in loan repricing. Loan yield increased 3 basis points and the cost of interest-bearing deposits increased 14 basis points. 
+
+Average earning assets of $76.1 billion in third quarter 2024 increased $878 million from second quarter 2024, largely due to a $384 million increase in average loans and leases, a $293 million increase in average interest-bearing deposits with banks, a $139 million increase in average investment securities and a $102 million increase in average trading securities, partially offset by a $38 million decrease in average securities purchased under agreements to resell. Average interest-bearing liabilities increased $1.1 billion, largely reflecting a $1.5 billion increase in average interest-bearing deposits, partially offset by a $383 million decrease in average other short-term borrowings. 
+
+Third Quarter 2024 versus Third Quarter 2023 
+
+Net interest income increased $22 million from third quarter 2023 and the net interest margin increased 14 basis points to 3.31% in third quarter 2024, driven by higher yields on earning assets, partially offset by higher funding costs. Yields on earning assets increased 24 basis points while funding costs increased 4 basis points. 
+
+Average earning assets decreased $185 million from third quarter 2023, largely attributable to a $1.1 billion decrease in average interest-bearing deposits with banks, partially offset by a $981 million increase in average loans and leases. Average interest-bearing liabilities increased $1.4 billion, largely driven by a $1.8 billion increase in average interest-bearing deposits and a $300 million increase in average trading liabilities, partially offset by a $906 million decrease in average other short-term borrowings. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.3 
+
+YEAR-TO-DATE AVERAGE BALANCES, NET INTEREST INCOME &#38; YIELDS/RATES Nine Months Ended September 30, 2024 September 30, 2023 (Dollars in millions) Average Balance Interest Income/Expense Yield/Rate Average Balance Interest Income/Expense Yield/Rate Assets: Loans and leases: Commercial loans and leases $ 47,335 &#160; $ 2,395 &#160; 6.76 &#160; % $ 45,988 $ 2,174 6.33 % Consumer loans 14,532 &#160; 537 &#160; 4.92 &#160; 13,834 459 4.40 Total loans and leases 61,867 &#160; 2,932 &#160; 6.33 &#160; 59,822 2,633 5.88 Loans held for sale 469 &#160; 27 &#160; 7.69 &#160; 704 40 7.54 Investment securities 9,417 &#160; 181 &#160; 2.57 &#160; 10,087 188 2.49 Trading securities 1,361 &#160; 64 &#160; 6.26 &#160; 1,164 58 6.62 Federal funds sold 50 &#160; 2 &#160; 5.63 &#160; 37 2 5.48 Securities purchased under agreements to resell 558 &#160; 22 &#160; 5.21 &#160; 291 10 4.63 Interest-bearing deposits with banks 1,661 &#160; 68 &#160; 5.44 &#160; 2,486 95 5.11 Total earning assets / Total interest income $ 75,383 &#160; $ 3,296 &#160; 5.84 &#160; % $ 74,591 $ 3,026 5.42 % Cash and due from banks 919 &#160; 1,019 Goodwill and other intangible assets, net 1,680 &#160; 1,726 Premises and equipment, net 583 &#160; 599 Allowance for loan and lease losses (809) (729) Other assets 4,023 &#160; 4,265 Total assets $ 81,779 &#160; $ 81,471 Liabilities and Shareholders' Equity: Interest-bearing liabilities: Interest-bearing deposits: Savings $ 25,640 &#160; $ 639 &#160; 3.33 &#160; % $ 22,788 $ 456 2.68 % Other interest-bearing deposits 16,379 &#160; 350 &#160; 2.86 &#160; 14,948 236 2.11 Time deposits 7,163 &#160; 242 &#160; 4.51 &#160; 5,665 153 3.63 Total interest-bearing deposits 49,182 &#160; 1,231 &#160; 3.34 &#160; 43,401 845 2.60 Federal funds purchased 431 &#160; 18 &#160; 5.50 &#160; 358 13 5.01 Securities sold under agreements to repurchase 1,687 &#160; 50 &#160; 3.96 &#160; 1,348 35 3.47 Trading liabilities 548 &#160; 18 &#160; 4.30 &#160; 272 8 3.96 Other short-term borrowings 896 &#160; 36 &#160; 5.48 &#160; 3,446 134 5.19 Term borrowings 1,171 &#160; 50 &#160; 5.67 &#160; 1,395 56 5.30 Total interest-bearing liabilities / Total interest expense $ 53,915 &#160; $ 1,403 &#160; 3.48 &#160; % $ 50,220 $ 1,091 2.90 % Noninterest-bearing liabilities: Noninterest-bearing deposits 16,355 &#160; 20,012 Other liabilities 2,400 &#160; 2,334 Total liabilities 72,670 &#160; 72,566 Shareholders' equity 8,814 &#160; 8,610 Noncontrolling interest 295 &#160; 295 Total shareholders' equity 9,109 &#160; 8,905 Total liabilities and shareholders' equity $ 81,779 &#160; $ 81,471 Net earnings assets / Net interest income (TE) / Net interest spread $ 21,468 &#160; $ 1,893 &#160; 2.36 &#160; % $ 24,371 $ 1,935 2.52 % Taxable equivalent adjustment (12) 0.99 &#160; (12) 0.95 Net interest income / Net interest margin (a) $ 1,881 &#160; 3.35 &#160; % $ 1,923 3.47 % 
+
+(a) Calculated using total net interest income adjusted for FTE assuming a statutory federal income tax rate of 21% and, where applicable, state income taxes. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+For the nine months ended September 30, 2024, net interest income of $1.9 billion decreased $42 million from the same period one year ago, largely driven by higher funding costs, partially offset by higher earning asset yields and loan growth. 
+
+Total average earning assets increased $792 million in the first nine months of 2024, largely driven by average loan growth of $2.0 billion, partially offset by lower levels of investment securities and interest-bearing cash. 
+
+The year-to-date net interest margin of 3.35% decreased 12 basis points compared to 3.47% for the same period of 2023 as earning asset yields increased 42 basis points and the cost of interest-bearing liabilities increased 58 basis points. 
+
+Noninterest Income 
+
+The following table presents the significant components of noninterest income for each of the periods presented: 
+
+Table I.2.4 
+
+NONINTEREST INCOME 
+
+Three Months Ended 3Q24 vs. 2Q24 3Q24 vs. 3Q23 (Dollars in millions) September 30, 2024 June 30, 2024 September 30, 2023 $ Change % Change $ Change % Change Noninterest income: Fixed income $ 47 &#160; $ 40 $ 28 $ 7 18 % $ 19 68 % Deposit transactions and cash management 45 &#160; 44 46 1 2 (1) (2) Brokerage, management fees and commissions 27 &#160; 25 21 2 8 6 29 Card and digital banking fees 19 &#160; 20 20 (1) (5) (1) (5) Other service charges and fees 13 &#160; 14 14 (1) (7) (1) (7) Trust services and investment management 12 &#160; 12 12 &#8212; &#8212; &#8212; &#8212; Mortgage banking income 9 &#160; 10 7 (1) (10) 2 29 Securities gains (losses), net 1 &#160; 1 &#8212; &#8212; &#8212; 1 100 Other income 27 &#160; 20 25 7 35 2 8 Total noninterest income $ 200 &#160; $ 186 $ 173 $ 14 8 % $ 27 16 % 
+
+Third Quarter 2024 versus Second Quarter 2024 
+
+Noninterest income of $200 million increased $14 million, or 8%, from second quarter 2024, largely driven by an increase in fixed income production as well as an increase in various other noninterest income items. 
+
+Fixed income of $47 million increased $7 million from the prior quarter, driven by higher production as the market anticipated the decline in interest rates. Fixed income average daily revenue of $593 thousand increased 22% from $488 thousand in second quarter 2024. 
+
+Mortgage banking income of $9 million decreased $1 million, moderating slightly from home-buying season highs. 
+
+Other income increased $7 million, largely driven by a $3 million increase in deferred compensation income, $2 million in gains on disposition of fixed assets and a $1 million increase in bank owned life insurance benefits. 
+
+Third Quarter 2024 versus Third Quarter 2023 
+
+Noninterest income for third quarter 2024 increased $27 million, or 16%, compared to third quarter 2023, primarily driven by higher fixed income and brokerage, management fees and commissions. 
+
+Fixed income of $47 million increased $19 million from third quarter 2023, largely reflecting more favorable market conditions. Fixed income average daily revenue of $593 thousand increased $292 thousand, or 97%, compared to the same quarter of 2023. 
+
+Brokerage, management fees and commissions of $27 million increased $6 million, or 29%, as strong market performance improved wealth management fees. 
+
+Mortgage banking income of $9 million increased $2 million, driven by higher secondary volume. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.5 
+
+NONINTEREST INCOME 
+
+Nine Months Ended (Dollars in millions) September 30, 2024 September 30, 2023 $ Change % Change Noninterest income: Fixed income $ 138 &#160; $ 97 $ 41 42 % Deposit transactions and cash management 134 &#160; 133 1 1 Brokerage, management fees and commissions 76 &#160; 66 10 15 Card and digital banking fees 58 &#160; 61 (3) (5) Other service charges and fees 40 &#160; 41 (1) (2) Trust services and investment management 36 &#160; 35 1 3 Mortgage banking income 28 &#160; 18 10 56 Securities gains (losses), net 2 &#160; 1 1 100 Gain on merger termination &#8212; &#160; 225 (225) (100) Other income 69 &#160; 68 1 1 Total noninterest income $ 581 &#160; $ 745 $ (164) (22) % 
+
+For the nine months ended September 30, 2024, noninterest income of $581 million decreased $164 million, or 22%, compared to the same period in 2023, primarily from the gain on merger termination in 2023, partially offset by higher fixed income, mortgage banking income and brokerage, management fees and commissions in 2024. 
+
+Fixed income of $138 million increased $41 million, or 42% compared to the same period one year ago. Fixed income product revenue of $113 million increased $45 million, largely driven by more favorable market conditions. Revenue from other products of $25 million decreased $4 
+
+million, primarily driven by lower investment advisory fees due to the sale of the assets of FHN Financial Main Street Advisors in fourth quarter 2023 and lower derivative sales. 
+
+Brokerage, management fees and commissions of $76 million increased $10 million, or 15%, as strong market performance improved wealth management fees. 
+
+Mortgage banking income of $28 million increased $10 million, driven by higher secondary volume. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Noninterest Expense 
+
+The following tables present the significant components of noninterest expense for each of the periods presented: 
+
+Table I.2.6 
+
+NONINTEREST EXPENSE 
+
+Three Months Ended 3Q24 vs. 2Q24 3Q24 vs. 3Q23 (Dollars in millions) September 30, 2024 June 30, 2024 September 30, 2023 $ Change % Change $ Change % Change Noninterest expense: Personnel expense $ 282 &#160; $ 279 $ 266 $ 3 1 % $ 16 6 % Net occupancy expense 33 &#160; 31 30 2 6 3 10 Computer software 30 &#160; 29 26 1 3 4 15 Operations services 25 &#160; 23 21 2 9 4 19 Legal and professional fees 15 &#160; 18 13 (3) (17) 2 15 Advertising and public relations 14 &#160; 14 16 &#8212; &#8212; (2) (13) Contract employment and outsourcing 12 &#160; 14 12 (2) (14) &#8212; &#8212; Deposit insurance expense 11 &#160; 16 14 (5) (31) (3) (21) Amortization of intangible assets 11 &#160; 11 12 &#8212; &#8212; (1) (8) Equipment expense 10 &#160; 11 11 (1) (9) (1) (9) Communications and delivery 8 &#160; 8 8 &#8212; &#8212; &#8212; &#8212; Contributions 4 &#160; 1 3 3 300 1 33 Other expense 56 &#160; 45 42 11 24 14 33 Total noninterest expense $ 511 &#160; $ 500 $ 474 $ 11 2 % $ 37 8 % 
+
+Third Quarter 2024 versus Second Quarter 2024 
+
+Noninterest expense of $511 million increased $11 million, or 2%, compared with second quarter 2024, largely reflecting $15 million in Visa derivative valuation expense. 
+
+Personnel expense of $282 million increased $3 million from the linked quarter. Incentive-based compensation decreased $3 million despite higher fixed income revenue, primarily due to a decline in retention expense and lower incentives in other variable compensation businesses. Deferred compensation expense increased $3 million compared to the linked quarter, reflecting fluctuations in equity market valuations. 
+
+Deposit insurance expense declined $5 million, reflecting an expense credit of $2 million for the FDIC special assessment based on revised resolution loss totals received from the FDIC in third quarter 2024. 
+
+Third Quarter 2024 versus Third Quarter 2023 
+
+Noninterest expense of $511 million increased $37 million, or 8%, from third quarter 2023. 
+
+Personnel expense increased $16 million compared to third quarter 2023. Salaries and employee benefits increased $11 million, largely attributable to annual merit adjustments and higher medical insurance expense. Deferred compensation expense increased $7 million, reflecting fluctuations in equity market valuations relative to the prior year. Incentive-based compensation decreased $1 million, largely reflecting a decline from retention expense, partially offset by an increase in compensation tied to higher fixed income production. 
+
+Increases in occupancy, computer software, operations services and legal and professional fees were largely attributable to strategic investment initiatives in third quarter 2024. 
+
+Other expense increased $14 million, largely reflecting $15 million in Visa derivative valuation expense in third quarter 2024. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.7 
+
+NONINTEREST EXPENSE 
+
+Nine Months Ended (Dollars in millions) September 30, 2024 September 30, 2023 $ Change % Change Noninterest expense: Personnel expense $ 862 $ 821 $ 41 5 % Net occupancy expense 95 92 3 3 Computer software 89 82 7 9 Operations services 69 65 4 6 Legal and professional fees 47 33 14 42 Deposit insurance expense 51 40 11 28 Contract employment and outsourcing 40 36 4 11 Advertising and public relations 37 47 (10) (21) Amortization of intangible assets 33 36 (3) (8) Equipment expense 32 32 &#8212; &#8212; Communications and delivery 24 27 (3) (11) Contributions 6 60 (54) (90) Other expense 142 137 5 4 Total noninterest expense $ 1,527 &#160; $ 1,508 $ 19 1 % 
+
+For the nine months ended September 30, 2024, noninterest expense of $1.5 billion increased $19 million, or 1%, compared to the same period of 2023. 
+
+Contributions expense decreased $54 million, largely attributable to a $50 million contribution made to the First Horizon Foundation in 2023. 
+
+Personnel expense of $862 million increased $41 million, largely reflecting higher salaries and benefits expense as well as higher deferred compensation expense. 
+
+Legal and professional fees increased $14 million and computer software increased $7 million, largely attributable to strategic investments. 
+
+Deposit insurance expense of $51 million increased $11 million, reflecting the impact of the FDIC special assessment. 
+
+Advertising and public relations expense decreased $10 million, largely attributable to a new-to-bank deposit campaign and brand awareness initiatives that were launched during 2023. 
+
+There were no merger and integration related expenses in the first nine months of 2024 compared to $51 million for the same period of 2023. Restructuring expenses were $10 million for both year-to-date periods of 2024 and 2023. 
+
+Provision for Credit Losses 
+
+Provision for credit losses includes the provision for loan and lease losses and the provision for unfunded lending commitments. The provision for credit losses is the expense necessary to maintain the ALLL and the accrual for unfunded lending commitments at levels appropriate to absorb management&#8217;s estimate of credit losses expected over the life of the loan and lease portfolio and the portfolio of unfunded loan commitments. 
+
+Provision for credit losses decreased to $35 million for the third quarter 2024, compared to $55 million for the 
+
+second quarter 2024 and $110 million for third quarter 2023. For the nine months ended September 30, 2024, provision for credit losses was $140 million, compared to $210 million for the same period of 2023. The provision in 2023 reflected the impact of a $72 million credit loss from a single borrower in bankruptcy. For additional information about general asset quality trends, refer to the Asset Quality section in this MD&#38;A. 
+
+Income Taxes 
+
+FHN recorded income tax expe nse of $58 million in third quarter 2024 compared to $56 million in second q uarter 2024 an d $52 million i n third quarter 2023. For the nine 
+
+months ended September 30, 2024 and 2023 , FHN recorded income tax expense of $171 million and $223 million , respectively. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+The effective tax rate was approximate ly 20.6%, 21.5%, and 26.7% for the three months ended September 30, 2024, June 30, 2024, and September 30, 2023, respectivel y. The effective tax rate was approximately 21.5% and 23.5% for the nine months ended September 30, 2024 and 2023 , respectively. 
+
+FHN&#8217;s effec tive tax rate is favorably affected by recurring items such as tax credits and other tax benefits from tax credit investments, tax-exempt income, and bank-owned life insurance. The effective rate is unfavorably affected by the non-deductible portions of FDIC premium, executive compensation and merger expenses. FHN&#8217;s effective tax rate also may be affected by items that may occur in any given period but are not consistent from period to period, such as changes in unrecognized tax benefits. The rate also may be affected by items resulting from business combinations. For the three months ended September 30, 2024, FHN recognized $5 million of net favorable discrete items, primarily attributable to the lapse of the statute of limitations for uncertain tax positions. The higher rates for the three and nine months ended September 30, 2023 were primarily attributable to net unfavorable discrete items related to the termination of bank owned life insurance (BOLI) policies in the third quarter of 2023 and 
+
+the gain on merger agreement termination in the second quarter of 2023. 
+
+A deferred tax asset or deferred tax liability is recognized for the tax consequences of temporary differences between the financial statement carrying amounts and the tax bases of existing assets and liabilities. The tax consequence is calculated by applying current enacted statutory tax rates to these temporary differences in future years. As of September 30, 2024, FHN&#8217;s gross DTA and gross DTL wer e $715 million and $529 million, respectively, resulting in a net DTA of $186 million at September 30, 2024, compared with a net DTA of $215 million at December 31, 2023. 
+
+As of September 30, 2024, FHN had deferred tax asset balances related to federal and state income tax carryforwards of $29 million and $3 million, respectively, which will expire at various dates. 
+
+Based on current analysis, FHN believes that its ability to realize the net DTA is more likely than not. FHN monitors its net DTA and the need for a valuation allowance on a quarterly basis. A significant adverse change in FHN&#8217;s taxable earnings outlook could result in the need for a valuation allowance. 
+
+Business Segment Results 
+
+FHN's reportable segments include Regional Banking, Specialty Banking and Corporate. See Note 12 - Business Segment Information to the Consolidated Financial Statements in Part I, Item 1 of this report for additional disclosures related to FHN's segments. 
+
+Regional Banking 
+
+The Regional Banking segment generated pre-tax income of $269 million for third quarter 2024, an increase of $28 million compared to second quarter 2024. Net interest income of $517 million decreased $5 million, driven by higher interest-bearing deposit costs, partially offset by improvement in loan repricing. Provision for credit losses of $33 million decreased $24 million from the prior quarter. Noninterest income increased $5 million compared to the prior quarter, largely driven by higher wealth management fees and deposit transaction and cash management fees. Noninterest expense decreased $4 million compared to second quarter 2024. largely due to a decline in other losses. 
+
+Pre-tax income for third quarter 2024 increased $28 million to $269 million, compared to $241 million for third quarter 2023. Net interest income decreased $41 million from third quarter 2023, driven by a decline in average noninterest-bearing deposits and thus lower earnings credit under the funds transfer pricing methodology, as well as higher interest-bearing deposit costs, partially offset by higher loan balances and yields. The provision for credit losses decreased $80 million compared to third quarter 2023, largely reflecting a credit 
+
+loss on a single relationship in 2023. Noninterest expense increased $19 million compared to third quarter 2023, largely due to higher personnel expense and expenses related to strategic investments. Results also reflect an $8 million increase in noninterest income compared to third quarter 2023, largely driven by improvement in wealth management fees. 
+
+Pre-tax income of $795 million for the nine months ended September 30, 2024 decreased $105 million compared to the same period of 2023, largely from a $121 million decrease in revenue primarily driven by net interest income. Provision for credit losses decreased $65 million, largely reflecting a credit loss on a single relationship in 2023. Noninterest expense increased $49 million, largely attributable to higher personnel expense and expenses related to strategic investments. 
+
+Specialty Banking 
+
+Pre-tax income in the Specialty Banking segment of $126 million for third quarter 2024 increased $8 million compared to second quarter 2024, largely driven by higher fixed income production. Provision for credit losses increased $2 million and noninterest expense increased $1 million. 
+
+Fixed income of $47 million increased $7 million, driven by higher production as the market anticipated the decline in interest rates. Mortgage banking income of $8 million decreased $2 million, moderating slightly from home-buying season highs. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Pre-tax income in the Specialty Banking segment increased $15 million compared to third quarter 2023. Revenue increased $24 million, primarily driven by higher fixed income production. Noninterest expense increased $8 million, largely driven by higher incentive-based compensation expense tied to the improvement in fixed income production. 
+
+Pre-tax income of $342 million for the nine months ended September 30, 2024 increased $46 million from the same period of 2023, largely reflecting a $47 million increase in noninterest income and a $9 million decrease in provision for credit losses, partially offset by a $19 million increase in noninterest expense. The increase in noninterest income was largely a result of higher fixed income and mortgage banking income. The increase in noninterest expense was largely attributable to higher personnel expense. 
+
+Corporate 
+
+Pre-tax loss for the Corporate segment was $114 million for third quarter 2024 compared to $99 million for second quarter 2024, largely reflecting a $14 million increase in noninterest expense. The increase in noninterest expense was largely attributable to $15 million in Visa derivative valuation expense. Results for third quarter 2024 also reflect $2 million in restructuring costs compared to $3 million in the prior quarter. 
+
+Pre-tax loss for the Corporate segment was $114 million compared to $158 million for third quarter 2023, largely reflecting a $57 million increase in net interest income, partially offset by a $10 million increase in noninterest expense. The increase in net interest income was tied to the impact of funds transfer pricing. The increase in noninterest expense was largely driven by $15 million in derivative valuation expense as well as higher personnel expense. The increase in personnel expense was largely driven by higher salaries and employee benefits and deferred compensation expense, partially offset by lower incentive-based compensation. These increases in noninterest expense were partially offset by a decline in deposit insurance expense compared to third quarter 2023. 
+
+Pre-tax loss of $342 million for the nine months ended September 30, 2024 compared to $246 million for the same period of 2023. The increase in loss was largely driven by the $225 million gain on merger termination in 2023, offset by the $50 million contribution to the First Horizon Foundation. Results in 2024 also reflect a $51 million decrease in merger and integration related expense and $10 million in net FDIC special assessment expense. 
+
+Analysis of Financial Condition 
+
+Earning assets consist of loans and leases, loans held for sale, investment securities, and other earning assets, such as trading securities and interest-bearing deposits with 
+
+banks. A detailed discussion of the major components of earning assets is provided in the following sections. 
+
+Loans and Leases 
+
+Period-end loans and leases of $62.4 billion as of September 30, 2024 increased $1.2 billion, or 2%, compared to December 31, 2023. Commercial loans and leases increased $948 million, primarily from growth in loans to mortgage companies and commercial real estate loans, partially offset by a decline in other C&#38;I loans. Consumer loans increased $205 million, primarily from 
+
+growth in real estate installment loans, partially offset by declines in HELOCs, consumer construction and other consumer loans. 
+
+The following table provides detail regarding FHN's loans and leases as of September 30, 2024 and December 31, 2023 . 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.8 
+
+LOANS &#38; LEASES 
+
+As of September 30, 2024 As of December 31, 2023 (Dollars in millions) Amount Percent of total Amount Percent of total Growth Rate Commercial: Commercial, financial, and industrial (a) $ 33,092 &#160; 53 &#160; % $ 32,633 53 % 1 % Commercial real estate 14,705 &#160; 24 &#160; 14,216 23 3 Total commercial 47,797 &#160; 77 &#160; 46,849 76 2 Consumer: Consumer real estate 13,961 &#160; 22 &#160; 13,650 23 2 Credit card and other 687 &#160; 1 &#160; 793 1 (13) Total consumer 14,648 &#160; 23 &#160; 14,443 24 1 Total loans and leases $ 62,445 &#160; 100 &#160; % $ 61,292 100 % 2 % 
+
+(a) Includes equipment financing loans and leases. 
+
+Loans Held for Sale 
+
+Loans held for sale primarily consists of government guaranteed loans under SBA and USDA lending programs. Smaller amounts of other consumer and home equity loans are also included in loans HFS. Additionally, FHN's mortgage banking operations include origination and servicing of residential first lien mortgages that conform to standards established by GSEs that are major investors in U.S. home mortgages but can also consist of junior lien and jumbo loans secured by residential property. These non-conforming loans are primarily sold to private 
+
+companies that are unaffiliated with the GSEs on a servicing-released basis. For further detail, see Note 5 - Mortgage Banking Activity to the Consolidated Financial Statements in Part I, Item 1 of this report . 
+
+On September 30, 2024 and December 31, 2023 , l oans HFS were $494 million and $502 million, respectively. Held-for-sale consumer mortgage loans secured by residential real estate in process of foreclosure totaled $2 million as of both September 30, 2024 and December 31, 2023. 
+
+Asset Quality 
+
+Loan and Lease Portfolio Composition 
+
+FHN groups its loans into portfolio segments based on internal classifications reflecting the manner in which the ALLL is established and how credit risk is measured, monitored, and reported. From time to time, and if conditions are such that certain subsegments are uniquely affected by economic or market conditions or are experiencing greater deterioration than other components of the loan portfolio, management may determine the ALLL at a more granular level. Commercial loans and leases are composed of C&#38;I loans and leases and CRE loans. Consumer loans are composed of consumer real es tate loans and credit card and other loans. FHN had a concentration of residential real estate 
+
+loans of 22% and 23% of total loans at September 30, 2024 an d December 31, 2023, respectively. Industry concentrations are discussed un der the C&#38;I heading below. 
+
+Cr edit underwriting guidelines are outlined in Item 7 of FHN&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023 in the Asset Quality section within the Analysis of Financial Condition discussion . F HN&#8217;s credit underwriting guidelines and loan product offerings as of September 30, 2024 are generally consistent with those reported and disclosed in FHN&#8217;s Form 10-K for the year ended December 31, 2023. 
+
+Commercial Loan and Lease Portfolios 
+
+C&#38;I 
+
+C&#38;I loans are the largest component of the loan and lease portfolio, comprising 53% of total loans as of both September 30, 2024 and December 31, 2023. The C&#38;I portfolio increased $459 million to $33.1 billion as of September 30, 2024, compared to $32.6 billion at December 31, 2023. The C&#38;I portfolio is comprised of 
+
+loans and leases used for general business purposes. Products offered in the C&#38;I portfolio include term loan financing of owner-occupied real estate and fixed assets, direct financing and sales-type leases, working capital lines 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+of credit, and trade credit enhancement through letters of credit. 
+
+The increase in C&#38;I loans from December 31, 2023 was largely driven by growth in loans to mortgage companies partially offset by a decline in finance and insurance and various other portfolios. The largest geographical concentrations of balances in the C&#38;I portfolio as of September 30, 2024 were in Tennessee (20%), Florida (12%), Texas (11%), North Carolina (7%), Louisiana (6%), California (6%), and Georgia (5%). No other state represented more than 5% of the portfolio. 
+
+The following table provides the composition of the C&#38;I portfolio by industry as of September 30, 2024 and 
+
+December 31, 2023. For purposes of this disclosure, industries are determined based on the North American Industry Classification System (NAICS) industry codes used by Federal statistical agencies in classifying business establishments for the collection, analysis, and publication of statistical data related to the U.S. business economy. 
+
+Table I.2.9 
+
+C&#38;I PORTFOLIO BY INDUSTRY 
+
+&#160; September 30, 2024 December 31, 2023 
+
+(Dollars in millions) &#160; 
+
+Amount Percent Amount Percent 
+
+Industry: &#160; 
+
+Real estate and rental and leasing (a) $ 3,804 &#160; 11 &#160; % $ 3,858 12 % Finance and insurance 3,681 &#160; 11 &#160; 4,083 12 Loans to mortgage companies 3,244 &#160; 10 &#160; 2,024 6 Health care and social assistance 2,580 &#160; 8 &#160; 2,676 8 Wholesale trade 2,382 &#160; 7 &#160; 2,147 7 Manufacturing 2,282 &#160; 7 &#160; 2,267 7 Accommodation and food service 2,273 &#160; 7 &#160; 2,288 7 Retail trade 1,816 &#160; 5 &#160; 1,866 6 Transportation and warehousing 1,550 &#160; 5 &#160; 1,580 5 Energy 1,263 &#160; 4 &#160; 1,293 4 Other (professional, construction, education, etc.) (b) 8,217 &#160; 25 &#160; 8,551 26 Total C&#38;I loan portfolio $ 33,092 &#160; 100 &#160; % $ 32,633 100 % 
+
+(a) Leasing, rental of real estate, equipment, and goods. 
+
+(b) Industries in this category each comprise less than 5%. 
+
+Industry Concentrations 
+
+Loan concentrations are considered to exist for a financial institution when there are loans to numerous borrowers engaged in similar activities that would cause them to be similarly impacted by economic or other conditi ons. Loans to borro wers in the finance and insurance industry and loans to mortgage companies were 21% and 18% of FHN&#8217;s C&#38;I loan portfolio as of September 30, 2024 and December 31, 2023, respectively, and as a result could be affected by items that uniquely impact the financial services industry. Loans to borrowers in the real estate and rental and leasing industry were 11% and 12% of FHN's C&#38;I portfolio as of September 30, 2024 and December 31, 2023, respectively. As of September 30, 2024, FHN did not have any other concentrations of C&#38;I loans in any single industry of 10% or more of total loans. 
+
+Real Estate and Rental and Leasing 
+
+Loans to borrowers in the real estate and rental and leasing industry were 11% and 12% of FHN's C&#38;I portfolio 
+
+as of September 30, 2024 and December 31, 2023, respectively. This portfolio primarily consists of equipment financing loans and leases to clients across FHN's footprint in a broad range of industries and asset types. This portfolio also includes a smaller balance of loans and leases for solar and wind generating facilities. 
+
+Finance and Insurance 
+
+The finance and insurance component represented 11% and 12% of the C&#38;I portfolio as of September 30, 2024 and December 31, 2023, respectively, and includes TRUPs (i.e., long-term unsecured loans to bank and insurance-related businesses), loans to bank holding companies, and asset-based lending to consumer finance companies. As of September 30, 2024, asset-based lending to consumer finance companies represented approximately $1.8 billion of the finance and insurance component. 
+
+Loans to Mortgage Companies 
+
+Loans to mortgage companie s were 10% and 6% of the C&#38;I portfolio as of September 30, 2024 and December 31, 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+2023, respectively. This portfolio inclu des commercial lines of credit to qualified mortgage companies primarily for the temporary warehousing of eligible mortgage loans prior to the borrower&#8217;s sale of those mortgage loans to third-party investors. Balances in this portfolio generally fluctuate with mortgage rates and seasonal factors. Generally, new loan originations to mortgage lenders increase when there is a decline in mortgage rates and decrease when rates rise. In periods of economic uncertainty, this trend may not occur even if interest rates are declining. In third quarter 2024, 78% of the loan originations were home purchases and 22% were refinance transactions. 
+
+Commercial Real Estate 
+
+The CRE portfolio tota led $14.7 billion as of September 30, 2024 and $14.2 billion as of December 31, 2023. The CRE 
+
+portfolio includes financings for both commercial construction and non-construction loans. This por tfolio contains loans, draws on lines, and letters of credit to commercial real estate developers for the construction and mini-perm anent financing of income-producing real estate. 
+
+The large st geographical concentr ations of CRE loan balances as of September 30, 2024 were in Florida (27%), Texas (12%), North Carolina (12%), Georgia (10%), Tennessee (9%), and Louisiana (8%). No other state represented more than 5% of the portfolio. 
+
+The following table represents subcategories of CRE loans by property type. 
+
+Table I.2.10 
+
+CRE PORTFOLIO BY PROPERTY TYPE 
+
+September 30, 2024 December 31, 2023 (Dollars in millions) Amount Percent Amount Percent Property Type: Multi-family $ 5,245 &#160; 36 &#160; % $ 4,409 31 % Office 2,738 &#160; 19 &#160; 2,782 20 Retail 2,244 &#160; 15 &#160; 2,310 16 Industrial 2,200 &#160; 15 &#160; 2,236 16 Hospitality 1,375 &#160; 9 &#160; 1,467 10 Land/land development 262 &#160; 2 &#160; 307 2 Other CRE (a) 641 &#160; 4 &#160; 705 5 Total CRE loan portfolio $ 14,705 &#160; 100 &#160; % $ 14,216 100 % 
+
+(a) Property types in this category each comprise less than 5%. 
+
+Consumer Loan Portfolios 
+
+Consumer Real Estate 
+
+The consumer real estate p ortfolio totaled $14.0 billion and $13.7 billion as of September 30, 2024 and December 31, 2023, respectively, and is primaril y composed of home equity lines and installment loans. The largest geographical co ncentrations of balances as of September 30, 2024 were in Florida (29%), Tennessee (22%), Texas (12%), Louisiana (8%), North Carolina (7%), Georgia (5%), and New York (5%). No other state represented more than 5% of the portfolio. 
+
+As of September 30, 2024, approximately 89% of the consumer real estate portfolio was in a first lien position. At origination, the weighted average FICO score of this portfolio was 759, and the refreshed FICO scores averaged 756 as of September 30, 2024, representing no change from FICO scores as of December 31, 2023. Generally, performance of this portfolio is affected by life events that affect borrowers&#8217; finances, the level of unemployment, and home prices. 
+
+As of September 30, 2024 and December 31, 2023, FHN had held-for-investment consumer mortgage loans secured by real estate that were in the process of foreclosure totaling $31 million and $29 million, respectively. 
+
+HELOCs compris ed $2.1 billion and $2.2 billion of the consumer real estate portfolio as of September 30, 2024 and December 31, 2023, respectively . FHN&#8217;s HELOCs typically have a 5 or 10 year draw period followed by a 10 or 20 year repayment period, respectively. During the draw period, a borrower is able to draw on the line and is only required to make interest payments. The line is frozen if a borrower becomes past due on payments. Once the draw period has ended, the line is closed and the borrower is required to make both principal and interest payments monthly until the loan matures. The principal payment generally is fully amortizing, but payment amounts will adjust when variable rates reset to reflect changes in the prime rate. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+As of September 30, 2024, approx imately 95% of FHN's HELOCs were in the draw period compared to 94% at December 31, 2023. It is expected that $583 million, or 29%, of HELOCs currently in the draw period will enter the repayment period during the next 60 months, based on current terms. Generally, d elinquencies for HELOCs that 
+
+have entered the repayment period are initially higher than HELOCs still in the draw period because of the increased minimum payment requirement. However, over time, performance of these loans usually begins to stabilize. HELOCs nearing the end of the draw perio d are closely monitored. 
+
+The following table presents HELOCs currently in the draw period, broken down by months remaining in the draw period. 
+
+Table I.2.11 
+
+HELOC DRAW TO REPAYMENT SCHEDULE 
+
+&#160; September 30, 2024 December 31, 2023 (Dollars in millions) Repayment Amount Percent Repayment Amount Percent Months remaining in draw period: 0-12 $ 71 &#160; 4 &#160; % $ 30 1 % 13-24 86 &#160; 4 &#160; 90 4 25-36 121 &#160; 6 &#160; 110 5 37-48 159 &#160; 8 &#160; 163 8 49-60 146 &#160; 7 &#160; 178 9 &#62;60 1,405 &#160; 71 &#160; 1,530 73 Total $ 1,988 &#160; 100 &#160; % $ 2,101 100 % 
+
+Credit Card and Other 
+
+The credit card and other consumer loan portfolio totaled $687 million as of September 30, 2024 and $793 million as of December 31, 2023. This portfolio primarily consists of consumer-related credits, including home equity and 
+
+other personal consumer loans, credit card receivables, and automobile loans. The $106 million decrease was primarily driven by net repayments in the overall portfolio. 
+
+Allowance for Credit Losses 
+
+The ACL is maintained at a level sufficient to provide appropriate reserves to absorb estimated future credit losses in accordance with GAAP . For additional information regarding the ACL, see Note 4 to the Consolidated Financial Statements in Part I, Item 1 of this report and &#8220;Critical Accounting Policies and Estimates&#8221; and Note 4 to the Consolidated Financial Statements in Part I, Item 8 of FHN's 2023 Form 10-K. 
+
+The ALLL increased to $823 million as of September 30, 2024 from $773 million as of December 31, 2023. The increase in the ALLL balance as of September 30, 2024 reflects downgrades and an evolving macroeconomic 
+
+outlook. The ALLL to total loans and leases ratio increased 6 basis points to 1.32% compared to 1.26% as of December 31, 2023. The ACL to total loans and leases ratio was 1.44% and 1.40% as of September 30, 2024 and December 31, 2023, respectively. The ACL to total loans and leases ratio increased modestly from 1.41% in second quarter 2024, driven by $8 million of qualitative reserves for Hurricane Helene and continued grade migration, partially offset by more favorable economic scenarios. 
+
+Consolidated Net Charge-offs 
+
+Net charge-offs in third quarter 2024 were $24 million, or an annualized 15 basis points of total loans and leases, compared to net charge-offs of $95 million, or 61 basis 
+
+points of total loans and leases, in third quarter 2023. Third quarter 2023 included a $72 million charge-off related to one client relationship in the C&#38;I portfolio. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.12 
+
+ANALYSIS OF ALLOWANCE FOR CREDIT LOSSES AND CHARGE-OFFS 
+
+(Dollars in millions) September 30, 2024 December 31, 2023 September 30, 2023 Allowance for loan and lease losses C&#38;I $ 352 &#160; $ 339 $ 335 CRE 218 &#160; 172 169 Consumer real estate 230 &#160; 233 228 Credit card and other 23 &#160; 29 28 Total allowance for loan and lease losses $ 823 &#160; $ 773 $ 760 Reserve for remaining unfunded commitments C&#38;I $ 55 &#160; $ 49 $ 49 CRE 8 &#160; 22 21 Consumer real estate 12 &#160; 12 12 Total reserve for remaining unfunded commitments $ 75 &#160; $ 83 $ 82 Allowance for credit losses C&#38;I $ 407 &#160; $ 388 $ 384 CRE 226 &#160; 194 190 Consumer real estate 242 &#160; 245 240 Credit card and other 23 &#160; 29 28 Total allowance for credit losses $ 898 &#160; $ 856 $ 842 Period-end loans and leases C&#38;I $ 33,092 &#160; $ 32,633 $ 33,163 CRE 14,705 &#160; 14,216 14,121 Consumer real estate 13,961 &#160; 13,650 13,685 Credit card and other 687 &#160; 793 809 Total period-end loans and leases $ 62,445 &#160; $ 61,292 $ 61,778 ALLL / loans and leases % C&#38;I 1.06 &#160; % 1.04 % 1.01 % CRE 1.48 &#160; 1.21 1.19 Consumer real estate 1.65 &#160; 1.71 1.67 Credit card and other 3.39 &#160; 3.63 3.48 Total ALLL / loans and leases % 1.32 &#160; % 1.26 % 1.23 % ACL / loans and leases % C&#38;I 1.23 &#160; % 1.19 % 1.16 % CRE 1.54 &#160; 1.36 1.35 Consumer real estate 1.73 &#160; 1.79 1.75 Credit card and other 3.39 &#160; 3.63 3.48 Total ACL / loans and leases % 1.44 &#160; % 1.40 % 1.36 % Quarter-to-date net charge-offs (recoveries) C&#38;I $ 8 &#160; $ 29 $ 86 CRE 14 &#160; 2 4 Consumer real estate (2) &#8212; (1) Credit card and other 4 &#160; 5 6 Total net charge-offs (recoveries) $ 24 &#160; $ 36 $ 95 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Average loans and leases C&#38;I $ 33,074 &#160; $ 32,520 $ 33,042 CRE 14,684 &#160; 14,211 13,999 Consumer real estate 13,935 &#160; 13,664 13,575 Credit card and other 720 &#160; 802 816 Total average loans and leases $ 62,413 &#160; $ 61,197 $ 61,432 Charge-off % (annualized) C&#38;I 0.10 &#160; % 0.36 % 1.04 % CRE 0.39 &#160; 0.06 0.12 Consumer real estate (0.05) &#8212; (0.05) Credit card and other 1.92 &#160; 2.36 2.77 Total charge-off % 0.15 &#160; % 0.23 % 0.61 % ALLL / annualized net charge-offs C&#38;I 1,090 &#160; % 292 % 98 % CRE 378 &#160; 2,201 978 Consumer real estate NM NM NM Credit card and other 169 &#160; 152 125 Total ALLL / net charge-offs 856 &#160; % 543 % 202 % 
+
+NM - not meaningful 
+
+Nonperforming Assets 
+
+Nonperforming loans are loans placed on nonaccrual if it becomes evident that full collection of principal and interest is at risk, if impairment has been recognized as a partial charge-off of principal balance due to insufficient collateral value and past due status, or (on a case-by-case basis) if FHN continues to receive payments but there are other borrower-specific issues. Included in nonaccrual are loans for which FHN continues to receive payments, including residential real estate loans where the borrower has been discharged of personal obligation through bankruptcy. NPAs consist of nonperforming loans and OREO (excluding OREO from government insured mortgages). 
+
+Total NPAs (including NPLs HFS) increased to $585 million as of September 30, 2024 from $469 million as of 
+
+December 31, 2023, largely driven by an increase in non-accrual CRE loans partially offset by a decline in nonaccrual consumer real estate loans. The increase in nonaccrual CRE loans was largely driven by multi-family and office property types. This portfolio continues to maintain strong underwriting and client selection. In addition, over 60% of the commercial nonaccrual loan balance was current on payments as of September 30, 2024. The vast majority of NPAs have individual impairment reviews with no specific reserve required. The nonperforming loans and leases ratio increased 17 basis points to 0.92% as of September 30, 2024, compared to 0.75% as of December 31, 2023. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.13 
+
+NONACCRUAL/NONPERFORMING LOANS, FORECLOSED ASSETS, &#38; OTHER DISCLOSURES 
+
+(Dollars in millions) Nonperforming loans and leases September 30, 2024 December 31, 2023 C&#38;I $ 190 &#160; $ 184 CRE 259 &#160; 136 Consumer real estate 128 &#160; 140 Credit card and other 1 &#160; 2 Total nonperforming loans and leases (a) $ 578 &#160; $ 462 Nonperforming loans held for sale (a) $ 3 &#160; $ 3 Foreclosed real estate and other assets (b) 4 &#160; 4 Total nonperforming assets (a) (b) $ 585 &#160; $ 469 Nonperforming loans and leases to total loans and leases C&#38;I 0.57 &#160; % 0.57 % CRE 1.76 &#160; 0.96 Consumer real estate 0.92 &#160; 1.02 Credit card and other 0.20 &#160; 0.30 Total NPL % 0.92 &#160; % 0.75 % ALLL / NPLs C&#38;I 185 &#160; % 184 % CRE 84 &#160; 126 Consumer real estate 180 &#160; 167 Credit card and other 1,672 &#160; 1,202 Total ALLL / NPLs 142 &#160; % 167 % 
+
+(a) Excludes loans and leases that are 90 or more days past due and still accruing interest. 
+
+(b) Excludes government-insured foreclosed real estate. There were no foreclosed real estate balances from GNMA loans at September 30, 2024 and December 31, 2023. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+The following table provides nonperforming assets by business segment: 
+
+Table I.2.14 
+
+NONPERFORMING ASSETS BY SEGMENT 
+
+(Dollars in millions) Nonperforming loans and leases (a) (b) September 30, 2024 December 31, 2023 Regional Banking $ 426 &#160; $ 323 Specialty Banking 132 &#160; 116 Corporate 20 &#160; 23 Consolidated $ 578 &#160; $ 462 Foreclosed real estate (c) Regional Banking $ 1 &#160; $ 1 Specialty Banking 2 &#160; 3 Corporate 1 &#160; &#8212; Consolidated $ 4 &#160; $ 4 Nonperforming Assets (a) (b) (c) Regional Banking $ 427 &#160; $ 324 Specialty Banking 134 &#160; 119 Corporate 21 &#160; 23 Consolidated $ 582 &#160; $ 466 Nonperforming loans and leases to loans and leases Regional Banking 1.04 &#160; % 0.74 % Specialty Banking 0.63 &#160; 0.68 Corporate 5.53 &#160; 4.87 Consolidated 0.92 &#160; % 0.75 % NPA % (d) Regional Banking 1.04 &#160; % 0.74 % Specialty Banking 0.64 &#160; 0.70 Corporate 5.71 &#160; 4.96 Consolidated 0.93 &#160; % 0.76 % 
+
+(a) Excludes loans and leases that are 90 or more days past due and still accruing interest. 
+
+(b) Excludes loans classified as held for sale. 
+
+(c) Excludes foreclosed real estate and receivables related to government-insured mortgages. There were no foreclosed real estate balances from GNMA loans at September 30, 2024 or December 31, 2023. 
+
+(d) Ratio is non-performing assets to total loans and leases plus foreclosed real estate. 
+
+Past Due Loans and Potential Problem Assets 
+
+Past due loans are loans co ntractually past due as to interest or principal payments but which have not yet been put on nonaccrual status. 
+
+Loans 90 days or more past due and still accruing were $17 million as of September 30, 2024, compared to $21 million as of December 31, 2023. Loans 30 to 89 days past 
+
+due and still accruing decreased to $76 million as of September 30, 2024, compared to $85 million as of December 31, 2023, driven by a decrease of $4 million in C&#38;I loans, a decrease of $3 million in CRE loans, and a decrease of $2 million in consumer loans. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.15 
+
+ACCRUING DELINQUENCIES &#38; OTHER CREDIT DISCLOSURES 
+
+(Dollars in millions) Accruing loans and leases 30+ days past due September 30, 2024 December 31, 2023 C&#38;I $ 29 &#160; $ 33 CRE 5 &#160; 8 Consumer real estate 52 &#160; 57 Credit card and other 7 &#160; 8 Total accruing loans and leases 30+ days past due $ 93 &#160; $ 106 Accruing loans and leases 30+ days past due % C&#38;I 0.09 &#160; % 0.10 % CRE 0.03 &#160; 0.06 Consumer real estate 0.38 &#160; 0.42 Credit card and other 1.00 &#160; 1.03 Total accruing loans and leases 30+ days past due % 0.15 &#160; % 0.17 % Accruing loans and leases 90+ days past due (a) (b) (c): C&#38;I $ 1 &#160; $ 1 Consumer real Estate 13 &#160; 17 Credit card and other 3 &#160; 3 Total accruing loans and leases 90+ days past due $ 17 &#160; $ 21 Loans held for sale 30 to 89 days past due $ 8 &#160; $ 12 30 to 89 days past due - guaranteed portion (d) 7 &#160; 8 90+ days past due 12 &#160; 9 90+ days past due - guaranteed portion (d) 7 &#160; 4 
+
+(a) Excludes loans classified as held for sale. 
+
+(b) Amounts are not included in nonperforming/nonaccrual loans. 
+
+(c) Amounts are also included in accruing loans and leases 30+ days past due. 
+
+(d) Guaranteed loans include FHA, VA, and GNMA loans repurchased through the GNMA buyout program. 
+
+Potential problem assets represent those assets where information about possible credit problems of borrowers has caused management to have serious doubts about the borrower&#8217;s ability to comply with present repayment terms. This definition is believed to be substantially consistent with the standards established by Federal banking regulators for loans classified as substandard. Potential problem assets in the loan portfolio increased to 
+
+$1.7 billion as of September 30, 2024 compared to $666 million as of December 31, 2023, reflecting an increase in commercial loans. This increase was largely attributable to grade migration in the multi-family and office portfolios. The current expectation of losses from potential problem assets has been included in management&#8217;s analysis for assessing the adequ acy of the allowance for loan and lease losses. 
+
+Modifications to Borrowers Experiencing Financial Difficulty 
+
+As part of FHN&#8217;s ongoing risk management practices, FHN attempts to work with borrowers when appropriate to extend or modify loan terms to better align with their current ability to repay. Modifications to loans are made in accordance with internal policies and guidelines which conform to regulatory guidance. Each occurrence is 
+
+unique to the borrower and is evaluated separately. See Note 1 - Basis of Presentation and Accounting Policies, Note 3 - Loans and Leases, and Note 4 - Allowance for Credit Losses to the Consolidated Financial Statements in Part I, Item 1 of this Report for further discussion regarding troubled loan modifications. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Commercial Loan Modifications 
+
+As part of FHN&#8217;s credit risk management governance processes, the Loan Rehab and Recovery Department (LRRD) is responsible for managing most commercial relationships with borrowers whose financial condition has deteriorated to such an extent that the credits are individually reviewed for expected credit losses, classified as substandard or worse, placed on nonaccrual status, foreclosed or in process of foreclosure, or in active or contemplated litigation. LRRD has the authority and responsibility to enter into workout and/or rehabilitation agreements with troubled commercial borrowers in order to mitigate and/or minimize the amount of credit losses recognized from these problem assets. While every circumstance is different, LRRD will generally use forbearance agreements (generally 6-12 months) as an element of commercial loan workouts, which might include reduced interest rates, reduced payments, release of guarantor, term extensions or entering into short sale agreements. Principal forgiveness may be granted in specific workout circumstances. 
+
+The individual expected credit loss assessments completed on commercial loans are used in evaluating the appropriateness of qualitative adjustments to quantitatively modeled loss expectations for loans that are not considered collateral dependent. If a loan is collateral dependent, the carrying amount of a loan is written down to the net realizable value of the collateral. Each assessment considers any modified terms and is comprehensive to ensure appropriate assessment of expected credit losses. 
+
+Consumer Loan Modifications 
+
+FHN does not currently participate in any of the loan modification programs sponsored by the U.S. government but does generally structure modified consumer loans using the parameters of the former Home Affordable Modification Program. 
+
+Within the HELOC and real estate installment loans classes of the consumer portfolio segment, troubled loans are typically modified by reducing the interest rate (in increments of 25 basis points to a minimum of 1% for up to 5 years) and a possible maturity date extension to reach an affordable housing debt-to-income ratio. After 5 years, the interest rate generally returns to the original interest rate prior to modification; for certain modifications, the modified interest rate increases 2% per year until the original interest rate prior to modification is achieved. 
+
+Permanent mortgage troubled loans are typically modified by reducing the interest rate (in increments of 25 basis points to a minimum of 2% for up to 5 years) and a possible maturity date extension to reach an affordable housing debt-to-income ratio. After 5 years, the interest rate steps up 1% every year until it reaches the Federal Home Loan Mortgage Corporation Weekly Survey Rate cap. Contractual maturities may be extended to 40 years on permanent mortgages and to 30 years for consumer real estate loans. 
+
+Within the credit card class of the consumer portfolio segment, troubled loans are typically modified through either a short-term credit card hardship program or a longer-term credit card workout program. In the credit card hardship program, borrowers may be granted rate and payment reductions for 6 months to 1 year. In the credit card workout program, clients are granted a rate reduction to 0% and term extensions for up to 5 years to pay off the remaining balance. 
+
+Consumer loans may also be modified through court-imposed principal reductions in bankruptcy proceedings, which FHN is required to honor unless a borrower reaffirms the related debt. 
+
+Investment Securities 
+
+FHN&#8217;s investment securities portfolio consists principally of debt securities available for sale. FHN maintains a securities portfolio consisting primarily of bank-eligible GSE and GNMA issued mortgage-backed securities and collateralized mortgage obligations . T he securities portfolio provides a source of income and liquidity and is an important tool used to balance the interest rate risk of the loan and deposit portfolios. The securities portfolio is periodically evaluated in light of established ALM objectives, changing market conditions that could affect the profitability of the portfolio, the regulatory environment, and the level of interest rate risk to which FHN is exposed. These evaluations may result in steps taken to adjust the overall balance sheet positioning. 
+
+Investment securities were $9.5 billion and $9.7 billion on September 30, 2024 and December 31, 2023, respectively, representing 12% of total assets for both periods. For more information about the securities portfolio, see Note 2 - Investment Securities to the Consolidated Financial Statements in Part I, Item 1 of this report. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Deposits 
+
+Total deposits of $66.6 billion as of September 30, 2024 increased $795 million, or 1%, compared to December 31, 2023. Interest-bearing deposits increased $1.8 billion and noninterest-bearing deposits decreased $992 million. 
+
+FHN continues to maintain a well-diversified and stable funding mix across its footprint and specialty lines of business. At September 30, 2024, commercial deposits were $37.3 billion, or 56% of total deposits, and consumer deposits were $29.3 billion, or 44% of total deposits. At December 31, 2023, commercial deposits were $35.9 billion, or 55% of total deposits, and consumer deposits were $29.9 billion, or 45% of total deposits. 
+
+At September 30, 2024, 37% of deposits were associated with Tennessee, 18% with Florida, 13% with North Carolina, and 12% with Louisiana, with no other state above 10%. This mix remained relatively consistent with December 31, 2023. 
+
+Total estimated uninsured deposits were $26.3 billion as of September 30, 2024 and $26.8 billion as of December 31, 2023, representing 39% and 41% of total deposits, respectively. Of the uninsured deposits at September 30, 2024, $4.2 billion, or 6% of total deposits, were collateralized. At December 31, 2023, collateralized deposits were $5.3 billion, or 8% of total deposits. 
+
+See Tables I.2.2 and I.2.3 - Average Balances, Net Interest Income and Yields/Rates in this Report for information on average deposits including average rates paid. 
+
+Th e following table summarizes the major components of deposits as of September 30, 2024 and December 31, 2023. 
+
+Table I.2.16 
+
+DEPOSITS 
+
+&#160; September 30, 2024 December 31, 2023 &#160; (Dollars in millions) Amount Percent of total Amount Percent of total Change Percent Savings $ 26,634 &#160; 40 &#160; % $ 25,082 38 % $ 1,552 6 % Time deposits 8,326 &#160; 13 &#160; 6,804 10 1,522 22 Other interest-bearing deposits 15,403 &#160; 23 &#160; 16,690 26 (1,287) (8) Total interest-bearing deposits 50,363 &#160; 76 &#160; 48,576 74 1,787 4 Noninterest-bearing deposits 16,212 &#160; 24 &#160; 17,204 26 (992) (6) Total deposits $ 66,575 &#160; 100 &#160; % $ 65,780 100 % $ 795 1 % 
+
+Short-Term Borrowings 
+
+Short-term borrowings include federal funds purchased, securities sold under agreements to repurchase, trading liabilities, and other short-term borrowings. Total short-term borrow ings increased to $3.4 billion as of September 30, 2024 compared to $3.1 billion as of December 31, 2023. FHLB borrowings increased $400 million and trading liabilities increased $258 million while securities sold under agreements to repurchase decreased $310 million. 
+
+Short-term borrowings balances fluctuate largely based on the level of FHLB borrowing as a result of loan demand, deposit levels and balance sheet funding strategies. 
+
+Trading liabilities fluctuate based on various factors, including levels of trading securities and hedging strategies. Federal funds purchased fluctuates depending on the amount of excess funding of FHN&#8217;s correspondent bank customers. Balances of securities sold under agreements to repurchase fluctuate based on cost attractiveness relative to FHLB borrowing levels and the ability to pledge securities toward such transactions. 
+
+Term Borrowings 
+
+Term borrowings include senior and subordinated borrowings with original maturities greater than one year. Total term borrowings were $1.2 billion as of both September 30, 2024 and December 31, 2023. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Capital 
+
+Management&#8217;s objectives are to provide capital sufficient to cover the risks inherent in FHN&#8217;s businesses, to maintain excess capital to we ll-capitalized standards, and to ensure ready acc ess to the capital markets. 
+
+Total equity was $9.3 billion at both September 30, 2024 and December 31, 2023. Significant changes included net income of $624 million and an increase of $199 million in AOCI, offset by $462 million in common stock repurchases, $270 million in common and preferred 
+
+dividends, and $100 million from the Series D Preferred Stock redemption. 
+
+The following tables provide a reconciliation of shareholders&#8217; equity from the Consolidated Balance Sheets to Common Equity Tier 1, Tier 1 and Total Regulatory Capital as well as certain selected capital ratios: 
+
+Table I.2.17 
+
+REGULATORY CAPITAL DATA 
+
+(Dollars in millions) September 30, 2024 December 31, 2023 Shareholders&#8217; equity $ 9,021 &#160; $ 8,996 Modified CECL transitional amount (a) 28 &#160; 57 FHN non-cumulative perpetual preferred stock (426) (520) Common equity tier 1 before regulatory adjustments $ 8,623 &#160; $ 8,533 Regulatory adjustments: Disallowed goodwill and other intangibles (1,588) (1,617) Net unrealized (gains) losses on securities available for sale 669 &#160; 836 Net unrealized (gains) losses on pension and other postretirement plans 266 &#160; 273 Net unrealized (gains) losses on cash flow hedges 54 &#160; 79 Common equity tier 1 $ 8,024 &#160; $ 8,104 FHN non-cumulative perpetual preferred stock 426 &#160; 426 Qualifying noncontrolling interest&#8212; First Horizon Bank preferred stock 295 &#160; 295 Tier 1 capital $ 8,745 &#160; $ 8,825 Tier 2 capital 1,176 &#160; 1,097 Total regulatory capital $ 9,921 &#160; $ 9,922 Risk-Weighted Assets First Horizon Corporation $ 71,463 &#160; $ 71,074 First Horizon Bank 70,730 &#160; 70,635 Average Assets for Leverage First Horizon Corporation 82,138 &#160; 82,540 First Horizon Bank 81,302 &#160; 81,898 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.18 
+
+REGULATORY RATIOS &#38; AMOUNTS 
+
+&#160; September 30, 2024 December 31, 2023 &#160; Ratio Amount Ratio Amount Common Equity Tier 1 First Horizon Corporation 11.23 &#160; % $ 8,024 &#160; 11.40 % $ 8,104 First Horizon Bank 11.23 &#160; 7,943 &#160; 11.40 8,055 Tier 1 First Horizon Corporation 12.24 &#160; 8,745 &#160; 12.42 8,825 First Horizon Bank 11.65 &#160; 8,238 &#160; 11.82 8,350 Total First Horizon Corporation 13.88 &#160; 9,921 &#160; 13.96 9,922 First Horizon Bank 13.10 &#160; 9,268 &#160; 13.17 9,303 Tier 1 Leverage First Horizon Corporation 10.65 &#160; 8,745 &#160; 10.69 8,825 First Horizon Bank 10.13 &#160; 8,238 &#160; 10.20 8,350 Other Capital Ratios Total period-end equity to period-end assets 11.27 &#160; 11.38 Tangible common equity to tangible assets (b) 8.56 &#160; 8.48 Adjusted tangible common equity to risk-weighted assets (b) 10.63 &#160; 10.72 
+
+(a) The modified CECL transitional amount includes the impact to retained earnings from the initial adoption of CECL plus 25% of the change in the adjusted allowance for credit losses since FHN&#8217;s initial adoption of CECL through December 31, 2021. For September 30, 2024 and December 31, 2023, 25% and 50%, respectively, of the full amount is phased out and not included in Common Equity Tier 1 capital. 
+
+(b) Tangible common equity to tangible assets and adjusted tangible common equity to risk-weighted assets are non-GAAP measures and are reconciled to total equity to total assets (GAAP) in the Non-GAAP to GAAP Reconciliation - Table I.2.26. 
+
+Banking regulators define minimum capital ratios for bank holding companies and their bank subsidiaries. Based on the capital rules and definitions prescribed by the banking regulators, should any depository institution&#8217;s capital ratios decline below predetermined levels, it would become subject to a series of increasingly restrictive regulatory actions. 
+
+The system categorizes a depository institution&#8217;s capital position into one of five categories ranging from well-capitalized to critically under-capitalized. For an institution the size of FHN to qualify as well-capitalized, Common Equity Tier 1, Tier 1 Capital, Total Capital, and Leverage capital ratios must be at least 6.50%, 8.00%, 10.00%, and 5.00%, respectively. Furthermore, a capital conservation buffer of 50 basis points above these levels must be maintained on the Common Equity Tier 1, Tier 1 Capital and Total Capital ratios to avoid restrictions on dividends, share repurchases and certain discretionary bonuses. 
+
+As of September 30, 2024, both FHN and First Horizon Bank had sufficien t capital to qualify as well-capitalized instituti ons and to meet the capital conservation buffer 
+
+requirement. Capital ratios for both FHN and First Horizon Bank are calculated under the final rule issued by the banking regulators in 2020 to delay the effects of CECL on regulatory capital for two years, followed by a three-year transition period. 
+
+For both FHN and First Horizon Bank, the risk-based regulatory capital ratios decreased at the end of third quarter 2024 relative to year-end 2023 primarily from the impact of common share repurchases and an increase in risk-weighted assets. The Tier 1 Leverage ratio for FHN and First Horizon Bank decreased from year-end 2023 largely as a result of common share repurchases. The Series D Preferred Stock redemption in second quarter 2024 did not impact FHN's regulatory capital ratios as it did not qualify as Tier 1 capital because the earliest redemption date was less than five years from the issuance date. 
+
+For the remainder of 2024 and in 2025, capital ratios are expected to remain above well-capitalized standards plus the required capital conservation buffer. 
+
+Common Stock Purchases 
+
+FHN may purchase shares of its common stock from time to time, subject to legal and regulatory restrictions. FHN's Board has authorized the common stock purchase program described below. FHN&#8217;s Board has not authorized a preferred stock purchase program. 
+
+January 2024 General Purchase Program 
+
+On January 23, 2024, FHN announced that its Board of Directors had approved a $650 million common share purchase program that was scheduled to expire on January 31, 2025. Purchases could be made in the open market or through privately negotiated transactions, 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+including under Rule 10b5-1 plans as well as accelerated share repurchase and other structured transactions. The timing and exact amount of common share repurchases were at the discretion of senior management and were subject to various factors, including FHN's capital position, financial performance, expected capital impacts of strategic initiatives, market conditions, business conditions, and regulatory considerations. Absent a Rule 10b5-1 plan, FHN did not intend to purchase shares under this program during blackout periods when senior 
+
+executives were prohibited from purchasing FHN stock on the open market. 
+
+As of September 30, 2024, $441 million in purchases had been made life-to-date under the 2024 program at an average price per share of $15.03, or $15.01 excluding commissions. Program purchases made during the quarter ended September 30, 2024 are summarized in the following table. 
+
+Table I.2.19 
+
+COMMON STOCK PURCHASES&#8212;JANUARY 2024 PROGRAM 
+
+(Dollar values and volume in thousands, except per share data) Total number of shares purchased Average price paid per share (a) Total number of shares purchased as part of publicly announced programs Maximum approximate dollar value that may yet be purchased under the programs 2024 July 1 to July 31 990 $ 16.64 990 $ 267,264 August 1 to August 31 3,245 15.56 3,245 216,781 September 1 to September 30 501 15.69 501 208,921 Total 4,736 &#160; $ 15.80 &#160; 4,736 &#160; 
+
+(a) Represents total costs including commissions paid. Average price paid does not reflect the one percent excise tax charged on public company share repurchases. 
+
+October 2024 General Purchase Program 
+
+On October 29, 2024, FHN announced that its Board of Directors had approved a new $1.0 billion common share purchase program to replace the January 2024 program discussed above. The new October program is scheduled to expire on January 31, 2026. The January 2024 program discussed above was terminated effective the close of business on October 29, 2024. Purchases under the new program may be made in the open market or through privately negotiated transactions, including under Rule 10b5-1 plans as well as accelerated share repurchase and other structured transactions. The timing and exact amount of common share repurchases are at the discretion of senior management and are subject to various factors, including FHN's capital position, financial performance, expected capital impacts of strategic initiatives, market conditions, business conditions, and 
+
+regulatory considerations. Absent a Rule 10b5-1 plan, FHN does not purchase shares under this program during blackout periods when senior executives are prohibited from purchasing FHN stock on the open market. 
+
+Stock Award Purchases 
+
+As authorized by the Board's Compensation Committee, FHN makes automatic stock purchases by withholding stock-based award shares to cover tax obligations associated with those awards. Those limited, off-market purchases are not associated with an announced purchase program and are made any time an associated tax obligation arises, whether or not a blackout period is in effect. Tax withholding purchases made during the quarter ended September 30, 2024 are summarized in the following table. 
+
+Table I.2.20 
+
+COMMON STOCK PURCHASES&#8212;TAX WITHHOLDING FOR STOCK AWARDS 
+
+(Dollar values and volume in thousands, except per share data) Total number of shares purchased Average price paid per share Total number of shares purchased as part of publicly announced programs Maximum number of shares that may yet be purchased under the programs 2024 July 1 to July 31 0.1 $ 15.77 N/A N/A August 1 to August 31 3.4 14.75 N/A N/A September 1 to September 30 3.2 15.73 N/A N/A Total 6.7 &#160; $ 15.23 &#160; N/A 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Risk Management 
+
+There have been no significant changes to FHN&#8217;s risk management practices as described under &#8220;Risk Management&#8221; included in Item 7 of FHN&#8217;s 2023 Annual Report on Form 10-K. 
+
+Market Risk Management 
+
+Value-at-Risk and Stress Testing 
+
+VaR is a statistical risk measure used to estimate the potential loss in value from adverse market movements over an assumed fixed holding period within a stated confidence level. FHN employs a model to compute daily VaR measures for its trading securities inventory. FHN computes VaR using historical simulation with a 1-year 
+
+lookback period at a 99% confidence level with 1-day and 10-day time horizons. Additionally, FHN computes a Stressed VaR measure. The SVaR computation uses the same model but with model inputs reflecting historical data from a continuous 12-month period that reflects a period of significant financial stress appropriate for our trading securities portfolio. 
+
+A summary of FHN&#8217;s VaR and SVaR measures for 1-day and 10-day time horizons is presented in the following table: 
+
+Table I.2.21 
+
+VaR &#38; SVaR MEASURES 
+
+&#160; Three Months Ended September 30, 2024 Nine Months Ended September 30, 2024 As of September 30, 2024 (Dollars in millions) Mean High Low Mean High Low &#160; 1-day VaR $ 3 &#160; $ 4 &#160; $ 2 &#160; $ 3 &#160; $ 4 &#160; $ 2 &#160; $ 3 &#160; SVaR 8 &#160; 9 &#160; 7 &#160; 7 &#160; 9 &#160; 4 &#160; 8 &#160; 10-day VaR 10 &#160; 12 &#160; 7 &#160; 9 &#160; 12 &#160; 6 &#160; 8 &#160; SVaR 36 &#160; 43 &#160; 28 &#160; 32 &#160; 43 &#160; 21 &#160; 41 &#160; &#160; Three Months Ended September 30, 2023 Nine Months Ended September 30, 2023 As of September 30, 2023 (Dollars in millions) Mean High Low Mean High Low &#160; 1-day VaR $ 3 $ 3 $ 2 $ 3 $ 4 $ 2 $ 2 SVaR 7 7 6 6 7 3 7 10-day VaR 7 8 4 8 11 4 5 SVaR 24 29 19 23 30 12 27 
+
+&#160; Year Ended December 31, 2023 As of December 31, 2023 (Dollars in millions) Mean High Low &#160; 1-day VaR $ 3 $ 4 $ 2 $ 3 SVaR 6 8 3 6 10-day VaR 8 11 4 10 SVaR 24 34 12 28 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+FHN&#8217;s overall VaR measure includes both interest rate risk and credit spread risk. Separate measures of these component risks are as follows: 
+
+Table I.2.22 
+
+SCHEDULE OF RISKS INCLUDED IN VaR 
+
+&#160; As of September 30, 2024 As of September 30, 2023 As of December 31, 2023 (Dollars in millions) 1-day 10-day 1-day 10-day 1-day 10-day Interest rate risk $ 1 &#160; $ 2 &#160; $ &#8212; $ 1 $ 1 $ 2 Credit spread risk 1 &#160; 1 &#160; 2 3 1 1 
+
+The potential risk of loss reflected by FHN&#8217;s VaR measures assumes the trading securities inventory is static. Because FHN Financial procures fixed income securities for purposes of distribution to clients, its trading securities inventory turns over regularly. Additionally, FHNF traders actively manage the trading securities inventory continuously throughout each trading day. Accordingly, FHNF&#8217;s trading securities inventory is highly dynamic, rather than static. As a result, it would be rare for FHNF to incur a negative revenue day in its fixed income activities at the levels indicated by its VaR measures. 
+
+In addition to being used in FHN&#8217;s daily market risk management process, the VaR and SVaR measures are also used by FHN in computing its regulatory market risk capital requirements in accordance with the Market Risk Capital rules. For additional information regarding FHN's capital adequacy refer to the Capital section of this MD&#38;A. 
+
+FHN also performs stress tests on its trading securities portfolio to calculate the potential loss under various assumed market scenarios. Key assumed stresses used in those tests are: 
+
+Down 25 bps - assumes an instantaneous downward move in interest rates of 25 basis points at all points on the interest rate yield curve. 
+
+Up 25 bps - assumes an instantaneous upward move in interest rates of 25 basis points at all points on the interest rate yield curve. 
+
+Curve flattening - assumes an instantaneous flattening of the interest rate yield curve through an increase in short-term rates and a decrease in long-term rates. The 
+
+2-year point on the Treasury yield curve is assumed to increase 15 basis points and the 10-year point on the Treasury yield curve is assumed to decrease 15 basis points. Shifts in other points on the yield curve are predicted based on their correlation to the 2-year and 10-year points. 
+
+Curve steepening - assumes an instantaneous steepening of the interest rate yield curve through a decrease in short-term rates and an increase in long-term rates. The 2-year point on the Treasury yield curve is assumed to decrease 15 basis points and the 10-year point on the Treasury yield curve is assumed to increase 15 basis points. Shifts in other points on the yield curve are predicted based on their correlation to the 2-year and 10-year points. 
+
+Credit spread widening - assumes an instantaneous increase in credit spreads (the difference between yields on Treasury securities and non-Treasury securities) of 25 basis points. 
+
+Model Validation 
+
+Trading risk management personnel within FHN have primary responsibility for model risk management with respect to the model used by FHN to compute its VaR measures and perform stress testing on the trading inventory. Among other procedures, these personnel monitor model results and perform periodic backtesting as part of an ongoing process of validating the accuracy of the model. These model risk management activities are subject to annual review by FHN&#8217;s Model Validation Group, an independent assurance group charged with oversight responsibility for FHN&#8217;s model risk management. 
+
+Interest Rate Risk Management 
+
+Net Interest Income Simulation Analysis 
+
+The information provided in this section, including the discussion regarding the outcomes of simulation analysis and rate shock analysis, is forward-looking. Actual results, if the assumed scenarios were to occur, could differ because of interest rate movements, the ability of management to execute its business plans, and other factors, including those presented in the Forward-Looking Statements section of this Report. 
+
+Management uses a simulation model to measure interest rate risk and to formulate strategies to improve balance sheet positioning, earnings, or both, within FHN&#8217;s interest rate risk, liquidity, and capital guidelines. Interest rate exposure is measured by forecasting 12 months of NII under various interest rate scenarios and comparing the percentage change in NII for each scenario to a base case scenario where interest rates remain unchanged. Assumptions are made regarding future balance sheet composition, interest rate movements, and loan and 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+deposit pricing. In addition, assumptions are made about the magnitude of asset prepayments and earlier than anticipated deposit withdrawals. The results of these scenarios help FHN develop strategies for managing exposure to interest rate risk. While management believes the assumptions used and scenarios selected in its simulations are reasonable, simulation modeling provides only an estimate, not a precise calculation, of exposure to any given change in interest rates. 
+
+Based on a static balance sheet as of September 30, 2024, NII expo sures over the next 12 months, assuming rate shocks of plus/minus 25 basis points, plus/minus 50 basis points, plus/minus 100 basis points, and plus/minus 200 basis points are estimated to have variances as shown in the table below. 
+
+Table I.2.23 
+
+INTEREST RATE SENSITIVITY 
+
+Shifts in Interest Rates (in bps) % Change in Projected Net Interest Income -200 (5.9)% -100 (2.6)% -50 (1.3)% -25 (0.6)% +25 0.5% +50 1.0% +100 2.0% +200 3.4% 
+
+A steepening yield curve scenario, where long-term rates increase by 50 basis points and short-term rates are static, results in a favorable NII variance of 0.3%. A flattening yield curve scenario, where long-term rates decrease by 50 basis points and short-term rates are static, results in an unfavorable NII variance of 0.4%. These hypothetical scenarios are used to create a risk measurement framework, and do not necessarily represent management&#8217;s current view of future interest rates or market developments. 
+
+Short-term interest rates had reached their highest levels in 15 years prior to September 2024's 50 basis point rate cut. Coupled with market disruption from recent high profile bank failures, this high interest rate environment has increased competitive pressures on deposit costs. 
+
+The yield curve was inverted for much of the last half of 2022, throughout 2023, and during the first eight months of 2024 before flattening in September 2024. An inverted yield curve indicates market expectations that short-term rates have likely peaked and then could decline in future periods. Following the 50 basis point rate cut in September 2024 and a 25 basis point cut in November, market participants are now projecting zero or one further 25 basis point rate cut in 2024 with an additional two to four cuts projected in 2025. FHN continues to monitor current economic trends and potential exposures closely. For additional information, see Yield Curve within Market Uncertainties and Prospective Trends below. 
+
+Liquidity Risk Management 
+
+Among other things, ALCO is responsible for liquidity management: the funding of assets with liabilities of appropriate duration, while mitigating the risk of unexpected cash needs. ALCO and the Board of Directors have adopted a Liquidity Policy of which the objective is to ensure that FHN meets its cash and collateral obligations promptly, in a cost-effective manner and with the highest degree of reliability. The maintenance of adequate levels of asset and liability liquidity should provide FHN with the ability to meet both expected and unexpected cash and collateral needs. Key liquidity ratios, asset liquidity levels, and the amount available from funding sources are reported to ALCO on a regular basis. FHN&#8217;s Liquidity Policy establishes liquidity limits that are deemed appropriate for FHN&#8217;s risk profile. 
+
+In accordance with the Liquidity Policy, ALCO manages FHN&#8217;s exposure to liquidity risk through forecasts of its 
+
+liquidity position and funding needs. Base liquidity forecasts are reviewed by ALCO and are updated as financial conditions dictate. In addition to the baseline liquidity reports, robust stress testing of assumptions and funds availability are periodically reviewed. FHN maintains a contingency funding plan that may be executed should unexpected difficulties arise in accessing funding that affects FHN, the industry, or both. As of September 30, 2024, available liquidity sources included cash, incremental borrowing capacity at the FHLB, access to Federal Reserve Bank borrowings through the discount window, and unencumbered securities. Additional sources of liquidity included dealer and commercial customer repurchase agreements, access to the overnight and term Federal Funds markets, brokered deposits, loan sales, and syndications. The table below details FHN's sources of available liquidity at September 30, 2024. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Table I.2.24 
+
+AVAILABLE LIQUIDITY 
+
+as of September 30, 2024 
+
+(Dollars in millions) Total Capacity Outstanding Borrowings Available Liquidity Cash on deposit with FRB (a) $ 1,194 $ &#8212; $ 1,194 FHLB 8,913 400 8,513 Discount Window 23,911 &#8212; 23,911 Unencumbered securities (b) 1,019 &#8212; 1,019 Total Available Liquidity $ 34,637 
+
+(a) Included in interest-bearing deposits with banks on the Consolidated Balance Sheets. 
+
+(b) Subject to market haircuts on collateral. 
+
+Generally, a primary source of funding for a bank is core deposits from the bank's client base. The period-end loans-to-deposits ratio was 94% as of September 30, 2024 and 93% as of December 31, 2023. 
+
+FHN may also use unsecured short-term borrowings as a source of liquidity. Federal funds purchased from correspondent bank clients are considered to be substantially more stable than funds purchased in the national broker markets for federal funds due to the long, historical, and reciprocal nature of banking services provided by FHN to these correspondent banks. The remainder of FHN&#8217;s wholesale short-term borrowings consists of securities sold under agreements to repurchase transactions accounted for as secured borrowings with business clients or broker dealer counterparties. 
+
+Both FHN and First Horizon Bank have the ability to generate liquidity by issuing senior or subordinated unsecured debt, preferred equity, and common equity, subject to market conditions and compliance with applicable regulatory requirements. As of September 30, 2024 , FHN had outstanding $798 million in senior and subordinated unsecured debt and $426 million in non-cumulative perpetual preferred stock. FHN redeemed all outstanding shares of its Series D Non-Cumulative Perpetual Preferred Stock during second quarter 2024. As of September 30, 2024, First Horizon Bank and subsidiaries had outstanding preferred shares of $295 million, which are reflected as noncontrolling interest on the Consolidated Balance Sheets. 
+
+Parent company liquidity is primarily provided by cash flows stemming from dividends and interest payments collected from subsidiaries. These sources of cash represent the primary sources of funds to pay cash dividends to shareholders and principal and interest to debt holders of FHN. Applying the dividend restrictions imposed under applicable federal and state rules, the Bank&#8217;s total amount available for dividends was $1.0 billion as of October 1, 2024. 
+
+First Horizon Bank declared and paid common dividends to the parent company in the amount of $310 million in first quarter 2024, $150 million in second quarter 2024, $350 million in third quarter 2024, and $300 million in fourth quarter 2024. Total common dividends of $220 million were declared and paid to the parent company in 2023. First Horizon Bank declared and paid preferred dividends in the first three quarters of 2024 and in 2023. Additionally, First Horizon Bank declared preferred dividends in fourth quarter 2024, payable in January 2025. 
+
+Payment of a dividend to shareholders of FHN is dependent on several factors which are considered by the Board. These factors include FHN&#8217;s current and prospective capital, liquidity, and other needs, applicable regulatory restrictions (including capital conservation buffer requirements) and availability of funds to FHN through a dividend from First Horizon Bank. Additionally, banking regulators generally require insured banks and bank holding companies to pay cash dividends only out of current operating earnings. Consequently, the decision of whether FHN will pay future dividends and the amount of dividends will be affected by current operating results. 
+
+FHN paid a cash dividend of $0.15 per common share on October 1, 2024. FHN paid cash dividends of $1,625 per Series E preferred share and $1,175 per Series F preferred share on October 10, 2024 and $165 per Series C preferred share on November 1, 2024. In addition, in October 2024, the Board approved cash dividends per share in the following amounts: 
+
+Table I.2.25 
+
+CASH DIVIDENDS 
+
+APPROVED BUT NOT PAID 
+
+Dividend/Share Record Date Payment Date Common Stock $ 0.15 12/13/2024 01/02/2025 Preferred Stock Series B $ 331.25 01/17/2025 02/03/2025 Series C $ 165.00 01/17/2025 02/03/2025 Series E $ 1,625.00 12/26/2024 01/10/2025 Series F $ 1,175.00 12/26/2024 01/10/2025 
+
+Off-Balance Sheet Arrangements 
+
+In the normal course of business, FHN is a party to a number of activities that contain credit, market and operational risk that are not reflected in whole or in part in the consolidated financial statements. Such activities include traditional off-balance sheet credit-related financial instruments. FHN enters into commitments to extend credit to borrowers, including loan commitments, lines of credit, standby letters of credit, and commercial letters of credit. Many of the commitments are expected to expire unused or be only partially used; therefore, the total amount of commitments does not necessarily represent future cash requirements. Based on its available 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+liquidity and available borrowing capacity, FHN anticipates it will continue to have sufficient funds to meet its current commitments. 
+
+Repurchase Obligations 
+
+Prior to September 2008, legacy First Horizon originated loans through its pre-2009 mort gage business, primarily first lien home loans, with the intention of selling them. FHN's principal remaining exposures for those activities relate to (i) indemnification claims by underwriters, loan purchasers, and other parties which assert that FHN-originated loans caused or contributed to losses which FHN is legally obliged to indemnify, and (ii) indemnification or other claims related to FHN's servicing of pre-2009 mortgage loans. 
+
+FHN&#8217;s approach for determining the adequacy of the repurchase and foreclosure reserve has evolved, sometimes substantially, based on changes in information available. Repurchase/make-whole rates vary based on purchaser, vintage, and claim type. For those loans repurchased or covered by a make-whole payment, cumulative average loss severities range between 50 and 60 percent of the UPB. 
+
+Repurchase Accrual Approach 
+
+In determining potential loss content, claims are analyzed by purchaser, vintage, and claim type. FHN considers various inputs including claim rate estimates, historical average repurchase and loss severity rates, mortgage insurance cancellations, and mortgage insurance curtailment requests. Inputs are applied to claims in the 
+
+active pipeline, as well as to historical average inflows to estimate loss content related to potential future inflows. Management also evaluates the nature of claims from purchasers and/or servicers of loans sold to determine if qualitative adjustments are appropriate. 
+
+Repurchase and Foreclosure Liability 
+
+As discussed in Note 10 - Contingencies and Other Disclosures to the Consolidated Financial Statements in Part I, Item 1 of this report, FHN&#8217;s repurchase and foreclosure liability, primarily related to its pre-2009 mortgage origination, sale, securitization, and servicing businesses, is comprised of accruals to cover estimated loss content in the active pipeline, estimated future inflows, and estimated loss content related to certain known claims not currently included in the active pipeline. The active pipeline consists of mortgage loan repurchase and make-whole demands from loan purchasers or securitization participants, foreclosure/servicing demands from borrowers, and certain related exposures. The liability contemplates repurchase/make-whole and damages obligations and estimates for probable incurred 
+
+losses associated with loan populations excluded from the settlements with the GSEs, as well as other whole loans sold, mortgage insurance cancellation rescissions, and loans included in bulk servicing sales effected prior to the settlements with the GSEs. FHN compares the estimated probable incurred losses determined under the applicable loss estimation approaches for the respective periods with current reserve levels. Changes in the estimated required liability levels are recorded as necessary through the repurchase and foreclosure provision. The total repurchase and foreclosure liability, which includes both the legacy pre-2009 business and the current mortgage business, was $15 million and $16 million as of September 30, 2024 and December 31, 2023, respectively . 
+
+Market Uncertainties and Prospective Trends 
+
+FHN&#8217;s future results could be affected both positively and negatively by several known trends. Key among those are changes in the U.S. and global economy and outlook, government actions affecting interest rates, and government actions and proposals which could have positive or negative impacts on the economy at large or on certain businesses, industries, or sectors. Additional risks relate to political uncertainty, changes in federal policies (including those publicly discussed, formally 
+
+proposed, or recently implemented) and the potential impacts of those changes on our businesses and clients, and whether FHN&#8217;s strategic initiatives will succeed. 
+
+In addition to trends and events noted elsewhere in this MD&#38;A, FHN believes the following trends and events are noteworthy at this time. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Inflation, Recession, and Federal Reserve Policy 
+
+Economic Overview 
+
+The post-COVID economy in the U.S. has been marked by: strong inflation, which began in 2021, peaked in 2022, and abated, though not fully, starting in 2023; the Federal Reserve "tightening" in 2022 and the first half of 2023 to contain inflation by rapidly increasing short-term interest rates and ending asset purchases; low unemployment rates; moderate economic growth; and a profoundly inverted yield curve. Key aspects were: 
+
+&#8226; Although the U.S. economy flirted with recession in 2022, it did not officially enter one. In 2023 recession concerns moderated significantly. In 2024, recession expectations have remained generally low. 
+
+&#8226; The rise in short-term interest rates by the Federal Reserve in 2022 was both rapid and substantial, taking the overnight Fed Funds rate from 0.20% in March 2022 to 4.65% a year later. Hikes after that were much more modest and infrequent. 
+
+&#8226; In 2023 the Federal Reserve signaled an end to hikes. No rate actions were taken for more than a year, until a 50 basis point cut in September 2024. Future actions continue to depend upon future data. 
+
+&#8226; In response to 2022's extremely rapid and vigorous tightening of monetary policy, the inflation rate in the U.S. now is well below 2022's levels. However, measures of inflation generally remain higher than the Federal Reserve's stated long-term goal of 2%. 
+
+&#8226; Monetary tightening often creates yield curve inversion for a time. In the current cycle, traditional inversion (when ten-year treasury rates are below two-year rates) was both very deep and unusually sustained, with inversion lasting from the summer of 2022 to September 2024. 
+
+Key events and circumstances are noted in the following discussions. 
+
+Federal Reserve and Rates 
+
+The Federal Reserve raised short-term rates several times in 2022 and in the first part of 2023. All but one of the raises in 2022 were 75 and 50 basis points each&#8212;aggressive by historical standards&#8212;while the 2023 raises were the more-typical 25 basis points each. The Federal Reserve cut rates 50 basis points in September 2024 and 25 basis points in November 2024. 
+
+FHN cannot predict exactly when or how much short-term rates will be changed, how market-driven long-term rates will behave, nor how those actions may affect financial markets during the next several quarters. 
+
+Yield Curve 
+
+Unusual yield curve effects, including inversion, are common when monetary policy changes. A traditional 
+
+measure of inversion occurs when the two-year U.S. Treasury rate is higher than the ten-year rate. Traditional inversion was sustained continuously from the summer of 2022 until September 2024, an unusually long period. The degree of inversion varied during that period, but often was much deeper than is typical. Sustained traditional yield curve inversion is viewed, with statistical support, as a harbinger of economic recession, but recession did not occur. 
+
+Early in the fourth quarter of 2024, the yield curve is relatively flat, meaning the two-year U.S. Treasury rate is only modestly lower than the ten-year rate. 
+
+Yield curve flattening and inversion generally reduces the profit FHN can make from lending by compressing FHN's net interest margin, and also generally reduces FHN's revenues from bond trading. Both of those impacts occurred over the past two years, with fluctuations. Refer to Interest Rate &#38; Yield Curve Risks , located in Item 1A. Risk Factors of FHN's Annual Report on Form 10-K for the year ended December 31, 2023, f or a discussion of the risks to FHN associated with flattening and inversion. 
+
+Recession 
+
+The U.S. economy contracted (experienced negative growth) during the first two quarters of 2022, in both cases modestly. Although the occurrence of two consecutive quarters of contraction often coincides with recession, in 2022 it did not. The economy has expanded in each quarter since then. The expansion rate has varied without a sustained trend. 
+
+Recession expectations in the U.S. were high in 2022 and early 2023. They moderated significantly after that. In 2024 recession expectations have fluctuated but generally have remained low. 
+
+Fiscal Policy 
+
+The Federal Reserve controls monetary policy for the U.S. government, but not fiscal policy (spending and taxation). Fiscal policy directly affects U.S. government annual deficits or surpluses, along with the size and trajectory of the national debt. Fiscal policy often has a significant impact on the U.S. economy. Some of the unusual or unexpected aspects of the post-COVID economy likely were created or supported by historically unusual fiscal stimulus and other stimulative policies which pushed, and in some cases continue to push, substantial amounts of money into the economy. 
+
+The federal elections in November 2024 could result in significant changes in U.S. fiscal policy in 2025 and 2026. 
+
+2023 Banking Crisis 
+
+In March 2023, two large regional U.S. banks failed after sudden large deposit outflows, and a major Swiss bank was acquired by another bank at the behest of regulators. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+In May 2023, a third large regional U.S. bank failed after experiencing very large deposit outflows in March. In the aftermath of these failures, bank investors and clients across the U.S. became more focused on deposit mix, funding risk management, and other safety-soundness concerns. Most U.S. banks saw abrupt net outflows of deposits in the spring of 2023 following the failures. Most have since recouped those deposits, mainly by offering higher interest rates. In 2024, competition for deposits has been quite intense. 
+
+Impacts on FHN 
+
+In 2022, FHN benefited significantly from rising rates as the rise in lending rates outpaced the rise in deposit and other funding rates. In the first quarter of 2023, that outpacing ended, and FHN's net interest margin (NIM) started to compress. FHN was able to reverse the compression during 2023 fueled in part by using increased deposits and capital to reduce more-expensive borrowings. FHN's NIM further improved in the first half of 2024 compared with the second half of 2023. Third quarter NIM contracted modestly while remaining higher than in 2023. 
+
+In 2024 through third quarter, improvements in loan yields have been largely offset by higher funding costs, especially for deposits. Deposit costs have increased 
+
+largely in response to heightened competition in many of FHN's markets. Although that competitive environment is expected to continue, rate cuts are expected to moderate funding costs, especially as old commitments expire. A key uncertainty is whether rate cuts will impact loan yields as strongly as funding costs, and at the same times. 
+
+In addition, some of FHN's businesses have been negatively impacted by rate actions in the past two years and by the unusual yield curve. Rate increases pushed home mortgage rates in the U.S. much higher in 2022 and 2023, reducing demand. FHN's direct mortgage lending and lending to mortgage companies saw business decline significantly in 2022 and 2023. Mortgage rates modestly abated in 2024 through third quarter, and FHN's related businesses improved, but long-term rates remain well above the lows of a few years ago and even have trended upward since late in the third quarter. Moreover, FHN's revenues from bond trading and related activities fell significantly in 2022 and 2023 due to rising rates coupled with elevated market volatility. In 2024, bond trading revenues have improved markedly, but with significant volatility quarter-to-quarter. Bond revenues likely have fluctuated due to changing market expectations about rate moves, among other things. 
+
+Other Regulatory Proposals 
+
+In 2023, the Board of Governors of the Federal Reserve and other regulators proposed regulatory changes that would, if implemented, significantly increase regulatory constraints and costs on all U.S. banks with assets over $100 billion. A few new requirements would apply to banks, like FHN, with assets over $50 billion, but by far the main impacts would fall on banks greater than $100 billion in assets. 
+
+The proposals touch upon many regulatory requirements, including debt and equity capital requirements, credit risk standards, asset risk-weighting, and resolution planning. The increased requirements also would entail additional compliance costs. 
+
+The triggering of significant cost increases based on a single threshold financial measure&#8212;$100 billion in assets 
+
+&#8212;has been in place for many years and has impacted the U.S. banking industry. Compliance restrictions and costs increase as the threshold is approached but a step-up pattern remains. Those effects have added to the incentives for banks to consolidate, and the proposed new rules are likely to enhance that. 
+
+It appears likely that, if adopted as proposed, significant parts of the proposals will be challenged in court as being inconsistent with legislation enacted by Congress in 2018. Such a challenge would be technical and complex, and likely would take many years to resolve. Moreover, even if a challenge of that sort were successful, many parts of the proposals likely would remain intact and others might be modified without being rescinded. 
+
+Greenhouse Gas (GHG) Reporting Regimes 
+
+In October 2023, the state of California enacted laws which, taken together, will require most larger companies doing business in California to report annually their greenhouse gas ("GHG") emissions, with an external assurance requirement, and to report biennially their climate-related financial risks and risk-mitigation measures. The California laws include multi-year phase in periods and encompass Scope 1, Scope 2, and Scope 3 GHG emissions. As currently enacted, the laws require implementing regulations to be adopted by July 1, 2025, 
+
+and reporting for Scopes 1 and 2 to begin in 2026 for the 2025 fiscal year. 
+
+In March 2024, the U.S. Securities and Exchange Commission ("SEC") adopted final rules, &#8220;The Enhancement and Standardization of Climate-Related Disclosures for Investors&#8221; (the &#8220;SEC Climate Disclosures Rules&#8221;). These Rules would require all U.S. companies with publicly-traded securities to report annually their Scope 1 and 2 GHG emissions and related risk management processes, and would include a related financial statement 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+and audit requirement, among other things. Refer to "Accounting Changes" below for additional information. The SEC Climate Disclosures Rules also have a lengthy phase-in period. 
+
+Europe also has adopted a GHG reporting regime. It is not applicable to FHN and is not further discussed here. 
+
+Three GHG Scopes 
+
+Scope 1 GHG emissions are those from a source the company owns or controls directly, such as a manufacturing plant. Scope 2 emissions are indirect emissions from company activities, such as from power consumed by company operations. Scope 1 and 2 emissions generally can be measured or estimated using information a company normally can obtain without significant external inquiry. 
+
+Scope 3 GHG emissions are those from sources and activities that a company neither owns nor controls. Scope 3 emissions are from a wide range of sources that touch upon a company, such as: vendors; employees (commuting, business travel, etc.); and customers. Scope 3 information generally is unknown to a company without significant external inquiry and/or estimation. 
+
+Potential Business Impacts 
+
+Direct compliance costs will include creating systems to measure or estimate and capture relevant data, staffing, and engagement of vendors, including a firm to provide required assurances (somewhat analogous to a financial statement auditor). 
+
+Potentially of more significance: California may require inquiry of customers rather than mere estimation about them. If FHN is allowed merely to estimate emissions from customers, that process may be costly but would not interfere with its business relationships. If, however, FHN is required to support Scope 3 reporting by obtaining 
+
+GHG-related information from customers, including customers that are not public companies and that do no business in California, then the California disclosure laws could interfere with FHN's business. In that case, effectively FHN would be required to impose costs and/or inconveniences on its customers. Other banks in FHN's markets, particularly those that are private and not doing business in California, could provide financial services without those requirements, putting FHN at a competitive disadvantage. 
+
+Legal Challenges 
+
+The California laws, especially the application of those laws to companies outside of California, have been challenged in court. Challengers assert that the laws, among other things, unconstitutionally burden interstate commerce, are pre-empted by federal law, and unconstitutionally compel or burden speech. Challenges could take many years to resolve. A key practical question will be whether the courts maintain a legal stay (a moratorium) on these laws nationwide while challenges are pending. 
+
+The SEC Climate Disclosures rules likewise are being challenged in court. Challengers assert, among other things, that the SEC lacks explicit Congressional authorization to create a regulatory reporting regime pertaining to GHG emissions. The several challenges have been consolidated in the U.S. (federal) 8th Circuit. Possibly anticipating a court-ordered stay, the SEC has suspended the effectiveness of its rules while the court challenges are pending. 
+
+Assuming that the various legal challenges leave the SEC Climate Disclosures Rules entirely or largely intact, the California laws might be further challenged by public companies as having been pre-empted by the SEC Rules. 
+
+Market Growth and Weather Events 
+
+FHN's principal markets are in the southern and southeastern United States, including most of the major gulf coast markets and several markets on the southern Atlantic seacoast. Many of FHN's markets, both coastal and non-coastal, have experienced significant population growth over at least the past twenty years, outpacing the growth rate for the U.S. as a whole. That population growth generally has been accompanied by economic growth. 
+
+Many of FHN's fastest growing markets, including most significantly those in Florida, can be impacted significantly by hurricanes and other severe coastal weather events. As those markets grow, FHN's economic commitment to them grows, as does FHN's financial exposure to those events. 
+
+Over the past two years it has been widely reported that the economic costs of hurricane and other severe weather 
+
+events in the southeastern U.S. have been rising significantly. FHN believes that rising costs are directly related to growth in those areas. 
+
+For example, much of the growth in Florida has been along the coast moving out from older cities. A gulf coast hurricane 50 or 60 years ago had a fair chance of making landfall in a relatively unpopulated area. Now, the chances of directly hitting a population center are much higher, the average population in that center is much higher, and the average value per building is much higher. 
+
+The reported significant increase in casualty risks and costs is being reflected in property insurance practices which currently are in significant flux. The insurance industry is being forced to revise its risk assessment and premium pricing practices in coastal and other impacted areas as loss experience has deviated from earlier predictions, sometimes badly. In Florida, for example, 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+some smaller carriers have failed, some larger carriers have left markets, and remaining carriers have significantly increased the premiums of hurricane-related insurance, narrowed coverage, or both. 
+
+Coastal states such as Florida and Louisiana have created last-resort insurance pools for residents who cannot obtain or afford private property insurance. However, as the costs borne by those pools increase, either the premiums will have to rise or general taxation will have to cover the difference. In addition, those programs generally do not help business clients, nor are they offered in many states that can be severely impacted by hurricane-related flooding. 
+
+State and local building and water-control codes are being revised, but often unevenly and often not retroactive to 
+
+pre-existing structures and developments. The current transition period could be lengthy. 
+
+The availability, reliability, and cost of adequate property insurance is a significant concern for FHN as well as FHN's clients in affected markets. Instability in property insurance has made, and continues to make, FHN's business decisions more difficult. That instability increases FHN's risks of loan loss and business downturn. 
+
+More fundamentally, elevated insurance and casualty costs blunt a key factor driving growth in many of these high-growth markets: lower costs of living. If market growth slows, FHN's business could be impacted. 
+
+Critical Accounting Policies and Estimates 
+
+FHN has made no significant changes in its critical accounting policies and estimates from those disclosed in its 2023 Annual Report on Form 10-K. 
+
+Accounting Changes 
+
+In March 2024, the SEC adopted its Climate Disclosures Rules (refer to "Greenhouse Gas (GHG) Reporting Regimes" above). Those Rules, when effective, will require registrants to disclose certain climate-related information in registration statements and annual reports. Information required for inclusion within the footnotes to the financial statements for severe weather events and other natural conditions includes 1) income statement effects before insurance recoveries above 1% of pre-tax income/loss, 2) balance sheet effects above 1% of shareholders&#8217; equity, and 3) certain carbon offsets and renewable energy credits. Qualitative discussion is also required for material impacts on financial estimates and assumptions that are due to severe weather events and other natural conditions or disclosed climate-related targets or transition plans. 
+
+Disclosures that are outside the financial statements include 1) Scope 1 and Scope 2 GHG emissions, if material, 2) how the Board of Directors oversees the assessment and management of climate-related risks, 3) management&#8217;s role in assessing and managing climate-related risks if the risks are material, 4) climate-related risks that have had or are reasonably likely to have a material effect on its business strategy, results of operations, or financial condition, including whether the risks are expected to manifest in the short term (i.e., next 12 months) and, separately, in the long term (i.e., beyond the next 12 months), 5) if a registrant has adopted a plan to manage material climate transition risks, the plan should be described and updated annually to specify its progress toward completing the transition plan, including any actions taken under the plan and how those actions 
+
+have affected the registrant&#8217;s business, results of operations, or financial condition, 6) if a registrant has adopted a plan to manage material climate transition risks, the plan should be described and updated annually to specify its progress toward completing the transition plan, including any actions taken under the plan and how those actions have affected the registrant&#8217;s business, results of operations, or financial condition, 7) quantitative price disclosures if a registrant uses an internal carbon price (e.g., a monetary cost assigned to carbon emissions for budgeting, forecasting, or performance management) and this use is material to how it evaluates material climate-related risks, 8) if a registrant uses a scenario analysis to assess its business in the context of climate-related risks and, on the basis of that analysis, determines that a climate-related risk is reasonably likely to have a material impact, the registrant must describe each scenario, including the parameters, assumptions, and projected financial impacts, 9) the registrant's processes for &#8220;identifying, assessing and managing&#8221; material climate-related risks, 10) information about the registrant's publicly announced or internal climate-related targets or goals if they materially affect or are reasonably likely to materially affect the registrant's business, results of operations, or financial condition (e.g., expenditures or operational changes needed to meet the targets or goals) and 11) quantitative and qualitative descriptions of the material expenditures incurred and material impacts on financial estimates and assumptions that, in management&#8217;s assessment, directly result from activities to mitigate or adapt to material climate-related risks. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+In April 2024, the SEC issued a stay of the Climate Disclosures Rules pending the completion of judicial review of various legal challenges. Therefore, the actual timing of the implementation of the Climate Disclosure Rules, if sustained through the judicial process, is uncertain. FHN is assessing the potential effects of the Climate Disclosure Rules on its registration statements and annual reports. 
+
+Refer to Note 1 &#8211; Basis of Presentation and Accounting Policies in the Consolidated Financial Statements in Part I, Item 1 of this report f or a detail of accounting changes with extended transition periods, accounting changes adopted in the current year and accounting changes issued but not currently effective, which section is incorporated into MD&#38;A by this reference. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 2. MANAGEMENT'S DISCUSSION &#38; ANALYSIS (MD&#38;A) 
+
+Non-GAAP Information 
+
+Table I.2.26 
+
+NON-GAAP TO GAAP RECONCILIATION Three Months Ended Nine Months Ended (Dollars in millions; shares in thousands) September 30, 2024 June 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Pre-provision Net Revenue (Non-GAAP) Net interest income (GAAP) $ 627 &#160; $ 629 $ 605 $ 1,881 &#160; $ 1,923 Plus: Noninterest income (GAAP) 200 &#160; 186 173 581 &#160; 745 Total revenues (GAAP) 827 &#160; 815 778 2,462 &#160; 2,668 Less: Noninterest expense (GAAP) 511 &#160; 500 474 1,527 &#160; 1,508 Pre-provision net revenue (Non-GAAP) $ 316 &#160; $ 315 $ 304 $ 935 &#160; $ 1,160 Average Tangible Common Equity (Non-GAAP) Average total equity (GAAP) $ 9,128 &#160; $ 8,949 $ 8,978 $ 9,109 &#160; $ 8,905 Less: Average noncontrolling interest (a) 295 &#160; 295 295 295 &#160; 295 Less: Average preferred stock (a) 426 &#160; 426 520 457 &#160; 838 (A) Total average common equity $ 8,407 &#160; $ 8,228 $ 8,163 $ 8,357 &#160; $ 7,772 Less: Average goodwill and other intangible assets (GAAP)(b) 1,669 &#160; 1,680 1,714 1,680 &#160; 1,726 (B) Average tangible common equity (Non-GAAP) $ 6,738 &#160; $ 6,548 $ 6,449 $ 6,677 &#160; $ 6,046 Net Income Available to Common Shareholders (C) Net income available to common shareholders (annualized) (GAAP) $ 849 &#160; $ 739 $ 513 $ 776 &#160; $ 922 Tangible Common Equity (Non-GAAP) (D) Total equity (GAAP) $ 9,316 &#160; $ 8,955 $ 8,793 $ 9,316 &#160; $ 8,793 Less: Noncontrolling interest (a) 295 &#160; 295 295 295 &#160; 295 Less: Preferred stock (a) 426 &#160; 426 520 426 &#160; 520 (E) Total common equity $ 8,595 &#160; $ 8,234 $ 7,978 $ 8,595 &#160; $ 7,978 Less: Goodwill and other intangible assets (GAAP)(b) 1,664 &#160; 1,675 1,709 1,664 &#160; 1,709 (F) Tangible common equity (Non-GAAP) 6,931 &#160; 6,559 6,269 6,931 &#160; 6,269 Less: Unrealized gains (losses) on AFS securities, net of tax (669) (901) (1,170) (669) (1,170) (G) Adjusted tangible common equity (Non-GAAP) $ 7,600 &#160; $ 7,460 $ 7,439 $ 7,600 &#160; $ 7,439 Tangible Assets (Non-GAAP) (H) Total assets (GAAP) $ 82,635 &#160; $ 82,230 $ 82,533 $ 82,635 &#160; $ 82,533 Less: Goodwill and other intangible assets (GAAP) (b) 1,664 &#160; 1,675 1,709 1,664 &#160; 1,709 (I) Tangible assets (Non-GAAP) $ 80,971 &#160; $ 80,555 $ 80,824 $ 80,971 &#160; $ 80,824 Risk-Weighted Assets (J) Risk-weighted assets (c) $ 71,463 &#160; $ 71,913 $ 71,866 $ 71,463 &#160; $ 71,866 Period-end Shares Outstanding (K) Period-end shares outstanding 532,181 &#160; 536,876 558,709 532,181 &#160; 558,709 Ratios (C)/(A) Return on average common equity (GAAP) 10.10 &#160; % 8.98 % 6.28 % 9.28 &#160; % 11.86 % (C)/(B) Return on average tangible common equity (Non-GAAP) 12.60 &#160; 11.29 7.95 11.62 &#160; 15.24 (D)/(H) Total period-end equity to period-end assets (GAAP) 11.27 &#160; 10.89 10.65 11.27 &#160; 10.65 (F)/(I) Tangible common equity to tangible assets (Non-GAAP) 8.56 &#160; 8.14 7.76 8.56 &#160; 7.76 (G)/(J) Adjusted tangible common equity to risk-weighted assets (Non-GAAP) 10.63 &#160; 10.37 10.35 10.63 &#160; 10.35 (E)/(K) Book value per common share (GAAP) $ 16.15 &#160; $ 15.34 $ 14.28 $ 16.15 &#160; $ 14.28 (F)/(K) Tangible book value per common share (Non-GAAP) $ 13.02 &#160; $ 12.22 $ 11.22 $ 13.02 &#160; $ 11.22 
+
+(a) Included in total equity on the Consolidated Balance Sheets. 
+
+(b) Includes goodwill and other intangible assets, net of amortization. 
+
+(c) Defined by and calculated in conformity with bank regulations applicable to FHN. 
+
+3Q24 FORM 10-Q REPORT 
+
+PART I, ITEM 3. DISCLOSURES ABOUT MARKET RISK AND ITEM 4. CONTROLS &#38; PROCEDURES 
+

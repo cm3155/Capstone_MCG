@@ -1,0 +1,734 @@
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes included elsewhere in this quarterly report. This quarterly report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements, which speak to our expected business and financial performance, among other matters, contain words such as "believe," "expect," "anticipate," "intend," "plan," "aim," "will," "may," "should," "could," "would," "likely," "forecast," and similar expressions. Such statements are based on the current beliefs and expectations of our management and are subject to significant risks and uncertainties. Actual results may differ materially from those set forth in the forward-looking statements. These forward-looking statements speak only as of the date of this quarterly report and there is no undertaking to update or revise them as more information becomes available. 
+
+The following factors, among others, could cause actual results to differ materially from those set forth in the forward-looking statements: the effect of the coronavirus disease 2019 ("COVID-19") pandemic and measures taken to mitigate the pandemic, including their impact on our credit quality and business operations as well as their impact on general economic and financial markets, changes in economic variables, such as the availability of consumer credit, the housing market, energy costs, the number and size of personal bankruptcy filings, the rate of unemployment, the levels of consumer confidence and consumer debt and investor sentiment; the impact of current, pending and future legislation, regulation, supervisory guidance and regulatory and legal actions, including, but not limited to, those related to financial regulatory reform, consumer financial services practices, anti-corruption and funding, capital and liquidity; the actions and initiatives of current and potential competitors; our ability to manage our expenses; our ability to successfully achieve card acceptance across our networks and maintain relationships with network participants; our ability to sustain and grow our private student loan, personal loan and home loan products; difficulty obtaining regulatory approval for, financing, transitioning, integrating or managing the expenses of acquisitions of or investments in new businesses, products or technologies; our ability to manage our credit risk, market risk, liquidity risk, operational risk, legal and compliance risk and strategic risk; the availability and cost of funding and capital; access to deposit, securitization, equity, debt and credit markets; the impact of rating agency actions; the level and volatility of equity prices, commodity prices and interest rates, currency values, investments, other market fluctuations and other market indices; losses in our investment portfolio; limits on our ability to pay dividends and repurchase our common stock; limits on our ability to receive payments from our subsidiaries; fraudulent activities or material security breaches of key systems; our ability to remain organizationally effective; our ability to increase or sustain Discover card usage or attract new customers; our ability to maintain relationships with merchants; the effect of political, economic and market conditions, geopolitical events and unforeseen or catastrophic events; our ability to introduce new products and services; our ability to manage our relationships with third-party vendors; our ability to maintain current technology and integrate new and acquired systems; our ability to collect amounts for disputed transactions from merchants and merchant acquirers; our ability to attract and retain employees; our ability to protect our reputation and our intellectual property; and new lawsuits, investigations or similar matters or unanticipated developments related to current matters. We routinely evaluate and may pursue acquisitions of or investments in businesses, products, technologies, loan portfolios or deposits, which may involve payment in cash or our debt or equity securities. 
+
+Additional factors that could cause our results to differ materially from those described below can be found in this section of this quarterly report and in "Risk Factors," "Business," and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our annual report on Form 10-K for the year ended December 31, 2020, which is filed with the Securities and Exchange Commission ("SEC") and available at the SEC's internet site (https://www.sec.gov). 
+
+Introduction and Overview 
+
+Discover Financial Services ("DFS") is a digital banking and payment services company. We provide digital banking products and services and payment services through our subsidiaries. We offer our customers credit card loans, private student loans, personal loans, home loans and deposit products. We also operate the Discover Network, the PULSE network ("PULSE") and Diners Club International ("Diners Club"), collectively known as the Discover Global Network. The Discover Network processes transactions for Discover-branded credit and debit cards and provides payment transaction processing and settlement services. PULSE operates an electronic funds transfer network, providing financial institutions issuing debit cards on the PULSE network with access to ATMs domestically and internationally and merchant acceptance throughout the United States for debit card transactions. Diners Club is a global payments network of licensees, which are generally financial institutions, that issue Diners Club branded credit and charge cards and/or provide card acceptance services. 
+
+s 
+
+Our primary revenues consist of interest income earned on loan receivables and fees earned from customers, financial institutions, merchants and issuers. The primary expenses required to operate our business include funding costs (interest expense), credit loss provisions, customer rewards and expenses incurred to grow, manage and service our loan receivables and networks. Our business activities are funded primarily through consumer deposits, securitization of loan receivables and the issuance of unsecured debt. 
+
+COVID-19 Pandemic Response and Impact 
+
+The COVID-19 pandemic has continued to have a widespread and unprecedented impact on a global scale. While the United States economy continues to recover from a brief but severe recession triggered by the COVID-19 pandemic, its future effects are uncertain and it may be difficult to assess or predict the extent of the impacts of the pandemic on us as many factors are beyond our control and knowledge. For a discussion of the risks we face with respect to the COVID-19 pandemic, the associated economic uncertainty, the steps taken to mitigate the pandemic and the resulting economic contraction, see the risk factors disclosed in our annual report on Form 10-K for the year ended December 31, 2020, under "Risk Factors". This section includes a discussion of the significant areas of potential impact on us of the COVID-19 pandemic and specific actions we are taking or expect to take in this time of uncertainty. 
+
+Financial Results and Outlook 
+
+The United States economy continues to recover from the impacts of the COVID-19 pandemic. The easing of COVID-19 restrictions, economic expansion and government stimulus have positively impacted credit performance and elevated payment rates. We saw an increase in sales volume for the three and nine months ended September 30, 2021, compared to the same periods in 2020. Additionally, we had modest loan growth during the three months ended September 30, 2021. 
+
+We also decreased our allowance for credit losses from December 31, 2020. Refer to "&#8212; Loan Quality &#8212; Provision and Allowance for Credit Losses" for more details on the current period allowance for credit losses. 
+
+Our outlook remains unchanged from what we disclosed in the second quarter of 2021. We anticipate modest loan growth in 2021 driven by positive sales trends and new account growth. We expect net interest margin to remain generally flat relative to the first quarter of 2021 through the remainder of 2021, with some variability from quarter to quarter. We expect net charge-offs to be lower year-over-year driven by continued stable credit performance. We remain committed to disciplined expense management and will continue to make investments for profitable long-term growth through increased marketing and investments in core technology capabilities and efficiency improvements. 
+
+Regulatory and Legislative 
+
+Federal, state and local governments and independent banking agencies have taken extraordinary measures to support the United States economy and mitigate the impacts of the COVID-19 pandemic on the economy and society at large. These policies have included regulatory relief and flexibility to financial institutions, liquidity to capital markets and financial support to businesses and consumers, including fiscal stimulus, payment forbearance, small business lending programs, increased unemployment payments and other forms of assistance. Lawmakers continue to offer additional proposals in an attempt to mitigate harm to the economy and consumers. The effects of these programs are broad and very complex and depend upon a wide variety of factors, some of which are yet to be identified. Thus, the ultimate impact of these programs and policies on our business, results of operations and financial condition is difficult to quantify and may not be known for some time. For more information, see &#8220;&#8212; Regulatory Environment and Developments&#8221; below. 
+
+Loan Receivables and Allowance for Credit Losses 
+
+At the onset of the pandemic, we continued to lend to customers but tightened our standards for new accounts and for growing existing accounts across all products in our loan portfolio. Additionally, we temporarily reduced our customer acquisition and brand marketing in response to the significant economic downturn at the onset of the COVID-19 pandemic. As a result of the strong credit performance observed in the current year and positive economic outlook, we returned most of our underwriting criteria to pre-pandemic standards during the second quarter of 2021. Additionally, we increased our investments in credit card and private student loan marketing and business development in the second and third quarters of 2021 to support our loan growth initiatives. 
+
+In the third quarter of 2021, we decreased our allowance for credit losses in anticipation of lower credit losses driven by improving macroeconomic forecasts and continued stable credit performance. Our allowance for credit losses includes the 
+
+s 
+
+risk associated with all loans and considers the effects of all loan modifications, including troubled debt restructurings ("TDRs") and loan modifications exempt from the TDR designation under the Coronavirus Aid, Relief, and Economic Security Act ("CARES Act&#8221;). As of September 30, 2021, the allowance for credit losses took into account our best estimate for the impact of programs put in place by federal and state governments and agencies to mitigate the economic impact of the pandemic. It is unclear whether the measures employed to date are complete or whether federal and state governments and agencies may take additional actions that could impact our business. Refer to "&#8212; Loan Quality &#8212; Impact of the COVID-19 Pandemic on the Loan Portfolio" for more details on the current period allowance for credit losses. 
+
+Capital and Liquidity 
+
+We maintained liquid assets and capital levels in excess of historical norms as of September 30, 2021 as consumer loan payment rates and deposit balances remain above their pre-pandemic levels. We maintain good access to all of our diverse funding channels. For example, we took advantage of the low-rate, tight-credit-spread environment by issuing approximately $1.8 billion of credit card asset-backed securities in September 2021. 
+
+We remain well-capitalized with capital ratios in excess of regulatory minimums and took prudent actions to preserve and augment our capital when the macroeconomic and operating environment turned uncertain last year. Our capital levels allow us to capitalize on loan receivable growth as customers moderate loan payment rates and continue to increase spending as the economy more fully re-opens from the COVID-19 pandemic. 
+
+Payment Services 
+
+As governments across the world have taken steps to minimize the transmission of COVID-19, the number of cross-border transactions processed on the Discover Global Network has declined. Certain negatively impacted categories such as travel may have an outsized impact on some of our Diners Club franchisees. The impacts from the COVID-19 pandemic may result in lasting changes in consumer payment behaviors, such as a shift from credit to debit, a decline in the use of cash, increasing online sales and rapid adoption of contactless payment. As economic uncertainty persists, these shifts may continue to result in changes to the Payment Services segment&#8217;s results of operations. 
+
+Fair Value and Impairments 
+
+With the uncertain nature of the pandemic's overall impact on the economy, we continue to assess the effects of COVID-19 with respect to our goodwill and intangible assets, investment securities and other long-term assets. See Note 5: Intangible Assets to our condensed consolidated financial statements for more information on the impact of the COVID-19 pandemic on intangible assets. 
+
+Business Continuity and Operations 
+
+We have re-opened some of our physical locations with appropriate health safety measures and capacity limitations, including our corporate headquarters. However, we have informed employees that they may continue to work from home and will not be required to return to our physical locations prior to January 2022. Notwithstanding the shift to work-from-home, we have been able to successfully operate with no significant impact to our operations or service levels. As a result, upon the return to our physical locations, we will offer flexible work-from-home arrangements that will provide our employees the option to work remotely on a more frequent basis than before the pandemic. 
+
+Operational changes necessitated by the rapid shift in employee location have not thus far had a material adverse effect on us or our financial condition; however, the shift has caused us to grow increasingly dependent on third-party service providers, including those with which we have no relationship such as our employees&#8217; internet service providers. For more information on the risks associated with reliance on third-party service providers and the shift to work from home, see the risk factors disclosed in our annual report on Form 10-K for the year ended December 31, 2020, under "Risk Factors". 
+
+Regulatory Environment and Developments 
+
+As the United States and global economies attempt to normalize from the COVID-19 pandemic, the banking agencies continue to evaluate whether additional actions are warranted to assist consumers, financial institutions and the overall economy. On March 31, 2021, the Consumer Financial Protection Bureau ("CFPB") announced it was rescinding several of its policy statements and withdrawing its participation in several interagency policy statements issued in response to the COVID-19 pandemic that had been intended to provide flexibility to financial institutions. The CFPB stated that the 
+
+s 
+
+rescissions "reflect the Bureau's commitment to consumer protection and the fact that financial institutions have had a year to adapt their operations to the difficulties posed by the pandemic." 
+
+In addition, the United States Congress has taken legislative action to address the economic disruptions caused by the COVID-19 pandemic, including the March 2020 CARES Act and December 2020 Omnibus and COVID Relief and Response Act. Most recently, the American Rescue Plan Act of 2021 ("ARPA"), enacted in March 2021, contained additional stimulus payments, increased unemployment benefits and increased small business funding under the Payment Protection Program. The ARPA also significantly increased and expanded the Child Tax Credit for one year and provides additional funding for rental assistance programs. These Congressional efforts offered financial assistance and benefits to consumers and small businesses. As the pandemic continues, additional legislative and regulatory action may be proposed and could include provisions that significantly impact our prospects and business practices. The impact of these legislative and regulatory initiatives on our business, the economy and the United States consumer will depend upon a wide variety of factors, some of which are yet to be identified. 
+
+Banking 
+
+Capital Standards and Stress Testing 
+
+DFS is subject to mandatory supervisory stress tests every other year and is required to submit annual capital plans to the Federal Reserve based on forward-looking internal analysis of income and capital levels under expected and stressful conditions. DFS is also subject to capital buffer requirements, including the Stress Capital Buffer ("SCB"), which requires maintenance of regulatory capital levels above a threshold established based on the results of supervisory stress tests after accounting for planned dividend payments. 
+
+In June 2020, the Federal Reserve issued a notice informing DFS that it and all other firms that participated in the 2020 Comprehensive Capital Analysis and Review ("CCAR") exercise would be required to submit revised capital plans to be assessed by the Federal Reserve under newly developed scenarios incorporating economic stresses reflecting the ongoing COVID-19 pandemic. The Federal Reserve notified all firms subject to CCAR that they would be subject to temporary restrictions on capital distributions in the third and fourth quarter of 2020 that restricted most share repurchases and limited dividends based on a formula that takes into account the firm's average net income over the preceding four quarters. 
+
+On November 2, 2020, DFS submitted its revised capital plan as part of the CCAR resubmission process, and the Federal Reserve publicly announced the results of its analysis on December 18, 2020. The results indicate that DFS' regulatory capital ratios remained above all minimum requirements under each of the stress test scenarios. However, due to ongoing economic uncertainty, the Federal Reserve extended the temporary restrictions on capital distributions, with modifications, for all firms subject to the Federal Reserve's capital planning rule through the second quarter of 2021. Following an announcement by the Federal Reserve on June 24, 2021, these restrictions were lifted and, effective June 30, 2021, DFS was authorized to make capital distributions that are consistent with the Federal Reserve's capital rule, inclusive of DFS' final SCB requirement of 3.5% that was previously announced by the Federal Reserve on August 10, 2020, and that remained in effect until the conclusion of the 2021 CCAR process and the subsequent, related announcement of DFS' adjusted SCB requirement. 
+
+On January 19, 2021, the Federal Reserve finalized regulatory amendments that made targeted changes to the capital planning, regulatory reporting and SCB requirements for firms subject to Category IV standards to be consistent with the Federal Reserve&#8217;s regulatory tailoring framework. The final rules generally align to instructions the Federal Reserve previously provided to Category IV firms regarding their respective capital plan submissions. The amended rules also provide Category IV firms, including DFS, with the option to submit to supervisory stress tests during off years if they wish for the Federal Reserve to reset the stress test portion of their SCB requirement. In connection with the final rulemaking, the Federal Reserve revised the scope of application of its existing regulatory guidance for capital planning to align with the tailoring framework. However, the timing and substance of any additional changes to existing guidance or new guidance are uncertain. 
+
+On June 24, 2021, the Federal Reserve publicly announced the results of its supervisory stress tests for the firms required to participate in the 2021 CCAR process. In accordance with the capital plan rule amendments that were finalized in January 2021, DFS elected not to participate in the 2021 supervisory stress tests. Nevertheless, DFS was required to submit a capital plan based on a forward-looking internal assessment of income and capital under baseline and stressful conditions. This plan was submitted by DFS to the Federal Reserve on April 5, 2021. The Federal Reserve thereafter used our 2021 capital plan submission to assess its capital planning process and positions and, as of August 5, 2021, announced DFS' 
+
+s 
+
+adjusted SCB requirement of 3.6% to reflect DFS' planned common stock dividends. This adjusted SCB is effective as of October 1, 2021. 
+
+London Interbank Offered Rate 
+
+On July 27, 2017, the UK Financial Conduct Authority ("FCA") announced that it would no longer encourage or compel banks to continue to contribute quotes and maintain the London Interbank Offered Rate ("LIBOR") after 2021. To support a smooth transition away from LIBOR, the Federal Reserve and the Federal Reserve Bank of New York convened the Alternative Reference Rates Committee ("ARRC"), a group of private-market participants tasked with facilitating a successful transition from U.S. dollar ("USD") LIBOR to a more robust reference rate. The ARRC initially identified the Secured Overnight Financing Rate ("SOFR") as its recommended alternative reference rate for USD LIBOR. The ARRC has also established several priorities and milestones to support the use of SOFR and SOFR-based indices, including developing contractual "fallback" language for capital markets and consumer products; providing clarity on legal, tax, accounting and regulatory matters; promoting broad outreach and education efforts around the LIBOR transition; and recommending spread adjustments for SOFR and SOFR-based indices, which will be of critical importance to market participants once USD LIBOR settings cease in 2023. 
+
+With regard to recent LIBOR transition developments, on March 5, 2021, the FCA announced the future cessation and loss of representativeness for all LIBOR benchmark settings. While non-USD and several less frequently referenced USD LIBOR settings will cease publication immediately after December 31, 2021, commonly referenced USD LIBOR settings will cease publication immediately after June 30, 2023; this future cessation event will trigger fallback provisions in many financial contracts to convert their benchmark index from LIBOR to an alternative rate, usually some form of SOFR. On July 29, 2021, the ARRC announced its recommendation of forward-looking term rates based on SOFR as additional alternative reference rate options. 
+
+We have a cross-functional team overseeing and managing our transition away from the use of LIBOR. This team assesses evolving industry and marketplace norms and conventions for LIBOR-indexed instruments, evaluates the impacts stemming from the future cessation of LIBOR publication and oversees and takes actions to transition our LIBOR exposures to alternative benchmark rates, usually SOFR. Our existing LIBOR exposures are limited primarily to three instruments&#8212;variable-rate student loans, interest rate swaps and capital markets securities&#8212;and we have materially reduced our remaining exposures in all of these instruments. 
+
+As of September 30, 2021, LIBOR-indexed variable-rate loans comprise approximately 44% of our private student loan portfolio and approximately 5% of our aggregate loan portfolio. These outstanding student loans indexed to LIBOR will convert to a SOFR index in 2023 when 3-month USD LIBOR will no longer be published. United States banking regulators have directed banks to cease entering into new contracts that use USD LIBOR as a reference rate after December 31, 2021. Therefore, beginning in November 2021, we will only originate new variable-rate student loans indexed to term SOFR. 
+
+We ceased entering into new LIBOR-indexed interest rate derivatives in 2018 and have since actively reduced LIBOR exposures in our derivatives portfolio. During the third quarter of 2021, we terminated our last LIBOR-indexed interest rate swap maturing after June 2023; our one remaining LIBOR-indexed interest rate swap will mature in January 2022. 
+
+Most of our capital markets securities indexed to USD LIBOR are floating-rate asset-backed securities. Beginning in 2018, we included fallback provisions in all newly-issued securities that will facilitate an orderly transition from LIBOR to SOFR once 1- and 3-month LIBOR cease to be published in 2023. Approximately $1.5 billion of our capital markets securities that mature after June 2023 with no fallback provisions would be covered under pending federal legislation that would allow us to replace the LIBOR index with SOFR under a safe-harbor provision. Approximately $800 million of our capital markets securities contain fallback provisions that would not be covered under pending federal legislation; however, shortly after the expected June 2023 USD LIBOR cessation date, these securities will either mature or we may exercise our right to call and redeem them. 
+
+We have prepared for the cessation of USD LIBOR by taking steps to avoid new exposures and actively reduce our remaining exposures. We are on track to complete before year-end 2021 any remaining transition work, including providing our customers with information about the cessation of USD LIBOR and how it will affect their contracts with us. 
+
+s 
+
+Consumer Financial Services 
+
+The CFPB regulates consumer financial products and services and examines certain providers of consumer financial products and services, including Discover. The CFPB's authority includes rulemaking, supervisory and enforcement powers with respect to federal consumer protection laws; preventing "unfair, deceptive or abusive acts or practices" and ensuring that consumers have access to fair, transparent and competitive financial products and services. Historically, the CFPB's policy priorities focused on several financial products of the type we offer (e.g., credit cards and other consumer lending products). In addition, the CFPB is required by statute to undertake certain actions, including its biennial review of the consumer credit card market. In December 2020, certain of our subsidiaries entered into a consent order with the CFPB regarding identified private student loan servicing practices. See Note 14: Litigation and Regulatory Matters to our condensed consolidated financial statements for more information. 
+
+Former Federal Trade Commissioner Rohit Chopra was sworn in as the Director of the CFPB on October 12, 2021. Under Mr. Chopra&#8217;s leadership, the CFPB&#8217;s priorities are expected to focus on, among other things, vigorous enforcement of existing consumer protection laws, with a particular focus on unfair, deceptive and abusive acts and practices and fair lending, student lending and servicing, fair lending, debt collection and credit reporting. These strategies and priorities and any resulting regulatory developments, findings, potential supervisory or enforcement actions and ratings could negatively impact business strategies, limit or change our business practices, limit consumer product offerings, invest more management time and resources in compliance efforts, limit fees charged for services, limit our ability to implement certain enhancements to product features and functionality or limit our ability to obtain related required regulatory approvals. The additional expense, time and resources needed to comply with ongoing or new regulatory requirements may adversely impact the cost of and access to credit for consumers and results of business operations. 
+
+Data Security and Privacy 
+
+Policymakers at the federal and state levels remain focused on enhancing data security and data breach incident response requirements. Furthermore, regulations and legislation at various levels of government have been proposed and enacted to augment consumer data privacy standards. The California Consumer Privacy Act ("CCPA") creates a broad set of privacy rights and remedies modeled in part on the European Union's General Data Protection Regulation. The CCPA went into effect on January 1, 2020, and the California Attorney General's final regulations became effective on August 14, 2020, with enforcement beginning July 1, 2020. The California Privacy Rights Act ("CPRA"), a ballot measure led by the original proponent of the CCPA, passed on November 3, 2020, and largely enters into force on January 1, 2023. The CPRA replaces the CCPA to enhance consumer privacy protections further and creates a new California Privacy Protection Agency ("CPPA"). In September, the CPPA Board initiated the CPRA regulatory phase by issuing a request for preliminary comments. While the CPRA retains an exemption for information collected, processed, sold, or disclosed subject to the Gramm-Leach-Bliley Act, we continue to evaluate the impact of the CPRA on our businesses and other providers of consumer financial services. 
+
+s 
+
+Segments 
+
+We manage our business activities in two segments, Digital Banking and Payment Services, based on the products and services provided. For a detailed description of each segment's operations and the allocation conventions used in our business segment reporting, see Note 17: Segment Disclosures to our condensed consolidated financial statements. 
+
+The following table presents segment data (dollars in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, 
+
+&#160; 
+
+2021 2020 2021 2020 Digital Banking Interest income Credit card loans $ 2,193 $ 2,171 $ 6,452 $ 6,760 Private student loans 184 182 554 569 Personal loans 219 237 662 722 Other loans 30 27 85 78 Other interest income 48 64 156 206 Total interest income 2,674 2,681 7,909 8,335 Interest expense 269 416 875 1,482 Net interest income 2,405 2,265 7,034 6,853 Provision for credit losses 185 750 (45) 4,603 Other income 447 371 1,284 1,091 Other expense 1,151 969 3,290 3,069 Income before income taxes 1,516 917 5,073 272 Payment Services Other (loss) income (75) 78 833 320 Other expense 39 36 203 172 (Loss) income before income taxes (114) 42 630 148 Total income before income taxes $ 1,402 $ 959 $ 5,703 $ 420 
+
+The following table presents information on transactions and transaction volume (in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, &#160; 2021 2020 2021 2020 Network Transaction Volume PULSE Network $ 59,872 $ 54,993 $ 183,126 $ 157,026 Network Partners 10,377 8,917 29,474 23,177 
+
+Diners Club (1) 
+
+6,547 5,839 18,570 17,915 Total Payment Services 76,796 69,749 231,170 198,118 
+
+Discover Network&#8212;Proprietary (2) 
+
+49,360 38,699 135,763 106,228 Total Network Transaction Volume $ 126,156 $ 108,448 $ 366,933 $ 304,346 Transactions Processed on Networks Discover Network 868 679 2,345 1,889 PULSE Network 1,415 1,270 4,124 3,668 Total Transactions Processed on Networks 2,283 1,949 6,469 5,557 Credit Card Volume 
+
+Discover Card Volume (3) 
+
+$ 50,389 $ 39,783 $ 138,772 $ 110,362 
+
+Discover Card Sales Volume (4) 
+
+$ 47,613 $ 37,134 $ 130,817 $ 101,843 
+
+(1) Diners Club volume is derived from data provided by licensees for Diners Club branded cards issued outside North America and is subject to subsequent revision or amendment. 
+
+(2) Represents gross Discover card sales volume on the Discover Network. 
+
+(3) Represents Discover card activity related to sales net of returns, balance transfers, cash advances and other activities. 
+
+(4) Represents Discover card activity related to sales net of returns. 
+
+s 
+
+Digital Banking 
+
+Our Digital Banking segment reported pretax income of $1.5 billion and $5.1 billion, respectively, for the three and nine months ended September 30, 2021, as compared to a pretax income of $917 million and $272 million, respectively, for the three and nine months ended September 30, 2020. 
+
+Net interest income increased for the three months ended September 30, 2021, as compared to the same period in 2020, primarily driven by lower funding costs. Interest income remained flat during the three months ended September 30, 2021, as compared to the same period in 2020, due to favorable interest charge-offs offset by a lower card revolve rate. Interest expense decreased during the three months ended September 30, 2021, as compared to the same period in 2020, due to lower average market rates, a lower funding base, lower pricing on deposits and higher coupon maturities. 
+
+Net interest income increased for the nine months ended September 30, 2021, as compared to the same period in 2020, primarily driven by lower funding costs, partially offset by a lower average level of outstanding loan receivables and lower yields on loans. Interest income decreased during the nine months ended September 30, 2021, as compared to the same period in 2020. This decrease was primarily due to a lower average level of card loan receivables, driven by higher payment rates, as well as lower yields on loans due to the lower market rates. Interest expense decreased during the nine months ended September 30, 2021, as compared to the same period in 2020 due to lower average market rates, a lower funding base, lower pricing on deposits and higher coupon maturities. 
+
+For the three and nine months ended September 30, 2021, the overall portfolio provision for credit losses decreased as compared to the same periods in 2020, primarily due to reserve releases in the current periods versus reserve builds in the prior periods and lower net charge-offs. The overall reserve release during the three months ended September 30, 2021, was primarily driven by improvements in the macroeconomic forecast and continued stable credit performance, partially offset by modest credit card loan receivables growth and seasonality in private student loan originations during the periods. The reserve build during the three months ended September 30, 2020, was driven by a seasonal increase in private student loan originations during the period. The reserve release during the nine months ended September 30, 2021, was primarily driven by improvements in the macroeconomic forecast, continued stable credit performance and a reduction in loan receivables outstanding during the period. The reserve build during the nine months ended September 30, 2020, was primarily driven by the unfavorable change in economic outlook resulting from the COVID-19 pandemic. For a detailed discussion on provision for credit losses, see "&#8212; Loan Quality &#8212; Provision and Allowance for Credit Losses." 
+
+Total other income increased for the three and nine months ended September 30, 2021, as compared to the same periods in 2020, which was primarily due to an increase in discount and interchange revenue. The increase in discount and interchange revenue was partially offset by an increase in rewards costs, both of which were the result of higher sales volume during the period. 
+
+Total other expense increased for the three months ended September 30, 2021, as compared to the same period in 2020, primarily due to increases in marketing and business development, other expense and professional fees. Marketing and business development increased due to accelerated growth investments primarily in card. The increase in other expense was driven by a legal accrual. The professional fees increase was driven primarily by an increase in recovery fees. 
+
+Total other expense increased for the nine months ended September 30, 2021, as compared to the same period in 2020, primarily due to increases in employee compensation and benefits, other expense, professional fees and marketing and business development. Employee compensation and benefits increased as a result of higher bonus accruals and higher average salaries, partially offset by lower headcount. The increase in other expense was driven by a legal accrual. The professional fees increase was driven primarily by an increase in recovery fees. Marketing and business development increased due to accelerated growth investments primarily in card. 
+
+Discover card sales volume was $47.6 billion and $130.8 billion, respectively, for the three and nine months ended September 30, 2021, which was an increase of 28.2% and 28.4%, respectively, as compared to the same periods in 2020. This volume growth was primarily driven by higher consumer spending across all spending categories, reflecting the easing of COVID-19 restrictions and continued economic expansion. 
+
+Payment Services 
+
+Our Payment Services segment reported pretax loss of $114 million and pretax income of $630 million, respectively, for the three and nine months ended September 30, 2021, as compared to pretax income of $42 million and $148 million for the same periods in 2020. The decrease in segment pretax income for the three months ended September 30, 2021, was driven 
+
+s 
+
+by unrealized losses on equity investments. Unrealized losses on equity investments are the result of changes in the fair value of our investments in payment services entities that have actively traded stock. The increase in segment pretax income for the nine months ended September 30, 2021, was due to unrealized gains on equity investments. Unrealized gains on equity investments are the result of investments in payment services entities that are carried at fair value because the shares are actively traded. This increase was partially offset by a decrease in realized gains on the sale of equity investments during the prior period. 
+
+Critical Accounting Estimates 
+
+In preparing our condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States ("GAAP"), management must make judgments and use estimates and assumptions about the effects of matters that are uncertain. For estimates that involve a high degree of judgment and subjectivity, it is possible that different estimates could reasonably be derived for the same period. For estimates that are particularly sensitive to economic or market conditions changes, significant changes to the estimated amount from period to period are also possible. Management believes the current assumptions and other considerations used to estimate amounts reflected in our condensed consolidated financial statements are appropriate. However, if actual experience differs from the assumptions and other considerations used in estimating amounts in our condensed consolidated financial statements, the resulting changes could have a material effect on our consolidated results of operations and, in some instances, could have a material effect on our consolidated financial condition. Management has identified the estimate related to our allowance for credit losses as a critical accounting estimate. The critical accounting estimate related to the allowance for credit losses is discussed in greater detail in our annual report on Form 10-K for the year ended December 31, 2020, under "Management's Discussion and Analysis of Financial Condition and Results of Operations &#8212; Critical Accounting Estimates." There have not been any material changes in the methods used to formulate this critical accounting estimate from those discussed in our annual report on Form 10-K for the year ended December 31, 2020. 
+
+Earnings Summary 
+
+The following table outlines changes in our condensed consolidated statements of income (dollars in millions): &#160; For the Three Months Ended September 30, 2021 vs. 2020 (Decrease) Increase For the Nine Months Ended September 30, 2021 vs. 2020 (Decrease) Increase &#160; 2021 2020 $ % 2021 2020 $ % Interest income $ 2,674 $ 2,681 $ (7) NM $ 7,909 $ 8,335 $ (426) (5) % Interest expense 269 416 (147) (35) % 875 1,482 (607) (41) % Net interest income 2,405 2,265 140 6 % 7,034 6,853 181 3 % Provision for credit losses 185 750 (565) (75) % (45) 4,603 (4,648) (101) % Net interest income after provision for credit losses 2,220 1,515 705 47 % 7,079 2,250 4,829 215 % Other income 372 449 (77) (17) % 2,117 1,411 706 50 % Other expense 1,190 1,005 185 18 % 3,493 3,241 252 8 % Income before income taxes 1,402 959 443 46 % 5,703 420 5,283 NM Income tax expense 311 188 123 65 % 1,321 78 1,243 NM Net income $ 1,091 $ 771 $ 320 42 % $ 4,382 $ 342 $ 4,040 NM 
+
+Net Interest Income 
+
+The table that follows this section has been provided to supplement the discussion below and provide further analysis of net interest income and net interest margin. Net interest income represents the difference between interest income earned on our interest-earning assets and the interest expense incurred to finance those assets. We analyze net interest income in total by calculating net interest margin (net interest income as a percentage of average total loan receivables) and net yield on interest-earning assets (net interest income as a percentage of average total interest-earning assets). We also separately consider the impact of the level of loan receivables and the related interest yield and the impact of the cost of funds related to each of our funding sources, along with the income generated by our liquidity portfolio, on net interest income. 
+
+Our interest-earning assets consist of: (i) cash and cash equivalents primarily related to amounts on deposit with the Federal Reserve Bank of Philadelphia, (ii) restricted cash, (iii) other short-term investments, (iv) investment securities and (v) loan receivables. Our interest-bearing liabilities consist primarily of deposits, both direct-to-consumer and brokered, and 
+
+s 
+
+long-term borrowings, including amounts owed to securitization investors. The following factors influence net interest income: 
+
+&#8226; The level and composition of loan receivables, including the proportion of credit card loans to other loans, as well as the proportion of loan receivables bearing interest at promotional rates as compared to standard rates; 
+
+&#8226; The credit performance of our loans, particularly with regard to charge-offs of finance charges, which reduces interest income; 
+
+&#8226; The terms of long-term borrowings and certificates of deposit upon initial offering, including maturity and interest rate; 
+
+&#8226; The interest rates necessary to attract and maintain direct-to-consumer deposits; 
+
+&#8226; The level and composition of other interest-earning assets, including our liquidity portfolio and interest-bearing liabilities; 
+
+&#8226; Changes in the interest rate environment, including the levels of interest rates and the relationships among interest rate indices, such as the prime rate, the Federal Funds rate, interest rate on excess reserves and LIBOR; and 
+
+&#8226; The effectiveness of interest rate swaps in our interest rate risk management program. 
+
+&#160; Net interest income increased for the three months ended September 30, 2021, as compared to the same period in 2020, primarily driven by lower funding costs. Interest income remained flat during the three months ended September 30, 2021, as compared to the same period in 2020, due to favorable interest charge-offs offset by a lower card revolve rate. Interest expense decreased during the three months ended September 30, 2021, as compared to the same period in 2020, due to lower average market rates, a lower funding base, lower pricing on deposits and higher coupon maturities. 
+
+Net interest income increased for the nine months ended September 30, 2021, as compared to the same period in 2020, primarily driven by lower funding costs, partially offset by a lower average level of outstanding loan receivables and lower yields on loans. Interest income decreased during the nine months ended September 30, 2021, as compared to the same period in 2020. This decrease was primarily due to a lower average level of card loan receivables, driven by higher payment rates, as well as lower yields on loans due to the lower market rates. Interest expense decreased during the nine months ended September 30, 2021, as compared to the same period in 2020 due to lower average market rates, a lower funding base, lower pricing on deposits and higher coupon maturities. 
+
+s 
+
+Average Balance Sheet Analysis 
+
+(dollars in millions) For the Three Months Ended September 30, &#160; 2021 2020 &#160; Average Balance Yield/Rate Interest Average Balance Yield/Rate Interest Assets Interest-earning assets Cash and cash equivalents $ 12,192 0.16 % $ 3 $ 12,552 0.12 % $ 4 Restricted cash 571 0.03 % NM 775 0.09 % NM Other short-term investments NM 0.10 % NM 4,529 0.15 % 2 Investment securities 8,431 2.09 % 45 10,760 2.13 % 58 Loan receivables (1) 
+
+Credit card loans (2) 
+
+69,416 12.53 % 2,193 69,643 12.40 % 2,171 Private student loans 9,932 7.36 % 184 9,790 7.40 % 182 Personal loans 6,900 12.61 % 219 7,255 13.03 % 237 Other loans 2,108 5.41 % 30 1,734 6.25 % 27 Total loan receivables 88,356 11.79 % 2,626 88,422 11.78 % 2,617 Total interest-earning assets 109,550 9.68 % 2,674 117,038 9.11 % 2,681 Allowance for credit losses (7,020) (8,183) Other assets 6,430 5,981 Total assets $ 108,960 $ 114,836 Liabilities and Stockholders' Equity Interest-bearing liabilities Interest-bearing deposits Time deposits $ 22,804 1.76 % 101 $ 32,063 2.33 % 188 Money market deposits (3) 
+
+8,108 0.53 % 11 8,104 0.94 % 19 Other interest-bearing savings deposits 41,059 0.42 % 44 36,655 0.87 % 80 Total interest-bearing deposits 71,971 0.86 % 156 76,822 1.49 % 287 Borrowings Short-term borrowings 6 0.24 % NM 350 3.10 % 3 Securitized borrowings (4)(5) 
+
+8,292 1.10 % 22 12,115 1.04 % 31 Other long-term borrowings (5)(6) 
+
+9,550 3.78 % 91 10,426 3.60 % 95 Total borrowings 17,848 2.53 % 113 22,891 2.23 % 129 Total interest-bearing liabilities 89,819 1.19 % 269 99,713 1.66 % 416 Other liabilities and stockholders' equity 19,141 15,123 Total liabilities and stockholders' equity $ 108,960 $ 114,836 Net interest income $ 2,405 $ 2,265 
+
+Net interest margin (7) 
+
+10.80 % 10.19 % 
+
+Net yield on interest-earning assets (8) 
+
+8.71 % 7.70 % 
+
+Interest rate spread (9) 
+
+8.49 % 7.45 % 
+
+s 
+
+For the Nine Months Ended September 30, &#160; 2021 2020 &#160; Average Balance Yield/Rate Interest Average Balance Yield/Rate Interest Assets Interest-earning assets Cash and cash equivalents $ 15,725 0.12 % $ 14 $ 11,522 0.36 % $ 31 Restricted cash 536 0.03 % NM 544 0.48 % 2 Other short-term investments 235 0.12 % NM 1,667 0.15 % 2 Investment securities 9,125 2.08 % 142 10,658 2.14 % 171 Loan receivables (1) 
+
+Credit card loans (2) 
+
+68,522 12.59 % 6,452 71,934 12.55 % 6,760 Private student loans 10,044 7.38 % 554 9,869 7.70 % 569 Personal loans 6,953 12.73 % 662 7,477 12.90 % 722 Other loans 2,002 5.64 % 85 1,609 6.48 % 78 Total loan receivables 87,521 11.84 % 7,753 90,889 11.95 % 8,129 Total interest-earning assets 113,142 9.35 % 7,909 115,280 9.66 % 8,335 Allowance for credit losses (7,521) (6,991) Other assets 6,189 5,787 Total assets $ 111,810 $ 114,076 Liabilities and Stockholders&#8217; Equity Interest-bearing liabilities Interest-bearing deposits Time deposits $ 24,856 1.90 % 354 $ 33,202 2.46 % 611 Money market deposits (3) 
+
+8,151 0.53 % 32 7,635 1.28 % 73 Other interest-bearing savings deposits 40,760 0.43 % 133 33,852 1.25 % 316 Total interest-bearing deposits 73,767 0.94 % 519 74,689 1.79 % 1,000 Borrowings Short-term borrowings 3 0.21 % NM 118 3.10 % 3 Securitized borrowings (4)(5) 
+
+9,798 1.05 % 77 13,051 1.55 % 152 Other long-term borrowings (5)(6) 
+
+10,037 3.72 % 279 11,193 3.91 % 327 Total borrowings 19,838 2.40 % 356 24,362 2.64 % 482 Total interest-bearing liabilities 93,605 1.25 % 875 99,051 2.00 % 1,482 Other liabilities and stockholders&#8217; equity 18,205 15,025 Total liabilities and stockholders&#8217; equity $ 111,810 $ 114,076 Net interest income $ 7,034 $ 6,853 
+
+Net interest margin (7) 
+
+10.74 % 10.07 % 
+
+Net yield on interest-earning assets (8) 
+
+8.31 % 7.94 % 
+
+Interest rate spread (9) 
+
+8.10 % 7.66 % 
+
+(1) Average balances of loan receivables and yield calculations include non-accruing loans. If the non-accruing loan balances were excluded, there would not be a material impact on the amounts reported above. 
+
+(2) Interest income on credit card loans includes $73 million and $70 million of amortization of balance transfer fees for the three months ended September 30, 2021 and 2020, respectively, and $217 million and $227 million for the nine months ended September 30, 2021 and 2020, respectively. 
+
+(3) Includes the impact of interest rate swap agreements used to change a portion of floating-rate funding to fixed-rate funding for the three and nine months ended September 30, 2020. 
+
+(4) Includes the impact of one terminated derivative formerly designated as a cash flow hedge for the three and nine months ended September 30, 2021 and 2020. 
+
+(5) Includes the impact of interest rate swap agreements used to change a portion of fixed-rate funding to floating-rate funding for the three and nine months ended September 30, 2021 and 2020. 
+
+(6) Includes the impact of one terminated derivative formerly designated as a fair value hedge for the three and nine months ended September 30, 2021. 
+
+(7) Net interest margin represents net interest income as a percentage of average total loan receivables. 
+
+(8) Net yield on interest-earning assets represents net interest income as a percentage of average total interest-earning assets. 
+
+(9) Interest rate spread represents the difference between the rate on total interest-earning assets and total interest-bearing liabilities. 
+
+s 
+
+Loan Quality 
+
+Impact of the COVID-19 Pandemic on the Loan Portfolio 
+
+The COVID-19 pandemic and its impact on the economy have significantly affected our sales volume and credit card loan growth. We tightened standards for new accounts and for growing existing accounts across all products and reduced our marketing and customer acquisition expenditures at the onset of the pandemic. Due to the strong economic recovery from the COVID-19 pandemic-induced recession, we returned most of our underwriting criteria to pre-pandemic standards and resumed our investment in marketing and business development during the second quarter of 2021. This change in our credit underwriting, in addition to changes in consumer spending behavior, increased marketing and the re-opening of the United States economy upon expiration of COVID-19 restrictions, contributed to an increase in sales volume for the three and nine months ended September 30, 2021, when compared to the same periods in 2020. Our outstanding loan receivables as of September 30, 2021, decreased when compared to December 31, 2020, due to elevated payment rates resulting from the several rounds of government stimulus and associated improvement in household cash flows. The decrease in outstanding loan receivables was partially offset by the robust credit card sales trends and seasonality in private student loan originations during the nine months ended September 30, 2021. 
+
+At the onset of the COVID-19 pandemic, we expanded borrower relief offerings to include Skip-a-Pay (payment deferral) ("SaP") and other loan modification programs, complementing the assistance already available through our existing loan modification programs. On August 31, 2020, we ceased offering enrollments in the SaP and other loan modification programs specifically developed in response to the COVID-19 pandemic. The accounts using these modifications as a result of the COVID-19 pandemic were evaluated for potential exclusion from the TDR designation either due to the insignificance of the concession or because they qualified for an exemption pursuant to the CARES Act. The SaP programs provided only an insignificant delay in payment on the enrolled accounts or loans and therefore those deferrals were not classified as TDRs. 
+
+Section 4013 of the CARES Act provides certain financial institutions with the option to suspend the application of accounting and reporting guidance for TDRs for a limited period of time for loan modifications made to address the effects of the COVID-19 pandemic. Section 541 of the Omnibus and COVID Relief and Response Act extended the TDR accounting and reporting relief provided by the CARES Act through the earlier of January 1, 2022, or the date that is 60 days after the termination of the presidentially-declared national emergency. We elected to apply the option to suspend the application of accounting and reporting guidance for TDRs as provided under Section 4013 of the CARES Act and as subsequently extended. As such, the number of accounts and corresponding balances designated as a TDR for the three and nine months ended September 30, 2021 and 2020, have been favorably impacted by the exclusion of certain modifications from the TDR designation pursuant to these exemptions and are expected to remain lower than they otherwise would have been. The payment status of modified accounts excluded from the TDR designation pursuant to the CARES Act is reflected in our delinquency reporting. 
+
+s 
+
+The table below reflects the number and balance of both new loan modifications reported as TDRs and new loan modifications excluded from the TDR designation pursuant to the CARES Act (dollars in millions) (1) : Accounts that entered a loan modification program and were classified as TDRs during the period Accounts that entered a loan modification program and were exempt from the TDR designation pursuant to the CARES Act (1) 
+
+Number of Accounts Balances Number of Accounts Balances For the Three Months Ended September 30, 2021 Credit card loans 13,964 $ 86 27,925 $ 200 Private student loans 102 $ 2 2,325 $ 46 Personal loans 888 $ 10 239 $ 3 
+
+For the Three Months Ended September 30, 2020 (2) 
+
+Credit card loans 20,779 $ 150 80,656 $ 591 Private student loans 118 $ 2 1,922 $ 35 Personal loans 2,505 $ 33 2,193 $ 39 
+
+For the Nine Months Ended September 30, 2021 (3) 
+
+Credit card loans 48,887 $ 315 97,449 $ 697 Private student loans 355 $ 7 7,038 $ 135 Personal loans 3,102 $ 38 1,177 $ 18 
+
+For the Nine Months Ended September 30, 2020 (3) 
+
+Credit card loans 130,869 $ 875 155,676 $ 1,169 Private student loans 1,767 $ 32 3,416 $ 62 Personal loans 6,315 $ 83 2,431 $ 43 
+
+(1) SaP programs were not considered TDRs and therefore are not included in accounts excluded from the TDR designation by the CARES Act. 
+
+(2) Certain prior period amounts have been reclassified to conform to the current period presentation. 
+
+(3) As the TDR exemption pursuant to the CARES Act took effect in March 2020, the nine months ended September 30, 2021, is not comparable to the same period in 2020. 
+
+The number and balance of new credit card and personal loan modifications, including the combined total of those identified as TDRs and those exempt from the TDR designation, decreased during the three and nine months ended September 30, 2021, when compared to the same periods in 2020. The decrease in both periods is primarily due to the impacts of several rounds of government stimulus and disaster relief programs, which reduced the need for our customers to enroll in a loan modification program. The number and balance of loan modifications across all products, including the combined total of those identified as TDRs and those exempt from the TDR designation, during the three and nine months ended September 30, 2020, were favorably impacted by the utilization of SaP programs in lieu of traditional loan modification programs. Additionally, enrollments in personal loan modification programs were favorably impacted by tighter underwriting standards that were implemented in early 2020. 
+
+s 
+
+The following table provides the number of accounts that exited a temporary loan modification program that were exempt from the TDR designation pursuant to the CARES Act and corresponding outstanding balances along with the amount of the outstanding balances that were delinquent (30 or more days past due) upon exiting the temporary loan modification program (dollars in millions) (1) : 
+
+Three Months Ended September 30, 2021 Number of Accounts Outstanding Balances Balances Delinquent (2) 
+
+Credit card loans 42,067 $ 254 $ 35 
+
+Private student loans (3) 
+
+2,290 $ 40 NM 
+
+Personal loans (3) 
+
+1,307 $ 21 NM Nine Months Ended September 30, 2021 Number of Accounts Outstanding Balances Balances Delinquent (2) 
+
+Credit card loans 155,712 $ 955 $ 129 
+
+Private student loans (3) 
+
+6,024 $ 106 NM 
+
+Personal loans (3) 
+
+4,101 $ 61 NM 
+
+(1) As the TDR exemption pursuant to the CARES Act took effect in March 2020, the nine months ended September 30, 2021, is not comparable to the same period in 2020. The number of accounts that exited a temporary loan modification program that were exempt from the TDR designation pursuant to the CARES Act and corresponding outstanding balances were not meaningful for the three and nine months ended September 30, 2020. 
+
+(2) Includes balances charged off at the end of the month the account exited the temporary loan modification program. The balances charged off were not meaningful for the three and nine months ended September 30, 2021 and 2020. 
+
+(3) The private student loan and personal loan balances that were delinquent upon exiting a temporary loan modification program were not meaningful for the three and nine months ended September 30, 2021 and 2020. 
+
+Our estimate of expected loss reflected in our allowance for credit losses includes the risk associated with all loans. We consider the effects of all loan modifications, including TDRs, loan modifications exempt from the TDR designation pursuant to the CARES Act and SaP programs. We believe we have appropriately reflected the risk of the accounts using these programs and the economic impact of the COVID-19 pandemic on our customers in the allowance for credit losses. Refer to Note 3: Loan Receivables to our condensed consolidated financial statements for more details on modification programs, TDRs and the allowance for credit losses. 
+
+Loan receivables consist of the following (dollars in millions): September 30, 2021 December 31, 2020 Credit card loans $ 70,320 $ 71,472 Other loans Private student loans 10,184 9,954 Personal loans 6,890 7,177 Other loans 2,148 1,846 Total other loans 19,222 18,977 Total loan receivables 89,542 90,449 Allowance for credit losses (6,861) (8,226) Net loan receivables $ 82,681 $ 82,223 
+
+s 
+
+Provision and Allowance for Credit Losses 
+
+Provision for credit losses is the expense related to maintaining the allowance for credit losses at an appropriate level to absorb the estimate of credit losses anticipated over the remaining expected life of loan receivables at each period end date. In deriving the estimate of expected credit loss, we consider the collectability of principal, interest and fees associated with our loan receivables. We also consider expected recoveries of amounts that were either previously charged off or are expected to be charged off. Establishing the estimate for expected credit losses requires significant management judgment. The factors that influence the provision for credit losses include: 
+
+&#8226; Increases or decreases in outstanding loan balances, including: 
+
+&#8226; Changes in consumer spending, payment and credit utilization behaviors; 
+
+&#8226; The level of originations and maturities; and 
+
+&#8226; Changes in the overall mix of accounts and products within the portfolio; 
+
+&#8226; The credit quality of the loan portfolio, which reflects our credit granting practices and the effectiveness of collection efforts, among other factors; 
+
+&#8226; The impact of general economic conditions on the consumer, including national and regional conditions, unemployment levels, bankruptcy trends and interest rate movements; 
+
+&#8226; The level and direction of historical losses; and 
+
+&#8226; Regulatory changes or new regulatory guidance. 
+
+Refer to "Management's Discussion and Analysis of Financial Condition and Results of Operations &#8212; Critical Accounting Estimates" in our annual report on Form 10-K for the year ended December 31, 2020, and Note 3: Loan Receivables to our condensed consolidated financial statements for more details on how we estimate the allowance for credit losses. 
+
+s 
+
+The following tables provide changes in our allowance for credit losses (dollars in millions): 
+
+For the Three Months Ended September 30, 2021 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans Balance at June 30, 2021 $ 5,409 $ 828 $ 745 $ 44 $ 7,026 Additions Provision for credit losses (1) 
+
+178 46 (64) &#8212; 160 Deductions Charge-offs (495) (23) (38) &#8212; (556) Recoveries 206 6 19 &#8212; 231 Net charge-offs (289) (17) (19) &#8212; (325) Balance at September 30, 2021 $ 5,298 $ 857 $ 662 $ 44 $ 6,861 For the Three Months Ended September 30, 2020 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans Balance at June 30, 2020 $ 6,491 $ 799 $ 857 $ 37 $ 8,184 Additions Provision for credit losses (1) 
+
+604 55 49 2 710 Deductions Charge-offs (759) (20) (62) (1) (842) Recoveries 155 6 13 &#8212; 174 Net charge-offs (604) (14) (49) (1) (668) Balance at September 30, 2020 $ 6,491 $ 840 $ 857 $ 38 $ 8,226 For the Nine Months Ended September 30, 2021 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans Balance at December 31, 2020 $ 6,491 $ 840 $ 857 $ 38 $ 8,226 Additions Provision for credit losses (1) 
+
+(18) 61 (96) 6 (47) Deductions Charge-offs (1,778) (63) (150) &#8212; (1,991) Recoveries 603 19 51 &#8212; 673 Net charge-offs (1,175) (44) (99) &#8212; (1,318) Balance at September 30, 2021 $ 5,298 $ 857 $ 662 $ 44 $ 6,861 For the Nine Months Ended September 30, 2020 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans 
+
+Balance at December 31, 2019 (2) 
+
+$ 2,883 $ 148 $ 348 $ 4 $ 3,383 
+
+Cumulative effect of ASU No. 2016-13 adoption (3) 
+
+1,667 505 265 24 2,461 Balance at January 1, 2020 4,550 653 613 28 5,844 Additions Provision for credit losses (2) 
+
+3,916 233 426 11 4,586 Deductions Charge-offs (2,480) (62) (224) (1) (2,767) Recoveries 505 16 42 &#8212; 563 Net charge-offs (1,975) (46) (182) (1) (2,204) Balance at September 30, 2020 $ 6,491 $ 840 $ 857 $ 38 $ 8,226 
+
+(1) Excludes a $25 million and $40 million reclassification of the liability for expected credit losses on unfunded commitments for the three months ended September 30, 2021 and 2020, respectively, and $2 million and $17 million for the nine months ended September 30, 2021 and 2020, respectively, as the liability is recorded in accrued expenses and other liabilities in our condensed consolidated statements of financial condition. 
+
+(2) Prior to the adoption of Accounting Standards Update ("ASU") No. 2016-13 on January 1, 2020, credit losses were estimated using the incurred loss approach. 
+
+(3) Represents the adjustment to the allowance for credit losses due to the adoption of ASU No. 2016-13 on January 1, 2020. 
+
+s 
+
+The allowance for credit losses was approximately $6.9 billion at September 30, 2021, which reflects a $165 million release from the amount of the allowance for credit losses at June 30, 2021 and a $1.4 billion release from the amount of the allowance for credit losses at December 31, 2020. 
+
+The release in the allowance for credit losses between September 30, 2021 and June 30, 2021, was primarily driven by improving macroeconomic forecasts and continued stable credit performance, partially offset by modest loan growth during the period. The modest growth in loan receivables during the three months ended September 30, 2021, was driven by the robust credit card sales trends as COVID-19 restrictions continue to ease and the United States economy continues to more fully reopen. Additionally, credit card sales from new accounts and seasonality in private student loan originations contributed to an increase in ending outstanding loan receivables. The loan receivables growth was partially offset by elevated payment rates resulting from the several rounds of government stimulus and associated improvement in household cash flows. 
+
+The release in the allowance for credit losses between September 30, 2021 and December 31, 2020, was primarily driven by improvements in the macroeconomic forecast and continued stable credit performance. The release was also partially driven by a moderate reduction in loan receivables outstanding during the period. The decrease in outstanding loan receivables, particularly credit card and personal loan receivables, and the stable credit performance, were driven by elevated payment rates resulting from the several rounds of government stimulus and associated improvement in household cash flows. The decrease in outstanding loan receivables was partially offset by the robust credit card sales trends during the period and seasonality in private student loan originations in the third quarter of 2021. 
+
+In estimating the allowance at September 30, 2021, we used a macroeconomic forecast that projected (i) a peak unemployment rate of 6.1%, decreasing to 5.5% and 4.0% through the end of 2021 and 2022, respectively; and (ii) a 6.4% and 3.5% annualized growth in the real gross domestic product for 2021 and 2022, respectively. Labor market conditions, which historically have been an important determinant of credit loss trends, continue to improve despite the spread of the COVID-19 delta variant. However, the unemployment rate and initial and continuing jobless claims remain moderately elevated relative to pre-pandemic levels. In estimating expected credit losses, we considered the uncertainties associated with borrower behavior, payment trends and credit performance subsequent to the expiration of government stimulus programs, such as the CARES Act and ARPA, and disaster relief programs, such as foreclosure moratoriums and federal student loan and mortgage payment forbearance. During the third quarter of 2021, several disaster relief programs expired or were rescinded entirely. As the government's response to the pandemic wanes, there is uncertainty regarding the sustainability of the recent credit quality trends in our loan receivables portfolio. Accordingly, the estimation of the allowance for credit losses has required significant management judgment. 
+
+The forecast period we deemed reasonable and supportable was 18 months for all periods presented except March 31, 2020, where the forecast period was 12 months due to the uncertainty caused by the rapidly changing economic environment experienced at the onset of the COVID-19 pandemic. The 18-month reasonable and supportable forecast period was deemed appropriate based on the observed economic phase transition from recovery to expansion and the associated stabilization of macroeconomic forecasts. For all periods presented, we determined that a reversion period of 12 months was appropriate for similar reasons. Due to the uncertainties associated with borrower behavior resulting from government stimulus and disaster relief programs, we applied a weighted reversion method to provide a more reasonable transition to historical losses for all loan products for all periods presented with the following exceptions: at March 31, 2020 and December 31, 2019, we applied a straight-line method for all loan products. At June 30, 2020, we applied a weighted reversion method for credit card loans and a straight-line method for all other loan products. 
+
+The provision for credit losses is the amount of expense realized after considering the level of net charge-offs in the period and the required amount of allowance for credit losses at the balance sheet date. For the three months ended September 30, 2021, the provision for credit losses decreased by $550 million, or 77%, compared to the same period in 2020. For the nine months ended September 30, 2021, the provision for credit losses decreased by $4.6 billion, or 101%, compared to the same period in 2020. The decrease in both periods was primarily due to reserve releases in the current periods versus reserve builds in the prior periods and lower net charge-offs. The reserve releases during the three and nine months ended September 30, 2021, were primarily driven by favorable change in the macroeconomic outlook related to the economic impacts of the COVID-19 pandemic-induced recession and continued stable credit performance. The reserve builds during the three and nine months ended September 30, 2020, were primarily due to the unfavorable change in economic outlook resulting from the COVID-19 pandemic. 
+
+s 
+
+Net Charge-offs 
+
+Our net charge-offs include the principal amount of losses charged off less principal recoveries and exclude charged-off and recovered interest and fees and fraud losses. Charged-off and recovered interest and fees are recorded in interest income and loan fee income, respectively, which is effectively a reclassification of the provision for credit losses, while fraud losses are recorded in other expense. 
+
+The following table presents amounts and rates of net charge-offs of key loan products (dollars in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, &#160; 2021 2020 2021 2020 &#160; $ % $ % $ % $ % Credit card loans $ 289 1.65 % $ 604 3.45 % $ 1,175 2.29 % $ 1,975 3.67 % Private student loans $ 17 0.68 % $ 14 0.58 % $ 44 0.58 % $ 46 0.63 % Personal loans $ 19 1.11 % $ 49 2.69 % $ 99 1.91 % $ 182 3.24 % 
+
+The decreases in net charge-offs and the net charge-off rates for credit card and personal loans for the three and nine months ended September 30, 2021, when compared to the same periods in 2020, were primarily due to the impacts of government stimulus and disaster relief programs and to a lesser extent improved collection and recovery strategies. Additionally, the net charge-offs and the net charge-off rate of personal loans for three and nine months ended September 30, 2021, were favorably impacted by tighter underwriting standards that were implemented in early 2020. The net charge-offs and net charge-off rate for private student loans remained relatively flat for the three and nine months ended September 30, 2021, when compared to the same periods in 2020, due to the impacts of government stimulus and disaster relief programs. 
+
+s 
+
+Delinquencies 
+
+Delinquencies are an indicator of credit quality at a point in time. A loan balance is considered delinquent when contractual payments on the loan become 30 days past due. 
+
+The following table presents the amounts and delinquency rates of key loan products that are 30 and 90 days or more delinquent, loan receivables that are not accruing interest regardless of delinquency and loans restructured in TDR programs (dollars in millions): &#160; September 30, 2021 December 31, 2020 &#160; $ % $ % Loans 30 or more days delinquent Credit card loans $ 1,040 1.48 % $ 1,478 2.07 % Private student loans $ 158 1.55 % $ 138 1.39 % Personal loans $ 49 0.71 % $ 78 1.08 % 
+
+Loans 90 or more days delinquent (1) 
+
+Credit card loans $ 467 0.66 % $ 739 1.03 % Private student loans $ 36 0.35 % $ 28 0.28 % Personal loans $ 13 0.19 % $ 25 0.35 % Loans not accruing interest $ 232 0.24 % $ 243 0.26 % Troubled debt restructurings: 
+
+Credit card loans (2)(3)(4) 
+
+Currently enrolled $ 888 1.26 % $ 1,225 1.71 % No longer enrolled 300 0.43 448 0.63 Total credit card loans $ 1,188 1.69 % $ 1,673 2.34 % 
+
+Private student loans (5) 
+
+$ 258 2.53 % $ 286 2.87 % 
+
+Personal loans (6) 
+
+$ 197 2.86 % $ 222 3.09 % 
+
+(1) Credit card loans that were 90 or more days delinquent at September 30, 2021 and December 31, 2020, included $58 million and $44 million, respectively, in modified loans exempt from the TDR designation under the CARES Act. Within private student and personal loans that were 90 or more days delinquent at September 30, 2021 and December 31, 2020, the respective amounts associated with modifications exempt from the TDR designation under the CARES Act were immaterial. 
+
+(2) We estimate that interest income recognized on credit card loans restructured in TDR programs was $24 million and $50 million for the three months ended September 30, 2021 and 2020, respectively, and $84 million and $181 million for the nine months ended September 30, 2021 and 2020, respectively. We do not separately track interest income on loans in TDR programs. We estimate this amount by applying an average interest rate to the average loans in the various TDR programs. 
+
+(3) We estimate that the incremental interest income that would have been recorded in accordance with the original terms of credit card loans restructured in TDR programs was $34 million and $43 million for the three months ended September 30, 2021 and 2020, respectively, and $106 million and $144 million for the nine months ended September 30, 2021 and 2020, respectively. We do not separately track the amount of incremental interest income that would have been recorded if the loans in TDR programs had not been restructured and interest had instead been recorded in accordance with the original terms. We estimate this amount by applying the difference between the average interest rate earned on non-modified loans and the average interest rate earned on loans in the TDR programs to the average loans in the TDR programs. 
+
+(4) Credit card loans restructured in TDR programs include $44 million and $94 million at September 30, 2021 and December 31, 2020, respectively, which are also included in loans 90 or more days delinquent. 
+
+(5) Private student loans restructured in TDR programs include $8 million and $6 million at September 30, 2021 and December 31, 2020, respectively, which are also included in loans 90 or more days delinquent. 
+
+(6) Personal loans restructured in TDR programs include $4 million and $6 million at September 30, 2021 and December 31, 2020, respectively, which are also included in loans 90 or more days delinquent. 
+
+The 30-day and 90-day delinquency rates in the table above include all loans, including TDRs, modified loans exempt from TDR status and prior modifications that are no longer required to be reported as TDRs. The 30-day and 90-day delinquency rates for credit card and personal loans at September 30, 2021, decreased compared to December 31, 2020, primarily due to the impacts of government stimulus and disaster relief programs. Additionally, the 30-day and 90-day delinquency rates for personal loans were favorably impacted by tighter underwriting standards that were implemented in early 2020. The 30-day and 90-day delinquency rate for private student loans at September 30, 2021, increased compared to December 31, 2020, as the impacts of government stimulus and disaster relief programs began to wane. The increase in the 30-day and 90-day delinquency rate for private student loans was partially offset by an increase in outstanding private student loan receivables resulting from seasonality in originations. 
+
+The balance of private student and credit card loans reported as TDRs decreased at September 30, 2021, compared to December 31, 2020, primarily due to the exclusion of accounts qualifying for the exemption from the TDR designation 
+
+s 
+
+pursuant to the CARES Act and elevated payment rates resulting from the several rounds of government stimulus and associated improvement in household cash flows. 
+
+The balance of personal loans reported as TDRs decreased at September 30, 2021, compared to December 31, 2020, due to elevated payment rates resulting from the several rounds of government stimulus and associated improvement in household cash flows. Additionally, enrollments in personal loan modification programs were favorably impacted by tighter underwriting standards that were implemented in early 2020, resulting in a lower balance of personal loans entering into our loan modification programs. To provide additional clarity with respect to credit card loans classified as TDRs, the table above presents loans that are currently enrolled in modification programs separately from loans that have exited those programs but retain that classification. 
+
+The following table provides the balance of loan receivables restructured through a temporary loan modification program that were exempt from the TDR designation pursuant to the CARES Act (dollars in millions): 
+
+&#160; September 30, 2021 December 31, 2020 &#160; $ % $ % Credit card loans $ 1,541 2.19 % $ 1,351 1.89 % Private student loans $ 218 2.14 % $ 101 1.01 % Personal loans $ 54 0.78 % $ 73 1.02 % 
+
+We believe loan modification programs are useful in assisting customers experiencing financial difficulties and help to prevent defaults. We plan to continue to use loan modification programs as a means to provide relief to customers experiencing financial difficulties. See Note 3: Loan Receivables to our condensed consolidated financial statements for additional description of our use of loan modification programs to provide relief to customers experiencing financial hardship. 
+
+Modified and Restructured Loans 
+
+For information regarding modified and restructured loans, see "&#8212; Loan Quality &#8212; Delinquencies", "&#8212; Loan Quality &#8212; Impact of the COVID-19 Pandemic on the Loan Portfolio", "&#8212; COVID-19 Pandemic Response and Impact &#8212; Loan Receivables and Allowance for Credit Losses" and Note 3: Loan Receivables to our condensed consolidated financial statements. 
+
+Other Income 
+
+The following table presents the components of other income (dollars in millions): &#160; For the Three Months Ended September 30, 2021 vs 2020 Increase (Decrease) For the Nine Months Ended September 30, 2021 vs. 2020 Increase (Decrease) 2021 2020 $ % 2021 2020 $ % 
+
+Discount and interchange revenue, net (1) 
+
+$ 299 $ 238 $ 61 26 % $ 879 $ 691 $ 188 27 % Protection products revenue 43 44 (1) (2) % 129 135 (6) (4) % Loan fee income 121 100 21 21 % 333 304 29 10 % Transaction processing revenue 58 50 8 16 % 167 143 24 17 % Unrealized (losses) gains on equity investments (167) &#8212; (167) 100 % 562 &#8212; 562 100 % Realized gains on equity investments &#8212; &#8212; &#8212; &#8212; % &#8212; 79 (79) (100) % Other income 18 17 1 6 % 47 59 (12) (20) % Total other income $ 372 $ 449 $ (77) (17) % $ 2,117 $ 1,411 $ 706 50 % 
+
+(1) Net of rewards, including Cashback Bonus rewards, of $689 million and $514 million for the three months ended September 30, 2021 and 2020, respectively, and $1.8 billion and $1.4 billion for the nine months ended September 30, 2021 and 2020, respectively. 
+
+Total other income decreased for the three months ended September 30, 2021, as compared to the same period in 2020, primarily due to unrealized losses on equity investments offset by an increase in net discount and interchange revenue and loan fee income. Unrealized losses on equity investments are the result of changes in the fair value of our investments in payment services entities that have actively traded stock. The increase in net discount and interchange revenue was partially 
+
+s 
+
+offset by an increase in rewards costs, both of which were the result of higher sales volume. Loan fee income increased due to lower late fee charge offs. 
+
+Total other income increased for the nine months ended September 30, 2021, as compared to the same period in 2020, primarily due to unrealized gains on equity investments and an increase in net discount and interchange revenue. Unrealized gains on equity investments are the result of investments in payment services entities that are carried at fair value because the shares are actively traded. The increase in discount and interchange revenue was partially offset by an increase in rewards costs, both of which were the result of higher sales volume. The increase in total other income was partially offset by a decrease in realized gains on the sale of equity investments during the prior period. 
+
+Other Expense 
+
+The following table represents the components of other expense (dollars in millions): &#160; For the Three Months Ended September 30, 2021 vs. 2020 Increase (Decrease) For the Nine Months Ended September 30, 2021 vs. 2020 Increase (Decrease) &#160; 2021 2020 $ % 2021 2020 $ % Employee compensation and benefits $ 483 $ 471 $ 12 3 % $ 1,487 $ 1,390 $ 97 7 % Marketing and business development 210 140 70 50 % 539 500 39 8 % Information processing and communications 121 111 10 9 % 375 342 33 10 % Professional fees 198 151 47 31 % 567 525 42 8 % Premises and equipment 23 26 (3) (12) % 69 83 (14) (17) % Other expense 155 106 49 46 % 456 401 55 14 % Total other expense $ 1,190 $ 1,005 $ 185 18 % $ 3,493 $ 3,241 $ 252 8 % 
+
+Total other expense increased for the three months ended September 30, 2021, as compared to the same period in 2020, primarily due to increases in marketing and business development, other expense and professional fees. Marketing and business development increased due to accelerated growth investments primarily in card. The increase in other expense was driven by a legal accrual. The professional fees increase was driven primarily by an increase in recovery fees. 
+
+Total other expense increased for the nine months ended September 30, 2021, as compared to the same period in 2020, primarily due to increases in employee compensation and benefits, other expense, professional fees and marketing and business development. Employee compensation and benefits increased as a result of higher bonus accruals and higher average salaries, partially offset by lower headcount. The increase in other expense was driven by a legal accrual. The professional fees increase was driven primarily by an increase in recovery fees. Marketing and business development increased due to accelerated growth investments primarily in card. 
+
+Income Tax Expense 
+
+The following table presents the calculation of the effective income tax rate (dollars in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, &#160; 2021 2020 2021 2020 Income before income taxes $ 1,402 $ 959 $ 5,703 $ 420 Income tax expense $ 311 $ 188 $ 1,321 $ 78 Effective income tax rate 22.2 % 19.6 % 23.2 % 18.6 % 
+
+Income tax expense increased $123 million and $1.2 billion for the three and nine months ended September 30, 2021, respectively, as compared to the same periods in 2020. The increase in income tax expense was primarily driven by an increase in pretax income. The effective tax rate increased for the three and nine months ended September 30, 2021, respectively, as compared to the same periods in 2020, primarily due to tax credits having a lower rate benefit on higher pretax income. 
+
+s 
+
+Liquidity and Capital Resources 
+
+Impact of the COVID-19 Pandemic on Liquidity and Capital 
+
+The United States economy has made substantial progress recovering from a brief but severe recession caused by responses to the COVID-19 pandemic, with measures of aggregate output and income expanding for multiple quarters and surpassing their pre-pandemic levels. While the unemployment rate has fallen substantially from its pandemic peak, the labor market has not fully recovered from the recession. Nonfarm payroll employment and labor force participation rates, important indicators in the Federal Reserve's monetary policy considerations, remain below pre-pandemic levels. However, job openings have reached record highs, suggesting that the labor market recovery will continue. 
+
+We remain well-capitalized with capital ratios in excess of regulatory minimums and our own internal targets. Consequently, we resumed our common stock repurchase program during the first quarter of 2021. However, we maintain ample capital to finance loan receivable growth as and when customers moderate loan payment rates and continue to increase spending as the economy continues to more fully reopen from the COVID-19 pandemic. 
+
+Our level of liquid assets remains in excess of historical norms as of September 30, 2021 as consumer loan payment rates and deposit balances remain above their pre-pandemic levels. Although these factors have curtailed our need for wholesale funding, we maintain good access to all of our diverse funding channels. Credit spreads have tightened materially this year, nearing record-low levels as of September 30, 2021. We took advantage of the low-rate, tight-credit-spread environment by issuing approximately $1.8 billion of credit card asset-backed securities in September 2021. 
+
+Funding and Liquidity 
+
+We seek to maintain stable, diversified and cost-effective funding sources and a strong liquidity profile to fund our business and repay or refinance our maturing obligations under normal operating conditions and periods of economic or financial stress. In managing our liquidity risk, we seek to maintain a prudent liability maturity profile and ready access to an ample store of primary and contingent liquidity sources. Our primary funding sources include direct-to-consumer and brokered deposits, public term asset-backed securitizations and other short-term and long-term borrowings. Our primary liquidity sources include a liquidity portfolio comprised of highly liquid, unencumbered assets, including cash and cash equivalents and investment securities, as well as secured borrowing capacity through private term asset-backed securitizations and Federal Home Loan Bank ("FHLB") advances. In addition, we have unused borrowing capacity with the Federal Reserve discount window, which provides another source of contingent liquidity. 
+
+Funding Sources 
+
+Deposits 
+
+We offer deposit products to customers through two channels: (i) through direct marketing, internet origination and affinity relationships ("direct-to-consumer deposits"); and (ii) indirectly through contractual arrangements with securities brokerage firms ("brokered deposits"). Direct-to-consumer deposits include online savings accounts, certificates of deposit, money market accounts, IRA savings accounts, IRA certificates of deposit and checking/debit accounts. Brokered deposits include certificates of deposit and sweep accounts. In December 2020, the Federal Deposit Insurance Corporation ("FDIC") issued the final rule on revisions to its regulations on brokered deposits. Under the FDIC's final rule, our regulatory reporting must reflect changes to the categorization of deposits beginning January 1, 2022. We are evaluating those changes. In accordance with the final rule, certain retail deposit products such as affinity deposits and deposits generated through certain sweep deposit relationships may no longer be categorized as brokered for regulatory reporting purposes in the future. At September 30, 2021, we had $62.0 billion of direct-to-consumer deposits and $10.6 billion of brokered deposits. 
+
+Credit Card Securitization Financing 
+
+We securitize credit card receivables as a source of funding. We access the asset-backed securitization market using the Discover Card Master Trust I ("DCMT") and the Discover Card Execution Note Trust ("DCENT"). In connection with our securitization transactions, credit card receivables are transferred to DCMT. DCMT has issued a certificate representing the beneficial interest in its credit card receivables to DCENT. We issue DCENT DiscoverSeries notes in public and private transactions, which are collateralized by the beneficial interest certificate held by DCENT. From time to time, we may add credit card receivables to DCMT to create sufficient funding capacity for future securitizations while managing seller's interest. We retain significant exposure to the performance of the securitized credit card receivables through holdings of the seller's interest and subordinated classes of DCENT DiscoverSeries notes. At September 30, 2021, we had $8.9 billion of 
+
+s 
+
+outstanding public asset-backed securities and $4.0 billion of outstanding subordinated asset-backed securities that had been issued to our wholly-owned subsidiaries. 
+
+The securitization structures include certain features designed to protect investors. The primary feature relates to the availability and adequacy of cash flows in the securitized pool of receivables to meet contractual requirements, the insufficiency of which triggers early repayment of the securities. We refer to this as "economic early amortization," which is based on excess spread levels. Excess spread is the amount by which income received with respect to the securitized credit card receivables during a collection period including interest collections, fees and interchange, exceeds the fees and expenses of DCENT during such collection period, including interest expense, servicing fees and charged-off receivables. In the event of an economic early amortization, which would occur if the excess spread fell below 0% on a three-month rolling average basis, we would be required to repay all outstanding securitized borrowings using available collections received with respect to the securitized credit card receivables. For the three months ended September 30, 2021, the DiscoverSeries three-month rolling average excess spread was 14.92%. The period of ultimate repayment would be determined by the amount and timing of collections received. 
+
+Through our wholly-owned indirect subsidiary, Discover Funding LLC, we are required to maintain an interest in a contractual minimum level of receivables in DCMT in excess of the face value of outstanding investors' interests. This minimum interest is referred to as the minimum seller's interest. The required minimum seller's interest in the pool of trust receivables is approximately 7% in excess of the total investors' interests, which includes interests held by third parties as well as those interests held by us. If the level of receivables in DCMT were to fall below the required minimum, we would be required to add receivables from the unrestricted pool of receivables, which would increase the amount of credit card receivables restricted for securitization investors. A decline in the amount of the excess seller's interest could occur if balance repayments and charge offs exceeded new lending on the securitized accounts or as a result of changes in total outstanding investors' interests. Seller's interest exhibits seasonality as higher receivable balance repayments tend to occur in the first calendar year quarter. If we could not add enough receivables to satisfy the minimum seller's interest requirement, an early amortization (or repayment) of investors' interests would be triggered. 
+
+An early amortization event would impair our liquidity and may require us to utilize our available non-securitization-related contingent liquidity or rely on alternative funding sources, which may or may not be available at the time. We have several strategies we can deploy to prevent an early amortization event. For instance, we could add additional receivables to DCMT, which would reduce our available borrowing capacity at the Federal Reserve discount window. As of September 30, 2021, there were $24.5 billion of credit card receivables in the trust and no accounts were added to those restricted for securitization investors for the three and nine months ended September 30, 2021. Alternatively, we could employ structured discounting, which was used effectively in 2009 to bolster excess spread and mitigate early amortization risk. 
+
+The following table summarizes expected contractual maturities of the investors' interests in credit card securitizations, excluding those that have been issued to our wholly-owned subsidiaries (dollars in millions): At September 30, 2021 Total Less Than One Year One Year Through Three Years Four Years Through Five Years After Five Years Scheduled maturities of long-term borrowings - owed to credit card securitization investors $ 8,954 $ 2,560 $ 5,796 $ 598 $ &#8212; 
+
+The "AAA(sf)" and "Aaa(sf)" ratings of the DCENT DiscoverSeries Class A Notes issued to date have been based, in part, on an FDIC rule, which created a safe harbor that provides that the FDIC, as conservator or receiver, will not use its power to disaffirm or repudiate contracts, seek to reclaim or recover assets transferred in connection with a securitization, or recharacterize assets transferred in connection with a securitization as assets of the insured depository institution, provided such transfer satisfies the conditions for sale accounting treatment under previous GAAP. Although the implementation of Financial Accounting Standards Board ("FASB") Accounting Standards Codification Topic 860, Transfers and Servicing , no longer qualified certain transfers of assets for sale accounting treatment, the FDIC approved a final rule that preserved the safe-harbor treatment applicable to revolving trusts and master trusts, including DCMT, so long as those trusts would have satisfied the original FDIC safe harbor if evaluated under GAAP pertaining to transfers of financial assets in effect prior to December 2009. However, other legislative and regulatory developments may impact our ability or desire to issue asset-backed securities in the future. 
+
+s 
+
+Federal Home Loan Bank Advances 
+
+Discover Bank is a member bank of the FHLB of Chicago, one of 11 FHLBs that, along with the Office of Finance, compose the FHLB System. The FHLBs are government-sponsored enterprises of the United States of America ("U.S. GSEs") chartered to improve the availability of funds to support home ownership. As such, senior debt obligations of the FHLBs feature the same credit ratings as United States Treasury securities and are considered high-quality liquid assets for bank regulatory purposes. Consequently, the FHLBs benefit from consistent capital market access during nearly all macroeconomic and financial market conditions and low funding costs, which they pass on to their member banks when they borrow advances. Thus, we consider FHLB advances a stable and reliable funding source for Discover Bank for short-term contingent liquidity and long-term asset-liability management. 
+
+As a member of the FHLB of Chicago, Discover Bank has access to short- and long-term advance structures with maturities ranging from overnight to 30 years. At September 30, 2021, we had approximately $1.3 billion of borrowing capacity through the FHLB of Chicago based on the amount and type of assets pledged. As of September 30, 2021, there were no borrowings outstanding with the FHLB of Chicago. Under certain stressed conditions, we could pledge our liquidity portfolio securities and borrow against them at a modest reduction to their value. 
+
+Other Long-Term Borrowings&#8212;Private Student Loans 
+
+At September 30, 2021, $110 million of principal was outstanding on securitized debt assumed as part of our acquisition of The Student Loan Corporation. Principal and interest payments on the underlying private student loans will reduce the balance of these secured borrowings over time. 
+
+Other Long-Term Borrowings&#8212;Corporate and Bank Debt 
+
+The following table provides a summary of Discover Financial Services (Parent Company) and Discover Bank outstanding fixed-rate debt (dollars in millions): At September 30, 2021 Principal Amount Outstanding Discover Financial Services (Parent Company) fixed-rate senior notes, maturing 2022-2027 $ 3,422 Discover Financial Services (Parent Company) fixed-rate retail notes, maturing 2022-2031 $ 168 Discover Bank fixed-rate senior bank notes, maturing 2023-2030 $ 5,350 Discover Bank fixed-rate subordinated bank notes, maturing 2028 $ 500 
+
+Certain Discover Financial Services senior notes require us to offer to repurchase the notes at a price equal to 101% of their aggregate principal amount plus accrued and unpaid interest in the event of a change of control involving us and corresponding ratings downgrade below investment grade. 
+
+Short-Term Borrowings 
+
+As part of our regular funding strategy, we may, from time to time, borrow short-term funds in the federal funds market or the repurchase ("repo") market through repurchase agreements. Federal funds are short-term, unsecured loans between banks or other financial entities with a Federal Reserve account. Funds borrowed in the repo market are short-term, collateralized loans, usually secured with highly-rated investment securities such as United States Treasury bills or notes, or mortgage bonds or debentures issued by government agencies or U.S. GSEs. At September 30, 2021, there were no outstanding balances in the federal funds market or under repurchase agreements. Additionally, the FHLB of Chicago offers short-term advance structures that we may use for short-term liquidity needs. At September 30, 2021, there were no outstanding short-term advances from the FHLB. 
+
+Additional Funding Sources 
+
+Private Asset-Backed Securitizations 
+
+We have access to committed borrowing capacity through privately placed asset-backed securitizations. While we may utilize funding from these private securitizations from time to time for normal business operations, their committed nature also makes them a reliable contingency funding source. Therefore, we reserve some undrawn capacity, informed by our liquidity stress test results, for potential contingency funding needs. At September 30, 2021, we had a total committed 
+
+s 
+
+capacity of $4.0 billion, none of which was drawn. We seek to ensure the stability and reliability of these securitizations by staggering their maturity dates, renewing them approximately one year prior to their scheduled maturity dates and periodically drawing them for operational tests and seasonal funding needs. 
+
+Federal Reserve 
+
+Discover Bank has access to the Federal Reserve Bank of Philadelphia's discount window. As of September 30, 2021, Discover Bank had $32.7 billion of available borrowing capacity through the discount window based on the amount and type of assets pledged, primarily consumer loans. As of September 30, 2021, we have no borrowings outstanding under the discount window and reserve this capacity as a source of contingent liquidity. 
+
+Funding Uses 
+
+Our primary uses of funds include the extensions of loans and credit, primarily through Discover Bank; the purchase of investment securities for our liquidity portfolio; working capital; and debt and capital service. We assess funding uses and liquidity needs under stressed and normal operating conditions, considering primary uses of funding, such as on-balance sheet loans and contingent uses of funding, such as the need to post additional collateral for derivatives positions. To anticipate funding needs under stress, we conduct liquidity stress tests to assess the impact of idiosyncratic, systemic and hybrid (i.e., idiosyncratic and systemic) scenarios with varying levels of liquidity risk reflecting a range of stress severity. 
+
+Credit Ratings 
+
+Our borrowing costs and capacity in certain funding markets, including those for securitizations and unsecured senior and subordinated debt, may be affected by the credit ratings of DFS, Discover Bank and the securitization trusts. Downgrades in these credit ratings could result in higher interest expense on our unsecured debt and asset securitizations, as well as higher credit enhancement requirements for both our public and private asset securitizations. In addition to increased funding costs, deterioration in credit ratings could reduce our borrowing capacity in the unsecured debt and asset securitization capital markets. 
+
+When the COVID-19 pandemic emerged in 2020, rating agencies cited their expectation that the banking industry would experience heightened loan delinquencies and charge offs from deterioration in the labor market. During the second quarter of 2020, Moody&#8217;s, Standard and Poor&#8217;s and Fitch Ratings affirmed our credit ratings. Standard and Poor&#8217;s and Fitch changed the outlook on DFS' and Discover Bank's senior unsecured credit ratings from &#8220;stable&#8221; to &#8220;negative&#8221; while Moody&#8217;s retained a &#8220;stable&#8221; outlook on the credit ratings of each. On March 25, 2021, Standard and Poor's upgraded the outlook on DFS' and Discover Bank's senior unsecured debt from "negative" to "stable," recognizing better-than-expected operating performance in 2020 and our strong loss-absorbing capacity. For similar reasons, on May 3, 2021, Fitch Ratings also affirmed the credit ratings on DFS' and Discover Bank's senior unsecured debt and revised its outlook on those ratings from "negative" to "stable." Moreover, on May 27, 2021, Moody's affirmed its credit ratings for DFS and Discover Bank while upgrading its outlook on those ratings from "stable" to "positive." On July 12, 2021, Moody's upgraded Discover Bank's long-term subordinate debt rating to "Baa2" from "Baa3", driven by revisions to their Advanced Loss Given Failure analysis. The table below reflects our current credit ratings and outlooks. Moody's Investors Service Standard &#38; Poor's Fitch Ratings Discover Financial Services Senior unsecured debt Baa3 BBB- BBB+ Outlook for Discover Financial Services senior unsecured debt Positive Stable Stable Discover Bank Senior unsecured debt Baa2 BBB BBB+ Outlook for Discover Bank senior unsecured debt Positive Stable Stable Subordinated debt Baa2 BBB- BBB Discover Card Execution Note Trust 
+
+Class A (1) 
+
+Aaa(sf) AAA(sf) AAA(sf) 
+
+(1) An "sf" in the rating denotes rating agency identification for structured finance product ratings. 
+
+A credit rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating. A credit 
+
+s 
+
+rating outlook reflects an agency's opinion regarding the likely rating direction over the medium term, often a period of about a year, and indicates the agency's belief that the issuer's credit profile is consistent with its current rating level at that point in time. 
+
+Liquidity 
+
+We seek to ensure that we have adequate liquidity to sustain business operations, fund asset growth and satisfy debt obligations under stressed and normal operating conditions. In addition to the funding sources discussed in the previous section, we also maintain highly liquid, unencumbered assets in our liquidity portfolio that we expect to be able to convert to cash quickly and with little loss of value using either the repo market or outright sales. 
+
+We maintain a liquidity risk and funding management policy, which outlines the overall framework and general principles we follow in managing liquidity risk across our business. The Board of Directors approves the policy and the Asset and Liability Management Committee (the "ALCO") is responsible for its implementation. Additionally, we maintain a liquidity management framework document that outlines the general strategies, objectives and principles we utilize to manage our liquidity position and the various liquidity risks inherent in our business model. We seek to balance the trade-offs between maintaining too much liquidity, which may be costly, with having too little liquidity, which could cause financial distress. The ALCO, chaired by our Treasurer with cross-functional membership, centrally manages liquidity risk. The ALCO monitors the liquidity risk profiles of DFS and Discover Bank and oversees any actions Corporate Treasury may take to ensure that we maintain ready access to our funding sources and sufficient liquidity to meet current and projected needs. In addition, the ALCO and our Board of Directors regularly review our compliance with our liquidity limits at DFS and Discover Bank, which are established in accordance with the liquidity risk appetite set by our Board of Directors. 
+
+We employ a variety of metrics to monitor and manage liquidity. We utilize early warning indicators ("EWIs") to detect emerging liquidity stress events and a reporting and escalation process designed to be consistent with regulatory guidance. The EWIs include both idiosyncratic and systemic measures and are monitored daily and reported to the ALCO regularly. A warning from one or more of these indicators triggers prompt review and decision-making by our senior management team and, in certain instances, may lead to the convening of a senior-level response team and activation of our contingency funding plan. 
+
+In addition, we conduct liquidity stress tests regularly and ensure contingency funding is in place to address potential liquidity shortfalls. We evaluate a range of stress scenarios that are designed according to regulatory requirements, including idiosyncratic, systemic and a combination of such events that could impact funding sources and our ability to meet liquidity needs. These scenarios measure the projected liquidity position at DFS and Discover Bank across a range of time horizons by comparing estimated contingency funding needs to available contingent liquidity. 
+
+Our primary contingent liquidity sources include our liquidity portfolio securities, which we could sell, repo or borrow against, and private securitizations with unused borrowing capacity. In addition, we could borrow FHLB advances by pledging securities to the FHLB of Chicago. Moreover, we have unused borrowing capacity with the Federal Reserve discount window, which provides an additional source of contingent liquidity. We seek to maintain sufficient liquidity to satisfy all maturing obligations and fund business operations for at least 12 months in a severe stress environment. In such an environment, we may also take actions to curtail the size of our balance sheet, which would reduce the need for funding and liquidity. 
+
+At September 30, 2021, our liquidity portfolio is comprised of highly liquid, unencumbered assets, including cash and cash equivalents and investment securities. Cash and cash equivalents were primarily deposits with the Federal Reserve and United States Treasury bills. Investment securities primarily included debt obligations of the United States Treasury and U.S. GSEs and residential mortgage-backed securities ("RMBS") issued by United States government agencies or U.S. GSEs. These investments are considered highly liquid and we expect to have the ability to raise cash by selling them, utilizing repurchase agreements or pledging certain of these investments to access secured funding. The size and composition of our liquidity portfolio may fluctuate based on the size of our balance sheet as well as operational requirements, market conditions and interest rate risk management policies. For instance, our liquidity portfolio grew during 2020 as our customer deposits increased and our loan balances declined, reflecting consumers&#8217; response to the COVID-19 pandemic. 
+
+s 
+
+At September 30, 2021, our liquidity portfolio and undrawn credit facilities were $58.0 billion, which is $5.3 billion lower than the balance at December 31, 2020. Our liquidity portfolio and undrawn credit facilities shrunk in the third quarter of 2021 due to the redemption or maturity of some of our outstanding retail notes, senior bank notes, and securitized debt and lower aggregate direct-to-consumer deposit balances resulting from reduced marketing and lower deposit pricing. During the three and nine months ended September 30, 2021, the average balance of our liquidity portfolio was $20.9 billion and $25.3 billion, respectively. Our liquidity portfolio and undrawn facilities consist of the following (dollars in millions): 
+
+September 30, 2021 December 31, 2020 Liquidity portfolio Cash and cash equivalents (1) 
+
+$ 11,984 $ 12,675 Other short-term investments &#8212; 2,200 Investment securities (2) 
+
+7,962 9,536 Total liquidity portfolio 19,946 24,411 
+
+Private asset-backed securitizations (3) 
+
+4,000 6,000 Federal Home Loan Bank of Chicago 1,341 &#8212; Primary liquidity sources 25,287 30,411 
+
+Federal Reserve discount window (3) 
+
+32,719 32,930 Total liquidity portfolio and undrawn credit facilities $ 58,006 $ 63,341 
+
+(1) Cash in the process of settlement and restricted cash are excluded from cash and cash equivalents for liquidity purposes. 
+
+(2) Excludes $56 million and $117 million of United States Treasury securities that have been pledged as swap collateral in lieu of cash as of September 30, 2021 and December 31, 2020, respectively. 
+
+(3) See "&#8212; Additional Funding Sources" for additional information. 
+
+Bank Holding Company Liquidity 
+
+The primary uses of funds at the unconsolidated DFS level include debt service obligations (interest payments and return of principal) and capital service and management activities, including dividend payments on capital instruments and the periodic repurchase of shares of our common stock. Our primary sources of funds at the bank holding company level include the proceeds from the issuance of unsecured debt and capital securities, as well as dividends from our subsidiaries, notably Discover Bank. Under periods of idiosyncratic or systemic stress, the bank holding company could lose or experience impaired access to the capital markets. In addition, our regulators have the discretion to restrict dividend payments from Discover Bank to the bank holding company. 
+
+We utilize a measure referred to as "Number of Months of Pre-Funding" to determine the length of time DFS can meet upcoming funding obligations, including common and preferred stock dividend payments and debt service obligations using existing cash resources. In managing this metric, we structure our debt maturity schedule to manage prudently the amount of debt maturing within a short period. See Note 7: Long-Term Borrowings to our condensed consolidated financial statements for further information regarding our debt. 
+
+Capital 
+
+Our primary sources of capital are the earnings generated by our businesses and the proceeds from issuances of capital securities. We seek to manage capital to a level and composition sufficient to support our businesses' growth and risks and to meet regulatory requirements, rating agency targets and debt investor expectations. Within these constraints, we are focused on deploying capital in a manner that provides attractive returns to our stockholders. The level, composition and utilization of capital are influenced by changes in the economic environment, strategic initiatives and legislative and regulatory developments. 
+
+Under regulatory capital requirements adopted by the Federal Reserve and the FDIC, DFS, along with Discover Bank, must maintain minimum capital levels. Failure to meet minimum capital requirements can result in the initiation of certain mandatory and possibly additional discretionary actions by regulators that, if undertaken, could limit our business activities and have a direct material effect on our financial condition and operating results. We must meet specific capital requirements that involve quantitative measures of assets, liabilities and certain off-balance sheet items, as calculated under regulatory guidance and regulations. Current or future legislative or regulatory reforms, such as the adoption of the Current Expected Credit Loss ("CECL") accounting model, may require us to hold more capital or adversely impact our capital level. We consider the potential impacts of these reforms in managing our capital position. 
+
+s 
+
+DFS and Discover Bank are subject to regulatory capital rules issued by the Federal Reserve and the FDIC, respectively, under the Basel Committee's December 2010 framework ("Basel III rules"). Under the Basel III rules, DFS and Discover Bank are classified as "standardized approach" entities as they are United States banking organizations with consolidated total assets over $50 billion but not exceeding $250 billion and consolidated total on-balance sheet foreign exposures less than $10 billion. The Basel III rules require DFS and Discover Bank to maintain minimum risk-based capital and leverage ratios and define what constitutes capital for purposes of calculating those ratios. 
+
+On March 27, 2020, federal bank regulatory agencies announced an interim and now final rule that allows banks that have implemented the CECL accounting model to delay the estimated impact of CECL on regulatory capital for two years, followed by a three-year transition period. For purposes of calculating regulatory capital, we have elected to defer recognition of the estimated impact of CECL on regulatory capital for two years in accordance with the final rule; after that period of deferral, the estimated impact of CECL on regulatory capital will be phased in over three years, beginning in 2022. We estimate that electing this option raised our Common Equity Tier 1 ("CET1") capital ratios in 2020 and 2021. For additional information regarding the risk-based capital and leverage ratios, see Note 12: Capital Adequacy to our condensed consolidated financial statements. 
+
+On March 4, 2020, the Federal Reserve announced the SCB final rule, which imposes limitations on DFS' capital distributions if we do not maintain our capital ratios above stated regulatory minimum ratios based on the results of supervisory stress tests. Under this rule, DFS is required to assess whether our planned capital actions are consistent with the effective capital distribution limitations that will apply on a pro-forma basis throughout the planning horizon. The SCB reflects the difference between DFS' actual CET1 ratio at the beginning of the forecast and the projected minimum CET1 ratio based on the Federal Reserve's models in its nine-quarter severely adverse stress scenario, plus the impact to capital of four quarters of planned common stock dividend distributions. The Federal Reserve sets and adjusts firms&#8217; respective SCB requirements based on the results of supervisory stress tests conducted as part of the Federal Reserve&#8217;s annual CCAR. On August 5, 2021, the Federal Reserve notified DFS of its adjusted SCB requirement based on the 2021 CCAR exercise; DFS&#8217; SCB, effective October 1, 2021, is 3.6%, a slight increase from our SCB in effect for the preceding year, which was 3.5%. DFS is required to submit an annual capital plan as part of the Federal Reserve&#8217;s capital stress test process. DFS was not subject to the supervisory stress test (also referred to as CCAR) in 2021, but will be in 2022. DFS' required 2021 capital plan submission employed a forward-looking internal assessment of income and capital under baseline and stressful conditions. The 2021 capital plan was submitted to the Federal Reserve on April 5, 2021 and covered the January 1, 2021 to March 31, 2023 forecast horizon. See "&#8212; Regulatory Environment and Developments &#8212; Banking &#8212; Capital Standards and Stress Testing" for additional information. At September 30, 2021, DFS and Discover Bank met the requirements for "well-capitalized" status under the Federal Reserve's Regulation Y and the prompt corrective action rules and corresponding FDIC requirements, respectively, exceeding the regulatory minimums to which they were subject under the applicable rules. 
+
+Basel III rules also require disclosures relating to market discipline. This series of disclosures is commonly referred to as "Pillar 3." The objective is to increase the transparency of capital requirements for banking organizations. We are required to make prescribed regulatory disclosures quarterly regarding our capital structure, capital adequacy, risk exposures and risk-weighted assets. We make the Pillar 3 disclosures publicly available on our website in a report called "Basel III Regulatory Capital Disclosures." 
+
+We disclose tangible common equity, which represents common equity less goodwill and intangibles. Management believes that common stockholders' equity excluding goodwill and intangibles is meaningful to investors as a measure of our true net asset value. At September 30, 2021, tangible common equity is considered to be a non-GAAP financial measure as it is not formally defined by GAAP or codified in the federal banking regulations. Other financial services companies may also disclose this measure and definitions may vary. We advise users of this information to exercise caution in comparing this measure for different companies. 
+
+s 
+
+The following table provides a reconciliation of total common stockholders' equity (a GAAP financial measure) to tangible common equity (dollars in millions): September 30, 2021 December 31, 2020 
+
+Total common stockholders' equity (1) 
+
+$ 12,207 $ 9,828 Less: goodwill (255) (255) Less: intangible assets, net (1) (95) Tangible common equity $ 11,951 $ 9,478 
+
+(1) Total common stockholders' equity is calculated as total stockholders' equity less preferred stock. 
+
+Our Board of Directors declared common stock dividends during 2021 and 2020 as follows: Declaration Date Record Date Payment Date Dividend per Share 2021 October 19, 2021 November 24, 2021 December 09, 2021 $ 0.50 July 20, 2021 August 19, 2021 September 02, 2021 $ 0.50 April 20, 2021 May 20, 2021 June 03, 2021 $ 0.44 January 19, 2021 February 18, 2021 March 04, 2021 $ 0.44 2020 October 20, 2020 November 19, 2020 December 03, 2020 $ 0.44 July 21, 2020 August 20, 2020 September 03, 2020 $ 0.44 April 21, 2020 May 21, 2020 June 04, 2020 $ 0.44 January 21, 2020 February 20, 2020 March 05, 2020 $ 0.44 
+
+In light of the pandemic-induced economic downturn in 2020, the Federal Reserve required all large banks participating in the CCAR supervisory stress test to cap common stock dividends at the lower of the prior quarter's dividend or the average of a firm&#8217;s net income over the preceding four quarters. The Federal Reserve lifted this restriction as of July 1, 2021. As a result, our Board of Directors declared a common stock dividend of $0.50 per share on July 20, 2021, an increase of $0.06 per share from the previous rate of $0.44 per common share. See "&#8212; Regulatory Environment and Developments &#8212; Banking &#8212; Capital Standards and Stress Testing" for additional information. 
+
+Our Board of Directors declared Series C preferred stock dividends during 2021 and 2020 as follows: Declaration Date Record Date Payment Date Dividend per Depositary Share 2021 July 20, 2021 October 15, 2021 November 01, 2021 $ 27.50 January 19, 2021 April 15, 2021 April 30, 2021 $ 27.50 2020 July 21, 2020 October 15, 2020 October 30, 2020 $ 27.50 January 21, 2020 April 15, 2020 April 30, 2020 $ 27.50 
+
+Our Board of Directors declared Series D preferred stock dividends during 2021 as follows: Declaration Date Record Date Payment Date Dividend per Depositary Share 2021 July 20, 2021 September 08, 2021 September 23, 2021 $ 30.63 
+
+January 19, 2021 (1) 
+
+March 08, 2021 March 23, 2021 $ 46.11 
+
+(1) The dividend includes $30.63 semi-annual dividend per depositary share plus $15.48 to account for the long first dividend period. 
+
+s 
+
+In light of the improved macroeconomic conditions and our strong financial results, our Board of Directors approved a new share repurchase program in July 2021. The new program authorizes up to $2.4 billion of share repurchases through March 31, 2022. This share repurchase authorization replaces our prior $1.1 billion share repurchase program, which was scheduled to expire on December 31, 2021. Our decision to repurchase additional shares of common stock will depend on our financial results, prevailing and expected economic conditions, potential regulatory limitations and other considerations. We use various methods to repurchase shares under the program, including open market purchases, privately negotiated transactions or other purchases, including block trades, accelerated share repurchase transactions, or any combination of such methods. During the three months ended September 30, 2021, we repurchased approximately 6.5 million shares for approximately $813 million. During the nine months ended September 30, 2021, we repurchased 12.4 million shares for approximately $1.5 billion. 
+
+The amount and size of any future dividends and share repurchases will depend on our results of operations, financial condition, capital levels, cash requirements, future prospects and other factors. The declaration and payment of future dividends and the amount thereof are subject to the discretion of our Board of Directors. Holders of our shares of common stock are subject to the prior dividend rights of holders of our preferred stock or the depositary shares representing such preferred stock outstanding. No dividend may be declared or paid or set aside for payment on our common stock if full dividends have not been declared and paid on all outstanding shares of preferred stock in any dividend period. In addition, as noted above, banking laws and regulations and our banking regulators may limit our ability to pay dividends and make share repurchases, including limitations on the extent our banking subsidiary (Discover Bank) can provide funds to us through dividends, loans or otherwise. Further, current or future regulatory reforms may require us to hold more capital or could adversely impact our capital level. As a result, there can be no assurance that we will declare and pay any dividends or repurchase any shares of our common stock in the future. 
+
+Certain Off-Balance Sheet Arrangements 
+
+Guarantees 
+
+Guarantees are contracts or indemnification agreements that contingently require us to make payments to a guaranteed party based on changes in an underlying asset, liability, or equity security of a guaranteed party, rate or index. Also included in guarantees are contracts that contingently require the guarantor to make payments to a guaranteed party based on another entity's failure to perform under an agreement. Our guarantees relate to transactions processed on the Discover Network and certain transactions processed by PULSE and Diners Club. See Note 13: Commitments, Contingencies and Guarantees to our condensed consolidated financial statements for further discussion regarding our guarantees. 
+
+Contractual Obligations and Contingent Liabilities and Commitments 
+
+In the normal course of business, we enter into various contractual obligations that may require future cash payments. Contractual obligations at September 30, 2021, including deposits, long-term borrowings, operating lease obligations, interest payments on fixed-rate debt, purchase obligations and other liabilities, were $94.4 billion. For a description of our contractual obligations, see our annual report on Form 10-K for the year ended December 31, 2020, under "Management's Discussion and Analysis of Financial Condition and Results of Operations &#8212; Contractual Obligations and Contingent Liabilities and Commitments." 
+
+We extend credit for consumer loans, primarily arising from agreements with customers for unused lines of credit on certain credit cards and certain other loan products, provided there is no violation of conditions established in the related agreement. At September 30, 2021, our unused credit arrangements were approximately $220.1 billion. We can terminate substantially all of these arrangements at any time and therefore the arrangements do not necessarily represent future cash requirements. The arrangements are periodically reviewed based on account usage, customer creditworthiness and loan qualification. In addition, in the ordinary course of business, we guarantee payment on behalf of subsidiaries relating to contractual obligations with external parties. The activities of the subsidiaries covered by any such guarantees are included in our condensed consolidated financial statements. 
+
+s 
+
