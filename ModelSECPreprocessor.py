@@ -53,6 +53,9 @@ class ModelSECPreprocessor:
         text = re.sub(r'\b\d+(?:\.\d+)?\s*(?:dollars|cents|shares)?\b', '', text)
         text = re.sub(r'\b(?:january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{1,2},\s+\d{4}\b', '', text, flags=re.IGNORECASE)
         
+        words = text.split()
+        text = ' '.join([word for word in words if word not in self.stopwords])
+
         return text.strip()
     '''
     def split_into_chunks(self, text: str, chunk_size: int = 1000) -> list:
@@ -113,7 +116,8 @@ class ModelSECPreprocessor:
                         text = file.read()
                     if text.strip():
                         cleaned_text = self.clean_text(text)
-                        sentences = re.split(r'\.\s', cleaned_text)
+                        cleaned_text = re.sub(r'(?<!\bu\.s)\. ', '<SPLIT>', cleaned_text)
+                        sentences = cleaned_text.split('<SPLIT>')
                         folder_levels = foldername.replace(root_folder, '').strip(os.sep).split(os.sep)
                         for sentence in sentences:
                             sentence = sentence.strip()
