@@ -1,9 +1,13 @@
 import os
 import re
 import csv
+import nltk
 from bs4 import BeautifulSoup
 import html
 from typing import Dict, List
+
+nltk.download('punkt_tab')
+from nltk.tokenize import sent_tokenize
 
 class ModelSECPreprocessor:
     def __init__(self):
@@ -84,15 +88,7 @@ class ModelSECPreprocessor:
         
         return text.strip()
     
-    def split_into_sentences(self, paragraph: str) -> List[str]:
-        """Splits text into sentences and removes punctuation"""
-        sentence_endings = r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s'
-        sentences = re.split(sentence_endings, paragraph)
-        cleaned_sentences = [re.sub(r'[^\w\s]', '', sentence).strip() for sentence in sentences]  # Remove punctuation
-        return [s for s in cleaned_sentences if s]
-
     def extract_text_from_folders(self, root_folder: str) -> List[Dict[str, str]]:
-        """Extracts text from multiple folders and returns a structured list with folder hierarchy."""
         data = []
         for foldername, _, filenames in os.walk(root_folder):
             for filename in filenames:
@@ -102,24 +98,20 @@ class ModelSECPreprocessor:
                         text = file.read()
                     if text.strip():
                         cleaned_text = self.clean_text(text)
-                        sentences = self.split_into_sentences(cleaned_text)
                         folder_levels = foldername.replace(root_folder, '').strip(os.sep).split(os.sep)
-                        for sentence in sentences:
-                            sentence = sentence.strip()
-                            if sentence:
-                                row = {
-                                    'Company_Name': folder_levels[2] if len(folder_levels) > 2 else '',
-                                    'Year': folder_levels[3] if len(folder_levels) > 3 else '',
-                                    'Text': sentence
-                                }
-                                data.append(row)
+                        row = {
+                            'Company_Name': folder_levels[2] if len(folder_levels) > 2 else '',
+                            'Year': folder_levels[3] if len(folder_levels) > 3 else '',
+                            'Filename': filename,
+                            'Text': cleaned_text
+                        }
+                        data.append(row)
                 except Exception as e:
                     print(f"Error processing {file_path}: {e}")
         return data
 
     def save_to_csv(self, data: List[Dict[str, str]], output_file: str):
-        """Saves extracted data to a CSV file with hierarchical folder structure."""
-        fieldnames = ['Company_Name', 'Year', 'Text']
+        fieldnames = ['Company_Name', 'Year', 'Filename', 'Text']
         with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
