@@ -25,6 +25,7 @@ When you are finished with whatever changes you have made:
 - Go to the repository on github.com, in the dropdown menu under Capstone_MCG double check that the branch NAME-OF-NEW-BRANCH-BE-DESCRIPTIVE is there 
 - Check it to make sure all of the files and changes you have commited are there
 - There should be a popup message, click "Compare & pull request"
+  - If you don't see it click the "contribute" dropdown menu and click "compare" and green " create pull request"
 - add description then click the green create pull request at the bottom 
 - Resolve any conflicts
 - When there are no conflicts with base branch (you will see this message if true) Click green "Merge pull request"
