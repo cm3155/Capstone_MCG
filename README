@@ -1,0 +1,24 @@
+Step 1:
+- Download VSCode for your machine -> https://code.visualstudio.com/Download
+- Follow installation instructions
+- Download git for your machine -> https://git-scm.com/downloads
+- Follow installation instructions
+Step 2:
+- Open VScode, Select "view" in the upper tab and click "terminal"
+- Enter command: git clone https://github.com/cm3155/Capstone_MCG.git
+- The Capstone_MCG repository is now cloned to your local computer
+
+Anytime you plan to implement a task, change code, change a file, etc.:
+- Enter command: git branch
+- make sure you are on "main branch"
+- Enter command: git branch NAME_OF_NEW_BRANCH_BE_DESCRIPTIVE
+- Enter command: git checkout NAME_OF_NEW_BRANCH_BE_DESCRIPTIVE
+- Enter command: git branch
+- make sure you are on NAME_OF_NEW_BRANCH_BE_DESCRIPTIVE
+
+When you are finished with whatever changes you have made:
+- Enter command: git add .
+- Enter command: git commit -m "Descriptive message of what changes you made"
+- Enter command: git push origin
+- Go to the repository on github.com, in the dropdown menu under Capstone_MCG double check that the branch NAME_OF_NEW_BRANCH_BE_DESCRIPTIVE is there 
+- Check it to make sure all of the files and changes you have commited are there
