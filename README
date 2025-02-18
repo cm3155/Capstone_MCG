@@ -32,3 +32,8 @@ When you are finished with whatever changes you have made:
 - Type description of merge request and click green "Merge button"
 - When you get "Pull request successfully merged and closed" you are good to go! 
 
+If someone else has made changes and you need it to update in your VSCode:
+- Make sure you are on "main", if not enter: git checkout main
+- Enter command: git pull
+- Check that the updates on the remote github match your local files
+
