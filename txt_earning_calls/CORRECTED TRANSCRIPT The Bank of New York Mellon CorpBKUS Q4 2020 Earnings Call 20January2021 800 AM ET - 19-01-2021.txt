@@ -1,0 +1,988 @@
+Corrected Transcript
+20-Jan-2021
+The Bank of New York Mellon Corp.
+(BK)
+Q4 2020 Earnings Call
+Total Pages: 22
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+CORPORATE PARTICIPANTS
+Magda Palczynska Emily H. Portney
+Global Head-Investor Relations, The Bank of New York Mellon Corp. Chief Financial Officer, The Bank of New York Mellon Corp.
+Thomas P. Gibbons
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+......................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Brennan Hawken Mike Mayo
+Analyst, UBS Securities LLC Analyst, Wells Fargo Securities LLC
+Ken Usdin Alexander Blostein
+Analyst, Jefferies LLC Analyst, Goldman Sachs & Co. LLC
+Betsy L. Graseck Rajiv Bhatia
+Analyst, Morgan Stanley & Co. LLC Analyst, Morningstar, Inc. (Research)
+Brian Bedell Brian Kleinhanzl
+Analyst, Deutsche Bank Securities, Inc. Analyst, Keefe, Bruyette & Woods, Inc.
+......................................................................................................................................................................................................................................................
+MANAGEMENT DISCUSSION SECTION
+Operator: Good morning and welcome to the 2020 Fourth Quarter Earnings Conference Call, hosted by BNY
+Mellon. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer
+session. Please note that this conference call and webcast will be recorded and will consist of copyrighted
+material. You may not record or rebroadcast these materials without BNY Mellon's consent.
+I'll now turn the call over to Magda Palczynska, BNY Mellon Investor Relations. Please go ahead.
+......................................................................................................................................................................................................................................................
+Magda Palczynska
+Global Head-Investor Relations, The Bank of New York Mellon Corp.
+Good morning. Welcome to BNY Mellon's fourth quarter 2020 earnings conference call. Today, we will reference
+our financial highlights presentation available on the Investor Relations page of our website at bnymellon.com.
+Todd Gibbons, BNY Mellon's CEO, will lead the call. Then, Emily Portney, our CFO, will take you through our
+earnings presentation. Following Emily's prepared remarks, there will be a Q&A session.
+Before we begin, please note that our remarks include forward-looking statements and non-GAAP measures.
+Information about the statements and non-GAAP measures are available in the earnings press release, financial
+supplement and financial highlights presentation, all available on the Investor Relations page of our website.
+Forward-looking statements made on this call speak only as of today, January 20, 2021 and will not be updated.
+With that, I will hand over to Todd.
+......................................................................................................................................................................................................................................................
+2
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Thomas P. Gibbons
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Thank you, Magda. Good morning everyone. Let me start with a brief summary of the fourth quarter financial
+results, which Emily will then review in more detail. And then I'll come back with some thoughts on our franchise
+and our outlook for 2021. Starting on slide 2 in terms of the fourth quarter, we reported revenue of $3.8 billion and
+earnings per share of $0.79 or $0.96 after excluding notable items which Emily will cover in a few minutes.
+Turning to the full year 2020 financial results on slide 3, and I'm referring to them on an adjusted basis. Earnings
+per share of $4.01 were flat to the prior year on revenues of $15.9 billion. Fee revenue increased over 5%,
+excluding notable items and almost $370 million impact of fee waivers in 2020. Expenses were flat as our cost
+discipline and productivity gains essentially offset incremental investment, and the operating margin was solid at
+30%.
+Now we have a lower risk, fee-based business model that positioned us well for this environment. We had no net
+charge-offs. We also delivered strong results from the two rounds of Federal Reserve stress tests announced in
+June and December. Our model is highly capital-generative, and our common equity Tier 1 ratio increased to
+13.1% from 11.5%.
+Now when I shared my 2020 priorities with you a year ago, of course no one expected that the world would
+change so rapidly and dramatically. Throughout the pandemic, we have supported employees, clients and our
+communities. And we're proud to provide the infrastructure for several critical government programs for COVID
+relief, including the term asset-backed securities loan facility, the municipal liquidity facility, the primary dealer
+credit facility, and the payment protection program.
+Now while navigating the extraordinary environment, we continue to advance our long-term growth in net agenda
+across all of our businesses. That agenda includes accelerating our digital and data transformation, investing in
+several growth opportunities, and leveraging the power of the open architecture platforms and solutions we
+provide to help our clients grow their businesses.
+In Asset Servicing, we have seen no let-up in client onboarding this year. This is a testament to our focus on client
+experience, data and digitization. Half of our AUC/A growth in Asset Servicing year-over-year was from organic
+growth with new and existing clients, and we built positive momentum. We closed out the year with significantly
+higher win ratios and retention rates, and had our best sales quarter in the last 10 in the fourth quarter of 2020.
+Once onboarded, these wins will start to benefit revenue in late 2021.
+We've been pursuing a strategy of moving up and across client value chains beyond just supporting operations to
+revolutionize data and digital-enabled solutions across front, middle and back offices. For example, we were
+recently mandated one of the largest asset managers in Europe to provide front-to-back services adding custody,
+accounting and transfer agency. This includes a collaboration to integrate an order management system to deliver
+portfolio and risk management, improve sales and distribution and operational efficiencies. This is another
+example of our open-architected security servicing platform, which we call OMNI.
+We are currently integrated with the leading OMS providers that cover 98% of the addressable market. And our
+partnerships are starting to help us win business as the above example illustrates. We also have a leading data
+and analytics business and are now building on our 20-year track record in software and service to create robust,
+cloud-based data and analytics capabilities. With the help of several new clients who are early adopters, we have
+introduced a new platform called the Data Vault, which allows clients to quickly onboard and manage both
+structured and unstructured data from many sources.
+3
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+To share one example, we were selected by Janus Henderson to transform their global data platform, including
+implementing the Data Vault which will help improve the quality and ease of access to investment information
+across the enterprise. We also have a suite of new business applications for the front office such as our ESG
+investment analytics application which has recently won a significant award, as well as our Distribution Analytics
+offering to help clients with asset growth. These applications together with the Vault, position us well to drive
+growth.
+Pershing is one of the unique businesses that differentiates us from our custody peers that helps us build deep
+relationships and is a powerful source of additional connectivity to the fast-growing wealth [ph] space (00:06:27).
+Fourth quarter results in Pershing benefited from elevated transaction volumes, which are expected to moderate a
+bit in 2021, as well as continued strong underlying fundamentals.
+Net new assets for the year were $82 billion. Pershing's business, which includes over 600 broker-dealers and
+500 registered investment adviser firms, is a very attractive and efficient platform for our Asset Servicing clients to
+access their points of distribution. In fact, today, through Pershing asset managers have placed $1 trillion of their
+product and continue to value this new unique opportunity that only we can offer.
+Clearance and Collateral Management fees were up in 2020, excluding the disposal of an equity investment last
+year and we continue to innovate in this space. For example, as a result of intense collaboration between our
+market business, Asset Servicing, Clearance and Collateral Management and Group Treasury, we are in the
+process of launching an innovative solution that offers clients the ability to pledge money market fund shares to
+meet tri-party collateral obligations across a wide range of transaction types such as repo and securities lending
+agreements, secured note programs, collateralized deposits, and also allows segregation of initial margins for
+derivative contracts, all in straight-through processing models. So clients can now buy money market funds on our
+LiquidityDirect platform and seamlessly pledge them as collateral in these types of transactions.
+In Treasury Services where we delivered good performance, we have continued investing in automation and are
+advancing our real-time payments capabilities. We are actively working on an exciting large-scale commercial
+payments pilot with one of the world's largest [ph] billers (00:08:18). This capability is expected to reach tens of
+millions of consumers via their retail banks throughout 2021, leveraging continued adoption across the RTP
+network that's known as the Real-Time Payments system.
+Within Investment Management, flows have been largely in step with industry trends, and we've offset equity
+outflows with strong fixed income cash and LDI inflows. We've had three straight quarters now of long-term
+inflows and have improved investment [indiscernible] (00:08:48) performance. Across the top 30 ranked strategies
+by revenue, 75% are in the top two quartiles on a [ph] three-year (00:08:55) basis compared to just over 70% a
+year ago.
+In 2020, we launched eight ETFs with more to come this year. We've also been building out sustainability funds
+such as the Future of Humans Fund with UBS, and a series of Mellon funds focused on pressing global themes,
+for example, aging populations.
+Finally, we continue to build out our leadership team. John Tobin was recently named as the Chief Investment
+Officer of Dreyfus Cash Investment Strategies, bringing to this role of deep and broad money market industry
+expertise. We will continue to build on our leadership across the entire cash ecosystem to position our business
+for long-term growth. And just a couple of weeks ago, we announced that Euan Munro would be joining us as
+CEO of Newton in June. Newton has a proven and highly relevant track record in the investment industry,
+4
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+spanning three decades. He'll be a great addition to Newton. So we're excited to have both of them join
+Hanneke's team.
+Before I hand over to Emily, I'd be remiss if I did not comment on our push at BNY Mellon towards ever greater
+diversity and inclusion. We have one of the most diverse Fortune 500 boards, and our Executive Committee has
+become increasingly diverse. To accelerate progress in our most underrepresented ethnic populations and help
+position our firm as a competitive choice with Black and Latinx graduates and experienced professionals, we set
+some concrete short-term representation goals in the US. It's important on many levels and we know diversity is
+highly correlated to long-term financial performance.
+And finally, during the year I made a number of appointments to my leadership team. We have a highly motivated
+group of talented employees implementing our strategy, which is centered on driving growth, creating
+differentiated value for our clients, digitizing and optimizing our operating model and fostering a high-performance
+culture that is focused on delivering excellent client service in new and innovative ways.
+With that, Emily will now review our fourth quarter results in more detail, after which I will make some concluding
+remarks.
+......................................................................................................................................................................................................................................................
+Emily H. Portney
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Thank you, Todd, and good morning, everyone. I will walk you through the details of our results for the quarter
+and briefly review the full year as well. All comparisons will be on a year-over-year basis, unless I specify
+otherwise.
+Beginning on page 4 of the financial highlights document, in the fourth quarter of 2020, we reported revenue of
+$3.8 billion and EPS of $0.79. Both the current and prior year quarters included a number of notable items. The
+fourth quarter 2020 results included an unfavorable $0.18 per share impact from charges related to litigation,
+severance expenses, losses on two non-core business sales and lease exits and real estate sales. For real
+estate, the charge is a result of plans to exit around 8% of our overall footprint, and we expect this will be
+breakeven on an annualized basis within a year.
+Remember, our results in the fourth quarter of 2019 benefited from a gain on the sale of an equity investment,
+partially offset by severance and litigation expenses and net securities losses. When excluding these notable
+items, the fourth quarter of 2020 revenue was down 2% and EPS was down 5%. Results were negatively
+impacted by continued low interest rates and associated money market fee waivers. Net interest revenue was
+down 17%. Excluding notable items and fee waivers, fees grew 5%, driven by the impact of higher market levels
+and continued positive momentum across most of our businesses.
+FX and other trading was roughly flat due to $33 million of [ph] seed (00:12:44) capital hedge losses in the fourth
+quarter of 2020, or about 18% negative impact to that line item year-over-year, which is offset in investment and
+other income. Expenses are down 1% on both a reported and adjusted basis, with adjusted results due to savings
+in T&E and distribution and servicing expenses, offset by continued investment in technology and the unfavorable
+impact of a weaker US dollar. Our provision for credit losses was $15 million, reflecting reserve additions related
+to our commercial real estate portfolio.
+Pre-tax margin of 24% or 29% excluding notable items which considering the impact of interest rates and waivers
+which have minimal expenses associated with them, show the resiliency of our model. ROE was 6.9% and
+ROTCE was 13% and included approximately 150 basis points and 300 basis point impact, respectively, from the
+5
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+notable items. We also continued to generate substantial excess capital as our CET1 and Tier 1 capital each
+increased by about $700 million this quarter.
+Page 5 sets out a trend analysis of the main drivers of the quarterly results and is adjusted for notable items were
+indicated. Investment Services revenue was $2.9 billion, down 4%. The decline was primarily a result of lower net
+interest revenue and fee waivers. These headwinds masked benefits from higher market levels, volumes, and
+liquidity balances as well as strong underlying momentum across many of our businesses which I'll get into later.
+Investment and Wealth Management revenue increased 2%, as higher market values and the impact of the
+weaker US dollar, along with improved investment performance, offset the impact from fee waivers. The impact of
+money market fee waivers on our consolidated fee revenue net of distribution and servicing expense was $134
+million in the quarter, at the lower end of the $135 million to $150 million we previously guided to and an increase
+of $33 million quarter-on-quarter. Whereas in prior quarters, most of this impact was felt largely through Pershing
+or clearing service lines and to a lesser extent investment management, this quarter we began to see a more
+meaningful impact within Asset Servicing and Issuer Services. We have provided you with a detail of the impact
+by business in the appendix of this highlights deck.
+Turning to page 6 and 7, setting out full year results and trends. Our full year 2020 results demonstrated resiliency
+and balance sheet strength during an unprecedented time. Excluding notable items, fees grew 3% despite a
+roughly 250 basis point negative impact from fee waivers. Full year expenses were essentially flat on an operating
+basis, in line with the guidance we have provided throughout the year. Operating EPS was flat despite the impact
+from low interest rates and as we absorbed a higher credit provision. And we delivered a solid pre-tax margin and
+strong ROTCE for a challenging year.
+Turning to page 8, our capital and liquidity ratios remained strong and well above internal targets and regulatory
+minimum. Common Equity Tier 1 capital totaled $21.9 billion as of December 31, and our CET1 ratio was 13.1%
+under the advanced approach and 13.4% under the standardized approach. Tier 1 leverage was 6.3%, down 20
+basis points from the third quarter due to higher deposits. As we've noted in the past, we are comfortable
+operating with a ratio of around 5.5% to 6% versus the 4% regulatory minimum. Our current Tier 1 leverage ratio
+is well above our target. Finally, our LCR in the fourth quarter was 110%.
+In terms of shareholder capital returns, we continued to pay our $0.31 quarterly dividend, which totaled $278
+million this past quarter, and are looking forward to resuming open market share repurchases in the first quarter.
+This will be in compliance with the Federal Reserve's modified limitations that apply to all CCAR banks, and
+allows us to repurchase approximately $625 million of common stock in the first quarter. We look forward to
+operating under the stress capital buffer framework which will give us more flexibility in terms of capital return.
+Turning to page 9, my comments on net interest revenue will highlight sequential changes. Q4 net interest
+revenue was down 3%, primarily driven by the impact of lower short-term rates. And although our deposits
+increased significantly in the fourth quarter, they had minimal NIR value.
+Turning to page 10, which summarizes deposits and securities trends. Deposit balances continued to grow over
+the course of the quarter and on average were up $28 billion or 10% from the third quarter and $75 billion or 32%
+from a year ago. On a sequential basis, a larger driver of the growth was excess liquidity in the system, driven by
+monetary and fiscal stimulus. On a year-over-year basis, strategic deposit initiatives across Treasury Services,
+Asset Servicing and Wealth Management business tied to underlying transaction activity which supports our client
+relationships with degeneration objectives, was a significant driver of growth.
+6
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+The average rate paid on interest-bearing deposits was negative 6 basis points, minimally changed from the third
+quarter. As a reminder, about one-quarter of our deposits are in foreign currencies including euro and yen, which
+had negative rates. In the US, our average interest-bearing deposit cost was about four-fifth.
+Turning to the securities portfolio, on average the portfolio was flat to the third quarter and approximately $35
+billion over the prior year or 27%, as we deploy a significant portion of the growing deposit base throughout the
+year. As the bar chart shows to the right, we continue to gradually increase our non-HQLA securities to increase
+yields while maintaining a conservative risk profile. As a result, average non-HQLA securities, including trading
+assets, was $36 billion in the fourth quarter, up $24 billion from a year ago.
+Turning to page 11, we'll provide you with some color on our asset mix and specifically the loan portfolio.
+Exposures and statistics at year-end were largely similar to the third quarter. As a reminder, our portfolio is
+predominantly investment grade. And for the year, we experienced net recovery. We recorded a $15 million
+provision this quarter as we internally downgraded a modest number of names primarily in our commercial real
+estate portfolio.
+Our assumptions around the macro outlook as well as the relative weightings of the scenarios were largely
+unchanged from the last quarter. And we continue to closely monitor this portfolio, particularly the commercial real
+estate exposure in other sectors more acutely impacted by the current environment. Page 12 provides an
+overview on expenses which we covered earlier.
+Turning to page 13. As mentioned earlier, total Investment Services revenue year-on-year declined by 4%, mostly
+due to the impact of low interest rates. NIR was down 14%. These were flat or up 5%, excluding $113 million of
+fee waivers. FX and other trading revenue had a strong quarter as FX revenue grew by over 30% in Investment
+Services, driven by higher volumes and volatility.
+Assets under custody and/or administration increased 11% year-over-year to $41.1 trillion, and we continue to
+see organic growth with new and existing clients as well as the benefits from higher market values and the impact
+of a weaker US dollar. As I move to the business line discussion, I'll focus my comments on fees. Within Asset
+Servicing, fees were up modestly as higher market levels and FX and higher liquidity service fees partially offset
+the impact of fee waivers, lumpy repricing associated with a few client renewals and lower sec lending.
+In Pershing, continued strong underlying fundamentals offset the impact of fee waivers. Clearing accounts were
+up 5%, mutual fund assets up 10% and we saw continued strong net new asset inflows of $28 billion in the
+quarter. Transactional activity also remained high as it did for most of 2020, and we would expect that to
+normalize a bit as we head into 2021.
+Issuer Services fees decreased 3%, primarily due to the impact of waivers. Ex-waivers, mid-single digit growth in
+DRs was offset by a small decline in Corporate Trust. Treasury Services fees were up, our payment volume
+growth, particularly in the second half of the quarter, and the increased fees also reflect an improved product mix
+and client wins and higher money market fund and deposit balances on the back of targeted initiatives.
+Clearance and Collateral Management fees were down slightly. Good organic growth in our non-US business
+where tri-party balances and clearances both grew double digits, was offset by declines in US volumes, lower
+intraday financing fees and the absence of income associated with an equity investment divested last year. Page
+14 summarizes the key drivers that affected the year-over-year revenue comparisons for each of our Investment
+Services businesses.
+7
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Turning to Investment and Wealth Management on Page 15. As noted earlier, total Investment and Wealth
+Management revenue in the quarter increased 2%. Overall assets under management grew to a record $2.2
+trillion and were up 15% year-over-year, primarily due to higher market value, $73 billion of inflows and the
+positive impact of the US dollar weakening. In the fourth quarter, we had net inflows of $20 billion, including long-
+term strategies inflows of $15 billion, driven by a second straight quarter of inflows in LDI as well as fixed income.
+Wealth Management had its strongest flow quarter in two years, resulting in positive organic growth in the quarter.
+Investment Management revenue grew 3%, as the benefit of higher market levels and a weaker dollar were offset
+by the impact of fee waivers. Fee waivers impacted growth by about 300 basis points. Wealth Management fees
+were down 1% due to the sale of our Canadian Wealth Management business. Client assets grew to a record
+$286 billion and were up 8% year-over-year.
+Now, turning to our other segment on page 16. The year-over-year revenue comparison was primarily impacted
+by the gain of an equity investment in the fourth quarter of 2019 and a business sale loss in the current period.
+Expenses increased, reflecting severance and real estate impairment charges noted earlier. And now a few
+comments about the outlook, before I turn it back over to Todd. First, the more recent usual caveat with the
+macroeconomic environment remains fluid.
+So as we think about full year 2021, for NIR, our guidance remains unchanged and that a run rate slightly lower
+than the fourth quarter, call it about 3%, remains a good proxy for the quarterly run rate expected this year.
+Although recent yield curve steepening provides a modest tailwind, short-term rates have continued to decline.
+Also, we expect MBS prepayment speeds to remain at current levels despite the steepening yield curve, as
+mortgage rates have only risen slightly.
+Finally, we are currently planning for average deposits for the year to be slightly lower than our fourth quarter
+average, as we help our clients redeploy liquidity into more efficient investments on our platform.
+For transaction-related fees, we expect volumes to normalize a bit versus healthy levels we saw in the fourth
+quarter. On money market fee waivers, we still expect to be at a full run rate in the first quarter. We now, however,
+expect the impact of first quarter waivers, net of distribution expense benefit, to be approximately $175 million,
+assuming short-term rates stay at current levels.
+So as we think about full year fees for the entire company, we expect them to be relatively flat, as the impact of
+equity appreciation, organic growth and the weaker dollar will be offset by fee waivers and lower volume.
+Excluding waivers, fees would be up 3%. By the way, we assume equity market will rise approximately 5% from
+the beginning of 2021.
+Regarding expenses, we continue to expect them to be flat for the full year on an operating and constant currency
+basis. But due to recent weakening of the dollar, this means that, in absolute terms, full year expenses are now
+projected to increase by approximately $150 million or 1.5%. This currency impact is offset by a light increase in
+fee revenues as previously discussed. Finally, in terms of our effective tax rate, we expect it to be approximately
+19% for 2021.
+Specific to the first quarter, the items I just mentioned will have a proportionate impact. But as a reminder, first
+quarter staff expenses are typically higher relating to long-term incentive compensation expense for retirement-
+eligible employees. Also, in the first quarter of 2020, we made an accrual adjustment that reduced the expenses
+that will not be repeated this year. As a result, we expect first quarter total expenses to be up 3% to 4% year-over-
+year, including the impact of currency.
+8
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+With that, let me turn it back over to Todd.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Thank you, Emily. Before opening up for questions, let me share some final observations speaking to slide 17 and
+18. Our franchise is powered by a wide breadth of services and capabilities. This differentiates us and certainly
+makes us unique amongst our closest peers. We are a top three provider across Asset Servicing, Issuer Service,
+Clearance and Collateral Management as well as Pershing. And we rank among the leading players in more
+fragmented businesses such as Wealth Management, Investment Management and Treasury Services. This
+gives us a strong platform and scale, both of which are crucial for success.
+We are responding to the evolving needs of our clients and actively connecting different parts of the company to
+drive growth. While significant pandemic-related challenges remain, we are entering 2021 with confidence and
+momentum in our core franchise. At the same time, overall revenues year-over-year will be impacted by the full
+effect of low interest rates, money market fee waivers, and the absence of COVID-related transaction activity.
+For the full year, we expect to deliver modest organic fee growth similar to 2020, which we expect to accelerate
+beyond 2021 as our growth initiatives gain traction. As we look out to 2021, I have three overarching priorities for
+the company: one, execute our growth initiatives; two, scaling and digitizing our operating model; and three,
+fostering a high-performance culture that is focused on delivering excellent client service in new and innovative
+ways. While focusing on these priorities, we will continue to vigilantly manage operating expenses, which we
+expect to be flat for 2021 on a constant currency basis.
+Between 2018 and 2021, we funded approximately $1.1 billion in new investments and generating internal
+efficiencies with no increase in expense. We will continue to invest in technology, although the profile spend is
+more focused on initiatives to grow and make the business more efficient.
+Turning to capital returns, we're pleased that we can resume share repurchases in the first quarter. We remain
+committed to returning at least 100% of earnings to shareholders over time, including the excess capital we have
+built in second quarter of 2020. We have the capacity to drive meaningful EPS growth through buybacks.
+In conclusion, we have navigated an extremely challenging year of wealth. Our capital-generative and low-risk
+model delivered what it is supposed to deliver in terms of stability and capital generation. I'm proud of the
+leadership team and the dedication and hard work of our employees during unprecedented and challenging times.
+And with that, operator, can you please open the line for questions?
+9
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+QUESTION AND ANSWER SECTION
+Operator: Thank you. [Operator Instructions] And we'll take our first question from Brennan Hawken from UBS.
+Please go ahead.
+......................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Good morning. Thanks for taking my questions. Emily, there was a lot of walk-through there on the revenue
+guide, so I just wanted to make sure I heard that correctly and understand where I should index. You guys provide
+a lot of disclosure on slide 22. Is the right starting point that we use the fee revenue ex-fee waivers and notable
+items for 2020, which is the 13.1 and then we layer in the different various impacts that you laid out, and then take
+the new run rate for fee waivers expected in 1Q and then kind of annualize that? Is that the right way to think
+about it? And how does the strengthening of the dollar play into that? Sorry.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. So I guess, just – I won't break down each and every piece. But ultimately, if you look at our full year 2020,
+if you actually take into account, we've tried to spell out, as best as possible, the impact of waivers. Likewise, we
+are expecting an increase in our market appreciation as well as we're going to have some favorability in terms of
+the weakening dollar. If you put all of that together, year-on-year revenues will be essentially flat and up 3% ex-
+fee waivers.
+......................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Got it. Okay.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+That's fee revenue, Brennan.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+That's fee – sorry, that's fee revenue. Yeah.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+And that is assuming – and who knows where the dollar is going to be, but we just used the spot dollar at year-
+end.
+......................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Fair enough. So the 12.77 is the number we should focus on to be flat basically ex all those puts and takes.
+......................................................................................................................................................................................................................................................
+10
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yes.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Yes.
+......................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Great. Excellent. And then expense is flat, which is in line with what you gave in December on a constant
+currency, but we've seen the weakening dollar. And so, when we think about the expense line, if the dollar
+remains unchanged from where we are now and, of course, we can calibrate that through the year depending on
+the different factors, we'll see a roughly 1.5% uplift on the operating expense line from the 2020 level? Is that fair?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Correct. Correct.
+......................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Okay. Excellent. Thanks. I just wanted to try to clarify some of that. And when we think about the deposits
+dropping from the 4Q average level, is it fair to assume that we'll probably shake out at a level that's above the
+third quarter? Or are you guys thinking that we might actually even revert down to that level or below? Is there
+any help you can provide in trying to think about how to gauge the magnitude of that normalization in the deposit
+side?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. So, ultimately we're projecting deposits to be relatively flat from here or potentially to decline a bit. Now, in
+fairness, we could see excess liquidity in the system. But of course, we are monitoring our capital ratios and we
+have to optimize returns to shareholders. So we will be actively, very proactively managing the size of the balance
+sheet. So, that's ultimately roughly flat from here or slightly lower.
+......................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Okay. Great. Great. Thanks very much for clarifying.
+......................................................................................................................................................................................................................................................
+Operator: And we'll go ahead and take our next question from Ken Usdin from Jefferies. Please go ahead.
+......................................................................................................................................................................................................................................................
+Ken Usdin Q
+Analyst, Jefferies LLC
+Hi, thanks. Good morning. Emily, just to follow up on your organic growth outlook. Just wondering if you could
+help us put in context like just what that measures, right? It's not necessarily a stock measure of just revenue
+growth. So like is it taking the core building blocks of the segments and just kind of like measuring the unit
+11
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+growth? And how do you put that 1.5% into context with the overall fee guide, right? I don't know if you can maybe
+walk us through that. Thanks.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. So when we think about organic growth, we define it as pretty much growth excluding market appreciation
+or depreciation, excluding currency impact and excluding waivers. So, I mean that's generally how we think about
+it. I think Todd had mentioned that we – and over the course of 2020, it was around between 1% and 2%. We're
+expecting it to remain pretty much stable at those levels, and that's embedded into the fee forecast that I've just
+given.
+......................................................................................................................................................................................................................................................
+Ken Usdin Q
+Analyst, Jefferies LLC
+Right. Okay. That's helpful. And then just a specific question on Asset Servicing fees on the income statement
+side. Seeing that there was a little bit of a – there was an increase in fee waivers in that [ph] 11.38 (00:35:48)
+number, but even if you exclude that, asset servicing was down. The press release mentioned something about
+some repricing. I'm just wondering if you can walk through just what happened, the pushes and pulls there of why
+the core was down sequentially, whether it'd be organic growth repricing activity, et cetera? Thank you.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. So, we had – in Asset Servicing in the fourth quarter, we had higher – we were helped by higher market
+levels, higher FX and other trading and higher liquidity balances, but that was offset by waivers. Sec lending was
+down a bit. And yes, you are correct, there was a bit of some lumpy repricing in the quarter. Ultimately, we don't
+control actually the timing, obviously, of repricing we happen to have had two or three large relationships reprice
+on the back of renewal. So we ultimately retained the business, but that was a modest headwind as well.
+......................................................................................................................................................................................................................................................
+Ken Usdin Q
+Analyst, Jefferies LLC
+Okay. And then, I guess just a quick follow-up to that is that, have we rebased? Does it kind of build off of here or
+how do you think about those repricing versus renewals as you think forward? Thanks.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. Sure. So as you all know, repricing is very lumpy. You will see the full impact of those repricing throughout
+the year, but it's not like we've seen anything structural or underlying change in the trend of repricing. It's always
+been a modest headwind that we've offset with greater efficiency and net new business.
+......................................................................................................................................................................................................................................................
+Ken Usdin Q
+Analyst, Jefferies LLC
+Thank you.
+......................................................................................................................................................................................................................................................
+Operator: And we'll take our next question from Betsy Graseck from Morgan Stanley. Please go ahead.
+......................................................................................................................................................................................................................................................
+Betsy L. Graseck Q
+Analyst, Morgan Stanley & Co. LLC
+12
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Hi. Can you hear me?
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. Good morning, Betsy.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Yeah.
+......................................................................................................................................................................................................................................................
+Betsy L. Graseck Q
+Analyst, Morgan Stanley & Co. LLC
+Hi. Okay. So first question just on, I think, the deposit commentary. Wanted to get a better understanding as to
+why you think deposits aren't going to be continuing to increase as much as they have been. I mean, I think the
+Fed is still increasing the size of the balance sheet. I expected you would get some benefits from that.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+[ph] Sure. (00:38:06)
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. I think – I'll start, and then I'm sure Emily will join in on this. I would expect that the Fed is going to continue
+to buy securities, which kind of adds to the deposit base. And there's still some question exactly how the very
+large balances that sit at the US Treasury at the Fed, whether they're going to wind those down. So, the two of
+them could increase the overall reserves and deposits in the system.
+That being said, we can manage some of that, and now that we're back in – and we did that a number of years
+ago. So, we targeted some of the less valuable balances. And once we're able to use our capital, that's not how
+we're going to use it. It won't be particularly efficient. So we've demonstrated that we can do that. And of course,
+any valuable deposits will take on, but if they're just short term with very little benefit to them, we'll discourage
+them.
+......................................................................................................................................................................................................................................................
+Betsy L. Graseck Q
+Analyst, Morgan Stanley & Co. LLC
+Okay. That's via pricing or what have you. I guess, the other question, Todd, is you mentioned one of the
+strategies here that you're going to be executing on this year is to increase the efficiency and delivery of the
+products and services. And I wanted to understand how you're thinking about that with regard to some of the OCC
+rules that have been out there recently regarding stable coin. I'm just wondering is, how much does the
+blockchain initiatives that you've got underway drive that efficiency improvement? Or is that more of a hobby? And
+does it matter that the OCC has approved banks for stable coin? Does that factor into your strategy? Thanks.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. I think it clarifies things a bit. And there is a fair amount of activity. And by the way, we have appointed
+somebody in front of, what I'll call, the tokenization efforts. They're really across three fronts, and we are seeing
+13
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+some acceleration around tokenized assets, tokenized fiat currencies and also cryptocurrency. So we're seeing a
+lot more interest in cryptocurrency and customizing and other services associated with it. We've done a little bit
+there. We have been a custodian for a big futures contract, and it's kind of like getting it started.
+In terms of tokenized currency, we've been a member of Utility Settlement Coin, which now [indiscernible]
+(00:40:33) mixed development from the beginning, and we do see that having a meaningful application. And we're
+also involved in tokenizing assets, and we're looking at what we might be able to do to tokenize into tri-party repo
+to make it even more efficient. So, I think it's going to be an important element. We're investing not hugely in it
+right now. I don't see a lot of imminent revenues, but it's something that we will definitely be on the forefront on.
+Betsy, you still there?
+......................................................................................................................................................................................................................................................
+Betsy L. Graseck Q
+Analyst, Morgan Stanley & Co. LLC
+Oh, thank you. Yes. Appreciate that.
+......................................................................................................................................................................................................................................................
+Operator: And we'll move to our next question from Brian Bedell from Deutsche Bank. Please go ahead.
+......................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Hi, great. Thanks. Good morning, folks. Just a quick one on the net interest revenue outlook. I think you were
+implying it after a 3% drop in 1Q versus 4Q would be – the guidance would be stable for 2Q, 3Q, 4Q. Just
+wondering what the headwinds are, if we are – if we do have a steeper yield curve, I guess, is the forward curve
+your assumption with that? And then what would be the headwinds that would keep that stable if we were to see a
+steeping yield curve and lower prepaid fees as we go throughout the year?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. Hi, Brian. So, you've got that spot on. Our guidance is, take the fourth quarter run rate discount that, call it
+about 3% and that's a good proxy not only for the first quarter, but when you think through the average run rate for
+the year, at least based on what we know now. We don't try to get cute, we just use the forward curve. And
+despite a steepening of the curve, we're still very sensitive to short-end rates which have actually come down.
+Also, when you think about where we play the duration of our investments, that part of the curve is actually not up
+as much as the longer end.
+And, I guess, the last thing I would just point out about prepayment speeds which you've mentioned is that,
+despite a steepening of the curve, we really haven't seen mortgage rates increase that much. So we're not
+expecting those at the moment anyway to really decline much. So, that's really – all of this, of course, is subject to
+change based on the rate environment, but that's how we're projecting.
+......................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+That's clear. And then, my second question...
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+14
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Hey, Brian, I'll just add just to make sure it's perfectly clear. I mean, when you think about the steepness of the
+yield curve, we've seen that, but we've also seen short-term rates come in a little bit, and that's meaningful. So, if
+we do continue to see it and we continue to – and that starts to slow down prepayment speeds or given mortgage
+spreads were to widen a little bit then we would expect prepayment speeds to slow down. But all we do is we use
+the current market's expected future rates, really the forward curve. So that's what's in that estimate.
+......................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Right. Okay. That really makes sense. And maybe, Todd, just going back to some of the initiatives you mentioned
+in the early part of the call and trying to triangulate that with the organic growth rate. So the 1.5% organic growth
+rate, I think that implies [ph] rough (00:43:59) numbers around $250 million of organic revenue expectations for
+2021.
+And then you mentioned – I wrote down five different initiatives: the front-to-back mandate, the Data Vault, ESG
+investment analytics, the collateral management, money market from tri-party repo solution and the commercial
+payments, real-time payments system as well. Just to get a flavor, are those contributing more to, I guess, if we
+could sort of frame what portion of the organic revenue growth in 2021 may be attributable to that? Or is it really
+more for building that in 2022 and we can see potentially the organic growth rate improving in 2022 as a result of
+these initiatives?
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. I mean, a little bit of both. So, part of the – we had a very strong sales quarter in the fourth quarter, but
+most of those won't be implemented, Brian, until the end – toward the end of the year, so they're going to have de
+minimis impact on the revenues for this year, but they'll go into next year. Some of those are because of what
+we've done around data and analytics, the Data Vault. And [ph] you know, (00:45:18) Janus Henderson, they're
+an early adopter. And so, that will take some time to implement.
+And then, we think we're gaining some additional traction. When we look at some of the applications, we've had
+many, many, many demonstrations and many users on a trial basis, for example, on our ESG app. So that's
+starting to build some momentum. The collateral management program that we're investing in, we don't expect –
+we expect to start seeing some of the benefits of that towards the end of the year. So, there's a little benefit in the
+organic growth rate this year and we would expect that to accelerate a bit next year.
+......................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Okay. Okay. Fair enough. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: [Operator Instructions] We'll take our next question from Mike Mayo from Wells Fargo. Please go
+ahead.
+......................................................................................................................................................................................................................................................
+Mike Mayo Q
+Analyst, Wells Fargo Securities LLC
+Hi.
+......................................................................................................................................................................................................................................................
+15
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Good morning, Mike.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Hello.
+......................................................................................................................................................................................................................................................
+Mike Mayo Q
+Analyst, Wells Fargo Securities LLC
+A question on one positive trend, one maybe negative trend. But on the negative trend, you said you had elevated
+transaction volumes in Pershing and they should moderate. Have they moderated already? And what kind of see-
+through do you have to the market situation if those transaction volumes are moderating?
+And on the positive side, you said Asset Servicing, you had the best sales in 10 quarters in the fourth quarter and
+that should help in about a year. How are you able to close these deals in the pandemic environment? I mean,
+are you closing deals over Zoom? Are these existing relationships? Because I keep hearing like getting new
+relationships is tough, so just wanted some color behind both of those trends.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. No, we – one of the big transactions that we're closing was entirely virtual and a lot of these have been
+entirely virtual. And we've built a very good relationship with that particular organization's large European asset
+manager. In fact, right before the pandemic – right at the time, I was going to travel to see them and,
+unfortunately, was unable to do it.
+So there have been, from soup to nuts, things slowed down for a while, but it's getting a little more normalized on
+the institutional front. I'd say, on the wealth front with individuals, that's a little bit more challenging, Mike. But on
+the institutional front – it's certainly not ideal but we've had many instances of where we've been able to handle
+that.
+In terms of your question around Pershing, I mean we're only a couple of weeks into the New Year and volumes
+generally have stayed pretty strong relative to the fourth quarter. I just think that's a little bit too early to call. Our
+estimate is that they would normalize a bit. Maybe they won't; maybe we'll stay up here, but that's our best guess
+at this point.
+You had a third question in there, and I don't recall what it was, Mike, but I'll try to take it.
+......................................................................................................................................................................................................................................................
+Mike Mayo Q
+Analyst, Wells Fargo Securities LLC
+Just a read-through the capital markets when you think things settle down. But it sounds like they haven't settled
+down yet based on what you're seeing with Pershing.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. I think that's right. I think you're seeing more retail activity than you've historically seen.
+16
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Mike Mayo Q
+Analyst, Wells Fargo Securities LLC
+Great. All right. Thank you.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Thanks, Mike.
+......................................................................................................................................................................................................................................................
+Operator: We'll take our next question from Alex Blostein from Goldman Sachs. Please go ahead.
+......................................................................................................................................................................................................................................................
+Alexander Blostein Q
+Analyst, Goldman Sachs & Co. LLC
+Great. Hey. Good morning, Todd. Good morning, Emily. Just a follow-up around the organic growth target that
+you guys put out there of 1.5%. Can you talk a little bit about what you're assuming for pricing dynamics within
+that across sort of your various businesses? Obviously, it sounds like Q4 maybe was a little bit of an anomaly of
+several large accounts just kind of happened to reprice at the same time. But maybe give us a sense kind of what
+like that unit repricing looks like? Is it 1%, 2%, kind of what that is? And how do you incorporate that into your
+guidance? Thanks.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Emily, why don't you take that? Do you want to take it?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. I'll start and please add. So, I mean repricing pressure is just the norm in our businesses. So it's always a
+headwind but a very modest headwind. And we routinely always, actually, offset that – more than offset that with
+greater efficiency and net new business. So, we don't – look, there has been some lumpy repricing but we don't
+see any underlying structural change or trend. So, from that perspective, it's not hugely material.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+And part of our pricing schedules too are graduated. So as the value of the assets increase, the pricing does
+reflect that volume. But this is specific to repricing top existing clients as they benefit from some of the operating
+efficiencies and the growth in their own business. And typically, it's been fairly stable for a number of years, the
+downdraft on that. It was just a little lumpy this year. We see it going back to normal, but that lumpiness will have
+a little bit of an impact on 2021.
+17
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Alexander Blostein Q
+Analyst, Goldman Sachs & Co. LLC
+Got it. Understood. And then just a clarification around NIR, sounds like you guys are assuming MBS
+prepayments will remain at current levels for 2021. Can you just remind us what premium amortization was in the
+fourth quarter? And any sort of sensitivity you guys can provide around that with respect to prepayment speeds?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+[indiscernible] (00:51:27) top of my head. You have it, yeah?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+I'm afraid I'm going to misquote, but I think let's follow up with HR – with IR, sorry.
+......................................................................................................................................................................................................................................................
+Alexander Blostein Q
+Analyst, Goldman Sachs & Co. LLC
+Okay. Sounds great. Thanks.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Thanks, Alex.
+......................................................................................................................................................................................................................................................
+Operator: We'll take our next question from Rajiv Bhatia from Morningstar. Please go ahead.
+......................................................................................................................................................................................................................................................
+Rajiv Bhatia Q
+Analyst, Morningstar, Inc. (Research)
+Hey, good morning. Just a quick question on the Pershing LOV. Within Pershing, how does your revenue growth
+compare in independent broker-dealer clearing channel versus RIA custody? And how big of a headwind is
+consolidation within the independent broker-dealer space by self-clearing firms like LPL?
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. And so, we are growing faster in the registered advisory firms than the broker-dealer side of the business.
+But the broker-dealer side of the business is still meaningful, and it's a large component of it. And so, as we look
+into next year, some of the consolidations or the [ph] self-planning (00:52:38) decisions have offset the very
+strong growth that we've seen. So, that's going to be a little bit of a drag for Pershing for this year. It's basically
+offsetting. But the pipeline continues to be very strong, especially in the advisory space.
+......................................................................................................................................................................................................................................................
+Rajiv Bhatia Q
+Analyst, Morningstar, Inc. (Research)
+Got it. Thanks.
+18
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Todd, just going back, if Alex is still on the call, just – I didn't have it at my fingertips. MBS prepayment speeds or
+MBS prepayments were about a headwind of $173 million in the quarter. And yes, you are correct, we just are
+expecting despite a steepening yield curve at the moment for that to remain stable.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Rajiv, do you have a follow-up question?
+......................................................................................................................................................................................................................................................
+Rajiv Bhatia Q
+Analyst, Morningstar, Inc. (Research)
+No. Thank you.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: We'll take our next question from Brian Bedell from Deutsche Bank. Please go ahead.
+......................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Great. Thanks for taking the follow-up. Todd, just want to circle back on the front-to-back mandate that you
+[indiscernible] (00:53:44) largest of the ones that you've been servicing. But just wanted to get a flavor of how
+many others that you're doing, given that you are integrated with virtually all of the OMS providers? Or is that a
+sizeable type of mandate for you if we consider other contract wins, and maybe [indiscernible] (00:54:10)?
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Okay. Sure. So, I mean we've integrated now with six OMS platforms, partnerships with Bloomberg, Aladdin and
+so forth. And through that, we're offering custody insights, information around liquidity, and it's kind of unique
+capability that we're able to do transactions, holdings and so forth. And I think what it does is, it very much
+enriches the experience of doing business with us. So I think it's helped us to retain relationships, I think it's
+helped us to grow a couple of relationships that I've just indicated. So, we are starting to get some traction with it.
+Moving on to the data business which we've been in for some time, but now we've cloud-enabled it and made a
+much richer capability. We've had a number of large beta clients that have been operating it, and we're now
+starting to convert some of them. So, I think it's not just what they can do with us, but for the first time now we're
+starting to see some meaningful wins that I would attribute, maybe not entirely to it, but certainly that was a helpful
+driver.
+......................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Okay. That's helpful. And just real quick on Pershing, consolidation in the RIA space, can you actually benefit
+from that or is that mostly a – do you see most of the providers going to a self-clearing option?
+19
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Yeah. As we look back historically, more often we're winners to it, but there can be just bad luck. And so, either
+the acquirer was self-clearing or had some other approach or some other provider. So typically, we found that we
+have won; more recently, we had a couple of losses.
+......................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Okay. Good. Thank you. Thank you for the follow up.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Thanks, Brian.
+......................................................................................................................................................................................................................................................
+Operator: We will take our next question from Brian Kleinhanzl from KBW. Please go ahead.
+......................................................................................................................................................................................................................................................
+Brian Kleinhanzl Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Great. Thanks. I was wondering if you could just kind of walk through again the Tier 1 leverage comments that
+you made. You had said that this quarter where it was at 6.3%, I think you gave that your target was 5.5% to 6%,
+but then you said you thought you were well above where you needed to be. It seems like you're just above kind
+of what your targets are. So how does that impact your aspirations for capital return?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. So, Tier 1 leverage is 6.3%. I think we've been pretty clear that we're comfortable running more at a rate
+between 5.5% to 6%. So, that does imply that we have significant excess capital. And you can assume that we're
+going to look to return that to shareholders over the course of the year if we're permitted to do so.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Hey Brian, the other I would add to that, Brian, is that we have excess deposits right now.
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Right.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+And so, since we're not able to do anything with our capital, we're not really pushing them away or managing
+them as carefully as we could once we get back into a normal capital management cycle. Deposits that aren't
+worth anything, we're not going to keep them here.
+......................................................................................................................................................................................................................................................
+Brian Kleinhanzl Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+20
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+And so, then when you talk about the deposits, how does that play into the money market fee waivers? Are you
+anticipating pushing those off into the money market funds, which have been the driver of the fees waivers, or if
+that were to happen, that could be an incremental negative to the fees waiver guidance?
+......................................................................................................................................................................................................................................................
+Emily H. Portney A
+Chief Financial Officer, The Bank of New York Mellon Corp.
+Sure. I can take that. So, I mean the fee waiver guidance and the increase in that is really tied to what we're
+seeing in the short end and t-bill rates and repo rates have actually come down since we originally projected and
+that's really what the $175 million now that I mentioned. You are correct, with a lot of excess reserves, if that all
+ends up in money markets, that could ultimately put more pressure. So, that is a potential risk.
+The one thing also, just while we're on waivers that I just would highlight is that, Pershing did hit its full run rate in
+terms of waivers in the fourth quarter. So you will start to see those waivers increase in other lines of business. So
+Asset Servicing, Issuer Services, IM, Treasury Services, for example.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+So Brian, if money market mutual funds increased as the balance has increased, we would certainly waive more
+fees. But net-net, we'd have more fees. And so, it's just that we would – it's 100% of the component that we get.
+So they've basically been relatively stable. So when we do these comparisons, the volumes have been relatively
+flat. So that hasn't created any noise. So if money has moved into money market funds, there probably will be
+much less fees than they typically would have been, but there'll probably still be some fees.
+......................................................................................................................................................................................................................................................
+Brian Kleinhanzl Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Got it. Thank you.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Thanks, Brian.
+......................................................................................................................................................................................................................................................
+Operator: And with that, that does that...
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons A
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+That was our last question, operator?
+......................................................................................................................................................................................................................................................
+Operator: And that does conclude our question-and-answer session. I would now like to turn the call back over
+to Todd for any additional or closing remarks.
+......................................................................................................................................................................................................................................................
+Thomas P. Gibbons
+Chief Executive Officer & Director, The Bank of New York Mellon Corp.
+Thanks for your interest. And obviously, if you can – you can call IR to follow up on any clarifications. Have a
+good day.
+......................................................................................................................................................................................................................................................
+21
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+The Bank of New York Mellon Corp.
+(BK) Corrected Transcript
+Q4 2020 Earnings Call 20-Jan-2021
+Operator: Thank you. This concludes today's conference call and webcast. A replay of this conference call and
+webcast will be available on the BNY Mellon Investor Relations website at 2 PM Eastern Time today. Have a
+great day.
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE,
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2021 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+22
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
