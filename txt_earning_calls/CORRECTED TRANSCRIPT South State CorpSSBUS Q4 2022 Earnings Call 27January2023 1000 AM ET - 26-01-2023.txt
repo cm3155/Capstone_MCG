@@ -1,0 +1,657 @@
+Corrected Transcript
+27-Jan-2023
+South State Corp.
+(SSB)
+Q4 2022 Earnings Call
+Total Pages: 15
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+CORPORATE PARTICIPANTS
+William E. Matthews Stephen D. Young
+Senior Executive Vice President & Chief Financial Officer, South State Chief Strategy Officer, South State Corp.
+Corp.
+John C. Corbett
+Chief Executive Officer & Director, South State Corp.
+.....................................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Stephen Kendall Scouten Michael Rose
+Analyst, Piper Sandler & Co. Analyst, Raymond James & Associates, Inc.
+Catherine Mealor David J. Bishop
+Analyst, Keefe, Bruyette & Woods, Inc. Analyst, Hovde Group LLC
+.....................................................................................................................................................................................................................................................................
+MANAGEMENT DISCUSSION SECTION
+Operator: Hello, everyone, and welcome to SouthState Corporation, Q4 2022 Earnings Conference Call.
+[Operator Instructions]
+I would now like to hand the conference over to Will Matthews, CFO. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+William E. Matthews
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Good morning and welcome to SouthState's fourth quarter 2022 earnings call. This is Will Matthews, and I'm here
+with John Corbett, Steve Young, and Jeremy Lucas. John and I will make a few prepared remarks and then we'll
+open it up for questions. As always, a copy of the earnings release and the presentation slides are located on our
+website under the Investor Relations tab.
+Before we begin our remarks, I want to remind you that comments we make may include forward-looking
+statements within the meaning of the federal securities laws and regulations. Any such forward-looking
+statements we may make are subject to the Safe Harbor rules. Please review the forward-looking disclaimer and
+Safe Harbor language in the press release and presentation for more information about our forward-looking
+statements and risks and uncertainties which may affect us.
+Now, I'll turn the call over to John Corbett, our CEO.
+.....................................................................................................................................................................................................................................................................
+John C. Corbett
+Chief Executive Officer & Director, South State Corp.
+Thank you, Will. Good morning, everybody. Thanks for joining our call. We're really proud of our team and the
+momentum that's been building throughout 2022. I think if 2021 is a year that we were taking the time to plant the
+2
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+seeds for the future and 2022 was a year where those seeds began to take root and grow, and that growth is
+reflected in the results that we announced last night.
+During the fourth quarter, PPNR per share increased 11% over the third quarter. That took us to a PPNR return
+on assets over 2% and a return on tangible equity of 20%. We set aside $47 million of reserves, but incurred less
+than $1 million in charge-offs. So credit quality metrics continue to be excellent and Will can walk you through the
+impacts of the Moody's economic forecast later in the call.
+Total loans grew 19% annualized in the quarter and over the last few years, we've recruited some of the best
+middle market bankers in the Southeast. And that team is doing a great job as C&I loans specifically grew at 27%
+annualized. In the period, deposits declined 6% annualized. And we still got balance sheet flexibility with an 83%
+loan-to-deposit ratio. Our total cost of deposits landed at 21 basis points. And so far this cycle, our cumulative
+total deposit beta is only 5%.
+If you step back and look at the full-year for 2022, PPNR per share was up 36% over 2021. Loans grew 17%.
+Deposits decreased 5%. And as we right size the balance sheet, net interest margin expanded 120 basis points.
+Over the entire year, we set aside $82 million in loan loss provisions, but only incurred $4 million in charge-offs.
+So we strengthened our reserves in 2022 to prepare for a likely economic slowdown in 2023. In addition to
+organic growth, our integration team successfully completed the Atlantic Capital conversion last summer and our
+Atlanta bankers are doing a terrific job in a dynamic market.
+The Census Bureau released their latest population report last month. We updated a Census Bureau map on
+page 6 of the deck that breaks out the four regions of the country. And since the pandemic began in 2020, 1.7
+million people in the Western states, the Northeast, and the Midwest, sold their homes, they packed their bags,
+and they moved to the south. And of the 1.7 million people that moved to the south, two-thirds of them landed in
+our SouthState markets. Based on the latest census report, SouthState continues to do business in four of the six
+fastest growing states in the country, with Florida ranking number one as the fastest growing state in the country
+last year.
+As we think about the economy and the year ahead, it seems to us that the Fed is getting what it wanted. The
+economy is slowing and loan pipelines are shrinking. So we don't know if 2023 will be a soft landing, a mild or
+moderate recession. But what we believe is that, regardless of the direction of the economy, based on the level of
+population migration, the South will outperform other areas of the country.
+We believe in the power of compounding over time. So our aspiration has always been to grow everything good at
+the bank at a compounded annual growth rate of 10% a year over a cycle. Three years ago this week, we
+announced the merger of equals of CenterState and SouthState and began the integration process,
+coincidentally, right when the pandemic hit. It's obviously been a volatile three years of monetary policy since the
+merger announcement and our growth has been lumpy. But if you look back over the last three years and if you
+smooth out the lumpiness of the cycle, we've grown at the pace that we planned. Deposits have grown at a
+compounded annual growth rate of 13% since the merger announcement and loans have grown at a
+compounded annual growth rate of 9% a year since the merger announcement. So our team is executing on our
+plan and we're now witnessing the earnings power of their hard work.
+So I'll close by congratulating and thanking all of our team members from our IT team that made big
+improvements to our digital offerings, to our risk management areas that have strengthened our defenses, to our
+bankers that generated $13 billion of new loans during the year, and our branch employees that have cared for
+our clients through countless changes. You've done a great job in a challenging environment.
+3
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+So Will, I'll turn it over to you.
+.....................................................................................................................................................................................................................................................................
+William E. Matthews
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Thank you, John, and I'll echo your comments. The team has really done a great job executing in this
+environment, leading to great results for the quarter and the year.
+We had another very strong quarter and net interest revenue with a tax equivalent NIM of 3.99%, up 41 basis
+points from the third quarter and core net interest income up $36 million. Our loan yields improved by 45 basis
+points, and our cost of total deposits rose by 13 basis points versus the third quarter. As we noted last quarter, we
+expect our deposit beta to increase from this point forward. Non-interest income totaled $63 million, down $10
+million from Q3. A few items I'll mention impacting non-interest income. We wrote down the value of our MSR
+asset by $3.2 million, which led to negative mortgage division revenue for the quarter. We also wrote down our
+SBA servicing rights asset by $900,000 for a combined $4.1 million write-down on servicing assets in the quarter.
+You'll also note that we began applying settle-to-market accounting for variation margin collateral on exchange
+cleared swaps to net against the swap asset or liability. That resulted in a decrease in deposits and swap assets
+on the balance sheet and a decrease in the corresponding interest expense and non-interest income with no
+effect on net income. And to help with your models, we've adjusted prior periods accordingly as noted on page 11
+of the release.
+Mortgage production fell in the quarter to approximately $700 million, with 81% of the volume being portfolio.
+Looking forward, expectations for mortgage production in 2023 remain muted across the industry. We expect ours
+to also be down significantly from 2022, but we expect our percentage of secondary market production to
+increase. Correspondent income continue to be somewhat challenged in this rate environment. Service charge
+income showed a seasonal lift and our wealth management division closed out another strong year.
+Noninterest expenses of $228 million were up slightly from Q3 with no big swings versus the prior quarter.
+Looking to 2023, we currently estimate NIE in the $950 million range with the first quarter being in the low $230
+million. That would represent an increase of approximately 5% from 2022 if normalized for 12 months of Atlantic
+Capital. I will note that there are, of course, factors in our business lines and in loan production that can cause the
+NIE number to increase or decrease through the year due to the impact on commissions, incentives, and deferred
+loan costs.
+On the balance sheet, the $1.3 billion in loan growth John mentioned was centered in single-family residential,
+CRE, and CRE construction, and C&I loans. Although we're starting to see some slight increased usage on
+commercial lines, line of credit utilization remains about 5% below pre-pandemic levels. Expectations for loan
+growth in 2023 are in the mid-single digit percent range as we're seeing pipelines and pre-flight discussions
+decline and a general sense of cautiousness amongst borrowers.
+Deposits declined approximately $600 million in the quarter. So coupled with loan growth, our cash and Fed fund
+sold position declined $1.6 billion to end the quarter at $1.3 billion. We continue to have very little wholesale
+funding with only $150 million brokerage CDs and no FHLB advances at year-end. Our risk-based regulatory
+capital ratios were essentially flat compared to Q3. And our TCE ratio improved approximately 40 basis points to
+7.2%. Ending TBV per share rose back above $40 to end the year.
+4
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+Turning to credit, as John noted, we continue to have excellent credit results, though we recorded a higher
+provision expense due to economic forecast changes. We had minimal net charge-offs for the quarter and the
+year, 1 and 2 basis points, respectively. And in fact, excluding DDA overdraft charge-offs, we had net loan
+recoveries for both the quarter and the year. NPLs were up $8 million ending at 36 basis points of loans caused
+by a $9 million increase in acquired SBA NPLs, which are generally 75% government guaranteed, so net
+unguaranteed NPLs were almost flat.
+As John mentioned, criticized and classified assets were down significantly with a $12 million decline in
+substandard loans and an $85 million decline in special mention loans. Our $47 million in provision expense was
+up $23 million from Q3 and was not due to a deterioration in credit, but rather due primarily to changes in
+economic forecasts with growth a secondary factor. $33 million of this provision expense was for loan losses and
+$14 million was for the reserve for unfunded commitments.
+As noted on slide 31, the ending reserve was 118 basis points of loans, with another $67 million in the reserve for
+unfunded commitments. The combined total as a percentage of loans is up approximately 9 basis points from Q3.
+Finally, I'll note that we've included some additional credit information and loan categories of interest in slides 33
+and 34.
+Operator, we'll now take questions.
+.....................................................................................................................................................................................................................................................................
+QUESTION AND ANSWER SECTION
+Operator: Thank you. We will now start today's Q&A session. [Operator Instructions] Our first question today
+comes from Stephen Scouten from Piper Sandler. Your line is now open.
+.....................................................................................................................................................................................................................................................................
+Stephen Kendall Scouten Q
+Analyst, Piper Sandler & Co.
+Well, thank you. Good morning, everyone. I guess, maybe if I could start just with the question around resi
+mortgage and what you would expect to see that do on balance sheet and that's been a nice additive portion of
+growth, but I think you just said, Will, you might have more mortgage going to the secondary market next year.
+What's the driver of that? Is that pricing or is that more that you're reaching more of a concentration limit on your
+balance sheet or how can we think about that the interplay there on mortgage?
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Hey, Stephen. It's Steve. Yeah. It's been a really nice year for residential mortgage. And if you think about the
+volatility in that business, particularly at the rates, it's changed a lot since the beginning of the year. I think, at the
+beginning of the year, the 30-year fixed rate mortgage was somewhere in the 3% to 3.25%. It hit a high of about
+7%, I think, 7%, 7.5% in the late third quarter. We have a slide in the deck which talks, I think, it's page 15 in the
+deck and it describes sort of the balance sheet growth over the last three years in residential mortgage. And what
+you'll see in that graph, if you look at it is, when rates were very low in 2020 and early 2021, we shrank the
+residential portfolio and then – and sold a lot of our production in the secondary market when rates – or when gain
+on sale margins were high. And then you can see, as rates started rising, we started putting more of that on our
+balance sheet. So if you kind of looked at our three-year cycle, we grew about $950 million, but we shrank some
+and we grew some depending on the balance sheet management side. So it was about 6% CAGR over the
+course of a three-year period.
+5
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+As we sort of normalize that, I would think that our residential mortgage will grow about the same as the rest of
+our loan book and I think we've guided to mid-single digits. So just to kind of give you some perspective, we've
+grown 6% CAGR over the course of a three-year period, but clearly, residential rates have come down and the
+secondary market a little bit more attractive than it was few months ago.
+.....................................................................................................................................................................................................................................................................
+Stephen Kendall Scouten Q
+Analyst, Piper Sandler & Co.
+Okay. That makes a lot of sense. Thanks, Steve. And then, I think, last quarter you said 80% to 85% kind of loan-
+to-deposit ratio by year-end 2023. Obviously, we're already [ph] at that (14:10) 83% level. So do you think that
+moves higher than that 85% range at this point? And then, is the 24% cycle deposit beta still the right number to
+think about or given how much outperformance you've had to-date, do you think it's better than that?
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Yeah. This is Steve again. I guess, from a loan to deposit ratio, let's talk about sort of our guidance. And really, it
+really hasn't changed a whole lot. I think, our starting point changed a little bit on the deposit side and that's why
+we had a little bit higher deposit rate. [indiscernible] (14:46) our goal is, for 2023 is to grow loans mid-single digits
+and keep deposits roughly flat or maybe slightly up, but somewhere in that area. We have that page – but, let me
+take a bigger picture just for a second. And I think you're trying to get to the question about margin. So let me kind
+of just talk to that a little bit. John mentioned it on the call, but, we had a great year on margin expansion. And I
+think we have a page 12 in the deck that talks about kind of the progression of net interest margin from the fourth
+quarter of last year to the quarter this year. And NIM is up 120 basis points. I've never seen that in my career from
+the last – from last fourth quarter and it's actually up 41 basis points this quarter. So as we talk about guidance for
+margin, I want to give you the same guidance for 2023 that we have in October with just one update.
+So as you think about the assumptions for margin, there's really three things. It's the size of the interest earning
+assets, it's the assumption of interest rates, and it's the last question you asked, which was the deposit beta
+assumption. So in October, when we had this call, we gave a guidance toward about a $40 billion average
+interest earning asset base in 2023. We're starting out a little smaller than that, but probably a little larger. So
+there's really no change to that guidance.
+On the last earnings call, as it relates to interest rates, on the last earnings call in October, the Moody's
+consensus forecast was for Fed funds to peak out at 4.75% in 2023. I think in the last forecast, it's moved up 25
+basis points to peak out at 5%. And then there to be a 25 basis point decrease by the fourth quarter. So if you
+kind of average it out, it's basically the same for 2023.
+The question you ask on page 20 is our deposit beta. And it shows our cycle – the deposit cycle – the deposit
+beta is at 5% versus our historical at 24% from last time. And we just continue to model the same deposit beta as
+life cycle. And then, based on the interest rate forecast deposit beta, we would expect deposit cost to get in that
+[ph] 1.15% to 1.25% (17:11) at second part of the year, which is about 100 basis points from where we were this
+past quarter. And as we think about that timing, we would expect 40% to 50% of that to happen in the first quarter
+with the remainder of that over the – of the rest of the year.
+So with all that, I'd just say, during our last call, we got into – in 2023, we got into a 3.60% to 3.80% NIM range for
+2023. And our guidance – or our assumptions really haven't changed on any assumptions. But we are increasing
+our NIM guide to 3.70% to 3.90% for 2023. And that increase really is due to the 10 basis point re-class of the
+interest cost on the swap collateral that is now in the non-interest income. Our non-interest – or our net interest
+6
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+income guide increases by 10 basis point and it decreases by the same amount to non-interest income. But total
+revenue is the same. But really, our guidance is essentially the same just with the little geography change. So
+that's a longwinded answer, but hopefully, that gives you the pieces and parts as we're thinking about 2023.
+.....................................................................................................................................................................................................................................................................
+Stephen Kendall Scouten Q
+Analyst, Piper Sandler & Co.
+Yes. Extremely helpful color, Steve. Thank you. And if I can just squeeze in one last one, just maybe more high-
+level here. John, you noted three years since you announced the larger MOE here and you still have an
+advantage currency and as you said, in really some of the best markets in the country. But if you were to do
+incremental M&A over the next, let's call it two years, what would be do you think your focus there? Is it still
+deepening further in your current markets? Would you look to expand into other strong southeast markets, or how
+do you think about the franchise over the next couple of years?
+.....................................................................................................................................................................................................................................................................
+John C. Corbett A
+Chief Executive Officer & Director, South State Corp.
+Sure, Stephen. I think, this question was asked last quarter and really, our thoughts on M&A have not changed.
+Our view is that as we look into 2023, M&A is going to be pretty slow for a couple of reasons. I mean, right now,
+there's just not a lot of clarity as it relates to the regulatory approval process and there's not a lot of clarity as it
+relates to potential recession risk. So I think the whole industry is going to be slow on M&A in 2023. I believe, it's
+likely to pick up towards the end of the year as bank boards begin to meet and think about the future earnings
+stream. If you've got an inverted yield curve, it's likely that earnings are going to flatten off in 2024 and people
+would be more enthused about M&A than they are today. I mean, our thought process, we've built the company in
+high-growth markets. And, typically, the type of target that makes the most sense for us is something that's about
+10% our size to [ph] 1/3 (20:08) of our size.
+And our preference is our existing high-growth markets. It's easier to get synergies. And we've got markets that
+are four to six fastest growing states in the country. So that would be our preference. If we ever left the existing
+footprint that we have today, we would look for similar kind of growth characteristics. But if you look at the GDP of
+the six states we're in, it would represent the fourth largest GDP in the world. So we've got a lot of opportunities to
+[ph] fish where we are at (20:39).
+.....................................................................................................................................................................................................................................................................
+Stephen Kendall Scouten Q
+Analyst, Piper Sandler & Co.
+Great. That's a really interesting statistic. Appreciate that. Thanks for all the color. Congrats on a great quarter.
+.....................................................................................................................................................................................................................................................................
+John C. Corbett A
+Chief Executive Officer & Director, South State Corp.
+You bet.
+.....................................................................................................................................................................................................................................................................
+Stephen Kendall Scouten Q
+Analyst, Piper Sandler & Co.
+And great year.
+.....................................................................................................................................................................................................................................................................
+Operator: Our next question comes from Catherine Mealor from KBW. Your line is now open.
+.....................................................................................................................................................................................................................................................................
+7
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Thanks. Good morning.
+.....................................................................................................................................................................................................................................................................
+John C. Corbett A
+Chief Executive Officer & Director, South State Corp.
+Good morning.
+.....................................................................................................................................................................................................................................................................
+William E. Matthews A
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Good morning, Catherine.
+.....................................................................................................................................................................................................................................................................
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Just to follow-up on the deposit beta conversation, your betas have just been so incredible and I think the call for
+them to stay at about a 24% level is obviously going to be industry-leading. And so, is there a way to just – I think,
+a lot of it is because of your deposit composition, right? You've got so much in checking. It's very granular
+portfolio. But we're seeing betas really accelerate across the industry. So is there a way to kind of explain why the
+beta won't accelerate as much as you're seeing from peers? And within that, kind of you talk about the balance or
+the deposit composition? Are you expecting much change in that composition or for your kind of balance of CDs,
+checking, DDAs to remain about the same? And then, maybe give us a sense as to the betas within each deposit
+category just to kind of show that maybe some of your higher cost categories really are having a beta like
+everybody else, but it's your mix that's driving this better performance. Thanks.
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Sure, Catherine. It's Steve. And that's a mouthful of a question, but I think I get your question. So let me kind of –
+I'll go back, the page 18 is our sort of our deposit discussion. And I think you laid out a couple of these things and
+then help me – I'll try to expand on that. 61% on page 18, 61% of our deposits are in checking accounts and
+typically those are the warehouse accounts for commercial, small business, and retail. Our peers are at 43%. So,
+if I were to point to one thing, I think, that would probably be the reason that we think the overall deposit beta is at
+24%.
+When you look at the different pieces, it's not just commercial, it's not just small business, it's not retail, it's really
+almost a third a third a third in each of those categories. And you can see the various average checking balances.
+Having said all that, I mean, it is clearly a battle on the deposit front and the most sensitive things that are going to
+be to interest rates on deposit accounts are going to be money markets and CDs. And like everyone else, we're
+feeling the same thing. And that's why I think as we look at the next year and if we look at the deposit betas and
+we assume that we end the year about 100 basis points higher than where we are today, a lot of that – we think
+40% to 50% of that gets front loaded into the first quarter. And the reason for that is, we certainly are feeling the
+pressure on the money market CD side and as of January 1, we raised rates across the board.
+So I think that area of the balance sheet is going to feel much more rate sensitive than our checking accounts.
+And our job, of course, is to continue to grow core clients to protect the deposit franchise, which is, as you know,
+the most important part of our balance sheet. So, as you see volatility and rates and how the yield curve has
+changed over the past 12 months, it was going to catch-up – it is catching up for sure. But we still feel good today
+about our total cycle beta and assuming that the Fed stops raising rates here in the next quarter, so we'll see lag.
+8
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+It'll definitely continue to increase some. But we like sort of our position and that NIM guide kind of has all that put
+together. So hopefully that's helpful.
+.....................................................................................................................................................................................................................................................................
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Yeah. [ph] It's very, very (24:48) helpful.
+.....................................................................................................................................................................................................................................................................
+William E. Matthews A
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Hey, Catherine, this is Will. I would just elaborate a little bit. Obviously, this cycle is a little different than once
+we've seen in the past. And we're giving you our best estimates based on what we see thus far. But we're
+certainly out there battling the same battle everyone else is. We do feel like we entered with a really healthy core
+deposit base and mix. And we've really allowed our market leaders who are closest to the customers and the
+ability to negotiate with clients on a one-off basis and rather than us trying to make all the decisions from
+headquarters. So that's our strategy thus far. And hopefully, we'll be successful and have a beta somewhat like
+last time. But it is a different environment. Of course, we acknowledge that.
+.....................................................................................................................................................................................................................................................................
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+For sure. Okay. So that's really helpful. [ph] And maybe the (25:38) other question is, this is just on the re-class of
+the interest cost of the swap collateral that you disclosed this quarter. [indiscernible] (25:48) $8.4 million today as
+– and that's been increasing obviously as rates have been going up over the past couple of quarters. So as we
+think about what we're trying to model what that number is, is it fairly steady at this $8.4 million, assuming [ph] the
+Fed (26:07) maybe up a little bit with just two more hikes and then if it plateaus, this is about where that level
+should be or is there something more with rates changing that drives what that number is over the next few
+quarters?
+.....................................................................................................................................................................................................................................................................
+William E. Matthews A
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Yeah, Catherine, there's really two pieces to it. And it's not easy to predict, that's the short answer. But the two
+factors, number one, we're talking about the amount of collateral we post. And the amount of the collateral is
+really dependent on the 10-year treasury, essentially and then the cost of that collateral [indiscernible] (26:40) the
+Fed funds rate. So – and, if you think about it, really, we're sort of at a neutral point [indiscernible] (26:46) around
+2%. So as rates come down, less collateral posted to us [indiscernible] (26:46) comes down. As the Fed funds
+rate moves up or down, the interest thereon moves up or down. So it's kind of hard to predict. I think, Steve's
+numbers – he was [indiscernible] (27:05) $10 million a quarter and that 10 basis point comment he made a few
+minutes ago about margin – moving the margin dollars from noninterest income, but it's a little bit of a swag at this
+point.
+.....................................................................................................................................................................................................................................................................
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Great. Okay. I guess, I guess, my big picture was thinking that there wasn't [indiscernible] (27:25) going away and
+that's part of the guidance for the NIM. I mean, [indiscernible] (27:31) stable going forward which helps
+[indiscernible] (27:33).
+.....................................................................................................................................................................................................................................................................
+9
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+John C. Corbett A
+Chief Executive Officer & Director, South State Corp.
+Yeah.
+.....................................................................................................................................................................................................................................................................
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Okay. And then...
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Yeah. [indiscernible] (27:35) Catherine, I'd just say that, it's about $800 million at the end of the quarter, give or
+take a little bit. And for the close to 5% Fed funds rate, that's about $40 million a year and that's sort of...
+.....................................................................................................................................................................................................................................................................
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Got it.
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+...the assumption and that's the 10 basis points on assets.
+.....................................................................................................................................................................................................................................................................
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Got it. That makes sense. Okay, perfect. [ph] And then, maybe my (27:50) last question is just on the fee outlook.
+Has anything changed? The correspondence has been a little bit lighter than expected [indiscernible] (28:00). So
+just any kind of thoughts on your [indiscernible] (28:04) as we enter 2023?
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Hey, Catherine. Fee income was well over $63 million, 57 basis points of assets. Our last guidance was between
+60 and 70 basis points. But as Will mentioned earlier, we had some one-off events, mortgage servicing, [ph] SBA
+(28:25) servicing, asset write-downs. I think that was $4.1 million or $4.2 million. And of course, the [indiscernible]
+(28:32) collateral was another $8.5 million. So [ph] it's kind of through all that out, there had (28:37) been about 68
+basis points. So it had been kind of in the middle of the range. But as we kind of think about comparing the fourth
+quarter to future, until the Fed stops raising rates and some of our interest rate sensitive businesses like mortgage
+and correspondent, we think it's probably, similar 55 to 65 basis points of assets. And then, that's not decline of
+10 basis points, but if the Fed starts raising rates, we would expect that to start picking back up again and the
+non-interest income to average assets to increase back towards 60 to 70 basis points.
+So we're in a transition period where NIM is obviously 120 basis points up, noninterest income has fallen. My
+guess is, it's when the Fed stops raising rates, we've guided with you with the NIM and probably the noninterest
+income [ph] business will start (29:29) moving back up towards the back half of the year if our interest rate
+forecast is right.
+.....................................................................................................................................................................................................................................................................
+10
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+Catherine Mealor Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Great. Okay. Very helpful. Thank you. Great quarter.
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Thank you, Catherine.
+.....................................................................................................................................................................................................................................................................
+Operator: Our next question comes from Michael Rose from Raymond James. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Michael Rose Q
+Analyst, Raymond James & Associates, Inc.
+Hey. Good morning, guys. Thanks for taking my questions. Appreciate all the color. Just on the expenses, just a
+couple of questions. Can you just remind us what the expectation is for the FDIC expense pick-up is this quarter?
+And if you can kind of remind us what assuming for annual merit increases [indiscernible] (30:11) the first quarter,
+just trying to get kind of a level set as we think about just kind of the first quarter within the context of roughly $950
+million [indiscernible] (30:25) for the year. Thanks.
+.....................................................................................................................................................................................................................................................................
+William E. Matthews A
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Yeah. Michael, I don't have the precise FDIC insurance expense model in my head, so I can't answer that part of
+the question. We've modeled essentially a 4% merit increase across the footprint. And we do have some new
+hires. We're investing in a number of parts of our business across the footprint as a result of our strategic planning
+and strategic initiatives process that we just completed in the fall. And so, there's some new hires coming in as
+well and some of that, and they'll be coming in throughout the course of the year as those initiatives begin. But all
+that's baked into that $950 million number that I referenced and expecting something in the [ph] low-230s in the
+first quarter (31:10). Like I said in my prepared remarks and you know this, but there are other factors that can
+cause that to move around a little bit. I mean, loan production moving up or down will impact deferred loan costs.
+Production versus incentive goals will affect incentive compensation, things like that. So those are all variables
+that are in there, but that's our best estimate at this point.
+.....................................................................................................................................................................................................................................................................
+Michael Rose Q
+Analyst, Raymond James & Associates, Inc.
+Perfect. And then, just moving to credit, obviously, you guys felt the reserve this quarter. It seems obviously,
+changing a little bit of the modeling inputs, but it seems pretty conservative, especially with criticized classified
+moving actually down again Q-on-Q. Is there anything that just when you look out at the portfolio that kind of
+worries you? There's been a lot of talk around office and commercial real estate, maybe construction to some
+degree. I think, this is asked every quarter. But just generally, how are you guys feeling about credit? And
+assuming the backdrop continues to soften or deteriorate, would we expect to see that reserve ratio continue to
+kind of grind higher under those pretenses? Thanks.
+.....................................................................................................................................................................................................................................................................
+John C. Corbett A
+Chief Executive Officer & Director, South State Corp.
+Michael, it's John. I can maybe start on the asset [ph] quality here. (32:27) Will has an opinion on CECL. I'm going
+to let him tackle that. But as you mentioned, the asset quality is remarkably good right now. I mean, charge-off is
+1 basis points, really all DDAs [indiscernible] (32:39) net recoveries, loan recoveries, in the quarter and in last
+11
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+year. Non-accruals did pick-up, but it's almost entirely, as Will said, government guaranteed SBA. So the non-
+guaranteed portion is basically flat. We've added some slides too, Michael. You might be interested in page 33
+and 34, that kind of breaks out our underwriting loan-to-value debt service coverages on commercial real estate
+and then also our consumer portfolio. But as far as the areas that we kind of are focused on that we think could
+be challenging in the next year or two, small business naturally is one. I mentioned that pick-up in SBA loans, but
+fortunately we've got the guarantees there. But if you think about the pressure on small businesses with wage
+inflation, rent inflation, interest rate costs, that's an area to watch. It's very small for us, a couple hundred million
+dollars, but the assisted living area with COVID that continues to be something that we're working through some
+weakness there.
+And on office, the metrics are all great right now for us. And but there is this social demographic shift that's going
+on. We look at our office book. It's about 4.4% of the total loan portfolio. Right now, we're at a 52% loan to value
+and a 1.67 times debt service coverage that underwrites fine. [indiscernible] (34:03) advantage for us on office is
+that, where we've done mostly smaller properties, 78% of them are under 150,000 square feet and our average
+office loan is only $1.03 million. So, 90% of the portfolio in office for us doesn't mature until 2025 or after. So
+hopefully the office shift will be a slow moving train and our clients and us will be able to react as the market
+shifts. But those are the areas we're watching so far, we haven't seen the deterioration or pass-throughs are
+stable [indiscernible] (34:46) mention classifieds are coming down.
+.....................................................................................................................................................................................................................................................................
+William E. Matthews A
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Yeah. On the CECL point, Michael, I guess, a couple of things. One, our CECL model [indiscernible] (34:53) data
+from every bank we've acquired, excluding five or six [ph] failed banks (34:58) dating back to 2004. And this is
+both of the companies making for MOE and that's about 60 or 61 banks in total, I think. Our loss drivers really
+vary by loan type, but they include South Atlantic region unemployment, the housing price index, the year-over-
+year change, the CRE priced index year-over-year change, apartment rental vacancy rate and GDP for the South
+Atlantic region. So, our future reserve levels or our future provisioning expense is going to depend upon changes
+in forecasts for those loss drivers as well as our actual net losses which, of course, brings down the reserve. We
+continue to be more conservative in our outlook than Moody's. Our reserve is about 20% to 25% higher than it
+would be under the straight Moody's baseline scenario, though Moody's has gotten a little more conservative
+showing more economic weakening this quarter.
+I don't think it's appropriate for me to comment [indiscernible] (35:59) accounting standard of FASB makes the
+rules and we live by them. But if you look at our company over the last three years and you sum up the absolute
+value of our provision expense, positive and negative and you get something north of $500 million and over the
+same three-year period, we've had cumulative net charge-offs of something around $12 million. I'm not
+suggesting that 1.5 basis points a year is a sustainable net charge-off level. But I think, in our view, what's more
+important is not so much, how much provision expense we have, but rather how much money we lose in net
+charge-offs because until we charge it off, the provision expense really just moves from one form of a capital to
+another.
+.....................................................................................................................................................................................................................................................................
+Michael Rose Q
+Analyst, Raymond James & Associates, Inc.
+No. I certainly appreciate that and, John, I appreciate those slides you put [indiscernible] (36:47). I forgot to
+mention those in the outset of the question, so it's good to hear. Just one final one from me, point of clarification,
+obviously, the NIM guide is moving up a little bit. That's the all-in NIM, correct? And if so, if you can just tell us
+what the expectation is for accretion or scheduled accretion this year? Thanks.
+.....................................................................................................................................................................................................................................................................
+12
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Yeah. Michael, that's right. It's all in NIM of between 3.70% and 3.90% for the year. The decrease [indiscernible]
+(37:16) I think, in the fourth quarter, was around $7 million, $7.5 million. I think we are modeling that around $20
+million for the full year of 2023. So I think it comes down a little bit. But all that factored in the entire cut.
+.....................................................................................................................................................................................................................................................................
+William E. Matthews A
+Senior Executive Vice President & Chief Financial Officer, South State Corp.
+Yeah. And just to reiterate, the move-up essentially was the geography change with respect to the collateral. So,
+as Steve said earlier, I just want make sure that point is clear that we got [indiscernible] (37:44) up on the NIM,
+but by a similar amount down on the noninterest income, so total revenue essentially where we were guiding last
+quarter.
+.....................................................................................................................................................................................................................................................................
+Michael Rose Q
+Analyst, Raymond James & Associates, Inc.
+Yes. Appreciate it. Thanks, guys.
+.....................................................................................................................................................................................................................................................................
+John C. Corbett A
+Chief Executive Officer & Director, South State Corp.
+Thank you, Michael.
+.....................................................................................................................................................................................................................................................................
+Operator: [Operator Instructions] Our next question comes from David Bishop from Hovde Group. Your line is
+now open.
+.....................................................................................................................................................................................................................................................................
+David J. Bishop Q
+Analyst, Hovde Group LLC
+Yeah. Good morning, gentlemen.
+.....................................................................................................................................................................................................................................................................
+John C. Corbett A
+Chief Executive Officer & Director, South State Corp.
+Hi, David.
+.....................................................................................................................................................................................................................................................................
+David J. Bishop Q
+Analyst, Hovde Group LLC
+Appreciate the guidance in terms of the expectations for loan growth. Obviously, you guys had entered fourth
+quarter with plenty of excess liquidity [indiscernible] (38:29) liquidity, put down cash a bit. How should we think
+about the funding of that loan growth? [indiscernible] (38:33) run off a little bit more cash? Do you get a little bit
+more aggressive on wholesale borrowings, just curious how you're thinking about the funding of the growth this
+year?
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Yeah, David. This is Steve. The mid-single digits, let's say, it's $1.5 billion loan growth, give or take a little bit, is
+our expectation for 2023. We have about, I don't know, $800 million to $900 million coming off the investment
+portfolio, so we'll use that cash. And then, with our [ph] guide with deposits somewhere between flat and up
+13
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+(39:03) $500 million, $600 million is sort of the expectation for the year. And then, as it relates to the deposits, as
+Will mentioned on the call, to the end of the year, I think, we had $150 million or [ph] so a broker that's been out
+there for, I don't know, (39:20) three or four years and no wholesale borrowings at the Federal Home Loan Bank.
+Yeah, I think as we kind of go through this period, I would expect, I think let me go back, in 2019, at the end of
+2019, I think we had a little over $1 billion, $1.2 billion and between borrower in FHLB, it wouldn't surprise me if
+over the course of the next 12 months, we had something similar to that. But bottom line is pretty close to
+[indiscernible] (39:49).
+.....................................................................................................................................................................................................................................................................
+David J. Bishop Q
+Analyst, Hovde Group LLC
+I appreciate that. And then, just curious, just a final question for me, in terms of onboarding of new loans this
+quarter, just curious what you're seeing new loan yields on new production this quarter versus last? Thanks.
+.....................................................................................................................................................................................................................................................................
+Stephen D. Young A
+Chief Strategy Officer, South State Corp.
+Yes, David, our new loan production, I don't have it in front of me the fourth quarter. I think, in December, it was
+approaching 6% or so on the new loan production. I think our overall portfolio yield [ph] at the spot (40:24) at the
+end of the quarter was a little less than 5%, but close to 5%. So yeah, essentially your portfolio is around 5%. I
+think we ended the [indiscernible] (40:32) I think was the average, I think [indiscernible] (40:35) a little less than
+5%. And we're putting out loans close to 6%, give or take.
+.....................................................................................................................................................................................................................................................................
+David J. Bishop Q
+Analyst, Hovde Group LLC
+Great. Appreciate the color.
+.....................................................................................................................................................................................................................................................................
+Operator: There are now further questions at this time. So I'll hand you back over to John Corbett.
+.....................................................................................................................................................................................................................................................................
+John C. Corbett
+Chief Executive Officer & Director, South State Corp.
+All right. Thank you. And those are good questions. And as always, we appreciate your interest in joining us on a
+busy earnings call morning, so appreciate that. If you have any follow-up questions in your models, don't hesitate
+to give us a ring. Hope you guys have a great day.
+.....................................................................................................................................................................................................................................................................
+Operator: That concludes today's SouthState Corporation Q4 2022 earnings conference call. You may now
+disconnect your line.
+14
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+South State Corp.
+(SSB) Corrected Transcript
+Q4 2022 Earnings Call 27-Jan-2023
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE,
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2023 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+15
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC

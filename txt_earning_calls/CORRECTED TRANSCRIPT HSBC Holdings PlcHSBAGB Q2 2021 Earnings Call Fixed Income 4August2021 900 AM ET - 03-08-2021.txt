@@ -1,0 +1,517 @@
+Corrected Transcript
+04-Aug-2021
+HSBC Holdings Plc
+(HSBC)
+Q2 2021 Earnings Call - Fixed Income
+Total Pages: 12
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+CORPORATE PARTICIPANTS
+Carlo Pellerani
+Group Treasurer & General Manager, HSBC Holdings Plc
+Richard O'Connor
+Head-Global Investor Relations, HSBC Holdings Plc
+.....................................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Lee Street Tom Jenkins
+Analyst, Citigroup Global Markets Ltd. Analyst, Jefferies
+Violeta Baraboi Alvaro Ruiz de Alda
+Analyst, Société Générale SA (UK) Analyst, Morgan Stanley & Co. International Plc
+Corinne Cunningham
+Analyst, Bernstein Autonomous LLP
+.....................................................................................................................................................................................................................................................................
+MANAGEMENT DISCUSSION SECTION
+Operator: Good morning, ladies and gentlemen, and thank you for standing by. Welcome to today's HSBC Q2
+Fixed Income Results Conference Call. At this time, all participants are in a listen-only mode. There will be some
+opening remarks followed by question-and-answer session. [Operator Instructions] I must advise you that this
+conference is being recorded today.
+I would now like to turn the conference over to your speaker today, Carlo Pellerani, Group Treasurer.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani
+Group Treasurer & General Manager, HSBC Holdings Plc
+Thank you, Sharon, and hi, everyone. This is Carlo. I'm joined today by Richard O'Connor, our Head of Investor
+Relations; and Greg Case, Head of Debt Investor Relations together with Richard Boyns, Head of Capital. I joined
+HSBC in March after about nine years at UBS. I know a few of you but looking forward to meeting the rest of you
+hopefully in person soon in the future.
+My first few months at HSBC, I have found the organization to be full of opportunities. We have a tremendous
+franchise and that is also true in the financial resources space, which is kind of the bread and butter of what we
+do in Treasury. We have a very strong set of resources, and one of the key opportunities for us in the future is to
+look at how we optimize across all of those.
+I'm sure you would have spent the last few days going through our results. So what I thought of doing today is just
+giving you a very high level of introduction and then going straight to Q&A. I'm not going to refer to any of the
+slides. So today I'll speak a little bit about the quarter, our strategic delivery, and our financial resources.
+2
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+So, first on the quarter as you saw we generated pre-tax profit of $5.1 billion for the quarter, $4 billion up year-on-
+year, and that included a release of $300 million of ECLs taking the year-to-date ECL release to $700 million. And
+as a reminder, we still retained about $2.4 billion of the ECLs we had built out during the post-COVID period.
+Second, in terms of strategy, we are making very good progress across all the four priorities that Noel has said
+which, as a reminder, where to focus, to digitize, to energize, and to transition. You will see in the announcement
+from Monday pages across all four. So we're very, very happy on how that is progressing, and alongside that we
+are well on track to meet the financial resource commitments that we had made including where reductions of
+cost and RWA programs.
+In terms of financial resources, first starting with balance sheet we have increased our loans by about 2% for the
+quarter both on the side of mortgages and on the back of trade finance balances, and our deposits have gone up
+by about 1% in the quarter. In terms of capital we continue to have a very, very strong capital position, our CET1
+ratio of 15.6%. We have declared an interim dividend of $0.07 per share for the first half of the year and we
+remain very comfortably above MDA of about 4.7 percentage points.
+In terms of liquidity we also have a very, very strong liquidity position. We have about $850 billion of HQLA across
+the group. You would have seen that we have announced a technical adjustment in our calculation of our LCR
+that is taking our LCR to 134%, which is about a 10% adjustment, which basically reflects a new methodology that
+better captures transferability challenges of liquidity across the group. But just to stress, that still represents
+significant surplus liquidity across the group. We have over $200 billion of surplus requirement across different
+entities of the group.
+And finally, to talk about funding, in terms of our AT1, you would have seen us in the market issuing about $2
+billion of AT1 in year-to-date. We have also redeemed $2 billion and that is in line with the guidance that we had
+provided in – broadly expect to issue for refinancing mainly. We have no additional plan for AT1 at the moment.
+Tier 1 likewise, we have very limited interest in that instrument for the moment. And you shouldn't expect us to be
+anytime soon in the market.
+In the MREL space, our guidance for the year is $15 billion as it was at the beginning of the year. You would have
+seen us issuing about $7 billion of MREL instruments during the last six months. And you would have seen as
+well that we have started to venture in some of the locations that we [ph] haven't passed (05:32) in the past. We
+had inaugural transactions in both Hong Kong dollars and in CNY.
+Diversification is something that we deliberately will continue to pursue by trying to take a little bit of pressure off
+the most natural markets, in particular, the dollar markets where the majority of the demand is now there to –
+depending on market conditions, we would continue to look at other places for us to diversify our funding sources
+from. That takes our MREL ratio to 30.6%, significantly above our 28% or so requirement that we have. And
+finally, from an OPCO perspective, subsidiaries have very little funding needs and OPCO issuances will continue
+to be relatively rare.
+So just to wrap it up before we open for question, we feel that this was another solid quarter, good earnings
+diversification across the group, and perhaps more importantly making very strategic progress on all our medium-
+term goals.
+On that note, Sharon, we can open up for questions.
+3
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+QUESTION AND ANSWER SECTION
+Operator: Thank you. [Operator Instructions] Your first question today comes from the line of Lee Street from
+Citigroup. Please go ahead. Your line is open.
+.....................................................................................................................................................................................................................................................................
+Lee Street Q
+Analyst, Citigroup Global Markets Ltd.
+Hello. Good afternoon all. Thank you. Thanks very much for taking my questions. I've got a couple for you,
+please. Firstly, I guess, as new treasury, you talk about there's lots of opportunities. Just any thoughts on what
+maybe HSBC could do to make it a bit more efficient or what potentially might change or be different under your
+stewardship?
+Secondly, I see in your Pillar 3 capital instruments disclosures, you've got quite a few instruments that only work
+as capital till June of 2025. Just any thoughts on, did that actually – to what extent are they a sort of serious
+impediment to resolution after June of 2025? And are there any fixes to get around that?
+And then finally I suppose on a sort of similar vein or similar theme, so you've got quite a lot of operating company
+or HSBC Bank Plc Tier 2 paper. I think I'm correct in stating that obviously that won't work for MREL after this
+year-end, but obviously still works as Tier 2 from a capital perspective. So just any thoughts around how efficient
+that is for you as a form of capital instrument as one looks ahead? They will be my three questions. Thank you
+very much.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Thank you. Thanks very much, Lee. So from an opportunities perspective, when you look across all the financial
+resources, capital liquidity, funding and also NII, what you can see is that historically, HSBC has had significant
+surpluses across all the metrics. So what we're trying to do is to make sure that the financial resources are fully
+deployed and aligned with our strategy. So we are putting a strong spotlight on each of the resources and we are
+looking symmetrically as having too little resources or too much resources and trying to have the best deployment
+for all of those.
+I can give you example if you're interested in each of those. But one that perhaps is most obvious is on the
+liquidity side. As I mentioned, we have $200 billion-plus of surplus liquidity across the group. A lot of that liquidity
+is not necessarily a bad thing. If you kind of receive surplus deposits and those deposits are not costing you, it's
+not necessarily a bad thing. But then what happens is those deposits in some entities generate capital
+requirements if those entities are leverage-constrained.
+In other entities, you have MREL requirements that are also driven by leverage requirements. So there is a cost to
+those deposits even if they come at zero. So what we're doing is we're putting a spotlight on all the resources,
+we're making sure that those are priced adequately to each of the businesses and each of the clients that are
+sourcing them, and then we're trying to find the best way of aligning them to the strategy of the group.
+On your second question on let's call them legacy instrument and resolutions, I mean this space is – of course is
+extremely complicated. And the way I would describe it is there are three dimensions that that have to be taken
+into account in – simultaneously.
+4
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+One is the regulatory dimension. You would have seen of course comments by the Bank of England and PRA
+about it. We are in communication with them. Obviously, cannot comment on the private discussion but that is an
+ongoing communication.
+I would stress that this is not a space that from a regulatory perspective is black and white necessarily.
+Remember that when those instruments were issued they were fully compliant and somehow their rules are
+changing. So that is a discussion we're having with our supervisor and our regulator.
+Second, there is of course the practicality dimension. We need to see what is the practicality of potentially
+affecting those instruments. The most challenging example perhaps in the New York loan instrument where the
+reason a magical solution that we have found about them. So there are practical considerations that are perhaps
+challenging for us to affect those instruments.
+And then finally are the economics of these transactions. Some of those economics are relatively easy from you –
+for you from the outside to understand. I mean clearly we have a fiduciary duty to our shareholders and we will
+look to [ph] us (11:44) economically over time. But some of the dynamics perhaps are been more difficult to
+observe externally because depending on whether we have or not hedged those instruments, whether to the
+extent that we have hedges, those are hedge accounts that are not – the economics for us internally may not
+necessarily be the ones that you're expecting externally.
+So long story short, you have almost a triangle with those three dimension. And depending on that, then we are
+looking at what to do. I can't comment on the discussions we're having with the supervisor and regulator. You will
+see us making a statement June next year when this public will make a self-assessment on resolvability coming
+October.
+And on your third question, yes, I mean I guess at the moment that an instrument stops being – stopped
+qualifying from a regulatory perspective and it changes, if you want, in the stack, then of course the economics of
+that instrument change. So to the extent that you had an instrument that was more junior that drops from there
+from the stack, then you need to look at the pricing of that instrument in the context of replacement, more senior
+instruments. So that will be taken into account together with the practicality of potentially affecting that instrument
+in the market when – at all times.
+.....................................................................................................................................................................................................................................................................
+Lee Street Q
+Analyst, Citigroup Global Markets Ltd.
+Okay. That's helpful. And just one quick follow-up there, you suggested on the obviously discussions with
+[indiscernible] (13:18) are ongoing. They're private, I fully understand. Did you say the first that we would hear of
+that would be June next year or would you expect to – for example, in your Pillar 3 capital instruments, disclose
+that year-end – to disclose the ultimate treatment and the like, then? Just because my understanding was this all
+needed to be wrapped up by the year-end when the grandfathering period ends. So what would be the – what's
+your best guess or whether you can give us on when you first might be communicating back to us on all of this?
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+So the timeline is, the timeline – the official timeline is as follows. We need to attest about – we need to make a
+self-assessment on our resolution by 1st of October. Then that assessment is made public by both us and the
+Bank of England by June next year. To the extent there is something material in the interim, according to our
+disclosure obligation, then of course we would make that public.
+.....................................................................................................................................................................................................................................................................
+5
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+Lee Street Q
+Analyst, Citigroup Global Markets Ltd.
+Okay. That's very clear. I'll leave the floor for someone else. Thank you.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Cheers.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Thanks, Lee.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from the line of Violeta Baraboi from Société Générale. Please
+go ahead. Your line is open.
+.....................................................................................................................................................................................................................................................................
+Violeta Baraboi Q
+Analyst, Société Générale SA (UK)
+Hi. Good afternoon, gentlemen. Thank you very much for having this call. Three questions on my side if I may.
+The first one would be on the China-Hong Kong political situation. Has there been any commercial impact? We
+haven't heard anything about it on the equity call. And there've been things in the press about state-owned
+companies reducing activity with HSBC. If you could give us a bit of color on that.
+Then the second question is about NPL ratio. So currently we have it at 1.8% in stage 3 and it's unchanged year-
+to-date. Do you think that they've already peaked, and if not, do you – when do you think this ratio might peak and
+how far are we away from that peak currently?
+And then the third question is about stage 2 NPLs. They're still quite elevated at 15% of the book. And we've seen
+with other banks that most of them have seen reductions in stage 2 and for some that there has been significant
+reductions. Therefore the question stands is, do we – are we going to slowly track back to 2019 levels that's
+around 7% to 8%, or do you think it's going to stay elevated for a while? Yeah, that's it on my side. Thank you
+very much.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Thanks, Violeta. This is Richard O'Connor. I'll start with those three and let Carlo chip in. on the first one, the
+China-Hong Kong situation, clearly nothing much to say. You've seen the Hong Kong and China results for the
+last 12, 18 months. They've been highly respectable. We've at least maintained market share, had yet another
+good mortgage performance based on trade performance, taking market share in Hong Kong. [indiscernible]
+(16:26) in Mainland China, good growth in the book there, heavy investments in the wealth business showing
+early signs of bearing fruit.
+We've got [ph] 3,000 (16:35) clients in China. We're not going to comment on any individual one of them, be them
+state owned or other, but we've run a very good pipeline of deals and transactions including from the government
+to the bond issuance in China. We've also won licenses, so a fintech license, first of all a fintech license and we're
+obviously looking to expand that, particularly that wealth franchise as we said into five more cities.
+6
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+So results are very solid, customer engagement very strong, very resilient results. And economically you can see
+that Hong Kong, China continue to perform well despite obviously near-term challenges from COVID in China
+we've seen in the last week, unfortunately, and hopefully that situation improves. So, yeah, no, we continue to
+invest heavily and the business continues to perform well. We obviously want to perform even better. That's why
+we're investing more heavily in the business and those investments are showing good signs of traction. And we
+really strive for very good relationships with the regulating governments at all levels in China and have very good
+engagement with them.
+On the 1.8% stage 3, I'll give you two contradictory answers. Look, you saw the stage 3 charges in Q2 were very,
+very low; in fact they were zero of that $400 million recovery. We don't think you should expect that every quarter.
+As we said to the equity analysts, you do some of those, get a bit of bumpiness in our stage 3 charges and indeed
+our stage 3 balances. But with that, obviously you've seen that that stage 3 NPL being broadly stable and
+ultimately not a lot in the pipeline.
+So with the comment that it can be volatile, we're hopeful as economies improve, that over the next 12, 18
+months, you do see those stage 3 balances come down, but again with the proviso that at the early stage of the
+economic cycle, sometimes you get some late-stage impairments as economies start to come out of difficult
+economic situations. I'll just give you one example. Obviously, in the UK, we're seeing people coming off furlough.
+Companies are starting to pay down [ph] effectively (18:43) government debt. So there's still some uncertainties
+out there, but generally you're seeing stage 3 NPLs very stable. And we're hopeful they could nudge down from
+what's already quite a respectable level over the coming quarters.
+I'll just correct your language on stage 2. It's not stage 2 NPLs, it's stage 2 balances, which as you say are quite
+high at 15% of the book. They did come down slightly in Q2. And again, we would expect that to continue as is –
+as we all expect, the economies will recover over the coming quarters. It's difficult to prepare banks on a like-for-
+like basis because we certainly do quite a lot of overlays when we look at stage 2 balances. So I personally
+wouldn't compare each bank by bank.
+Look at the trends, look at the commentary, and look at the overall condition of the book, and the condition of our
+book is good. It's been very, very solid through the last 12, 18 months and we expect that to continue, and net-
+net, would expect the stage 2 overlays to reduce. But each bank has a slightly different methodology and we think
+our stage 2 overlays to get to that 15% are higher than some of our peer banks.
+.....................................................................................................................................................................................................................................................................
+Violeta Baraboi Q
+Analyst, Société Générale SA (UK)
+Understood. Thank you very much.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. Your next question comes from the line of Corinne Cunningham from Autonomous.
+Please go ahead. Your line is open.
+.....................................................................................................................................................................................................................................................................
+Corinne Cunningham Q
+Analyst, Bernstein Autonomous LLP
+Afternoon, everyone. Just a quick one from me on MREL. Do you think the CRR leverage requirement is going to
+drop out of your requirements? Do you think it's going to stop being a binding requirement, I guess, with the focus
+more on RWAs? We've seen that with a couple of other significant UK banks. I just wondered if that was
+happening the same with yourselves. Thank you.
+.....................................................................................................................................................................................................................................................................
+7
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Hi. Thanks for the question, Corinne. So the MREL requirements for us as you saw is the most binding of three
+dimensions; the RWA, the leverage requirements, or the sum of the parts. At the moment and for the foreseeable
+future, we see both the leverage requirement and the sum of the part being kind of equally binding.
+If you decompose the sum of the parts, components as well, that you will see that in each of the different
+resolution groups leverage then also to be one of the important drivers. So even if you got to a position where
+leverage in aggregate didn't become binding, it might be binding in sum of the parts bottom-up calculation. So you
+almost need to do the calculation bottom-up and then trying to figure out what it is. Of course, when you are at the
+margin of where we are that sum of the parts or leverage is the most binding, then perhaps there is a little bit of
+stickiness to the calculation. As we said we're guiding that the current requirement is about, in RWA terms,
+around 28%.
+.....................................................................................................................................................................................................................................................................
+Corinne Cunningham Q
+Analyst, Bernstein Autonomous LLP
+Thank you. And given that you've issued all of your MREL from the holding company anyway, would it just be
+easier to become a single point of entry or are there other technical reasons why you stick with the multiple point
+of entry?
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Well, easy to become a single point of entry is, it depends on what you mean by easy. So let me step back. So we
+like to call ourselves an MPE-plus group. What that basically means is that the group issues MREL top-down and
+distributes to the entity, but the fact that we have three resolution groups. At least in theory, that could be
+advantageous from a resolution perspective because it gives our supervisor an optionality that perhaps other
+groups do not have. And the optionality is to either hold the group together or to resolve it as three separate
+groups.
+At least at the beginning in that hypothetical resolution, we can [ph] and the days (22:47) that ensue holding the
+groups together has a big advantage because it is – you preserve value, you avoid chaos, it's better from a
+systemic perspective and from – not from a market-wide perspective. And then, it buys you time to allow you to
+then to extract the most value to the group and to minimize the impact that it may have into the system.
+Then in terms of – if that is the starting point, then the question is what is the advantage or disadvantage in going
+either SB or purely MP, if any. And then do remember that there are a lot of parties involved in this discussion.
+There are interests in each of the different regions. So at the moment, we have a situation where potentially
+everyone has kind of the best possible solution because there is optionality. Obviously, we continuously review
+these together with the colleagues and supervisors, but as I said at the moment we are an MPE-plus for the
+reasons that I mentioned.
+.....................................................................................................................................................................................................................................................................
+Corinne Cunningham Q
+Analyst, Bernstein Autonomous LLP
+Thanks very much.
+.....................................................................................................................................................................................................................................................................
+8
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+Operator: Thank you. [Operator Instructions] Your next question comes from the line of Tom Jenkins from
+Jefferies. Please go ahead. Your line is open.
+.....................................................................................................................................................................................................................................................................
+Tom Jenkins Q
+Analyst, Jefferies
+Thank you. Good afternoon, gents. Good afternoon, everybody. I've got one question and I suppose one point of
+order. I'll start with the question and then go to point of order. As usual, Lee and Corinne have nicked my best
+questions, unfortunately – obviously, trigger-happy on star one. But there was one I still had which was you've
+obviously, in the process of divesting some chunks of business in France and in the US, obviously not the equity
+of the entities, more the assets or the branches or whatever you want to call it. There is debt left in those entities
+that either looks redundant from a regulatory perspective or expensive from a capital utility perspective.
+I was just wondering is there – what is a – look, I'll leave it open-ended. What's your thinking on those debts? And
+then the point of order is, and I think probably everyone on this call will agree, and I hope they do, is that we are
+very blessed in the UK to have fantastic IR people on fixed income. So – and I just want to say, and I hope I
+embarrass him terribly, but I just want to say that Greg is one of the very better ones, so invoking the Olympic
+spirit. I'm not going to give him the gold medal necessarily, but he's definitely on the podium. But for the question,
+I'd appreciate an answer.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Yeah. I was going to say, I mean, first of all on your last question, Tom, it's a bit early for the bonus season. So if
+you and Greg have had a discussion offline, I mean it maybe you should have waited another call for doing that.
+But thank you. We appreciate that.
+I mean on your question in terms of disposal, I mean obviously what we do is we look at the balances that are
+being transferred and the resulting effects, right? So you just need to look at what is being transferred. So in the
+case of the US, we are disposing about $3 billion of loans and about $10 billion of deposits with $1.8 billion of
+RWA. So from a specifics, that means that basically all else equal, there is an $8 billion funding gap that needs to
+be compensated for. It's not exactly like that because their surpluses and the requirements are different. But that
+is, high level, the way to look at it.
+In the case of France, it's actually quite balanced. Customer lending is $25.5 billion and deposits $22.4 billion. So
+the way it happens is you look at what is being transferred. You look at the resulting effects on all the financial
+resources, plus also on the economics of your natural hedging that you had in place, and then you kind of
+rebalance. But there isn't anything meaningful coming out of both of them. There isn't anything significant from a
+debt holder perspective to mention. The only thing I would point out that it would be our intention to try to move
+the cover bond programs to the buyers in France. That requires consent of the bond holders. But except for that,
+it should not be a major issue from a liabilities perspective.
+I don't know, Richard, if there is anything else you want to say.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+No, I don't have very much to say, Tom. You need to look what's left. We will retain substantial wholesale
+businesses in both – and in the US, a medium-sized, but highly [indiscernible] (27:59) wealth with this which will
+still hold the majority of the deposits via value, because they were obviously the higher value customers.
+9
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+So I think you need to look at it in context of the entity or entities concerned. And the fact is, A, it's good news that
+[ph] we are exiting these (28:15) mass retail operations, but we're not exiting France and the US, remains
+substantial economies. We risk heavily in both. There is very strong connectivity with the rest of the group, a very
+strong multinational business, wholesale and markets business in both. Obviously, Paris being the center of our
+Eurozone activities and the US being the biggest capital market in the world.
+So, I think you need to live in the context of the total balance sheet in both. And as Carlo said, these are not
+meaningful transactions from just a pure balance sheet [indiscernible] (28:46), but they are meaningful in terms of
+the profit and loss of both entities. So I would look at it from a P&L and returns perspective rather than sort of a
+funding perspective although clearly, you need to look at both.
+.....................................................................................................................................................................................................................................................................
+Tom Jenkins Q
+Analyst, Jefferies
+Well, no, in that case – Richard, [ph] fine color (29:02), thank you. [ph] That's quite enormous (29:04). I mean if
+that's the case, then one, if you're looking at it from P&L perspective and, again, I do not know how you hedged or
+hedged against sort of various bonds, but if I'm looking at sort of, whatever, 75-year, 80-year bonds, I've got to
+pay 7-and-change percent for that almost minimal capital. I'm just wondering what types of that would be in the
+US, just for example.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Yes. I can say the only other dimension to think about it is, of course, the value of focus in the strategy, right? So
+obviously focusing on our strength and trying to avoid a dilution of management in areas that are perhaps less
+kind of in line with our strategic, there is an additional value. But, yeah, the point you make is a valid one. We look
+at that and, of course, as we rebalance, we take it into account.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Yeah. [indiscernible] (30:04) Carlo said about looking at our capital security including [indiscernible] (30:08)
+capital securities. Those points remain validly as much as anywhere else.
+.....................................................................................................................................................................................................................................................................
+Tom Jenkins Q
+Analyst, Jefferies
+Great. Chaps, thanks very much indeed.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Thanks, Tom. Thank you.
+.....................................................................................................................................................................................................................................................................
+Tom Jenkins Q
+Analyst, Jefferies
+Have a lovely afternoon.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. We will take our last question from the line of Alvaro Ruiz from Morgan Stanley. Please go
+ahead. Your line is open.
+10
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+Alvaro Ruiz de Alda Q
+Analyst, Morgan Stanley & Co. International Plc
+Hello, guys. Thank you very much for taking my call. And I have a very specific question and it's about the DISCO
+issued from the Hong Kong Bank. [ph] As per your pillar, 3D (30:42) security is not eligible any more after January
+and reading all your disclosures, this bank has [indiscernible] (30:52) liquidity, I guess [ph] will it have (30:54)
+some sense about the economics about not redeeming these security. The more information, the better, but I
+know that you cannot disclose that much. Thank you very much.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Hi, Alvaro, thanks for the question. You answered the question for me. We cannot quite disclose name-specific.
+So I – so what are the things that I could say that are helpful? I think the first thing is just to restate what you said,
+is the security in – locally doesn't have regulatory eligibility. So of course, going back to what I was saying earlier,
+the economics of the security have to be assessed against the replacement cost of a more senior note and hence
+a cheaper note.
+Having said that, the spreads on those securities are relatively cheap. It gives you a long-term optionality. So the
+way to think about it is, to the point you're making, you assess the surplus liquidity you have, you assess what are
+the additional kind of expectations you have in time. You tried to project that. And then you decide whether there
+is a need for the security or indeed there is a value in keeping it. But I'm afraid that's all I can say. But I think that
+from your question I think the components that you're raising are the right ones to consider.
+.....................................................................................................................................................................................................................................................................
+Alvaro Ruiz de Alda Q
+Analyst, Morgan Stanley & Co. International Plc
+And just to confirm, you look the security independent from the other securities each without the [indiscernible]
+(32:32) bank?
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Broadly, broadly yes, broadly yes. We look at each of the entities. So MREL is pulled down from the top from the
+entity. So the entity will have a requirement, and the requirement triggers a demand from the holding company,
+and the holding company will put it down. So you start at the entity and the requirements of the entity to evaluate
+the need and the economics indeed.
+.....................................................................................................................................................................................................................................................................
+Alvaro Ruiz de Alda Q
+Analyst, Morgan Stanley & Co. International Plc
+Sorry, I'm just lost. The securities are not MREL-eligible, then it's just your funding, if you just compare it with the
+cost of deposits or am I missing something?
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+No. Those are the right components.
+.....................................................................................................................................................................................................................................................................
+Alvaro Ruiz de Alda Q
+Analyst, Morgan Stanley & Co. International Plc
+Okay. Thank you very much.
+11
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2021 Earnings Call - Fixed Income 04-Aug-2021
+Carlo Pellerani A
+Group Treasurer & General Manager, HSBC Holdings Plc
+Thanks, Alvaro.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. I will now hand the call back for any closing remarks.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani
+Group Treasurer & General Manager, HSBC Holdings Plc
+Well, thank you. Thank you very much for joining. Hopefully the – this Q&A was useful. If you have any more
+questions, please reach out to Greg, Richard, and the IR team. And hopefully everyone have – will have a good
+end of summer. Thanks very much.
+.....................................................................................................................................................................................................................................................................
+Operator: Thank you. That does conclude our conference for today. Thank you for participating. You may all
+disconnect.
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE,
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2021 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+12
+1-877-FACTSET www.callstreet.com Copyright © 2001-2021 FactSet CallStreet, LLC

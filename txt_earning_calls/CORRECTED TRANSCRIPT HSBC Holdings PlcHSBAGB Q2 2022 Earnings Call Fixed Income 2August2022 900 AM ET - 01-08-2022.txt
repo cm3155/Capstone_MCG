@@ -1,0 +1,549 @@
+Corrected Transcript
+02-Aug-2022
+HSBC Holdings Plc
+(HSBC)
+Q2 2022 Earnings Call - Fixed Income
+Total Pages: 13
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+CORPORATE PARTICIPANTS
+Carlo Pellerani Richard O'Connor
+Group Treasurer & Group General Manager, HSBC Holdings Plc Head-Global Investor Relations, HSBC Holdings Plc
+Greg Case
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+.....................................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Daniel David Robert Smalley
+Analyst, Autonomous Research Analyst, UBS Securities LLC
+Ellie Dann James Leonard Hyde
+Analyst, Morgan Stanley & Co. International Plc Analyst, PGIM Ltd.
+.....................................................................................................................................................................................................................................................................
+MANAGEMENT DISCUSSION SECTION
+[Abrupt Start]
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+...and I'm joined by Richard O'Connor, our Global Head of Investor Relations, who is actually in Hong Kong; and
+Greg Case, Head of Debt Investor Relation (sic) [Head of Fixed Income Investor Relations] who is with me in
+London. I'll start by mentioning a couple of highlights from the results. Then, I'll do a quick update as usual on
+financial resources. And then, straight into Q&A. I will not be referring to any slides as I go through.
+So, three highlights from the results. First of all, 9.9% RoTE for the half year, largely driven by higher NII and
+good cost control more than offsetting a higher ECL charge. Importantly, we are now expecting to improve our
+RoTE to above 12% in 2023, which is well ahead of our cost of capital.
+Second, in terms of balance sheet dynamics, $33 billion of adjusted loan growth in the half year, largely in
+mortgages and trade, alongside $24 billion growth in adjusted deposits.
+And lastly, on the results, credit quality remains quite good. ECL charges equivalent to 21 basis point of gross
+loans for the half year. Stage 3 loans stable at 1.8% of total loans. And we are flagging that, despite the fact that
+our early warnings indicators are not yet showing any signs of stress, we have an expectation for ECL charge to
+normalize towards 30 basis points in 2022.
+Onto financial resources, let's start with capital. Our CET1 ratio was 13.6%, which was down from 15.8% at the
+end of the year; the reduction, mainly driven by timing differences in fair value OCI securities and some RWA
+2
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+growth. We remain 2.9 percentage points above our MDA hurdle, although we are below our target operating
+range of 14% to 14.5%. We expect that CET1 ratio to trough in Q3, given headwinds that we have previously
+mentioned on the sale of our French retail business and some other M&A that is completing. And we expect
+strong earnings and management actions will help us lift the capital back into our target range during the first half
+of next year.
+In terms of liquidity, it remains strong, most importantly at a legal entity level. But also, you can see that in the
+overall group LCR ratio of 134%, and we still have an HQLA on a gross level of about $800 billion. We have a
+loan to deposit ratio at 62%, which positions us quite, quite well actually in the current rising rate environment.
+Our MREL ratio, 28.7%, compares favorably to our 26% requirement which, as you will see, is still the sum of the
+parts calculation. We intend to continue to operate a prudent buffer over that minimum.
+From a funding perspective now, we have made good progress in this year in, let's call them, interesting markets.
+We have issued $8.4 billion of Senior HoldCo and $2.6 billion of Tier 2. As you will have seen in our deck, we
+have now increased our funding plan for the year by about $7 billion in Senior HoldCo and $1 billion in Tier 2,
+which positions us kind of halfway through the overall funding plan at this point. The reason for the increase in the
+funding plan is to offset negative market moves that we have seen that impact the liability value of our red bonds.
+Just to flag that, that impact over time, will unwind as those bonds pull to par. And as a consequence, of course
+we're expecting that this will reduce funding needs in future years, all else equal.
+As mentioned at the full year, we continue to expect not to refinance any AT1 calls that we may look to make in
+2022. I'm pleased to just have announced literally before this call an exchange offer targeting some of our older
+legacy 2 securities issued by our holding company. You will find an overview of the transaction that is being
+included any second in our updated fixed income deck on the website.
+The transaction is a par-for-par exchange which is the most logical structure, given the practical challenges that
+exist with consent solicitation [indiscernible] (00:04:58) law. And we plan to use exchange accounting, which
+minimizes the cost of the exercise for us. Having said that, we're also offering a $0.35 incentive payment in order
+to encourage everyone's participation.
+Just to close, on legacy capital, as I'm sure there will be some more questions about it. I just want to remind
+everyone of our position on those. We are aligned with the Bank of England in our commitment to reducing the
+stack over time. However, doing so [ph] can accommodate at (00:05:37) at any cost. We're willing to take some
+cost to exit those position, but as we have flagged in the past we have made some historical hedging and
+accounting decisions that make the economics of taking, let's say, the full stack not really currently feasible or
+rational. So, we will continue to monitor the portfolio; and if further opportunities arise, we will take them.
+So in summary, a strong half year result with a clear path to solidly returning above cost of capital. Our financial
+resources of capital funding and liquidity leave us all well-placed to continue growing. Our business model
+continues to offer bond holders one of the most diverse sets of revenue streams in global banking. That's what I
+thought of saying.
+So, I'll stop here and let's open up for Q&A. I'll hand over to Greg.
+3
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+QUESTION AND ANSWER SECTION
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Thanks, Carlo. Yeah. Hi, everyone. So, we'll be taking questions over Zoom. So, a little different to our previous
+set up. . [Operator Instructions] So I'll just leave it a minute on and let some of the questions come through.
+And so, our first question comes from Dan David of Autonomous. Dan, your line's open.
+.....................................................................................................................................................................................................................................................................
+Daniel David Q
+Analyst, Autonomous Research
+Hey, Greg and Carlo, Richard. Thanks for doing the call and taking my questions. I've got a couple. The first one
+is just on insurance plans for this year. So, I hear you on no new AT1 issuance for potential refinancing this year.
+However, I guess, I'm looking out to next year and I think you've got quite a heavy potential call schedule. So,
+would you look to AT1 markets this year to potentially get ahead of your refinancing needs next year?
+And then, secondly, as expected, a few questions on legacy. So, I've yet to see the details of the exchange, but
+welcome that, and I hear your comments on the RAF and where we're headed. I'd just like to drill down on that a
+bit more, and I realize you're probably limited in what you can say. I'm just interested by what the PRA have told
+you, if they've given you targets to reduce by an amount per year?
+And then also, just on the reasonable economics point, does that – and I heard your comments on taking a small
+CET1 cost. Did you need to get back to your kind of CET1 target range before you can take CET1 costs as a
+result of potential legacy calls or LMEs? And also if you can give us any guidance as to what is reasonable, that
+would be really interesting. Thanks.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Hi, Dan. Thanks for your questions. So, on AT1, first, this year was a transition year. You might remember that we
+mentioned that we were overweight at AT1 and underweight Tier 2. So, this year was rebalancing with the actions
+that we're taking this year that pretty much brings us in line. So, going forward, it's all about maintenance and
+refinancing. And yes, to your point, it is always a possibility to try to pre-finance some of the potential call for next
+year. So, that is something that we would leave open market conditions dependent.
+In terms of the legacy stack, no, we haven't had specific targets from PRA or Bank of England, [indiscernible]
+(00:09:21) has been just more a generic discussion. The way I would characterize it, which is that kind of
+everyone would rather not have those securities outstanding because they're a little bit of a – it's a nuisance to
+have those securities outstanding from a resolvability perspective.
+And to give you some guidance in terms of cost, I guess the best I can do is to give you a sense of how I think
+about those securities. And the way I would describe them is there are two dimensions to the equation. The first
+one is how challenging each of the securities are from a resolution perspective, and there is a pecking order on
+those securities. So, I would call out that our securities for the – from the holding companies were the ones that
+the most complex from a resolution perspective because they're issued from the holdings company, they do not
+4
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+have the contractual recognition of the Bank of England bearing powers, and hence they create these potential
+infection risk.
+So, the way we're dealing with those is clearly with the exchange and then to voluntarily derecognize from 2025.
+But then, you go from that point on and then the rest of the entities still challenged but they're less problematic
+than, I guess, from a holdings – from the ones from holding. And then, you have the other dimension, which is the
+cost. And that dimension is driven by what is the accounting and hedging arrangement that we have on those
+bonds, whether they have significant optionality value, and so on and so forth.
+So, when you put those two dimensions together, you end up with a pecking order, which is broadly as follows.
+The first is the holdings company securities, then is the subsidiary securities that are fixed rate instruments, then
+you have the floating rate securities, and maybe lastly, you have the legacy Tier 1 securities. So, obviously, we
+are announcing today an exchange for the holdings securities, we will continue to assess one-on-one all the other
+securities to assess their economics, but that hopefully give you a little bit of a guidance of how we are thinking
+about it.
+.....................................................................................................................................................................................................................................................................
+Daniel David Q
+Analyst, Autonomous Research
+Thanks for that. Can I just ask, on the legacy Tier 1s coming bottom of the list, that more because of cost rather
+than kind of the problems they pose?
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Predominantly, I would also say that some of those securities we are able to bail in the guarantee on the
+securities. So, technically, it is executable. There is some complexity, but it's executable. But yes, you can
+assume that given that those securities have been outstanding for a while and we haven't called them, that the
+economics are not particularly attractive.
+.....................................................................................................................................................................................................................................................................
+Daniel David Q
+Analyst, Autonomous Research
+Okay. I've probably taken too much of your time, but thank you for that. It was really helpful.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Thanks.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Thanks, Dan. Next question comes from Ellie Dann from Morgan Stanley. Ellie, your line's open.
+.....................................................................................................................................................................................................................................................................
+Ellie Dann Q
+Analyst, Morgan Stanley & Co. International Plc
+Hi, there. Thanks for taking my question. My question's regarding the upcoming AT1 call. So, that's the five and
+one-quarter in September of this year, which has not yet been pre-financed. Considering you've got no plans to
+issue AT1 this year, I was wondering what your thoughts are on this call? I know that you're well above your
+efficient level of AT1 in terms of MDA in excess of about $4.8 billion. So, I assume – my assumption would be that
+5
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+the supervisor would allow you to call this bond if you wished without refinancing. Interested to hear your
+thoughts.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Yes. Hi, Ellie. Thanks for the question. We have no impediment in calling that from a regulatory perspective, to
+your point. We are, as usual, in the middle of the call period, so we'll take advantage of that period. We haven't
+announced anything to-date, but you shouldn't read anything into that. We will continue to assess and we will
+make an announcement when that is appropriate.
+.....................................................................................................................................................................................................................................................................
+Ellie Dann Q
+Analyst, Morgan Stanley & Co. International Plc
+Okay. Thanks.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Great. Thanks, Ellie. We got a few questions in from Richard Thomas at Bank of America. Let me just read one
+out. So, Richard asks about the Ping An situation, and people are asking a little bit him about the potential for
+HSBC to be broken up. I was wondering if you could just maybe run through a summary of HSBC's current views.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Richard O'Connor, why don't you take that? You are well-versed after this week.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Yes. Thanks, Carlo; and good afternoon, everyone. Look, [indiscernible] (00:14:20) – you saw the call yesterday
+morning. We continue to engage with all our shareholders on all the process for enhancing shareholder value,
+and we made a number of announcements yesterday which we intend to do that, including some very firm
+dividend return announcement; and we think that the strategy is definitely working.
+We're not going to talk about individual shareholder discussions on any call, but I think we set out very clearly
+yesterday on the slides some of the issues which were leaked in the press. And at this stage, we don't see that
+there's value to those proposals versus a very clear, what you might call, planning strategy to improve returns,
+improve dividends, obviously improve capitalization over the coming courses and indeed years.
+So, we continue to engage with all shareholders. We had a further meeting today in Hong Kong, with our retail
+share shareholders and the same issues were discussed there as they were yesterday, in the call yesterday. So, I
+don't think there's anything further, Richard, to discuss over and above what was discussed yesterday.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Thanks, Richard. And another one from Richard Thomas before we move back to the phones. So probably one
+for you, Carlo, on legacy. Richard says that few of his clients have pointed out to him that we've changed our
+stance on legacies between year-end and now. And is that your sense of things? How do you think our
+messaging has evolved over the course of this year?
+6
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+No, I wouldn't say that we have changed our stance. It's pretty much the same that it was at that point which is, it
+is a combination, as we have said in the past, of what is the complexity from a resolvability perspective and a
+cost. So, I would just say that we're just providing further clarity on that. And pleased that we're making steps with
+the [Technical Difficulty] (00:16:34).
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Thanks, Carlo. Next question comes from Robert Smalley. Rob, your line is open. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Robert Smalley Q
+Analyst, UBS Securities LLC
+Hi. Thanks for taking my question and thanks for doing the call. On the call yesterday, it was mentioned that you
+did a study of potential impact of a downgrade and you thought it would be 25 to 50 basis points across the
+liability stack. Could you talk about what went into that and how you came to that conclusion? That's first question.
+Second, as you went over your review, MREL, Tier 2, et cetera, did anything else come out in terms of efficiency?
+Now that you've scrubbed down everything, should we look for any changes in your NPE strategy, funding
+strategy of the subsidiaries, et cetera?
+And then third, with an increase in dividends, it's very clear that your equity holders enjoy a dividend and really a
+lot of them depend on a dividend from the stock, particularly retirees. Could you talk about any potential tension
+between increasing the dividend and the needs and desires of debtholders to ensure that their debt will continue
+to be covered, particularly as liability stacks becomes more expensive? Thanks.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Thanks for those questions, Rob. Maybe I'll ask Greg to cover the first question on the cost of that debt stack.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Yeah, sure. Hi, Rob. So, the analysis is effectively based around the fact that if you take a hypothetical split of the
+group and you split the Asia business away from the rest of the group, then that kind of call – let's call it Rest of
+World Co, Rest of World Co versus its peers at its current rating arguably isn't sustainable. So, you're arguably a
+notch or two lower than current ratings today when you look at the peer group. So, when we look across not just
+the debt liabilities, but also the broader funding base of that group that does currently benefit from a ratings
+premium, that's the kind of funding differential that we thought could filter through.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+So, on your second question on efficiency, I mean we have looked as deep as possible [Technical Difficulty]
+(00:19:28) into the questions that were posed and the potential options. We haven't found opportunities for
+efficiencies. It's – naturally, when you hold a group together versus separating, that there are some natural –
+these synergies and inefficiencies around it. And that's really what dominates the analysis that we described
+yesterday and that Richard just highlighted.
+7
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+In terms of your third question on the trade-off of the reliance on dividends and the overall capital management, I
+think it was last year when we changed our capital policy. Historically, we used to have a fixed dividend
+component. And what we have made now is a pay-out which is linked with the profitability of the group. So, we
+think that that is a sensible way of balancing all of these requirements. So, to the extent that the company is
+highly generative, then our dividends will increase. To the extent that it isn't, they will decrease. So, it creates like
+a natural stabilizer that we think is the – probably the best way of balancing all that.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+And Carlo, let me just add to that, that, look, clearly, in the second half of the year, we very fully intend to get back
+between 14% to 14.5% range. As Carlo said, the previous dividend policy was a fixed policy which didn't really
+cover earnings and growth appropriately. We think this policy does do that and it does allow for – and if we can
+achieve our return target of 12% plus, the group will be substantially cash flow generative and they'll be – there'll
+be a good a good policy to give dividends back to fund growth, but also to ensure that our debt holders have a
+very solid level of capitalization and liquidity and very solid in funding liquidity which – and very conservative
+HSBC stance and we fully commit to that today.
+.....................................................................................................................................................................................................................................................................
+Robert Smalley Q
+Analyst, UBS Securities LLC
+Thanks for the complete answer and thanks for doing the call.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Thanks for your questions, Rob. So, the next question comes from the line Robert Thomas. Rob, your line is
+open.
+.....................................................................................................................................................................................................................................................................
+Q
+Hi. Thanks for taking the call – question. I just had a question on how you're thinking about calls on not just Tier
+2s, but also part of your senior stack. I mean, I think, looking at the markets right now, there's a lot of extension
+risk priced into even some of the senior MREL bonds. And I just wanted to see if you could walk us through how
+you assess determining economic value in those call? And if you were looking at possibly letting those go out to
+maturity, how do you assess what the value of that extension would be, is it a – simply a part of your liquidity then
+or would you need to then replace it with MREL?
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Hi. Hi, Robert. Thanks. Thanks for the question. So, for senior debt, the call period that we have is really, really
+short. So, those calls are designed to optimize the treatment of those securities from an MREL perspective and to
+basically being able to reduce, if you want, the balance sheet when it's no longer effective. So, the intention for all
+those is to call them, right, for all the MREL transactions, that's the intention. Obviously, it is not something we
+would guarantee, but it is not designed to be valuable for us to call them. So, that's what I would say in terms of
+the seniors.
+.....................................................................................................................................................................................................................................................................
+8
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+Q
+Thank you. Thanks so much.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Great. Thanks, Rob.. And we've got a question coming in from [ph] Phil Pila at Deccan. Phil (00:23:45), your line's
+open.
+.....................................................................................................................................................................................................................................................................
+Q
+Yeah. Hello, everyone.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Yes, we can hear you. Hi, there.
+.....................................................................................................................................................................................................................................................................
+Q
+Great. Thanks for taking the call – making the call and thanks for taking my question. I got two. The first of all is,
+on your China real estate exposure, I am – I wondered a little bit that the – I mean, you took some provisions this
+quarter, but do you think this will be sufficient for the long run? And the other point is, in terms of issuing new
+senior bonds, which currencies would you prefer at the moment? Do you just look which currency would be
+cheapest or are other factors playing a role as well? Thank you.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Hi, [ph] Phil (00:24:32), thanks for the questions. Richard, do you want to cover China real estate, please?
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Yes. Thanks. And again, we covered it yesterday, but I'll just add a few additional comments. Well, as you know,
+the – that sector came under stress from the second half of last year and we've taken cumulatively around $900
+million of provisions. On average, $300 million of – sorry – $300 million of provision the first-half of the year, about
+$160 million each quarter, as some medium-sized developers go into Stage 3. So, it's fair to say that sector's
+obviously going through some issues at the moment. However, the Chinese authorities are trying to stabilize the
+issue in terms of developments, and looking at the bailout fund or a fund of that nature.
+Our sense is that we've taken the appropriate provisions at this stage. When you look in the second half, we do
+think that, within our ECL guidance which we gave yesterday of towards 30 basis points for the full year 2022,
+there will be further charges from China's CRE as that impairment issue matures, probably of the same nature we
+saw in the first half, $300 million or even slightly more. And indeed, if [indiscernible] (00:26:04) gets into further
+issues then clearly there's maybe $200 million on top of that.
+9
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+So, we do think it's an issue which will be ongoing. We think it's very much controllable from a group perspective,
+given it's a relatively small part of the group's loans and advances. The offshore book is about $12 billion or,
+really, only about 1% of the group's loans and advances. I think the authorities in China are trying to stabilize their
+position, but clearly there will be I think further developments in the second half of the year. And that's really our
+guidance at this stage.
+Central case is for some further provisions of about the same magnitude in the first half or maybe slightly more.
+We're watchful. We're managing the situation very carefully. And I think the Chinese authorities will resolve it, but
+I think it'll take some time. I think this is will take some time to resolve over the coming year or two. So, I've given
+you some near-term guidance and let's see how we get on from there.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+And [ph] Phil (00:27:16), for your second question, I mean ideally we would try to match the issuances to our
+natural currencies because that avoids some of the volatility in the capital stack that you have seen this quarter,
+for example. So, we have about 51-or-so percent of our RWAs are in dollars or [ph] PAC (00:27:42) currencies.
+Then, the next one down is sterling which is about 17%, and then the remaining third in a combination of all the
+other currencies. So, that would be kind of the dream treasurer's approach.
+Unfortunately, the market is not quite there. The market is predominantly a dollar market. So invariably, what we
+try to do is we try to take pressure off the dollar markets and try to diversify as much as possible and we look
+largely at that in a currency-agnostic fashion. So, we always are keen to try to diversify. So this year what we
+have done is, we have done Swissy and Sing dollars, in addition to euros and dollars. Last year we did CNH, [ph]
+Hongkies (00:28:31) and also Swissy. So we try to diversify away from dollars. But invariably, given the large
+funding pool in the US, we end up doing more in the US than proportion that we want to.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Thanks, [ph] Phil (00:28:46). And next question comes from the line of James Hyde at PGIM. James, your line's
+open.
+.....................................................................................................................................................................................................................................................................
+James Leonard Hyde Q
+Analyst, PGIM Ltd.
+Hi. I hope you can hear me. First question is, I just want to have some more color on the risk-weighted asset
+reduction measures for H2. I understand, France closing of disposal is one, but what other? Is it about continuing
+this more collateral taking? Is it more about offloading clients that don't meet ROE targets? And I mean, and I
+rather thought this was ongoing. And I'm just wondering so how are you going to accelerate this which was the
+impression I got from the call?
+Secondly, I see from at least the Bloomberg share register, there are a few more Chinese institutions in there.
+And I just wonder if you – beyond Ping An, have any Chinese institutions openly given support to current
+strategy? Thanks.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Thanks. Thanks, James. So, to your point, the RWA approach is one that is dynamic, i.e., we look at it all the
+time. Given the temporary nature that – the temporary depression, let's call it, that we have seen on the CET1
+10
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+ratio, we have decided to accelerate some of those. And the focus is really on less profitable, less franchise
+clients alongside potentially some hedging opportunities that we have on some of the RWA. So, that is the bulk of
+the actions that we are looking at at the moment.
+In terms of the Chinese institutions, Richard, do you want to cover that?
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Yes, I would. Hi, Jim. There's a limit to what I can say because, obviously, shareholder register, whilst it's public,
+obviously I'm not going to talk about individual shareholder positions. You wouldn't expect me to.
+Overall, what I would observe is clearly there's the Hong Kong-Shanghai Stock Connect and you have daily data
+on that and you can see that the vast majority of that position, when you look at the Ping An filings, is the Ping An
+position is not just Ping An. When you do the maths, there's a couple of other institutions there who've taken
+advantage of that Stock Connect to obviously invest in Hong Kong and our Hong Kong stock, which we –
+obviously, is very much welcome.
+But more generally, when you go for the shareholder register on the Bloomberg Register, then you will see a very
+large number of institutions in China and Asia on that register, and we very much welcome that. And the – clearly,
+we are dual-listed in both Hong Kong and the UK, and we're a key member of the Hang Seng Index and,
+therefore, we welcome Asian institutions, including Mainland China institutions and Hong Kong institutions on our
+share register.
+And indeed, part of the success of Hong Kong over the last few years has been the massive growth in the asset
+management industry in Hong Kong. There are well over 70 to 80 Mainland China parent company asset
+managers now based in Hong Kong, invest in the city, invest internationally, and invest in HSBC. So, Jim, I
+wouldn't take it any more or less than that. Very much, it's something which we very much welcome. We very
+much welcome the internationalization of the China asset management industry investing internationally and
+being part of our share register. So, I'll take it in that spirit, please.
+.....................................................................................................................................................................................................................................................................
+James Leonard Hyde Q
+Analyst, PGIM Ltd.
+Okay, thanks, Richard. Just another one for Carlo. I sort of – I'm bit surprised about the extent to which the market
+value of your liabilities affects MREL because from an accounting perspective, I mean, it's – there's – it – a lot of it
+is amortized cost. So, I just wondered, is it currency more than anything else that's caused the stepped up
+issuance rather than actual fair value or spread-related fair value?
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Yes, Jim. I mean, first of all, the impact – the impact over the quarter was about $7 billion, about $4 billion of that
+was interest rate and about $3 billion of that was FX. So, it was a combination of both. It is a curiosity of MREL
+valuation in which, regardless of the accounting treatment, you de facto from an MREL perspective, you fair value
+it as a whole, and regardless of the way you are hedging it as well, because the hedges that you may take from
+an interest rate perspective are not bail-in-able from a MREL perspective. So, what you do is you determine how
+much capital you would be able to generate when you bail-in those securities, and that is the fair value at the
+moment. That's why it is exaggerated and that's why, perhaps, is more – is larger than you would have thought.
+.....................................................................................................................................................................................................................................................................
+11
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+James Leonard Hyde Q
+Analyst, PGIM Ltd.
+Oh, thanks, Carlo. That's really instructive. I didn't realize that. Thanks. That's it for me. Thanks.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Okay. Thanks, Jim. Just a quick opportunity for anyone – any last people to raise their hands for questions. I'll just
+give it another few seconds.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor A
+Head-Global Investor Relations, HSBC Holdings Plc
+Greg, just saying, we got a chat Q&A on, does the 30-basis-point cost of risk take into account the Chinese real
+estate [indiscernible] (00:34:51) positive? What I would say is that our guidance for 2022 is towards 30 basis
+points. And yes, it does take into account our central view on issues in the China commercial real estate market.
+So, just cover that one [indiscernible] (00:35:13) Q&A.
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Thanks, Richard. And we've got another question from [ph] Olivia Ducan (00:35:20) from Citi. [ph] Olivia
+(00:35:23), your line is open. [ph] Olivia (00:35:31)? Okay, technical difficulties there I think. I guess, with that, I
+think we're out of questions. So, I'll hand back to Carlo.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani A
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Yes. Yes, Richard, so – and Greg, I was just asked to clarify my answer to the accounting treatment. So, Greg,
+why don't you have a go? Because I think I said more than – more and perhaps I confused things a little bit more,
+so...
+.....................................................................................................................................................................................................................................................................
+Greg Case A
+Head-Fixed Income Investor Relations, HSBC Holdings Plc
+Yeah. So, Jim, the – on the bond, so while – if you do put a bond in an amortized cost relationship, if you put a
+hedge on it, then it's in a fair value hedge relationship. And what you do then is you'll fair value the bond from an
+accounting perspective for rate moves. And as you can imagine, when rates go up, the bond liability value goes
+down. That's reflected in MREL. From an accounting perspective, then the swap liability, of course, goes up by
+the same amount. So, you don't get a capital benefit, but the swap, of course, isn't bail-in-able so it doesn't benefit
+your MREL. So, that's the – that is effectively the mechanics.
+.....................................................................................................................................................................................................................................................................
+Carlo Pellerani
+Group Treasurer & Group General Manager, HSBC Holdings Plc
+Okay. Thank you. I mean, thanks, everyone, for joining today. I hope the call was useful for all of you. If you have
+any further questions, please pick it up with Greg and the IR team. And you will see updated materials on the web
+with the information about the exchange. Thanks very much. Until next time.
+.....................................................................................................................................................................................................................................................................
+Richard O'Connor
+Head-Global Investor Relations, HSBC Holdings Plc
+12
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
+
+HSBC Holdings Plc
+(HSBC) Corrected Transcript
+Q2 2022 Earnings Call - Fixed Income 02-Aug-2022
+Thanks, everyone.
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE,
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2022 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+13
+1-877-FACTSET www.callstreet.com Copyright © 2001-2022 FactSet CallStreet, LLC
