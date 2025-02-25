@@ -1,0 +1,672 @@
+ Item 2. &#160; Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward-Looking Statements 
+
+&#160; 
+
+This Quarterly Report on Form 10-Q contains certain forward-looking statements, within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, which are intended to be covered by the safe harbor for "forward-looking statements" provided by the Private Securities Litigation Reform Act of 1995. These statements may include statements that expressly or implicitly predict future results, performance, or events. Statements other than statements of historical fact are forward-looking statements. You can find many of these statements by looking for words such as "anticipates," "expects," "believes," "estimates," "intends," and "forecast," and words or phrases of similar meaning. 
+
+We make forward-looking statements including, but not limited to, statements made about the combined company&#8217;s prospects and results following the merger with Umpqua Holdings Corporation and the merger of Columbia State Bank into Umpqua Bank, completed in the first quarter of 2023; derivatives and hedging; the results and performance of models and economic assumptions used in our calculation of the ACL; projected sources of funds and the Company's liquidity position and deposit level and types; our securities portfolio; loan sales; adequacy of our ACL, including the reserve for unfunded commitments; provision for credit losses; non-performing loans and future losses; our commercial real estate portfolio, its collectability and subsequent charge-offs; resolution of non-accrual loans; mortgage volumes and the impact of rate changes; the economic environment; inflation and interest rates generally; litigation; dividends; junior subordinated debentures; fair values of certain assets and liabilities, including MSR values and sensitivity analyses; tax rates; deposit pricing; and the effect of accounting pronouncements and changes in accounting methodology. 
+
+Forward-looking statements involve substantial risks and uncertainties, many of which are difficult to predict and are generally beyond our control. There are many factors that could cause actual results to differ materially from those contemplated by these forward-looking statements. Risks and uncertainties include those set forth in our filings with the Securities and Exchange Commission and the following factors that, among others, could cause actual results to differ materially from the anticipated results expressed or implied by forward-looking statements: 
+
+&#8226; changes in general economic, political, or industry conditions, and in conditions impacting the banking industry specifically; 
+
+&#8226; deterioration in economic conditions that could result in increased loan and lease losses, especially those risks associated with concentrations in real estate related loans; 
+
+&#8226; uncertainty in U.S. fiscal and monetary policy, including the interest rate policies of the Federal Reserve or the effects of any declines in housing and commercial real estate prices, high or increasing unemployment rates, continued inflation, or any recession or slowdown in economic growth particularly in the western United States; 
+
+&#8226; volatility and disruptions in global capital and credit markets; 
+
+&#8226; the impact of bank failures or adverse developments at other banks on general investor sentiment regarding the stability and liquidity of banks; 
+
+&#8226; changes in interest rates that could significantly reduce net interest income and negatively affect asset yields and valuations and funding sources, including impacts on prepayment speeds; 
+
+&#8226; competitive pressures among financial institutions and nontraditional providers of financial services, including on product pricing and services; 
+
+&#8226; continued consolidation in the financial services industry resulting in the creation of larger financial institutions that have greater resources; 
+
+&#8226; our ability to successfully, including on time and on budget, implement and sustain information technology product and system enhancements and operational initiatives; 
+
+&#8226; our ability to attract new deposits and loans and leases; 
+
+&#8226; our ability to retain deposits; 
+
+&#8226; our ability to achieve the efficiencies and enhanced financial and operating performance we expect to realize from investments in personnel, acquisitions, and infrastructure; 
+
+&#8226; the possibility that our recorded goodwill could become impaired, which may have an adverse impact on our earnings and capital; 
+
+&#8226; demand for financial services in our market areas; 
+
+&#8226; stability, cost, and continued availability of borrowings and other funding sources, such as brokered and public deposits; 
+
+&#8226; changes in legal or regulatory requirements or the results of regulatory examinations that could increase expenses or restrict growth; 
+
+&#8226; changes in the scope and cost of FDIC insurance and other coverage; 
+
+&#8226; our ability to manage climate change concerns, related regulations, and potential impacts on the creditworthiness of our customers; 
+
+&#8226; our ability to recruit and retain key management and staff; 
+
+&#8226; our ability to raise capital or incur debt on reasonable terms; 
+
+&#8226; regulatory limits on the Bank's ability to pay dividends to the Company that could impact the timing and amount of dividends to shareholders; 
+
+&#8226; financial services reform and the impact of legislation and implementing regulations on our business operations, including our compliance costs, interest expense, and revenue; 
+
+&#8226; a breach or failure of our operational or security systems, or those of our third-party vendors, including as a result of cyber-attacks; 
+
+&#8226; success, impact, and timing of our business strategies, including market acceptance of any new products or services; 
+
+&#8226; the outcome of legal proceedings; 
+
+&#8226; our ability to effectively manage credit risk, interest rate risk, market risk, operational risk, legal risk, liquidity risk and regulatory and compliance risk; 
+
+&#8226; the possibility that the anticipated benefits of the Merger are not realized when expected, including as a result of the impact of, or problems arising from, the integration of the two companies or as a result of the strength of the economy and competitive factors in the areas where we do business; 
+
+&#8226; potential adverse reactions or changes to business or employee relationships, including those resulting from the integration of the two companies and banks; 
+
+&#8226; the possibility that the anticipated benefits from ongoing initiatives to improve operational performance are not realized in the amounts or when expected if at all; 
+
+&#8226; economic forecast variables that are either materially worse or better than end of quarter projections and deterioration in the economy that exceeds current consensus estimates; 
+
+&#8226; the effect of geopolitical instability, including wars, conflicts, and terrorist attacks; 
+
+&#8226; natural disasters, including earthquakes, tsunamis, flooding, fires, pandemics, and other similarly unexpected events outside of our control; 
+
+&#8226; our ability to effectively manage problem credits; 
+
+&#8226; our ability to successfully negotiate with landlords or reconfigure facilities; and 
+
+&#8226; the effects of any damage to our reputation resulting from developments related to any of the items identified above. 
+
+There are many factors that could cause actual results to differ materially from those contemplated by these forward-looking statements. Forward-looking statements are made as of the date of this Quarterly Report on Form 10-Q. We undertake no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required under federal securities laws. Readers should consider any forward-looking statements in light of this explanation, and we caution readers about relying on forward-looking statements. 
+
+General 
+
+Columbia Banking System, Inc. (referred to in this Quarterly Report on Form 10-Q as &#8220;we,&#8221; &#8220;our,&#8221; &#8220;the Company&#8221; and &#8220;Columbia&#8221;) is a registered financial holding company, which wholly owns the Bank. Columbia completed its previously-announced merger with Umpqua Holdings Corporation on February 28, 2023. 
+
+Through the Bank, we provide a broad range of banking, private banking, mortgage and other financial services to corporate, institutional, small business, and individual customers. FinPac, a commercial equipment leasing company, is a subsidiary of the Bank. Along with its subsidiaries, the Company is subject to the regulations of state and federal agencies and undergoes regular examinations by these regulatory agencies. 
+
+The majority of the Bank&#8217;s loans and deposits are within its service areas in Oregon, Washington, California, Idaho, Nevada, Arizona, Colorado, and Utah. Umpqua Bank is an Oregon state-chartered commercial bank, the deposits of which are insured in whole or in part by the FDIC. 
+
+Executive Overview 
+
+The following is a discussion of our results for the three and nine months ended September 30, 2024, as compared to the applicable prior periods. 
+
+Financial Performance 
+
+Comparison of current quarter to prior quarter 
+
+&#160; 
+
+&#8226; Earnings per diluted common share was $0.70 for the three months ended September 30, 2024, as compared to $0.57 for the three months ended June 30, 2024. The increase for the three months ended September 30, 2024, as compared to the prior period, was primarily driven by an increase in non-interest income due to quarterly fluctuations in fair value adjustments and MSR hedging activity and a favorable change in non-interest expense due to the prior quarter including $12.0 million in restructuring expenses. Net interest income increased due to higher income earned on loans. 
+
+&#160; 
+
+&#8226; Net interest margin, on a tax-equivalent basis, was 3.56% for the three months ended September 30, 2024, unchanged from the three months ended June 30, 2024. A favorable balance sheet funding mix shift into lower-cost deposits and a slight increase in loan yields offset a lower yield on securities, contributing to margin stability between periods. 
+
+&#8226; Non-interest income was $66.2 million for the three months ended September 30, 2024, as compared to $44.7 million for the three months ended June 30, 2024. The increase was driven by fluctuations in fair value adjustments and MSR hedging activity due to rate changes, which collectively resulted in a net fair value gain of $6.6 million in the third quarter compared to a net fair value loss of $9.7 million in the second quarter. 
+
+&#8226; Non-interest expense was $271.4 million for the three months ended September 30, 2024, as compared to $279.2 million for the three months ended June 30, 2024. The decrease is mainly due to a decrease in restructuring expenses, partially offset by an increase in salaries and employee benefits, as prior quarter's expense was reduced by a $7.7 million reversal of a compensation-related accrual. Due to staff reductions that took place in the second quarter, salaries and wages were down by $5.7 million in the third quarter related to the enterprise-wide evaluation of our operations, which resulted in consolidated positions and simplified reporting and organizational structures, which partially offset the impact of the second quarter's accrual reversal that did not repeat in the current quarter. 
+
+Comparison of current year-to-date to prior year period 
+
+&#8226; Earnings per diluted common share was $1.87 for the nine months ended September 30, 2024, as compared to $1.33 for the nine months ended September 30, 2023. The increase for the nine months ended September 30, 2024, as compared to the prior year period, was primarily driven by a decrease in the provision for credit losses, due to the initial provision for historical Columbia non-PCD loans that was recorded in the first quarter of 2023. Non-interest expense also decreased, primarily due to lower expenses related to the Merger. These favorable changes were partially offset by a decrease in net interest income due to higher rates on interest-bearing liabilities, partially offset by higher average yields on interest-earning assets. 
+
+&#160; 
+
+&#8226; Net interest margin, on a tax-equivalent basis, was 3.55% for the nine months ended September 30, 2024, as compared to 3.96% for the nine months ended September 30, 2023. The decrease for the nine months ended September 30, 2024 compared to the prior year period was due to higher funding costs that reflect deposit repricing and a shift in product mix. Net interest income decreased $58.5 million for the nine months ended September 30, 2024, compared to the nine months ended September 30, 2023, due to higher rates on interest-bearing liabilities, partially offset by higher average yields on interest-earning assets and higher average balances due to the Merger. 
+
+&#8226; Non-interest income was $161.2 million for the nine months ended September 30, 2024, as compared to $138.4 million for the nine months ended September 30, 2023. The increase was partially due to fluctuations in fair value adjustments and MSR hedging activity, which collectively resulted in a favorable change due to a net fair value loss of $7.0 million for the nine months ended September 30, 2024, compared to a net fair value loss of $23.2 million for the nine months ended September 30, 2023. In addition, there were increases in most categories, largely due to the impact of nine months as a combined company compared to only seven months as a combined company for the prior year period, as well as increasing fee-generating product traction with our customer base. 
+
+&#8226; Non-interest expense was $838.1 million for the nine months ended September 30, 2024, as compared to $975.5 million for the nine months ended September 30, 2023. The decrease for the nine months ended September 30, 2024 reflects a decrease in merger and restructuring expenses of $143.0 million and a decrease in salaries and employee benefits, partially offset by an increase in amortization of intangible assets added in connection with the Merger, largely due to the impact of nine months as a combined company in the current period, compared to only seven months as a combined company for the prior year period. 
+
+Comparison of current period end to prior year end 
+
+&#8226; Total loans and leases were $37.5 billion as of September 30, 2024, an increase of $61.1 million, as compared to December 31, 2023. The increase in total loans and leases was primarily in the commercial real estate and commercial loan balances, partially offset by a decrease in residential balances. The increase was driven by commercial line utilization and new originations, partially offset by loan payoffs. Balances were also impacted by a decline in transactional real estate loans, which trended lower as we organically remix the portfolio into relationship-driven commercial loans. 
+
+&#160; 
+
+&#8226; Total deposits were $41.5 billion as of September 30, 2024, a decrease of $92.3 million, as compared to December 31, 2023. The decrease was due to a reduction in brokered deposits, partially offset by customer deposit growth, largely in commercial customer balances, driven by focused campaigns run by our branch network. 
+
+&#160; 
+
+&#8226; Total consolidated assets were $51.9 billion as of September 30, 2024, compared to $52.2 billion as of December 31, 2023. 
+
+Credit Quality 
+
+&#8226; Non-performing assets increased to $167.6 million, or 0.32% of total assets, as of September 30, 2024, compared to $113.9 million, or 0.22% of total assets, as of December 31, 2023. Non-performing loans and leases were $165.2 million, or 0.44% of total loans and leases, as of September 30, 2024, compared to $112.9 million, or 0.30% of total loans and leases, as of December 31, 2023. As of September 30, 2024, non-performing loans included $65.8 million in government guarantees. 
+
+&#8226; The allowance for credit losses was $438.3 million as of September 30, 2024, a decrease of $25.8 million compared to December 31, 2023. The decrease in the allowance for credit losses was due to changes in the economic assumptions used in credit models and a recalibration in the first quarter of 2024 of our CECL calculation for non-homogeneous commercial loans and leases and residential development loans. 
+
+&#8226; The Company had a provision for credit losses of $28.8 million and $77.7 million for the three and nine months ended September 30, 2024, respectively. This compares to a provision for credit losses of $31.8 million for the three months ended June 30, 2024 and $158.3 million for the nine months ended September 30, 2023. The decrease for the three months ended September 30, 2024 compared to the prior quarter was mainly due to credit migration trends and changes in the economic forecasts used in credit models. The nine months ended September 30, 2023 included an $88.4 million initial provision for historical Columbia non-PCD loans related to the Merger. This initial provision, as well as changes in the economic assumptions used in credit models and a recalibration of our CECL calculation in the first quarter of 2024, contributed to the change when compared to the same period in the current year. 
+
+Liquidity 
+
+&#8226; Total cash and cash equivalents were $2.1 billion as of September 30, 2024, a decrease of $51.5 million from December 31, 2023. The Company manages its cash position as part of management's strategy to maintain a high-quality liquid asset position to support balance sheet flexibility, fund growth in lending and investment portfolios, and deleverage the balance sheet by decreasing debt and non-deposit liabilities as economic conditions permit. 
+
+&#8226; Including secured off-balance sheet lines of credit, total available liquidity was $19.4 billion as of September 30, 2024, representing 37% of total assets, 47% of total deposits, and 138% of estimated uninsured deposits. 
+
+Capital 
+
+&#8226; The Company's total risk-based capital ratio was 12.5% and its common equity tier 1 ("CET1") capital ratio was 10.3% as of September 30, 2024. As of December 31, 2023, the Company's total risk-based capital ratio was 11.9% and its CET1 capital ratio was 9.6%. 
+
+&#8226; Columbia paid a quarterly cash dividend of $0.36 per common share to shareholders on September 9, 2024. 
+
+Critical Accounting Estimates 
+
+Our critical accounting estimates are described in detail in the Critical Accounting Estimates section of our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on February 27, 2024. The condensed consolidated financial statements are prepared in conformity with GAAP and follow general practices within the financial services industry, in which the Company operates. This preparation requires management to make estimates, assumptions, and judgments that affect the amounts reported in the financial statements and accompanying notes. These estimates, assumptions, and judgments are based on information available as of the date of the financial statements; accordingly, as this information changes, actual results could differ from the estimates, assumptions, and judgments reflected in the financial statements. Certain estimates inherently have a greater reliance on the use of assumptions and judgments and, as such, have a greater possibility of producing results that could be materially different than originally reported. Management believes that the estimates for ACL, business combinations, and goodwill are important to the portrayal of the Company's financial condition and results of operations and require difficult, subjective, or complex judgments. There have been no material changes in the methodology of these estimates during the nine months ended September 30, 2024. 
+
+Results of Operations 
+
+Columbia's financial results for any periods ended prior to February 28, 2023, the Merger Date, reflect UHC results only on a standalone basis. Accordingly, Columbia's reported financial results for the first quarter of 2023 reflect only UHC financial results through the closing of the Merger. As a result of these two factors, Columbia's financial results for the nine months ended September 30, 2023 may not be directly comparable to prior or future reported periods. 
+
+Comparison of current quarter to prior quarter 
+
+The Company had net income of $146.2 million for the three months ended September 30, 2024, compared to net income of $120.1 million for the three months ended June 30, 2024. The increase in net income was mainly attributable to increases in non-interest income and net interest income as well as decreases in non-interest expense and provision for credit losses, partially offset by an increase in provision for income taxes. The increase of $21.5 million in non-interest income was primarily driven by quarterly fluctuations in fair value adjustments and MSR hedging activity driven by changes in interest rates. The increase of $2.8 million in net interest income reflects higher income earned on loans, which occurred despite a reduction in purchase accounting accretion income, and relatively stable funding costs prior to the late-quarter decline in the federal funds rate. The decrease of $7.9 million in non-interest expense was mainly due to a decrease in merger and restructuring expense driven by $12.0 million in restructuring expenses during the three months ended June 30, 2024. The restructuring expense was due to an enterprise-wide evaluation of our operations during the first quarter of 2024, which resulted in consolidated positions and simplified reporting and organizational structures, with changes carried out primarily in the second quarter. The decrease of $3.1 million in provision for credit losses reflects credit migration trends and changes in the economic forecasts used in credit models. 
+
+Comparison of current year-to-date to prior year period 
+
+For the nine months ended September 30, 2024, the Company had net income of $390.4 million, compared to net income of $255.2 million for the same period in the prior year. The increase in net income was mainly attributable to decreases in non-interest expense and provision for credit losses, partially offset by a decrease in net interest income. The $137.4 million decrease in non-interest expense was primarily due to a decrease in merger and restructuring expenses, as the bulk of the merger expenses associated with the Merger were recognized in 2023. The decrease of $80.6 million in provision for credit losses was impacted by the initial provision of $88.4 million for historical Columbia non-PCD loans that was recorded in the first quarter of 2023. The decrease of $58.5 million in net interest income was due to higher rates on interest-bearing liabilities, partially offset by higher average yields on interest-earning assets and a larger average balance sheet for the nine months ended September 30, 2024. The Company paid off $250.0 million in BTFP borrowings during the third quarter to continue to rebalance our funding sources in support of our liquidity management program and lower the cost of liabilities. During the first quarter of 2024, the Company conducted an enterprise-wide evaluation of our operations, which resulted in consolidated positions and simplified reporting and organizational structures. As of September 30, 2024, the Company realized $82 million in annualized cost savings, or $70 million net of planned reinvestment associated with recent operational initiatives, which support our expectations for an annualized Q4 2024 core expense run rate of $965 million to $985 million. The expected core expense run rate excludes CDI amortization, merger and restructuring expense, exit and disposal costs, and the FDIC special assessment. 
+
+The following table presents the return on average assets (GAAP), average common shareholders' equity (GAAP), and average tangible common shareholders' equity (non-GAAP) for the periods indicated. For each period presented, the table includes the calculated ratios based on reported net income. To the extent return on average common shareholders' equity is used to compare our performance with other financial institutions that do not have merger and acquisition-related intangible assets, we believe it is beneficial to also consider the return on average tangible common shareholders' equity. This measure is useful for evaluating the performance of a business as it calculates the return available to common shareholders without the impact of intangible assets and their related amortization. Return on average tangible common shareholders' equity is also used as part of our incentive compensation program for our executive officers. The return on average tangible common shareholders' equity is calculated by dividing net income by average shareholders' common equity less average goodwill and other intangible assets, net (excluding MSR). The return on average tangible common shareholders' equity is considered a non-GAAP financial measure and should be viewed in conjunction with the return on average common shareholders' equity. 
+
+Return on Average Assets, Common Shareholders' Equity and Tangible Common Shareholders' Equity 
+
+&#160; Three Months Ended Nine Months Ended &#160;(dollars in thousands) September 30, 2024 June 30, 2024 September 30, 2024 September 30, 2023 Return on average assets 1.12 % 0.93 % 1.00 % 0.70 % Return on average common shareholders' equity 11.36 % 9.85 % 10.42 % 7.77 % Return on average tangible common shareholders' equity 16.34 % 14.55 % 15.27 % 11.21 % Calculation of average common tangible shareholders' equity: &#160; &#160; &#160; &#160; Average common shareholders' equity $ 5,118,592 $ 4,908,239 $ 5,004,653 $ 4,389,549 Less: average goodwill and other intangible assets, net 1,559,696 1,588,239 1,588,916 1,345,833 Average tangible common shareholders' equity $ 3,558,896 $ 3,320,000 $ 3,415,737 $ 3,043,716 
+
+Additionally, management believes tangible common equity and the tangible common equity ratio are meaningful measures of capital adequacy. Columbia believes the exclusion of certain intangible assets in the computation of tangible common equity and the tangible common equity ratio provides a meaningful base for period-to-period and company-to-company comparisons, which management believes will assist investors in analyzing the operating results and capital of the Company. Tangible common equity is calculated as total shareholders' equity less goodwill and other intangible assets, net (excluding MSR). In addition, tangible assets are total assets less goodwill and other intangible assets, net (excluding MSR). The tangible common equity ratio is calculated as tangible common shareholders' equity divided by tangible assets. Tangible common equity and the tangible common equity ratio are considered non-GAAP financial measures and should be viewed in conjunction with total shareholders' equity and the total shareholders' equity ratio. 
+
+The following table provides a reconciliation of ending shareholders' equity (GAAP) to ending tangible common equity (non-GAAP), and ending assets (GAAP) to ending tangible assets (non-GAAP) as of the dates presented: 
+
+&#160; (dollars in thousands) 
+
+September 30, 2024 December 31, 2023 Total shareholders' equity $ 5,273,828 $ 4,995,034 Subtract: &#160; &#160; Goodwill 1,029,234 1,029,234 Other intangible assets, net 513,303 603,679 Tangible common shareholders' equity $ 3,731,291 $ 3,362,121 Total assets $ 51,908,599 $ 52,173,596 Subtract: Goodwill 1,029,234 1,029,234 Other intangible assets, net 513,303 603,679 Tangible assets $ 50,366,062 $ 50,540,683 Total shareholders' equity to total assets ratio 10.16 % 9.57 % Tangible common equity to tangible assets ratio 7.41 % 6.65 % 
+
+&#160; 
+
+Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied, and are not reviewed or audited. Although we believe these non-GAAP financial measures are frequently used by stakeholders in the evaluation of a company, they have limitations as analytical tools, and should not be considered in isolation or as a substitute for analyses of results as reported under GAAP. 
+
+Net Interest Income 
+
+Comparison of current quarter to prior quarter 
+
+Net interest income for the three months ended September 30, 2024 was $430.2 million, an increase of $2.8 million compared to the three months ended June 30, 2024. The increase was driven by a $3.4 million increase in interest income, largely driven by higher income earned on loans due to higher average rates, which occurred despite a reduction in accretion income, and relatively stable funding costs prior to the reduction in the federal funds rate that occurred in the latter part of September. 
+
+The net interest margin (net interest income as a percentage of average interest-earning assets) on a fully tax-equivalent basis was 3.56% for the three months ended September 30, 2024, unchanged from the three months ended June 30, 2024. A favorable balance sheet funding mix shift into lower-cost deposits and a slight increase in loan yields offset lower yields on securities and 
+
+contributed to margin stability between periods. The yield on loans and leases for the three months ended September 30, 2024 was 6.22%, an increase of 2 basis points compared to the three months ended June 30, 2024. 
+
+The cost of interest-bearing liabilities for the three months ended September 30, 2024 was 3.29%, a decrease of 2 basis points compared to the three months ended June 30, 2024. Anticipated seasonal deposit inflows and focused campaigns run by our branch network contributed to customer balance growth during the third quarter. 
+
+Comparison of current year-to-date to prior year period 
+
+&#160; 
+
+Net interest income for the nine months ended September 30, 2024 was $1.3 billion, a decrease of $58.5 million compared to the nine months ended September 30, 2023. The decrease was due to higher rates on interest-bearing liabilities, partially offset by higher average yields on interest-earning assets and a larger average balance sheet for the nine months ended September 30, 2024 compared to the prior year period, as a result of the Merger. 
+
+The net interest margin on a fully tax-equivalent basis was 3.55% for the nine months ended September 30, 2024, as compared to 3.96% for the nine months ended September 30, 2023. The decrease for the nine months ended September 30, 2024 compared to the prior year period was due to higher funding costs that reflect deposit repricing and a shift in product mix. 
+
+The yield on loans and leases for the nine months ended September 30, 2024 and September 30, 2023 was 6.18% and 5.88%, respectively, an increase of 30 basis points, primarily attributable to the rising interest rate environment and purchase accounting accretion and amortization related to the Merger. 
+
+The cost of interest-bearing liabilities was 3.28% for the nine months ended September 30, 2024, compared to 2.38% for the nine months ended September 30, 2023, an increase of 90 basis points, due to a higher mix of higher-cost time deposits and term borrowing balances, as well as rising interest rates. Our net interest income is affected by changes in the amount and mix of interest-earning assets and interest-bearing liabilities, as well as changes in the yields earned on interest-earning assets and rates paid on deposits and borrowed funds. 
+
+The Federal Reserve lowered the target range for the federal funds rate by 0.50% in September 2024 and is expected to continue rate cuts into 2025 and 2026. However, between March 2022 and July 2023, the Federal Reserve raised the target range for the federal funds rate by 5.25%. During that period, our net interest margin expanded as our asset sensitive balance sheet became increasingly profitable due to active rate increases by the Federal Reserve and the lagged impact to deposit pricing. After the Federal Reserve ceased increasing the federal funds rate, we experienced an increase in our funding costs that outpaced the increase in our earning asset yields, as our deposits continued to reprice higher and our funding base experienced a shift toward higher-cost sources, as Federal Reserve actions reduced available liquidity within the banking industry. As a result, our net interest margin contracted during the latter half of 2023 due to the impact of higher funding costs and minimal change to the average yield on earning assets. Our net interest margin began to stabilize in the 3.5% to 3.6% range beginning in February 2024 following a comprehensive review related to how we evaluate and approve deposit pricing. Further, the impact of balance sheet composition changes and the higher interest rate environment shifted the interest rate sensitivity position of the balance sheet to a liability sensitive position as of September 30, 2024 from an asset sensitive position at the onset of the rising rate environment. 
+
+The following tables present condensed average balance sheet information, together with interest income and yields on average interest-earning assets, and interest expense and rates paid on average interest-bearing liabilities for periods presented: 
+
+Three Months Ended &#160; September 30, 2024 June 30, 2024 &#160;(dollars in thousands) Average Balance Interest Income or Expense Average Yields or Rates Average Balance Interest Income or Expense Average Yields or Rates INTEREST-EARNING ASSETS: &#160; &#160; &#160; Loans held for sale $ 67,764 $ 1,122 6.62 % $ 101,516 $ 1,628 6.42 % 
+
+Loans and leases (1) 
+
+37,543,561 587,481 6.22 % 37,663,396 582,246 6.20 % Taxable securities 7,943,391 78,755 3.97 % 7,839,202 81,723 4.17 % 
+
+Non-taxable securities (2) 
+
+828,362 7,821 3.78 % 825,030 7,889 3.82 % Temporary investments and interest-bearing cash 1,802,396 24,683 5.45 % 1,688,602 23,035 5.49 % Total interest-earning assets (1), (2) 
+
+48,185,474 $ 699,862 5.78 % 48,117,746 $ 696,521 5.80 % Goodwill and other intangible assets 1,559,696 1,588,239 Other assets 2,263,847 2,275,570 Total assets $ 52,009,017 $ 51,981,555 INTEREST-BEARING LIABILITIES: Interest-bearing demand deposits $ 8,312,685 $ 57,237 2.74 % $ 8,147,516 $ 53,890 2.66 % Money market deposits 11,085,499 77,948 2.80 % 10,849,259 76,466 2.83 % Savings deposits 2,480,170 1,085 0.17 % 2,555,458 929 0.15 % Time deposits 6,140,692 71,757 4.65 % 6,488,923 76,022 4.71 % Total interest-bearing deposits 28,019,046 208,027 2.95 % 28,041,156 207,307 2.97 % Repurchase agreements and federal funds purchased 194,805 1,121 2.29 % 224,973 1,515 2.71 % Borrowings 3,873,913 49,636 5.10 % 3,900,000 49,418 5.10 % Junior and other subordinated debentures 417,393 9,894 9.43 % 417,329 9,847 9.49 % Total interest-bearing liabilities 32,505,157 $ 268,678 3.29 % 32,583,458 $ 268,087 3.31 % Non-interest-bearing deposits 13,500,235 13,526,483 Other liabilities 885,033 963,375 Total liabilities 46,890,425 47,073,316 Common equity 5,118,592 4,908,239 Total liabilities and shareholders' equity $ 52,009,017 $ 51,981,555 
+
+NET INTEREST INCOME (2) 
+
+$ 431,184 $ 428,434 
+
+NET INTEREST SPREAD (2) 
+
+2.49 % 2.49 % 
+
+NET INTEREST INCOME TO EARNING ASSETS OR NET INTEREST MARGIN (1), (2) 
+
+3.56 % 3.56 % (1) Non-accrual loans and leases are included in the average balance. 
+
+(2) Tax-exempt investment security income was adjusted to a tax-equivalent basis at a 21% tax rate. The amount of such adjustment was an addition to recorded income of approximately $966,000 for the three months ended September 30, 2024, as compared to approximately $985,000 for the three months ended June 30, 2024. 
+
+Nine Months Ended September 30, 2024 September 30, 2023 (dollars in thousands) Average Balance Interest Income or Expense Average Yields or Rates Average Balance Interest Income or Expense Average Yields or Rates INTEREST-EARNING ASSETS: Loans held for sale $ 66,614 $ 3,275 6.56 % $ 100,753 $ 3,222 4.26 % 
+
+Loans and leases (1) 
+
+37,601,142 1,744,246 6.18 % 34,765,319 1,532,652 5.88 % Taxable securities 7,954,491 239,202 4.01 % 7,336,862 207,072 3.76 % 
+
+Non-taxable securities (2) 
+
+834,887 23,596 3.77 % 717,064 20,163 3.75 % Temporary investments and interest-bearing cash 1,737,501 71,271 5.48 % 2,283,461 87,604 5.13 % Total interest-earning assets (1), (2) 
+
+48,194,635 $ 2,081,590 5.76 % 45,203,459 $ 1,850,713 5.46 % Goodwill and other intangible assets 1,588,916 1,345,833 Other assets 2,241,239 2,159,775 Total assets $ 52,024,790 $ 48,709,067 INTEREST-BEARING LIABILITIES: Interest-bearing demand deposits $ 8,165,718 $ 162,505 2.66 % $ 5,829,737 $ 52,301 1.20 % Money market deposits 10,849,807 226,911 2.79 % 9,857,001 123,980 1.68 % Savings deposits 2,574,318 2,729 0.14 % 3,032,653 2,686 0.12 % Time deposits 6,344,727 221,624 4.67 % 4,371,643 112,028 3.43 % Total interest-bearing deposits 27,934,570 613,769 2.93 % 23,091,034 290,995 1.68 % Repurchase agreements and federal funds purchased 217,067 3,902 2.40 % 277,896 2,697 1.30 % Borrowings 3,898,175 150,329 5.15 % 4,726,335 186,848 5.29 % Junior and other subordinated debentures 419,409 29,628 9.44 % 414,855 27,605 8.90 % Total interest-bearing liabilities 32,469,221 $ 797,628 3.28 % 28,510,120 $ 508,145 2.38 % Non-interest-bearing deposits 13,622,319 14,937,028 Other liabilities 928,597 872,370 Total liabilities 47,020,137 44,319,518 Common equity 5,004,653 4,389,549 Total liabilities and shareholders' equity $ 52,024,790 $ 48,709,067 
+
+NET INTEREST INCOME (2) 
+
+$ 1,283,962 $ 1,342,568 
+
+NET INTEREST SPREAD (2) 
+
+2.48 % 3.08 % 
+
+NET INTEREST INCOME TO EARNING ASSETS OR NET INTEREST MARGIN (1), (2) 
+
+3.55 % 3.96 % (1) Non-accrual loans and leases are included in the average balance. 
+
+(2) Tax-exempt investment security income was adjusted to a tax equivalent basis at a 21% tax rate. The amount of such adjustment was an addition to recorded income of approximately $2.9 million for the nine months ended September 30, 2024, as compared to approximately $3.0 million for the same period in 2023. 
+
+The following table sets forth a summary of the changes in tax equivalent net interest income due to changes in average asset and liability balances (volume) and changes in average rates (rate) for the periods presented. Changes in tax equivalent interest income and expense, which are not attributable specifically to either volume or rate, are allocated proportionately between both variances. 
+
+Three Months Ended Nine Months Ended &#160; September 30, 2024 compared to June 30, 2024 
+
+September 30, 2024 compared to September 30, 2023 
+
+&#160; Increase (decrease) in interest income and expense due to changes in Increase (decrease) in interest income and expense due to changes in 
+
+&#160; &#160; (in thousands) 
+
+Volume Rate Total Volume Rate Total INTEREST-EARNING ASSETS: &#160; &#160; &#160; Loans held for sale $ (557) $ 51 $ (506) $ (1,315) $ 1,368 $ 53 Loans and leases 799 4,436 5,235 129,935 81,659 211,594 Taxable securities 1,072 (4,040) (2,968) 18,079 14,051 32,130 
+
+Non-taxable securities (1) 
+
+32 (100) (68) 3,329 104 3,433 Temporary investments and interest-bearing cash 1,785 (137) 1,648 (22,006) 5,673 (16,333) 
+
+Total interest-earning assets (1) 
+
+3,131 210 3,341 128,022 102,855 230,877 INTEREST-BEARING LIABILITIES: Interest-bearing demand deposits 1,357 1,990 3,347 27,310 82,894 110,204 Money market deposits 2,180 (698) 1,482 13,607 89,324 102,931 Savings deposits (26) 182 156 (440) 483 43 Time deposits (3,412) (853) (4,265) 60,830 48,766 109,596 Repurchase agreements and federal funds purchased (202) (192) (394) (409) 1,614 1,205 Borrowings 193 25 218 (31,893) (4,626) (36,519) Junior and other subordinated debentures 5 42 47 310 1,713 2,023 Total interest-bearing liabilities 95 496 591 69,315 220,168 289,483 
+
+Net (decrease) increase in net interest income (1) 
+
+$ 3,036 $ (286) $ 2,750 $ 58,707 $ (117,313) $ (58,606) 
+
+(1) Tax-exempt investment security income was adjusted to a tax-equivalent basis at a 21% tax rate. 
+
+Provision for Credit Losses 
+
+&#160; 
+
+Comparison of current quarter to prior quarter 
+
+The Company had a $28.8 million provision for credit losses for the three months ended September 30, 2024, as compared to a $31.8 million provision for the three months ended June 30, 2024. As an annualized percentage of average outstanding loans and leases, the provision for credit losses recorded for the three months ended September 30, 2024 was 0.30%, as compared to 0.34% for the three months ended June 30, 2024. The change in provision for credit losses reflects credit migration trends and changes in the economic forecasts used in credit models. 
+
+For the three months ended September 30, 2024, net charge-offs were $29.1 million, as compared to $30.4 million for the three months ended June 30, 2024. As an annualized percentage of average outstanding loans and leases, net charge-offs for the three months ended September 30, 2024 were 0.31%, as compared to 0.32% for the three months ended June 30, 2024. Net charge-offs in the FinPac portfolio were $20.0 million for the three months ended September 30, 2024, a $4.7 million decrease from the three months ended June 30, 2024, which is reflective of lower delinquencies in the transportation sector of the portfolio, which resulted in lower charge-off activity. 
+
+Comparison of current year-to-date to prior year period 
+
+The Company had a $77.7 million provision for credit losses for the nine months ended September 30, 2024, as compared to $158.3 million for the nine months ended September 30, 2023. The decrease was primarily driven by the $88.4 million initial provision for historical Columbia non-PCD loans that was recorded in the first quarter of 2023. As an annualized percentage of average outstanding loans and leases, the provision for credit losses recorded for the nine months ended September 30, 2024 was 0.28%, as compared to 0.61% for the nine months ended September 30, 2023. During the first quarter of 2024, we recalibrated the commercial CECL model to be more reflective of the post-Merger loan portfolio after a full year operating as a combined organization. We believe the recalibrated model is more reflective of the quality of our underwriting and borrower profiles. 
+
+For the nine months ended September 30, 2024, net charge-offs were $103.6 million, as compared to $67.9 million for the nine months ended September 30, 2023. As an annualized percentage of average outstanding loans and leases, net charge-offs for the nine months ended September 30, 2024 were 0.37%, as compared to 0.26% for the nine months ended September 30, 2023. Net charge-offs in the FinPac portfolio were $68.5 million for the nine months ended September 30, 2024, as compared to $64.1 million for the nine months ended September 30, 2023. Net charge-offs were $35.1 million for the Bank for the nine months ended September 30, 2024. 
+
+Typically, loans in a non-accrual status will not have an allowance for credit loss as they will be written down to their net realizable value or charged-off. However, the net realizable value for homogeneous leases and equipment finance agreements are determined by the loss given default calculated by the CECL model, and therefore homogeneous leases and equipment finance agreements on non-accrual will have an allowance for credit loss amount until they become 181 days past due, at which time they are charged-off. The non-accrual leases and equipment finance agreements of $23.3 million as of September 30, 2024 have a related allowance for credit losses of $19.6 million, with the remaining loans written-down to the estimated fair value of the collateral, less estimated costs to sell, and are expected to be resolved with no additional material loss, absent further decline in market prices. 
+
+Non-Interest Income 
+
+&#160; 
+
+The following table presents the key components of non-interest income and the related dollar and percentage change from period to period: Three Months Ended Nine Months Ended (in thousands) September 30, 2024 June 30, 2024 Change Amount Change Percent September 30, 2024 September 30, 2023 Change Amount Change Percent Service charges on deposits $ 18,549 $ 18,503 $ 46 &#8212; % $ 53,116 $ 48,176 $ 4,940 10 % Card-based fees 14,591 14,681 (90) (1) % 42,455 40,670 1,785 4 % Financial services and trust revenue 5,083 5,396 (313) (6) % 14,943 10,460 4,483 43 % Residential mortgage banking revenue, net 6,668 5,848 820 14 % 17,150 12,577 4,573 36 % Gain (loss) on sale of debt securities, net 3 (1) 4 nm 14 4 10 250 % Gain (loss) on equity securities, net 2,272 325 1,947 nm 1,032 (336) 1,368 nm Gain (loss) on loan and lease sales, net 161 (1,516) 1,677 nm (1,134) 3,253 (4,387) (135) % Bank-owned life insurance income 4,674 4,705 (31) (1) % 14,018 11,293 2,725 24 % Other income (loss) 14,158 (3,238) 17,396 nm 19,625 12,297 7,328 60 % Total non-interest income $ 66,159 $ 44,703 $ 21,456 48 % $ 161,219 $ 138,394 $ 22,825 16 % nm = Not meaningful 
+
+Comparison of current quarter to prior quarter 
+
+Other income for the three months ended September 30, 2024, as compared to the three months ended June 30, 2024, increased primarily due to interest rate fluctuations resulting in the current quarter including a gain on the fair value of certain loans held for investment of $9.4 million, as compared to loss of $10.1 million for the prior quarter. These fair value adjustments are inversely influenced by the change in longer-term interest rates. 
+
+Comparison of current year-to-date to prior year period 
+
+Other income for the nine months ended September 30, 2024 increased, as compared to the nine months ended September 30, 2023, primarily due to interest rate fluctuations resulting in a loss on the fair value of certain loans held for investment of $3.1 million in the current period as compared to a loss of $16.7 million in the prior year period. Further, our business growth strategy incorporates a collaborative team approach to deliver needs-based solutions to our customers, which deepens relationships and provides growth in sustainable fee income to the Bank. Trends in the current period as compared to the prior year period reflect a growing contribution from treasury management and card fees, financial services and trust revenue, and international banking fees. The increase was partially offset by the impact of rate fluctuations on swap derivatives with a loss in the current period compared to a gain in the prior year period, resulting in an unfavorable change of $5.4 million. 
+
+Non-Interest Expense 
+
+&#160; 
+
+The following table presents the key elements of non-interest expense and the related dollar and percentage change from period to period: Three Months Ended Nine Months Ended &#160;(in thousands) September 30, 2024 June 30, 2024 Change Amount Change Percent September 30, 2024 September 30, 2023 Change Amount Change Percent Salaries and employee benefits $ 147,268 $ 145,066 $ 2,202 2 % $ 446,872 $ 458,531 $ (11,659) (3) % Occupancy and equipment, net 45,056 45,147 (91) &#8212; % 135,494 135,320 174 &#8212; % Communications 3,322 3,408 (86) (3) % 10,512 11,972 (1,460) (12) % Marketing 3,078 2,305 773 34 % 7,319 5,882 1,437 24 % Services 15,013 14,600 413 3 % 43,035 41,278 1,757 4 % FDIC assessments 9,332 9,664 (332) (3) % 33,456 28,892 4,564 16 % Intangible amortization 29,055 29,230 (175) (1) % 90,376 78,092 12,284 16 % Merger and restructuring expense 2,364 14,641 (12,277) (84) % 21,483 164,485 (143,002) (87) % Other expenses 16,870 15,183 1,687 11 % 49,571 51,072 (1,501) (3) % Total non-interest expense $ 271,358 $ 279,244 $ (7,886) (3) % $ 838,118 $ 975,524 $ (137,406) (14) % 
+
+Comparison of current quarter to prior quarter 
+
+Salaries and employee benefits increased during the three months ended September 30, 2024, as compared to the three months ended June 30, 2024, due primarily to the prior period including a $7.7 million reversal of a compensation-related accrual, which did not repeat in the current period, partially offset by a decrease in the current quarter related to salaries and wages largely due to staff reductions that occurred predominantly over the second quarter. 
+
+Merger and restructuring expense decreased during the three months ended September 30, 2024, as compared to the three months ended June 30, 2024, mainly due to the prior quarter including restructuring expense of $12.0 million, which was primarily severance payments. During the first quarter of 2024, the Company conducted a comprehensive evaluation of our operations, resulting in streamlined roles, simplified reporting, and organizational structures. These actions contributed to expense reductions. 
+
+Comparison of current year-to-date to prior year period 
+
+Salaries and employee benefits decreased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, due primarily to reduction in employees related to the merger synergies realized in 2023 and the additional operational efficiency related activities in 2024, partially offset by the current year including nine months as a combined company, compared to only seven months during the nine months ended September 30, 2023. 
+
+Intangible amortization increased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, primarily due to the current year including nine months of amortization associated with the core deposit intangible asset added as a result of the Merger, compared to only seven months of amortization during the nine months ended September 30, 2023. 
+
+Merger and restructuring expense decreased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, with the largest drivers of the decrease being lower legal and professional fees and premises and equipment expense related to the Merger. Columbia closed the Merger and completed the core systems conversion during the first quarter of 2023. The decrease in Merger expenses was partially offset by $12.0 million in restructuring expenses during the nine months ended September 30, 2024. 
+
+Income Taxes 
+
+The Company's effective tax rate for the three months ended September 30, 2024 was 25.5%, as compared to 25.4% for the three months ended June 30, 2024, and 25.8% for both the nine months ended September 30, 2024 and 2023. The effective tax rates differed from the statutory rate principally because of state taxes, non-deductible FDIC assessments, and income on tax-exempt investment securities. 
+
+FINANCIAL CONDITION 
+
+&#160; 
+
+Investment Securities 
+
+&#160; 
+
+Investment debt securities available for sale were $8.7 billion as of September 30, 2024, compared to $8.8 billion as of December 31, 2023. The decrease was primarily due to paydowns, calls, and maturities of $385.4 million, partially offset by an increase of $139.5 million in fair value of investment securities available for sale, due to lower rates during the period. 
+
+The following tables present the par value, amortized cost, unrealized gains, unrealized losses, and approximate fair values of debt securities as available for sale and held to maturity investment debt securities portfolio by major type as of the dates presented: 
+
+September 30, 2024 &#160;(dollars in thousands) Current Par Amortized Cost Unrealized Gains Unrealized Losses Fair Value % of Portfolio Available for sale: &#160; &#160; &#160; &#160; U.S. Treasury and agencies $ 1,531,374 $ 1,539,618 $ 10,419 $ (53,780) $ 1,496,257 17 % Obligations of states and political subdivisions 1,121,212 1,060,879 19,241 (18,530) 1,061,590 12 % 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+6,780,621 6,369,692 77,236 (327,968) 6,118,960 71 % Total available for sale securities $ 9,433,207 $ 8,970,189 $ 106,896 $ (400,278) $ 8,676,807 100 % Held to maturity: 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+$ 3,289 $ 2,159 $ 636 $ &#8212; $ 2,795 100 % Total held to maturity securities $ 3,289 $ 2,159 $ 636 $ &#8212; $ 2,795 100 % 
+
+December 31, 2023 
+
+(dollars in thousands) &#160; 
+
+Current Par Amortized Cost Unrealized Gains Unrealized Losses Fair Value % of Portfolio Available for sale: &#160; &#160; &#160; &#160; U.S. Treasury and agencies $ 1,546,374 $ 1,551,074 $ 6,192 $ (78,874) $ 1,478,392 17 % Obligations of states and political subdivisions 1,135,345 1,073,264 20,451 (21,610) 1,072,105 12 % 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+7,103,633 6,638,439 28,558 (387,624) 6,279,373 71 % Total available for sale securities $ 9,785,352 $ 9,262,777 $ 55,201 $ (488,108) $ 8,829,870 100 % Held to maturity: 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+$ 3,564 $ 2,300 $ 725 $ &#8212; $ 3,025 100 % Total held to maturity securities $ 3,564 $ 2,300 $ 725 $ &#8212; $ 3,025 100 % 
+
+We review investment securities on an ongoing basis for the presence of impairment, taking into consideration current market conditions, fair value in relationship to cost, extent and nature of the change in fair value, issuer rating changes and trends, whether we intend to sell a security or if it is likely that we will be required to sell the security before recovery of our amortized cost basis of the investment, which may be maturity, and other factors. 
+
+&#160; 
+
+As of September 30, 2024, the available for sale investment portfolio had gross unrealized losses of $400.3 million. Unrealized losses consisted primarily of unrealized losses on mortgage-backed securities and collateralized mortgage obligations of $328.0 million. The unrealized losses were attributable to changes in market interest rates or the widening of market spreads subsequent to the initial purchase of these securities and are not attributable to changes in credit quality. In the opinion of management, no ACL was considered necessary on these debt securities as of September 30, 2024. 
+
+Loans and Leases 
+
+&#160; 
+
+Total loans and leases outstanding as of September 30, 2024 were $37.5 billion, an increase of $61.1 million as compared to December 31, 2023. The increase was primarily attributable to organic loan growth of $296.5 million, partially offset by charge-offs of $120.9 million and loan sales of $115.0 million. The loan to deposit ratio was 90% as of both September 30, 2024 and December 31, 2023. 
+
+The following table presents the concentration distribution of the loan and lease portfolio, net of deferred fees and costs, as of the dates presented: 
+
+September 30, 2024 December 31, 2023 
+
+&#160; (dollars in thousands) 
+
+Amount % Amount % Commercial real estate &#160; &#160; &#160; &#160; Non-owner occupied term, net $ 6,391,806 17 % $ 6,482,940 17 % Owner occupied term, net 5,210,485 14 % 5,195,605 14 % Multifamily, net 5,779,737 15 % 5,704,734 15 % Construction &#38; development, net 1,988,923 5 % 1,747,302 5 % Residential development, net 244,579 1 % 323,899 1 % Commercial &#160; &#160; Term, net 5,429,209 15 % 5,536,765 15 % Lines of credit &#38; other, net 2,640,669 7 % 2,430,127 6 % Leases &#38; equipment finance, net 1,670,427 4 % 1,729,512 5 % Residential &#160; &#160; Mortgage, net 5,944,734 16 % 6,157,166 16 % Home equity loans &#38; lines, net 2,017,336 5 % 1,938,166 5 % Consumer &#38; other, net 185,097 1 % 195,735 1 % Total, net of deferred fees and costs $ 37,503,002 100 % $ 37,441,951 100 % 
+
+Commercial Real Estate and Commercial Loans 
+
+Commercial real estate and commercial loans are the largest classifications within earning assets, representing 41% and 20%, respectively, of average earning assets for both the three and nine months ended September 30, 2024 and 40% and 20%, respectively, as of December 31, 2023. The increase in commercial real estate and commercial loan balances between September 30, 2024 and December 31, 2023 was driven by commercial line utilization and new originations, partially offset by loan payoffs. 
+
+Delinquency and non-accrual loan movements during the period reflect an anticipated move toward a normalized credit environment following a phase of exceptional high credit quality. Non-performing loans during the quarter include $65.8 million in government guarantees on the commercial real estate, commercial, and residential portfolios, which offsets our credit exposure in those portfolios. 
+
+Commercial Real Estate Loans 
+
+The commercial real estate portfolio includes loans to developers and institutional sponsors supporting income-producing or for-sale commercial real estate properties. We seek to mitigate our risk on these loans by requiring collateral values that exceed the loan amount and underwriting the loan with projected cash flow in excess of the debt service requirement. 
+
+As of September 30, 2024, commercial real estate loans held in our loan portfolio were $19.6 billion, an increase of $161.1 million compared to December 31, 2023. Commercial real estate concentrations are managed with a goal of optimizing relationship-driven commercial loans, as well as geographic, and business diversity, primarily in our footprint. 
+
+Loans secured by office properties represented approximately 8% of our total loan portfolio at both September 30, 2024 and December 31, 2023, comprised of 57% non-owner occupied, 40% owner occupied, and 3% construction loans at September 30, 2024, compared to 57% non-owner occupied, 39% owner occupied, and 4% construction loans at December 31, 2023. Excluding floating rate loans, which have already repriced to prevailing rates, only 5% of our office portfolio reprices through 2025. Office properties located in suburban markets secure the majority of our office portfolio as only 6% of non-owner occupied loans are located in downtown core business districts. 
+
+Loans secured by multifamily properties, including construction, represented approximately 19% of the total loan portfolio as of both September 30, 2024 and December 31, 2023. These assets continue to perform well due to demand for rental properties in our geographic footprint. Although management believes such concentrations have no more than the normal risk of collectability, a substantial decline in the economy in general, material increases in interest rates, changes in tax and rent control policies, tightening credit or refinancing markets, or a decline in real estate values in the Bank's primary geographic footprint in particular, could have an adverse impact on the repayment of these loans. 
+
+The following table provides detail on commercial real estate loans by property type: 
+
+September 30, 2024 December 31, 2023 (in thousands) Outstanding Non-accrual (1) 
+
+% of Total CRE Outstanding Non-accrual (1) 
+
+% of Total CRE Commercial real estate loans by property type: Multifamily $ 7,256,629 $ &#8212; &#8212; % $ 6,978,498 $ &#8212; &#8212; % Office 2,931,236 11,398 0.06 % 2,980,240 13,335 0.07 % Industrial 2,927,166 4,981 0.03 % 2,812,295 2,053 0.01 % Retail 2,036,838 746 &#8212; % 2,083,960 3,715 0.02 % Special Purpose 1,334,986 13,341 0.07 % 1,348,343 4,566 0.03 % Hotel/Motel 736,209 1,068 0.01 % 755,132 2,622 0.01 % Other 2,392,466 5,798 0.03 % 2,496,012 2,398 0.01 % Total commercial real estate loans $ 19,615,530 $ 37,332 0.19 % $ 19,454,480 $ 28,689 0.15 % 
+
+(1) Commercial real estate non-accrual loans are inclusive of government guarantees of $12.1 million and $7.7 million as of September 30, 2024 and December 31, 2023, respectively. 
+
+The following table provides detail on the geographic distribution of our commercial real estate portfolio as of September 30, 2024: 
+
+(in thousands) Amount Percent of total Southern California $ 3,796,424 19 % Puget Sound 3,802,615 19 % Oregon Other 2,880,302 15 % Portland Metro 2,679,159 14 % Northern California (excluding the Bay Area) 1,979,434 10 % Bay Area 1,422,312 7 % Washington Other 1,279,564 7 % Other 1,775,720 9 % Total commercial real estate loans $ 19,615,530 100 % 
+
+Commercial Loans and Leases 
+
+Commercial loans are made to commercial customers for use in normal business operations to finance working capital needs, equipment purchases, or other projects. We focus on borrowers doing business within our geographic markets. Commercial loans are generally underwritten individually and secured with the assets of the company and/or the personal guarantee of the business owners. Lease and equipment financing products are designed to address the diverse financing needs of small to large companies, primarily for the acquisition of equipment. As of September 30, 2024, commercial loans held in our loan portfolio were $9.7 billion, an increase of $43.9 million compared to December 31, 2023, which is mainly attributable to credit line utilization during the period. 
+
+The leases and equipment finance portfolio represents approximately 17% of the commercial portfolio and 4% of the total loan portfolio as of September 30, 2024, as compared to 18% of the commercial portfolio and 5% of the total loan portfolio as of December 31, 2023. The leasing portfolio has non-performing leases and charge-offs centered in the trucking and transportation portion of the portfolio. Net charge-offs in the FinPac lease portfolio were $20.0 million for the three months ended September 30, 2024, as compared to $24.7 million for the three months ended June 30, 2024, and net charge-offs were up $2.7 million in the remaining commercial portfolio from the prior quarter. Lower delinquencies in the transportation sector of the portfolio resulted in lower charge-off activity for the quarter. Delinquencies and non-accrual loan movements in the transportation and trucking portfolio over the year were anticipated and a slow recovery is in process for this portfolio. 
+
+The following table provides detail on commercial loans and leases by industry type: 
+
+September 30, 2024 December 31, 2023 (in thousands) Outstanding Non-accrual (1) 
+
+% of Total Commercial Outstanding Non-accrual (1) 
+
+% of Total Commercial Commercial loans and leases by industry type: Agriculture $ 901,737 $ 7,327 0.08 % $ 829,555 $ 2,167 0.02 % Contractors 748,949 6,068 0.06 % 733,531 6,143 0.06 % Dentist 690,142 25 &#8212; % 715,348 886 0.01 % Finance/Insurance 744,511 &#8212; &#8212; % 754,115 3 &#8212; % Gaming 547,959 &#8212; &#8212; % 532,698 &#8212; &#8212; % Healthcare 431,704 1,938 0.02 % 312,788 2,062 0.02 % Manufacturing 698,895 2,847 0.03 % 736,298 2,636 0.03 % Professional 371,783 3,278 0.03 % 445,455 3,113 0.03 % Public Admin 618,110 84 &#8212; % 649,895 7 &#8212; % Rental and Leasing 612,671 39 &#8212; % 692,101 165 &#8212; % Retail 259,853 13,772 0.14 % 225,223 1,276 0.01 % Support Services 462,940 1,768 0.02 % 411,565 1,047 0.01 % Transportation/Warehousing 774,595 15,499 0.16 % 852,735 21,951 0.23 % Wholesale 642,125 1,267 0.01 % 673,349 396 0.01 % Other 1,234,331 7,552 0.08 % 1,131,748 3,830 0.04 % Total commercial portfolio $ 9,740,305 $ 61,464 0.63 % $ 9,696,404 $ 45,682 0.47 % 
+
+(1) Commercial non-accrual loans and leases are inclusive of government guarantees of $26.8 million and $11.7 million as of September 30, 2024 and December 31, 2023, respectively. 
+
+Residential Real Estate Loans 
+
+Residential real estate loans represent mortgage loans and lines of credit to consumers for the purchase or refinance of a residence. As of September 30, 2024, residential real estate loans held in our loan portfolio were $8.0 billion, a decrease of $133.3 million as compared to December 31, 2023. The decrease was primarily attributable to loan sales of $80.0 million in residential mortgage loans during the period. 
+
+Consumer Loans 
+
+Consumer loans, including secured and unsecured personal loans, home equity and personal lines of credit, and motor vehicle loans, decreased $10.6 million to $185.1 million as of September 30, 2024, as compared to December 31, 2023. The decrease was due to normal business activity. 
+
+Asset Quality and Non-Performing Assets 
+
+The following table summarizes our non-performing assets, the ACL and asset quality ratios as of the dates presented: 
+
+(dollars in thousands) 
+
+September 30, 2024 December 31, 2023 
+
+Non-performing assets: (1) 
+
+Loans and leases on non-accrual status Commercial real estate, net $ 37,332 $ 28,689 Commercial, net 61,464 45,682 Total loans and leases on non-accrual status 98,796 74,371 
+
+Loans and leases past due 90 days or more and accruing (2) 
+
+Commercial real estate, net 136 870 Commercial, net 6,012 8,232 Residential, net (2) 
+
+59,961 29,102 Consumer &#38; other, net 317 326 
+
+Total loans and leases past due 90 days or more and accruing (2) 
+
+66,426 38,530 
+
+Total non-performing loans and leases (1), (2) 
+
+165,222 112,901 Other real estate owned 2,395 1,036 
+
+Total non-performing assets (1), (2) 
+
+$ 167,617 $ 113,937 ACLLL $ 420,054 $ 440,871 Reserve for unfunded commitments 18,199 23,208 ACL $ 438,253 $ 464,079 Asset quality ratios: &#160; &#160; Non-performing loans and leases to total loans and leases (1), (2) 
+
+0.44 % 0.30 % Non-performing assets to total assets (1), (2) 
+
+0.32 % 0.22 % Non-accrual loans and leases to total loans and leases (2) 
+
+0.26 % 0.20 % ACLLL to total loans and leases 1.12 % 1.18 % ACL to total loans and leases 1.17 % 1.24 % ACL to non-accrual loans and leases 444 % 624 % ACL to total non-performing loans and leases 265 % 411 % 
+
+(1) Non-accrual and 90+ days past due loans include government guarantees of $38.9 million and $26.9 million, respectively, as of September 30, 2024. As of December 31, 2023, non-accrual and 90+ days past due loans include government guarantees of and $19.3 million and $12.3 million, respectively. 
+
+(2) Excludes certain mortgage loans guaranteed by GNMA, which Columbia has the unilateral right to repurchase but has not done so, totaling $3.7 million as of September 30, 2024 and $1.0 million at December 31, 2023. 
+
+&#160; 
+
+As of September 30, 2024 there were approximately $67.0 million or 0.18% of total loans, modified due to borrowers experiencing financial difficulties, compared to $138.1 million or 0.37% as of December 31, 2023. A decline in economic conditions and other factors could adversely impact individual borrowers or the loan portfolio in general. Accordingly, there can be no assurance that loans will not become 90 days or more past due, placed on non-accrual status, restructured, or transferred to other real estate owned in the future. As of September 30, 2024, there was an increase in non-performing loans representative of a more normalized credit environment relative to December 31, 2023. 
+
+Allowance for Credit Losses 
+
+&#160; 
+
+The ACL totaled $438.3 million as of September 30, 2024, a decrease of $25.8 million from December 31, 2023. The following table shows the activity in the ACL for the periods indicated: 
+
+Three Months Ended Nine Months Ended 
+
+(dollars in thousands) 
+
+September 30, 2024 June 30, 2024 September 30, 2024 September 30, 2023 Allowance for credit losses on loans and leases Balance, beginning of period $ 418,671 $ 414,344 $ 440,871 $ 301,135 Initial ACL recorded for PCD loans acquired during the period &#8212; &#8212; &#8212; 26,492 
+
+Provision for credit losses on loans and leases (1) 
+
+30,498 34,760 82,734 156,796 Charge-offs Commercial real estate, net &#8212; (585) (746) (174) Commercial, net (32,645) (33,561) (113,438) (77,913) Residential, net (936) (504) (1,930) (458) Consumer &#38; other, net (1,395) (1,551) (4,816) (3,921) Total charge-offs (34,976) (36,201) (120,930) (82,466) Recoveries Commercial real estate, net 44 551 953 298 Commercial, net 5,258 4,198 14,188 12,470 Residential, net 143 411 724 342 Consumer &#38; other, net 416 608 1,514 1,493 Total recoveries 5,861 5,768 17,379 14,603 Net (charge-offs) recoveries Commercial real estate, net 44 (34) 207 124 Commercial, net (27,387) (29,363) (99,250) (65,443) Residential, net (793) (93) (1,206) (116) Consumer &#38; other, net (979) (943) (3,302) (2,428) Total net charge-offs (29,115) (30,433) (103,551) (67,863) Balance, end of period $ 420,054 $ 418,671 $ 420,054 $ 416,560 Reserve for unfunded commitments Balance, beginning of period $ 19,928 $ 22,868 $ 23,208 $ 14,221 Initial ACL recorded for unfunded commitments acquired during the period &#8212; &#8212; &#8212; 5,767 (Recapture) provision for credit losses on unfunded commitments (1,729) (2,940) (5,009) 1,494 Balance, end of period 18,199 19,928 18,199 21,482 Total allowance for credit losses $ 438,253 $ 438,599 $ 438,253 $ 438,042 As a percentage of average loans and leases (annualized): Net charge-offs 0.31 % 0.32 % 0.37 % 0.26 % Provision for credit losses 
+
+0.30 % 0.34 % 0.28 % 0.61 % Recoveries as a percentage of charge-offs 16.76 % 15.93 % 14.37 % 17.71 % 
+
+(1) Includes $88.4 million initial provision related to non-PCD loans acquired during the first quarter of 2023. 
+
+The provision for credit losses includes the provision for loan and lease losses and the provision for unfunded commitments. The change in the three months ended September 30, 2024, as compared to the three months ended June 30, 2024, reflects credit migration trends and changes in the economic forecasts used in credit models. The decrease in the provision for the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, reflects the $88.4 million initial provision for historical Columbia non-PCD loans related to the Merger in 2023. This initial provision, as well as changes in the economic assumptions used in credit models and a recalibration of our CECL calculation in the first quarter of 2024, contributed to the change when compared to the same period in the current year. Net charge-offs were driven by the commercial loan portfolio, comprising $27.4 million of the net charge-offs for the third quarter of 2024 and $29.4 million for the second quarter of 2024. 
+
+The following table sets forth the allocation of the allowance for credit losses on loans and leases and percent of loans in each category to total loans and leases as of the dates presented: 
+
+September 30, 2024 December 31, 2023 &#160;(dollars in thousands) Amount % loans to total loans Amount % loans to total loans Commercial real estate $ 158,216 52 % $ 125,888 52 % Commercial 209,037 26 % 244,821 26 % Residential 45,572 21 % 62,004 21 % Consumer &#38; other 7,229 1 % 8,158 1 % Allowance for credit losses on loans and leases $ 420,054 &#160; $ 440,871 &#160; 
+
+The following table shows the change in the allowance for credit losses from June 30, 2024 to September 30, 2024: (dollars in thousands) June 30, 2024 Q3 2024 net (charge-offs) recoveries 
+
+Reserve build (release) September 30, 2024 % of loan and leases outstanding Commercial real estate $ 153,092 $ 44 $ 12,838 $ 165,974 0.85 % Commercial 226,261 (27,387) 17,219 216,093 2.22 % Residential 51,163 (793) (2,676) 47,694 0.60 % Consumer &#38; Other 8,083 (979) 1,388 8,492 4.59 % Total allowance for credit losses $ 438,599 $ (29,115) $ 28,769 $ 438,253 1.17 % % of loans and leases outstanding 1.16 % 1.17 % 
+
+To calculate the ACL, the CECL models use a forecast of future economic conditions and are dependent upon specific macroeconomic variables that are relevant to each of the Bank's loan and lease portfolios, as well as qualitative factors to address uncertainty not measured within the quantitative analysis. For the third quarter of 2024, the Bank used Moody's Analytics' August 2024 consensus economic forecast, which shows a similar economic situation from the forecast used in the prior quarter and used upward qualitative overlays, mainly in the commercial portfolio, to align with the S2 scenario and to account for the transportation segment of the lease portfolio. Refer to Note 5 &#8211; Allowance for Credit Losses for further information. The models for calculating the ACL are sensitive to changes to economic variables, which could result in volatility as these assumptions change over time. 
+
+We believe that the ACL as of September 30, 2024 is sufficient to absorb losses inherent in the loan and lease portfolio and in credit commitments outstanding as of that date based on the information available. If the economic conditions decline, the Bank may need additional provisions for credit losses in future periods. 
+
+Residential Mortgage Servicing Rights 
+
+&#160; 
+
+The following table presents the changes in our residential MSR portfolio for the periods indicated: 
+
+Three Months Ended Nine Months Ended 
+
+&#160; &#160; (in thousands) 
+
+September 30, 2024 June 30, 2024 September 30, 2024 September 30, 2023 Balance, beginning of period $ 110,039 $ 110,444 $ 109,243 $ 185,017 Additions for new MSR capitalized 1,547 1,540 4,324 4,427 Sale of MSR assets &#8212; &#8212; &#8212; (57,454) Changes in fair value: Changes due to collection/realization of expected cash flows over time (3,127) (3,183) (9,463) (14,479) Changes due to valuation inputs or assumptions (1) 
+
+(6,540) 1,238 (2,185) 129 Balance, end of period $ 101,919 $ 110,039 $ 101,919 $ 117,640 
+
+(1) The changes in valuation inputs and assumptions principally reflect changes in discount rates and prepayment speeds, which are primarily affected by changes in interest rates. 
+
+The following table presents information related to our residential serviced loan portfolio as of the dates presented: 
+
+(dollars in thousands) September 30, 2024 December 31, 2023 Balance of loans serviced for others $ 7,965,538 $ 8,175,664 MSR as a percentage of serviced loans 1.28 % 1.34 % 
+
+Residential MSR are adjusted to fair value quarterly with the change recorded in residential mortgage banking revenue on the Condensed Consolidated Statements of Income. The value of servicing rights can fluctuate based on changes in interest rates and other factors. Generally, as interest rates decline and borrowers are able to take advantage of a refinance incentive, prepayments increase, and the total value of existing servicing rights declines as expectations of future servicing fee collections decline. Historically, the fair value of our residential MSR will increase as market rates for mortgage loans rise and decrease if market rates fall. 
+
+In September 2023, the Company closed the sale of $57.5 million in residential mortgage servicing rights, which related to the non-relationship component of the serviced loan portfolio. 
+
+Goodwill and Other Intangible Assets 
+
+As of September 30, 2024 and December 31, 2023, the Company had $1.0 billion in goodwill, which was recorded as a result of the Merger. Goodwill is recorded in connection with business combinations and represents the excess of the purchase price over the estimated fair value of the net assets acquired. 
+
+As of September 30, 2024, we had other intangible assets of $513.3 million, as compared to $603.7 million at December 31, 2023. As part of a business acquisition, the fair value of identifiable intangible assets such as core deposits, which includes all deposits except certificates of deposit, was recognized at the Merger Date. Intangible assets with definite useful lives are amortized to their estimated residual values over their respective estimated useful lives. The core deposit intangible assets recorded are amortized on an accelerated basis over a period of 10 years using the sum-of-the-years-digits method. Intangible assets are evaluated for impairment if events and circumstances indicate a possible impairment. No impairment losses have been recognized in the periods presented. 
+
+Deposits 
+
+Total deposits were $41.5 billion as of September 30, 2024, a decrease of $92.3 million as compared to December 31, 2023. The decrease was due to a reduction in brokered deposits, partially offset by customer deposit growth, largely in commercial customer balances, driven by focused campaigns run by our branch network. The interest-bearing deposit mix increased mainly due to a migration from non-interest-bearing to interest-bearing accounts as customers seek higher rates in the current interest rate environment. 
+
+&#160; 
+
+The following table presents the deposit balances by category as of the dates presented: 
+
+September 30, 2024 December 31, 2023 &#160;(dollars in thousands) Amount % Amount % Non-interest-bearing demand $ 13,534,065 33 % $ 14,256,452 34 % Interest-bearing demand 8,444,424 20 % 8,044,432 19 % Money market 11,351,066 27 % 10,324,454 25 % Savings 2,450,924 6 % 2,754,113 7 % Time, greater than $250,000 1,206,242 3 % 1,034,094 2 % Time, $250,000 or less 4,527,967 11 % 5,193,475 13 % Total deposits $ 41,514,688 100 % $ 41,607,020 100 % 
+
+&#160; 
+
+The Company's total core deposits, which are deposits less time deposits greater than $250,000 and all brokered deposits, were $37.8 billion and $37.4 billion as of September 30, 2024 and December 31, 2023, respectively. The Company's brokered deposits totaled $2.5 billion and $3.1 billion as of September 30, 2024 and December 31, 2023, respectively. 
+
+The FDIC generally insures up to $250,000 per depositor for each account ownership category, as defined by the FDIC. Depositors may qualify for coverage of accounts over $250,000 if they have funds in different ownership categories and all applicable FDIC requirements are met. All deposits that an account owner has in the same ownership category at the same bank are added together and insured up to the standard insurance amount. As of September 30, 2024 and December 31, 2023, approximately $27.5 billion and $28.1 billion, respectively, of the Bank&#8217;s deposits were estimated to be insured. Uninsured deposits are an estimated amount based on the methodologies and assumptions used for the Bank's regulatory requirements. Estimated uninsured deposits were $14.0 billion and $13.5 billion as of September 30, 2024 and December 31, 2023, respectively. As of September 30, 2024, total available liquidity was $19.4 billion, or 138% of estimated uninsured deposits. 
+
+Borrowings 
+
+&#160; 
+
+As of September 30, 2024, the Bank had outstanding securities sold under agreements to repurchase of $183.8 million, a decrease of $68.3 million from December 31, 2023. The Bank had outstanding borrowings consisting of advances from the FHLB and FRB of $3.7 billion as of September 30, 2024 and $4.0 billion as of December 31, 2023. The decrease was primarily due to repayment of borrowings as well as general liquidity management. FHLB advances have fixed rates ranging from 5.10% to 5.25%, all of which are set to mature before the end of the first quarter of 2025. Advances from the FHLB are secured by investment securities and loans secured by real estate. The FRB borrowings have interest rates ranging from 4.76% to 4.93% and mature in January 2025, although the Company has the ability to repay balances prior to maturity without penalty. The FRB borrowings are secured by investment securities. 
+
+Junior and Other Subordinated Debentures 
+
+&#160; 
+
+We had junior and other subordinated debentures with carrying values of $419.6 million and $424.3 million as of September 30, 2024 and December 31, 2023, respectively. The decrease is mainly due to a decline of $4.0 million in fair value for the junior subordinated debentures elected to be carried at fair value. The change in fair value was driven by increases in credit spreads and modest changes in swap rates during the nine months ended September 30, 2024. As of September 30, 2024, substantially all of the junior subordinated debentures had interest rates that are adjustable on a quarterly basis based on a spread over three-month term SOFR. 
+
+Liquidity and Cash Flow 
+
+&#160; 
+
+The principal objective of our liquidity management program is to maintain the Bank's ability to meet the day-to-day cash flow requirements of our customers who either wish to withdraw funds or to draw upon credit facilities to meet their cash needs. The Bank's liquidity strategy includes maintaining sufficient on-balance sheet liquidity to support balance sheet flexibility, fund growth in lending and investment portfolios, and deleverage non-deposit liabilities as economic conditions permit. As a result, the Company believes that it has sufficient cash and access to borrowings to effectively manage through the current economic conditions, as well as meet its working capital and other needs. The Company will continue to prudently evaluate and maintain liquidity sources, including the ability to fund future loan growth and manage our borrowing sources. 
+
+We monitor the sources and uses of funds daily to maintain an acceptable liquidity position. One source of funds includes public deposits. Individual state laws require banks to collateralize public deposits, typically as a percentage of their public deposit balance in excess of FDIC insurance. Public deposits represented 7% of total deposits at both September 30, 2024 and December 31, 2023. The amount of collateral required varies by state and may also vary by institution within each state, depending on the individual state's risk assessment of depository institutions. Changes in the pledging requirements for uninsured public deposits may require pledging additional collateral to secure these deposits, drawing on other sources of funds to finance the purchase of assets that would be available to be pledged to satisfy a pledging requirement, or could lead to the withdrawal of certain public deposits from the Bank. 
+
+The Bank&#8217;s diversified deposit base provides a sizeable source of relatively stable and low-cost funding, while reducing the Bank&#8217;s reliance on the wholesale markets. Total deposits were $41.5 billion as of September 30, 2024, compared with $41.6 billion at December 31, 2023. The Bank also has liquidity from excess bond collateral of $3.8 billion. 
+
+In addition to liquidity from core deposits and the repayments and maturities of loans and investment securities, the Bank can sell securities under agreements to repurchase, issue brokered certificates of deposit, or utilize off-balance sheet funding sources. 
+
+The Bank maintains a substantial level of total available liquidity in the form of off-balance sheet funding sources. These liquidity sources include capacity to borrow from uncommitted lines of credit, advances from the FHLB, and the Federal Reserve Bank&#8217;s Discount Window. Availability of the uncommitted lines of credit is subject to federal funds balances available for loan and continued borrower eligibility. These lines are intended to support short-term liquidity needs, and the agreements may restrict consecutive day usage. 
+
+The following table presents total off-balance sheet liquidity as of the date presented: 
+
+September 30, 2024 (dollars in thousands) Gross Availability Utilization Net Availability FHLB lines $ 11,782,745 $ 2,369,833 $ 9,412,912 Federal Reserve Discount Window 3,730,047 &#8212; 3,730,047 Federal Reserve Term Funding Program (1) 
+
+1,300,000 1,300,000 &#8212; Uncommitted lines of credit 600,000 &#8212; 600,000 Total off-balance sheet liquidity $ 17,412,792 $ 3,669,833 $ 13,742,959 
+
+(1) The Federal Reserve&#8217;s Bank Term Funding Program was discontinued for new borrowings in March 2024. We present associated balances as of September 30, 2024. 
+
+The following table presents total available liquidity as of the date presented: 
+
+(dollars in thousands) September 30, 2024 
+
+Total off-balance sheet liquidity $ 13,742,959 Cash and cash equivalents, less reserve requirements 1,909,407 Excess bond collateral 3,768,323 Total available liquidity $ 19,420,689 
+
+The Company is a separate entity from the Bank and must provide for its own liquidity. Substantially all of the Company's revenues are obtained from dividends declared and paid by the Bank. There were $270.0 million of dividends paid by the Bank to the Company during the nine months ended September 30, 2024. There are statutory and regulatory provisions that limit the ability of the Bank to pay dividends to the Company. FDIC and Oregon Division of Financial Regulation approval is required for quarterly dividends from the Bank to the Company. 
+
+Although we expect the Bank's and the Company's liquidity positions to remain satisfactory during 2024, it is possible that our deposit balances may not be maintained at previous levels due to pricing pressure or customers' behavior in the current economic environment. In addition, in order to generate deposit growth, our pricing may need to be adjusted in a manner that results in increased interest expense on deposits. We may utilize borrowings or other funding sources, which are generally more costly than deposit funding, to support our liquidity levels. 
+
+Commitments and Other Contractual Obligations- The Company participates in many different contractual arrangements which may or may not be recorded on its balance sheet, under which the Company has an obligation to pay certain amounts, provide credit or liquidity enhancements or provide market risk support. Our material contractual obligations are primarily for time deposits and borrowings. As of September 30, 2024, time deposits totaled $5.7 billion, of which $5.6 billion mature in a year or less. Total borrowings as of September 30, 2024 were $3.7 billion, all of which mature within one year. These arrangements also include off-balance sheet commitments to extend credit, letters of credit and various forms of guarantees. As of September 30, 2024, our loan commitments were $10.2 billion, and letter of credit commitments were $238.7 million. A portion of the commitments will eventually result in funded loans and increase our profitability through net interest income when drawn and unused commitment fees prior to being drawn. Refer to Note 9 &#8211; Commitments and Contingencies for further information. Financing commitments, letters of credit and deferred purchase commitments are presented at contractual amounts and do not necessarily reflect future cash outflows as many are expected to expire unused or partially used. 
+
+Off-balance-Sheet Arrangements 
+
+&#160; 
+
+Information regarding Off-Balance-Sheet Arrangements is included in Note 9 of the Notes to Condensed Consolidated Financial Statements. 
+
+Concentrations of Credit Risk 
+
+Information regarding Concentrations of Credit Risk is included in Note 9 of the Notes to Condensed Consolidated Financial Statements. 
+
+Capital Resources 
+
+&#160; 
+
+Shareholders' equity as of September 30, 2024 was $5.3 billion, an increase of $278.8 million from December 31, 2023. The increase in shareholders' equity during the nine months ended September 30, 2024 was principally due to net income of $390.4 million and other comprehensive income of $106.3 million, partially offset by cash dividends paid of $227.4 million during the period. 
+
+The Company's dividend policy considers, among other things, earnings, regulatory capital levels, the overall payout ratio and expected asset growth to determine the amount of dividends declared, if any, on a quarterly basis. There is no assurance that future cash dividends on common shares will be declared or increased. We cannot predict the extent of the economic decline that could result in inadequate earnings, regulatory restrictions and limitations, changes to our capital requirements, or a decision to increase capital by retention of earnings, which may result in the inability to pay dividends at previous levels, or at all. 
+
+On August 12, 2024, Columbia declared a cash dividend in the amount of $0.36 per common share based on second quarter 2024 performance, which was paid on September 9, 2024. 
+
+The following table presents cash dividends declared and dividend payout ratios (dividends declared per common share divided by basic earnings per common share) for the periods indicated: &#160; Three Months Ended Nine Months Ended &#160; September 30, 2024 June 30, 2024 September 30, 2024 September 30, 2023 
+
+Dividend declared per common share 
+
+$ 0.36 $ 0.36 $ 1.08 $ 1.07 Dividend payout ratio 51 % 63 % 58 % 80 % 
+
+The Company is committed to managing capital to maintain strong protection for depositors and creditors and for maximum shareholder benefit. The Company also manages its capital to exceed regulatory capital requirements for banking organizations. The regulatory capital requirements effective for the Company follow Basel III, with the Company being subject to calculating its capital adequacy as a percentage of risk-weighted assets under the standardized approach. 
+
+In 2020, the federal bank regulatory authorities finalized a rule to provide banking organizations that implemented CECL in 2020 the option to delay the estimated impact on regulatory capital by up to two years, with a three-year transition period to phase out the cumulative benefit to regulatory capital provided during the two-year delay. The Company elected this capital relief to delay the estimated regulatory capital impact of adopting CECL, relative to the incurred loss methodology's effect on regulatory capital. Currently, the Company is phasing out the cumulative adjustment as calculated at the end of 2021, by adjusting it by 75% in 2022, 50% through 2023, and 25% in 2024, culminating with a fully phased in regulatory capital calculation beginning in 2025. All regulatory ratios exceeded regulatory &#8220;well-capitalized&#8221; requirements. 
+
+The following table shows the Company's consolidated and the Bank's capital adequacy ratios compared to the regulatory minimum capital ratio and the regulatory minimum capital ratio needed to qualify as a "well-capitalized" institution, as calculated under regulatory guidelines of the Basel III at the dates presented: 
+
+&#160; 
+
+Actual For Capital Adequacy purposes To be Well Capitalized 
+
+&#160; (dollars in thousands) &#160; 
+
+Amount Ratio Amount Ratio Amount Ratio September 30, 2024 &#160; &#160; &#160; &#160; &#160; &#160; Total Capital (to Risk Weighted Assets) &#160; &#160; &#160; &#160; Consolidated $ 4,991,018 12.54 % $ 3,183,799 8.00 % $ 3,979,749 10.00 % Umpqua Bank $ 4,857,473 12.21 % $ 3,183,486 8.00 % $ 3,979,357 10.00 % Tier I Capital (to Risk Weighted Assets) &#160; &#160; &#160; &#160; &#160; Consolidated $ 4,106,261 10.32 % $ 2,387,849 6.00 % $ 3,183,799 8.00 % Umpqua Bank $ 4,443,716 11.17 % $ 2,387,614 6.00 % $ 3,183,486 8.00 % Tier I Common (to Risk Weighted Assets) Consolidated $ 4,106,261 10.32 % $ 1,790,887 4.50 % $ 2,586,837 6.50 % Umpqua Bank $ 4,443,716 11.17 % $ 1,790,711 4.50 % $ 2,586,582 6.50 % Tier I Capital (to Average Assets) &#160; &#160; &#160; &#160; &#160; &#160; Consolidated $ 4,106,261 8.06 % $ 2,038,436 4.00 % $ 2,548,046 5.00 % Umpqua Bank $ 4,443,716 8.72 % $ 2,039,120 4.00 % $ 2,548,900 5.00 % December 31, 2023 &#160; &#160; &#160; &#160; &#160; &#160; Total Capital (to Risk Weighted Assets) &#160; &#160; &#160; Consolidated $ 4,770,335 11.86 % $ 3,218,301 8.00 % $ 4,022,876 10.00 % Umpqua Bank $ 4,653,920 11.57 % $ 3,217,821 8.00 % $ 4,022,276 10.00 % Tier I Capital (to Risk Weighted Assets) &#160; &#160; &#160; &#160; &#160; Consolidated $ 3,876,985 9.64 % $ 2,413,726 6.00 % $ 3,218,301 8.00 % Umpqua Bank $ 4,231,569 10.52 % $ 2,413,366 6.00 % $ 3,217,821 8.00 % Tier I Common (to Risk Weighted Assets) Consolidated $ 3,876,985 9.64 % $ 1,810,294 4.50 % $ 2,614,869 6.50 % Umpqua Bank $ 4,231,569 10.52 % $ 1,810,024 4.50 % $ 2,614,479 6.50 % Tier I Capital (to Average Assets) &#160; &#160; &#160; &#160; &#160; &#160; Consolidated $ 3,876,985 7.60 % $ 2,040,344 4.00 % $ 2,550,431 5.00 % Umpqua Bank $ 4,231,569 8.30 % $ 2,040,489 4.00 % $ 2,550,611 5.00 % 
+

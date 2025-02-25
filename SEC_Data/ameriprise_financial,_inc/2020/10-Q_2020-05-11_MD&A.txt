@@ -1,0 +1,5094 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis of our consolidated financial condition and results of operations should be read in conjunction with the &#8220;Forward-Looking Statements&#8221; that follow and our Consolidated Financial Statements and Notes presented in Item 1. Our Management&#8217;s Discussion and Analysis should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2019 , filed with the Securities and Exchange Commission (&#8220;SEC&#8221;) on February 26, 2020 (&#8220; 2019 10-K&#8221;), as well as our current reports on Form 8-K and other publicly available information. References below to &#8220;Ameriprise Financial,&#8221; &#8220;Ameriprise,&#8221; the &#8220;Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; and &#8220;our&#8221; refer to Ameriprise Financial, Inc. exclusively, to our entire family of companies, or to one or more of our subsidiaries. 
+
+Overview 
+
+Ameriprise Financial is a diversified financial services company with a more than 125-year history of providing financial solutions. We are a long-standing leader in financial planning and advice with $839 billion in assets under management and administration as of March 31, 2020 . We offer a broad range of products and services designed to achieve individual and institutional clients&#8217; financial objectives. 
+
+The coronavirus disease 2019 (&#8216;&#8216;COVID-19&#8217;&#8217;) pandemic presents ongoing significant economic and societal disruption and market volatility, which have known and yet to be seen impacts to our business and operating environment driven by significant volatility in the interest rate and equity markets and the potential associated implications to client activity. There are no reliable estimates of how long the pandemic will last, how many people are likely to be affected by it, or its impact on the overall economy. 
+
+We have implemented comprehensive strategies to address the operating environment spurred by the pandemic. To promote the safety and security of our employees and to assure the continuity of our business operations, we have implemented a work-from-home protocol for virtually all of our employee population, restricted business travel, and provided resources for complying with the guidance from the World Health Organization, the U.S. Centers for Disease Control and governments. We have been satisfying elevated customer service volumes and our operations teams have continued to operate successfully and without disruptions in service. Our pandemic strategy is flexible and scalable and takes into consideration that a pandemic could be widespread and may occur in multiple waves, affecting different communities at different times with varying levels of severity. 
+
+Our results of operations have been, and will likely continue to be, adversely affected by the COVID-19 pandemic. The uncertainty surrounding the magnitude, duration, speed and reach of the ongoing global pandemic, as well as actions that have been or could be taken by governmental authorities, clients or other third parties, present unknowns that are currently unfolding and will, as they occur, inform any further offsetting or other business adaptation strategies we may deploy. The pandemic and its accompanying impact on the global financial markets and on our operations and financial results will cause results not to be comparable to the same period in previous years. The results presented in this report are not necessarily indicative of future operating results. For further information regarding the impact of COVID-19, and any potentially material effects, please see Item 1A, &#8220;Risk Factors&#8221; in this report. 
+
+The products and services we provide retail clients and, to a lesser extent, institutional clients, are the primary source of our revenues and net income. Revenues and net income are significantly affected by investment performance and the total value and composition of assets we manage and administer for our retail and institutional clients as well as the distribution fees we receive from other companies. These factors, in turn, are largely determined by overall investment market performance and the depth and breadth of our individual client relationships. 
+
+Financial markets and macroeconomic conditions have had and will continue to have a significant impact on our operating and performance results. In addition, the business, political and regulatory environments in which we operate are subject to elevated uncertainty and substantial, frequent change, particularly given the ongoing COVID-19 pandemic. Accordingly, we expect to continue focusing on our key strategic objectives and obtaining operational and strategic leverage from our core capabilities. The success of these and other strategies may be affected by the factors discussed in &#8220;Item 1A. Risk Factors&#8221; in our 2019 10-K and other factors as discussed herein. 
+
+Equity price, credit market and interest rate fluctuations can have a significant impact on our results of operations, primarily due to the effects they have on the asset management and other asset-based fees we earn, the &#8220;spread&#8221; income generated on our fixed deferred annuities, fixed insurance, deposit products and the fixed portion of variable annuities and variable insurance contracts, the value of deferred acquisition costs (&#8220;DAC&#8221;) and deferred sales inducement costs (&#8220;DSIC&#8221;) assets, the values of liabilities for guaranteed benefits associated with our variable annuities and the values of derivatives held to hedge these benefits. 
+
+Earnings, as well as adjusted operating earnings, will be negatively impacted by the ongoing low interest rate environment should it continue. In addition to continuing spread compression in our interest sensitive product lines, a sustained low interest rate environment may result in increases to our reserves and changes in various rate assumptions we use to amortize DAC and DSIC, which may negatively impact our adjusted operating earnings. For additional discussion on our interest rate risk, see Item 3. &#8220;Quantitative and Qualitative Disclosures About Market Risk.&#8221; 
+
+AMERIPRISE FINANCIAL, INC. 
+
+On October 1 , 2019, we completed the sale of our Ameriprise Auto &#38; Home Insurance business (&#8220;AAH&#8221;) to American Family Insurance Mutual Holding Company (American Family Insurance). This sale is consistent with our focus on our core growth areas of Advice &#38; Wealth Management and Asset Management. 
+
+We consolidate certain variable interest entities for which we provide asset management services. These entities are defined as consolidated investment entities (&#8220;CIEs&#8221;). While the consolidation of the CIEs impacts our balance sheet and income statement, our exposure to these entities is unchanged and there is no impact to the underlying business results. For further information on CIEs, see Note 5 to our Consolidated Financial Statements. The results of operations of the CIEs are reflected in the Corporate &#38; Other segment. On a consolidated basis, the management fees we earn for the services we provide to the CIEs and the related general and administrative expenses are eliminated and the changes in the fair value of assets and liabilities related to the CIEs, primarily syndicated loans and debt, are reflected in net investment income. We include the fees from these entities in the management and financial advice fees line within our Asset Management segment. 
+
+While our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles (&#8220;GAAP&#8221;), management believes that adjusted operating measures, which exclude net realized investment gains or losses, net of the related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual; the market impact on variable annuity guaranteed benefits, net of hedges and the related DSIC and DAC amortization; the market impact on indexed universal life (&#8220;IUL&#8221;) benefits, net of hedges and the related DAC amortization, unearned revenue amortization and the reinsurance accrual; the market impact on fixed index annuity benefits, net of hedges and the related DAC amortization; mean reversion related impacts (the impact on variable annuity and VUL products for the difference between assumed and updated separate account investment performance on DAC, DSIC, unearned revenue amortization, reinsurance accrual and additional insurance benefit reserves); the market impact of hedges to offset interest rate changes on unrealized gains or losses for certain investments; gain or loss on disposal of a business that is not considered discontinued operations; integration and restructuring charges; income (loss) from discontinued operations; and the impact of consolidating CIEs, best reflect the underlying performance of our core operations and facilitate a more meaningful trend analysis. Management uses these non-GAAP measures to evaluate our financial performance on a basis comparable to that used by some securities analysts and investors. Also, certain of these non-GAAP measures are taken into consideration, to varying degrees, for purposes of business planning and analysis and for certain compensation-related matters. Throughout our Management&#8217;s Discussion and Analysis, these non-GAAP measures are referred to as adjusted operating measures. These non-GAAP measures should not be viewed as a substitute for U.S. GAAP measures. 
+
+It is management&#8217;s priority to increase shareholder value over a multi-year horizon by achieving our on-average, over-time financial targets. 
+
+Our financial targets are: 
+
+&#8226; 
+
+Adjusted operating earnings per diluted share growth of 12% to 15%, and 
+
+&#8226; 
+
+Adjusted operating return on equity excluding accumulated other comprehensive income (&#8220;AOCI&#8221;) of over 30%. 
+
+The following tables reconcile our GAAP measures to adjusted operating measures: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+Per Diluted Share 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+2020 
+
+&#160; 
+
+(in millions, except per share amounts) 
+
+Net income 
+
+$ 
+
+2,036 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+15.88 
+
+&#160; 
+
+$ 
+
+2.82 
+
+Less: Net income (loss) attributable to CIEs 
+
+(2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(0.02 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Add: Integration/restructuring charges (1) 
+
+&#160; 
+
+&#160; 
+
+0.01 
+
+&#160; 
+
+0.05 
+
+Add: Market impact on variable annuity guaranteed benefits (1) 
+
+(1,689 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(13.18 
+
+) 
+
+&#160; 
+
+1.02 
+
+Add: Market impact on fixed index annuity benefits (1) 
+
+(3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(0.02 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Add: Market impact on IUL benefits (1) 
+
+(91 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(0.71 
+
+) 
+
+&#160; 
+
+0.36 
+
+Add: Mean reversion related impacts (1) 
+
+&#160; 
+
+(36 
+
+) 
+
+&#160; 
+
+0.47 
+
+&#160; 
+
+(0.26 
+
+) 
+
+Add: Market impact of hedges on investments (1) 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+0.07 
+
+Less: Net realized investment gains &#160;(losses) &#160; (1) 
+
+(20 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(0.16 
+
+) 
+
+&#160; 
+
+0.06 
+
+Tax effect of adjustments (2) 
+
+&#160; 
+
+(35 
+
+) 
+
+&#160; 
+
+2.78 
+
+&#160; 
+
+(0.25 
+
+) 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+5.41 
+
+&#160; 
+
+$ 
+
+3.75 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Weighted average common shares outstanding: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Basic 
+
+126.4 
+
+&#160; 
+
+138.8 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Diluted 
+
+128.2 
+
+&#160; 
+
+140.1 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+(1) Pretax adjusted operating adjustments. 
+
+(2) Calculated using the statutory tax rate of 21%. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+The following table reconciles the trailing twelve months&#8217; sum of net income to adjusted operating earnings and the five-point average of quarter-end equity to adjusted operating equity: 
+
+&#160; 
+
+Twelve Months Ended March 31, 
+
+&#160; 
+
+(in millions) 
+
+Net income 
+
+$ 
+
+3,534 
+
+&#160; 
+
+$ 
+
+1,899 
+
+Less: Adjustments (1) 
+
+1,175 
+
+&#160; 
+
+(229 
+
+) 
+
+Adjusted operating earnings 
+
+$ 
+
+2,359 
+
+&#160; 
+
+$ 
+
+2,128 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total Ameriprise Financial, Inc. shareholders&#8217; equity 
+
+$ 
+
+6,058 
+
+&#160; 
+
+$ 
+
+5,704 
+
+Less: AOCI, net of tax 
+
+&#160; 
+
+(137 
+
+) 
+
+Total Ameriprise Financial, Inc. shareholders&#8217; equity, excluding AOCI 
+
+5,937 
+
+&#160; 
+
+5,841 
+
+Less: Equity impacts attributable to CIEs 
+
+&#160; 
+
+Adjusted operating equity 
+
+$ 
+
+5,936 
+
+&#160; 
+
+$ 
+
+5,840 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Return on equity, excluding AOCI 
+
+59.5 
+
+% 
+
+&#160; 
+
+32.5 
+
+% 
+
+Adjusted operating return on equity, excluding AOCI (2) 
+
+39.7 
+
+% 
+
+&#160; 
+
+36.4 
+
+% 
+
+(1) &#160; 
+
+Adjustments reflect the trailing twelve months&#8217; sum of after-tax net realized investment gains/losses, net of DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual; the market impact on variable annuity guaranteed benefits, net of hedges and related DSIC and DAC amortization; the market impact on IUL benefits, net of hedges and the related DAC amortization, unearned revenue amortization, and the reinsurance accrual; the market impact on fixed index annuity benefits, net of hedges and the related DAC amortization; mean reversion related impacts; the market impact of hedges to offset interest rate changes on unrealized gains or losses for certain investments; gain or loss on disposal of a business that is not considered discontinued operations; integration and restructuring charges; income (loss) from discontinued operations; and net income (loss) from consolidated investment entities. After-tax is calculated using the statutory tax rate of 21%. 
+
+(2) &#160; 
+
+Adjusted operating return on equity, excluding AOCI, is calculated using the trailing twelve months of adjusted operating earnings in the numerator, and Ameriprise Financial shareholders&#8217; equity, excluding AOCI and the impact of consolidating investment entities using a five-point average of quarter-end equity in the denominator. After-tax is calculated using the statutory tax rate of 21%. 
+
+Critical Accounting Estimates 
+
+The accounting and reporting policies that we use affect our Consolidated Financial Statements. Certain of our accounting and reporting policies are critical to an understanding of our consolidated results of operations and financial condition and, in some cases, the application of these policies can be significantly affected by the estimates, judgments and assumptions made by management during the preparation of our Consolidated Financial Statements. These accounting policies are discussed in detail in &#8220;Management&#8217;s Discussion and Analysis &#8212; Critical Accounting Estimates&#8221; in our 2019 10-K. 
+
+Recent Accounting Pronouncements 
+
+For information regarding recent accounting pronouncements and their expected impact on our future consolidated results of operations and financial condition, see Note 3 to our Consolidated Financial Statements. 
+
+Assets Under Management and Administration 
+
+Assets under management (&#8220;AUM&#8221;) include external client assets for which we provide investment management services, such as the assets of the Columbia Threadneedle Investments funds, institutional clients and clients in our advisor platform held in wrap accounts as well as assets managed by sub-advisors selected by us. AUM also includes certain assets on our Consolidated Balance Sheets for which we provide investment management services and recognize management fees in our Asset Management segment, such as the assets of the general account and the variable product funds held in the separate accounts of our life insurance subsidiaries and CIEs. These assets do not include assets under advisement, for which we provide advisory services such as model portfolios but do not have full discretionary investment authority. 
+
+Assets under administration (&#8220;AUA&#8221;) include assets for which we provide administrative services such as client assets invested in other companies&#8217; products that we offer outside of our wrap accounts. These assets include those held in clients&#8217; brokerage accounts. We generally record revenues received from administered assets as distribution fees. We do not exercise management discretion over these assets and do not earn a management fee. These assets are not reported on our Consolidated Balance Sheets. AUA also includes certain assets on our Consolidated Balance Sheets for which we do not provide investment management services and do not recognize management fees, such as investments in non-affiliated funds held in the separate accounts of our life insurance subsidiaries. These assets do not include assets under advisement, for which we provide advisory services such as model portfolios but do not have full discretionary investment authority. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+The following table presents detail regarding our AUM and AUA: 
+
+&#160; 
+
+March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(in billions) 
+
+&#160; 
+
+&#160; 
+
+Assets Under Management and Administration 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Advice &#38; Wealth Management AUM 
+
+$ 
+
+273.1 
+
+&#160; 
+
+$ 
+
+276.9 
+
+&#160; 
+
+$ 
+
+(3.8 
+
+) 
+
+&#160; 
+
+(1 
+
+)% 
+
+Asset Management AUM 
+
+426.2 
+
+&#160; 
+
+459.1 
+
+&#160; 
+
+(32.9 
+
+) 
+
+&#160; 
+
+(7 
+
+) 
+
+Eliminations 
+
+(27.9 
+
+) 
+
+&#160; 
+
+(28.3 
+
+) 
+
+&#160; 
+
+0.4 
+
+&#160; 
+
+Total Assets Under Management 
+
+671.4 
+
+&#160; 
+
+707.7 
+
+&#160; 
+
+(36.3 
+
+) 
+
+&#160; 
+
+(5 
+
+) 
+
+Total Assets Under Administration 
+
+167.7 
+
+&#160; 
+
+183.5 
+
+&#160; 
+
+(15.8 
+
+) 
+
+&#160; 
+
+(9 
+
+) 
+
+Total AUM and AUA 
+
+$ 
+
+839.1 
+
+&#160; 
+
+$ 
+
+891.2 
+
+&#160; 
+
+$ 
+
+(52.1 
+
+) 
+
+&#160; 
+
+(6 
+
+)% 
+
+Total AUM decreased $36.3 billion , or 5% , to $671.4 billion as of March 31, 2020 compared to $707.7 billion as of March 31, 2019 primarily due to market depreciation. Our average weighted equity index (&#8220;WEI&#8221;), which is a proxy for equity movements on AUM, was 9% higher for the three months ended March 31, 2020 compared to the prior year period. The average S&#38;P 500 was 13% higher in the first quarter of 2020 compared to the prior year period. The disconnect between the increase in the WEI and S&#38;P 500 was larger than usual, primarily due to the outperformance of the S&#38;P 500 compared to international and small cap indices. While the average equity markets were higher in the quarter than the prior year period, the ending equity markets were down significantly in the quarter, in part due to volatility related to the COVID-19 pandemic. Advice &#38; Wealth Management AUM decreased $3.8 billion , or 1% , compared to the prior year period driven by market depreciation, partially offset by wrap account net inflows. Asset Management AUM decreased $32.9 billion , or 7% compared to the prior year period driven by market depreciation, net outflows, retail fund distributions and a negative impact of foreign currency translation. See our segment results of operations discussion below for additional information on changes in our AUM. 
+
+Consolidated Results of Operations for the Three Months Ended March 31, 2020 and 2019 
+
+The following table presents our consolidated results of operations: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Management and financial advice fees 
+
+$ 
+
+1,770 
+
+&#160; 
+
+$ 
+
+1,627 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Distribution fees 
+
+&#160; 
+
+&#160; 
+
+(16 
+
+) 
+
+&#160; 
+
+(3 
+
+) 
+
+Net investment income 
+
+&#160; 
+
+&#160; 
+
+(69 
+
+) 
+
+&#160; 
+
+(17 
+
+) 
+
+Premiums 
+
+&#160; 
+
+&#160; 
+
+(280 
+
+) 
+
+&#160; 
+
+(75 
+
+) 
+
+Other revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenues 
+
+3,026 
+
+&#160; 
+
+3,153 
+
+&#160; 
+
+(127 
+
+) 
+
+&#160; 
+
+(4 
+
+) 
+
+Banking and deposit interest expense 
+
+&#160; 
+
+&#160; 
+
+(10 
+
+) 
+
+&#160; 
+
+(29 
+
+) 
+
+Total net revenues 
+
+3,001 
+
+&#160; 
+
+3,118 
+
+&#160; 
+
+(117 
+
+) 
+
+&#160; 
+
+(4 
+
+) 
+
+Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Distribution expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest credited to fixed accounts 
+
+&#160; 
+
+&#160; 
+
+(113 
+
+) 
+
+&#160; 
+
+(55 
+
+) 
+
+Benefits, claims, losses and settlement expenses 
+
+(1,747 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(2,417 
+
+) 
+
+&#160; 
+
+NM 
+
+Amortization of deferred acquisition costs 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+NM 
+
+Interest and debt expense 
+
+&#160; 
+
+&#160; 
+
+(7 
+
+) 
+
+&#160; 
+
+(13 
+
+) 
+
+General and administrative expense 
+
+&#160; 
+
+&#160; 
+
+(52 
+
+) 
+
+&#160; 
+
+(6 
+
+) 
+
+Total expenses 
+
+&#160; 
+
+2,648 
+
+&#160; 
+
+(1,998 
+
+) 
+
+&#160; 
+
+(75 
+
+) 
+
+Pretax income 
+
+2,351 
+
+&#160; 
+
+&#160; 
+
+1,881 
+
+&#160; 
+
+NM 
+
+Income tax provision 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+NM 
+
+Net income 
+
+$ 
+
+2,036 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+1,641 
+
+&#160; 
+
+NM 
+
+NM Not Meaningful. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Overall 
+
+Pretax income increased $1.9 billion to $2.4 billion for the three months ended March 31, 2020 compared to $470 million for the prior year period. The following impacts were significant drivers of the period-over-period change in pretax income: 
+
+&#8226; 
+
+The market impact on variable annuity guaranteed benefits (net of hedges and the related DSIC and DAC amortization) was a benefit of $1.7 billion for the three months ended March 31, 2020 compared to an expense of $142 million for the prior year period. 
+
+&#8226; 
+
+The market impact on IUL benefits (net of hedges and the related DAC amortization, unearned revenue amortization and the reinsurance accrual) was a benefit of $91 million for the three months ended March 31, 2020 compared to an expense of $51 million for the prior year period. 
+
+&#8226; 
+
+The mean reversion related impact was an expense of $61 million for the three months ended March 31, 2020 compared to a benefit of $36 million for the prior year period. 
+
+&#8226; 
+
+The market impact of hedges on investments was nil for the three months ended March 31, 2020 compared to an expense of $10 million for the prior year period. 
+
+&#8226; 
+
+A positive impact from higher average equity markets and increased client activity. 
+
+&#8226; 
+
+A negative impact on to both on-balance sheet and off-balance sheet brokerage cash and certificate earnings due to lower short-term interest rates. 
+
+&#8226; 
+
+A $27 million favorable change in the mark-to-market impact on share-based compensation expenses. 
+
+&#8226; 
+
+A $24 million unfavorable change in net realized investment gains/losses, net of the related DSIC and DAC amortization, unearned revenue amortization and the reinsurance accrual. 
+
+Net Revenues 
+
+Net revenues decreased $117 million , or 4% , to $3.0 billion for the three months ended March 31, 2020 compared to $3.1 billion for the prior year period. 
+
+Management and financial advice fees increased $143 million , or 9% , to $1.8 billion for the three months ended March 31, 2020 compared to $1.6 billion for the prior year period reflecting higher average equity markets and wrap account net inflows, partially offset by asset management net outflows and a $19 million performance fee correction. 
+
+Distribution fees decreased $16 million , or 3% , to $464 million for the three months ended March 31, 2020 compared to $480 million for the prior year period due to $51 million of lower fees on off-balance sheet brokerage cash primarily due to a decrease in short-term interest rates and variable annuity net outflows, partially offset by higher average equity markets and increased transactional activity. 
+
+Net investment income decreased $69 million , or 17% , to $328 million for the three months ended March 31, 2020 compared to $397 million for the prior year period primarily reflecting the following items: 
+
+&#8226; 
+
+Net realized investment losses of $19 million for the three months ended March 31, 2020 compared to net realized investment gains of $4 million for the prior year period. Net realized investment losses for the three months ended March 31, 2020 included a $23 million increase in allowance for credit losses for Available-for-Sale securities and financing receivables. On January 1, 2020, we adopted a new accounting standard for the measurement of credit losses on financial instruments. 
+
+&#8226; 
+
+The unfavorable impact of fixed annuity net outflows and the fixed annuities reinsurance transaction. 
+
+&#8226; 
+
+The unfavorable impact of lower interest rates. 
+
+&#8226; 
+
+The unfavorable market impact of hedges on investments of $10 million in the prior year period. 
+
+&#8226; 
+
+A decrease of $10 million due to the sale of AAH. 
+
+&#8226; 
+
+The favorable impact of higher invested assets related to the bank. 
+
+Premiums decreased $280 million , or 75% to $91 million for the three months ended March 31, 2020 compared to $371 million for the prior year primarily reflecting the sale of AAH. Premiums in the prior year period included $270 million from AAH. 
+
+Other revenues increased $95 million , or 34% , to $373 million for the three months ended March 31, 2020 compared to $278 million due to a $72 million favorable change in unearned revenue amortization and the reinsurance accrual offset to the market impact on IUL benefits, a favorable impact from the fixed annuities reinsurance transaction and higher fees on variable annuity living benefit riders. 
+
+Banking and deposit interest expense decreased $10 million , or 29% , to $25 million for the three months ended March 31, 2020 compared to $35 million due to lower average crediting rates on certificates and lower average certificate balances, partially offset by higher interest expense on banking deposits as deposits have grown since we launched the bank in the second quarter of 2019. 
+
+Expenses 
+
+Total expenses decreased $2.0 billion , or 75% , to $650 million for the three months ended March 31, 2020 compared to $2.6 billion for the prior year period. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Distribution expenses increased $95 million , or 11% , to $995 million for the three months ended March 31, 2020 compared to $900 million for the prior year period reflecting higher advisor compensation due to an increase in average wrap account balances and increased transactional activity. 
+
+Interest credited to fixed accounts decreased $113 million , or 55% , to $91 million for the three months ended March 31, 2020 compared to $204 million for the prior year period primarily reflecting the following items: 
+
+&#8226; 
+
+A $271 million decrease in expense from the unhedged nonperformance credit spread risk adjustment on IUL benefits. The favorable impact of the nonperformance credit spread was $234 million for the three months ended March 31, 2020 compared to an unfavorable impact of $37 million for the prior year period. As the estimate of the nonperformance credit spread over the LIBOR swap curve tightens or widens, the embedded derivative liability will increase or decrease. As the embedded derivative liability on which the nonperformance credit spread is applied increases (decreases), the impact of the nonperformance credit spread is favorable (unfavorable) to expense. The estimated nonperformance credit spread widened by 145 basis points in the quarter due to the recent market dislocation related to the COVID-19 pandemic, resulting in the favorable impact. 
+
+&#8226; 
+
+A $160 million increase in expense from other market impacts on IUL benefits, net of hedges, which was an expense of $166 million for the three months ended March 31, 2020 compared to an expense of $6 million for the prior year period. The increase in expense was primarily due to a decrease in the discount rate, excluding the nonperformance credit spread, used to value the liabilities. 
+
+Benefits, claims, losses and settlement expenses decreased $2.4 billion to a benefit of $1.7 billion for the three months ended March 31, 2020 compared to an expense of $670 million for the prior year period primarily reflecting the following items: 
+
+&#8226; 
+
+A $1.7 billion decrease in expense from the unhedged nonperformance credit spread risk adjustment on variable annuity guaranteed benefits. The favorable impact of the nonperformance credit spread was $1.6 billion for the three months ended March 31, 2020 compared to an unfavorable impact of $158 million for the prior year period. As the estimate of the nonperformance credit spread over the LIBOR swap curve tightens or widens, the embedded derivative liability will increase or decrease. As the embedded derivative liability on which the nonperformance credit spread is applied increases (decreases), the impact of the nonperformance credit spread is favorable (unfavorable) to expense. The estimated nonperformance credit spread widened by 145 basis points in the quarter due to the recent market dislocation related to the COVID-19 pandemic, resulting in the favorable impact. 
+
+&#8226; 
+
+A $528 million decrease in expense from other market impacts on variable annuity guaranteed benefits, net of hedges in place to offset those risks and the related DSIC amortization. This decrease was the result of a favorable $4.9 billion change in the market impact on derivatives hedging the variable annuity guaranteed benefits, an unfavorable $4.4 billion change in the market impact on variable annuity guaranteed living benefits reserves and a favorable $6 million change in the DSIC offset. The main market drivers contributing to these changes are summarized below: 
+
+&#8226; 
+
+Equity market impact on the variable annuity guaranteed living benefits liability net of the impact on the corresponding hedge assets resulted in a benefit for the three months ended March 31, 2020 compared to an expense for the prior year period. 
+
+&#8226; 
+
+Interest rate impact on the variable annuity guaranteed living benefits liability net of the impact on the corresponding hedge assets resulted in a benefit for the three months ended March 31, 2020 compared to an expense for the prior year period. 
+
+&#8226; 
+
+Volatility impact on the variable annuity guaranteed living benefits liability net of the impact on the corresponding hedge assets resulted in a higher expense for the three months ended March 31, 2020 compared to the prior year period. 
+
+&#8226; 
+
+Other unhedged items, including the difference between the assumed and actual underlying separate account investment performance, fixed income credit exposures, transaction costs and various behavioral items, were a net unfavorable impact compared to the prior year period. 
+
+&#8226; 
+
+A $226 million decrease in auto and home expenses reflecting the sale of AAH. 
+
+&#8226; 
+
+The mean reversion related impact was an expense of $24 million for the three months ended March 31, 2020 compared to a benefit of $16 million for the prior year period. 
+
+Amortization of DAC increased $496 million to $512 million for the three months ended March 31, 2020 compared to $16 million for the prior year period primarily reflecting the following items: 
+
+&#8226; 
+
+The DAC offset to the market impact on variable annuity guaranteed benefits was an expense of $384 million for the three months ended March 31, 2020 compared to a benefit of $28 million for the prior year period. 
+
+&#8226; 
+
+The DAC offset to the market impact on IUL benefits, net of hedges was an expense of $32 million for the three months ended March 31, 2020 compared to a benefit of $9 million for the prior year period. 
+
+&#8226; 
+
+The mean reversion related impact was an expense of $36 million for the three months ended March 31, 2020 compared to a benefit of $20 million for the prior year period. 
+
+&#8226; 
+
+A $14 million decrease in auto and home expenses reflecting the sale of AAH. 
+
+Interest and debt expense decreased $7 million , or 13% , to $46 million for the three months ended March 31, 2020 compared to $53 million for the prior year period primarily due to having less corporate debt outstanding than the year ago period and a decrease in interest expense of CIEs. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+General and administrative expense decreased $52 million , or 6% , to $753 million for the three months ended March 31, 2020 compared to $805 million for the prior year period primarily reflecting a $27 million favorable change in the mark-to-market impact on share-based compensation expenses and a $31 million decrease in auto and home expenses reflecting the sale of AAH, partially offset by investments for future growth. 
+
+Income Taxes 
+
+Our effective tax rate was 13.4% for the three months ended March 31, 2020 compared to 15.9% for the prior year period. The decrease in our effective tax rate for the quarter ended March 31, 2020 compared to the prior year period is primarily due to recent tax law changes that resulted in a $144 million tax benefit associated with the forecasted utilization of a 2020 net operating loss (&#8220;NOL&#8221;) in our life insurance entities that will be applied to previous tax filings, partially offset by higher pretax income in the current period compared to the prior year period. See Note 16 to our Consolidated Financial Statements for additional discussion on income taxes. 
+
+Results of Operations by Segment for the Three Months Ended March 31, 2020 and 2019 &#160; 
+
+Adjusted operating earnings is the measure of segment profit or loss management uses to evaluate segment performance. Adjusted operating earnings should not be viewed as a substitute for GAAP pretax income. We believe the presentation of segment adjusted operating earnings as we measure it for management purposes enhances the understanding of our business by reflecting the underlying performance of our core operations and facilitating a more meaningful trend analysis. See Note 19 to the Consolidated Financial Statements for further information on the presentation of segment results and our definition of adjusted operating earnings. 
+
+The following table presents summary financial information by segment: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+(in millions) 
+
+Advice &#38; Wealth Management 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net revenues 
+
+$ 
+
+1,695 
+
+&#160; 
+
+$ 
+
+1,554 
+
+Expenses 
+
+1,317 
+
+&#160; 
+
+1,204 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+Asset Management 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net revenues 
+
+$ 
+
+&#160; 
+
+$ 
+
+Expenses 
+
+&#160; 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+Annuities 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net revenues 
+
+$ 
+
+&#160; 
+
+$ 
+
+Expenses 
+
+&#160; 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+Protection 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net revenues 
+
+$ 
+
+&#160; 
+
+$ 
+
+Expenses 
+
+&#160; 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+Corporate &#38; Other 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net revenues 
+
+$ 
+
+&#160; 
+
+$ 
+
+Expenses 
+
+&#160; 
+
+Adjusted operating loss 
+
+$ 
+
+(50 
+
+) 
+
+&#160; 
+
+$ 
+
+(63 
+
+) 
+
+Advice &#38; Wealth Management 
+
+The following table presents the changes in wrap account assets and average balances for the three months ended March 31 : 
+
+&#160; 
+
+&#160; 
+
+(in billions) 
+
+Beginning balance 
+
+$ 
+
+317.5 
+
+&#160; 
+
+$ 
+
+251.5 
+
+Net flows 
+
+6.1 
+
+&#160; 
+
+4.3 
+
+Market appreciation (depreciation) and other 
+
+(48.1 
+
+) 
+
+&#160; 
+
+23.0 
+
+Ending balance 
+
+$ 
+
+275.5 
+
+&#160; 
+
+$ 
+
+278.8 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Advisory wrap account assets ending balance (1) 
+
+$ 
+
+272.3 
+
+&#160; 
+
+$ 
+
+276.1 
+
+Average advisory wrap account assets (2) 
+
+$ 
+
+301.4 
+
+&#160; 
+
+$ 
+
+265.1 
+
+(1) &#160; 
+
+Advisory wrap account assets represent those assets for which clients receive advisory services and are the primary driver of revenue earned on wrap accounts. Clients may hold non-advisory investments in their wrap accounts that do not incur an advisory fee. 
+
+(2) &#160; 
+
+Average ending balances are calculated using an average of the prior period&#8217;s ending balance and all months in the current period. 
+
+Wrap account assets decreased $42.0 billion, or 13%, during the three months ended March 31, 2020 due to market depreciation and other of $48.1 billion, partially offset by net inflows of $6.1 billion. Average advisory wrap account assets increased $36.3 billion, or 14%, compared to the prior year period reflecting net inflows and market appreciation in 2019, partially offset by market depreciation in the current quarter. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+The following table presents the changes in wrap account assets for the twelve months ended March 31 : 
+
+&#160; 
+
+&#160; 
+
+(in billions) 
+
+Beginning balance 
+
+$ 
+
+278.8 
+
+&#160; 
+
+$ 
+
+251.0 
+
+Net flows 
+
+19.4 
+
+&#160; 
+
+19.8 
+
+Market appreciation (depreciation) and other 
+
+(22.7 
+
+) 
+
+&#160; 
+
+8.0 
+
+Ending balance 
+
+$ 
+
+275.5 
+
+&#160; 
+
+$ 
+
+278.8 
+
+Wrap account assets decreased $3.3 billion, or 1%, from the prior year period primarily due to market depreciation, partially offset by net inflows. 
+
+The following table presents the results of operations of our Advice &#38; Wealth Management segment on an adjusted operating basis: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Management and financial advice fees 
+
+$ 
+
+1,024 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Distribution fees 
+
+&#160; 
+
+&#160; 
+
+(13 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Net investment income 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Other revenues 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+(6 
+
+) 
+
+Total revenues 
+
+1,720 
+
+&#160; 
+
+1,589 
+
+&#160; 
+
+&#160; 
+
+Banking and deposit interest expense 
+
+&#160; 
+
+&#160; 
+
+(10 
+
+) 
+
+&#160; 
+
+(29 
+
+) 
+
+Total net revenues 
+
+1,695 
+
+&#160; 
+
+1,554 
+
+&#160; 
+
+&#160; 
+
+Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Distribution expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest and debt expense 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(33 
+
+) 
+
+General and administrative expense 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total expenses 
+
+1,317 
+
+&#160; 
+
+1,204 
+
+&#160; 
+
+&#160; 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Our Advice &#38; Wealth Management segment pretax adjusted operating earnings, which exclude net realized investment gains or losses, increased $28 million , or 8% , to $378 million for the three months ended March 31, 2020 compared to $350 million for the prior year period due to higher average wrap account balances and increased transactional activity, partially offset by lower earnings on brokerage cash and higher general and administrative expense. Pretax adjusted operating margin was 22.3% for the three months ended March 31, 2020 compared to 22.5% for the prior year period. 
+
+We launched Ameriprise Bank, FSB in the second quarter of 2019 and continued to add deposits in the first quarter of 2020 , with a total of $6.2 billion of cash sweep balances as of March 31, 2020. In the third quarter of 2019, we purchased the existing Ameriprise portfolio of credit card accounts from a third-party bank. 
+
+Net Revenues 
+
+Net revenues exclude net realized investment gains or losses. Net revenues increased $141 million , or 9% , to $1.7 billion for the three months ended March 31, 2020 compared to $1.6 billion for the prior year period. Adjusted operating net revenue per advisor increased to $172,000 for the three months ended March 31, 2020, up 10%, from $156,000 for the prior year period. 
+
+Management and financial advice fees increased $146 million , or 17% , to $1.0 billion for the three months ended March 31, 2020 compared to $878 million for the prior year period primarily due to growth in average wrap account assets. Average advisory wrap account assets increased $36.4 billion, or 14%, compared to the prior year period reflecting net inflows and higher average equity markets. 
+
+Distribution fees decreased $13 million , or 2% , to $548 million for the three months ended March 31, 2020 compared to $561 million for the prior year period reflecting $51 million of lower fees on off-balance sheet brokerage cash due to a decrease in short-term interest rates more than offsetting an increase in brokerage cash balances, as well as increased transactional activity. 
+
+Net investment income, which excludes net realized investment gains or losses, increased $1 million , or 1% , to $100 million for the three months ended March 31, 2020 compared to $99 million for the prior year period primarily from higher average invested assets due to increased bank deposits, partially offset by lower certificate balances and lower average investment yields. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Banking and deposit interest expense decreased &#160; $10 million , or 29% , to $25 million for the three months ended March 31, 2020 compared to $35 million for the prior year period due to lower average crediting rates on certificates and lower average certificate balances, partially offset by higher interest expense on banking deposits as deposits have grown since we launched the bank in the second quarter of 2019. 
+
+Expenses 
+
+Total expenses increased $113 million , or 9% , to $1.3 billion for the three months ended March 31, 2020 compared to $1.2 billion for the prior year period. 
+
+Distribution expenses increased $100 million , or 11% , to $970 million for the three months ended March 31, 2020 compared to $870 million for the prior year period reflecting higher advisor compensation due to an increase in average wrap account balances, increased transactional activity and investments in recruiting experienced advisors, partially offset by lower mark-to-market impact on advisor deferred compensation expense. 
+
+General and administrative expense increased $14 million , or 4% , to $345 million for the three months ended March 31, 2020 compared to $331 million for the prior year period primarily due to investments in business growth, including the bank. 
+
+Asset Management 
+
+The following tables present the mutual fund performance of our retail Columbia Threadneedle Investments funds as of March 31 : 
+
+Columbia Mutual Fund Rankings in top 2 Lipper Quartiles 
+
+&#160; 
+
+Domestic Equity 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+International Equity 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Taxable Fixed Income 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+Tax Exempt Fixed Income 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+Asset Allocation Funds 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+Number of funds with 4 or 5 Morningstar star ratings 
+
+&#160; 
+
+Overall 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+&#160; 
+
+Percent of funds with 4 or 5 Morningstar star ratings 
+
+&#160; 
+
+Overall 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+Percent of assets with 4 or 5 Morningstar star ratings 
+
+&#160; 
+
+Overall 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+Mutual fund performance rankings are based on the performance of the Institutional Class for Columbia branded mutual funds. Only funds with Institutional Class shares are included. 
+
+Equal Weighted Rankings in Top 2 Quartiles: Counts the number of funds with above median ranking divided by the total number of funds. Asset size is not a factor. 
+
+Asset Weighted Rankings in Top 2 Quartiles: Sums the total assets of the funds with above median ranking divided by total assets of all funds. Funds with more assets will receive a greater share of the total percentage above or below median. 
+
+Threadneedle Retail Fund Rankings in Top 2 Morningstar Quartiles or Above Index Benchmark 
+
+&#160; 
+
+Equity 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+Fixed Income 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Allocation (Managed) Funds 
+
+Equal weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+Asset weighted 
+
+1 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+3 year 
+
+% 
+
+&#160; 
+
+% 
+
+&#160; 
+
+&#160; 
+
+5 year 
+
+% 
+
+&#160; 
+
+% 
+
+The performance of each fund is measured on a consistent basis against the most appropriate benchmark &#8211; a peer group of similar funds or an index. Prior period rankings have been adjusted to reflect foreign exchange forward and spot contract transactions executed by those funds, and also to include cash items, primarily fee rebates, that were previously excluded from the gross performance calculations. 
+
+Equal weighted: Counts the number of funds with above median ranking (if measured against peer group) or above index performance (if measured against an index) divided by the total number of funds. Asset size is not a factor. 
+
+Asset weighted: Sums the assets of the funds with above median ranking (if measured against peer group) or above index performance (if measured against an index) divided by the total sum of assets in the funds. Funds with more assets will receive a greater share of the total percentage above or below median or index. 
+
+Aggregated Allocation (Managed) Funds include funds that invest in other funds of the Threadneedle range including those funds that invest in both equity and fixed income. 
+
+Aggregated Threadneedle data includes funds on the Threadneedle platform sub-advised by Columbia Management as well as advisors not affiliated with Ameriprise Financial, Inc. 
+
+The following table presents global managed assets by type: 
+
+&#160; 
+
+March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+Average (1) 
+
+&#160; 
+
+Change 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+2020 
+
+&#160; 
+
+(in billions) 
+
+Equity 
+
+$ 
+
+210.5 
+
+&#160; 
+
+$ 
+
+250.7 
+
+&#160; 
+
+$ 
+
+(40.2 
+
+) 
+
+&#160; 
+
+(16 
+
+)% 
+
+&#160; 
+
+$ 
+
+246.8 
+
+&#160; 
+
+$ 
+
+244.0 
+
+&#160; 
+
+$ 
+
+2.8 
+
+&#160; 
+
+&#160;% 
+
+Fixed income 
+
+174.0 
+
+&#160; 
+
+166.1 
+
+&#160; 
+
+7.9 
+
+&#160; 
+
+&#160; 
+
+181.2 
+
+&#160; 
+
+164.5 
+
+&#160; 
+
+16.7 
+
+&#160; 
+
+Money market 
+
+5.0 
+
+&#160; 
+
+5.1 
+
+&#160; 
+
+(0.1 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+4.7 
+
+&#160; 
+
+5.0 
+
+&#160; 
+
+(0.3 
+
+) 
+
+&#160; 
+
+(6 
+
+) 
+
+Alternative 
+
+2.7 
+
+&#160; 
+
+3.2 
+
+&#160; 
+
+(0.5 
+
+) 
+
+&#160; 
+
+(16 
+
+) 
+
+&#160; 
+
+3.0 
+
+&#160; 
+
+3.1 
+
+&#160; 
+
+(0.1 
+
+) 
+
+&#160; 
+
+(3 
+
+) 
+
+Hybrid and other 
+
+34.0 
+
+&#160; 
+
+34.0 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+35.4 
+
+&#160; 
+
+33.5 
+
+&#160; 
+
+1.9 
+
+&#160; 
+
+Total managed assets 
+
+$ 
+
+426.2 
+
+&#160; 
+
+$ 
+
+459.1 
+
+&#160; 
+
+$ 
+
+(32.9 
+
+) 
+
+&#160; 
+
+(7 
+
+)% 
+
+&#160; 
+
+$ 
+
+471.1 
+
+&#160; 
+
+$ 
+
+450.1 
+
+&#160; 
+
+$ 
+
+21.0 
+
+&#160; 
+
+&#160;% 
+
+(1) Average ending balances are calculated using an average of the prior period&#8217;s ending balance and all months in the current period. 
+
+The following table presents the changes in global managed assets: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+(in billions) 
+
+Global Retail Funds 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Beginning assets 
+
+$ 
+
+287.5 
+
+&#160; 
+
+$ 
+
+247.9 
+
+Inflows 
+
+17.4 
+
+&#160; 
+
+11.6 
+
+Outflows 
+
+(20.0 
+
+) 
+
+&#160; 
+
+(15.1 
+
+) 
+
+Net VP/VIT fund flows 
+
+(0.8 
+
+) 
+
+&#160; 
+
+(0.8 
+
+) 
+
+Net new flows 
+
+(3.4 
+
+) 
+
+&#160; 
+
+(4.3 
+
+) 
+
+Reinvested dividends 
+
+0.5 
+
+&#160; 
+
+0.6 
+
+Net flows 
+
+(2.9 
+
+) 
+
+&#160; 
+
+(3.7 
+
+) 
+
+Distributions 
+
+(0.7 
+
+) 
+
+&#160; 
+
+(0.7 
+
+) 
+
+Market appreciation (depreciation) and other 
+
+(43.5 
+
+) 
+
+&#160; 
+
+24.1 
+
+Foreign currency translation &#160;(1) 
+
+(1.3 
+
+) 
+
+&#160; 
+
+0.4 
+
+Total ending assets 
+
+239.1 
+
+&#160; 
+
+268.0 
+
+AMERIPRISE FINANCIAL, INC. 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+(in billions) 
+
+Global Institutional 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Beginning assets 
+
+206.7 
+
+&#160; 
+
+182.8 
+
+Inflows 
+
+8.4 
+
+&#160; 
+
+5.3 
+
+Outflows 
+
+(8.0 
+
+) 
+
+&#160; 
+
+(8.8 
+
+) 
+
+Net flows 
+
+0.4 
+
+&#160; 
+
+(3.5 
+
+) 
+
+Market appreciation (depreciation) and other (2) 
+
+(16.6 
+
+) 
+
+&#160; 
+
+10.6 
+
+Foreign currency translation &#160;(1) 
+
+(3.4 
+
+) 
+
+&#160; 
+
+1.2 
+
+Total ending assets 
+
+187.1 
+
+&#160; 
+
+191.1 
+
+Total managed assets 
+
+$ 
+
+426.2 
+
+&#160; 
+
+$ 
+
+459.1 
+
+Total net flows 
+
+$ 
+
+(2.5 
+
+) 
+
+&#160; 
+
+$ 
+
+(7.2 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Former Parent Company Related (3) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Retail net new flows 
+
+$ 
+
+(0.2 
+
+) 
+
+&#160; 
+
+$ 
+
+(0.3 
+
+) 
+
+Institutional net new flows 
+
+(0.6 
+
+) 
+
+&#160; 
+
+(0.8 
+
+) 
+
+Total net new flows 
+
+$ 
+
+(0.8 
+
+) 
+
+&#160; 
+
+$ 
+
+(1.1 
+
+) 
+
+(1) Amounts represent local currency to US dollar translation for reporting purposes. 
+
+(2) Includes $1.9 billion and $(0.2) billion for the total change in Affiliated General Account Assets during the three months ended March 31, 2020 and 2019 , respectively. 
+
+(3) Former parent company related assets and net new flows are included in the rollforwards above. 
+
+The United Kingdom (&#8220;UK&#8221;) withdrew from the European Union (&#8220;EU&#8221;) on January 31, 2020, pursuant to a transitionary withdrawal agreement with the EU that in substance maintains the pre-withdrawal, status quo until the end of 2020. The full impact of the British exit from the EU (commonly known as &#8220;Brexit&#8221;) and its related consequences remain uncertain, including with respect to ongoing negotiations between the UK and EU and new trade agreements with global trading partners. This uncertainty may have a negative impact on our UK and European net flows (as well as foreign currency translation if the British Pound weakens). 
+
+Total segment AUM decreased $68.0 billion, or 14%, during the three months ended March 31, 2020 . Net outflows were $2.5 billion in the first quarter of 2020 , a $4.7 billion improvement compared to the prior year period. Elevated redemptions in March due to the market dislocation related to the COVID-19 pandemic resulted in net outflows for the quarter. Global retail outflows were $2.9 billion, as inflows in January and February reversed in March when redemptions increased. Global institutional net inflows were $0.4 billion and included $0.6 billion of outflows from former parent-related assets. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+The following table presents the results of operations of our Asset Management segment on an adjusted operating basis: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Management and financial advice fees 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160;% 
+
+Distribution fees 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Net investment income 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+(6 
+
+) 
+
+&#160; 
+
+NM 
+
+Other revenues 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+NM 
+
+Total revenues 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Banking and deposit interest expense 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total net revenues 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Distribution expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of deferred acquisition costs 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Interest and debt expense 
+
+&#160; 
+
+&#160; 
+
+(5 
+
+) 
+
+&#160; 
+
+(83 
+
+) 
+
+General and administrative expense 
+
+&#160; 
+
+&#160; 
+
+(17 
+
+) 
+
+&#160; 
+
+(5 
+
+) 
+
+Total expenses 
+
+&#160; 
+
+&#160; 
+
+(14 
+
+) 
+
+&#160; 
+
+(3 
+
+) 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+NM Not Meaningful. 
+
+Our Asset Management segment pretax adjusted operating earnings, which exclude net realized investment gains or losses, increased &#160; $11 million , or 8% , to $157 million for the three months ended March 31, 2020 compared to $146 million for the prior year period primarily due to higher average equity markets and lower expenses, partially offset by the cumulative impact of outflows and a $15 million net performance fee correction. 
+
+Net Revenues 
+
+Net revenues, which exclude net realized investment gains or losses, decreased $3 million to $686 million for the three months ended March 31, 2020 compared to $689 million for the prior year period. 
+
+Management and financial advice fees decreased $1 million to $583 million for the three months ended March 31, 2020 compared to $584 million for the prior year period driven by higher average equity markets, partially offset by cumulative net outflows and a $19 million performance fee correction. 
+
+Distribution fees increased $5 million , or 5% , to $103 million for the three months ended March 31, 2020 compared to $98 million for the prior year period primarily due to higher average equity markets, partially offset by cumulative impact of net outflows. 
+
+Net investment income, which excludes net realized investment gains or losses, decreased $6 million , to nil for the three months ended March 31, 2020 compared to $6 million for the prior year period primarily reflecting seed money mark-to-market gains in the prior year period . 
+
+Expenses 
+
+Total expenses decreased $14 million , or 3% , to $529 million for the three months ended March 31, 2020 compared to $543 million for the prior year period. 
+
+Distribution expenses increased $8 million , or 4% , to $231 million for the three months ended March 31, 2020 compared to $223 million for the prior year period primarily due to higher average equity markets, partially offset by the cumulative impact of net outflows. 
+
+General and administrative expense decreased $17 million , or 5% , to $294 million for the three months ended March 31, 2020 compared to $311 million for the prior year period primarily due to lower performance fee related compensation, a favorable change in the mark-to-market impact on share-based compensation expenses, and reengineering initiatives. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Annuities 
+
+The following table presents the results of operations of our Annuities segment on an adjusted operating basis: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Management and financial advice fees 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+Distribution fees 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(1 
+
+) 
+
+Net investment income 
+
+&#160; 
+
+&#160; 
+
+(30 
+
+) 
+
+&#160; 
+
+(19 
+
+) 
+
+Premiums 
+
+&#160; 
+
+&#160; 
+
+(9 
+
+) 
+
+&#160; 
+
+(26 
+
+) 
+
+Other revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total revenues 
+
+&#160; 
+
+&#160; 
+
+(15 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Banking and deposit interest expense 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total net revenues 
+
+&#160; 
+
+&#160; 
+
+(15 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Distribution expenses 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Interest credited to fixed accounts 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Benefits, claims, losses and settlement expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Amortization of deferred acquisition costs 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Interest and debt expense 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+General and administrative expense 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(33 
+
+) 
+
+&#160; 
+
+(26 
+
+)% 
+
+Our Annuities segment pretax adjusted operating earnings, which excludes net realized investment gains or losses (net of the related DSIC and DAC amortization), the market impact on variable annuity guaranteed benefits (net of hedges and the related DSIC and DAC amortization), the market impact on fixed index annuity benefits (net of hedges and the related DAC amortization) and mean reversion related impacts, decreased $33 million , or 26% , to $95 million for the three months ended March 31, 2020 compared to $128 million for the prior year period reflecting volatile markets and low interest rates. 
+
+RiverSource variable annuity account balances declined 9% to $70.0 billion as of March 31, 2020 compared to the prior year period reflecting net outflows of $3.0 billion and market depreciation. Variable annuity sales increased 24% compared to the prior year period reflecting changes to the product offerings. 
+
+RiverSource fixed deferred annuity account balances declined 5% to $8.2 billion as of March 31, 2020 compared to the prior year period as older policies continue to lapse and new sales are limited due to low interest rates. Given the current interest rate environment, our current fixed deferred annuity book is expected to gradually run off and earnings on our fixed deferred annuity business will trend down. We reinsured approximately 20% of our fixed annuities block during the first quarter of 2019. The reinsurance transaction has a marginal impact on fixed annuity adjusted pretax operating earnings. 
+
+Net Revenues 
+
+Management and financial advice fees increased $1 million , or 1% , to $189 million for the three months ended March 31, 2020 compared to $188 million for the prior year period primarily due to higher average variable annuity account balances driven by higher average equity markets, offset by net outflows. 
+
+Net investment income, which excludes net realized investment gains or losses, decreased $30 million , or 19% , to $126 million for the three months ended March 31, 2020 compared to $156 million for the prior year period reflecting lower average invested assets due to fixed annuity net outflows, an unfavorable impact related to the fixed annuities reinsurance transaction, and lower earned interest rates. 
+
+Premiums decreased $9 million , or 26% , to $25 million for the three months ended March 31, 2020 compared to $34 million for the prior year period reflecting lower sales of immediate annuities with a life contingent feature. 
+
+Other revenues increased $24 million , or 17% , to $166 million for the three months ended March 31, 2020 compared to $142 million for the prior year period primarily due to accretion on our fixed annuities reinsurance deposit receivable, additional collection days compared to the prior year period, and higher fees from variable annuity guarantee sales in the prior year where the fees start on the first anniversary date and higher average fee rates. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Expenses 
+
+Interest credited to fixed accounts increased $4 million , or 4% , to $113 million for the three months ended March 31, 2020 compared to $109 million for the prior year period primarily due to an increase in the average crediting rate due to a mix shift within the products, partially offset by a decline in fixed deferred annuity account balances. 
+
+Benefits , claims, losses and settlement expenses, which exclude the market impact on variable annuity guaranteed benefits (net of hedges and the related DSIC amortization), mean reversion related impacts, and the DSIC offset to net realized investment gains or losses, increased $9 million , or 5% , to $173 million for the three months ended March 31, 2020 compared to $164 million for the prior year period primarily due to higher reserve funding, partially offset by lower sales of immediate annuities with a life contingent feature. 
+
+Amortization of DAC, which excludes mean reversion related impacts, the DAC offset to the market impact on variable annuity guaranteed benefits and fixed index annuity benefits and the DAC offset to net realized investment gains or losses, increased $4 million , or 10% , to $46 million for the three months ended March 31, 2020 compared to $42 million for the prior year period primarily reflecting normal year over year experience differences for variable annuities. 
+
+Protection 
+
+The following table presents the results of operations of our Protection segment on an adjusted operating basis: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Management and financial advice fees 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(1 
+
+) 
+
+&#160; 
+
+(9 
+
+)% 
+
+Distribution fees 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(4 
+
+) 
+
+Net investment income 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+(3 
+
+) 
+
+Premiums 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Other revenues 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total revenues 
+
+&#160; 
+
+&#160; 
+
+(5 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Banking and deposit interest expense 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Total net revenues 
+
+&#160; 
+
+&#160; 
+
+(5 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Distribution expenses 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+(18 
+
+) 
+
+Interest credited to fixed accounts 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Benefits, claims, losses and settlement expenses 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+Amortization of deferred acquisition costs 
+
+&#160; 
+
+&#160; 
+
+(4 
+
+) 
+
+&#160; 
+
+(29 
+
+) 
+
+Interest and debt expense 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+General and administrative expense 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total expenses 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+Adjusted operating earnings 
+
+$ 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(2 
+
+) 
+
+&#160; 
+
+(3 
+
+)% 
+
+Our Protection segment pretax adjusted operating earnings, which excludes net realized investment gains or losses (net of the related DAC amortization, unearned revenue amortization and the reinsurance accrual), the market impact on IUL benefits (net of hedges and the related DAC amortization, unearned revenue amortization and the reinsurance accrual), and mean reversion related impacts, decreased $2 million , or 3% , to $72 million for the three months ended March 31, 2020 compared to $74 million for the prior year period. 
+
+Net Revenues 
+
+Net investment income, which excludes net realized investment gains or losses, decreased $2 million , or 3% , to $76 million for the three months ended March 31, 2020 compared to $78 million for the prior year period reflecting lower investment yields. 
+
+Expenses 
+
+Amortization of DAC decreased $4 million , or 29%, to $10 million for the three months ended March 31, 2020 compared to $14 million for the prior year period primarily reflecting a decrease in claims. 
+
+Corporate &#38; Other 
+
+The following table presents the results of operations of our Corporate &#38; Other segment on an adjusted operating basis: 
+
+&#160; 
+
+Three Months Ended March 31, 
+
+&#160; 
+
+Change 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+&#160; 
+
+Revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Management and financial advice fees 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(1 
+
+) 
+
+&#160; 
+
+NM 
+
+Distribution fees 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+NM 
+
+Net investment income 
+
+&#160; 
+
+&#160; 
+
+(12 
+
+) 
+
+&#160; 
+
+(27 
+
+)% 
+
+Premiums 
+
+&#160; 
+
+&#160; 
+
+(271 
+
+) 
+
+&#160; 
+
+(92 
+
+) 
+
+Other revenues 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+NM 
+
+Total revenues 
+
+&#160; 
+
+&#160; 
+
+(281 
+
+) 
+
+&#160; 
+
+(82 
+
+) 
+
+Banking and deposit interest expense 
+
+&#160; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+(50 
+
+) 
+
+Total net revenues 
+
+&#160; 
+
+&#160; 
+
+(280 
+
+) 
+
+&#160; 
+
+(82 
+
+) 
+
+Expenses 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Distribution expenses 
+
+(2 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(4 
+
+) 
+
+&#160; 
+
+NM 
+
+Benefits, claims, losses and settlement expenses 
+
+&#160; 
+
+&#160; 
+
+(225 
+
+) 
+
+&#160; 
+
+(80 
+
+) 
+
+Amortization of deferred acquisition costs 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+(14 
+
+) 
+
+&#160; 
+
+NM 
+
+Interest and debt expense 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+General and administrative expense 
+
+&#160; 
+
+&#160; 
+
+(50 
+
+) 
+
+&#160; 
+
+(53 
+
+) 
+
+Total expenses 
+
+&#160; 
+
+&#160; 
+
+(293 
+
+) 
+
+&#160; 
+
+(72 
+
+) 
+
+Adjusted operating loss 
+
+$ 
+
+(50 
+
+) 
+
+&#160; 
+
+$ 
+
+(63 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+&#160;% 
+
+NM Not Meaningful. 
+
+Our Corporate &#38; Other segment pretax adjusted operating loss excludes net realized investment gains or losses, the market impact of hedges to offset interest rate changes on unrealized gains or losses for certain investments, gain or loss on disposal of a business that is not considered discontinued operations, integration and restructuring charges, and the impact of consolidating CIEs. Our Corporate &#38; Other segment pretax adjusted operating loss decreased $13 million , or 21% , to $50 million for the three months ended March 31, 2020 compared to $63 million for the prior year period. 
+
+Our Corporate &#38; Other segment includes our closed block long term care (&#8220;LTC&#8221;) insurance, which had pretax adjusted operating earnings of $2 million for the three months ended March 31, 2020 compared to $6 million for the prior year period. 
+
+Auto and home pretax adjusted operating earnings were $9 million for the three months ended March 31, 2019. We sold AAH on October 1, 2019. 
+
+Net Revenues 
+
+Net investment income, which excludes net realized investment gains or losses, the market impact of hedges to offset interest rate changes on unrealized gains or losses for certain investments, integration and restructuring charges, and the impact of consolidating CIEs, decreased $12 million, or 27%, to $32 million for the three months ended March 31, 2020 compared to $44 million for the prior year period primarily reflecting the sale of AAH. 
+
+Premiums decreased $271 million , or 92% , to $25 million for the three months ended March 31, 2020 compared to $296 million for the prior year period primarily reflecting the sale of AAH. 
+
+Expenses 
+
+Benefits , claims, losses and settlement expenses decreased $225 million , or 80% , to $57 million for the three months ended March 31, 2020 compared to $282 million for the prior year period primarily reflecting the sale of AAH . 
+
+Amortization of DAC decreased $14 million to nil for the three months ended March 31, 2020 compared to $14 million for the prior year period reflecting the sale of AAH. 
+
+General and administrative expense, which excludes integration and restructuring charges, decreased $50 million , or 53% , to $45 million for the three months ended March 31, 2020 compared to $95 million for the prior year period primarily due to the sale of AAH, an $18 million favorable change in the mark-to-market impact on share-based compensation expenses and lower investment expenses. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Market Risk 
+
+Our primary market risk exposures are interest rate, equity price, foreign currency exchange rate and credit risk. Equity price and interest rate fluctuations can have a significant impact on our results of operations, primarily due to the effects they have on the asset management and other asset-based fees we earn, the spread income generated on our fixed deferred annuities, fixed insurance, brokerage client cash balances, banking deposits, face-amount certificate products and the fixed portion of our variable annuities and variable insurance contracts, the value of DAC and DSIC assets, the value of liabilities for guaranteed benefits associated with our variable annuities and the value of derivatives held to hedge these benefits. 
+
+Our earnings from fixed deferred annuities, fixed insurance, and the fixed portion of variable annuities and variable insurance contracts are based upon the spread between rates earned on assets held and the rates at which interest is credited to accounts. We primarily invest in fixed rate securities to fund the rate credited to clients. We guarantee an interest rate to the holders of these products. Investment assets and client liabilities generally differ as it relates to basis, repricing or maturity characteristics. Rates credited to clients&#8217; accounts generally reset at shorter intervals than the yield on the underlying investments. Therefore, in an increasing interest rate environment, higher interest rates may be reflected in crediting rates to clients sooner than in rates earned on invested assets, which could result in a reduced spread between the two rates, reduced earned income and a negative impact on pretax income. However, the current low interest rate environment is resulting in interest rates below the level of some of our liability guaranteed minimum interest rates (&#8220;GMIRs&#8221;). Hence, a modest rise in interest rates would not necessarily result in changes to all the liability credited rates while projected asset purchases would capture the full increase in interest rates. This dynamic would result in widening spreads under a modestly rising rate scenario given the current relationship between the current level of interest rates and the underlying GMIRs on the business. 
+
+As a result of the low interest rate environment, our current reinvestment yields are generally lower than the current portfolio yield. We expect our portfolio income yields to continue to decline in future periods if interest rates remain low. The carrying value and weighted average yield of non-structured fixed maturity securities and commercial mortgage loans that may generate proceeds to reinvest through September 30, 2021 due to prepayment, maturity or call activity at the option of the issuer, excluding securities with a make-whole provision, were $4.1 billion and 3.1%, respectively, as of March 31, 2020 . In addition, residential mortgage backed securities, which are subject to prepayment risk as a result of the low interest rate environment, totaled $9.7 billion and had a weighted average yield of 2.3% as of March 31, 2020 . While these amounts represent investments that could be subject to reinvestment risk, it is also possible that these investments will be used to fund liabilities or may not be prepaid and will remain invested at their current yields. In addition to the interest rate environment, the mix of benefit payments versus product sales as well as the timing and volumes associated with such mix may impact our investment yield. Furthermore, reinvestment activities and the associated investment yield may also be impacted by corporate strategies implemented at management&#8217;s discretion. The average yield for investment purchases during the three months ended March 31, 2020 was approximately 2.4%. 
+
+The reinvestment of proceeds from maturities, calls and prepayments at rates below the current portfolio yield, which may be below the level of some liability GMIRs, will have a negative impact to future operating results. To mitigate the unfavorable impact that the low interest rate environment has on our spread income, we assess reinvestment risk in our investment portfolio and monitor this risk in accordance with our asset/liability management framework. In addition, we may reduce the crediting rates on our fixed products when warranted, subject to guaranteed minimums. 
+
+In addition to the fixed rate exposures noted above, RiverSource Life has the following variable annuity guarantee benefits: guaranteed minimum withdrawal benefits (&#8220;GMWB&#8221;), guaranteed minimum accumulation benefits (&#8220;GMAB&#8221;), guaranteed minimum death benefits (&#8220;GMDB&#8221;) and guaranteed minimum income benefits (&#8220;GMIB&#8221;). Each of these benefits guarantees payouts to the annuity holder under certain specific conditions regardless of the performance of the underlying invested assets. 
+
+The variable annuity guarantees continue to be managed by utilizing a hedging program which attempts to match the sensitivity of the assets with the sensitivity of the liabilities. This approach works with the premise that matched sensitivities will produce a highly effective hedging result. Our comprehensive hedging program focuses mainly on first order sensitivities of assets and liabilities: Equity Market Level (Delta), Interest Rate Level (Rho) and Volatility (Vega). Additionally, various second order sensitivities are managed. We use various options, swaptions, swaps and futures to manage risk exposures. The exposures are measured and monitored daily, and adjustments to the hedge portfolio are made as necessary. 
+
+We have a macro hedge program to provide protection against the statutory tail scenario risk arising from variable annuity reserves on our statutory surplus and to cover some of the residual risks not covered by other hedging activities. We assess the residual risk under a range of scenarios in creating and executing the macro hedge program. As a means of economically hedging these risks, we may use a combination of futures, options, swaps and swaptions. Certain of the macro hedge derivatives used contain settlement provisions linked to both equity returns and interest rates; the remaining are interest rate contracts or equity contracts. The macro hedge program could result in additional earnings volatility as changes in the value of the macro hedge derivatives, which are designed to reduce statutory capital volatility, may not be closely aligned to changes in the variable annuity guarantee embedded derivatives. 
+
+To evaluate interest rate and equity price risk we perform sensitivity testing which measures the impact on pretax income from the sources listed below for a 12-month period following a hypothetical 100 basis point increase in interest rates or a hypothetical 10% decline in equity prices. The interest rate risk test assumes a sudden 100 basis point parallel shift in the yield curve, with rates then staying at those levels for the next 12 months. The equity price risk test assumes a sudden 10% drop in equity prices, with equity 
+
+AMERIPRISE FINANCIAL, INC. 
+
+prices then staying at those levels for the next 12 months. In estimating the values of variable annuities, fixed deferred indexed annuities, stock market certificates, IUL insurance and the associated hedge assets, we assume no change in implied market volatility despite the 10% drop in equity prices. 
+
+The following tables present our estimate of the impact on pretax income from the above defined hypothetical market movements as of March 31, 2020 : 
+
+Equity Price Decline 10% 
+
+&#160; 
+
+Equity Price Exposure to Pretax Income 
+
+&#160; 
+
+Before Hedge Impact 
+
+&#160; 
+
+Hedge Impact 
+
+&#160; 
+
+Net Impact 
+
+&#160; 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+Asset-based management and distribution fees (1) 
+
+&#160; 
+
+$ 
+
+(212 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(208 
+
+) 
+
+&#160; 
+
+DAC and DSIC amortization (2)(3) 
+
+&#160; 
+
+(25 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(25 
+
+) 
+
+&#160; 
+
+Variable annuities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GMDB and GMIB (3) 
+
+&#160; 
+
+(28 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(28 
+
+) 
+
+&#160; 
+
+GMWB (3) 
+
+&#160; 
+
+(644 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GMAB 
+
+&#160; 
+
+(39 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+Structured annuities 
+
+&#160; 
+
+&#160; 
+
+(6 
+
+) 
+
+&#160; 
+
+&#160; 
+
+DAC and DSIC amortization (4) 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+(16 
+
+) 
+
+&#160; 
+
+Total variable annuities 
+
+&#160; 
+
+(704 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Macro hedge program &#160;(5) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Fixed deferred indexed annuities 
+
+&#160; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+Certificates 
+
+&#160; 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+IUL insurance 
+
+&#160; 
+
+&#160; 
+
+(18 
+
+) 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+$ 
+
+(914 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(81 
+
+) 
+
+(6) &#160; 
+
+Interest Rate Increase 100 Basis Points 
+
+&#160; 
+
+Interest Rate Exposure to Pretax Income 
+
+&#160; 
+
+Before Hedge Impact 
+
+&#160; 
+
+Hedge Impact 
+
+&#160; 
+
+Net Impact 
+
+&#160; 
+
+&#160; 
+
+(in millions) 
+
+&#160; 
+
+Asset-based management and distribution fees &#160;(1) 
+
+&#160; 
+
+$ 
+
+(45 
+
+) 
+
+&#160; 
+
+$ 
+
+&#8212; 
+
+&#160; 
+
+$ 
+
+(45 
+
+) 
+
+&#160; 
+
+Variable annuities: 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+GMDB and GMIB 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+GMWB 
+
+&#160; 
+
+1,367 
+
+&#160; 
+
+(2,064 
+
+) 
+
+&#160; 
+
+(697 
+
+) 
+
+&#160; 
+
+GMAB 
+
+&#160; 
+
+&#160; 
+
+(36 
+
+) 
+
+&#160; 
+
+(11 
+
+) 
+
+&#160; 
+
+Structured annuities 
+
+&#160; 
+
+(3 
+
+) 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+DAC and DSIC amortization (4) 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+&#160; 
+
+Total variable annuities 
+
+&#160; 
+
+1,389 
+
+&#160; 
+
+(2,097 
+
+) 
+
+&#160; 
+
+(633 
+
+) 
+
+&#160; 
+
+Macro hedge program (5) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+(2 
+
+) 
+
+&#160; 
+
+Fixed annuities, fixed insurance and fixed portion of variable annuities and variable insurance products 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+Banking deposits 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+Brokerage client cash balances 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+Fixed deferred indexed annuities 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+(1 
+
+) 
+
+&#160; 
+
+Certificates 
+
+&#160; 
+
+&#160; 
+
+&#8212; 
+
+&#160; 
+
+&#160; 
+
+IUL insurance 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Total 
+
+&#160; 
+
+$ 
+
+1,686 
+
+&#160; 
+
+$ 
+
+(2,097 
+
+) 
+
+&#160; 
+
+$ 
+
+(336 
+
+) 
+
+&#160; 
+
+N/A Not Applicable. 
+
+&#160; 
+
+(1) Excludes incentive income which is impacted by market and fund performance during the period and cannot be readily estimated. 
+
+(2) Market impact on DAC and DSIC amortization resulting from lower projected profits. 
+
+(3) In estimating the impact to pretax income on DAC and DSIC amortization and additional insurance benefit reserves, our assumed equity asset growth rates reflect what management would follow in its mean reversion guidelines. 
+
+(4) Market impact on DAC and DSIC amortization related to variable annuity riders is modeled net of hedge impact. 
+
+(5) The market impact of the macro hedge program is modeled net of any related impact to DAC and DSIC amortization. 
+
+(6) Represents the net impact to pretax income. The estimated net impact to pretax adjusted operating income is approximately $(208) million. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+The above results compare to an estimated negative net impact to pretax income of $90 million related to a 10% equity price decline and an estimated positive net impact to pretax income of $37 million related to a 100 basis point increase in interest rates as of December 31, 2019 . The change in equity price exposure and interest rate exposure as of March 31, 2020 compared to December 31, 2019 was driven by a larger estimated negative impact from our variable annuity riders specifically GMWB. 
+
+Net impacts shown in the above table from GMWB riders result largely from differences between the liability valuation basis and the hedging basis. Liabilities are valued using fair value accounting principles, with risk margins incorporated in contractholder behavior assumptions and with discount rates increased to reflect a current market estimate of our risk of nonperformance specific to these liabilities. Our hedging is based on our determination of economic risk, which excludes certain items in the liability valuation including the nonperformance spread risk. 
+
+Actual results could differ materially from those illustrated above as they are based on a number of estimates and assumptions. These include assuming that implied market volatility does not change when equity prices fall by 10% and that the 100 basis point increase in interest rates is a parallel shift of the yield curve. Furthermore, we have not tried to anticipate changes in client preferences for different types of assets or other changes in client behavior, nor have we tried to anticipate all strategic actions management might take to increase revenues or reduce expenses in these scenarios. 
+
+The selection of a 100 basis point interest rate increase as well as a 10% equity price decline should not be construed as a prediction of future market events. Impacts of larger or smaller changes in interest rates or equity prices may not be proportional to those shown for a 100 basis point increase in interest rates or a 10% decline in equity prices. 
+
+Fair Value Measurements 
+
+We report certain assets and liabilities at fair value; specifically, separate account assets, derivatives, embedded derivatives and most investments and cash equivalents. Fair value assumes the exchange of assets or liabilities occurs in orderly transactions and is not the result of a forced liquidation or distressed sale. We include actual market prices, or observable inputs, in our fair value measurements to the extent available. Broker quotes are obtained when quotes from pricing services are not available. We validate prices obtained from third parties through a variety of means such as: price variance analysis, subsequent sales testing, stale price review, price comparison across pricing vendors and due diligence reviews of vendors. See Note 12 to the Consolidated Financial Statements for additional information on our fair value measurements. 
+
+Fair Value of Liabilities and Nonperformance Risk 
+
+Companies are required to measure the fair value of liabilities at the price that would be received to transfer the liability to a market participant (an exit price). Since there is not a market for our obligations of our variable annuity riders, indexed annuities and IUL insurance, we consider the assumptions participants in a hypothetical market would make to reflect an exit price. As a result, we adjust the valuation of variable annuity riders, indexed annuities and IUL insurance by updating certain contractholder assumptions, adding explicit margins to provide for profit, risk and expenses, and adjusting the rates used to discount expected cash flows to reflect a current market estimate of our nonperformance risk. The nonperformance risk adjustment is based on observable market data adjusted to estimate the risk of our life insurance company subsidiaries not fulfilling these liabilities. Consistent with general market conditions, this estimate resulted in a spread over the LIBOR swap curve as of March 31, 2020 . As our estimate of this spread widens or tightens, the liability will decrease or increase. If this nonperformance credit spread moves to a zero spread over the LIBOR swap curve, the reduction to future net income would be approximately $1.8 billion, net of DAC, DSIC, unearned revenue amortization, the reinsurance accrual and income taxes (calculated at the statutory tax rate of 21%), based on March 31, 2020 credit spreads. 
+
+Liquidity and Capital Resources 
+
+Overview 
+
+We maintained substantial liquidity during the three months ended March 31, 2020 . At March 31, 2020 and December 31, 2019 , we had $8.7 billion and $3.7 billion , respectively, in cash and cash equivalents excluding CIEs and other restricted cash on a consolidated basis. We have additional liquidity available to the parent company through an unsecured revolving credit facility for up to $750 million that expires in October 2022. Under the terms of the credit agreement, we can increase this facility to $1.0 billion upon satisfaction of certain approval requirements. Available borrowings under this facility are reduced by any outstanding letters of credit. At March 31, 2020 , we had no outstanding borrowings under this credit facility and had $1 million of outstanding letters of credit. Our credit facility contains various administrative, reporting, legal and financial covenants. We were in compliance with all such covenants at March 31, 2020 . 
+
+O n April 2, 2020, we issued $500 million of 3.0% unsecured senior notes due 2025 and incurred debt issuance costs of $4 million. The net proceeds from the sale of the notes will be used for general corporate purposes. 
+
+We enter into short-term borrowings, which may include repurchase agreements and Federal Home Loan Bank (&#8220;FHLB&#8221;) advances, to reduce reinvestment risk. Short-term borrowings allow us to receive cash to reinvest in longer-duration assets, while maintaining 
+
+AMERIPRISE FINANCIAL, INC. 
+
+the flexibility to pay back the short-term debt with cash flows generated by the fixed income portfolio. Our subsidiaries, RiverSource Life Insurance Company (&#8220;RiverSource Life&#8221;), and Ameriprise Bank, FSB are members of the FHLB of Des Moines, which provides access to collateralized borrowings. We had $200 million and $201 million of borrowings from the FHLB, which is collateralized with commercial mortgage backed securities, as of March 31, 2020 and December 31, 2019 , respectively. We believe cash flows from operating activities, available cash balances and our availability of revolver borrowings will be sufficient to fund our operating liquidity needs. 
+
+Dividends from Subsidiaries 
+
+Ameriprise Financial is primarily a parent holding company for the operations carried out by our wholly owned subsidiaries. Because of our holding company structure, our ability to meet our cash requirements, including the payment of dividends on our common stock, substantially depends upon the receipt of dividends or return of capital from our subsidiaries, particularly our life insurance subsidiary, RiverSource Life, our face-amount certificate subsidiary, Ameriprise Certificate Company (&#8220;ACC&#8221;), AMPF Holding Corporation, which is the parent company of our retail introducing broker-dealer subsidiary, Ameriprise Financial Services, LLC (&#8220;AFS&#8221;) and our clearing broker-dealer subsidiary, American Enterprise Investment Services, Inc. (&#8220;AEIS&#8221;), our transfer agent subsidiary, Columbia Management Investment Services Corp., our investment advisory company, Columbia Management Investment Advisers, LLC, and Ameriprise International Holdings GmbH, which is the parent company of Threadneedle Asset Management Holdings S&#224;rl. The payment of dividends by many of our subsidiaries is restricted and certain of our subsidiaries are subject to regulatory capital requirements. 
+
+Actual capital and regulatory capital requirements for our wholly owned subsidiaries subject to regulatory capital requirements were as follows: 
+
+&#160; 
+
+Actual Capital 
+
+&#160; 
+
+Regulatory Capital Requirements 
+
+March 31, 2020 
+
+&#160; 
+
+December 31, 2019 
+
+March 31, 2020 
+
+&#160; 
+
+December 31, 2019 
+
+(in millions) 
+
+RiverSource Life (1)(2) 
+
+$ 
+
+3,548 
+
+&#160; 
+
+$ 
+
+2,924 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+$ 
+
+RiverSource Life of NY (1)(2) 
+
+&#160; 
+
+&#160; 
+
+N/A 
+
+&#160; 
+
+ACC (4)(5) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Threadneedle Asset Management Holdings S&#224;rl (6) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Ameriprise Bank, FSB (4) (7) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+AFS (3)(4) 
+
+&#160; 
+
+&#160; 
+
+# 
+
+&#160; 
+
+# 
+
+Ameriprise Captive Insurance Company (3) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Ameriprise Trust Company (3) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+AEIS (3)(4) 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+RiverSource Distributors, Inc. (3)(4) 
+
+&#160; 
+
+&#160; 
+
+# 
+
+&#160; 
+
+# 
+
+Columbia Management Investment Distributors, Inc. (3)(4) 
+
+&#160; 
+
+&#160; 
+
+# 
+
+&#160; 
+
+# 
+
+N/A Not applicable. # Amounts are less than $1 million. 
+
+(1) &#160; 
+
+Actual capital is determined on a statutory basis. 
+
+(2) &#160; 
+
+Regulatory capital requirement is the company action level and is based on the statutory risk-based capital filing. 
+
+(3) &#160; 
+
+Regulatory capital requirement is based on the applicable regulatory requirement, calculated as of March 31, 2020 and December 31, 2019 . 
+
+(4) &#160; 
+
+Actual capital is determined on an adjusted GAAP basis. 
+
+(5) &#160; 
+
+ACC is required to hold capital in compliance with the Minnesota Department of Commerce and SEC capital requirements. 
+
+(6) &#160; 
+
+Actual capital and regulatory capital requirements are determined in accordance with U.K. regulatory legislation. The regulatory capital requirements at March 31, 2020 represent calculations at December 31, 2019 of the rule based requirements, as specified by FCA regulations. 
+
+(7) &#160; 
+
+Regulatory capital requirement is based on minimum requirements for well capitalized banks in accordance with the Office of the Comptroller of the Currency (&#8220;OCC&#8221;). 
+
+In addition to the particular regulations restricting dividend payments and establishing subsidiary capitalization requirements, we take into account the overall health of the business, capital levels and risk management considerations in determining a strategy for payments to our parent holding company from our subsidiaries, and in deciding to use cash to make capital contributions to our subsidiaries. 
+
+During the three months ended March 31, 2020 , the parent holding company received cash dividends or a return of capital from its subsidiaries of $510 million (including $250 million from RiverSource Life) and contributed cash to its subsidiaries of $141 million (including $100 million to Ameriprise Bank, FSB). During the three months ended March 31, 2019 , the parent holding company received cash dividends or a return of capital from its subsidiaries of $543 million (including $250 million from RiverSource Life) and contributed $17 million to its subsidiaries. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+In 2009, RiverSource established an agreement to protect its exposure to Genworth Life Insurance Company (&#8220;GLIC&#8221;) for its reinsured LTC. In 2016, substantial enhancements to this reinsurance protection agreement were finalized. The terms of these confidential provisions within the agreement have been shared, in the normal course of regular reviews, with our domiciliary regulator and rating agencies. GLIC is domiciled in Delaware so in the event GLIC were subjected to rehabilitation or insolvency proceedings, such proceedings would be located in (and governed by) Delaware laws. Delaware courts have a long tradition of respecting commercial and reinsurance affairs as well as contracts among sophisticated parties. Similar credit protections to what we have with GLIC have been tested and respected in Delaware and elsewhere in the United States, and as a result we believe our credit protections would be respected even in the unlikely event that GLIC becomes subject to rehabilitation or insolvency proceedings in Delaware. Accordingly, while no credit protections are perfect, we believe the correct way to think about the risks represented by our counterparty credit exposure to GLIC is not the full amount of the gross liability that GLIC reinsures, but a much smaller net exposure to GLIC (if any that might exist after taking into account our credit protections). Thus, management believes that our agreement and offsetting non LTC legacy arrangements with Genworth will enable RiverSource to recover on all net exposure in all material respects in the event of a rehabilitation or insolvency of GLIC. 
+
+Dividends Paid to Shareholders and Share Repurchases 
+
+We paid regular quarterly dividends to our shareholders totaling $126 million and $127 million for the three months ended March 31, 2020 and 2019 , respectively. On May 6, 2020, we announced a quarterly dividend of $1.04 per common share. The dividend will be paid on May 29, 2020 to our shareholders of record at the close of business on May 18, 2020. 
+
+In February 2019, our Board of Directors authorized us to repurchase up to $2.5 billion of our common stock through March 31, 2021. As of March 31, 2020, we had $724 million remaining under this share repurchase authorization. We intend to fund share repurchases through existing working capital, future earnings and other customary financing methods. The share repurchase program does not require the purchase of any minimum number of shares, and depending on market conditions and other factors, these purchases may be commenced or suspended at any time without prior notice. Acquisitions under the share repurchase program may be made in the open market, through privately negotiated transactions or block trades or other means. During the three months ended March 31, 2020 , we repurchased a total of 2.5 million shares of our common stock at an average price of $153.76 per share. We paused our share repurchases in mid-March 2020 out of an abundance of caution given the volatile market environment. We have strong fundamentals that will enable us to resume share repurchases at the appropriate time. 
+
+Cash Flows 
+
+Cash flows of CIEs and restricted and segregated cash and cash equivalents are reflected in our cash flows provided by (used in) operating activities, investing activities and financing activities. Cash held by CIEs is not available for general use by Ameriprise Financial, nor is Ameriprise Financial cash available for general use by its CIEs. Cash and cash equivalents segregated under federal and other regulations is held for the exclusive benefit of our brokerage customers and is not available for general use by Ameriprise Financial. 
+
+Operating Activities 
+
+Net cash provided by operating activities increased $4.7 billion to $4.9 billion for the three months ended March 31, 2020 compared to $172 million for the prior year period primarily reflecting a $642 million increase in cash from changes in brokerage deposits and an increase in cash collateral related to derivatives. 
+
+Investing Activities 
+
+Our investing activities primarily relate to our Available-for-Sale investment portfolio. Further, this activity is significantly affected by the net flows of our investment certificate, fixed annuity and universal life products reflected in financing activities. 
+
+Net cash used in investing activities decreased $441 million to $40 million for the three months ended March 31, 2020 compared to $481 million for the prior year period primarily reflecting a $541 million increase in proceeds from sales of Available-for-Sale securities, a $64 million increase in proceeds from maturities, sinking fund payments and calls of Available-for-Sale securities, a $79 million increase in net cash flows related to investments of consolidated investment entities and a $374 million increase to cash related to the fixed annuities reinsurance arrangement partially offset by a $444 million increase in cash used for purchases of Available-for-Sale securities and a $156 million decrease to cash related to written options with deferred premiums. 
+
+Financing Activities 
+
+Net cash provided by financing activities increased $337 million to $628 million for the three months ended March 31, 2020 compared to $291 million for the prior year period primarily reflecting a $2.4 billion increase in net cash inflows from banking deposits partially offset by a repayment of $750 million of our senior notes in March 2020, a $419 million decrease in cash proceeds from investment certificates, a $253 million decrease in net cash flows related to policyholder account balances, a $497 million decrease in issuances of long-term debt and a $95 million increase in share repurchases. 
+
+Contractual Commitments 
+
+There have been no material changes to our contractual obligations disclosed in our 2019 10-K. &#160; 
+
+Off-Balance Sheet Arrangements 
+
+We provide asset management services to investment entities which are considered to be VIEs, such as CLOs, hedge funds, property funds and other private funds, which are sponsored by us. We consolidate certain CLOs. We have determined that consolidation is not required for hedge funds, property funds and other private funds, which are sponsored by us. Our maximum exposure to loss with respect to our investment in these non-consolidated entities is limited to our carrying value. We have no obligation to provide further financial or other support to these investment entities nor have we provided any support to these investment entities. See Note 5 to our Consolidated Financial Statements for additional information on our arrangements with these investment entities. 
+
+AMERIPRISE FINANCIAL, INC. 
+
+Forward-Looking Statements 
+
+This report contains forward-looking statements that reflect management&#8217;s plans, estimates and beliefs. Actual results could differ materially from those described in these forward-looking statements. Examples of such forward-looking statements include: 
+
+&#8226; 
+
+statements of the Company&#8217;s plans, intentions, positioning, expectations, objectives or goals, including those relating to asset flows, mass affluent and affluent client acquisition strategy, client retention and growth of our client base, financial advisor productivity, retention, recruiting and enrollments, the introduction, cessation, terms or pricing of new or existing products and services, acquisition integration, benefits and claims expenses, general and administrative costs, consolidated tax rate, return of capital to shareholders, debt repayment and excess capital position and financial flexibility to capture additional growth opportunities; 
+
+&#8226; 
+
+statements of the Company&#8217;s position, future performance and ability to pursue business strategy relative to the spread and impact of the COVID-19 pandemic and the related market, economic, client, governmental and healthcare system response; 
+
+&#8226; 
+
+other statements about future economic performance, the performance of equity markets and interest rate variations and the economic performance of the United States and of global markets; and 
+
+&#8226; 
+
+statements of assumptions underlying such statements. 
+
+The words &#8220;believe,&#8221; &#8220;expect,&#8221; &#8220;anticipate,&#8221; &#8220;optimistic,&#8221; &#8220;intend,&#8221; &#8220;plan,&#8221; &#8220;aim,&#8221; &#8220;will,&#8221; &#8220;may,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;likely,&#8221; &#8220;forecast,&#8221; &#8220;on track,&#8221; &#8220;project,&#8221; &#8220;continue,&#8221; &#8220;able to remain,&#8221; &#8220;resume,&#8221; &#8220;deliver,&#8221; &#8220;develop,&#8221; &#8220;evolve,&#8221; &#8220;drive,&#8221; &#8220;enable,&#8221; &#8220;flexibility,&#8221; &#8220;scenario,&#8221; &#8220;case&#8221; and similar expressions are intended to identify forward-looking statements but are not the exclusive means of identifying such statements. Forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from such statements. 
+
+Such factors include, but are not limited to: 
+
+&#8226; 
+
+the impacts on our business of the spread and impact of the COVID-19 pandemic and the related economic, client, governmental and healthcare system responses; 
+
+&#8226; 
+
+conditions in the interest rate, credit default, equity market and foreign exchange environments, including changes in valuations, liquidity and volatility; 
+
+&#8226; 
+
+uncertainty as to the timing of launching the Company&#8217;s federal savings bank products; 
+
+&#8226; 
+
+changes in and the adoption of relevant accounting standards and securities rating agency standards and processes, as well as changes in the litigation and regulatory environment, including ongoing legal proceedings and regulatory actions, the frequency and extent of legal claims threatened or initiated by clients, other persons and regulators, and developments in regulation and legislation, including the rules and regulations implemented or that may be implemented or modified in connection with the Dodd-Frank Wall Street Reform and Consumer Protection Act , bank holding company laws and regulations or in light of the U.S. Department of Labor&#8217;s fiduciary regulations (as well as state and other fiduciary rules, the SEC best interest standards, or similar standards such as the Certified Financial Planner Board standards) pertaining to the fiduciary status of investment advice providers to 401(k) plans, plan sponsors, plan participants and the holders of individual retirement or health savings accounts and related issues; 
+
+&#8226; 
+
+investment management performance and distribution partner and consumer acceptance of the Company&#8217;s products; 
+
+&#8226; 
+
+effects of competition in the financial services industry, including pricing pressure, the introduction of new products and services and changes in product distribution mix and distribution channels; 
+
+&#8226; 
+
+changes to the Company&#8217;s reputation that may arise from employee or advisor misconduct, legal or regulatory actions, cybersecurity incidents, perceptions of the financial services industry generally, improper management of conflicts of interest or otherwise; 
+
+&#8226; 
+
+the Company&#8217;s capital structure, including indebtedness, limitations on subsidiaries to pay dividends, and the extent, manner, terms and timing of any share or debt repurchases management may effect as well as the opinions of rating agencies and other analysts and the reactions of market participants or the Company&#8217;s regulators, advisors, distribution partners or customers in response to any change or prospect of change in any such opinion; 
+
+&#8226; 
+
+changes to the availability and cost of liquidity and the Company&#8217;s credit capacity that may arise due to shifts in market conditions, the Company&#8217;s credit ratings and the overall availability of credit; 
+
+&#8226; 
+
+risks of default, capacity constraint or repricing by issuers or guarantors of investments the Company owns or by counterparties to hedge, derivative, insurance or reinsurance arrangements or by manufacturers of products the Company distributes, experience deviations from the Company&#8217;s assumptions regarding such risks, the evaluations or the prospect of changes in evaluations of any such third parties published by rating agencies or other analysts, and the reactions of other market participants or the Company&#8217;s regulators, advisors, distribution partners or customers in response to any such evaluation or prospect of changes in evaluation; 
+
+&#8226; 
+
+experience deviations from the Company&#8217;s assumptions regarding morbidity, mortality, persistency and premium rate increases in certain annuity and insurance products (including, but not limited to, variable annuities and long term care policies), or from assumptions regarding market returns assumed in valuing or unlocking DAC and DSIC or market volatility underlying the Company&#8217;s valuation and hedging of guaranteed benefit annuity riders, or from assumptions regarding interest rates or asset yield assumed in the Company's loss recognition testing of its long term care business, or from assumptions regarding anticipated claims and losses relating to the Company&#8217;s auto and home insurance products; 
+
+&#8226; 
+
+changes in capital requirements that may be indicated, required or advised by regulators or rating agencies; 
+
+AMERIPRISE FINANCIAL, INC. 
+
+&#8226; 
+
+the impacts of the Company&#8217;s efforts to improve distribution economics and to grow third-party distribution of its products; 
+
+&#8226; 
+
+the ability to pursue and complete strategic transactions and initiatives, including acquisitions, divestitures, restructurings, joint ventures and the development of new products and services; 
+
+&#8226; 
+
+the ability to realize the financial, operating and business fundamental benefits of strategic transactions and initiatives the Company has completed, is pursuing or may pursue in the future, which may be impacted by the ability to obtain regulatory approvals, the ability to effectively manage related expenses and by market, business partner and consumer reactions to such strategic transactions and initiatives; 
+
+&#8226; 
+
+the ability and timing to realize savings and other benefits from re-engineering and tax planning; 
+
+&#8226; 
+
+interruptions or other failures in the Company&#8217;s communications, technology and other operating systems, including errors or failures caused by third-party service providers, interference or failures caused by third party attacks on the Company&#8217;s systems (or other cybersecurity incidents), or the failure to safeguard the privacy or confidentiality of sensitive information and data on such systems; and 
+
+&#8226; 
+
+general economic and political factors, including consumer confidence in the economy and the financial industry, the ability and inclination of consumers generally to invest as well as their ability and inclination to invest in financial instruments and products other than cash and cash equivalents, the costs of products and services the Company consumes in the conduct of its business, and applicable legislation and regulation and changes therein (such as the ongoing negotiations in connection with UK&#8217;s membership in the European Union), including tax laws, tax treaties, fiscal and central government treasury policy, and policies regarding the financial services industry and publicly-held firms, and regulatory rulings and pronouncements. 
+
+Management cautions the reader that the foregoing list of factors is not exhaustive. There may also be other risks that management is unable to predict at this time that may cause actual results to differ materially from those in forward-looking statements. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date on which they are made. Management undertakes no obligation to update publicly or revise any forward-looking statements. The foregoing list of factors should be read in conjunction with the &#8220;Risk Factors&#8221; discussion included in Part I, Item 1A of our 2019 10-K and &#8220;Item 1A. Risk Factors&#8221; in this Form 10-Q. 
+
+Ameriprise Financial announces financial and other information to investors through the Company&#8217;s investor relations website at ir.ameriprise.com, as well as SEC filings, press releases, public conference calls and webcasts. Investors and others interested in the company are encouraged to visit the investor relations website from time to time, as information is updated and new information is posted. The website also allows users to sign up for automatic notifications in the event new materials are posted. The information found on the website is not incorporated by reference into this report or in any other report or document the Company furnishes or files with the SEC. 
+

@@ -1,0 +1,674 @@
+ ITEM 2. &#8211; MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+In this Report, the words &#8220;Synovus,&#8221; &#8220;the Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; and &#8220;our&#8221; refer to Synovus Financial Corp. together with Synovus Bank and Synovus' other wholly-owned subsidiaries, except where the context requires otherwise. 
+
+FORWARD-LOOKING STATEMENTS 
+
+Certain statements made or incorporated by reference in this Report which are not statements of historical fact, including those under &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations,&#8221; and elsewhere in this Report, constitute forward-looking statements within the meaning of, and subject to the protections of, Section 27A of the Securities Act and Section 21E of the Exchange Act. Forward-looking statements include statements with respect to Synovus' beliefs, plans, objectives, goals, targets, expectations, anticipations, assumptions, estimates, intentions and future performance and involve known and unknown risks, many of which are beyond Synovus' control and which may cause Synovus' actual results, performance or achievements or the financial services industry or economy generally, to be materially different from future results, performance or achievements expressed or implied by such forward-looking statements. 
+
+All statements other than statements of historical fact are forward-looking statements. You can identify these forward-looking statements through Synovus' use of words such as &#8220;believes,&#8221; &#8220;anticipates,&#8221; &#8220;expects,&#8221; &#8220;may,&#8221; &#8220;will,&#8221; &#8220;assumes,&#8221; &#8220;predicts,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;would,&#8221; &#8220;intends,&#8221; &#8220;targets,&#8221; &#8220;estimates,&#8221; &#8220;projects,&#8221; &#8220;plans,&#8221; &#8220;potential&#8221; and other similar words and expressions of the future or otherwise regarding the outlook for Synovus' future business and financial performance and/or the performance of the financial services industry and economy in general. Forward-looking statements are based on the current beliefs and expectations of Synovus' management and are subject to significant risks and uncertainties. Actual results may differ materially from those contemplated by such forward-looking statements. A number of factors could cause actual results to differ materially from those contemplated by the forward-looking statements in this document. Many of these factors are beyond Synovus' ability to control or predict. These factors include, but are not limited to: 
+
+(1) competition in the financial services industry, including competition from nontraditional banking institutions such as Fintechs; (2) our ability to realize the expected benefits from our strategic initiatives or other operational and execution goals in the time period expected, which could negatively affect our future profitability; (3) an economic downturn and contraction, including a recession, and the resulting effects on our capital, financial condition, credit quality, results of operations and future growth, including that the strength of the current economic environment could be further weakened by prolonged periods of inflation and rising interest rates; (4) changes in the cost and availability of funding due to changes in the deposit market and credit market; (5) restrictions or limitations on access to funds from historical and alternative sources of liquidity could adversely affect our overall liquidity, which could restrict our ability to make payments on our obligations and our ability to support asset growth and sustain our operations and the operations of Synovus Bank; (6) the impacts of the adverse developments in the banking industry highlighted by high-profile bank failures, including impacts on client confidence, deposit outflows, liquidity, and the regulatory response thereto; (7) our ability to attract and retain employees and the impact of senior leadership transitions that are key to our strategic initiatives; (8) our strategic implementation of new lines of business, new products and services, and new technologies and the expansion of our existing business opportunities with a renewed focus on innovation; (9) prolonged periods of high inflation and their effects on our business, profitability, and our stock price; (10) changes in the interest rate environment, including changes to the federal funds rate, and competition in our primary market area may result in increased funding costs or reduced earning assets yields, thus reducing margins and net interest income; (11) the impact of recent, proposed, and potential changes in governmental policy, laws and regulations, potential, proposed, and recently enacted changes in monetary policy and in the regulation and taxation of banks and financial institutions, or the interpretation or application thereof and the uncertainty of future implementation and enforcement of these regulations, including rising inflationary pressures and interest rate increases; (12) we may be required to make substantial expenditures to keep pace with regulatory initiatives and the rapid technological changes in the financial services industry; (13) our current and future information technology system enhancements and operational initiatives may not be successfully implemented, which could negatively impact our operations; (14) our business relationships with, and reliance upon, third parties that have strategic partnerships with us or that provide key components of our business infrastructure, including the costs of services and products provided to us by third parties, and disruptions in service or financial difficulties with a third-party vendor or business relationship; 
+
+(15) our enterprise risk management framework, our compliance program, or our corporate governance and supervisory oversight functions may not identify or address risks adequately, which may result in unexpected losses; (16) our asset quality may deteriorate or that our allowance for credit losses may prove to be inadequate or may be negatively affected by credit risk exposures; (17) the ability of our operational framework to identify and manage risks associated with our business, such as credit risk, compliance risk, reputational risk, and operational risk, including by virtue of our relationships with third-party business partners, as well as our relationships with third-party vendors and other service providers; (18) we may be exposed to potential losses in the event of fraud and/or theft, or in the event that a third-party vendor, obligor, or business partner fails to pay amounts due to us under that relationship or under any arrangement that we enter into with them; (19) if economic conditions worsen or regulatory capital rules are modified, we may be required to undertake initiatives to improve or conserve our capital position; (20) our ability to identify and address cyber-security risks (including those impacting our vendors and other third parties) such as data security breaches, malware, "denial of service" attacks, "hacking", and identity theft, a failure of which could disrupt our business and result in the disclosure of and/or misuse or misappropriation of confidential or proprietary information, disruption, or damage of our systems, increased costs, significant losses, or adverse effects to our reputation; (21) the impact on our financial results, reputation, and business if we are unable to comply with all applicable federal and state regulations or other supervisory actions or directives and any necessary capital initiatives; (22) our ability to receive dividends from our subsidiaries could affect our liquidity, including our ability to pay dividends or take other capital actions; (23) our ESG strategies and initiatives, the scope and pace of which could alter our reputation and shareholder, employee, client, and third-party relationships; (24) the risks related to the transition from LIBOR to any alternate reference rate we may use; (25) we could realize losses if we sell assets and the proceeds we receive are lower than the carrying value of such assets and such losses could negatively impact market perceptions of us and could lead to deposit withdrawals; (26) our ability to obtain regulatory approval to take certain actions, including any dividends on our common stock or preferred stock, any repurchases of common stock, or any other issuance or redemption of any other regulatory capital instruments, as well as any applications in respect to strategic initiatives; (27) we may not be able to identify suitable bank and non-bank acquisition opportunities as part of our growth strategy and even if we are able to identify attractive acquisition opportunities, we may not be able to complete such transactions on favorable terms or realize the anticipated benefits from such acquisitions; (28) our concentrated operations in the Southeastern U.S. make us vulnerable to local economic conditions, local weather catastrophes, public health issues, and other external events; (29) the costs and effects of litigation, investigations, or similar matters, or adverse facts and developments related thereto; (30) the fluctuation in our stock price and general volatility in the stock market; (31) a deterioration of the credit rating for U.S. long-term sovereign debt, actions that the U.S. government may take to avoid exceeding the debt ceiling, and uncertainties surrounding the debt ceiling and the federal budget; (32) the risk that the regulatory environment may not be conducive to or may prohibit the consummation of future mergers and/or business combinations, may increase the length of time and amount of resources required to consummate such transactions, and may reduce the anticipated benefit; (33) the effects of any damages to our reputation resulting from developments related to any of the items identified above; and (34) other factors and other information contained in this Report and in other reports and filings that we make with the SEC under the Exchange Act, including, without limitation, those found in "Part II - Item 1A. Risk Factors" of this Report. 
+
+For a discussion of these and other risks that may cause actual results to differ from expectations, refer to &#8220;Part I - Item 1A. Risk Factors&#8221; and other information contained in Synovus' 2022 Form 10-K and our other periodic filings, including quarterly reports on Form 10-Q and current reports on Form 8-K, that we file from time to time with the SEC. All written or oral forward-looking statements that are made by or are attributable to Synovus are expressly qualified by this cautionary notice. You should not place undue reliance on any forward-looking statements since those statements speak only as of the date on which the statements are made. Synovus undertakes no obligation to update any forward-looking statement to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of new information or unanticipated events, except as may otherwise be required by law. 
+
+INTRODUCTION AND CORPORATE PROFILE 
+
+Synovus Financial Corp. is a financial services company and a registered bank holding company headquartered in Columbus, Georgia. Through its wholly-owned subsidiary, Synovus Bank, a Georgia state-chartered bank that is a member of the Federal Reserve System, the Company provides commercial and consumer banking in addition to a full suite of specialized products and services, including private banking, treasury management, wealth management, mortgage services, premium finance, asset-based lending, structured lending, capital markets, and international banking. Synovus also provides financial planning and investment advisory services through its wholly-owned subsidiaries, Synovus Trust and Synovus Securities, as well as its Creative Financial Group division. On September 30, 2023, Synovus sold its asset management firm GLOBALT to its management team. The divestiture will be immaterial to earnings, and we will continue to meet our wealth clients' needs through other lines of business. 
+
+Synovus Bank is positioned in some of the highest growth markets in the Southeast, with 246 branches in Alabama, Florida, Georgia, South Carolina, and Tennessee. 
+
+The following financial review summarizes the significant trends, changes in our business, transactions, and other matters affecting Synovus&#8217; results of operations for the three and nine months ended September 30, 2023 and financial condition as of September 30, 2023 and December 31, 2022. This discussion supplements, and should be read in conjunction with, the unaudited interim consolidated financial statements and notes thereto contained elsewhere in this Report and the consolidated financial statements of Synovus, the notes thereto, and management&#8217;s discussion and analysis contained in Synovus' 2022 Form 10-K. 
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations consists of: 
+
+&#8226; Discussion of Results of Operations - Reviews Synovus' financial performance, as well as selected balance sheet items, items from the statements of income, significant transactions, and certain key ratios that illustrate Synovus' performance. 
+
+&#8226; Credit Quality, Capital Resources and Liquidity - Discusses credit quality, market risk, capital resources, and liquidity, as well as performance trends. It also includes a discussion of liquidity policies, how Synovus obtains funding, and related performance. 
+
+&#8226; Additional Disclosures - Discusses additional important matters, including critical accounting policies and non-GAAP financial measures. 
+
+A reading of each section is important to fully understand our financial performance. 
+
+DISCUSSION OF RESULTS OF OPERATIONS Table 1 - Consolidated Financial Highlights Three Months Ended September 30, Nine Months Ended September 30, (dollars in thousands, except per share data) 2023 2022 Change 2023 2022 Change Net interest income 
+
+$ 443,159 &#160; $ 477,919 (7) % $ 1,379,442 &#160; $ 1,295,555 6 % Provision for (reversal of) credit losses 
+
+72,572 &#160; 25,581 184 143,607 &#160; 49,669 189 Non-interest revenue 
+
+107,139 &#160; 104,298 3 352,541 &#160; 306,897 15 Total revenue 
+
+550,298 &#160; 582,217 (5) 1,731,983 &#160; 1,602,452 8 Non-interest expense 
+
+353,532 &#160; 294,010 20 982,566 &#160; 848,511 16 Income before income taxes 
+
+124,194 &#160; 262,626 (53) 605,810 &#160; 704,272 (14) Net income attributable to Synovus Financial Corp. 97,095 &#160; 203,044 (52) 473,364 &#160; 552,132 (14) Net income available to common shareholders 
+
+87,423 &#160; 194,753 (55) 447,110 &#160; 527,260 (15) Net income per common share, basic 
+
+0.60 &#160; 1.34 (55) 3.06 &#160; 3.63 (16) Net income per common share, diluted 
+
+0.60 &#160; 1.33 (55) 3.05 &#160; 3.60 (15) Net interest margin (1) 
+
+3.11 &#160; % 3.47 % (36) bps 3.25 &#160; % 3.24 % 1 bps Net charge-off ratio (1) 
+
+0.61 &#160; 0.04 57 0.34 &#160; 0.13 21 Return on average assets (1) 
+
+0.64 &#160; 1.39 (75) 1.05 &#160; 1.29 (24) Efficiency ratio-TE 
+
+64.11 &#160; 50.41 1,370 56.62 &#160; 52.86 376 
+
+(1) Annualized September 30, 2023 June 30, 2023 Sequential Quarter Change September 30, 2022 Year-Over-Year Change (dollars in thousands) Loans, net of deferred fees and costs $ 43,679,910 &#160; $ 44,353,537 $ (673,627) $ 42,571,458 $ 1,108,452 Total average loans 43,500,216 &#160; 44,099,115 (598,899) 41,768,372 1,731,844 Total deposits 50,203,890 &#160; 50,080,392 123,498 47,697,564 2,506,326 Core deposits (excludes brokered deposits) 
+
+43,982,131 &#160; 43,550,624 431,507 43,199,755 782,376 Total average deposits 
+
+50,112,575 &#160; 49,719,079 393,496 48,430,869 1,681,706 Non-performing assets ratio 0.64 &#160; % 0.59 % 5 bps 0.32 % 32 bps Non-performing loans ratio 0.64 &#160; 0.59 5 0.29 35 Past due loans over 90 days 0.01 &#160; 0.01 &#8212; 0.01 &#8212; CET1 capital $ 5,182,453 &#160; $ 5,133,546 $ 48,907 $ 4,769,179 $ 413,274 Tier 1 capital 5,719,598 &#160; 5,670,691 48,907 5,306,324 413,274 Total risk-based capital 6,709,654 &#160; 6,664,033 45,621 6,237,082 472,572 CET1 capital ratio 10.13 &#160; % 9.86 % 27 bps 9.52 % 61 bps Tier 1 capital ratio 11.18 &#160; 10.89 29 10.59 59 Total risk-based capital ratio 13.12 &#160; 12.80 32 12.45 67 Total Synovus Financial Corp. shareholders&#8217; equity to total assets ratio 
+
+7.65 &#160; 7.88 (23) 7.21 44 
+
+Return on average common equity (1) 
+
+8.2 &#160; 15.5 (730) 18.7 (1,050) 
+
+(1) Quarter annualized 
+
+Economic Environment and Recent Events 
+
+In an effort to achieve its inflation objectives, the Federal Reserve has aggressively tightened monetary policy by significantly raising market interest rates throughout 2022 and 2023, with estimates calling for a higher FOMC policy rate for longer. The extent of interest rate increases and the period of time that these higher rates will remain in effect continues to depend on the level of inflation and strength of the labor market. 
+
+Outside of inflation, economic uncertainty and market disruptions remain, including geopolitical tensions from conflict in the Middle East, Russia&#8217;s prolonged war in Ukraine, the strained relationship between the U.S. and China, and to a lesser 
+
+extent, the lingering impact of the COVID-19 pandemic on global supply chains, tourism, business travel, immigration, and labor participation. Multiple mixed signals make navigating the way ahead difficult as evidenced by the volatility in capital markets and wide ranges of multiple economic outlooks. 
+
+U.S. fiscal policy has been expansionary in recent years, leaving a significant federal deficit which will most likely continue to grow, at least in the near term. The Inflation Reduction Act (IRA), signed into law in August 2022, raises federal revenue by imposing an alternative corporate minimum tax if certain thresholds are met and a non-deductible excise tax on corporate share repurchases. The IRA does not have a significant immediate impact on Synovus. 
+
+The bank failures in March and May of 2023 and the subsequent response by both the banking industry and the Federal Reserve served to mitigate the risks of the failures becoming more systemic. However, the residual impacts on the broader economic environment remain uncertain and have generally presented a more challenging outlook for the banking industry. The impact of reactions to the bank failures include a proposed FDIC special assessment, increased regulatory scrutiny, future regulatory changes, continued pressure on deposits and liquidity, and a generally less sanguine outlook regarding bank profitability going forward. 
+
+Despite the headwinds discussed above, our presence in strong Southeastern U.S. growth markets positions Synovus to execute on our revised 2023 guidance outlined below by making prudent decisions around business mix, balance sheet optimization, and operating expenses, all of which will support enhanced financial performance and a return to growth as we proceed through 2024. 
+
+Executive Summary 
+
+Net income available to common shareholders for the third quarter of 2023 was $87.4 million, or $0.60 per diluted common share, compared to $194.8 million, or $1.33 per diluted common share, for the third quarter of 2022. Net income available to common shareholders for the nine months ended September 30, 2023 was $447.1 million, or $3.05 per diluted common share, compared to $527.3 million, or $3.60 per diluted common share, for the nine months ended September 30, 2022. The year-over-year changes were primarily impacted by higher interest income from increased rates largely offset by higher funding costs as well as higher non-interest expense primarily resulting from losses on strategic loan sales, restructuring charges related to a voluntary early retirement program, investments in our workforce and new business initiatives. Provision for credit losses was also higher compared to the same periods in 2022, driven by increased net charge-offs largely resulting from loan sales and exposure to a nationally syndicated credit. 
+
+Net interest income for the nine months ended September 30, 2023 was $1.38 billion, up $83.9 million, or 6%, compared to the same period in 2022. Net interest margin was up 1 bp over the comparable nine - month period to 3.25% as the benefits of our asset sensitive balance sheet and average loan growth were largely offset by continued increases in funding costs. Net interest margin for the third quarter was 3.11%, down 9 bps on a linked quarter basis, as the asset side of our balance sheet continued to benefit from higher rates, but the associated lagged impact from higher deposit pricing combined with remixing within our non-interest-bearing deposits resulted in margin compression. 
+
+Non-interest revenue for the third quarter of 2023 was $107.1 million, up $2.8 million, or 3%, and year-to-date was $352.5 million, up $45.6 million, or 15%, compared to the same periods in 2022.The primary drivers of the increase in the quarter-to-date comparative periods included higher card fees and increased brokerage revenue partially offset by lower service charges on deposits accounts. The primary drivers of the year-to-date increase included higher wealth revenue, a $13.1 million recovery of a non-performing asset related to Qualpay, a $7.0 million write-down on a minority Fintech investment that impacted earnings on equity method investments in the second quarter of 2022, and higher card fees. See Note 1 - Basis of Presentation and Accounting Policies for further discussion on Qualpay. 
+
+Non-interest expense for the third quarter of 2023 was $353.5 million, up $59.5 million, or 20%, and year-to-date was $982.6 million, up $134.1 million, or 16%, compared to the same periods in 2022. The increases were impacted by $31.0 million and $50.1 million, respectively, in losses for the three and nine months ended September 30, 2023 related to the strategic sales of medical office buildings loans and third-party consumer loans that closed in the third quarter of 2023, in addition to restructuring charges of $18.4 million recorded in the third quarter of 2023 for one-time termination benefits associated with a voluntary early retirement program offered to certain qualified employees. The nine months ended September 30, 2022 also benefited from a $7.3 million reversal of restructuring charges. The remaining increases were primarily due to investments in and expansion of our workforce and new business initiatives as well as the industry-wide increase in FDIC expense. 
+
+At September 30, 2023, loans, net of deferred fees and costs, of $43.68 billion, decreased $36.4 million, from December 31, 2022. Growth in C&#38;I loans has been diversified but tempered somewhat by a strategic decline in loan-only relationships while CRE loans were impacted by the $1.17 billion medical office buildings loans sale that occurred during the third quarter of 2023. Excluding that sale, CRE growth was primarily a function of draws related to existing commitments and 
+
+low levels of pay-offs. The decline in consumer loans was impacted by the disposition of $421.7 million of third-party consumer loans that closed in the third quarter of 2023. 
+
+Credit metrics continue to migrate from historically low levels with NPAs and NPLs both at 64 bps and total past dues at 13 bps, as a percentage of total loans at September 30, 2023. Year-to-date net charge-offs were $111.8 million, or 34 bps annualized, and included charge-offs of $31.3 million related to the sales of medical office buildings loans and third-party consumer loans that closed in the third quarter of 2023. During the third quarter of 2023, Synovus also charged-off $23.3 million related to exposure in a nationally syndicated credit. The ACL at September 30, 2023 totaled $532.7 million, an increase of $31.8 million from December 31, 2022, and the ACL to loans coverage ratio at September 30, 2023 of 1.22% increased 7 bps compared to December 31, 2022. 
+
+Total period-end deposits at September 30, 2023 increased $1.33 billion, or 3%, compared to December 31, 2022. Fluctuations among core deposits categories, including a decrease in non-interest-bearing demand deposits and money market accounts, with an offsetting increase in time deposits, was primarily a function of the rate environment, as well as deployment of excess cash in the case of non-interest-bearing deposits. Additionally, brokered deposits increased from December 31, 2022 as a result of continued proactive management of our balance sheet position. Average deposit costs of 2.31% for the third quarter of 2023 increased 193 bps from the prior year comparable period primarily due to the impact of the FOMC's rate hikes of 225 bps from September 30, 2022 to September 30, 2023. Deposit costs were impacted by pricing lags on core interest-bearing deposits as well as the decline in non-interest-bearing demand deposits. 
+
+At September 30, 2023, Synovus' CET1 ratio of 10.13% improved 50 bps compared to December 31, 2022, as our organic earnings continue to support capital accretion, which along with recent strategic transactions including loan sales, has been more than sufficient to offset marginal headwinds from the Qualpay acquisition. See Note 1 - Basis of Presentation and Accounting Policies for additional discussion on Qualpay. 
+
+More detail on Synovus' financial results for the three and nine months ended September 30, 2023 may be found in subsequent sections of "Item 2. &#8211; Management's Discussion and Analysis of Financial Condition and Results of Operations" of this Report. See also "Part 1 &#8211; Item 1A. &#8211; Risk Factors" of Synovus' 2022 Form 10-K. 
+
+2023 Updated Guidance 
+
+Updated guidance (1) for the full year 2023, compared to 2022, includes strategic shifts in priorities and changes as we have implemented various expense actions: 
+
+&#8226; Loan growth (2) of 0% to 2% 
+
+&#8226; Core deposit (3) growth of 1% to 3% 
+
+&#8226; Adjusted revenue (2)(4)(5) growth of 1% to 2% 
+
+&#8226; Adjusted non-interest expense (4)(5) growth of 4% to 5% 
+
+&#8226; Ending CET1 ratio of greater than 10% 
+
+&#8226; Effective income tax rate of approximately 22% 
+
+(1) Adjusted non-interest expense (4) excludes the impact of the proposed FDIC special assessment (expected to be ~$47 million in the fourth quarter of 2023). 
+
+(2) Not adjusting for PPP loans or PPP revenue in 2023 updated guidance given relatively immaterial impact to 2022 and 2023 forecasted results. 
+
+(3) Excludes brokered deposits. 
+
+(4) See "Table 14 - Reconciliation of Non-GAAP Financial Measures&#8221; for applicable reconciliation to the most comparable GAAP measure. 
+
+(5) Guidance based on the 2022 baseline: adjusted revenue baseline of $2.21 billion and adjusted non-interest expense of $1.16 billion. 
+
+Changes in Financial Condition 
+
+During the nine months ended September 30, 2023, total assets decreased $388.4 million to $59.34 billion. Total loans decreased $36.4 million, largely a result of the strategic sales of $1.17 billion of medical office buildings loans and $421.7 million of third-party consumer loans which both closed in the third quarter of 2023, offset by growth primarily driven by loans to relationship-based commercial clients. Deposits increased $1.33 billion, with core deposits growing $409.6 million while fluctuations between deposit categories were primarily driven by the rate environment. Brokered deposits also increased as a result of continued proactive management of our balance sheet position. The loan to deposit ratio was 87.0% at September 30, 2023 as compared to 89.5% at December 31, 2022. Long-term debt has decreased $1.40 billion from December 31, 2022, driven by $1.88 billion lower long-term FHLB advances, with proceeds from the aforementioned strategic sales of non-relationship loans used to reduce wholesale funding, partially offset by the issuance of $500.0 million par value 2028 Synovus Bank Senior Notes in February 2023. Other short-term borrowings decreased $601.0 million primarily as a result of maturities of short-term FHLB Advances. 
+
+Total Synovus Financial Corp. shareholders' equity at September 30, 2023 increased $61.2 million compared to December 31, 2022, driven by growth in retained earnings, which included net income attributable to Synovus Financial Corp. of $473.4 million mostly offset by common and preferred stock dividends of $166.6 million and $26.3 million, respectively, as well as an increase in after-tax net unrealized losses on investment securities available for sale of $259.0 million. 
+
+Loans 
+
+The following table compares the composition of the loan portfolio at September 30, 2023, December 31, 2022, and September 30, 2022. 
+
+Table 2 - Loans by Portfolio Class September 30, 2023 vs. December 31, 2022 Change September 30, 2023 vs. September 30, 2022 Change (dollars in thousands) September 30, 2023 December 31, 2022 September 30, 2022 Commercial, financial and agricultural $ 14,498,966 &#160; 33.2 &#160; % $ 13,874,416 31.8 % $ 624,550 5 % $ 13,254,966 31.1 % $ 1,244,000 9 % Owner-occupied 8,281,988 &#160; 19.0 &#160; 8,192,240 18.7 89,748 1 7,957,550 18.7 324,438 4 Total commercial and industrial 22,780,954 &#160; 52.2 &#160; 22,066,656 50.5 714,298 3 21,212,516 49.8 1,568,438 7 Investment properties 11,377,755 &#160; 26.1 &#160; 11,644,047 26.6 (266,292) (2) 11,238,404 26.4 139,351 1 1-4 family properties 620,904 &#160; 1.4 &#160; 616,933 1.4 3,971 1 639,627 1.5 (18,723) (3) Land and development 396,194 &#160; 0.9 &#160; 389,333 0.9 6,861 2 409,934 1.0 (13,740) (3) Total commercial real estate 12,394,853 &#160; 28.4 &#160; 12,650,313 28.9 (255,460) (2) 12,287,965 28.9 106,888 1 Consumer mortgages 5,391,282 &#160; 12.3 &#160; 5,214,443 11.9 176,839 3 5,166,928 12.1 224,354 4 Home equity 1,784,356 &#160; 4.1 &#160; 1,757,038 4.0 27,318 2 1,708,246 4.0 76,110 4 Credit cards 191,046 &#160; 0.4 &#160; 203,612 0.5 (12,566) (6) 197,978 0.5 (6,932) (4) Other consumer loans 1,137,419 &#160; 2.6 &#160; 1,824,291 4.2 (686,872) (38) 1,997,825 4.7 (860,406) (43) Total consumer 8,504,103 &#160; 19.4 &#160; 8,999,384 20.6 (495,281) (6) 9,070,977 21.3 (566,874) (6) Loans, net of deferred fees and costs $ 43,679,910 &#160; 100.0 &#160; % $ 43,716,353 100.0 % $ (36,443) &#8212; % $ 42,571,458 100.0 % $ 1,108,452 3 % 
+
+At September 30, 2023, loans, net of deferred fees and costs of $43.68 billion, decreased $36.4 million from December 31, 2022. Growth in C&#38;I loans has been diversified but tempered somewhat by a strategic decline in loan-only relationships while CRE loans were impacted by the $1.17 billion medical office buildings loans sale that occurred during the third quarter of 2023. Excluding that sale, CRE growth was primarily a function of draws related to existing commitments and low levels of pay-offs. The decline in consumer loans was impacted by the disposition of $421.7 million of third-party consumer loans that closed in the third quarter of 2023. 
+
+C&#38;I loans remain the largest component of our loan portfolio, representing 52.2% of total loans, while CRE and consumer loans represent 28.4% and 19.4%, respectively. Our portfolio composition is guided by our strategic growth plan, in conjunction with a comprehensive concentration management policy which sets limits for C&#38;I, CRE, and consumer loan levels as well as sub-categories therein. 
+
+Commercial Loans 
+
+Total commercial loans (which are comprised of C&#38;I and CRE loans) at September 30, 2023 were $35.18 billion, or 80.5% of the total loan portfolio, compared to $34.72 billion, or 79.4%, at December 31, 2022. 
+
+Commercial and Industrial Loans 
+
+The C&#38;I loan portfolio represents the largest category of Synovus' loan portfolio and is primarily comprised of general middle market and commercial banking clients across a diverse set of industries as well as certain specialized lending verticals. The following table shows the composition of the C&#38;I loan portfolio aggregated by NAICS code. In accordance with Synovus' lending policy, each loan undergoes a detailed underwriting process, which incorporates uniform underwriting standards and oversight in proportion to the size and complexity of the lending relationship. As of September 30, 2023, 95.0% of Synovus' C&#38;I loans are secured by real estate, business equipment, inventory, and other types of collateral compared to 94.4% as of December 31, 2022. C&#38;I loans at September 30, 2023 grew $714.3 million, or 3%, from December 31, 2022, and resulted primarily from diverse growth across industries and business lines, led by CIB, middle market, and specialty finance. C&#38;I loan growth was also impacted by a strategic decline from loan-only relationships. 
+
+Table 3 - Commercial and Industrial Loans by Industry &#160; September 30, 2023 December 31, 2022 (dollars in thousands) NAICS Code Amount % (1) 
+
+Amount % (1) 
+
+Health care and social assistance 62 $ 4,900,215 &#160; 21.5 &#160; % $ 4,815,229 21.8 % Finance and insurance 52 4,328,469 &#160; 19.0 &#160; 3,726,279 16.9 Accommodation and food services 72 1,449,253 &#160; 6.4 &#160; 1,377,738 6.2 Manufacturing 31-33 1,339,413 &#160; 5.9 &#160; 1,465,395 6.6 Real estate and rental and leasing 5311 1,205,014 &#160; 5.3 &#160; 1,245,513 5.6 Retail trade 44-45 1,135,148 &#160; 5.0 &#160; 1,074,100 4.9 Wholesale trade 42 1,133,148 &#160; 5.0 &#160; 1,221,046 5.5 Construction 23 1,126,483 &#160; 4.9 &#160; 1,112,135 5.0 Transportation and warehousing 48-49 948,298 &#160; 4.2 &#160; 892,479 4.0 Professional, scientific, and technical services 54 925,607 &#160; 4.1 &#160; 944,939 4.3 Other services 81 914,977 &#160; 4.0 &#160; 929,777 4.2 Real estate other 53 786,609 &#160; 3.4 &#160; 788,457 3.6 Arts, entertainment, and recreation 71 558,311 &#160; 2.4 &#160; 476,534 2.2 Other industries (2) 
+
+493,654 &#160; 2.1 &#160; 353,492 1.7 Public administration 92 453,698 &#160; 2.0 &#160; 487,583 2.2 Educational services 61 400,933 &#160; 1.8 &#160; 420,343 1.9 Administration, support, waste management, and remediation 56 268,029 &#160; 1.2 &#160; 253,459 1.2 Agriculture, forestry, fishing, and hunting 11 240,033 &#160; 1.0 &#160; 250,216 1.1 Information 51 173,662 &#160; 0.8 &#160; 231,942 1.1 Total commercial and industrial loans $ 22,780,954 &#160; 100.0 &#160; % $ 22,066,656 100.0 % (1) Loan balance in each category expressed as a percentage of total C&#38;I loans. 
+
+(2) Comprised of NAICS industries that are less than 2% of total C&#38;I loans. 
+
+At September 30, 2023, $14.50 billion of C&#38;I loans, or 33.2% of the total loan portfolio, represented loans originated for the purpose of financing commercial, financial and agricultural business activities. The primary source of repayment on these loans is revenue generated from products or services offered by the business or organization. The secondary source of repayment is the collateral, which consists primarily of equipment, inventory, accounts receivable, time deposits, cash surrender value of life insurance, and other business assets. 
+
+At September 30, 2023, $8.28 billion of C&#38;I loans, or 19.0% of the total loan portfolio, represented loans originated for the purpose of financing owner-occupied properties. The financing of owner-occupied facilities is considered a C&#38;I loan even though there is improved real estate as collateral. This treatment is a result of the credit decision process, which focuses on cash flow from operations of the business to repay the debt. The secondary source of repayment on these loans is the underlying real estate. These loans are predominantly secured by owner-occupied and other real estate and, to a lesser extent, other types of collateral. 
+
+Commercial Real Estate Loans 
+
+CRE loans consist primarily of income-producing investment properties loans. Additionally, CRE loans include 1-4 family properties loans as well as land and development loans. Total CRE loans of $12.39 billion decreased $255.5 million, or 2%, 
+
+from December 31, 2022, primarily due to the $1.17 billion medical office buildings loan sale that was completed during the third quarter of 2023. 
+
+Investment properties loans consist of construction and mortgage loans for income-producing properties and are primarily made to finance multi-family properties, hotels, office buildings (medical and non-medical), shopping centers, warehouses and other commercial development properties. Total investment properties loans as of September 30, 2023 were $11.38 billion, or 91.8% of the CRE loan portfolio, and decreased $266.3 million, or 2%, from December 31, 2022, primarily due to the aforementioned medical office buildings loans sale. Excluding the strategic sale, growth was primarily in the multi-family category and arose largely from draws related to existing commitments and low levels of pay-off activity. 
+
+The following table shows the principal categories of the investment properties loan portfolio at September 30, 2023 and December 31, 2022. 
+
+Table 4 - Investment Properties Loan Portfolio September 30, 2023 December 31, 2022 (dollars in thousands) Amount % (1) 
+
+Amount % (1) 
+
+Multi-Family $ 3,930,617 &#160; 34.5 &#160; % $ 3,134,571 26.9 % Hotels 1,790,094 &#160; 15.7 &#160; 1,708,194 14.7 Medical Office Buildings 417,902 &#160; 3.7 &#160; 1,561,957 13.4 Non-Medical Office Buildings 1,493,193 &#160; 13.1 &#160; 1,449,954 12.5 Shopping Centers 1,327,770 &#160; 11.7 &#160; 1,403,928 12.0 Warehouses 985,723 &#160; 8.7 &#160; 1,035,152 8.9 Other investment property 1,432,456 &#160; 12.6 &#160; 1,350,291 11.6 Total investment properties loans $ 11,377,755 &#160; 100.0 &#160; % $ 11,644,047 100.0 % 
+
+(1) Loan balance in each category expressed as a percentage of total investment properties loans. 
+
+1-4 Family Properties Loans 
+
+1-4 family properties loans include construction loans to home builders and commercial mortgage loans related to 1-4 family rental properties and are almost always secured by the underlying property being financed by such loans. These properties are primarily located in the markets served by Synovus. At September 30, 2023, 1-4 family properties loans totaled $620.9 million, or 5.0% of the CRE loan portfolio, and increased slightly from December 31, 2022. 
+
+Land and Development Loans 
+
+Land and development loans include commercial and residential development as well as land acquisition loans and are secured by land held for future development, typically in excess of one year. Properties securing these loans are substantially within markets served by Synovus, and loan terms generally include personal guarantees from the principals. Loans in this portfolio are underwritten based on the LTV of the collateral and the capacity of the guarantor(s). Land and development loans of $396.2 million at September 30, 2023 increased marginally from December 31, 2022. 
+
+Consumer Loans 
+
+The consumer loan portfolio consists of a wide variety of loan products offered through Synovus' banking network, including first and second residential mortgages, home equity and consumer credit card loans, as well as both secured and unsecured loans from third-party lending. As of September 30, 2023, weighted-average FICO scores within the residential real estate portfolio based on committed balances were 783 for consumer mortgages and 796 for home equity, consistent with year-end 2022 scores. 
+
+Consumer loans at September 30, 2023 of $8.50 billion decreased $495.3 million, or 6%, compared to December 31, 2022. Mortgage loans increased $176.8 million from December 31, 2022 largely driven by seasonally higher production in the second quarter of 2023, including our physician product, in addition to lower levels of pay-offs. Other consumer loans decreased $686.9 million from December 31, 2022, primarily due to the disposition of $421.7 million of third-party consumer loans in addition to strategic runoff of the third-party lending portfolio. 
+
+Deposits 
+
+Deposits provide the most significant funding source for interest earning assets. The following table shows the composition of period-end deposits as of the dates indicated. See Table 11 - Quarter-to-Date Net Interest Income and Rate/Volume Analysis 
+
+and Table 12 - Year-to-Date Net Interest Income and Rate/Volume Analysis in this Report for information on average deposits including average rates. 
+
+Table 5 - Composition of Period-end Deposits (dollars in thousands) September 30, 2023 % (1) 
+
+December 31, 2022 % (1) 
+
+September 30, 2022 % (1) 
+
+Non-interest-bearing demand deposits (2) 
+
+$ 12,395,135 &#160; 24.7 &#160; % $ 14,574,451 29.8 % $ 15,373,709 32.2 % 
+
+Interest-bearing demand deposits (2) 
+
+6,276,124 &#160; 12.5 &#160; 5,762,302 11.8 5,777,743 12.1 
+
+Money market accounts (2) 
+
+10,786,257 &#160; 21.5 &#160; 12,479,762 25.5 12,917,599 27.1 
+
+Savings deposits (2) 
+
+1,132,486 &#160; 2.2 &#160; 1,396,431 2.9 1,470,115 3.1 Public funds 6,885,705 &#160; 13.7 &#160; 6,635,552 13.6 5,549,665 11.7 
+
+Time deposits (2) 
+
+6,506,424 &#160; 13.0 &#160; 2,724,056 5.6 2,110,924 4.4 Brokered deposits 6,221,759 &#160; 12.4 &#160; 5,299,005 10.8 4,497,809 9.4 Total deposits $ 50,203,890 &#160; 100.0 &#160; % $ 48,871,559 100.0 % $ 47,697,564 100.0 % Core deposits (3) &#160; 
+
+$ 43,982,131 &#160; 87.6 &#160; % $ 43,572,554 89.2 % $ 43,199,755 90.6 % Brokered time deposits $ 3,698,374 &#160; 7.4 &#160; % $ 3,330,946 6.8 % $ 2,545,199 5.3 % Public funds time deposits $ 318,605 &#160; 0.6 &#160; % $ 240,022 0.5 % $ 223,961 0.5 % 
+
+(1) Deposits balance in each category expressed as percentage of total deposits. 
+
+(2) Excluding any public funds or brokered deposits. 
+
+(3) Core deposits exclude brokered deposits. 
+
+Total period-end deposits at September 30, 2023 increased $1.33 billion, or 3%, compared to December 31, 2022. Fluctuations among core deposits categories, including a decrease in non-interest-bearing demand deposits and money market accounts, with an offsetting increase in time deposits, was primarily a function of the rate environment, as well as deployment of excess cash in the case of non-interest-bearing deposits. Compared to the linked quarter, we have started to see a slowing in the trend of clients shifting between time deposits and money market accounts. Additionally, brokered deposits increased from December 31, 2022 as a result of continued proactive management of our balance sheet position. 
+
+Average deposit costs of 2.31% for the third quarter of 2023, which equate to a cycle-to-date total deposit beta of 42% through the third quarter of 2023, increased 36 bps and 193 bps, from the prior quarter and prior year comparable period, respectively, primarily due to the impact of the FOMC's rate hikes of 25 bps during the third quarter of 2023 and 225 bps from September 30, 2022 to September 30, 2023. Deposit costs and betas were impacted by the pricing lags on core interest-bearing deposits as well as the decline in non-interest-bearing demand deposits. Our expectations for through-the-cycle total deposit betas are currently 46%-47% at the end of the year. 
+
+As of September 30, 2023 and December 31, 2022, $23.18 billion and $23.96 billion, respectively, of our deposit portfolio was uninsured, which represents approximately 45% and 49%, respectively, of total deposits. The uninsured amounts are estimated based on the methodologies and assumptions used for the Bank's regulatory reporting requirements. At September 30, 2023, approximately 86% of our deposits are either insured (55%), collateralized (13%), or could be insured by switching to our insured cash sweep program, which has existing capacity (18%). 
+
+Non-interest Revenue 
+
+Non-interest revenue for the third quarter of 2023 was $107.1 million, up $2.8 million, or 3%, and year-to-date was $352.5 million, up $45.6 million, or 15%, compared to the same periods in 2022. The primary drivers of the increase in the quarter-to-date comparative periods included higher card fees and increased brokerage revenue partially offset by lower service charges on deposits accounts. The primary drivers of the year-to-date increase included higher wealth revenue, a $13.1 million recovery of a non-performing asset related to Qualpay, a $7.0 million write-down on a minority Fintech investment that impacted earnings on equity method investments in the second quarter of 2022, and higher card fees. See Note 1 - Basis of Presentation and Accounting Policies for further discussion on Qualpay. 
+
+The following table shows the principal components of non-interest revenue. 
+
+Table 6 - Non-interest Revenue Three Months Ended September 30, Nine Months Ended September 30, (dollars in thousands) 2023 2022 $ Change % Change 2023 2022 $ Change % Change Service charges on deposit accounts $ 21,385 &#160; $ 23,398 $ (2,013) (9) % $ 67,836 &#160; $ 69,428 $ (1,592) (2) % Fiduciary and asset management fees 20,205 &#160; 19,201 1,004 5 59,928 &#160; 59,577 351 1 Card fees 18,602 &#160; 15,101 3,501 23 51,485 &#160; 45,946 5,539 12 Brokerage revenue 20,237 &#160; 17,140 3,097 18 63,703 &#160; 47,038 16,665 35 Mortgage banking income 3,671 &#160; 5,065 (1,394) (28) 12,138 &#160; 14,922 (2,784) (19) Capital markets income 6,377 &#160; 6,839 (462) (7) 27,077 &#160; 19,704 7,373 37 Income from bank-owned life insurance 6,965 &#160; 6,792 173 3 21,106 &#160; 22,514 (1,408) (6) Insurance revenue 1,394 &#160; 2,317 (923) (40) 5,580 &#160; 6,300 (720) (11) Investment securities gains (losses), net &#8212; &#160; &#8212; &#8212; nm 1,030 &#160; &#8212; 1,030 nm Gain on sale of GLOBALT 1,929 &#160; &#8212; 1,929 nm 1,929 &#160; &#8212; 1,929 nm Recovery of NPA &#8212; &#160; &#8212; &#8212; nm 13,126 &#160; &#8212; 13,126 nm Other non-interest revenue 6,374 &#160; 8,445 (2,071) (25) 27,603 &#160; 21,468 6,135 29 Total non-interest revenue $ 107,139 &#160; $ 104,298 $ 2,841 3 % $ 352,541 &#160; $ 306,897 $ 45,644 15 % Core banking fees (1) 
+
+$ 46,034 &#160; $ 44,139 $ 1,895 4 % $ 138,961 &#160; $ 135,026 $ 3,935 3 % Wealth revenue (2) 
+
+$ 41,836 &#160; $ 38,658 $ 3,178 8 % $ 129,211 &#160; $ 112,915 $ 16,296 14 % 
+
+(1) Core banking fees consist of service charges on deposit accounts, card fees, and several other non-interest revenue components including letter of credit fees, ATM fee income, line of credit non-usage fees, gains (losses) from sales of SBA loans, and miscellaneous other service charges. 
+
+(2) Wealth revenue consists of fiduciary and asset management, brokerage, and insurance revenue. 
+
+Three and Nine Months Ended September 30, 2023 compared to September 30, 2022 
+
+Service charges on deposit accounts, consisting of account analysis fees, NSF fees, and all other service charges declined over the prior year comparable periods. The largest category of service charges, account analysis fees, were up $607 thousand, or 6%, compared to the third quarter of 2022 and increased $1.9 million, or 7%, on a comparable year-to-date basis. NSF/overdraft fees were down $2.6 million, or 33%, and $4.4 million, or 20%, on a quarter-to-date and year-to-date basis, respectively, compared to the prior year and included the impact of NSF/overdraft fee program changes implemented in July 2023. All other service charges on deposit accounts, which consist primarily of monthly fees on consumer demand deposits and small business accounts, for the three and nine months ended September 30, 2023 were down $50 thousand, or 1%, and up $869 thousand, or 5%, respectively, compared to the same periods in 2022. 
+
+Fiduciary and asset management fees are derived from providing estate administration, personal trust, corporate trust, corporate bond, investment management, financial planning, and family office services. Fiduciary and asset management fees remained steady despite volatility in the equity markets. 
+
+Card fees consist primarily of credit card interchange fees, debit card interchange fees, and merchant revenue. Card fees are reported net of certain associated expense items, including client loyalty program expenses and network expenses. Merchant revenue relates to the fees that are charged to merchant clients based on a percentage of their credit or debit card transaction volume amounts. Card fees for the three and nine months ended September 30, 2023 were up compared to the same periods in 2022, benefiting from increased merchant fees primarily driven by our Qualpay acquisition in addition to higher credit card transaction volumes from elevated commercial/small business spend activity and account growth while the nine months ended September 30, 2023 increase was also impacted by higher merchant revenue resulting from higher sales transaction volumes. 
+
+Brokerage revenue consists primarily of brokerage commissions as well as advisory fees earned from the management of client assets. Brokerage revenue for the three and nine months ended September 30, 2023 increased 18% and 35%, respectively, over the prior year comparable periods, benefiting largely from client activity, including movement into short-term liquidity products such as repurchase agreements due to the rate environment. 
+
+Mortgage banking income, consisting of net gains on loan origination/sales activities, was lower for the three months ended September 30, 2023, compared to the same period in 2022, primarily due to the rate environment stifling production. Mortgage banking income declined on a year-to-date basis primarily as a result of a $206.8 million, or 33%, decrease in loan sales compared to the same period in 2022. Secondary market production was $154.2 million for the three months ended September 
+
+30, 2023, a decline of $20.8 million, or 12%, compared to the third quarter of 2022 while year-to-date, it was $424.2 million, a $172.0 million, or 29%, decline compared to the prior year. 
+
+Capital markets income primarily includes fee income from client derivative transactions, as well as fee income from debt capital market transactions and foreign exchange. The decline in the third quarter of 2023 compared to the third quarter of 2022 primarily resulted from a $539 thousand decrease in fees on client derivative transactions, while the year-to-date increase was driven by $6.1 million higher loan syndication arranger fees and $1.1 million higher fee income from debt capital market transactions. 
+
+Income from BOLI includes increases in the cash surrender value of policies and proceeds from insurance contracts. The decrease for the nine months ended September 30, 2023 primarily related to $1.9 million lower proceeds from insurance benefits compared to the nine months ended September 30, 2022. 
+
+On September 30, 2023, Synovus further simplified its business mix and sold its asset management firm GLOBALT to its management team and recorded a $1.9 million gain, which included an earnout receivable valued at $1.8 million. The divestiture will be immaterial to earnings and will allow us to reallocate capital to higher returning fee income lines of business while continuing to meet our wealth clients&#8217; needs. 
+
+The main components of other non-interest revenue are fees for letters of credit and unused lines of credit, safe deposit box fees, access fees for ATM use, other service charges and loan servicing fees, gains (losses) from sales of SBA loans, and other miscellaneous items. The three months ended September 30, 2023 decrease was largely due to $1.6 million lower loan servicing fees on our third-party lending partnerships while the nine months ended September 30, 2023 comparative period increase was primarily due to a $7.5 million increase in the fair value of non-qualified deferred compensation plan assets and the $7.0 million write-down on a minority Fintech investment recorded in the second quarter of 2022, partially offset by a $3.5 million gain on the sale of a certain real estate partnership in the first quarter of 2022 and $3.3 million lower loan servicing fees on our third-party lending partnerships. 
+
+Non-interest Expense 
+
+Non-interest expense for the third quarter of 2023 was $353.5 million, up $59.5 million, or 20%, and year-to-date was $982.6 million, up $134.1 million, or 16%, compared to the same periods in 2022. The increases were impacted by $31.0 million and $50.1 million, respectively, in losses for the three and nine months ended September 30, 2023 related to the strategic sales of medical office buildings loans and third-party consumer loans that closed in the third quarter of 2023, in addition to restructuring charges of $18.4 million recorded in the third quarter of 2023 for one-time termination benefits associated with a voluntary early retirement program offered to certain qualified employees. The nine months ended September 30, 2022 benefited from a $7.3 million reversal of restructuring charges. The remaining increases were primarily due to investments in and expansion of our workforce and new business initiatives as well as the industry-wide increase in FDIC expense. 
+
+The following table summarizes the components of non-interest expense. 
+
+Table 7 - Non-interest Expense Three Months Ended September 30, Nine Months Ended September 30, (dollars in thousands) 2023 2022 $ Change % Change 2023 2022 $ Change % Change Salaries and other personnel expense $ 179,741 &#160; $ 173,334 $ 6,407 4 % $ 551,667 &#160; $ 499,081 $ 52,586 11 % Net occupancy, equipment, and software expense 45,790 &#160; 43,462 2,328 5 131,435 &#160; 129,538 1,897 1 Third-party processing and other services 21,439 &#160; 22,539 (1,100) (5) 64,932 &#160; 65,486 (554) (1) Professional fees 10,147 &#160; 6,755 3,392 50 28,707 &#160; 26,094 2,613 10 FDIC insurance and other regulatory fees 11,837 &#160; 7,707 4,130 54 33,266 &#160; 20,851 12,415 60 Amortization of intangibles 3,042 &#160; 2,118 924 44 7,319 &#160; 6,354 965 15 Restructuring charges (reversals) 17,319 &#160; 956 16,363 nm 16,476 &#160; (7,318) 23,794 nm Valuation adjustment to Visa derivative 900 &#160; &#8212; 900 nm 3,927 &#160; 3,500 427 12 (Gain) loss on early extinguishment of debt (526) &#8212; (526) nm (903) 677 (1,580) nm Loss on other loans held for sale 30,954 &#160; &#8212; 30,954 nm 50,064 &#160; &#8212; 50,064 nm Other operating expense 32,889 &#160; 37,139 (4,250) (11) 95,676 &#160; 104,248 (8,572) (8) Total non-interest expense $ 353,532 &#160; $ 294,010 $ 59,522 20 % $ 982,566 &#160; $ 848,511 $ 134,055 16 % 
+
+Three and Nine Months Ended September 30, 2023 compared to September 30, 2022 
+
+Salaries and other personnel expense increased for the three and nine months ended September 30, 2023 primarily due to the impacts of merit and inflationary wage increases and employee healthcare costs, while the nine months ended September 30, 2023 was also negatively impacted by a $7.5 million change in the fair value of the non-qualified deferred compensation liability (offset in non-interest revenue). Total headcount of 4,997 was down by 127, or 2%, compared to September 30, 2022 primarily as a result of the aforementioned voluntary early retirement program in addition to strategic reductions in areas primarily impacted by production volume declines, somewhat offset by additions in areas associated with revenue growth and certain critical support functions. 
+
+Professional fees were up for the three and nine months ended September 30, 2023 mostly due to higher consulting fees largely related to strategic and infrastructure investments and increased legal fees from various transaction-related matters. 
+
+FDIC insurance and other regulatory fees increased for the three and nine months ended September 30, 2023, largely due to the industry-wide 2 bps increase in the deposit insurance initial base assessment rate that went into effect in the first quarter of 2023. Moreover, on May 22, 2023, the FDIC published its proposed rule to charge certain banks a special assessment to cover losses incurred by the Deposit Insurance Fund (DIF) due to bank failures in March 2023. The rule proposes a special assessment at an annual rate of 12.5 bps on a bank's uninsured deposits balance, in excess of $5 billion, as of December 31, 2022, payable in eight quarterly installments beginning in the first quarter of 2024. If the rule is finalized as proposed, we expect to record an expense and corresponding liability of approximately $47 million upon the enactment date, which is the date the final rule is published in the Federal Register. 
+
+During the three months ended September 30, 2023, restructuring charges (reversals) primarily consisted of $18.4 million in one-time termination benefits associated with a voluntary early retirement program offered to certain qualified employees and $857 thousand in gains on sale of branches previously closed. The nine months ended September 30, 2023 included the aforementioned charges related to the voluntary early retirement program in addition to $4.1 million in gains on the sale of branches previously closed and $1.5 million of additional severance that was unrelated to the amount recorded for the voluntary early retirement program. Restructuring reversals during the nine months ended September 30, 2022 primarily included $12.6 million in gains largely relating to the sale of corporate real estate facilities in Columbus, Georgia. 
+
+During the three and nine months ended September 30, 2023, Synovus recorded valuation adjustments of $900 thousand and $3.9 million, respectively, to the Visa derivative associated with an indemnification agreement following Visa's announcement to fund to its litigation escrow account, while during the nine months ended September 30, 2022, $3.5 million was recorded following Visa's litigation escrow funding. 
+
+During the three and nine months ended September 30, 2023, Synovus repurchased $9.0 million and $13.6 million, respectively, of its 5.90% Fixed-to-Floating Rate Subordinated Notes on the open market and recognized gains of $526 thousand and $903 thousand, respectively, on the early extinguishment of debt. On February 10, 2022, Synovus Bank 
+
+redeemed all of its 2.289% Fixed-to-Floating Rate Senior Bank Notes and incurred a $677 thousand loss on early extinguishment of debt. 
+
+During the three and nine months ended September 30, 2023, Synovus recorded losses of $31.0 million and $50.1 million, respectively, related to the strategic sales of medical office buildings loans and third-party consumer loans that closed in the third quarter of 2023. See Note 3 - Loans and Allowance for Loan Losses for further discussion. 
+
+Other operating expense includes advertising, travel, insurance, network and communication, other taxes, subscriptions and dues, other loan and ORE expense, postage and freight, training, business development, supplies, donations, and other miscellaneous expense. Other operating expense was down for the three and nine months ended September 30, 2023 largely due to decreased loan expense from lower production. Year-to-date other operating expense was also impacted by the reversal of a $2.7 million impairment charge related to Qualpay recorded in the first quarter of 2023. 
+
+Income Tax Expense 
+
+Income tax expense was $27.7 million for the three months ended September 30, 2023, compared to $59.6 million for the three months ended September 30, 2022, representing effective tax rates of 22.3% and 22.7%, respectively. Income tax expense was $133.2 million for the nine months ended September 30, 2023, compared to income tax expense of $152.1 million for the nine months ended September 30, 2022, representing effective tax rates of 22.0% and 21.6%, respectively. 
+
+The effective tax rate was lower for the three months ended September 30, 2023, but higher for the nine months ended September 30, 2023, primarily due to a change in the timing and mix of discrete tax items recognized in the comparable periods. These items include tax benefits from share-based compensation, the accrual and release of reserves for uncertain tax positions, and accounting for changes in tax laws, all of which can vary significantly and affect comparability from period to period. 
+
+CREDIT QUALITY, CAPITAL RESOURCES AND LIQUIDITY 
+
+Credit Quality 
+
+Synovus diligently monitors the quality of its loan portfolio by industry, property type, and geography through a thorough portfolio review process and our analytical risk management tools. Credit metrics continue to migrate from historically low levels with NPAs and NPLs both at 64 bps and total past dues at 13 bps, as a percentage of total loans at September 30, 2023. Net charge-offs were $66.8 million, or 61 bps annualized, and $111.8 million, or 34 bps annualized, and included charge-offs of $23.3 million and $31.3 million, respectively, for the three and nine months ended September 30, 2023, related to the strategic sales of medical office buildings loans and third-party lending loans that closed in the third quarter of 2023. During the three months ended September 30, 2023, Synovus also charged-off $23.3 million related to exposure in a nationally syndicated credit. We expect a net charge-off ratio range of 30-40 bps in the fourth quarter of 2023 and a net charge-off ratio range of 25-30 bps for the full year 2023. 
+
+The table below includes selected credit quality metrics. 
+
+Table 8 - Credit Quality Metrics (dollars in thousands) September 30, 2023 December 31, 2022 September 30, 2022 Non-performing loans 
+
+$ 280,532 &#160; $ 128,061 $ 122,094 Impaired loans held for sale &#8212; &#160; &#8212; 447 ORE and other assets 
+
+&#8212; &#160; 15,320 15,320 Non-performing assets 
+
+$ 280,532 &#160; $ 143,381 $ 137,861 Total loans 
+
+$ 43,679,910 &#160; $ 43,716,353 $ 42,571,458 Non-performing loans as a % of total loans 
+
+0.64 &#160; % 0.29 % 0.29 % Non-performing assets as a % of total loans, ORE, and specific other assets 
+
+0.64 &#160; 0.33 0.32 Loans 90 days past due and still accruing 
+
+$ 3,792 &#160; $ 3,373 $ 3,443 As a % of total loans 
+
+0.01 &#160; % 0.01 % 0.01 % Total past due loans and still accruing 
+
+$ 54,974 &#160; $ 65,568 $ 63,545 As a % of total loans 
+
+0.13 &#160; % 0.15 % 0.15 % Net charge-offs, quarter $ 66,822 &#160; 13,300 $ 4,682 Net charge-offs/average loans, quarter 0.61 &#160; % 0.12 % 0.04 % Net charge-offs, year-to-date $ 111,768 &#160; $ 53,156 $ 39,856 Net charge-offs/average loans, year-to-date 0.34 &#160; % 0.13 % 0.13 % Provision for (reversal of) loan losses, quarter $ 73,116 &#160; $ 35,366 $ 18,204 Provision for (reversal of) unfunded commitments, quarter (544) (482) 7,377 Provision for (reversal of) credit losses, quarter $ 72,572 &#160; $ 34,884 $ 25,581 Provision for (reversal of) loan losses, year-to-date 145,876 &#160; 68,983 33,618 Provision for (reversal of) unfunded commitments, year-to-date (2,269) 15,570 16,051 Provision for (reversal of) credit losses, year-to-date 143,607 &#160; 84,553 49,669 Allowance for loan losses $ 477,532 &#160; $ 443,424 $ 421,359 Reserve for unfunded commitments 55,185 &#160; 57,455 57,936 Allowance for credit losses $ 532,717 &#160; $ 500,879 $ 479,295 ACL to loans coverage ratio 
+
+1.22 &#160; % 1.15 % 1.13 % ALL to loans coverage ratio 
+
+1.09 &#160; 1.01 0.99 ACL/NPLs 189.90 &#160; 391.13 392.56 ALL/NPLs 170.22 &#160; 346.26 345.11 
+
+Non-performing Assets 
+
+Total NPAs were $280.5 million at September 30, 2023, a $137.2 million, or 96%, increase from December 31, 2022 primarily due to the designation of several large commercial relationships as non-performing, which are reserved and collateralized. 
+
+Criticized and Classified Loans 
+
+Our loan ratings are aligned to federal banking regulators' definitions of pass and criticized categories, which include special mention, substandard, doubtful, and loss. Substandard accruing and non-accruing loans, doubtful, and loss loans are often collectively referred to as classified. Special mention, substandard, doubtful, and loss loans are often collectively referred to as criticized and classified loans. The following table presents a summary of criticized and classified loans. Criticized and classified loans at September 30, 2023 were 3.4% of total loans, or $1.48 billion, up $541.8 million as compared to 2.2% of total loans, or $942.1 million, at December 31, 2022. 
+
+Table 9 - Criticized and Classified Loans (dollars in thousands) September 30, 2023 December 31, 2022 Special mention $ 568,052 &#160; $ 312,921 Substandard 857,065 &#160; 626,266 Doubtful 39,987 &#160; &#8212; Loss 18,786 &#160; 2,884 Criticized and Classified loans $ 1,483,890 &#160; $ 942,071 As a % of total loans 
+
+3.4 &#160; % 2.2 % 
+
+Provision for (Reversal of) Credit Losses and Allowance for Credit Losses 
+
+The provision for credit losses was $72.6 million and $143.6 million, respectively, for the three and nine months ended September 30, 2023, compared to a provision of $25.6 million and $49.7 million, respectively, for the three and nine months ended September 30, 2022. The increases were predominantly driven by increased net charge-offs. Net charge-offs for the three and nine months ended September 30, 2023 were $66.8 million and $111.8 million, respectively, as compared to $4.7 million and $39.9 million, respectively, for the three and nine months ended September 30, 2022. As previously mentioned, 2023 net charge-offs were primarily driven by loan sales and exposure to a nationally syndicated credit. 
+
+The ALL of $477.5 million and the reserve for unfunded commitments of $55.2 million, which is recorded in other liabilities, comprise the total ACL of $532.7 million at September 30, 2023. The ACL increased $31.8 million compared to the December 31, 2022 ACL of $500.9 million, which consisted of an ALL of $443.4 million and the reserve for unfunded commitments of $57.5 million. The ACL to loans coverage ratio of 1.22% at September 30, 2023 increased 7 bps as compared to December 31, 2022. The increase in the ACL from December 31, 2022 resulted primarily from normalizing observed defaults, reserves on individually evaluated loans, and uncertain economic conditions. 
+
+Capital Resources 
+
+Synovus and Synovus Bank are required to comply with capital adequacy standards established by our primary federal regulator, the Federal Reserve. Synovus and Synovus Bank measure capital adequacy using the standardized approach under Basel III. At September 30, 2023, Synovus and Synovus Bank's capital levels remained strong and exceeded well-capitalized 
+
+requirements currently in effect. The following table presents certain ratios used to measure Synovus and Synovus Bank's capitalization. 
+
+Table 10 - Capital Ratios (dollars in thousands) September 30, 2023 December 31, 2022 CET1 capital Synovus Financial Corp. $ 5,182,453 &#160; $ 4,926,194 Synovus Bank 5,573,571 &#160; 5,446,703 Tier 1 risk-based capital Synovus Financial Corp. 5,719,598 &#160; 5,463,339 Synovus Bank 5,573,571 &#160; 5,446,703 Total risk-based capital Synovus Financial Corp. 6,709,654 &#160; 6,415,681 Synovus Bank 6,256,288 &#160; 6,079,152 CET1 capital ratio Synovus Financial Corp. 10.13 &#160; % 9.63 % Synovus Bank 10.93 &#160; 10.66 Tier 1 risk-based capital ratio Synovus Financial Corp. 11.18 &#160; 10.68 Synovus Bank 10.93 &#160; 10.66 Total risk-based capital to risk-weighted assets ratio Synovus Financial Corp. 13.12 &#160; 12.54 Synovus Bank 12.26 &#160; 11.89 Leverage ratio Synovus Financial Corp. 9.38 &#160; 9.07 Synovus Bank 9.15 &#160; 9.06 
+
+At September 30, 2023, Synovus' CET1 ratio of 10.13% improved 50 bps compared to December 31, 2022, as our organic earnings continue to support capital accretion, which along with recent strategic transactions including loan sales, has been more than sufficient to offset marginal headwinds from the Qualpay acquisition. See Note 1 - Basis of Presentation and Accounting Policies for additional discussion on Qualpay. In light of the persistent uncertain economic environment, in the near-term, we will continue to focus on preserving capital. Over the medium-term, capital management could be more opportunistic, depending on economic outlook, credit migration and growth prospects . For additional information on regulatory capital requirements, see "Part II - Item 8. Financial Statements and Supplementary Data - Note 10 - Regulatory Capital" to the consolidated financial statements of Synovus' 2022 Form 10-K. Management reviews the Company's capital position on an on-going basis and believes, based on internal capital analyses and earnings projections, that Synovus is well positioned to meet relevant regulatory capital standards. 
+
+On January 18, 2023, Synovus announced that its Board of Directors approved a capital plan that included a $0.04 increase in the quarterly common stock dividend to $0.38 per share, beginning with the quarterly dividend payable in April 2023, and authorized share repurchases of up to $300 million in 2023. Synovus has not repurchased any shares during 2023. 
+
+On August 26, 2020, the federal banking regulators issued a final rule that allowed electing banking organizations that adopted CECL during 2020 to mitigate the estimated effects of CECL on regulatory capital for two years, followed by a three-year phase-in transition period. Synovus adopted CECL on January 1, 2020 and the September 30, 2023 regulatory capital ratios reflect Synovus' election of the five-year transition provision. At September 30, 2023, $29.2 million, or a cumulative 6 bps benefit to CET1, was deferred. 
+
+Dividends 
+
+Synovus has historically paid a quarterly cash dividend to the holders of its common stock. Management and the Board of Directors closely monitor current and projected capital levels, liquidity (including dividends from subsidiaries), financial markets and other economic trends, as well as regulatory requirements regarding the payment of dividends. 
+
+Synovus' ability to pay dividends on its common stock and preferred stock is primarily dependent upon dividends and distributions that it receives from its bank and non-banking subsidiaries, which are restricted by various regulations administered by federal and state bank regulatory authorities. 
+
+Synovus declared common stock dividends of $166.6 million, or $1.14 per common share, for the nine months ended September 30, 2023, compared to $148.3 million, or $1.02 per common share, for the nine months ended September 30, 2022. In addition, Synovus declared dividends on its preferred stock of $26.3 million for the nine months ended September 30, 2023 compared to $24.9 million for the nine months ended September 30, 2022. 
+
+Liquidity 
+
+Liquidity represents the extent to which Synovus has readily available sources of funding to meet the needs of depositors, borrowers, and creditors; to support asset growth; and to otherwise sustain operations of Synovus and its subsidiaries, at a reasonable cost, on a timely basis, and without adverse consequences. ALCO monitors Synovus' economic, competitive, and regulatory environment and is responsible for measuring, monitoring, and reporting on liquidity and funding risk as well as market risk. 
+
+In accordance with Synovus policies and regulatory guidance, ALCO evaluates contractual and anticipated cash flows under normal and stressed conditions to properly manage the Company&#8217;s liquidity profile. Synovus places an emphasis on maintaining numerous sources of current and contingent liquidity to meet its obligations to depositors, borrowers, and creditors on a timely basis. Liquidity is generated through various sources, including, but not limited to, maturities and repayments of loans by clients, maturities and sales of investment securities, and growth in core and wholesale deposits. 
+
+Synovus Bank also generates liquidity through the issuance of brokered certificates of deposit and money market accounts. Synovus Bank accesses funds from a broad geographic base to diversify its sources of funding and liquidity. Synovus Bank also has the capacity to access funding through its membership in the FHLB system and the Federal Reserve. Management continuously monitors and maintains appropriate levels of liquidity so as to provide adequate funding sources to manage client deposit withdrawals, loan requests, and other funding demands. 
+
+Core deposit balances have increased by $409.6 million compared to December 31, 2022. Fluctuations among deposit categories, including a $2.18 billion decrease in non-interest-bearing demand deposits and a $1.69 billion decline in money market accounts, with an offsetting $3.78 billion increase in time deposits, has primarily been a function of the rate environment, as well as deployment of excess cash in the case of non-interest-bearing deposits. Compared to the linked quarter, we have started to see a slowing in the trend of clients shifting between time deposits and money market accounts. Synovus continues to proactively manage its liquidity position, which has included increasing brokered deposits, and robust contingent liquidity is maintained across a diverse set of sources which include immediately available funds as well as funds we expect to be available within short notice. Contingent liquidity sources include primary sources such as FHLB borrowing capacity, FRB cash reserves, and third-party consumer loans, which includes our decision to sell loans from this portfolio and strategic runoff, while secondary sources consist of the Federal Reserve discount window, Fed Funds lines, and other sources like the FRB's Bank Term Funding Program. At September 30, 2023, contingent sources of liquidity totaled approximately $26.7 billion, and based on currently pledged collateral, Synovus Bank had access to FHLB funding of $6.67 billion, subject to FHLB credit policies. Synovus was able to improve its liquidity position by reducing our reliance on wholesale funding by $1.62 billion during the third quarter of 2023. 
+
+In addition to bank level liquidity management, Synovus must manage liquidity at the Parent Company level for various operating needs, including the servicing of debt, the payment of dividends on our common stock and preferred stock, payment of general corporate expense, and potential capital infusions into subsidiaries. The primary source of liquidity for Synovus consists of dividends from Synovus Bank, which is governed by certain rules and regulations of the GA DBF and the Federal Reserve Bank. Synovus' ability to receive dividends from Synovus Bank in future periods will depend on a number of factors, including, without limitation, Synovus Bank's future profits, asset quality, liquidity, and overall condition. In addition, both the GA DBF and Federal Reserve Bank may require approval to pay dividends, based on certain regulatory statutes and limitations. 
+
+On February 15, 2023, Synovus Bank issued $500 million aggregate principal amount of 5.625% Senior Bank Notes due 2028, and the Notes will mature on February 15, 2028. The Notes will bear interest at 5.625% per annum, payable semiannually in arrears on each February 15 and August 15, beginning on August 15, 2023. Synovus Bank may not redeem the Notes prior to August 15, 2023. The redemption price for any redemption in whole or in part, at our option, on or after August 15, 2023, and prior to January 15, 2028, is equal to the greater of: (1) (a) the sum of the present values of the remaining scheduled payments of principal and interest thereon discounted to the redemption date (assuming the Notes matured on January 15, 2028) on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 30 basis points less (b) interest accrued to the date of redemption, and (2) 100% of the principal amount of the Notes to be redeemed, plus, in either case, accrued and unpaid interest thereon to the redemption date. The redemption price for any redemption after January 15, 
+
+2028 is 100% of the principal amount of the Notes, plus accrued and unpaid interest thereon to the redemption date. The Notes are not redeemable at the option or election of holders. 
+
+During the three and nine months ended September 30, 2023, Synovus repurchased $9.0 million and $13.6 million, respectively, of its 5.90% Fixed-to-Floating Rate Subordinated Notes on the open market and recognized gains of $526 thousand and $903 thousand, respectively, on the early extinguishment of debt. The Company may continue to redeem any outstanding debt as it deems appropriate and as permitted per regulatory approvals if so required and compliance with laws. 
+
+Synovus presently believes that the sources of liquidity discussed above, including existing liquid funds on hand, are sufficient to meet its anticipated funding needs. See "Part II &#8211; Item 1A. Risk Factors - Recent negative developments in the banking industry could adversely affect our current and projected business operations and our financial condition and results of operations," of our Quarterly Report on Form 10-Q for the quarter ended March 31, 2023 and "Part I &#8211; Item 1A. Risk Factors - Changes in the cost and availability of funding due to changes in the deposit market and credit market may adversely affect our capital resources, liquidity and financial results, " of Synovus' 2022 Form 10-K. Furthermore, Synovus may, from time to time, take advantage of attractive market opportunities to refinance, retire, or repurchase its existing debt, redeem its preferred stock, or strengthen its liquidity or capital position. 
+
+Earning Assets and Sources of Funds 
+
+Average total assets for the nine months ended September 30, 2023 increased $3.02 billion, or 5%, as compared to the first nine months of 2022. Average earning assets increased $3.32 billion, or 6%, in the first nine months of 2023 compared to the same period in 2022. The increase in average earning assets primarily resulted from a $3.22 billion, or 8%, increase in average total loans, net of unearned income, primarily attributable to growth in commercial loans largely in the second half of 2022 as well as increased line utilization and low levels of pay-offs. 
+
+Average interest-bearing liabilities increased $5.57 billion, or 16%, for the first nine months of 2023 compared to the same period in 2022. The increase in average interest-bearing liabilities largely resulted from a $2.92 billion increase in brokered deposits, a $2.19 billion increase in time deposits, and a $1.89 billion increase in long-term debt, partially offset by a $1.93 billion decrease in money market accounts. The increases in brokered deposits and long-term debt were largely due to the ongoing management of our liquidity position which also included the February 2023 issuance of $500.0 million par value Synovus Bank Senior Notes. The increase in time deposits and decrease in money market accounts were correlated as fluctuations between these categories have been driven by the rate environment. Average non-interest-bearing deposits decreased $2.81 billion, or 17%, for the first nine months of 2023 compared to the same period in 2022 primarily due to the continued pressures from the rate environment and client deployment of excess funds. 
+
+Net interest income for the nine months ended September 30, 2023 was $1.38 billion, up $83.9 million, or 6%, compared to the same period in 2022. Net interest margin was up 1 bp over the comparable nine - month period to 3.25% as the benefits of our asset sensitive balance sheet and average loan growth were largely offset by continued increases in funding costs. 
+
+On a sequential quarter basis, net interest income was down $12.4 million, or 3%, impacted largely by continued higher deposit costs. Net interest margin for the third quarter was 3.11%, down 9 bps compared to the second quarter of 2023, as the asset side of our balance sheet continued to benefit from higher rates, but the associated lagged impact from higher deposit pricing combined with remixing within our non-interest-bearing deposits resulted in margin compression. We expect net interest margin in the fourth quarter of 2023 to contract at a pace similar to the third quarter of 2023, followed by expectations for a relatively stable margin in the first quarter of 2024. 
+
+Net Interest Income and Rate/Volume Analysis 
+
+The following tables set forth the major components of net interest income and the related annualized yields and rates for the three and nine months ended September 30, 2023 and 2022, as well as the variances between the periods caused by changes in interest rates versus changes in volume. 
+
+Table 11 - Quarter-to-Date Net Interest Income and Rate/Volume Analysis Three Months Ended September 30, 2023 Compared to 2022 2023 2022 Change due to (1) 
+
+(dollars in thousands) 
+
+Average Balance Interest Yield/ Rate Average Balance Interest Yield/ Rate Volume Yield/ Rate Increase (Decrease) Assets 
+
+Interest earning assets: 
+
+Commercial loans (2) (3) 
+
+$ 34,990,459 &#160; $ 579,177 &#160; 6.57 &#160; % $ 32,836,799 $ 384,995 4.65 % $ 25,242 $ 168,940 $ 194,182 Consumer loans (2) 
+
+8,509,757 &#160; 108,065 &#160; 5.06 &#160; 8,931,573 94,425 4.21 (4,476) 18,116 13,640 Less: Allowance for loan losses 
+
+(461,385) &#8212; &#160; &#8212; &#160; (419,160) &#8212; &#8212; &#8212; &#8212; &#8212; Loans, net 
+
+43,038,831 &#160; 687,242 &#160; 6.34 &#160; 41,349,212 479,420 4.60 20,766 187,056 207,822 Investment securities available for sale 
+
+11,194,291 &#160; 61,642 &#160; 2.20 &#160; 11,126,705 53,550 1.92 327 7,765 8,092 Trading account assets 
+
+16,186 &#160; 237 &#160; 5.86 &#160; 16,771 81 1.93 (3) 159 156 Other earning assets (4) 
+
+1,237,445 &#160; 16,369 &#160; 5.17 &#160; 1,012,717 5,791 2.24 1,263 9,315 10,578 FHLB and Federal Reserve Bank stock 
+
+244,906 &#160; 3,783 &#160; 6.18 &#160; 244,879 1,412 2.31 &#8212; 2,371 2,371 Mortgage loans held for sale 
+
+53,904 &#160; 879 &#160; 6.52 &#160; 66,601 862 5.18 (166) 183 17 Other loans held for sale 881,067 &#160; 17,035 &#160; 7.57 &#160; 892,805 11,155 4.89 (145) 6,025 5,880 Total interest earning assets 
+
+56,666,630 &#160; $ 787,187 &#160; 5.51 &#160; % 54,709,690 $ 552,271 4.00 % 22,042 212,874 234,916 Cash and due from banks 
+
+509,511 &#160; 557,537 Premises and equipment 
+
+365,568 &#160; 383,189 Other real estate 
+
+&#8212; &#160; 2,398 Cash surrender value of bank-owned life insurance 
+
+1,102,626 &#160; 1,080,914 Other assets (5) &#160; 
+
+1,272,344 &#160; 1,322,251 Total assets 
+
+$ 59,916,679 &#160; $ 58,055,979 Liabilities and Shareholders' Equity 
+
+Interest-bearing liabilities: 
+
+Interest-bearing demand deposits 
+
+$ 10,114,171 &#160; $ 52,983 &#160; 2.08 &#160; % $ 8,437,408 $ 5,782 0.27 % $ 1,141 $ 46,060 $ 47,201 Money market accounts 
+
+13,147,465 &#160; 95,339 &#160; 2.88 &#160; 15,410,964 20,696 0.53 (3,024) 77,667 74,643 Savings deposits 
+
+1,178,322 &#160; 280 &#160; 0.09 &#160; 1,508,312 84 0.02 (17) 213 196 Time deposits 
+
+6,180,584 &#160; 59,972 &#160; 3.85 &#160; 2,270,163 2,428 0.42 4,140 53,404 57,544 Brokered deposits 6,442,690 &#160; 83,486 &#160; 5.14 &#160; 3,899,669 17,927 1.82 11,666 53,893 65,559 Federal funds purchased and securities sold under repurchase agreements 
+
+73,344 &#160; 296 &#160; 1.58 &#160; 240,412 641 1.04 (438) 93 (345) Other short-term borrowings 
+
+1,722 &#160; &#8212; &#160; &#8212; &#160; 709,078 3,666 2.02 (3,602) (64) (3,666) Long-term debt 
+
+3,230,374 &#160; 50,524 &#160; 6.18 &#160; 2,656,939 22,156 3.29 4,755 23,613 28,368 Total interest-bearing liabilities 
+
+40,368,672 &#160; $ 342,880 &#160; 3.37 &#160; % 35,132,945 $ 73,380 0.83 % $ 14,621 $ 254,879 $ 269,500 Non-interest-bearing demand deposits 
+
+13,049,343 &#160; 16,904,353 Other liabilities 
+
+1,713,131 &#160; 1,340,020 Total equity 
+
+4,785,533 &#160; 4,678,661 Total liabilities and shareholders' equity 
+
+$ 59,916,679 &#160; $ 58,055,979 Net interest income and net interest margin, taxable equivalent (6) 
+
+$ 444,307 &#160; 3.11 &#160; % $ 478,891 3.47 % $ 7,421 $ (42,005) $ (34,584) Less: taxable-equivalent adjustment 
+
+1,148 &#160; 972 Net interest income 
+
+$ 443,159 &#160; $ 477,919 
+
+(1) Changes in rate/volume will equal the increase/ (decrease) in interest income/expense. 
+
+(2) Average loans are shown net of unearned income. NPLs are included. Interest income includes fees as follows: 2023 - $11.8 million, 2022 - $11.9 million. 
+
+(3) Reflects taxable-equivalent adjustments, using the statutory federal income tax rate of 21%, in adjusting interest on tax-exempt loans to a taxable-equivalent basis. 
+
+(4) Includes interest-bearing funds with Federal Reserve Bank, interest earning deposits with banks, and federal funds sold and securities purchased under resale agreements. 
+
+(5) Includes average net unrealized gains (losses) on investment securities available for sale of $(1.60) billion and $(1.06) billion for the three months ended September 30, 2023 and 2022, respectively. 
+
+(6) The net interest margin is calculated by dividing annualized net interest income - TE by average total interest earnings assets. 
+
+Table 12 - Year-to-Date Net Interest Income and Rate/Volume Analysis Nine Months Ended September 30, 2023 Compared to 2022 2023 2022 Change due to (1) 
+
+(dollars in thousands) 
+
+Average Balance Interest Yield/ Rate Average Balance Interest Yield/ Rate Volume Rate Increase (Decrease) Assets 
+
+Interest earning assets: 
+
+Commercial loans (2) (3) 
+
+$ 35,216,487 &#160; $ 1,672,529 &#160; 6.35 &#160; % $ 31,828,932 $ 974,024 4.09 % $ 103,629 $ 594,876 $ 698,505 Consumer loans (2) 
+
+8,580,029 &#160; 316,757 &#160; 4.92 &#160; 8,749,927 259,619 3.95 (5,019) 62,157 57,138 Less: Allowance for loan losses 
+
+(457,818) &#8212; &#160; &#8212; &#160; (419,478) &#8212; &#8212; &#8212; &#8212; Loans, net 
+
+43,338,698 &#160; 1,989,286 &#160; 6.14 &#160; 40,159,381 1,233,643 4.11 98,610 657,033 755,643 Investment securities available for sale 
+
+11,229,290 &#160; 183,118 &#160; 2.17 &#160; 11,179,378 151,111 1.80 672 31,335 32,007 Trading account assets 
+
+16,302 &#160; 671 &#160; 5.49 &#160; 12,640 193 2.04 56 422 478 Other earning assets (4) 
+
+1,398,211 &#160; 51,660 &#160; 4.87 &#160; 1,245,102 8,267 0.88 996 42,397 43,393 FHLB and Federal Reserve Bank stock 
+
+277,136 &#160; 11,439 &#160; 5.50 &#160; 195,238 3,917 2.67 1,636 5,886 7,522 Mortgage loans held for sale 
+
+48,398 &#160; 2,297 &#160; 6.33 &#160; 85,126 2,665 4.17 (1,146) 778 (368) Other loans held for sale 625,262 &#160; 26,995 &#160; 5.69 &#160; 739,627 24,133 4.30 (3,678) 6,540 2,862 Total interest earning assets 
+
+56,933,297 &#160; $ 2,265,466 &#160; 5.32 &#160; % 53,616,492 $ 1,423,929 3.55 % 97,146 744,391 841,537 Cash and due from banks 
+
+593,023 &#160; 548,322 Premises and equipment 
+
+367,332 &#160; 389,083 Other real estate 
+
+&#8212; &#160; 8,498 Cash surrender value of bank-owned life insurance 
+
+1,096,567 &#160; 1,076,381 Other assets (5) &#160; 
+
+1,187,026 &#160; 1,515,226 Total assets 
+
+$ 60,177,245 &#160; $ 57,154,002 Liabilities and Shareholders' Equity 
+
+Interest-bearing liabilities: 
+
+Interest-bearing demand deposits 
+
+$ 9,702,651 &#160; $ 118,007 &#160; 1.63 &#160; % $ 9,162,684 $ 11,752 0.17 % $ 687 $ 105,568 $ 106,255 Money market accounts 
+
+13,665,672 &#160; 253,351 &#160; 2.48 &#160; 15,592,671 32,896 0.28 (4,036) 224,491 220,455 Savings deposits 
+
+1,274,142 &#160; 771 &#160; 0.08 &#160; 1,491,893 223 0.02 (33) 581 548 Time deposits 
+
+4,892,146 &#160; 121,019 &#160; 3.31 &#160; 2,700,505 6,254 0.31 5,082 109,683 114,765 Brokered deposits 6,116,392 &#160; 214,627 &#160; 4.69 &#160; 3,192,848 27,952 1.17 25,583 161,092 186,675 Federal funds purchased and securities sold under repurchase agreements 
+
+98,212 &#160; 1,317 &#160; 1.77 &#160; 227,335 871 0.51 (493) 939 446 Other short-term borrowings 
+
+705,292 &#160; 24,559 &#160; 4.59 &#160; 400,862 4,561 1.50 3,415 16,583 19,998 Long-term debt 
+
+3,400,156 &#160; 148,968 &#160; 5.80 &#160; 1,512,059 41,069 3.61 50,980 56,919 107,899 Total interest-bearing liabilities 
+
+39,854,663 &#160; $ 882,619 &#160; 2.96 &#160; % 34,280,857 $ 125,578 0.49 % $ 81,185 $ 675,856 $ 757,041 Non-interest-bearing demand deposits 
+
+13,972,152 &#160; 16,786,794 Other liabilities 
+
+1,592,230 &#160; 1,243,900 Total equity 
+
+4,758,200 &#160; 4,842,451 Total liabilities and shareholders' equity 
+
+$ 60,177,245 &#160; $ 57,154,002 Net interest income and net interest margin, taxable equivalent (6) 
+
+$ 1,382,847 &#160; 3.25 &#160; % $ 1,298,351 3.24 % $ 15,961 $ 68,535 $ 84,496 Less: taxable-equivalent adjustment 
+
+3,405 &#160; 2,796 Net interest income 
+
+$ 1,379,442 &#160; $ 1,295,555 
+
+(1) Changes in rate/volume will equal the increase/ (decrease) in interest income/expense. 
+
+(2) Average loans are shown net of unearned income. NPLs are included. Interest income includes fees as follows: 2023 - $34.6 million, 2022 - $45.6 million. 
+
+(3) Reflects taxable-equivalent adjustments, using the statutory federal income tax rate of 21%, in adjusting interest on tax-exempt loans to a taxable-equivalent basis. 
+
+(4) Includes interest-bearing funds with Federal Reserve Bank, interest earning deposits with banks, and federal funds sold and securities purchased under resale agreements. 
+
+(5) Includes average net unrealized gains (losses) on investment securities available for sale of $(1.53) billion and $(747.7) million for the nine months ended September 30, 2023 and 2022, respectively. 
+
+(6) The net interest margin is calculated by dividing annualized net interest income - TE by average total interest earnings assets. 
+
+Market Risk Analysis 
+
+Interest rate risk is the primary market risk to which Synovus is potentially exposed. Synovus measures the sensitivity of net interest income to changes in market interest rates through the use of simulation modeling, which incorporates all of Synovus&#8217; earning assets and liabilities. These simulations are used to determine a baseline net interest income projection and the sensitivity of the income profile based on changes in interest rates. These simulations incorporate assumptions and factors, including, but not limited to, changes in market rates, in the size or composition of the balance sheet, and in repricing characteristics as well as client behaviors. This includes estimates for deposit repricing characteristics which, for purposes of the sensitivity estimates provided below, relies upon a constant, through-the-cycle total deposit cost beta of approximately 42% as of the most recently reported period. This process is reviewed and updated on an on-going basis in a manner consistent with Synovus&#8217; ALCO governance framework. 
+
+Synovus has modeled its baseline net interest income forecast assuming a relatively flat interest rate environment, with the federal funds rate at the Federal Reserve&#8217;s targeted range of 5.25% to 5.50% as of September 30, 2023 and the prime rate of 8.50% as of September 30, 2023. Synovus has modeled the impact of an immediate change in market interest rates across the yield curve of 100 and 200 bps to determine the sensitivity of net interest income for the next twelve months. As illustrated in the table below, the net interest income sensitivity derived from this simulation suggests that net interest income is projected to increase by 4.8% and 2.4% if interest rates increased by 200 and 100 bps, respectively. Net interest income is projected to decrease by 2.6% and 5.3% if interest rates decreased by 100 and 200 bps, respectively. 
+
+The following table represents the estimated sensitivity of net interest income at September 30, 2023, with comparable information for December 31, 2022. 
+
+Table 13 - Twelve Month Net Interest Income Sensitivity Estimated % Change in Net Interest Income as Compared to Unchanged Rates (for the next twelve months) Change in Interest Rates (in bps) September 30, 2023 December 31, 2022 +200 4.8% 6.4% +100 2.4 3.1 -100 (2.6) (3.5) -200 (5.3) (7.5) 
+
+While all of the above estimates are reflective of the general interest rate sensitivity of Synovus, local market conditions, the realized growth and remixing of the balance sheet, as well as the broader macroeconomic environment could all have a significant impact on both the sensitivity and realized level of net interest income. Additionally, should there be differences between realized deposit betas for a given level of rates as compared to the Company's estimates for through-the-cycle betas, this may also have a significant impact on our reported sensitivity and the realized level of net interest income. 
+
+The net interest income simulation model is the primary tool utilized to evaluate potential interest rate risks over a shorter-term time horizon. Synovus also evaluates potential longer-term interest rate risk through modeling and evaluation of the sensitivity of the Company's EVE. The EVE measurement process estimates the net fair value of assets, liabilities, and off-balance sheet financial instruments under various interest rate scenarios. Management uses EVE sensitivity analyses as an additional means of measuring interest rate risk and incorporates this form of analysis within its governance and limits framework. 
+
+Synovus is also subject to market risk in certain of its fee income business lines. Financial management services revenue, which include trust, brokerage, and asset management fees, can be affected by risk in the securities markets, primarily the equity securities market. A significant portion of the fees in this unit are determined based upon a percentage of asset values. Weaker securities markets and lower equity values have an adverse impact on the fees generated by these operations. Trading account assets, maintained to facilitate brokerage client activity, are also subject to market risk; however, trading activities are limited and subject to risk policy limits. Additionally, Synovus utilizes various tools to measure and manage price risk in its trading portfolio. 
+
+Mortgage banking income is also subject to market risk. Mortgage loan originations are sensitive to levels of mortgage interest rates and therefore, mortgage banking income can be negatively impacted during a period of rising interest rates as we have experienced in the past year. The extension of commitments to clients to fund mortgage loans also subjects Synovus to market risk. This risk is primarily created by the time periods between making the commitment, closing, and delivering the loan. Synovus seeks to minimize its exposure by utilizing various risk management tools, including forward sales commitments and other economic hedges. 
+
+Derivative Instruments for Interest Rate Risk Management 
+
+Synovus utilizes derivative instruments to manage its exposure to various types of structural interest rate risks by executing end-user derivative transactions designated as hedges. Hedging relationships may be designated as either a cash flow hedge, which mitigates risk exposure to the variability of future cash flows or other forecasted transactions, or a fair value hedge, which mitigates risk exposure to adverse changes in the fair market value of a fixed rate asset or liability due to changes in market interest rates. 
+
+As of September 30, 2023 and December 31, 2022, Synovus had $5.75 billion and $5.25 billion, respectively, in notional amounts outstanding of both effective and forward-starting interest rate swaps designated as cash flow hedging instruments to hedge its exposure to contractually specified interest rate risk associated with floating rate loans. 
+
+As of September 30, 2023 and December 31, 2022, Synovus had $2.77 billion and $2.23 billion, respectively, in notional amounts outstanding of receive-fixed, pay-variable interest rate swaps designated as fair value hedging instruments to hedge its exposure to the change in the fair value due to fluctuations in market interest rates for outstanding fixed-rate long-term debt and fixed-rate interest-bearing deposits. 
+
+Critical Accounting Policies 
+
+The accounting and financial reporting policies of Synovus are in accordance with GAAP and conform to the accounting and reporting guidelines prescribed by bank regulatory authorities. Synovus has identified certain of its accounting policies as &#8220;critical accounting policies,&#8221; consisting of those related to the allowance for credit losses and income taxes. In determining which accounting policies are critical in nature, Synovus has identified the policies that require significant judgment or involve complex estimates. It is management's practice to discuss critical accounting policies with the Board of Directors' Audit Committee on a periodic basis, including the development, selection, implementation, and disclosure of the critical accounting policies. The application of these policies has a significant impact on Synovus&#8217; unaudited interim consolidated financial statements. Synovus&#8217; financial results could differ significantly if different judgments or estimates are used in the application of these policies. All accounting policies described in "Part II - Item 8. Financial Statements and Supplementary Data - Note 1 - Summary of Significant Accounting Policies" in Synovus' 2022 Form 10-K should be reviewed for a greater understanding of how we record and report our financial performance. There have been no significant changes to the accounting policies, estimates, and assumptions, or the judgments affecting the application of these estimates and assumptions from those disclosed in Synovus' 2022 Form 10-K. 
+
+Non-GAAP Financial Measures 
+
+The measures entitled adjusted non-interest revenue, adjusted non-interest expense, adjusted revenue, adjusted tangible efficiency ratio, adjusted net income available to common shareholders, adjusted net income per common share, diluted, adjusted return on average assets, adjusted return on average common equity, return on average tangible common equity, adjusted return on average tangible common equity, and tangible common equity ratio, are not measures recognized under GAAP and therefore are considered non-GAAP financial measures. The most comparable GAAP measures to these measures are total non-interest revenue, total non-interest expense, total revenue, efficiency ratio-TE, net income available to common shareholders, net income per common share, diluted, return on average assets, return on average common equity, and the ratio of total shareholders' equity to total assets, respectively. 
+
+Management believes that these non-GAAP financial measures provide meaningful additional information about Synovus to assist management and investors in evaluating Synovus&#8217; operating results, financial strength, the performance of its business, and the strength of its capital position. However, these non-GAAP financial measures have inherent limitations as analytical tools and should not be considered in isolation or as a substitute for analyses of operating results or capital position as reported under GAAP. The non-GAAP financial measures should be considered as additional views of the way our financial measures are affected by significant items and other factors, and since they are not required to be uniformly applied, they may not be comparable to other similarly titled measures at other companies. Adjusted revenue and adjusted non-interest revenue are measures used by management to evaluate total revenue and non-interest revenue exclusive of net investment securities gains (losses), and fair value adjustments on non-qualified deferred compensation, and other items not indicative of ongoing operations that could impact period-to-period comparisons. Adjusted non-interest expense and the adjusted tangible efficiency ratio are measures utilized by management to measure the success of expense management initiatives focused on reducing recurring controllable operating costs. Adjusted net income available to common shareholders, adjusted net income per common share, diluted, adjusted return on average assets, and adjusted return on average common equity are measurements used by management to evaluate operating results exclusive of items that management believes are not indicative of ongoing operations and impact period-to-period comparisons. Return on average tangible common equity and adjusted return on average tangible common equity is a measure used by management to compare Synovus' performance with other financial institutions because it calculates the return available to common shareholders without the impact of intangible assets and their related amortization, thereby allowing management to evaluate the performance of the business consistently. The tangible common 
+
+equity ratio is used by management to assess the strength of our capital position. The computations of these measures are set forth in the tables below. 
+
+Management does not provide a reconciliation for forward-looking non-GAAP financial measures where it is unable to provide a meaningful or accurate calculation or estimation of reconciling items and the information is not available without unreasonable effort. This is due to the inherent difficulty of forecasting the occurrence and the financial impact of various items that have not yet occurred, are out of Synovus&#8217; control, or cannot be reasonably predicted. For the same reasons, Synovus&#8217; management is unable to address the probable significance of the unavailable information. Forward-looking non-GAAP financial measures provided without the most directly comparable GAAP financial measures may vary materially from the corresponding GAAP financial measures. 
+
+Table 14 - Reconciliation of Non-GAAP Financial Measures Three Months Ended Nine Months Ended (in thousands, except per share data) September 30, 2023 September 30, 2022 September 30, 2023 September 30, 2022 Adjusted non-interest revenue Total non-interest revenue $ 107,139 &#160; $ 104,298 $ 352,541 &#160; $ 306,897 Gain on sale of GLOBALT (1,929) &#8212; (1,929) &#8212; Investment securities (gains) losses, net &#8212; &#160; &#8212; (1,030) &#8212; Recovery of NPA &#8212; &#160; &#8212; (13,126) &#8212; Fair value adjustment on non-qualified deferred compensation 1,035 &#160; 1,076 (1,934) 5,611 Adjusted non-interest revenue $ 106,245 &#160; $ 105,374 $ 334,522 &#160; $ 312,508 Adjusted non-interest expense Total non-interest expense $ 353,532 &#160; $ 294,010 $ 982,566 &#160; $ 848,511 (Loss) gain on other loans held for sale (30,954) &#8212; (50,064) &#8212; Restructuring charges (reversals) (17,319) (956) (16,476) 7,318 Valuation adjustment to Visa derivative (900) &#8212; (3,927) (3,500) Gain (loss) on early extinguishment of debt 526 &#160; &#8212; 903 &#160; (677) Fair value adjustment on non-qualified deferred compensation 1,035 &#160; 1,076 (1,934) 5,611 Adjusted non-interest expense $ 305,920 &#160; $ 294,130 $ 911,068 &#160; $ 857,263 
+
+Table 14 - Reconciliation of Non-GAAP Financial Measures, continued Three Months Ended Nine Months Ended (in thousands, except per share data) September 30, 2023 September 30, 2022 September 30, 2023 September 30, 2022 Adjusted revenue and adjusted tangible efficiency ratio Adjusted non-interest expense $ 305,920 &#160; $ 294,130 $ 911,068 &#160; $ 857,263 Amortization of intangibles (3,042) (2,118) (7,319) (6,354) Adjusted tangible non-interest expense $ 302,878 &#160; $ 292,012 $ 903,749 &#160; $ 850,909 Net interest income $ 443,159 &#160; $ 477,919 $ 1,379,442 &#160; $ 1,295,555 Total non-interest revenue 107,139 &#160; 104,298 352,541 &#160; 306,897 Total revenue $ 550,298 &#160; $ 582,217 $ 1,731,983 &#160; $ 1,602,452 Tax equivalent adjustment 1,148 &#160; 972 3,405 &#160; 2,796 Total TE revenue $ 551,446 &#160; $ 583,189 $ 1,735,388 &#160; $ 1,605,248 Recovery of NPA &#8212; &#160; &#8212; (13,126) &#8212; Gain on sale of GLOBALT (1,929) &#8212; (1,929) &#8212; Investment securities (gains) losses, net &#8212; &#160; &#8212; (1,030) &#8212; Fair value adjustment on non-qualified deferred compensation 1,035 &#160; 1,076 (1,934) 5,611 Adjusted revenue $ 550,552 &#160; $ 584,265 $ 1,717,369 &#160; $ 1,610,859 Efficiency ratio-TE 64.11 &#160; % 50.41 % 56.62 &#160; % 52.86 % Adjusted tangible efficiency ratio 55.01 &#160; 49.98 52.62 &#160; 52.82 Adjusted net income available to common shareholders and adjusted diluted earnings per share Net income available to common shareholders $ 87,423 &#160; $ 194,753 $ 447,110 &#160; $ 527,260 Recovery of NPA &#8212; &#160; &#8212; (13,126) &#8212; Loss (gain) on other loans held for sale 30,954 &#160; &#8212; 50,064 &#160; &#8212; Restructuring charges (reversals) 17,319 &#160; 956 16,476 &#160; (7,318) Valuation adjustment to Visa derivative 900 &#160; &#8212; 3,927 &#160; 3,500 (Gain) loss on early extinguishment of debt (526) &#8212; (903) 677 Gain on sale of GLOBALT (1,929) &#8212; (1,929) &#8212; Investment securities (gains) losses, net &#8212; &#160; &#8212; (1,030) &#8212; 
+
+Tax effect of adjustments (1) 
+
+(11,371) (228) (13,017) 749 Adjusted net income available to common shareholders $ 122,770 &#160; $ 195,481 $ 487,572 &#160; $ 524,868 Weighted average common shares outstanding, diluted 146,740 &#160; 146,418 146,683 &#160; 146,465 Net income per common share, diluted $ 0.60 &#160; $ 1.33 $ 3.05 &#160; $ 3.60 Adjusted net income per common share, diluted 0.84 &#160; 1.34 3.32 &#160; 3.58 
+
+Three Months Ended Nine Months Ended (dollars in thousands) September 30, 2023 September 30, 2022 September 30, 2023 September 30, 2022 Adjusted return on average assets (annualized) Net income $ 96,465 &#160; $ 203,044 $ 472,568 &#160; $ 552,132 Recovery of NPA &#8212; &#160; &#8212; (13,126) &#8212; Loss (gain) on other loans held for sale 30,954 &#160; &#8212; 50,064 &#160; &#8212; Restructuring charges (reversals) 17,319 &#160; 956 16,476 &#160; (7,318) Valuation adjustment to Visa derivative 900 &#160; &#8212; 3,927 &#160; 3,500 (Gain) loss on early extinguishment of debt (526) &#8212; (903) 677 Gain on sale of GLOBALT (1,929) &#8212; (1,929) &#8212; Investment securities (gains) losses, net &#8212; &#160; &#8212; (1,030) &#8212; 
+
+Tax effect of adjustments (1) 
+
+(11,371) (228) (13,017) 749 Adjusted net income $ 131,812 &#160; $ 203,772 $ 513,030 &#160; $ 549,740 Net income annualized $ 382,714 &#160; $ 805,555 631,822 &#160; 738,198 Adjusted net income annualized $ 522,950 &#160; $ 808,443 685,919 &#160; 735,000 Total average assets $ 59,916,679 &#160; $ 58,055,978 60,177,245 &#160; 57,154,002 Return on average assets (annualized) 0.64 &#160; % 1.39 % 1.05 &#160; 1.29 Adjusted return on average assets (annualized) 0.87 &#160; 1.39 1.14 &#160; 1.29 
+
+Table 14 - Reconciliation of Non-GAAP Financial Measures, continued Three Months Ended (dollars in thousands) September 30, 2023 June 30, 2023 September 30, 2022 Adjusted return on average common equity, return on average tangible common equity, and adjusted return on average tangible common equity (annualized) Net income available to common shareholders $ 87,423 &#160; $ 165,819 $ 194,753 Loss (gain) on other loans held for sale 30,954 &#160; 2,360 &#8212; Restructuring charges (reversals) 17,319 &#160; (110) 956 Gain on sale of GLOBALT (1,929) &#8212; &#8212; Valuation adjustment to Visa derivative 900 &#160; 3,027 &#8212; (Gain) loss on early extinguishment of debt (526) (377) &#8212; 
+
+Tax effect of adjustments (1) 
+
+(11,371) (1,193) (228) Adjusted net income available to common shareholders $ 122,770 &#160; $ 169,526 $ 195,481 Adjusted net income available to common shareholders annualized $ 487,077 &#160; $ 679,967 $ 775,550 Amortization of intangibles, annualized net of tax 9,131 &#160; 7,344 6,401 Adjusted net income available to common shareholders excluding amortization of intangibles annualized $ 496,208 &#160; $ 687,311 $ 781,951 Net income available to common shareholders annualized $ 346,841 &#160; $ 665,098 $ 772,661 Amortization of intangibles, annualized net of tax 9,131 &#160; 7,344 6,401 Net income available to common shareholders excluding amortization of intangibles $ 355,972 &#160; $ 672,442 $ 779,062 Total average Synovus Financial Corp. shareholders' equity less preferred stock $ 4,223,422 &#160; $ 4,303,722 $ 4,141,516 Average goodwill (476,408) (460,118) (452,390) Average other intangible assets, net (59,016) (36,738) (30,214) Total average Synovus Financial Corp. tangible shareholders' equity less preferred stock $ 3,687,998 &#160; $ 3,806,866 $ 3,658,912 Return on average common equity (annualized) 8.2 &#160; % 15.5 % 18.7 % Adjusted return on average common equity (annualized) 11.5 &#160; 15.8 18.7 Return on average tangible common equity (annualized) 9.7 &#160; 17.7 21.3 Adjusted return on average tangible common equity (annualized) 13.5 &#160; 18.1 21.4 
+
+(dollars in thousands) September 30, 2023 December 31, 2022 September 30, 2022 Tangible common equity ratio Total assets $ 59,342,930 &#160; $ 59,731,378 $ 58,639,522 Goodwill (479,851) (452,390) (452,390) Other intangible assets, net (49,096) (27,124) (29,242) Tangible assets $ 58,813,983 &#160; $ 59,251,864 $ 58,157,890 Total Synovus Financial Corp. shareholders' equity $ 4,536,958 &#160; $ 4,475,801 $ 4,229,715 Goodwill (479,851) (452,390) (452,390) Other intangible assets, net (49,096) (27,124) (29,242) Preferred stock, no par value (537,145) (537,145) (537,145) Tangible common equity $ 3,470,866 &#160; $ 3,459,142 $ 3,210,938 Total Synovus Financial Corp. shareholders' equity to total assets ratio 7.65 &#160; % 7.49 % 7.21 % Tangible common equity ratio 5.90 &#160; 5.84 5.52 
+
+(1) An assumed marginal tax rate of 24.3% for 3Q23, 2Q23, and 4Q22 and 23.8% for 3Q22 was applied. 
+

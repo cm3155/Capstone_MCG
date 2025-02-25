@@ -1,0 +1,1168 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+&#160; PAGE Factors affecting &#8220;forward-looking statements&#8221; 52 
+
+Introduction 52 
+
+Executive overview 52 
+
+Reconciliation of non-GAAP financial measures to GAAP financial measures 56 
+
+Segments 58 
+
+Net interest analysis 58 
+
+Results of Operations Private Client Group 63 
+
+Capital Markets 67 
+
+Asset Management 
+
+Raymond James Bank 71 
+
+Other 72 
+
+Certain statistical disclosures by bank holding companies 73 
+
+Liquidity and capital resources 74 
+
+Statement of financial condition analysis 78 
+
+Regulatory 78 
+
+Critical accounting estimates 79 
+
+Recent accounting developments 80 
+
+Risk management 81 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+FACTORS AFFECTING &#8220;FORWARD-LOOKING STATEMENTS&#8221; 
+
+Certain statements made in this Quarterly Report on Form 10-Q may constitute &#8220;forward-looking statements&#8221; under the Private Securities Litigation Reform Act of 1995. Forward-looking statements include information concerning future strategic objectives, business prospects, anticipated savings, financial results (including expenses, earnings, liquidity, cash flow and capital expenditures), anticipated timing and benefits of our acquisitions and our level of success in integrating acquired businesses, industry or market conditions, demand for and pricing of our products, anticipated results of litigation, regulatory developments, impacts of the COVID-19 pandemic, effects of accounting pronouncements, and general economic conditions. In addition, words such as &#8220;believes,&#8221; &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;intends,&#8221; &#8220;estimates,&#8221; &#8220;projects,&#8221; and future or conditional verbs such as &#8220;will,&#8221; &#8220;may,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; and &#8220;would,&#8221; as well as any other statement that necessarily depends on future events, are intended to identify forward-looking statements. Forward-looking statements are not guarantees, and they involve risks, uncertainties and assumptions. Although we make such statements based on assumptions that we believe to be reasonable, there can be no assurance that actual results will not differ materially from those expressed in the forward-looking statements. We caution investors not to rely unduly on any forward-looking statements and urge you to carefully consider the risks described in our filings with the SEC from time to time, including our most recent Annual Report on Form 10-K and subsequent Quarterly Reports on Form 10-Q, which are available at www.raymondjames.com and the SEC&#8217;s website at www.sec.gov. We expressly disclaim any obligation to update any forward-looking statement in the event it later turns out to be inaccurate, whether as a result of new information, future events or otherwise. 
+
+INTRODUCTION 
+
+The following Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) is intended to help the reader understand the results of our operations and financial condition. This MD&#38;A is provided as a supplement to, and should be read in conjunction with, our condensed consolidated financial statements and accompanying notes to condensed consolidated financial statements. Where &#8220;NM&#8221; is used in various percentage change computations, the computed percentage change has been determined to be not meaningful. 
+
+We operate as a financial holding company and bank holding company. Results in the businesses in which we operate are highly correlated to general economic conditions and, more specifically, to the direction of the U.S. equity and fixed income markets, changes in interest rates, market volatility, corporate and mortgage lending markets and commercial and residential credit trends. Overall market conditions, economic, political and regulatory trends, and industry competition are among the factors which could affect us and which are unpredictable and beyond our control. These factors affect the financial decisions made by market participants, including investors, borrowers, and competitors, impacting their level of participation in the financial markets. These factors also impact the level of investment banking activity and asset valuations, which ultimately affect our business results. 
+
+EXECUTIVE OVERVIEW 
+
+Quarter ended June 30, 2021 compared with the quarter ended June 30, 2020 
+
+Net revenues of $2.47 billion increased $637 million, or 35%, and pre-tax income of $385 million increased $187 million, or 94%, compared with the prior-year quarter, which was negatively impacted by uncertainty resulting from the onset of the COVID-19 pandemic. Net income of $307 million increased $135 million, or 78%, and our earnings per diluted share were $2.18, reflecting a 77% increase. Our annualized return on equity (&#8220;ROE&#8221;) for the quarter was 15.9%, compared with 10.0% in the prior-year quarter, and annualized return on tangible common equity (&#8220;ROTCE&#8221;) was 17.7% (1) , compared with 10.9% (1) for the prior-year quarter. 
+
+During the quarter, we completed a $750 million, 30-year senior notes offering at 3.75%, utilizing the proceeds from the offering and cash on hand to early-redeem our $250 million of 5.625% senior notes due 2024 and our $500 million of 3.625% senior notes due 2026. We recognized losses on the extinguishment of such notes of $98 million. Excluding these losses and acquisition-related expenses of $7 million, our adjusted net income was $386 million (1) and our adjusted earnings per diluted share were $2.74 (1) . Adjusted annualized ROE for the quarter was 19.9% (1) and adjusted annualized ROTCE was 22.2% (1) . Client assets under administration increased to $1.17 trillion as of June 30, 2021, a 33% increase over June 30, 2020. 
+
+(1) ROTCE, adjusted net income, adjusted earnings per diluted share, adjusted annualized ROE and adjusted annualized ROTCE are non-GAAP financial measures. Please see the &#8220;Reconciliation of non-GAAP financial measures to GAAP financial measures&#8221; in this MD&#38;A for a reconciliation of these non-GAAP financial measures to the most directly comparable GAAP measure, and for other important disclosures. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+The $637 million, or 35%, increase in net revenues compared with the prior-year quarter was primarily driven by significantly higher asset management and related administrative fees, largely attributable to higher PCG assets in fee-based accounts, and strong investment banking revenues, also significantly higher than the prior-year quarter. Brokerage revenues were also strong and increased compared with the prior-year quarter. Revenues in the current-year quarter included $24 million of private equity valuation gains, of which $10 million were attributable to noncontrolling interests and were offset in other expenses, compared with insignificant gains in the prior-year quarter. 
+
+Compensation, commissions and benefits expense increased $384 million, or 30%, primarily resulting from the growth in revenues and pre-tax income compared with the prior-year quarter. Our compensation ratio, or the ratio of compensation, commissions and benefits expense to net revenues, decreased to 67.2%, compared with 69.6% for the prior-year quarter, primarily due to a change in the composition of net revenues compared with the prior-year quarter. Our current quarter compensation ratio reflected the impact of strong net revenues in the Capital Markets segment, which had a 57% compensation ratio for the quarter, and from the private equity valuation gains, which do not have direct compensation associated with them. 
+
+Non-compensation expenses increased $66 million, or 18%, primarily due to the losses on extinguishment of debt of $98 million described above, the aforementioned private equity valuation gains attributable to noncontrolling interests in the current quarter that were offset within other expenses, acquisition-related expenses, and increased investment sub-advisory fees. Business development expenses also increased from the very low prior-year quarter level, primarily due to higher recruiting-related expenses and an increase in travel, meal and event-related expenses. These increases were offset by a $100 million decrease in the bank loan provision for credit losses, which was a benefit of $19 million in the current-year quarter computed under the CECL methodology compared with a provision of $81 million in the prior-year quarter computed under the incurred loss methodology. 
+
+Our effective income tax rate was 20.3% for our fiscal third quarter of 2021, an increase compared with a 13.1% effective income tax rate for the prior-year quarter. Our tax rate in the prior-year quarter was unusually low due to a significant change in the projected impact of our corporate-owned life insurance portfolio on our effective tax rate during that quarter, from a large non-deductible loss projected at March 31, 2020, to a relatively small non-taxable gain projected as of June 30, 2020 resulting from a significant rebound in equity markets during our fiscal third quarter of 2020. We expect our effective tax rate to be approximately 21% in the fiscal fourth quarter of 2021. 
+
+The firm ended our fiscal third quarter of 2021 with capital ratios well in excess of regulatory requirements and substantial liquidity, with approximately $1.6 billion (1) of cash at the parent company. Pursuant to our Board of Directors&#8217; share repurchase authorization, we repurchased 375,000 shares of common stock during our fiscal third quarter for $48 million at an average price of $128.55 per share, leaving $632 million of availability remaining under the authorization as of June 30, 2021. We expect to continue to be opportunistic in deploying our capital in future quarters, through a combination of organic growth, additional share repurchases and acquisitions, as evidenced by the NWPS and Financo acquisitions, which were announced and completed during fiscal 2021, and the announced acquisitions of Charles Stanley and Cebile. 
+
+Our results for our fiscal third quarter of 2021 were strong and we remain well-positioned entering our fiscal fourth quarter, with strong capital ratios, over $1 trillion of client assets under administration, a 9% increase in PCG fee-based assets from March 31, 2021 to June 30, 2021, and a strong investment banking backlog. However, we expect to continue to face headwinds from near-zero short-term interest rates and continued economic uncertainty resulting from the ongoing COVID-19 pandemic, which continues to evolve as recently experienced with the rapid spread of the Delta variant. As a result, we may experience volatility of brokerage revenues and investment banking revenues, which may negatively impact our ability to sustain the level of revenues in future periods which were achieved in the current quarter. Although our results during the quarter were positively impacted by a benefit for credit losses related to our bank loan portfolio, net loan growth and/or future market deterioration could result in increased provisions in future quarters. In addition, we expect that expenses may continue to increase over the next several quarters as business and event-related travel increase and as we continue to make investments in our technology and growth. 
+
+A summary of our financial results by segment as compared to the prior-year quarter is as follows: 
+
+&#8226; PCG segment net revenues of $1.70 billion increased 36% and pre-tax income of $195 million increased 114%. The $447 million increase in net revenues was primarily attributable to a significant increase in asset management fees due to higher assets in fee-based accounts at the beginning of the current-year quarter, and higher brokerage and account and service fee revenues. Non-interest expenses increased $343 million, or 30%, primarily resulting from an increase in compensation expenses largely due to the growth in net revenues. 
+
+(1) For additional information, please see the &#8220;Liquidity and capital resources - Sources of liquidity&#8221; section in this MD&#38;A. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+&#8226; Capital Markets net revenues of $446 million increased 38% and pre-tax income of $115 million increased 85%. The $123 million increase in net revenues was due to a significant increase in investment banking revenues from both mergers &#38; acquisition activity and equity underwriting activity compared with the prior-year quarter, which was negatively impacted by the COVID-19 pandemic. Non-interest expenses increased $70 million, or 27%, primarily due to higher compensation expenses resulting from the increase in revenues. 
+
+&#8226; Asset Management segment net revenues of $225 million increased 38% and pre-tax income of $105 million increased 75%. The $62 million increase in net revenues was primarily driven by higher financial assets under management. Non-interest expenses increased $17 million, or 17%, primarily due to higher investment sub-advisory fees. 
+
+&#8226; Raymond James Bank net revenues of $169 million decreased 5%, while pre-tax income of $104 million increased 643%. The $9 million decrease in net revenues primarily reflected the negative impact of lower short-term interest rates and a shift in the composition of interest-earning assets, which more than offset the growth in interest-earning assets. Non-interest expenses decreased $99 million, or 60%, primarily due to the $100 million decrease in the bank loan provision for credit losses. 
+
+&#8226; The Other segment reflected a pre-tax loss that was $105 million larger than the loss in the prior-year quarter, due to the aforementioned losses on extinguishment of debt of $98 million and acquisition-related expenses of $4 million, partially offset by the impact of the private equity gains in the current-year quarter. 
+
+Nine months ended June 30, 2021 compared with the nine months ended June 30, 2020 
+
+Net revenues of $7.07 billion increased $1.15 billion, or 20%, and pre-tax income of $1.23 billion increased $435 million, or 55%. Net income of $974 million increased $365 million, or 60% and our earnings per diluted share were $6.92, also reflecting a 60% increase. Our annualized ROE for the nine months ended June 30, 2021 was 17.4%, compared with 11.9% for the prior-year period, and annualized ROTCE was 19.3% (1) , compared with 13.1% (1) for the prior-year period. Excluding the impact of losses on extinguishment of debt and acquisition-related expenses, adjusted net income was $1.06 billion and adjusted earnings per diluted share were $7.50 (1) . Adjusted annualized ROE was 18.7% (1) and adjusted annualized ROTCE was 20.8% (1) . 
+
+The $1.15 billion increase in net revenues compared with the prior-year period was primarily driven by higher asset management and related administrative fees, largely attributable to higher PCG assets in fee-based accounts, as well as strong investment banking and brokerage revenues, which also increased compared with the prior-year period. Revenues in the current year also included private equity gains of $56 million ($20 million attributable to noncontrolling interests), compared with $40 million of losses in the prior-year period ($23 million attributable to noncontrolling interests). Offsetting these increases was the negative impact of lower short-term interest rates on our net interest income and RJBDP fees from third-party banks. 
+
+Compensation, commissions and benefits expense increased $759 million, or 19%, primarily resulting from the growth in revenues and pre-tax income compared with the prior-year period. Our compensation ratio was 68.1%, compared with 68.5% for the prior-year period. 
+
+Non-compensation expenses decreased $40 million, or 4%, primarily due to a $225 million decrease in the bank loan provision for credit losses, which was a benefit of $37 million in the current year computed under the CECL methodology compared with a provision of $188 million in the prior-year period computed under the incurred loss methodology. Business development expenses also declined, due to lower travel and event-related expenses as a result of the COVID-19 pandemic, partially offset by an increase in recruiting-related expenses. Offsetting these decreases was the aforementioned losses on extinguishment of debt of $98 million in the current-year period and an increase in other expenses, primarily due to the change in private equity valuations attributable to noncontrolling interests compared with the prior-year period. 
+
+Our effective income tax rate was 20.9% for the nine months ended June 30, 2021, a decrease from 23.5% for the prior-year period, primarily due to the impact of larger non-taxable gains on our corporate-owned life insurance portfolio in the current-year period. 
+
+Pursuant to the Board of Directors&#8217; repurchase authorization, we repurchased 982,750 shares of common stock during the nine months ended June 30, 2021 for approximately $118 million at an average price of approximately $120 per share. 
+
+(1) ROTCE, adjusted net income, adjusted earnings per diluted share, adjusted annualized ROE and adjusted annualized ROTCE are non-GAAP financial measures. Please see the &#8220;Reconciliation of non-GAAP financial measures to GAAP financial measures&#8221; in this MD&#38;A for a reconciliation of these non-GAAP financial measures to the most directly comparable GAAP measure, and for other important disclosures. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+A summary of our financial results by segment as compared to the prior-year period is as follows: 
+
+&#8226; PCG segment net revenues of $4.81 billion increased 16% and pre-tax income of $527 million increased 27%. The $652 million increase in net revenues was primarily attributable to an increase in asset management fees largely due to higher assets in fee-based accounts at the beginning of each quarterly billing period within the current-year period, and higher brokerage revenues, partially offset by decreases in RJBDP fees from third-party banks and net interest income due to lower short-term interest rates. Non-interest expenses increased $539 million, or 14%, primarily resulting from an increase in compensation expenses largely due to the growth in revenues. 
+
+&#8226; Capital Markets net revenues of $1.33 billion increased 51% and pre-tax income of $349 million increased 193%. The $450 million increase in net revenues was primarily due to a significant increase in investment banking revenues from both mergers &#38; acquisition activity and underwriting activity, as well as growth in fixed income brokerage revenues. Non-interest expenses increased $220 million, or 29%, due to higher compensation expenses primarily attributable to the increase in revenues, partially offset by a decrease in business development expenses. 
+
+&#8226; Asset Management segment net revenues of $629 million increased 18% and pre-tax income of $275 million increased 33%. The $98 million increase in net revenues was primarily driven by higher financial assets under management. Non-interest expenses increased $29 million, or 9%, primarily due to higher investment sub-advisory fees. 
+
+&#8226; Raymond James Bank segment net revenues of $496 million decreased 18%, while pre-tax income of $286 million increased 75%. The $108 million decrease in net revenues reflected the negative impact of lower short-term interest rates, which more than offset the growth in interest-earning assets. Non-interest expenses decreased $231 million, or 52%, primarily due to a $225 million decrease in the bank loan provision for credit losses. 
+
+&#8226; The Other segment reflected a pre-tax loss that was $100 million greater than the loss in the prior-year period, primarily due to the losses on extinguishment of debt of $98 million and acquisition-related expenses of $6 million in the current-year period. These negative impacts were partially offset by the aforementioned private equity gains compared with losses in the prior-year period. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES TO GAAP FINANCIAL MEASURES 
+
+We utilize certain non-GAAP financial measures as additional measures to aid in, and enhance, the understanding of our financial results and related measures. These non-GAAP financial measures include adjusted net income, adjusted earnings per diluted share, adjusted ROE, ROTCE, and adjusted ROTCE. We believe certain of these non-GAAP financial measures provides useful information to management and investors by excluding certain material items that may not be indicative of our core operating results. We utilize these non-GAAP financial measures in assessing the financial performance of the business, as they facilitate a meaningful comparison of current- and prior-period results. We believe that ROTCE is meaningful to investors as this measure facilitates comparison of our results to the results of other companies. In the following tables, the tax effect of non-GAAP adjustments reflects the statutory rate associated with each non-GAAP item. These non-GAAP financial measures should be considered in addition to, and not as a substitute for, measures of financial performance prepared in accordance with GAAP. In addition, our non-GAAP financial measures may not be comparable to similarly titled non-GAAP financial measures of other companies. The following tables provide a reconciliation of non-GAAP financial measures to the most directly comparable GAAP financial measures for the periods indicated. 
+
+Three months ended Nine months ended $ in millions June 30, 2021 June 30, 2021 Net income 
+
+$ 307 &#160; $ 974 &#160; 
+
+Non-GAAP adjustments : 
+
+Losses on extinguishment of debt 98 &#160; 98 &#160; Acquisition-related expenses 7 &#160; 9 &#160; Pre-tax impact of non-GAAP adjustments 
+
+105 &#160; 107 &#160; Tax effect of non-GAAP adjustments 
+
+(26) (26) Total non-GAAP adjustments, net of tax 
+
+79 &#160; 81 &#160; Adjusted net income 
+
+$ 386 &#160; $ 1,055 &#160; Earnings per common share - diluted $ 2.18 &#160; $ 6.92 &#160; Non-GAAP adjustments: Losses on extinguishment of debt 0.69 &#160; 0.70 &#160; Acquisition-related expenses 0.05 &#160; 0.06 &#160; Tax effect of non-GAAP adjustments (0.18) (0.18) Total non-GAAP adjustments, net of tax 0.56 &#160; 0.58 &#160; Adjusted earnings per common share - diluted $ 2.74 &#160; $ 7.50 &#160; 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Three months ended June 30, Nine months ended June 30, $ in millions 2021 2020 2021 2020 Annualized return on equity Average equity $ 7,728 &#160; $ 6,882 $ 7,483 &#160; $ 6,797 Impact on average equity of non-GAAP adjustments: Losses on extinguishment of debt 49 &#160; NA 25 &#160; NA Acquisition-related expenses 4 &#160; NA 2 &#160; NA Tax effect of non-GAAP adjustments (13) NA (7) NA Adjusted average equity $ 7,768 &#160; NA $ 7,503 &#160; NA Average equity $ 7,728 &#160; $ 6,882 $ 7,483 &#160; $ 6,797 Less: Average goodwill and identifiable intangible assets, net 865 &#160; 603 791 &#160; 606 Average deferred tax liabilities, net (56) (32) (51) (30) Average tangible common equity $ 6,919 &#160; $ 6,311 $ 6,743 &#160; $ 6,221 Impact on average equity of non-GAAP adjustments: Losses on extinguishment of debt 49 &#160; NA 25 &#160; NA Acquisition-related expenses 4 &#160; NA 2 &#160; NA Tax effect of non-GAAP adjustments (13) NA (7) NA Adjusted average tangible common equity $ 6,959 &#160; NA $ 6,763 &#160; NA Return on equity 15.9 &#160; % 10.0 % 17.4 &#160; % 11.9 % Adjusted annualized return on equity 
+
+19.9 &#160; % NA 18.7 &#160; % NA Return on tangible common equity 17.7 &#160; % 10.9 % 19.3 &#160; % 13.1 % Adjusted annualized return on tangible common equity 
+
+22.2 &#160; % NA 20.8 &#160; % NA 
+
+Average equity for the quarterly periods is computed by adding the total equity attributable to RJF as of the date indicated to the prior quarter-end total, and dividing by two, or in the case of average tangible common equity, computed by adding tangible common equity as of the date indicated to the prior quarter-end total, and dividing by two. Tangible common equity is computed by subtracting goodwill and identifiable intangible assets, net, along with the associated deferred tax liabilities, from total equity attributable to RJF. Average equity for the year-to-date periods is computed by adding the total equity attributable to RJF as of each quarter-end date during the indicated year-to-date period to the beginning of the year total, and dividing by four, or in the case of average tangible common equity, computed by adding tangible common equity as of each quarter-end date during the indicated year-to-date period to the beginning of the year total, and dividing by four. Adjusted average equity is computed by adjusting for the impact on average equity of the non-GAAP adjustments, as applicable for each respective period. Adjusted average tangible common equity is computed by adjusting for the impact on average tangible common equity of the non-GAAP adjustments, as applicable for each respective period. 
+
+ROE is computed by dividing annualized net income for the period indicated by average equity for each respective period or, in the case of ROTCE, computed by dividing annualized net income by average tangible common equity for each respective period. Adjusted ROE is computed by dividing annualized adjusted net income by adjusted average equity for each respective period, or in the case of adjusted ROTCE, computed by dividing annualized adjusted net income by adjusted average tangible common equity for each respective period. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+SEGMENTS 
+
+We currently operate through five segments. Our business segments are PCG, Capital Markets, Asset Management and Raymond James Bank. Our Other segment includes our private equity investments, interest income on certain corporate cash balances, certain acquisition-related expenses, and certain corporate overhead costs of RJF, including the interest costs on our public debt and any losses on extinguishment of such debt. 
+
+The following table presents our consolidated and segment net revenues and pre-tax income/(loss) for the periods indicated. 
+
+&#160; Three months ended June 30, Nine months ended June 30, $ in millions 2021 2020 % change 2021 2020 % change Total company &#160; &#160; &#160; Net revenues 
+
+$ 2,471 &#160; $ 1,834 35 % $ 7,065 &#160; $ 5,911 20 % Pre-tax income 
+
+$ 385 &#160; $ 198 94 % $ 1,231 &#160; $ 796 55 % Private Client Group &#160; &#160; Net revenues $ 1,696 &#160; $ 1,249 36 % $ 4,810 &#160; $ 4,158 16 % Pre-tax income $ 195 &#160; $ 91 114 % $ 527 &#160; $ 414 27 % Capital Markets &#160; &#160; Net revenues $ 446 &#160; $ 323 38 % $ 1,331 &#160; $ 881 51 % Pre-tax income $ 115 &#160; $ 62 85 % $ 349 &#160; $ 119 193 % Asset Management &#160; &#160; Net revenues $ 225 &#160; $ 163 38 % $ 629 &#160; $ 531 18 % Pre-tax income $ 105 &#160; $ 60 75 % $ 275 &#160; $ 206 33 % Raymond James Bank &#160; &#160; Net revenues $ 169 &#160; $ 178 (5) % $ 496 &#160; $ 604 (18) % Pre-tax income $ 104 &#160; $ 14 643 % $ 286 &#160; $ 163 75 % Other &#160; &#160; Net revenues $ 2 &#160; $ (20) NM $ (6) $ (72) 92 % Pre-tax loss $ (134) $ (29) (362) % $ (206) $ (106) (94) % Intersegment eliminations &#160; &#160; Net revenues $ (67) $ (59) (14) % $ (195) $ (191) (2) % 
+
+NET INTEREST ANALYSIS 
+
+The following table presents the high, low and end of period target federal funds rates for the periods presented. 
+
+Target federal funds rate Low High End of period Three months ended June 30, 2021 0.00% 0.25% 0% - 0.25% June 30, 2020 0.00% 0.25% 0% - 0.25% Nine months ended June 30, 2021 0.00% 0.25% 0% - 0.25% June 30, 2020 0.00% 2.00% 0% - 0.25% 
+
+In response to macroeconomic concerns resulting from the COVID-19 pandemic, the Federal Reserve decreased its benchmark short-term interest rate in March 2020 to a range of 0-0.25%, a reduction of 150 basis points. These decreases, in addition to other interest rate cuts implemented during calendar 2019 (225 basis points in total), have negatively impacted our net interest income, as well as the fees we earn from third-party banks on client cash balances swept to such banks as part of the RJBDP which are also sensitive to changes in interest rates. The negative impact of the decline in short-term interest rates has outweighed the growth in interest-earning assets and RJBDP balances swept to third-party banks compared with the prior-year periods. We expect the current near-zero interest rate environment to continue for the remainder of fiscal 2021 and into fiscal 2022. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Given the relationship between our interest-sensitive assets and liabilities (primarily held in our PCG, Raymond James Bank and Other segments) and the nature of fees we earn from third-party banks on the RJBDP, decreases in short-term interest rates generally result in an overall decrease in our net earnings, although the magnitude of the impact to the net interest margin depends on the yields on interest-earning assets relative to the cost of interest-bearing liabilities, including deposit rates paid to clients on their cash balances. Conversely, any increases in short-term interest rates and/or decreases in the deposit rates paid to clients generally have a positive impact on our earnings. 
+
+Refer to the discussion of the specific components of our net interest income within &#8220;Management&#8217;s Discussion and Analysis - Results of Operations&#8221; for our PCG, Raymond James Bank, and Other segments. Also refer to &#8220;Management&#8217;s Discussion and Analysis - Results of Operations - Private Client Group - Clients&#8217; domestic cash sweep balances&#8221; for further information on the RJBDP. 
+
+The following tables present our consolidated average interest-earning asset and interest-bearing liability balances, interest income and expense and the related rates. 
+
+Quarter ended June 30, 2021 compared with the quarter ended June 30, 2020 
+
+&#160; Three months ended June 30, &#160; 2021 2020 $ in millions Average daily balance Interest Annualized average rate Average daily balance Interest Annualized average rate Interest-earning assets: &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents $ 5,644 $ 3 &#160; 0.20 &#160; % $ 6,605 $ 4 0.26 % Assets segregated pursuant to regulations 
+
+9,016 3 &#160; 0.16 &#160; % 3,408 3 0.36 % Available-for-sale securities 
+
+8,041 20 &#160; 0.96 &#160; % 4,437 23 2.01 % Brokerage client receivables 2,363 19 &#160; 3.33 &#160; % 2,065 18 3.47 % Bank loans, net of unearned income and deferred expenses: 
+
+Loans held for investment: 
+
+C&#38;I loans 
+
+7,936 &#160; 50 &#160; 2.51 &#160; % 7,957 58 2.93 % CRE loans 
+
+2,748 &#160; 18 &#160; 2.59 &#160; % 2,610 19 2.85 % REIT loans 1,327 &#160; 9 &#160; 2.53 &#160; % 1,412 9 2.45 % Tax-exempt loans 
+
+1,294 &#160; 9 &#160; 3.33 &#160; % 1,272 9 3.34 % Residential mortgage loans 
+
+5,126 &#160; 34 &#160; 2.70 &#160; % 4,983 37 2.97 % SBL and other 
+
+5,208 &#160; 29 &#160; 2.22 &#160; % 3,576 24 2.59 % Loans held for sale 
+
+142 &#160; 1 &#160; 2.92 &#160; % 111 1 3.22 % Total bank loans, net 
+
+23,781 &#160; 150 &#160; 2.54 &#160; % 21,921 157 2.87 % All other interest-earning assets 2,288 &#160; 10 &#160; 1.51 &#160; % 1,964 12 2.66 % Total interest-earning assets $ 51,133 &#160; $ 205 &#160; 1.60 &#160; % $ 40,400 $ 217 2.16 % Interest-bearing liabilities: 
+
+&#160; &#160; &#160; &#160; &#160; Bank deposits: 
+
+Savings, money market and NOW accounts 
+
+$ 28,908 &#160; $ 1 &#160; 0.02 &#160; % $ 25,060 $ 2 0.02 % Certificates of deposit 
+
+883 &#160; 4 &#160; 1.91 &#160; % 1,104 5 2.00 % Total bank deposits 29,791 &#160; 5 &#160; 0.08 &#160; % 26,164 7 0.10 % Brokerage client payables 10,486 &#160; 1 &#160; 0.03 &#160; % 4,751 3 0.18 % Other borrowings 860 &#160; 4 &#160; 2.19 &#160; % 891 5 2.23 % Senior notes payable 2,211 &#160; 25 &#160; 4.49 &#160; % 2,067 24 4.69 % All other interest-bearing liabilities 602 &#160; 5 &#160; 1.12 &#160; % 586 3 1.10 % Total interest-bearing liabilities 
+
+$ 43,950 &#160; $ 40 &#160; 0.34 &#160; % $ 34,459 $ 42 0.48 % Net interest income 
+
+$ 165 &#160; $ 175 Firmwide net interest margin (net yield on interest-earning assets) 1.31 &#160; % 1.75 % Raymond James Bank net interest margin 1.92 &#160; % 2.29 % 
+
+Nonaccrual loans are included in the average loan balances in the preceding table. Any payments received for corporate nonaccrual loans are applied entirely to principal. Interest income on residential mortgage nonaccrual loans is recognized on a cash basis. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+The yield on tax-exempt loans in the preceding table is presented on a taxable-equivalent basis utilizing the applicable federal statutory rates for each of the three months ended June 30, 2021 and 2020. 
+
+Increases and decreases in interest income and interest expense result from changes in average balances (volume) of interest-earning assets and interest-bearing liabilities, as well as changes in average interest rates. The following table shows the effect that these factors had on the interest earned on our interest-earning assets and the interest incurred on our interest-bearing liabilities. The effect of changes in volume is determined by multiplying the change in volume by the previous period&#8217;s average yield/cost. Similarly, the effect of rate changes is calculated by multiplying the change in average yield/cost by the previous period&#8217;s volume. Changes attributable to both volume and rate have been allocated proportionately. 
+
+Three months ended June 30, 2021 compared to 2020 
+
+&#160; Increase/(decrease) due to $ in millions Volume Rate Total Interest income: &#160; &#160; &#160; Interest-earning assets: &#160; &#160; &#160; Cash and cash equivalents $ &#8212; &#160; $ (1) $ (1) Assets segregated pursuant to regulations 5 &#160; (5) &#8212; &#160; Available-for-sale securities 18 &#160; (21) (3) Brokerage client receivables 2 &#160; (1) 1 &#160; Bank loans, net of unearned income and deferred expenses: Loans held for investment: C&#38;I loans &#8212; &#160; (8) (8) CRE loans 1 &#160; (2) (1) REIT loans 1 &#160; (1) &#8212; &#160; Tax-exempt loans &#8212; &#160; &#8212; &#160; &#8212; &#160; Residential mortgage loans 1 &#160; (4) (3) SBL and other 9 &#160; (4) 5 &#160; Loans held for sale &#8212; &#160; &#8212; &#160; &#8212; &#160; Total bank loans, net 12 &#160; (19) (7) All other interest-earning assets 2 &#160; (4) (2) Total interest-earning assets $ 39 &#160; $ (51) $ (12) Interest expense: &#160; &#160; &#160; Interest-bearing liabilities: &#160; &#160; &#160; Bank deposits: &#160; &#160; &#160; Savings, money market and NOW accounts $ &#8212; &#160; $ (1) $ (1) Certificates of deposit (1) &#8212; &#160; (1) Total bank deposits (1) (1) (2) Brokerage client payables 2 &#160; (4) (2) Other borrowings &#8212; &#160; (1) (1) Senior notes payable 2 &#160; (1) 1 &#160; All other interest-bearing liabilities &#8212; &#160; 2 &#160; 2 &#160; Total interest-bearing liabilities $ 3 &#160; $ (5) $ (2) Change in net interest income $ 36 &#160; $ (46) $ (10) 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Nine months ended June 30, 2021 compared with the nine months ended June 30, 2020 
+
+&#160; Nine months ended June 30, &#160; 2021 2020 $ in millions Average daily balance Interest Annualized average rate Average daily balance Interest Annualized average rate Interest-earning assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents $ 5,548 &#160; $ 9 &#160; 0.22 &#160; % $ 5,013 $ 37 0.99 % Assets segregated pursuant to regulations 8,307 &#160; 11 &#160; 0.18 &#160; % 2,853 25 1.20 % Available-for-sale securities 7,837 &#160; 64 &#160; 1.08 &#160; % 3,654 60 2.18 % Brokerage client receivables 2,222 &#160; 56 &#160; 3.38 &#160; % 2,290 66 3.87 % Bank loans, net of unearned income and deferred expenses: 
+
+Loans held for investment: C&#38;I loans 7,670 &#160; 149 &#160; 2.57 &#160; % 8,012 225 3.70 % CRE loans 2,665 &#160; 52 &#160; 2.57 &#160; % 2,593 72 3.63 % REIT loans 1,290 &#160; 25 &#160; 2.49 &#160; % 1,349 34 3.33 % Tax-exempt loans 1,253 &#160; 25 &#160; 3.34 &#160; % 1,236 25 3.35 % Residential mortgage loans 5,044 &#160; 103 &#160; 2.73 &#160; % 4,823 112 3.09 % SBL and other 4,709 &#160; 80 &#160; 2.24 &#160; % 3,460 89 3.37 % Loans held for sale 153 &#160; 3 &#160; 2.54 &#160; % 138 4 3.77 % Total bank loans, net 22,784 &#160; 437 &#160; 2.57 &#160; % 21,611 561 3.46 % All other interest-earning assets 2,264 &#160; 31 &#160; 1.79 &#160; % 2,329 50 2.82 % Total interest-earning assets $ 48,962 &#160; $ 608 &#160; 1.66 &#160; % $ 37,750 $ 799 2.83 % Interest-bearing liabilities: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; Bank deposits: 
+
+Savings, money market and NOW accounts 
+
+$ 27,732 &#160; $ 4 &#160; 0.02 &#160; % $ 23,190 $ 20 0.11 % Certificates of deposit 
+
+911 &#160; 13 &#160; 1.90 &#160; % 993 15 2.06 % Total bank deposits 28,643 &#160; 17 &#160; 0.08 &#160; % 24,183 35 0.19 % Brokerage client payables 
+
+9,765 &#160; 3 &#160; 0.03 &#160; % 3,929 9 0.31 % Other borrowings 863 &#160; 14 &#160; 2.20 &#160; % 893 15 2.23 % Senior notes payable 2,115 &#160; 73 &#160; 4.62 &#160; % 1,742 61 4.66 % All other interest-bearing liabilities 591 &#160; 8 &#160; 1.05 &#160; % 878 16 1.81 % Total interest-bearing liabilities $ 41,977 &#160; $ 115 &#160; 0.36 &#160; % $ 31,625 $ 136 0.56 % Net interest income &#160; $ 493 &#160; &#160; &#160; $ 663 &#160; Firmwide net interest margin (net yield on interest-earning assets) 1.35 &#160; % 2.36 % Raymond James Bank net interest margin 1.96 &#160; % 2.82 % 
+
+Nonaccrual loans are included in the average loan balances in the preceding table. Any payments received for corporate nonaccrual loans are applied entirely to principal. Interest income on residential mortgage nonaccrual loans is recognized on a cash basis. 
+
+The yield on tax-exempt loans in the preceding table is presented on a taxable-equivalent basis utilizing the applicable federal statutory rates for each of the nine months ended June 30, 2021 and 2020. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Increases and decreases in interest income and interest expense result from changes in average balances (volume) of interest-earning assets and interest-bearing liabilities, as well as changes in average interest rates. The following table shows the effect that these factors had on the interest earned on our interest-earning assets and the interest incurred on our interest-bearing liabilities. The effect of changes in volume is determined by multiplying the change in volume by the previous period&#8217;s average yield/cost. Similarly, the effect of rate changes is calculated by multiplying the change in average yield/cost by the previous period&#8217;s volume. Changes attributable to both volume and rate have been allocated proportionately. 
+
+Nine months ended June 30, 2021 compared to 2020 
+
+&#160; Increase/(decrease) due to $ in millions Volume Rate Total Interest income: &#160; &#160; &#160; Interest-earning assets: &#160; &#160; &#160; Cash and cash equivalents $ 10 &#160; $ (38) $ (28) Assets segregated pursuant to regulations 52 &#160; (66) (14) Available-for-sale securities 69 &#160; (65) 4 &#160; Brokerage client receivables (3) (7) (10) Bank loans, net of unearned income and deferred expenses: Loans held for investment: C&#38;I loans (11) (65) (76) CRE loans 1 &#160; (21) (20) REIT loans &#8212; &#160; (9) (9) Tax-exempt loans 2 &#160; (2) &#8212; &#160; Residential mortgage loans 5 &#160; (14) (9) SBL and other 27 &#160; (36) (9) Loans held for sale 1 &#160; (2) (1) Total bank loans, net 25 &#160; (149) (124) All other interest-earning assets (4) (15) (19) Total interest-earning assets $ 149 &#160; $ (340) $ (191) Interest expense: &#160; &#160; &#160; Interest-bearing liabilities: &#160; &#160; &#160; Bank deposits: &#160; &#160; &#160; Savings, money market and NOW accounts $ 4 &#160; $ (20) $ (16) Certificates of deposit (1) (1) (2) Total bank deposits 3 &#160; (21) (18) Brokerage client payables 15 &#160; (21) (6) Other borrowings &#8212; &#160; (1) (1) Senior notes payable 13 &#160; (1) 12 &#160; All other interest-bearing liabilities (7) (1) (8) Total interest-bearing liabilities $ 24 &#160; $ (45) $ (21) Change in net interest income $ 125 &#160; $ (295) $ (170) 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+RESULTS OF OPERATIONS &#8211; PRIVATE CLIENT GROUP 
+
+For an overview of our PCG segment operations, as well as a description of the key factors impacting our PCG results of operations, refer to the information presented in &#8220;Item 1 - Business&#8221; and &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; of our 2020 Form 10-K. 
+
+Operating results 
+
+&#160; Three months ended June 30, Nine months ended June 30, $ in millions 2021 2020 % change 2021 2020 % change Revenues: &#160; &#160; &#160; Asset management and related administrative fees 
+
+$ 1,050 &#160; $ 715 47 % $ 2,914 &#160; $ 2,330 25 % Brokerage revenues: 
+
+Mutual and other fund products 
+
+167 &#160; 131 27 % 498 &#160; 438 14 % Insurance and annuity products 
+
+113 &#160; 88 28 % 320 &#160; 288 11 % Equities, ETFs and fixed income products 
+
+110 &#160; 100 10 % 338 &#160; 324 4 % Total brokerage revenues 390 &#160; 319 22 % 1,156 &#160; 1,050 10 % Account and service fees: 
+
+Mutual fund and annuity service fees 
+
+105 &#160; 82 28 % 298 &#160; 260 15 % RJBDP fees: 
+
+Third-party banks 18 &#160; 20 (10) % 58 &#160; 129 (55) % Raymond James Bank 47 &#160; 43 9 % 134 &#160; 138 (3) % Client account and other fees 
+
+39 &#160; 32 22 % 113 &#160; 96 18 % Total account and service fees 209 &#160; 177 18 % 603 &#160; 623 (3) % Investment banking 
+
+11 &#160; 7 57 % 33 &#160; 29 14 % Interest income 
+
+31 &#160; 31 &#8212; 91 &#160; 125 (27) % All other 
+
+7 &#160; 4 75 % 20 &#160; 20 &#8212; Total revenues 1,698 &#160; 1,253 36 % 4,817 &#160; 4,177 15 % Interest expense 
+
+(2) (4) (50) % (7) (19) (63) % Net revenues 1,696 &#160; 1,249 36 % 4,810 &#160; 4,158 16 % Non-interest expenses: &#160; &#160; &#160; &#160; Financial advisor compensation and benefits 
+
+1,082 &#160; 783 38 % 3,053 &#160; 2,555 19 % Administrative compensation and benefits 251 &#160; 235 7 % 760 &#160; 727 5 % Total compensation, commissions and benefits 
+
+1,333 &#160; 1,018 31 % 3,813 &#160; 3,282 16 % Non-compensation expenses: 
+
+Communications and information processing 
+
+70 &#160; 66 6 % 201 &#160; 187 7 % Occupancy and equipment 
+
+45 &#160; 42 7 % 133 &#160; 130 2 % Business development 
+
+19 &#160; 12 58 % 50 &#160; 63 (21) % Professional fees 
+
+10 &#160; 8 25 % 33 &#160; 25 32 % All other 
+
+24 &#160; 12 100 % 53 &#160; 57 (7) % Total non-compensation expenses 
+
+168 &#160; 140 20 % 470 &#160; 462 2 % Total non-interest expenses 1,501 &#160; 1,158 30 % 4,283 &#160; 3,744 14 % Pre-tax income $ 195 &#160; $ 91 114 % $ 527 &#160; $ 414 27 % 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Selected key metrics 
+
+PCG client asset balances 
+
+As of $ in billions June 30, 2021 March 31, 2021 September 30, 2020 June 30, 2020 March 31, 2020 September 30, 2019 Assets under administration (&#8220;AUA&#8221;) 
+
+$ 1,102.9 &#160; $ 1,028.1 $ 883.3 $ 833.1 $ 734.0 $ 798.4 Assets in fee-based accounts (1) 
+
+$ 616.7 &#160; $ 567.6 $ 475.3 $ 443.0 $ 383.5 $ 409.1 Percent of AUA in fee-based accounts 
+
+55.9 &#160; % 55.2 % 53.8 % 53.2 % 52.2 % 51.2 % 
+
+(1) A portion of our &#8220;Assets in fee-based accounts&#8221; is invested in &#8220;managed programs&#8221; overseen by our Asset Management segment, specifically our Asset Management Services division of RJ&#38;A (&#8220;AMS&#8221;). These assets are included in our Financial assets under management as disclosed in the &#8220;Selected key metrics&#8221; section of our &#8220;Management&#8217;s Discussion and Analysis - Results of Operations - Asset Management.&#8221; 
+
+Fee-based accounts within our PCG segment are comprised of a wide array of products and programs that we offer our clients. The majority of assets in fee-based accounts within our PCG segment are invested in programs for which our financial advisors provide investment advisory services, either on a discretionary or non-discretionary basis. Administrative services for such accounts (e.g., record-keeping) are generally performed by our Asset Management segment and, as a result, a portion of the related revenues is shared with the Asset Management segment. 
+
+We also offer our clients fee-based accounts that are invested in &#8220;managed programs&#8221; overseen by AMS, which is part of our Asset Management segment. Fee-billable assets invested in managed programs are included in both &#8220;Assets in fee-based accounts&#8221; in the preceding table and &#8220;Financial assets under management&#8221; in the Asset Management segment. Revenues related to managed programs are shared by our PCG and Asset Management segments. The Asset Management segment receives a higher portion of the revenues related to accounts invested in managed programs, as compared to the portion received for non-managed programs, as it is performing portfolio management services in addition to administrative services. 
+
+The vast majority of the revenues we earn from fee-based accounts are recorded in &#8220;Asset management and related administrative fees&#8221; on our Condensed Consolidated Statements of Income and Comprehensive Income. Fees received from such accounts are based on the value of client assets in fee-based accounts and vary based on the specific account types in which the client invests and the level of assets in the client relationship. As fees for substantially all of such accounts are billed based on balances as of the beginning of the quarter, revenues from fee-based accounts may not be immediately affected by changes in asset values, but rather the impacts are seen in the following quarter. 
+
+PCG assets under administration increased during the three months ended June 30, 2021, primarily due to equity market appreciation, as well as net inflows of client assets. In addition, PCG assets in fee-based accounts continued to increase as a percentage of overall PCG assets under administration due to clients&#8217; increased preference for fee-based alternatives versus transaction-based accounts. As a result of the shift to fee-based accounts over the past several years, a larger portion of our PCG revenues are more directly impacted by market movements. 
+
+Financial advisors 
+
+June 30, 2021 March 31, 2021 September 30, 2020 June 30, 2020 Employees 3,423 &#160; 3,375 3,404 3,379 Independent contractors 4,990 &#160; 4,952 4,835 4,776 Total advisors 8,413 &#160; 8,327 8,239 8,155 
+
+The number of financial advisors increased compared with the prior quarter and September 30, 2020 due to strong recruiting of financial advisors and new trainees that were moved into production roles, partially offset by the impact of advisors who left the firm, including planned retirements, where assets are generally retained at the firm. The growth in the number of financial advisors has been impacted by the transfer of advisors who were previously affiliated with the firm as independent contractors or employees to our RIA &#38; Custody Services (&#8220;RCS&#8221;) division. Advisors in RCS are not included in the financial advisor count, although their assets are still included in client assets under administration. The recruiting pipeline remains strong across our affiliation options despite an increasingly competitive recruiting environment. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Clients&#8217; domestic cash sweep balances 
+
+As of $ in millions June 30, 2021 March 31, 2021 December 31, 2020 September 30, 2020 June 30, 2020 RJBDP Raymond James Bank $ 29,253 &#160; $ 28,174 $ 26,697 $ 25,599 $ 24,101 Third-party banks 25,080 &#160; 25,110 26,142 25,998 24,661 Subtotal RJBDP 54,333 &#160; 53,284 52,839 51,597 48,762 CIP 8,610 &#160; 9,517 8,769 3,999 3,157 Total clients&#8217; domestic cash sweep balances 
+
+$ 62,943 &#160; $ 62,801 $ 61,608 $ 55,596 $ 51,919 
+
+&#160; Three months ended June 30, Nine months ended June 30, 2021 2020 2021 2020 Average yield on RJBDP - third-party banks 
+
+0.29 &#160; % 0.33 % 0.30 &#160; % 0.97 % 
+
+A significant portion of our clients&#8217; cash is included in the RJBDP, a multi-bank sweep program in which clients&#8217; cash deposits in their accounts are swept into interest-bearing deposit accounts at Raymond James Bank and various third-party banks. We earn servicing fees for the administrative services we provide related to our clients&#8217; deposits that are swept to such banks as part of the RJBDP. The amounts from third-party banks are variable in nature and fluctuate based on client cash balances in the program, as well as the level of short-term interest rates and the interest paid to clients by the third-party banks on balances in the RJBDP. The &#8220;Average yield on RJBDP - third party banks&#8221; in the preceding table is computed by dividing annualized RJBDP fees from third-party banks, which are net of the interest expense paid to clients by the third-party banks, by the average daily RJBDP balance at third-party banks. The PCG segment also earns RJBDP servicing fees from the Raymond James Bank segment, which are based on the number of accounts that are swept to Raymond James Bank. The fees from the Raymond James Bank segment are eliminated in consolidation. PCG segment results are impacted by changes in the allocation of client cash balances in RJBDP between Raymond James Bank and third-party banks. PCG segment results are also impacted by changes in the allocation of cash balances between RJBDP and CIP, as the net yield to the firm on cash balances in CIP (i.e., the spread between amounts earned on assets segregated for regulatory purposes and the interest paid to clients on CIP balances) is lower than the yield to the firm on RJBDP balances, on average. 
+
+Client cash balances remained elevated as of June 30, 2021 compared to prior year balances as a result of a number of factors, including the continuing economic uncertainty caused by the COVID-19 pandemic, as well as uncertainty related to the nature and timing of policy changes that may be put forth by the new federal government administration. The average yield on RJBDP - third-party banks decreased compared with the prior-year periods due to a decline in short-term interest rates. We expect the average yield on RJBDP balances at third-party banks to remain approximately 0.29% for the remainder of our 2021 fiscal year; however, this projected yield could decline in fiscal 2022 if demand for deposits from third-party banks does not improve from current levels. 
+
+Quarter ended June 30, 2021 compared with the quarter ended June 30, 2020 
+
+Net revenues of $1.70 billion increased $447 million, or 36%, and pre-tax income of $195 million increased $104 million, or 114%. 
+
+Asset management and related administrative fees increased $335 million, or 47%, primarily due to higher assets in fee-based accounts at the beginning of the current quarter. As assets in these accounts are billed primarily on balances as of the beginning of the quarter, the 9% increase in fee-based assets as of June 30, 2021 compared to March 31, 2021, should positively impact asset management fees in our fiscal fourth quarter of 2021. 
+
+Brokerage revenues increased $71 million, or 22%, due to higher trailing revenues from mutual and other fund products and annuity products, resulting from higher asset values in the current quarter, as well as higher transactional revenues. 
+
+Account and service fees increased $32 million, or 18%, primarily due to an increase in mutual fund service fees, primarily resulting from higher average mutual fund assets, as well as incremental client account and other fees resulting from our acquisition of NWPS at the end of our fiscal first quarter of 2021. 
+
+Compensation-related expenses increased $315 million, or 31%, primarily due to higher compensable net revenues. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Non-compensation expenses increased $28 million, or 20%, in part due to increased recruiting costs and other business development expenses, including travel-related expenses. 
+
+Nine months ended June 30, 2021 compared with the nine months ended June 30, 2020 
+
+Net revenues of $4.81 billion increased $652 million, or 16%, and pre-tax income of $527 million increased $113 million, or 27%. 
+
+Asset management and related administrative fees increased $584 million, or 25%, primarily due to higher assets in fee-based accounts at the beginning of each of the current-year quarterly billing periods compared with the prior-year quarterly billing periods. 
+
+Brokerage revenues increased $106 million, or 10%, primarily due to higher trailing revenues from mutual and other fund products and annuity products, resulting from higher average asset values, as well as higher transactional revenues due to increased client activity. 
+
+Account and service fees decreased $20 million, or 3%, primarily due to a decline in RJBDP fees from third-party banks as a result of lower short-term interest rates. Partially offsetting this decrease was an increase in mutual fund service fees, resulting from higher average mutual fund assets, as well as incremental client account and other fees resulting from our acquisition of NWPS at the end of our fiscal first quarter of 2021. 
+
+Net interest income decreased $22 million, or 21%, driven by a decline in interest income due to lower short-term interest rates applicable to both cash and segregated asset balances, which more than offset the impact of higher segregated asset balances. Our CIP balances increased significantly compared with the prior-year period resulting in the increase in segregated assets, and a majority of the increase was held in segregated short-term U.S. Treasury securities at very low interest rates. Partially offsetting the impact of a decrease in interest income, interest expense also decreased, despite the significant increase in client cash balances in our CIP, due to the impact of lower deposit rates paid on these balances. 
+
+Compensation-related expenses increased $531 million, or 16%, primarily due to higher compensable net revenues. 
+
+Non-compensation expenses increased $8 million, or 2%, largely due to higher communications and information processing expenses, partially offset by lower business development expenses due to limited travel and event-related expenses during the COVID-19 pandemic. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+RESULTS OF OPERATIONS &#8211; CAPITAL MARKETS 
+
+For an overview of our Capital Markets segment operations, as well as a description of the key factors impacting our Capital Markets results of operations, refer to the information presented in &#8220;Item 1 - Business&#8221; and &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; of our 2020 Form 10-K. 
+
+Operating results 
+
+&#160; Three months ended June 30, Nine months ended June 30, $ in millions 2021 2020 % change 2021 2020 % change Revenues: &#160; &#160; Brokerage revenues: 
+
+&#160; &#160; Fixed income $ 124 &#160; $ 125 (1) % $ 397 &#160; $ 296 34 % Equity 36 &#160; 41 (12) % 112 &#160; 115 (3) % Total brokerage revenues 
+
+160 &#160; 166 (4) % 509 &#160; 411 24 % Investment banking: 
+
+Merger &#38; acquisition and advisory 
+
+153 &#160; 60 155 % 424 &#160; 192 121 % Equity underwriting 
+
+69 &#160; 35 97 % 196 &#160; 117 68 % Debt underwriting 
+
+43 &#160; 37 16 % 126 &#160; 90 40 % Total investment banking 265 &#160; 132 101 % 746 &#160; 399 87 % Interest income 
+
+4 &#160; 4 &#8212; 12 &#160; 22 (45) % Tax credit fund revenues 
+
+17 &#160; 20 (15) % 57 &#160; 50 14 % All other 
+
+3 &#160; 3 &#8212; 14 &#160; 13 8 % Total revenues 449 &#160; 325 38 % 1,338 &#160; 895 49 % Interest expense 
+
+(3) (2) 50 % (7) (14) (50) % Net revenues 446 &#160; 323 38 % 1,331 &#160; 881 51 % Non-interest expenses: 
+
+&#160; &#160; Compensation, commissions and benefits 
+
+256 &#160; 195 31 % 767 &#160; 545 41 % Non-compensation expenses: 
+
+Communications and information processing 
+
+22 &#160; 19 16 % 61 &#160; 58 5 % Occupancy and equipment 
+
+9 &#160; 9 &#8212; 27 &#160; 27 &#8212; Business development 
+
+8 &#160; 7 14 % 23 &#160; 38 (39) % Professional fees 
+
+12 &#160; 12 &#8212; 38 &#160; 35 9 % Acquisition-related expenses 3 &#160; &#8212; NM 3 &#160; &#8212; NM All other 
+
+21 &#160; 19 11 % 63 &#160; 59 7 % Total non-compensation expenses 
+
+75 &#160; 66 14 % 215 &#160; 217 (1) % Total non-interest expenses 331 &#160; 261 27 % 982 &#160; 762 29 % Pre-tax income $ 115 &#160; $ 62 85 % $ 349 &#160; $ 119 193 % 
+
+Quarter ended June 30, 2021 compared with the quarter ended June 30, 2020 
+
+Net revenues of $446 million increased $123 million, or 38%, and pre-tax income of $115 million increased $53 million, or 85%. 
+
+Brokerage revenues decreased $6 million, or 4%, primarily due to a decrease in equity brokerage revenues, as uncertainty related to the onset of the COVID-19 pandemic drove high levels of client activity in the prior-year quarter. Similarly, fixed income brokerage revenues continued to be strong but were slightly lower than the prior-year quarter . 
+
+Investment banking revenues increased $133 million, or 101%, compared with the prior-year quarter, due to a combination of strong results in the current quarter, and a prior-year quarter which had been negatively impacted by a slowdown in activity during the onset of the COVID-19 pandemic. Merger &#38; acquisition and advisory revenues increased significantly compared with the prior-year quarter, due to an increase in both the number and size of transactions, and reflected strong activity in both the U.S. and U.K. Equity underwriting revenues increased significantly, primarily due to higher levels of client activity and larger transactions in the current quarter. Debt underwriting revenues also increased, due to higher revenues from corporate underwritings, partially offset by lower revenues from public finance and asset-backed transactions. In addition to the strong results during the quarter, our investment banking pipelines remain strong and, in part, reflect the investments we have made 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+over the past several years, which has positioned us to enhance our services to our clients. The most recent example of such investments is our acquisition of Financo which closed at the end of our fiscal second quarter of 2021. 
+
+Compensation-related expenses increased $61 million, or 31%, primarily due to the increase in revenues. 
+
+Non-compensation expenses increased $9 million, or 14%, and included $3 million of acquisition-related expenses, comprised of the amortization expense related to intangible assets with short useful lives which arose in our acquisition of Financo. 
+
+Nine months ended June 30, 2021 compared with the nine months ended June 30, 2020 
+
+Net revenues of $1.33 billion increased $450 million, or 51%, and pre-tax income of $349 million increased $230 million, or 193%. 
+
+Brokerage revenues increased $98 million, or 24%, due to a significant increase in fixed income brokerage revenues as a result of an increase in client activity levels throughout the current-year period. The significant increase in client activity levels, particularly with depository clients, began toward the end of our fiscal second quarter of fiscal 2020. 
+
+Investment banking revenues increased $347 million, or 87%, due to a significant increase in merger &#38; acquisition and advisory revenues and underwriting revenues. The significant increase in merger &#38; acquisition and advisory revenues reflected larger individual transactions and an increase in the number of transactions, as the current-year period reflected high levels of client activity, while the prior-year period was impacted by low levels of client activity during the onset of the pandemic. Equity underwriting revenues also increased significantly, primarily due to an increase in market activity in both the U.S. and Canada. An increase in debt underwriting primarily reflected higher revenues from corporate and asset-backed underwritings, partially offset by lower revenues from public finance transactions. 
+
+Compensation-related expenses increased $222 million, or 41%, primarily due to the increase in net revenues. 
+
+Non-compensation expenses decreased $2 million, or 1%, primarily due to lower travel and event-related expenses as a result of the COVID-19 pandemic, partially offset by smaller increases across various expense categories, including the aforementioned acquisition-related expenses associated with the Financo acquisition. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+RESULTS OF OPERATIONS &#8211; ASSET MANAGEMENT 
+
+For an overview of our Asset Management segment operations as well as a description of the key factors impacting our Asset Management results of operations, refer to the information presented in &#8220;Item 1 - Business&#8221; and &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; of our 2020 Form 10-K. 
+
+Operating results 
+
+&#160; Three months ended June 30, Nine months ended June 30, $ in millions 2021 2020 % change 2021 2020 % change Revenues: &#160; &#160; Asset management and related administrative fees: 
+
+Managed programs 
+
+$ 148 &#160; $ 109 36 % $ 414 &#160; $ 358 16 % Administration and other 70 &#160; 48 46 % 193 &#160; 152 27 % Total asset management and related administrative fees 218 &#160; 157 39 % 607 &#160; 510 19 % Account and service fees 
+
+4 &#160; 3 33 % 13 &#160; 12 8 % All other 3 &#160; 3 &#8212; 9 &#160; 9 &#8212; Net revenues 225 &#160; 163 38 % 629 &#160; 531 18 % Non-interest expenses: &#160; &#160; &#160; &#160; Compensation, commissions and benefits 
+
+43 &#160; 44 (2) % 138 &#160; 134 3 % Non-compensation expenses: 
+
+Communications and information processing 
+
+12 &#160; 10 20 % 35 &#160; 33 6 % Investment sub-advisory fees 
+
+33 &#160; 23 43 % 91 &#160; 74 23 % All other 
+
+32 &#160; 26 23 % 90 &#160; 84 7 % Total non-compensation expenses 77 &#160; 59 31 % 216 &#160; 191 13 % Total non-interest expenses 120 &#160; 103 17 % 354 &#160; 325 9 % Pre-tax income $ 105 &#160; $ 60 75 % $ 275 &#160; $ 206 33 % 
+
+Selected key metrics 
+
+Managed programs 
+
+Management fees recorded in our Asset Management segment are generally calculated as a percentage of the value of our fee-billable financial assets under management (&#8220;AUM&#8221;). These AUM include the portion of fee-based AUA in our PCG segment that is invested in programs overseen by our Asset Management segment (included in the &#8220;AMS&#8221; line of the following table), as well as retail accounts managed on behalf of third-party institutions, institutional accounts and proprietary mutual funds that we manage (collectively included in the &#8220;Carillon Tower Advisers&#8221; line of the following table). 
+
+Revenues related to fee-based AUA in our PCG segment are shared by the PCG and Asset Management segments, the amount of which depends on whether clients are invested in assets that are in managed programs overseen by our Asset Management segment and the administrative services provided (see our &#8220;Management&#8217;s Discussion and Analysis - Results of Operations - Private Client Group&#8221; for more information). Our AUM in AMS are impacted by market fluctuations and net inflows or outflows of assets, as well as transfers between fee-based accounts and transaction-based accounts within our PCG segment. 
+
+Revenues earned by Carillon Tower Advisers for retail accounts managed on behalf of third-party institutions, institutional accounts and our proprietary mutual funds are recorded entirely in the Asset Management segment. Our AUM in Carillon Tower Advisers are impacted by market and investment performance and net inflows or outflows of assets. 
+
+Fees for our managed programs are generally collected quarterly. Approximately 65% of these fees are based on balances as of the beginning of the quarter, approximately 10% are based on balances as of the end of the quarter, and approximately 25% are based on average daily balances throughout the quarter. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Financial assets under management 
+
+$ in billions June 30, 2021 March 31, 2021 September 30, 2020 June 30, 2020 March 31, 2020 September 30, 2019 
+
+AMS (1) 
+
+$ 131.8 &#160; $ 121.2 $ 102.2 $ 96.0 $ 84.0 $ 91.8 Carillon Tower Advisers 69.2 &#160; 66.6 59.5 57.5 51.7 58.5 Subtotal financial assets under management 201.0 &#160; 187.8 161.7 153.5 135.7 150.3 Less: Assets managed for affiliated entities (10.0) (9.6) (8.6) (8.1) (7.5) (7.2) Total financial assets under management $ 191.0 &#160; $ 178.2 $ 153.1 $ 145.4 $ 128.2 $ 143.1 
+
+(1) Represents the portion of our PCG segment fee-based AUA (as disclosed in &#8220;Assets in fee-based accounts&#8221; in the &#8220;Selected key metrics - PCG client asset balances&#8221; section of our &#8220;Management&#8217;s Discussion and Analysis - Results of Operations - Private Client Group&#8221;) that is invested in managed programs overseen by the Asset Management segment. See &#8220;Management&#8217;s Discussion and Analysis - Results of Operations - Private Client Group&#8221; for further information about our retail client assets, including those fee-based assets invested in programs managed by AMS. 
+
+Activity (including activity in assets managed for affiliated entities) 
+
+Three months ended June 30, Nine months ended June 30, $ in billions 2021 2020 2021 2020 Financial assets under management at beginning of period $ 187.8 &#160; $ 135.7 $ 161.7 &#160; $ 150.3 Carillon Tower Advisers - net inflows/(outflows) (0.3) (2.0) 0.8 &#160; (4.4) AMS - net inflows 4.5 &#160; 1.5 9.8 &#160; 4.8 Net market appreciation in asset values 9.0 &#160; 18.3 28.7 &#160; 2.8 Financial assets under management at end of period $ 201.0 &#160; $ 153.5 $ 201.0 &#160; $ 153.5 
+
+Carillon Tower Advisers 
+
+Assets managed by Carillon Tower Advisers include assets managed by its subsidiaries and affiliates: Eagle Asset Management, Scout Investments, Reams Asset Management (a division of Scout Investments), ClariVest Asset Management and Cougar Global Investments. The following table presents Carillon Tower Advisers&#8217; AUM by objective, excluding assets for which it does not exercise discretion, as well as the approximate average client fee rate earned on such assets for the period presented. 
+
+$ in billions June 30, 2021 Average fee rate for the three months ended June 30, 2021 
+
+Equity $ 31.6 &#160; 0.52 &#160; % Fixed income 31.6 &#160; 0.18 &#160; % Balanced 6.0 &#160; 0.35 &#160; % Total financial assets under management $ 69.2 &#160; 0.35 &#160; % 
+
+Non-discretionary asset-based programs 
+
+The following table includes assets held in certain non-discretionary asset-based programs for which the Asset Management segment does not exercise discretion but provides administrative support (including for affiliated entities). The vast majority of these assets are also included in our PCG segment fee-based AUA (as disclosed in &#8220;Assets in fee-based accounts&#8221; in the &#8220;Selected key metrics - PCG client asset balances&#8221; section of our &#8220;Management&#8217;s Discussion and Analysis - Results of Operations - Private Client Group&#8221;). Administrative fees associated with these programs are predominantly based on balances at the beginning of the quarter. 
+
+$ in billions June 30, 2021 March 31, 2021 September 30, 2020 June 30, 2020 March 31, 2020 September 30, 2019 Total assets $ 361.5 &#160; $ 334.2 $ 280.6 $ 253.7 $ 217.3 $ 229.7 
+
+RJ Trust 
+
+The following table includes assets held in asset-based programs in RJ Trust (including those managed for affiliated entities). 
+
+$ in billions June 30, 2021 March 31, 2021 September 30, 2020 June 30, 2020 March 31, 2020 September 30, 2019 Total assets $ 8.1 &#160; $ 7.8 $ 7.1 $ 7.1 $ 6.4 $ 6.6 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Quarter ended June 30, 2021 compared with the quarter ended June 30, 2020 
+
+Net revenues of $225 million increased $62 million, or 38%, and pre-tax income of $105 million increased $45 million, or 75%. 
+
+Asset management and related administrative fees increased $61 million, or 39%, driven by higher AUM and higher assets in non-discretionary asset-based programs. 
+
+Compensation expenses decreased $1 million, or 2%, and non-compensation expenses increased $18 million, or 31%. The increase in non-compensation expenses was primarily due to investment sub-advisory fees, which resulted from the increase in AUM in sub-advised programs. 
+
+Nine months ended June 30, 2021 compared with the nine months ended June 30, 2020 
+
+Net revenues of $629 million increased $98 million, or 18%, and pre-tax income of $275 million increased $69 million, or 33%. 
+
+Asset management and related administrative fees increased $97 million, or 19%, driven by higher AUM and higher assets in non-discretionary asset-based programs, resulting from both equity market appreciation and net inflows. Carillon Tower Advisers generated net inflows during the current-year period, despite the structural headwinds for active asset managers resulting from the industry shift from actively managed investment strategies to passive investment strategies. 
+
+Compensation expenses increased $4 million, or 3%, and included the impact of higher net revenues. Non-compensation expenses increased $25 million, or 13%, largely due to investment sub-advisory fees which resulted from the increase in AUM in sub-advised programs. 
+
+RESULTS OF OPERATIONS &#8211; RAYMOND JAMES BANK 
+
+For an overview of our Raymond James Bank segment operations, as well as a description of the key factors impacting our Raymond James Bank segment results of operations, refer to the information presented in &#8220;Item 1 - Business&#8221; and &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; of our 2020 Form 10-K. 
+
+Operating results 
+
+Three months ended June 30, Nine months ended June 30, $ in millions 2021 2020 % change 2021 2020 % change Revenues: &#160; &#160; Interest income $ 172 &#160; $ 181 (5) % $ 505 &#160; $ 635 (20) % Interest expense (11) (12) (8) % (32) (51) (37) % Net interest income 161 &#160; 169 (5) % 473 &#160; 584 (19) % All other 8 &#160; 9 (11) % 23 &#160; 20 15 % Net revenues 169 &#160; 178 (5) % 496 &#160; 604 (18) % Non-interest expenses: &#160; &#160; &#160; &#160; Compensation and benefits 
+
+13 &#160; 13 &#8212; 38 &#160; 38 &#8212; Non-compensation expenses: 
+
+Bank loan provision/(benefit) for credit losses (19) 81 NM (37) 188 NM RJBDP fees to PCG 
+
+47 &#160; 43 9 % 134 &#160; 138 (3) % All other 
+
+24 &#160; 27 (11) % 75 &#160; 77 (3) % Total non-compensation expenses 52 &#160; 151 (66) % 172 &#160; 403 (57) % Total non-interest expenses 65 &#160; 164 (60) % 210 &#160; 441 (52) % Pre-tax income $ 104 &#160; $ 14 643 % $ 286 &#160; $ 163 75 % 
+
+Quarter ended June 30, 2021 compared with the quarter ended June 30, 2020 
+
+Net revenues of $169 million decreased $9 million, or 5%, and pre-tax income of $104 million increased $90 million, or 643%. 
+
+Net interest income decreased $8 million, or 5%, as the negative impacts from lower average LIBOR and a shift in the composition of interest-earning assets compared with the prior-year quarter more than offset the impact of higher average interest-earning assets. The net interest margin decreased to 1.92% from 2.29% for the prior-year quarter, primarily due to the decline in average LIBOR, as well as a higher concentration of agency-backed available-for-sale securities, which have a lower 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+yield on average than loans. Based on current rates, as well as the elevated prepayment of higher-yielding securities and mortgages, we project our net interest margin to decline to approximately 1.90% for our fiscal fourth quarter of 2021. 
+
+The bank loan benefit for credit losses was $19 million in the current quarter, which was calculated under the CECL model, compared with an $81 million provision in the prior-year quarter, which was calculated under the incurred loss model. The current quarter benefit reflected an improved economic forecast, as well as improved credit ratings within our corporate loan portfolio. The provision for credit losses in the prior-year quarter reflected the rapid and widespread economic deterioration and uncertainty at the onset of the COVID-19 pandemic. 
+
+Nine months ended June 30, 2021 compared with the nine months ended June 30, 2020 
+
+Net revenues of $496 million decreased $108 million, or 18%, and pre-tax income of $286 million increased $123 million, or 75%. 
+
+Net interest income decreased $111 million, or 19%, as the negative impact from lower short-term interest rates more than offset the impact of higher average interest-earning assets. The increase in average interest-earning assets was primarily driven by significant growth in the available-for-sale securities portfolio and securities-based loans to PCG clients. The net interest margin decreased to 1.96% from 2.82% for the prior-year period, primarily due to the significant decline in short-term interest rates, as well as a higher concentration of agency-backed available-for-sale securities, which on average have a lower yield than loans. 
+
+We had a bank loan benefit for credit losses of $37 million, which was calculated under the CECL model, compared with a $188 million provision in the prior-year period, which was calculated under the incurred loss model. The current period benefit was largely attributable to improved economic forecasts utilized in our CECL model since our October 1, 2020 adoption date, including improved outlooks on unemployment and gross domestic product, which favorably impact most of our loan portfolios, as well as improved credit ratings within our corporate loan portfolio. The provision for credit losses in the prior-year period reflected the rapid and widespread economic deterioration and uncertainty caused by the onset of the COVID-19 pandemic. 
+
+RESULTS OF OPERATIONS &#8211; OTHER 
+
+This segment includes our private equity investments, interest income on certain corporate cash balances, certain acquisition-related expenses, and certain corporate overhead costs of RJF that are not allocated to other segments, including the interest costs on our public debt and any losses on extinguishment of such debt. For an overview of our Other segment operations, refer to the information presented in &#8220;Item 1 - Business&#8221; of our 2020 Form 10-K. 
+
+Operating results 
+
+Three months ended June 30, Nine months ended June 30, $ in millions 2021 2020 % change 2021 2020 % change Revenues: Interest income $ &#8212; &#160; $ 3 (100) % $ 6 &#160; $ 27 (78) % Gains/(losses) on private equity investments 24 &#160; 1 2,300 % 56 &#160; (40) NM All other 4 &#160; 2 100 % 7 &#160; 4 75 % Total revenues 28 &#160; 6 367 % 69 &#160; (9) NM Interest expense (26) (26) &#8212; (75) (63) 19 % Net revenues 2 &#160; (20) NM (6) (72) 92 % Non-interest expenses: Compensation and all other 34 &#160; 9 278 % 96 &#160; 34 182 % Losses on extinguishment of debt 98 &#160; &#8212; NM 98 &#160; &#8212; NM Acquisition-related expenses 4 &#160; &#8212; NM 6 &#160; &#8212; NM Total non-interest expenses 136 &#160; 9 1,411 % 200 &#160; 34 488 % Pre-tax loss $ (134) $ (29) (362) % $ (206) $ (106) (94) % 
+
+Quarter ended June 30, 2021 compared with the quarter ended June 30, 2020 
+
+The pre-tax loss of $134 million was $105 million larger than the loss in the prior-year quarter. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Net revenues increased $22 million, as the current quarter included $24 million of private equity valuation gains, of which $10 million were attributable to noncontrolling interests and were offset within other expenses, compared with $1 million of gains in the prior-year quarter. The current quarter valuation gains primarily reflected the impact of continued improvement in market conditions and an improved outlook for certain of our investments. 
+
+Non-interest expenses increased $127 million, primarily due to losses on the extinguishment of debt of $98 million (see Note 14 for further information), as well as the aforementioned $10 million offset of private equity valuation losses attributable to noncontrolling interests in the current quarter. The $4 million of acquisition-related expenses in the current quarter primarily included professional expenses associated with our acquisitions of Cebile Capital, which was announced in our fiscal third quarter of 2021, and Charles Stanley, which was announced in July 2021. 
+
+Nine months ended June 30, 2021 compared with the nine months ended June 30, 2020 
+
+The pre-tax loss of $206 million was $100 million larger than the loss in the prior-year period. 
+
+Net revenues increased $66 million, primarily due to private equity valuation gains in the current period, compared with losses in the prior-year period, which reflected the impact of challenging market conditions at the onset of the COVID-19 pandemic. The current period included $56 million of private equity valuation gains, of which $20 million were attributable to noncontrolling interests and were offset within other expenses. These valuation gains were primarily the result of continued improvement in market conditions and an improved outlook for certain of our investments. The prior-year period included $40 million of private equity valuation losses, of which $23 million were attributable to noncontrolling interests and were offset within other expenses. Interest income earned on corporate cash balances decreased compared with the prior-year period due to lower short-term interest rates, partially offset by the impact of higher average balances, and interest expense increased primarily as a result of the issuance of $500 million of senior notes in March 2020. 
+
+Non-interest expenses increased $166 million, or 488%, primarily due to the aforementioned losses on extinguishment of debt of $98 million, as well as the aforementioned $20 million in gains attributable to noncontrolling interests, compared with $23 million in losses in the prior-year period. The $6 million of acquisition-related expenses in the current year primarily included professional and integration expenses associated with our acquisitions of NWPS and Financo during fiscal 2021, as well as our announced acquisitions of Cebile Capital and Charles Stanley. 
+
+CERTAIN STATISTICAL DISCLOSURES BY BANK HOLDING COMPANIES 
+
+We are required to provide certain statistical disclosures as a bank holding company under the SEC&#8217;s Industry Guide 3. The following table provides certain of those disclosures. 
+
+Three months ended June 30, Nine months ended June 30, &#160; 2021 2020 2021 2020 Return on assets 2.2% 1.5% 2.4% 1.9% Return on equity 15.9% 10.0% 17.4% 11.9% Average equity to average assets 13.6% 14.6% 14.0% 15.7% Dividend payout ratio 17.9% 30.1% 16.9% 25.6% 
+
+Return on assets is computed by dividing annualized net income for the period indicated by average assets for each respective period. Average assets for the quarter is computed by adding total assets as of the date indicated to the prior quarter-end total and dividing by two. Average assets for the year-to-date period is computed by adding total assets as of each quarter-end date during the year-to-date period to the beginning of the year total and dividing by four. 
+
+Return on equity is computed by dividing annualized net income for the period indicated by average equity for each respective period. Average equity for the quarter is computed by adding total equity attributable to RJF as of the date indicated to the prior quarter-end total and dividing by two. Average equity for the year-to-date period is computed by adding total equity attributable to RJF as of each quarter-end date during the year-to-date period to the beginning of the year total and dividing by four. 
+
+Average equity to average assets is computed by dividing average equity by average assets, as calculated in accordance with the previous explanations. 
+
+Dividend payout ratio is computed by dividing dividends declared per common share during the period by earnings per diluted common share for the period. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Refer to the &#8220;Net interest analysis&#8221; and &#8220;Risk management - Credit risk&#8221; sections of this MD&#38;A and to the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for the other required disclosures. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+Liquidity is essential to our business. The primary goal of our liquidity management activities is to ensure adequate funding to conduct our business over a range of economic and market environments. 
+
+Senior management establishes our liquidity and capital management framework. This framework includes senior management&#8217;s review of short- and long-term cash flow forecasts, review of monthly capital expenditures, monitoring of the availability of alternative sources of financing, and daily monitoring of liquidity in our significant subsidiaries. Our decisions on the allocation of capital to our business units consider, among other factors, projected profitability, cash flow, risk, and future liquidity needs. Our treasury department assists in evaluating, monitoring and controlling the impact that our business activities have on our financial condition, liquidity and capital structure, and maintains our relationships with various lenders. The objective of this framework is to support the successful execution of our business strategies while ensuring ongoing and sufficient liquidity. 
+
+Liquidity is provided primarily through our business operations and financing activities. Financing activities could include bank borrowings, collateralized financing arrangements or additional capital raising activities under our &#8220;universal&#8221; shelf registration statement. 
+
+Cash and cash equivalents increased $592 million during the nine months ended June 30, 2021 to $5.98 billion. During the nine months ended June 30, 2021, cash provided by our operations (including significant net income) and proceeds from our $750 million of 3.75% senior notes offering (net of debt issuance costs), were offset by cash used for the early-redemption of $750 million of our pre-existing senior notes and the related make-whole premiums, dividend payments, share repurchases, and investments in future growth with our acquisitions of NWPS and Financo. We also had significant increases in client cash balances, which increased both our brokerage client payables and our bank deposits. However, this cash was largely used to increase our assets segregated pursuant to regulations, primarily through the purchase of U.S. Treasuries, as part of our brokerage activities, and to increase our bank loan portfolio and available-for-sale securities as part of our banking activities. 
+
+We believe our existing assets, most of which are liquid in nature, together with funds generated from operations and available from committed and uncommitted financing facilities, provide adequate funds for continuing operations at current levels of activity. 
+
+Sources of liquidity 
+
+Approximately $1.6 billion of our total June 30, 2021 cash and cash equivalents included cash held directly at the parent, or parent cash loaned to RJ&#38;A. As of June 30, 2021, RJF had loaned $1.09 billion to RJ&#38;A (such amount is included in the RJ&#38;A cash balance in the following table), which RJ&#38;A has invested on behalf of RJF in cash and cash equivalents or otherwise deployed in its normal business activities. The following table presents our holdings of cash and cash equivalents. 
+
+$ in millions June 30, 2021 RJF $ 480 &#160; RJ&#38;A 2,262 &#160; Raymond James Bank 1,847 &#160; RJ Ltd. 869 &#160; RJFS 123 &#160; Carillon Tower Advisers 82 &#160; Other subsidiaries 319 &#160; Total cash and cash equivalents $ 5,982 &#160; 
+
+RJF maintained depository accounts at Raymond James Bank with a balance of $185 million as of June 30, 2021. The portion of this total that was available on demand without restrictions, which amounted to $108 million as of June 30, 2021, is reflected in the RJF total (and is excluded from the Raymond James Bank cash balance in the preceding table). 
+
+A large portion of the RJ Ltd. cash and cash equivalents balance as of June 30, 2021 was held to meet regulatory requirements and was not available for use by the parent. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+In addition to the cash balances described, we have various other potential sources of cash available to the parent from subsidiaries, as described in the following section. 
+
+Liquidity available from subsidiaries 
+
+Liquidity is principally available to RJF, the parent company, from RJ&#38;A and Raymond James Bank. 
+
+Certain of our broker-dealer subsidiaries are subject to the requirements of the Uniform Net Capital Rule (Rule 15c3-1) under the Securities and Exchange Act of 1934. As a member firm of the Financial Industry Regulatory Authority (&#8220;FINRA&#8221;), RJ&#38;A is subject to FINRA&#8217;s capital requirements, which are substantially the same as Rule 15c3-1. Rule 15c3-1 provides for an &#8220;alternative net capital requirement,&#8221; which RJ&#38;A has elected. Regulations require that minimum net capital, as defined, be equal to the greater of $1.5 million or 2% of aggregate debit items arising from client transactions. In addition, covenants in RJ&#38;A&#8217;s committed financing facilities require its net capital to be a minimum of 10% of aggregate debit items. At June 30, 2021, RJ&#38;A exceeded the minimum regulatory requirements, the covenants in its financing arrangements pertaining to net capital, as well as its internally-targeted net capital tolerances. FINRA may impose certain restrictions, such as restricting withdrawals of equity capital, if a member firm were to fall below a certain threshold or fail to meet minimum net capital requirements. 
+
+RJ&#38;A, as a nonbank custodian of Individual Retirement Accounts (&#8220;IRAs&#8221;), must also satisfy certain Internal Revenue Service regulations in order to accept new IRAs and qualified plans and retain the accounts for which it serves as nonbank custodian. With growth in the value of client assets in such accounts, the capital of RJ&#38;A may need to grow to continue to satisfy this requirement. As a result, RJ&#38;A may limit dividends it would otherwise remit to RJF. We evaluate regulatory requirements, loan covenants and certain internal tolerances when determining the amount of liquidity available to RJF from RJ&#38;A. 
+
+Raymond James Bank may pay dividends to RJF without prior approval of its regulator as long as the dividends do not exceed the sum of Raymond James Bank&#8217;s current calendar year and the previous two calendar years&#8217; retained net income, and Raymond James Bank maintains its targeted regulatory capital ratios. Dividends from Raymond James Bank may be limited to the extent that capital is needed to support its balance sheet growth. 
+
+Although we have liquidity available to us from our other subsidiaries, the available amounts are not as significant as those previously described and, in certain instances, may be subject to regulatory requirements. 
+
+Borrowings and financing arrangements 
+
+Committed financing arrangements 
+
+Our ability to borrow is dependent upon compliance with the conditions in our various loan agreements and, in the case of secured borrowings, collateral eligibility requirements. Our committed financing arrangements consist of a tri-party repurchase agreement (i.e., securities sold under agreements to repurchase) and, in the case of the $500 million revolving credit facility agreement (the &#8220;Credit Facility&#8221;), an unsecured line of credit. The required market value of the collateral associated with the tri-party repurchase agreement ranges from 105% to 125% of the amount financed. 
+
+The following table presents our committed financing arrangements with third-party lenders, which we generally utilize to finance a portion of our fixed income trading instruments, and the outstanding balances related thereto. 
+
+June 30, 2021 $ in millions RJ&#38;A RJF Total Total number of arrangements Financing arrangement: Committed secured $ 100 &#160; $ &#8212; &#160; $ 100 &#160; 1 &#160; Committed unsecured 200 &#160; 300 &#160; 500 &#160; 1 &#160; Total committed financing arrangements 
+
+$ 300 &#160; $ 300 &#160; $ 600 &#160; 2 &#160; Outstanding borrowing amount: Committed secured $ &#8212; &#160; $ &#8212; &#160; $ &#8212; &#160; Committed unsecured 
+
+&#8212; &#160; &#8212; &#160; &#8212; &#160; Total outstanding borrowing amount 
+
+$ &#8212; &#160; $ &#8212; &#160; $ &#8212; &#160; 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Our committed unsecured financing arrangement in the preceding table represents our Credit Facility, which provides for maximum borrowings of up to $500 million, with a sublimit of $300 million for RJF. RJ&#38;A may borrow up to $500 million under the Credit Facility, depending on the amount of outstanding borrowings by RJF. For additional details on our committed unsecured financing arrangement, see our discussion of the Credit Facility in Note 14 of the Notes to Consolidated Financial Statements of our 2020 Form 10-K. In April 2021, we amended our Credit Facility, maintaining the $500 million maximum borrowing amount, but extending the term through April 2026 and incorporating a lower cost of borrowing under the facility and certain favorable covenant modifications. 
+
+Uncommitted financing arrangements 
+
+Our uncommitted financing arrangements are in the form of secured lines of credit, secured bilateral or tri-party repurchase agreements, or unsecured lines of credit. Our arrangements with third-party lenders are generally utilized to finance a portion of our fixed income securities or for cash management purposes. Our uncommitted secured financing arrangements generally require us to post collateral in excess of the amount borrowed and are generally collateralized by RJ&#38;A-owned securities or by securities that we have received as collateral under reverse repurchase agreements. As of June 30, 2021, we had outstanding borrowings under three uncommitted secured borrowing arrangements out of a total of 11 uncommitted financing arrangements (seven uncommitted secured and four uncommitted unsecured). However, lenders are under no contractual obligation to lend to us under uncommitted credit facilities. 
+
+The following table presents our borrowings on uncommitted financing arrangements, all of which were in the form of repurchase agreements in RJ&#38;A and were included in &#8220;Collateralized financings&#8221; on our Condensed Consolidated Statements of Financial Condition. 
+
+$ in millions June 30, 2021 Outstanding borrowing amount: Uncommitted secured $ 185 &#160; Uncommitted unsecured &#8212; &#160; Total outstanding borrowing amount 
+
+$ 185 &#160; 
+
+The average daily balance outstanding during the five most recent quarters, the maximum month-end balance outstanding during the quarter and the period-end balances for repurchase agreements and reverse repurchase agreements are detailed in the following table. 
+
+&#160; Repurchase transactions Reverse repurchase transactions 
+
+For the quarter ended: 
+
+($ in millions) 
+
+Average daily balance outstanding Maximum month-end balance outstanding during the quarter End of period balance outstanding Average daily balance outstanding Maximum month-end balance outstanding during the quarter End of period balance outstanding June 30, 2021 $ 194 &#160; $ 185 &#160; $ 185 &#160; $ 283 &#160; $ 339 &#160; $ 289 &#160; March 31, 2021 $ 226 $ 260 $ 222 $ 242 $ 280 $ 224 December 31, 2020 $ 211 $ 236 $ 233 $ 204 $ 259 $ 162 September 30, 2020 $ 140 $ 165 $ 165 $ 199 $ 260 $ 207 June 30, 2020 $ 222 $ 278 $ 228 $ 168 $ 193 $ 193 
+
+Other borrowings and collateralized financings 
+
+We had $850 million in FHLB borrowings outstanding at June 30, 2021, comprised of floating-rate advances, all of which were secured by a blanket lien on Raymond James Bank&#8217;s residential mortgage loan portfolio (see Note 14 of the Notes to Consolidated Financial Statements of our 2020 Form 10-K for additional information regarding these borrowings). Raymond James Bank had an additional $3.11 billion in immediate credit available from the FHLB as of June 30, 2021 and, with the pledge of additional eligible collateral to the FHLB, total available credit of 30% of total assets. 
+
+Raymond James Bank is eligible to participate in the Federal Reserve&#8217;s discount window program; however, we do not view borrowings from the Federal Reserve as a primary source of funding. The credit available in this program is subject to periodic review, may be terminated or reduced at the discretion of the Federal Reserve, and is secured by pledged C&#38;I loans. 
+
+We act as an intermediary between broker-dealers and other financial institutions whereby we borrow securities from one broker-dealer and then lend them to another. Where permitted, we have also loaned, to broker-dealers and other financial 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+institutions, securities owned by clients or the firm. We account for each of these types of transactions as collateralized agreements and financings, with the outstanding balance of $100 million as of June 30, 2021 related to the securities loaned included in &#8220;Collateralized financings&#8221; on our Condensed Consolidated Statements of Financial Condition of this Form 10-Q. See Note 7 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for more information on our collateralized agreements and financings. 
+
+At June 30, 2021, in addition to the financing arrangements previously described, we had $9 million outstanding on a mortgage loan for our St. Petersburg, Florida home-office complex that is included in &#8220;Other borrowings&#8221; on our Condensed Consolidated Statements of Financial Condition of this Form 10-Q. 
+
+Senior notes payable 
+
+In April 2021, we sold in a registered underwritten public offering $750 million in aggregate principal amount of 3.75% senior notes due April 2051. We utilized the proceeds from the offering and cash on hand to early-redeem our $250 million par 5.625% senior notes due 2024 and our $500 million par 3.625% senior notes due 2026, which had been outstanding as of March 31, 2021. See Note 14 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information. 
+
+After the issuance of the 3.75% senior notes due April 2051 and repurchase and redemption of the 5.625% senior notes due 2024 and 3.625% senior notes due 2026, at June 30, 2021, we had aggregate outstanding senior notes payable of $2.04 billion, which, exclusive of any unaccreted premiums or discounts and debt issuance costs, was comprised of $500 million par 4.65% senior notes due 2030, $800 million par 4.95% senior notes due 2046, and $750 million par 3.75% senior notes due 2051. 
+
+Credit ratings 
+
+Our issuer and senior long-term debt ratings as of the most current report are detailed in the following table. In April 2021, Fitch Ratings, Inc. assigned its first issuer and senior long-term debt rating for Raymond James Financial, Inc. 
+
+Rating Agency Rating Outlook Fitch Ratings, Inc. A- Stable Moody&#8217;s Investors Services Baa1 Stable Standard &#38; Poor&#8217;s Ratings Services BBB+ Stable 
+
+Our current long-term debt ratings depend upon a number of factors, including industry dynamics, operating and economic environment, operating results, operating margins, earnings trends and volatility, balance sheet composition, liquidity and liquidity management, capital structure, overall risk management, business diversification and market share, and competitive position in the markets in which we operate. Deterioration in any of these factors could impact our credit ratings. Any rating downgrades could increase our costs in the event we were to obtain additional financing. 
+
+Should our credit rating be downgraded prior to a public debt offering, it is probable that we would have to offer a higher rate of interest to bond holders. A downgrade to below investment grade may make a public debt offering difficult to execute on terms we would consider to be favorable. A downgrade below investment grade could result in the termination of certain derivative contracts and the counterparties to the derivative instruments could request immediate payment or demand immediate and ongoing overnight collateralization on our derivative instruments in liability positions. A credit downgrade could damage our reputation and result in certain counterparties limiting their business with us, result in negative comments by analysts, potentially negatively impact investors&#8217; and/or clients&#8217; perception of us, and cause a decline in our stock price. None of our borrowing arrangements contains a condition or event of default related to our credit ratings. However, a credit downgrade would result in the firm incurring a higher facility fee on the Credit Facility, in addition to triggering a higher interest rate applicable to any borrowings outstanding on that line as of and subsequent to such downgrade. Conversely, an improvement in RJF&#8217;s current credit rating could have a favorable impact on the facility fee, as well as the interest rate applicable to any borrowings on such line. 
+
+Other sources and uses of liquidity 
+
+We have company-owned life insurance policies which are utilized to fund certain non-qualified deferred compensation plans and other employee benefit plans. Certain of our non-qualified deferred compensation plans and other employee benefit plans are employee-directed while others are company-directed. Certain policies which we could readily borrow against had a cash surrender value of $828 million as of June 30, 2021, comprised of $509 million related to employee-directed plans and $319 million related to company-directed plans, and we were able to borrow up to 90%, or $745 million, of the June 30, 2021 total 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+without restriction. To effect any such borrowing, the underlying investments would be converted to money market investments, therefore requiring us to take market risk related to the employee-directed plans. There were no borrowings outstanding against any of these policies as of June 30, 2021. 
+
+On May 12, 2021, we filed a &#8220;universal&#8221; shelf registration statement with the SEC pursuant to which we can issue debt, equity and other capital instruments if and when necessary or perceived by us to be opportune. Subject to certain conditions, this registration statement will be effective through May 12, 2024. 
+
+On May 25, 2021, we announced we had entered into a definitive agreement to acquire all of the outstanding shares of Cebile. We expect the closing date of the transaction to occur in our fiscal fourth quarter of 2021. We currently have the ability to utilize our cash on hand to fund the purchase. See Note 3 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information. 
+
+On July 29, 2021, we announced our intention to make an offer for the entire issued and to be issued share capital of U.K.-based Charles Stanley at a price of &#163;5.15 per share, or approximately &#163;279 million ($387 million as of July 28, 2021). The transaction, subject to U.K. Financial Conduct Authority and Charles Stanley shareholder approval, is expected to close in our fiscal first quarter of 2022. We currently have the ability to utilize our cash on hand to fund the purchase. Under the terms of the intended offer, a loan note alternative will be available to Charles Stanley shareholders which will enable eligible Charles Stanley shareholders to elect to receive a loan note in lieu of part or all of the cash consideration to which they would otherwise be entitled under the terms of the offer. The initial interest rate for the loan note alternative for the first year is 0.1%. The note bears interest at a variable rate reset annually, calculated as the Bank of England&#8217;s base rate, plus a differential defined in the loan note, with the interest rate not to exceed 1.5% in any period. See Note 3 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information. 
+
+STATEMENT OF FINANCIAL CONDITION ANALYSIS 
+
+The assets on our Condensed Consolidated Statements of Financial Condition consisted primarily of cash and cash equivalents, assets segregated pursuant to regulations (segregated for the benefit of clients), receivables including bank loans, financial instruments held either for trading purposes or as investments, and other assets. A significant portion of our assets are liquid in nature, providing us with flexibility in financing our business. 
+
+Total assets of $57.16 billion as of June 30, 2021 were $9.68 billion, or 20%, greater than our total assets as of September 30, 2020. The increase in assets was primarily due to a $4.64 billion increase in assets segregated pursuant to regulations, primarily due to a significant increase in client cash balances. Bank loans, net increased by $2.70 billion, primarily due to an increase in securities-based loans to PCG clients and corporate loans. In addition, cash and cash equivalents increased $592 million and available-for-sale securities increased $541 million. Goodwill and identifiable intangible assets, net increased $262 million due to the acquisitions of NWPS and Financo during the nine months ended June 30, 2021. 
+
+As of June 30, 2021, our total liabilities of $49.24 billion were $8.94 billion, or 22%, greater than our total liabilities as of September 30, 2020. The increase in total liabilities was primarily related to the significant increase in client cash balances as of June 30, 2021, including a $5.05 billion increase in brokerage client payables, primarily due to an increase in client cash held in our CIP, and a $3.54 billion increase in bank deposits, reflecting higher RJBDP balances held at Raymond James Bank. 
+
+REGULATORY 
+
+Refer to the discussion of the regulatory environment in which we operate and the impact on our operations of certain rules and regulations in &#8220;Item 1 - Business - Regulation&#8221; and &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Regulatory&#8221; of our 2020 Form 10-K. 
+
+RJF and many of its subsidiaries are each subject to various regulatory capital requirements. As of June 30, 2021, all of our active regulated domestic and international subsidiaries had net capital in excess of minimum requirements. In addition, RJF and Raymond James Bank were categorized as &#8220;well-capitalized&#8221; as of June 30, 2021. The maintenance of certain risk-based and other regulatory capital levels could influence various capital allocation decisions impacting one or more of our businesses. However, due to the current capital position of RJF and its regulated subsidiaries, we do not anticipate these capital requirements will have a negative impact on our future business activities. See Note 21 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further information on regulatory capital requirements. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Legislative and regulatory changes in connection with the COVID-19 pandemic 
+
+In addition to the Coronavirus Aid, Relief, and Economic Security (&#8220;CARES&#8221;) Act enacted in March 2020, the U.S. government enacted the Consolidated Appropriations Act, 2021 in December 2020. This additional stimulus bill provided further emergency COVID-19 relief, as well as extended certain provisions of the CARES Act. Under the CARES Act, financial institutions were permitted to temporarily suspend any determination of a loan modification as a result of the effects of COVID-19 as being a TDR, including impairment for accounting purposes. The Consolidated Appropriations Act, 2021 extended such relief until the earlier of: (1) 60 days after the date on which the national emergency concerning COVID-19 terminates; or (2) January 1, 2022. We elected to apply the extension for relief under the Consolidated Appropriations Act, 2021 to certain loan modifications that primarily relate to short-term payment deferral and have not classified such modifications as TDRs. See &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Credit risk&#8221; for further information on the impact of such loans. 
+
+Raymond James Bank 
+
+On February 2, 2021, Raymond James Bank filed an application with the Florida Office of Financial Regulation (&#8220;OFR&#8221;) to convert from a national bank primarily supervised by the Office of the Comptroller of the Currency (the &#8220;OCC&#8221;) to a Florida-chartered state bank. Raymond James Bank also filed an application with the Federal Reserve Bank of Atlanta to retain its membership in the Federal Reserve System. Effective June 1, 2021, upon conversion to a state member bank following approval by the Florida OFR, Raymond James Bank is no longer supervised by the OCC and is jointly supervised by the OFR and the Fed. As a state member bank, Raymond James Bank will also continue to be supervised by the FDIC and the Consumer Financial Protection Bureau. As a state member bank, we do not anticipate that there will be any material changes to Raymond James Bank&#8217;s existing business or operations. 
+
+Standard of care 
+
+The U.S. Department of Labor (&#8220;DOL&#8221;) is expected to amend the rule that determines whether an investment professional is a fiduciary to their clients&#8217; retirement accounts under the Employee Retirement Income Security Act and Internal Revenue Code. While the DOL has finalized a new exemption to allow investment advice fiduciaries to receive transaction-based compensation and engage in certain principal trades, imposing a new standard of care on additional client relationships could lead to incremental costs for our business. We are evaluating how these regulatory changes may impact our business. 
+
+Community Reinvestment Act (&#8220;CRA&#8221;) regulations 
+
+On July 20, 2021, the Fed, the FDIC and the OCC issued a joint statement in which they committed to work together to jointly modernize the CRA regulations. Until such new regulations are implemented, Raymond James Bank will continue to operate under the Fed&#8217;s CRA regulations currently in effect. At this time it is uncertain what impact, if any, the impending CRA regulations will have on Raymond James Bank and other depositories with respect to their CRA activities. 
+
+Discontinuation of LIBOR 
+
+The administrator of LIBOR has proposed to extend publication of the most commonly used U.S. dollar LIBOR settings to June 30, 2023 and to cease publishing other LIBOR settings on December 31, 2021. The U.S. federal banking agencies have issued guidance strongly encouraging banking organizations to cease using the U.S. dollar LIBOR as a reference rate in new contracts as soon as practicable and in any event by December 31, 2021. Our enterprise-wide initiative is continuing to assess and implement necessary changes to our contracts pursuant to the Alternative Reference Rate Committee&#8217;s (&#8220;ARRC&#8221;) fallback recommendations, as well as updating systems, processes, documentation, and models . We also began offering Secured Overnight Financing Rate (&#8220;SOFR&#8221;)-linked derivatives. 
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+The condensed consolidated financial statements are prepared in accordance with GAAP, which require us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the reported amounts of revenues and expenses during any reporting period in our condensed consolidated financial statements. Management has established detailed policies and control procedures intended to ensure the appropriateness of such estimates and assumptions and their consistent application from period to period. For a description of our significant accounting policies, see Note 2 of the Notes to Consolidated Financial Statements of our 2020 Form 10-K and Note 2 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Due to their nature, estimates involve judgment based upon available information. Actual results or amounts could differ from estimates and the difference could have a material impact on the consolidated financial statements. Therefore, understanding these critical accounting estimates is important in understanding our reported results of operations and financial position. We believe that of our accounting estimates and assumptions, those described in the following sections involve a high degree of judgment and complexity. Economic uncertainty as a result of the COVID-19 pandemic has made it more challenging for us to determine the amount of our allowance for credit losses and has required a greater reliance on judgment in recent periods in determining this amount. 
+
+Valuation of financial instruments 
+
+The use of fair value to measure financial instruments, with related gains or losses recognized on our Condensed Consolidated Statements of Income and Comprehensive Income, is fundamental to our financial statements and our risk management processes. See Note 2 of the Notes to Consolidated Financial Statements of our 2020 Form 10-K for a discussion of our fair value accounting policies regarding financial instruments and financial instrument liabilities. See Note 4 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information on our financial instruments at fair value. 
+
+Loss provisions for legal and regulatory matters 
+
+The recorded amount of liabilities related to legal and regulatory matters is subject to significant management judgment. For a description of the significant estimates and judgments associated with establishing such accruals, see the &#8220;Contingent liabilities&#8221; section of Note 2 of the Notes to Consolidated Financial Statements of our 2020 Form 10-K. In addition, refer to Note 16 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for information regarding legal and regulatory matter contingencies as of June 30, 2021. 
+
+Allowance for credit losses 
+
+We evaluate our held for investment bank loans, unfunded lending commitments, loans to financial advisors and certain other financial assets to estimate an allowance for credit losses. Effective October 1, 2020, we adopted the CECL accounting guidance which changed the methodology used to measure the allowance for credit losses from an allowance based on incurred losses to an allowance based on expected credit losses over a financial asset&#8217;s lifetime. The remaining life of our financial assets is determined by considering contractual terms and expected prepayments, among other factors. We employ multiple methodologies in estimating an allowance for credit losses and our approaches differ by type of financial asset and the risk characteristics within each financial asset type. Our estimates are based on ongoing evaluations of the portfolio, the related credit risk characteristics, and the overall economic and environmental conditions affecting the financial assets. Our process for determining the allowance for credit losses includes a complex analysis of several quantitative and qualitative factors, requiring significant management judgment due to matters that are inherently uncertain. This uncertainty can produce volatility in our allowance for credit losses. In addition, the allowance for credit losses could be insufficient to cover actual losses. In such an event, any losses in excess of our allowance would result in a decrease in our net income, as well as a decrease in the level of regulatory capital. See the discussion regarding our methodology in estimating the allowance for credit losses in Note 2 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q. See Notes 8 and 9 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information on our bank loan and financial advisor loan portfolios. 
+
+Our allowance for credit losses at June 30, 2021 was primarily related to bank loans and loans to financial advisors. At June 30, 2021, the amortized cost of all bank loans was $24.22 billion and the related allowance for credit losses was $322 million, or 1.34% of the held for investment loan portfolio. At June 30, 2021, the amortized cost of loans to financial advisors was $1.07 billion and the related allowance for credit losses was $29 million, which was 2.71% of the loan portfolio. 
+
+RECENT ACCOUNTING DEVELOPMENTS 
+
+The FASB has issued certain accounting updates which were assessed and either determined to be not applicable or are not expected to have a significant impact on our financial statements. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+RISK MANAGEMENT 
+
+Risks are an inherent part of our business and activities. Management of risk is critical to our fiscal soundness and profitability. Our risk management processes are multi-faceted and require communication, judgment and knowledge of financial products and markets. We have a formal Enterprise Risk Management (&#8220;ERM&#8221;) program to assess and review aggregate risks across the firm. Our management takes an active role in the ERM process, which requires specific administrative and business functions to participate in the identification, assessment, monitoring and control of various risks. 
+
+The principal risks related to our business activities are market, credit, liquidity, operational, model, and compliance. 
+
+Governance 
+
+Our Board of Directors oversees the firm&#8217;s management and mitigation of risk, reinforcing a culture that encourages ethical conduct and risk management throughout the firm. Senior management communicates and reinforces this culture through three lines of risk management and a number of senior-level management committees. Our first line of risk management, which includes all of our businesses, owns its risks and is responsible for helping to identify, escalate, and mitigate risks arising from its day-to-day activities. The second line of risk management, which includes the Compliance, Legal, and Risk Management departments, supports and provides guidance and oversight to client-facing businesses and other first-line risk management functions in identifying and mitigating risk. The second line of risk management also tests and monitors the effectiveness of controls, escalates risks when appropriate, and reports on these risks. The third line of risk management, Internal Audit, independently reviews activities conducted by the previous lines of risk management to assess their management and mitigation of risk, providing additional assurance to the Board of Directors and senior management, with a view toward enhancing our oversight, management, and mitigation of risk. 
+
+Market risk 
+
+Market risk is our risk of loss resulting from the impact of changes in market prices on our trading inventory, derivatives and investment positions. We have exposure to market risk primarily through our broker-dealer trading operations and our banking operations. See &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Market risk&#8221; of our 2020 Form 10-K for a discussion of our market risk, including how we manage such risk. See Notes 4, 5 and 6 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for fair value and other information regarding our trading inventories, available-for-sale securities and derivative instruments. 
+
+Interest rate risk 
+
+Trading activities 
+
+We are exposed to interest rate risk as a result of our trading inventory (primarily comprised of fixed income instruments) in our Capital Markets segment. We actively manage the interest rate risk arising from our fixed income trading securities through the use of hedging strategies that involve U.S. Treasury securities, futures contracts, liquid spread products and derivatives. 
+
+We monitor the Value-at-Risk (&#8220;VaR&#8221;) for all of our trading portfolios on a daily basis. VaR is an appropriate statistical technique for estimating potential losses in trading portfolios due to typical adverse market movements over a specified time horizon with a suitable confidence level. We apply the Fed&#8217;s Market Risk Rule (&#8220;MRR&#8221;) for the purpose of calculating our capital ratios. The MRR, also known as the &#8220;Risk-Based Capital Guidelines: Market Risk&#8221; rule released by the Fed, the OCC and FDIC, requires us to calculate VaR for all of our trading portfolios (including derivatives), which include fixed income, equity, and foreign exchange instruments. 
+
+To calculate VaR, we use historical simulation. This approach assumes that historical changes in market conditions, such as in interest rates and equity prices, are representative of future changes. Simulation is based on daily market data for the previous twelve months. VaR is reported at a 99% confidence level for a one-day time horizon. Assuming that future market conditions change as they have in the past twelve months, we would expect to incur losses greater than those predicted by our one-day VaR estimates about once every 100 trading days, or about three times per year on average. For regulatory capital calculation purposes, we also report VaR numbers for a ten-day time horizon. 
+
+The Fed&#8217;s MRR requires us to perform daily back-testing procedures of our VaR model, whereby we compare each day&#8217;s projected VaR to its regulatory-defined daily trading losses, which exclude fees, commissions, reserves, net interest income and 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+intraday trading. Regulatory-defined daily trading losses are used to evaluate the performance of our VaR model and are not comparable to our actual daily net revenues. Based on these daily &#8220;ex ante&#8221; versus &#8220;ex post&#8221; comparisons, we determine whether the number of times that regulatory-defined daily trading losses exceed VaR is consistent with our expectations at a 99% confidence level. During the nine months ended June 30, 2021, our regulatory-defined daily losses in our trading portfolios did not exceed our predicted VaR. 
+
+The following table sets forth the high, low, period-end and daily average VaR for all of our trading portfolios, including fixed income and equity instruments, for the period and dates indicated. 
+
+&#160; Nine months ended June 30, 2021 Period-end VaR Three months ended June 30, Nine months ended June 30, $ in millions High Low June 30, 2021 September 30, 2020 $ in millions 2021 2020 2021 2020 Daily VaR $ 11 &#160; $ 1 &#160; $ 1 &#160; $ 8 Average daily VaR $ 2 &#160; $ 2 $ 5 &#160; $ 2 
+
+Average daily VaR was higher during the current year-to-date period compared with the prior year-to-date period, as a result of the impact of increased volatility from the COVID-19 pandemic on our VaR model during the first half of fiscal 2021. However, during our third fiscal quarter of 2021, the remaining COVID-19 pandemic-related scenarios fell outside of the VaR model&#8217;s twelve-month historical simulation period, resulting in period-end VaR decreasing to $1 million as of June 30, 2021. 
+
+The modeling of the risk characteristics of trading positions involves a number of assumptions and approximations. While management believes that these assumptions and approximations are reasonable, there is no uniform industry methodology for estimating VaR, and different assumptions or approximations could produce materially different VaR estimates. As a result, VaR statistics are more reliable when used as indicators of risk levels and trends within a firm than as a basis for inferring differences in risk-taking across firms. 
+
+Separately, RJF provides additional market risk disclosures to comply with the MRR which are available on the Investor Relations section of our website under &#8220;SEC filings and Other Reports - Other Reports and Information.&#8221; 
+
+Should markets suddenly become more volatile, actual trading losses may exceed VaR results presented on a single day and might accumulate over a longer time horizon, such as a number of consecutive trading days. Accordingly, management applies additional controls including position limits, a daily review of trading results, review of the status of aged inventory, independent controls on pricing, monitoring of concentration risk, review of issuer ratings and stress testing. We utilize stress testing to complement our VaR analysis so as to measure risk under historical and hypothetical adverse scenarios. During volatile markets, we may choose to pare our trading inventories to reduce risk. 
+
+Banking operations 
+
+Raymond James Bank maintains an interest-earning asset portfolio that is comprised of cash, C&#38;I loans, commercial and residential real estate loans, REIT loans, tax-exempt loans and SBL and other loans, as well as agency MBS and agency CMOs (held in the available-for-sale securities portfolio), SBA loan securitizations and a trading portfolio of corporate loans. These interest-earning assets are primarily funded by client deposits. Based on its current asset portfolio, Raymond James Bank is subject to interest rate risk. Raymond James Bank analyzes interest rate risk based on forecasted net interest income, which is the net amount of interest received and interest paid, and the net portfolio valuation, both across a range of interest rate scenarios. 
+
+One of the objectives of Raymond James Bank&#8217;s Asset Liability Management Committee is to manage the sensitivity of net interest income to changes in market interest rates. The methods used to measure this sensitivity are described in &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Market risk&#8221; of our 2020 Form 10-K. We utilize a hedging strategy using interest rate swaps as a result of Raymond James Bank&#8217;s asset and liability management process. For further information regarding this hedging strategy, see Note 2 of the Notes to Consolidated Financial Statements of our 2020 Form 10-K. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+The following table is an analysis of Raymond James Bank&#8217;s estimated net interest income over a 12-month period based on instantaneous shifts in interest rates (expressed in basis points) using our asset/liability model, which assumes that interest rates do not decline below zero. 
+
+Instantaneous changes in rate Net interest income 
+
+($ in millions) 
+
+Projected change in net interest income +200 $915 38.0% +100 $855 29.0% 0 $663 &#8212; -25 $637 (3.9)% 
+
+Refer to &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Net interest analysis&#8221; of this Form 10-Q for a discussion of the impact changes in short-term interest rates could have on the firm&#8217;s operations. 
+
+The following table shows the contractual maturities of our bank loan portfolio at June 30, 2021, including contractual principal repayments. This table does not include any estimates of prepayments, which could shorten the average loan lives and cause the actual timing of the loan repayments to differ significantly from those shown in the table. 
+
+&#160; Due in $ in millions One year or less &#62; One year &#8211; five years &#62; Five years Total C&#38;I loans $ 204 &#160; $ 4,300 &#160; $ 3,507 &#160; $ 8,011 &#160; CRE loans 699 &#160; 1,535 &#160; 494 &#160; 2,728 &#160; REIT loans 112 &#160; 1,148 &#160; 10 &#160; 1,270 &#160; Tax-exempt loans 1 &#160; 69 &#160; 1,250 &#160; 1,320 &#160; Residential mortgage loans &#8212; &#160; 4 &#160; 5,166 &#160; 5,170 &#160; SBL and other 5,545 &#160; 37 &#160; &#8212; &#160; 5,582 &#160; Total loans held for investment 6,561 &#160; 7,093 &#160; 10,427 &#160; 24,081 &#160; Held for sale loans &#8212; &#160; &#8212; &#160; 137 &#160; 137 &#160; Total loans $ 6,561 &#160; $ 7,093 &#160; $ 10,564 &#160; $ 24,218 &#160; 
+
+The following table shows the distribution of the recorded investment of those bank loans that mature in more than one year between fixed and adjustable interest rate loans at June 30, 2021. 
+
+&#160; Interest rate type $ in millions Fixed Adjustable Total C&#38;I loans $ 301 &#160; $ 7,506 &#160; $ 7,807 &#160; CRE loans 91 &#160; 1,938 &#160; 2,029 &#160; REIT loans &#8212; &#160; 1,158 &#160; 1,158 &#160; Tax-exempt loans 1,319 &#160; &#8212; &#160; 1,319 &#160; Residential mortgage loans 191 &#160; 4,979 &#160; 
+
+5,170 &#160; SBL and other &#8212; &#160; 37 &#160; 37 &#160; Total loans held for investment 1,902 &#160; 15,618 &#160; 17,520 &#160; Held for sale loans 1 &#160; 136 &#160; 137 &#160; Total loans $ 1,903 &#160; $ 15,754 &#160; $ 17,657 &#160; 
+
+Contractual loan terms for C&#38;I, CRE, REIT and residential mortgage loans may include an interest rate floor, cap and/or fixed interest rates for a certain period of time, which would impact the timing of the interest rate reset for the respective loan. See the discussion within the &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Credit risk - Risk monitoring process&#8221; section of this Form 10-Q for additional information regarding Raymond James Bank&#8217;s interest-only residential mortgage loan portfolio. 
+
+In our available-for-sale securities portfolio, we hold primarily fixed-rate agency MBS and agency CMOs which are carried at fair value on our Condensed Consolidated Statements of Financial Condition, with changes in the fair value of the portfolio recorded through OCI on our Condensed Consolidated Statements of Income and Comprehensive Income. At June 30, 2021, our available-for-sale securities portfolio had a fair value of $8.19 billion with a weighted-average yield of 1.17% and a weighted-average life of approximately 4 years. See Note 5 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Equity price risk 
+
+We are exposed to equity price risk as a result of our capital markets activities. Our broker-dealer activities are generally client-driven, and we carry equity securities as part of our trading inventory to facilitate such activities, although the amounts are not as significant as our fixed income trading inventory. We attempt to reduce the risk of loss inherent in our inventory of equity securities by monitoring those security positions each day and establishing position limits. Equity securities held in our trading inventory are generally included in VaR. 
+
+In addition, we have a private equity portfolio, included in &#8220;Other investments&#8221; on our Condensed Consolidated Statements of Financial Condition, which is comprised of various direct investments, as well as investments in third-party private equity funds and various legacy private equity funds which we sponsor. Of the total private equity investments at June 30, 2021 of $159 million, the portion we owned was $115 million. See Note 4 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for additional information on this portfolio. 
+
+Foreign exchange risk 
+
+We are subject to foreign exchange risk due to our investments in foreign subsidiaries as well as transactions and resulting balances denominated in a currency other than the U.S. dollar. For example, our bank loan portfolio includes loans which are denominated in Canadian dollars, totaling $1.21 billion and $1.05 billion at June 30, 2021 and September 30, 2020, respectively, when converted to the U.S. dollar. A majority of such loans are held by Raymond James Bank&#8217;s Canadian subsidiary, which is discussed in the following sections. 
+
+Investments in foreign subsidiaries 
+
+Raymond James Bank has an investment in a Canadian subsidiary, resulting in foreign exchange risk. To mitigate its foreign exchange risk, Raymond James Bank utilizes short-term, forward foreign exchange contracts. These derivatives are primarily accounted for as net investment hedges in the condensed consolidated financial statements. See Note 2 of the Notes to Consolidated Financial Statements of our 2020 Form 10-K and Note 6 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further information regarding these derivatives. 
+
+We had foreign exchange risk in our investment in RJ Ltd. of CAD 393 million at June 30, 2021, which was not hedged. Foreign exchange gains/losses related to this investment are primarily reflected in OCI on our Condensed Consolidated Statements of Income and Comprehensive Income. See Note 17 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further information regarding our components of OCI. 
+
+We also have foreign exchange risk associated with our investments in subsidiaries located in Europe. These investments are not hedged and we do not believe we had material foreign exchange risk either individually, or in the aggregate, pertaining to these subsidiaries as of June 30, 2021. As previous noted, on July 29, 2021 we announced our intention to make an offer for the entire issued and to be issued share capital of U.K.-based Charles Stanley at a price of &#163;5.15 per share, or approximately &#163;279 million. Upon closing, this transaction would increase our foreign exchange exposure associated with investments in subsidiaries located in Europe. 
+
+Transactions and resulting balances denominated in a currency other than the U.S. dollar 
+
+We are subject to foreign exchange risk due to our holdings of cash and certain other assets and liabilities resulting from transactions denominated in a currency other than the U.S. dollar. Any currency-related gains/losses arising from these foreign currency denominated balances are reflected in &#8220;Other&#8221; revenues in our Condensed Consolidated Statements of Income and Comprehensive Income. The foreign exchange risk associated with a portion of such transactions and balances denominated in foreign currency are mitigated utilizing short-term, forward foreign exchange contracts. Such derivatives are not designated hedges and therefore, the related gains/losses are included in &#8220;Other&#8221; revenues in our Condensed Consolidated Statements of Income and Comprehensive Income. See Note 6 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for information regarding our derivatives. 
+
+Credit risk 
+
+Credit risk is the risk of loss due to adverse changes in a borrower&#8217;s, issuer&#8217;s or counterparty&#8217;s ability to meet its financial obligations under contractual or agreed-upon terms. The nature and amount of credit risk depends on the type of transaction, the structure and duration of that transaction, and the parties involved. Credit risk is an integral component of the profit assessment of lending and other financing activities. See further discussion of our credit risk, including how we manage such 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+risk, in &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Credit risk&#8221; of our 2020 Form 10-K. 
+
+The initial decline in economic activity as a result of the COVID-19 pandemic caused increased credit risk particularly with regard to companies in sectors that were most significantly impacted by the economic disruption, including energy, airlines, entertainment and leisure, restaurants and gaming. The speed and magnitude in which various sectors have recovered since the onset of the pandemic has been continually evolving. Given the stresses on certain of our clients&#8217; liquidity, we enhanced our credit monitoring activities, with an increased focus on monitoring our credit exposures and counterparty credit risk. Since the onset of the pandemic, Raymond James Bank has enacted risk mitigation strategies including, but not limited to, the sale of loans in those sectors with a high likelihood of adverse impact arising from the pandemic. We have also required collateral to be posted across our credit risk exposures in accordance with agreements with our borrowers and counterparties. Although economic conditions have generally improved, we have maintained our increased focus on monitoring our credit exposures and counterparty credit risk. 
+
+Brokerage activities 
+
+We are engaged in various trading and brokerage activities in which our counterparties primarily include broker-dealers, banks and other financial institutions. We are exposed to risk that these counterparties may not fulfill their obligations. The risk of default depends on the creditworthiness of the counterparty and/or the issuer of the instrument. We manage this risk by imposing and monitoring individual and aggregate position limits within each business segment for each counterparty, conducting regular credit reviews of financial counterparties, reviewing security and loan concentrations, holding and calculating the fair value of collateral on certain transactions and conducting business through clearing organizations, which may guarantee performance. 
+
+Our client activities involve the execution, settlement, and financing of various transactions on behalf of our clients. Client activities are transacted on either a cash or margin basis. Credit exposure results from client margin loans, which are monitored daily and are collateralized by the securities in the clients&#8217; accounts. We monitor exposure to industry sectors and individual securities and perform analysis on a daily basis in connection with our margin lending activities. We adjust our margin requirements if we believe our risk exposure is not appropriate based on market conditions. In addition, when clients execute a purchase, we are at some risk that the client will default on their financial obligation associated with the trade. If this occurs, we may have to liquidate the position at a loss. 
+
+We offer loans to financial advisors and certain other key revenue producers primarily for recruiting, transitional cost assistance and retention purposes. We have credit risk and may incur a loss primarily in the event that such borrower is no longer affiliated with us. See Notes 2 and 9 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further information about our loans to financial advisors. 
+
+Banking activities 
+
+Raymond James Bank has a substantial loan portfolio. While our bank loan portfolio is diversified, a significant downturn in the overall economy, such as that experienced in our fiscal year 2020 as a result of the COVID-19 pandemic, deterioration in real estate values or a significant issue within any sector or sectors where we have a concentration will generally result in large provisions for credit losses and/or charge-offs. Conversely, should the economy recover at a faster pace than initially forecasted, or the negative impact of the significant downtown event be less than originally projected, the timing and magnitude of any decreases in required reserves for credit losses can be uncertain. We determine the allowance required for specific loan grades based on relative risk characteristics of the loan portfolio. On an ongoing basis, we evaluate our methods for determining the allowance for each class of loans and make enhancements we consider appropriate. 
+
+Our allowance for credit losses methodology is described in Note 2 of the Notes to the Condensed Consolidated Financial Statements of this Form 10-Q. As our bank loan portfolio is segregated into six portfolio segments, likewise, the allowance for credit losses is segregated by these same segments. The risk characteristics relevant to each portfolio segment are as follows. 
+
+C&#38;I: Loans in this segment are made to businesses and are generally secured by all assets of the business. Repayment is expected from the cash flows of the respective business. Unfavorable economic and political conditions, including the resultant decrease in consumer or business spending, may have an adverse effect on the credit quality of loans in this segment. 
+
+CRE: Loans in this segment are primarily secured by income-producing properties. For owner-occupied properties, the cash flows are derived from the operations of the business, and the underlying cash flows may be adversely affected by the 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+deterioration in the financial condition of the operating business. The underlying cash flows generated by non-owner-occupied properties may be adversely affected by increased vacancy and rental rates, which are monitored on a quarterly basis. This portfolio segment includes CRE construction loans which also look at other risks such as project budget overruns and performance variables related to the contractor and subcontractors. With respect to commercial construction of residential developments, there is also the risk that the builder has a geographical concentration of developments. Adverse developments in any of these areas may have a negative effect on the credit quality of loans in this segment. 
+
+REIT: Loans in this segment are made to businesses that own or finance income-producing real estate across various property sectors. This portfolio segment may include extensions of credit to companies that engage in real estate development. Repayment of these loans is dependent on income generated from real estate properties or the sale of real estate. A portion of this segment may consist of loans secured by residential product types (single-family residential, including condominiums and land held for residential development) within a range of markets. Deterioration in the financial condition of the operating business, reductions in the value of real estate, as well as increased vacancy and rental rates may all adversely affect the loans in this segment. 
+
+Tax-exempt: Loans in this segment are made to governmental and nonprofit entities and are generally secured by a pledge of revenue and, in some cases, by a security interest in or a mortgage on the asset being financed. For loans to governmental entities, repayment is expected from a pledge of certain revenues or taxes. For nonprofit entities, repayment is expected from revenues which may include fundraising proceeds. These loans are subject to demographic risk, therefore much of the credit assessment of tax-exempt loans is driven by the entity&#8217;s revenue base and the general economic environment. Adverse developments in either of these areas may have a negative effect on the credit quality of loans in this segment. 
+
+Residential mortgage (includes home equity loans/lines): All of our residential mortgage loans adhere to stringent underwriting parameters pertaining to credit score and credit history, debt-to-income ratio of borrower, LTV, and combined LTV (including second mortgage/home equity loans). We do not originate or purchase adjustable rate mortgage (&#8220;ARM&#8221;) loans with negative amortization, reverse mortgages, or loans to subprime borrowers. Loans with deeply discounted teaser rates are not originated or purchased. All loans in this segment are collateralized by residential real estate and repayment is primarily dependent on the credit quality of the individual borrower. A decline in the strength of the economy, particularly unemployment rates and housing prices, among other factors, could have a significant effect on the credit quality of loans in this segment. 
+
+SBL and other: Loans in this segment are collateralized generally by the borrower&#8217;s marketable securities at advance rates consistent with industry standards. These loans are monitored daily for adherence to LTV guidelines and when a loan exceeds the required LTV, a collateral call is issued. Past due loans are minimal as any past due amounts result in a notice to the client for payment or the potential sale of the collateral which will bring the loan to a current status. 
+
+In evaluating credit risk, we consider trends in loan performance, the level of allowance coverage relative to similar banking institutions, industry or customer concentrations, the loan portfolio composition and macroeconomic factors (both current and forecasted). These factors have a potentially negative impact on loan performance and net charge-offs. 
+
+Our allowance for credit losses as of June 30, 2021 was determined under the CECL model due to our October 1, 2020 adoption of the new credit impairment standard. See Notes 2 and 8 of the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for further information. Our allowance for credit losses, as well as our methodologies and assumptions used in estimating the allowance, are regularly evaluated to determine if our methods and estimates continue to be appropriate for each class of loans, with adjustments made on a quarterly basis. Several factors were taken into consideration in evaluating the allowance for credit losses at June 30, 2021, including loan and borrower characteristics, such as internal risk ratings, delinquency status, collateral type and the remaining term of the loan adjusted for expected prepayments. In addition, the estimate of credit losses considered the relatively small amount of net charge-offs during the period, the level of nonperforming loans and the impact of the COVID-19 pandemic. We also considered the uncertainty related to certain industry sectors, including commercial real estate, and the extent of credit exposure to specific borrowers within the portfolio. Finally, we considered current economic conditions that might impact the portfolio. We continue to assess the impact of both the COVID-19 pandemic and the economic recovery therefrom, as new information becomes available regarding the financial repercussions to our borrowers, the risk ratings for individual loans will be updated and the allowance will be adjusted accordingly. 
+
+Our allowance for credit losses as a percentage of bank loans held for investment was 1.34%, 1.69% and 1.65% at June 30, 2021, October 1, 2020 (our CECL adoption date) and September 30, 2020, respectively. During the three and nine months ended June 30, 2021, we had a benefit for credit losses on our bank loan portfolio of $19 million and $37 million, respectively, 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+compared to a provision for credit losses of $81 million and $188 million for the three and nine months ended June 30, 2020, respectively. See further explanation of the credit loss provision increase in &#8220;Management&#8217;s Discussion and Analysis - Results of Operations - Raymond James Bank&#8221; of this Form 10-Q and Note 8 in the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for detail on the changes in our allowance for credit losses. 
+
+The level of charge-off activity is a factor that is considered in evaluating the potential severity of future credit losses. The following table presents net loan (charge-offs)/recoveries and the percentage of net loan (charge-offs)/recoveries to the average outstanding loan balances by loan portfolio segment. 
+
+&#160; Three Months Ended June 30 Nine Months Ended June 30 &#160; 2021 2020 2021 2020 $ in millions Net loan 
+
+(charge-off)/recovery 
+
+amount (1) 
+
+% of avg. outstanding loans Net loan 
+
+(charge-off)/recovery 
+
+amount (1) 
+
+% of avg. outstanding loans Net loan 
+
+(charge-off)/recovery 
+
+amount (1) 
+
+% of avg. outstanding loans Net loan 
+
+(charge-off)/recovery 
+
+amount (1) 
+
+% of avg. outstanding loans C&#38;I loans $ (1) 0.05 &#160; % $ (71) 3.55 % $ (3) 0.05 &#160; % $ (71) 1.18 % CRE loans (3) 0.44 &#160; % (2) 0.21 % (3) 0.15 &#160; % (2) 0.07 % Residential mortgage loans 
+
+&#8212; &#160; &#8212; &#160; % 1 0.08 % &#8212; &#160; &#8212; &#160; % 1 0.03 % Total $ (4) 0.07 &#160; % $ (72) 1.31 % $ (6) 0.04 &#160; % $ (72) 0.44 % 
+
+(1) Charge-offs related to loan sales during the period were $1 million and $3 million for the three and nine months ended June 30, 2021, respectively, and $61 million for both the three and nine months ended June 30, 2020. 
+
+The level of nonperforming loans is another indicator of potential future credit losses. The following table presents the nonperforming loans balance and total allowance for credit losses for the periods presented. 
+
+&#160; June 30, 2021 September 30, 2020 $ in millions Nonperforming loan balance Allowance for credit losses balance Nonperforming loan balance Allowance for credit losses balance C&#38;I loans $ &#8212; &#160; $ 188 &#160; $ 2 $ 200 CRE loans 27 &#160; 73 &#160; 14 81 REIT loans &#8212; &#160; 26 &#160; &#8212; 36 Tax-exempt loans &#8212; &#160; 2 &#160; &#8212; 14 Residential mortgage loans 15 &#160; 29 &#160; 14 18 SBL and other 
+
+&#8212; &#160; 4 &#160; &#8212; 5 Total nonperforming loans held for investment $ 42 &#160; $ 322 &#160; $ 30 $ 354 Total nonperforming loans as a % of total bank loans 0.17 &#160; % 0.14 % 
+
+See Note 8 in the Notes to Condensed Consolidated Financial Statements of this Form 10-Q for loan categories as a percentage of total loans receivable. 
+
+The nonperforming loan balances in the preceding table exclude $8 million and $10 million as of June 30, 2021 and September 30, 2020, respectively, of residential TDRs which were returned to accrual status in accordance with our policy. Total nonperforming assets, including the nonperforming loans in the preceding table and other real estate acquired in the settlement of residential mortgages, amounted to $43 million and $32 million at June 30, 2021 and September 30, 2020, respectively. Total nonperforming assets as a percentage of Raymond James Bank&#8217;s total assets were 0.12% and 0.10% at June 30, 2021 and September 30, 2020, respectively. Although our nonperforming assets as a percentage of Raymond James Bank&#8217;s assets remained low as of June 30, 2021, prolonged or further market deterioration could result in an increase in our nonperforming assets, an increase in our allowance for credit losses and/or an increase in net charge-offs in future periods, although the extent will depend on future developments that are highly uncertain. 
+
+We have received requests from certain borrowers for forbearance, which is generally a short-term deferral of their loan payments, or modification of certain covenant terms, driven or exacerbated by the economic impacts of the COVID-19 pandemic. Based on the amortized costs, approximately $34 million and $8 million of our corporate and residential loans, respectively, were in active forbearance as of June 30, 2021. As certain borrowers exit forbearance we have received requests for loan modifications, including repayment plans. In accordance with the CARES Act and the Consolidated Appropriations Act, 2021, we are not applying TDR classification to any COVID-19 related loan modifications performed from March 1, 2020 through December 31, 2021, to borrowers who were current as of December 31, 2019. As of June 30, 2021, we had residential loans of $12 million for which the borrower had requested a loan modification, where the request had been initiated but not completed or approved. As the delinquency status is not affected for loans that are in active forbearance or for loan 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+modifications that have not yet been approved, the recognition of charge-offs, delinquencies, and nonaccrual status could be delayed for those borrowers who would have otherwise moved into past due or nonaccrual status. Forbearance and modification requests have continued to decline and the majority of the borrowers that have exited forbearance but have not requested loan modifications, have become current on their principal and interest payments. 
+
+Loan underwriting policies 
+
+Our underwriting policies for the major types of bank loans are described in &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Credit risk&#8221; of our 2020 Form 10-K. There were no material changes in our bank loan underwriting policies during the nine months ended June 30, 2021. 
+
+Risk monitoring process 
+
+Another component of credit risk strategy for our bank loan portfolio is the ongoing risk monitoring and review processes for all residential, SBL, corporate and tax-exempt credit exposures, as well as our rigorous processes to manage and limit credit losses arising from loan delinquencies. There are various other factors included in these processes, depending on the loan portfolio. There were no material changes to those processes and policies during the nine months ended June 30, 2021. 
+
+Residential mortgage and SBL and other loan portfolios 
+
+The collateral securing our SBL and other portfolio is monitored on a recurring basis, with marketable collateral monitored on a daily basis. Collateral adjustments are made by the borrower as necessary to ensure our loans are adequately secured, resulting in minimizing its credit risk. Collateral calls have been minimal relative to our SBL and other portfolio with no losses incurred to date. 
+
+We track and review many factors to monitor credit risk in our residential mortgage loan portfolio. The factors include, but are not limited to: loan performance trends, loan product parameters and qualification requirements, borrower credit scores, level of documentation, loan purpose, geographic concentrations, average loan size, risk rating and LTV ratios. See Note 8 in the Notes to the Condensed Consolidated Financial Statements of this Form 10-Q for additional information. 
+
+The following table presents a summary of delinquent residential mortgage loans, the vast majority of which are first mortgage loans, which are comprised of loans which are two or more payments past due as well as loans in the process of foreclosure. Amounts in the following table do not include residential loans to borrowers who were granted forbearance as a result of the COVID-19 pandemic and whose loans were not considered delinquent prior to the forbearance. Such loans may be considered delinquent after the forbearance period or completion of loss mitigation efforts, depending on their payment status. As a result, the amount of residential loans considered delinquent may increase significantly in the future. 
+
+&#160; Amount of delinquent residential loans Delinquent residential loans as a percentage of outstanding loan balances $ in millions 30-89 days 90 days or more Total 30-89 days 90 days or more Total June 30, 2021 $ 5 &#160; $ 6 &#160; $ 11 &#160; 0.10 &#160; % 0.12 &#160; % 0.22 &#160; % September 30, 2020 $ 3 $ 7 $ 10 0.06 % 0.14 % 0.20 % 
+
+Our June 30, 2021 percentage continues to compare favorably to the national average for over 30 day delinquencies of 2.92%, as most recently reported by the Fed. 
+
+Credit risk is also managed by diversifying the residential mortgage portfolio. Most of the loans in our residential loan portfolio are to PCG clients across the country. The following table details the geographic concentrations (top five states) of our one-to-four family residential mortgage loans. 
+
+June 30, 2021 Loans outstanding as a % of total residential mortgage loans Loans outstanding as a % of total bank loans CA 25.3% 5.4% FL 17.5% 3.7% TX 8.9% 1.9% NY 7.5% 1.6% CO 4.1% 0.9% 
+
+Loans where borrowers may be subject to payment increases include ARM loans with terms that initially require payment of interest only. Payments may increase significantly when the interest-only period ends and the loan principal begins to 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+amortize. At June 30, 2021 and September 30, 2020, these loans totaled $1.92 billion and $1.67 billion, respectively, or approximately 37% and 34% of the residential mortgage portfolio, respectively. The weighted-average number of years before the remainder of the loans, which were still in their interest-only period at June 30, 2021, begins amortizing is 6 years. 
+
+Corporate and tax-exempt loans 
+
+Credit risk in our corporate and tax-exempt bank loan portfolios is monitored on an individual loan basis. The majority of our tax-exempt bank loan portfolio is comprised of loans to investment-grade borrowers. 
+
+Credit risk is managed by diversifying the corporate bank loan portfolio. Our corporate bank loan portfolio does not contain a significant concentration in any single industry. The following table details the industry concentrations (top five categories) of our corporate bank loans. 
+
+June 30, 2021 Loans outstanding as a % of total corporate bank loans Loans outstanding as a % of total bank loans Office real estate 7.7% 3.8% Business systems and services 6.9% 3.4% Automotive/transportation 6.3% 3.1% Multi-family 6.1% 3.0% Consumer products and services 5.8% 2.9% 
+
+The COVID-19 pandemic negatively impacted our corporate loan portfolio in fiscal 2020. Although we reduced our exposure and revised our credit limits related to sectors that we believe to be most vulnerable to the COVID-19 pandemic, such as the energy, airlines, entertainment and leisure, restaurant and gaming sectors, we may experience further losses on our remaining loans to borrowers in these sectors, particularly if economic conditions do not continue to improve in the future. In addition, we continue to monitor our exposure to office real estate, where trends have changed rapidly and possibly permanently as a result of the COVID-19 pandemic, and may experience additional losses on loans in this sector in the future. We may also experience further losses on corporate loans in other industries as a direct or indirect result of the pandemic, including on our CRE loans secured by retail and hospitality properties. 
+
+Although we saw deterioration in oil prices for much of fiscal year 2020 due to the pandemic, oil prices continued to improve during the first nine months of fiscal year 2021 and have now surpassed pre-pandemic levels as of the end of the fiscal third quarter of 2021. Our energy portfolio has minimal direct commodity price exposure since it consists of loans to midstream distribution companies and convenience stores, with no loans to exploration and production enterprises. However, in the event of significant deterioration in oil prices in the future, our borrowers, and our loans to such borrowers, could be negatively impacted. 
+
+Liquidity risk 
+
+See the section &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and capital resources&#8221; of this Form 10-Q for information regarding our liquidity and how we manage liquidity risk. 
+
+Operational risk 
+
+Operational risk generally refers to the risk of loss resulting from our operations, including, but not limited to, business disruptions, improper or unauthorized execution and processing of transactions, deficiencies in our technology or financial operating systems and inadequacies or breaches in our control processes, including cybersecurity incidents. See &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Operational risk&#8221; of our 2020 Form 10-K for a discussion of our operational risk and certain of our risk mitigation processes. 
+
+In response to the COVID-19 pandemic, we activated and successfully executed on our business continuity protocols and continue to monitor the COVID-19 pandemic under such protocols. We have endeavored to protect our associates and our clients and to ensure continuity of business operations for our clients. As a result, a substantial portion of our associates continue to work remotely. The firm continues to monitor conditions and has developed a phased approach to reopening our offices which complies with all applicable laws, regulations, and Centers for Disease Control guidelines. As of June 30, 2021, we had reopened most of our offices in a limited capacity and have been operating under strict public health and safety protocols in such locations. We continue to monitor reports from health officials and had hoped for a full return to office in September 2021, which would include more flexibility for our associates. However, the recent disruptions in the U.S. caused by the Delta variant may impact the timing of the implementation of these plans. 
+
+RAYMOND JAMES FINANCIAL, INC. AND SUBSIDIARIES 
+
+Management&#8217;s Discussion and Analysis 
+
+Periods of severe market volatility, such as those that arose most notably in fiscal 2020 in response to the onset of the COVID-19 pandemic, can result in a significantly higher level of transactions on specific days and other activity which may present operational challenges from time to time that may result in losses. These losses can result from, but are not limited to, trade errors, failed transaction settlements, late collateral calls to borrowers and counterparties, or interruptions to our system processing. We did not incur any significant losses related to such operational challenges during the nine months ended June 30, 2021. 
+
+Model risk 
+
+Model risk refers to the possibility of unintended business outcomes arising from the design, implementation or use of models. See &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Model risk&#8221; of our 2020 Form 10-K for information regarding how we utilize models throughout the firm and how we manage model risk. 
+
+Compliance risk 
+
+Compliance risk is the risk of legal or regulatory sanctions, financial loss, or reputational damage that the firm may suffer from a failure to comply with applicable laws, external standards, or internal requirements. See &#8220;Item 7 - Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Risk management - Compliance risk&#8221; of our 2020 Form 10-K for information on our compliance risks, including how we manage such risks. 
+

@@ -1,0 +1,380 @@
+ Item 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This discussion should be read in conjunction with the unaudited Consolidated Financial Statements of Columbia Banking System, Inc. (referred to in this report as &#8220;we&#8221;, &#8220;our&#8221;, &#8220;Columbia&#8221; and &#8220;the Company&#8221;) and notes thereto presented elsewhere in this report and with the December 31, 2021 audited Consolidated Financial Statements and its accompanying notes included in our Annual Report on Form 10-K. In the following discussion, unless otherwise noted, references to increases or decreases in average balances in items of income and expense for a particular period and balances at a particular date refer to the comparison with corresponding amounts for the period or date one year earlier. 
+
+Table of Contents 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This quarterly report on Form 10-Q may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include, but are not limited to, statements about our plans, objectives, expectations and intentions that are not historical facts, and statements identified by words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;should,&#8221; &#8220;projects,&#8221; &#8220;seeks,&#8221; &#8220;estimates&#8221; or the negative version of those words or other comparable words or phrases of a future or forward-looking nature, as well as the continuing effects of the COVID-19 pandemic on the Company&#8217;s business, operations, financial performance and prospects. Forward-looking statements are based on current beliefs and expectations of management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change. In addition to the factors set forth in the section titled &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in this report and the factors set forth in the section titled &#8220;Risk Factors&#8221; in the Company&#8217;s Annual Report on Form 10-K and Quarterly Reports on Form 10-Q, the following factors, among others, could cause actual results to differ materially from the anticipated results expressed or implied by forward-looking statements: 
+
+&#8226; national and global economic conditions could be less favorable than expected or could have a more direct and pronounced effect on us than expected and adversely affect our ability to continue internal growth and maintain the quality of our earning assets; 
+
+&#8226; the markets where we operate and make loans could face challenges; 
+
+&#8226; the risks presented by the economy, which could adversely affect credit quality, collateral values, including real estate collateral, investment values, liquidity and loan originations and loan portfolio delinquency rates; 
+
+&#8226; continued increases in inflation and the risk that inflation may differ, possibly materially, from expectations, and actions taken by the Federal Reserve in response to inflation and their potential impact on economic conditions including the possibility of a recession; 
+
+&#8226; risks related to the proposed merger with Umpqua including, among others, (i) failure to complete the merger with Umpqua or unexpected delays related to the merger or either party&#8217;s inability to obtain regulatory approvals or satisfy other closing conditions required to complete the merger, (ii) regulatory approvals resulting in the imposition of conditions that could adversely affect the combined company or the expected benefits of the transaction, (iii) certain restrictions during the pendency of the proposed transaction with Umpqua that may impact the parties&#8217; ability to pursue certain business opportunities or strategic transactions, (iv) diversion of management&#8217;s attention from ongoing business operations and opportunities, (v) cost savings and any revenue synergies from the merger may not be fully realized or may take longer than anticipated to be realized, (vi) the integration of each party&#8217;s management, personnel and operations will not be successfully achieved or may be materially delayed or will be more costly or difficult than expected, (vii) deposit attrition, customer or employee loss and/or revenue loss as a result of the announcement of the proposed merger, (viii) expenses related to the proposed merger being greater than expected, and (ix) shareholder litigation that may prevent or delay the closing of the proposed merger or otherwise negatively impact the Company&#8217;s business and operations; 
+
+&#8226; the efficiencies and enhanced financial and operating performance we expect to realize from investments in personnel, acquisitions and infrastructure may not be realized; 
+
+&#8226; the ability to successfully integrate future acquired entities; 
+
+&#8226; interest rate changes could significantly reduce net interest income and negatively affect asset yields and funding sources; 
+
+&#8226; the effect of the discontinuation or replacement of LIBOR; 
+
+&#8226; results of operations following strategic expansion, including the impact of acquired loans on our earnings, could differ from expectations; 
+
+&#8226; changes in the scope and cost of FDIC insurance and other coverages; 
+
+&#8226; changes in accounting policies or procedures as may be required by the FASB or other regulatory agencies could materially affect our financial statements and how we report those results, and expectations and preliminary analysis relating to how such changes will affect our financial results could prove incorrect; 
+
+&#8226; changes in laws and regulations affecting our businesses, including changes in the enforcement and interpretation of such laws and regulations by applicable governmental and regulatory agencies; 
+
+&#8226; increased competition among financial institutions and nontraditional providers of financial services; 
+
+&#8226; continued consolidation in the financial services industry resulting in the creation of larger financial institutions that have greater resources could change the competitive landscape; 
+
+&#8226; the goodwill we have recorded in connection with acquisitions could become impaired, which may have an adverse impact on our earnings and capital; 
+
+&#8226; our ability to identify and address cyber-security risks, including security breaches, &#8220;denial of service attacks,&#8221; &#8220;hacking&#8221; and identity theft; 
+
+Table of Contents 
+
+&#8226; any material failure or interruption of our information and communications systems; 
+
+&#8226; inability to keep pace with technological changes; 
+
+&#8226; our ability to effectively manage credit risk, interest rate risk, market risk, operational risk, legal risk, liquidity risk and regulatory and compliance risk; 
+
+&#8226; failure to maintain effective internal control over financial reporting or disclosure controls and procedures; 
+
+&#8226; the effect of geopolitical instability, including wars, conflicts and terrorist attacks, including the impacts of Russia&#8217;s invasion of Ukraine; 
+
+&#8226; our profitability measures could be adversely affected if we are unable to effectively manage our capital; 
+
+&#8226; the risks from climate change and its potential to disrupt our business and adversely impact the operations and creditworthiness of our customers; 
+
+&#8226; natural disasters, including earthquakes, tsunamis, flooding, fires and other unexpected events; 
+
+&#8226; the effect of COVID-19 and other infectious illness outbreaks that may arise in the future, which has created significant impacts and uncertainties in U.S. and global markets; 
+
+&#8226; changes in governmental policy and regulation, including measures taken in response to economic, business, political and social conditions, including with regard to COVID-19; and 
+
+&#8226; the effects of any damage to our reputation resulting from developments related to any of the items identified above. 
+
+You should take into account that forward-looking statements speak only as of the date of this report. Given the described uncertainties and risks, we cannot guarantee our future performance or results of operations and you should not place undue reliance on forward-looking statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required under federal securities laws. 
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+
+Management has identified the accounting policies related to the ACL, business combinations and the valuation and recoverability of goodwill as critical to an understanding of our financial statements. These policies and related estimates are discussed in &#8220;Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; under the headings &#8220;Allowance for Credit Losses,&#8221; &#8220;Business Combinations&#8221; and &#8220;Valuation and Recoverability of Goodwill&#8221; in our 2021 Annual Report on Form 10-K. There have not been any material changes in our critical accounting policies and estimates as compared to those disclosed in our 2021 Annual Report on Form 10-K. 
+
+RESULTS OF OPERATIONS 
+
+Our results of operations are dependent to a large degree on our net interest income. We also generate noninterest income from our broad range of products and services including treasury management, wealth management and debit and credit cards. Our operating expenses consist primarily of compensation and employee benefits, occupancy, data processing and software and legal and professional fees. Like most financial institutions, our interest income and cost of funds are affected significantly by general economic conditions, particularly changes in market interest rates, and by government policies and actions of regulatory authorities. 
+
+In November 2020, the SEC amended the rules governing Management&#8217;s Discussion and Analysis, Selected Financial Data and Supplementary Financial Information, to modernize and simplify certain disclosure requirements. One update allows registrants to compare the results of the most recently completed quarter to the results of either the immediately preceding quarter or the corresponding quarter of the preceding year. We have adopted this change, as management believes that comparing current quarter results to those of the immediately preceding quarter is more useful in identifying current business trends and provides a more meaningful comparison. Accordingly, we have compared the results for the three months ended June 30, 2022 and March 31, 2022, where applicable throughout this Management&#8217;s Discussion and Analysis. 
+
+Earnings Summary 
+
+Comparison of current quarter to prior quarter 
+
+The Company reported net income for the second quarter of $58.8 million or $0.75 per diluted common share, compared to $57.5 million or $0.74 per diluted common share for the first quarter of 2022. Net interest income for the three months ended June 30, 2022 was $147.5 million, an increase of $1.3 million from the prior quarter. The increase was primarily a result of higher loan interest income due to higher average balances partially offset by lower interest income from securities substantially driven by lower average balances. 
+
+Table of Contents 
+
+The Company recorded a $2.1 million provision for credit losses for the second quarter of 2022 compared to a recapture of $7.8 million for the first quarter of 2022. The increase in provision expense for the second quarter of 2022 as compared to the first quarter of 2022 was primarily related to loan growth partially offset by improved credit quality over the quarter. The prior quarter&#8217;s recapture was primarily related to improved credit quality. 
+
+Noninterest income for the quarter was $25.0 million, an increase of $826 thousand from the prior quarter. The increase was largely due to higher deposit account and treasury management fees and loan revenue partially offset by lower financial services and trust revenue and other noninterest income. 
+
+Total noninterest expense for the quarter ended June 30, 2022 was $95.4 million, a decrease of $9.7 million from the prior quarter. Merger-related expenses in the quarter were $3.9 million compared to $7.1 million for the prior quarter. Taking this into consideration, the largest contributor to the decrease in noninterest expense for the quarter is related to compensation and employee benefits attributed to lower 401(k) and payroll tax expenses, which are typically elevated in the first quarter. In addition, there were increased capitalized loan labor costs related to the high amounts of loan production during the quarter. The decrease was also attributable to lower occupancy, data processing and software expenses along with other noninterest expense. 
+
+Comparison of current year-to-date to prior year period 
+
+The Company reported net income for the six months ended June 30, 2022 of $116.3 million or $1.49 per diluted common share, compared to $106.9 million or $1.50 per diluted common share for the same period in 2021. Net interest income for the six months ended June 30, 2022 was $293.7 million, an increase of $44.2 million from the prior year period. The increase was primarily due to increases in interest income from loans and securities, which were a result of higher average balances partially related to the Bank of Commerce acquisition. 
+
+The provision for credit losses on loans for the six months ended June 30, 2022 was a recapture of $5.7 million compared to a recapture of $6.3 million for the first six months of 2021. The lower recapture for the first six months of 2022 compared to the same period in 2021 was primarily due to loan growth. 
+
+Noninterest income for the six months ended June 30, 2022 was $49.2 million, an increase of $3.3 million from the prior year period. The increase was primarily due to higher other noninterest income, deposit account and treasury management fees, card revenue and financial services and trust revenue offset by lower mortgage banking revenue due to lower overall mortgage production as a result of the higher rate environment. 
+
+For the six months ended June 30, 2022, noninterest expense was $200.4 million, an increase of $32.8 million from $167.7 million for the same period in 2021. The increase from the prior year period was primarily driven by higher compensation and employee benefits due to our acquisition of Bank of Commerce and the prior year period having substantial capitalized labor costs for PPP loan originations. Increased merger-related expenses related to legal and professional fees, data processing and software and other noninterest expense also contributed to the increase from the prior year period. 
+
+Table of Contents 
+
+Net Interest Income 
+
+The following table sets forth the average balances of all major categories of interest-earning assets and interest-bearing liabilities, the total dollar amounts of interest income on interest-earning assets and interest expense on interest-bearing liabilities, the average yield earned on interest-earning assets and average cost of interest-bearing liabilities by category and, in total, net interest income and net interest margin: 
+
+Three Months Ended June 30, 2022 March 31, 2022 Average Balances Interest Earned / Paid Average Rate Average Balances Interest Earned / Paid Average Rate (dollars in thousands) ASSETS Loans, net (1)(2) $ 10,989,493 $ 112,142 4.09 % $ 10,665,242 $ 108,181 4.11 % Taxable securities 6,761,383 34,622 2.05 % $ 7,217,844 $ 37,162 2.09 % Tax exempt securities (2) 729,916 4,753 2.61 % $ 792,763 $ 4,715 2.41 % Interest-earning deposits with banks 494,725 887 0.72 % $ 590,795 $ 295 0.20 % Total interest-earning assets 18,975,517 152,404 3.22 % $ 19,266,644 $ 150,353 3.16 % Other earning assets 305,775 $ 302,865 Noninterest-earning assets 1,488,910 $ 1,386,157 Total assets $ 20,770,202 $ 20,955,666 LIABILITIES AND SHAREHOLDERS&#8217; EQUITY Money market accounts 4,406,022 1,000 0.09 % 4,530,698 960 0.09 % Interest-bearing demand 2,123,005 411 0.08 % 2,024,757 374 0.07 % Savings accounts 1,638,334 78 0.02 % 1,632,369 77 0.02 % Interest-bearing public funds, other than certificates of deposit 756,528 923 0.49 % 776,965 288 0.15 % Certificates of deposit 411,115 52 0.05 % 437,251 97 0.09 % Total interest-bearing deposits 9,335,004 2,464 0.11 % 9,402,040 1,796 0.08 % FHLB advances and FRB borrowings 7,340 73 3.99 % 7,354 71 3.92 % Subordinated debentures 10,000 172 6.90 % 10,000 144 5.84 % Other borrowings and interest-bearing liabilities 62,017 153 0.99 % 76,185 74 0.39 % Total interest-bearing liabilities 9,414,361 2,862 0.12 % 9,495,579 2,085 0.09 % Noninterest-bearing deposits 8,822,071 8,695,832 Other noninterest-bearing liabilities 235,159 228,879 Shareholders&#8217; equity 2,298,611 2,535,376 Total liabilities &#38; shareholders&#8217; equity $ 20,770,202 $ 20,955,666 Net interest income (tax equivalent) $ 149,542 $ 148,268 Net interest margin (tax equivalent) 3.16 % 3.12 % 
+
+__________ 
+
+(1) Nonaccrual loans have been included in the tables as loans carrying a zero yield. Amortized net deferred loan fees and net unearned discounts on acquired loans were included in the interest income calculations. The amortization of net deferred loan fees was $2.8 million and $4.2 million for the three months ended June 30, 2022 and March 31, 2022, respectively. The net incremental amortization on acquired loans was $2.1 million for the three months ended June 30, 2022 compared to net incremental amortization of $350 thousand for the three months ended March 31, 2022. 
+
+(2) Tax-exempt income is calculated on a tax equivalent basis. The tax equivalent yield adjustment to interest earned on loans was $1.1 million for both the three months ended June 30, 2022 and March 31, 2022. The tax equivalent yield adjustment to interest earned on tax exempt securities was $998 thousand and $990 thousand for the three months ended June 30, 2022, and March 31, 2022, respectively. 
+
+Table of Contents 
+
+The following table sets forth the average balances of all major categories of interest-earning assets and interest-bearing liabilities, the total dollar amounts of interest income on interest-earning assets and interest expense on interest-bearing liabilities, the average yield earned on interest-earning assets and average cost of interest-bearing liabilities by category and, in total, net interest income and net interest margin: 
+
+&#160; Six Months Ended June 30, Six Months Ended June 30, &#160; 2022 2021 Average Balances Interest Earned / Paid Average Rate Average Balances Interest Earned / Paid Average Rate (dollars in thousands) ASSETS Loans, net (1)(2) $ 10,828,263 $ 220,323 4.10 % $ 9,625,790 $ 202,385 4.24 % Taxable securities 6,988,353 71,784 2.07 % 4,959,620 47,566 1.93 % Tax exempt securities (2) 761,166 9,468 2.51 % 614,841 7,069 2.32 % Interest-earning deposits with banks 542,494 1,182 0.44 % 599,689 311 0.10 % Total interest-earning assets 19,120,276 $ 302,757 3.19 % 15,799,940 $ 257,331 3.28 % Other earning assets 304,328 243,437 Noninterest-earning assets 1,437,817 1,239,855 Total assets $ 20,862,421 $ 17,283,232 LIABILITIES AND SHAREHOLDERS&#8217; EQUITY Money market accounts 4,468,015 1,960 0.09 % 3,542,068 1,391 0.08 % Interest-bearing demand 2,074,152 785 0.08 % 1,498,211 551 0.07 % Savings accounts 1,635,368 155 0.02 % 1,270,403 85 0.01 % Interest-bearing public funds, other than certificates of deposit 766,690 1,211 0.32 % 683,172 521 0.15 % Certificates of deposit 424,111 149 0.07 % 333,111 363 0.22 % Total interest-bearing deposits 9,368,336 4,260 0.09 % 7,326,965 2,911 0.08 % FHLB advances and FRB borrowings 7,347 144 3.95 % 7,401 144 3.92 % Subordinated debentures 10,000 316 6.37 % 35,051 936 5.39 % Other borrowings and interest-bearing liabilities 
+
+69,062 227 0.66 % 49,740 42 0.17 % Total interest-bearing liabilities 9,454,745 $ 4,947 0.11 % 7,419,157 $ 4,033 0.11 % Noninterest-bearing deposits 8,759,301 7,311,385 Other noninterest-bearing liabilities 232,036 223,097 Shareholders&#8217; equity 2,416,339 2,329,593 Total liabilities &#38; shareholders&#8217; equity $ 20,862,421 $ 17,283,232 Net interest income (tax equivalent) $ 297,810 $ 253,298 Net interest margin (tax equivalent) 3.14 % 3.23 % 
+
+__________ 
+
+(1) Nonaccrual loans have been included in the table as loans carrying a zero yield. Amortized net deferred loan fees and net unearned discounts on acquired loans were included in the interest income calculations. The amortization of net deferred loan fees was $7.0 million and $14.7 million for the six months ended June 30, 2022 and 2021, respectively. The incremental amortization on acquired loans was $2.4 million for the six months ended June 30, 2022 compared to net incremental accretion of $1.9 million for the six months ended June 30, 2021. 
+
+(2) Tax-exempt income is calculated on a tax equivalent basis. The tax equivalent yield adjustment to interest earned on loans was $2.2 million and $2.4 million for the six months ended June 30, 2022 and 2021, respectively. The tax equivalent yield adjustment to interest earned on tax exempt securities was $2.0 million and $1.5 million for the six months ended June 30, 2022 and 2021, respectively. 
+
+Table of Contents 
+
+The following table sets forth the total dollar amount of change in interest income and interest expense. The changes have been segregated for each major category of interest-earning assets and interest-bearing liabilities into amounts attributable to changes in volume and changes in rates. Changes attributable to the combined effect of volume and interest rates have been allocated proportionately to the changes due to volume and the changes due to interest rates: 
+
+Three Months Ended June 30, 2022 Compared to March 31, 2022 Increase (Decrease) Due to Volume Rate Total (1) (in thousands) Interest Income Loans, net $ 3,306 $ 655 $ 3,961 Taxable securities (2,339) (201) (2,540) Tax exempt securities (390) 428 38 Interest-earning deposits with banks (55) 647 592 Interest income $ 522 $ 1,529 $ 2,051 Interest Expense Deposits: Money market accounts $ (26) $ 66 $ 40 Interest-bearing demand 19 18 37 Savings accounts &#8212; 1 1 Interest-bearing public funds, other than certificates of deposit (8) 643 635 Certificates of deposit (6) (39) (45) Total interest on deposits (21) 689 668 FHLB advances and FRB borrowings &#8212; 2 2 Subordinated debentures &#8212; 28 28 Other borrowings and interest-bearing liabilities (11) 90 79 Interest expense $ (32) $ 809 $ 777 
+
+__________ 
+
+(1) The change in interest not due solely to volume or rate has been allocated in proportion to the absolute dollar amount of the change in each. 
+
+Table of Contents 
+
+The following table sets forth the total dollar amount of change in interest income and interest expense. The changes have been segregated for each major category of interest-earning assets and interest-bearing liabilities into amounts attributable to changes in volume and changes in rates. Changes attributable to the combined effect of volume and interest rates have been allocated proportionately to the changes due to volume and the changes due to interest rates: 
+
+Six Months Ended June 30, 2022 Compared to 2021 Increase (Decrease) Due to &#160; Volume Rate Total (1) (in thousands) Interest Income Loans, net $ 24,634 $ (6,696) $ 17,938 Taxable securities 20,635 3,583 24,218 Tax exempt securities 1,785 614 2,399 Interest earning deposits with banks (33) 904 871 Interest income $ 47,021 $ (1,595) $ 45,426 Interest Expense Deposits: Money market accounts 393 176 569 Interest-bearing demand 218 16 234 Savings accounts 29 41 70 Interest-bearing public funds, other than certificates of deposit 71 619 690 Certificates of deposit 80 (294) (214) Total interest on deposits 791 558 1,349 FHLB advances and FRB borrowings (1) 1 &#8212; Subordinated debentures (833) 213 (620) Other borrowings 22 163 185 Interest expense $ (21) $ 935 $ 914 
+
+__________ 
+
+(1) The change in interest not due solely to volume or rate has been allocated in proportion to the absolute dollar amount of the change in each. 
+
+Comparison of current quarter to prior quarter 
+
+Net interest income for the second quarter of 2022 was $147.5 million, up from $146.2 million for the first quarter in 2022. The increase was primarily due to higher loan interest income as a result of higher average balances partially offset by lower interest income from securities substantially driven by lower average balances. 
+
+The Company&#8217;s net interest margin (tax equivalent) increased to 3.16% in the second quarter of 2022, from 3.12% for the prior quarter. This increase was driven by a stronger earning assets mix with a smaller ratio of assets in lower-yield interest earning deposits with banks and a larger ratio of assets in higher-yield loans. The Company&#8217;s operating net interest margin (tax equivalent) 1 increased to 3.23% from 3.15% compared to the first quarter of 2022. The increase was also due to a stronger earnings mix as noted above. 
+
+Comparison of current year-to-date to prior year period 
+
+Net interest income for the six months ended June 30, 2022 was $293.7 million, compared to $249.5 million for the prior year period. The increase was mainly due to an increase in interest income from loans and securities due to higher average balances partially related to the Bank of Commerce acquisition. 
+
+The Company&#8217;s net interest margin (tax equivalent) decreased to 3.14% for the first six months of 2022, from 3.23% for the prior year period. The decrease in the Company&#8217;s net interest margin (tax equivalent) was driven by lower average rates on loans. The Company&#8217;s operating net interest margin (tax equivalent) for the six months ended June 30, 2022 was 3.19% compared to 3.22% for the six months ended June 30, 2021. This decrease was also due to lower average rates on loans. 
+
+1 Operating net interest margin (tax equivalent) is a non-GAAP financial measure. See the &#8220;Non-GAAP financial measures&#8221; section in this Management&#8217;s Discussion and Analysis. 
+
+Table of Contents 
+
+The favorable effect of recent interest rate increases was tempered in our loan portfolio due to many floating rate loans not yet moving off their floor rates and due to the timing of recent market rate increases being later in the six month period ended June 30, 2022. 
+
+Provision for Credit Losses 
+
+Comparison of current quarter to prior quarter 
+
+During the second quarter of 2022, the Company recorded a $2.1 million provision for credit losses compared to a recapture of $7.8 million for the first quarter of 2022. The increase in provision expense for the second quarter of 2022 as compared to the first quarter of 2022 was primarily related to loan growth partially offset by improved credit quality over the quarter. 
+
+The provision recapture for credit losses recorded during the current quarter also reflected management&#8217;s ongoing assessment of the credit quality of the Company&#8217;s loan portfolio. Other factors affecting the provision include net charge-offs, credit quality migration and the size and composition of the loan portfolio and changes in the economic environment during the second quarter of 2022. The amount of provision was calculated in accordance with the Company&#8217;s methodology for determining the ACL, discussed in Note 6 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Comparison of current year-to-date to prior year period 
+
+The recapture for credit losses for the six months ended June 30, 2022 was $5.7 million compared to a recapture of $6.3 million during the same period in 2021. The lower recapture for the first six months of 2022 was due to the same factors discussed above for the quarterly provision for credit losses. The amount of provision was calculated in accordance with the Company&#8217;s methodology for determining the ACL, discussed in Note 6 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Noninterest Income 
+
+The following table presents the significant components of noninterest income and the related dollar and percentage change from period to period: 
+
+Three Months Ended Six Months Ended June 30, 2022 March 31, 2022 $ Change % Change June 30, 2022 June 30, 2021 $ Change % Change (dollars in thousands) Deposit account and treasury management fees $ 8,212 $ 7,113 $ 1,099 15 % $ 15,325 $ 13,059 $ 2,266 17 % Card revenue 5,031 4,967 64 1 % 9,998 8,506 1,492 18 % Financial services and trust revenue 4,192 4,632 (440) (9) % 8,824 7,626 1,198 16 % Loan revenue 3,881 3,193 688 22 % 7,074 11,883 (4,809) (40) % Bank owned life insurance 2,024 1,788 236 13 % 3,812 3,195 617 19 % Investment securities gains, net &#8212; &#8212; &#8212; &#8212; % &#8212; 314 (314) (100) % Other 1,666 2,487 (821) (33) % 4,153 1,313 2,840 216 % Total noninterest income $ 25,006 $ 24,180 $ 826 3 % $ 49,186 $ 45,896 $ 3,290 7 % 
+
+Comparison of current quarter to prior quarter 
+
+Noninterest income was $25.0 million for the second quarter of 2022, an increase of $826 thousand from the prior quarter. This increase was primarily due to higher deposit account and treasury management fees and loan revenue partially offset by lower financial services and trust revenue and other noninterest income. 
+
+Table of Contents 
+
+Comparison of current year-to-date to prior year period 
+
+For the six months ended June 30, 2022, noninterest income was $49.2 million compared to $45.9 million for the same period in 2021, an increase of $3.3 million. The increase was principally due to increases associated with other noninterest income, deposit account and treasury management fees, card revenue along with financial services and trust revenue offset by lower mortgage banking revenue due to lower overall mortgage production and decreased premium on loan sales as a result of the higher rate environment. 
+
+Noninterest Expense 
+
+The following table presents the significant components of noninterest expense and the related dollar and percentage change from period to period: 
+
+Three Months Ended Six Months Ended June 30, 2022 March 31, 2022 $ Change % Change (1) June 30, 2022 June 30, 2021 $ Change % Change (dollars in thousands) Compensation and employee benefits $ 57,386 $ 63,079 $ (5,693) (9) % $ 120,465 $ 105,186 $ 15,279 15 % Occupancy 9,632 11,009 (1,377) (13) % 20,641 18,044 2,597 14 % Data processing and software 9,185 10,324 (1,139) (11) % 19,509 15,853 3,656 23 % Legal and professional fees 5,182 6,535 (1,353) (21) % 11,717 6,079 5,638 93 % Amortization of intangibles 2,219 2,288 (69) (3) % 4,507 3,776 731 19 % B&#38;O taxes 1,584 1,589 (5) &#8212; % 3,173 2,749 424 15 % Advertising and promotion 1,208 726 482 66 % 1,934 1,348 586 43 % Regulatory premiums 1,461 1,536 (75) (5) % 2,997 2,217 780 35 % Net cost of operation of OREO 
+
+116 10 106 N/M 126 48 78 163 % Other 7,406 7,957 (551) (7) % 15,363 12,375 2,988 24 % Total noninterest expense $ 95,379 $ 105,053 $ (9,674) (9) % $ 200,432 $ 167,675 $ 32,757 20 % ____________ 
+
+(1) Percentage changes greater than +/- 1000% are considered not meaningful and are presented as &#8220;N/M.&#8221; 
+
+The following table shows the impact of the merger-related expenses for the periods indicated to the various components of noninterest expense: 
+
+Three Months Ended Six Months Ended June 30, 2022 March 31, 2022 June 30, 2022 June 30, 2021 (in thousands) Merger-related expenses: Compensation and employee benefits $ 612 $ 586 $ 1,198 $ &#8212; Occupancy 112 819 931 &#8212; Data processing and software 501 1,039 $ 1,540 &#8212; Legal and professional fees 1,906 4,209 6,115 510 Advertising and promotion 10 134 144 &#8212; Other 760 270 1,030 &#8212; Total impact of merger-related expense to noninterest expense $ 3,901 $ 7,057 $ 10,958 $ 510 Merger-related expenses by transaction: Bank of Commerce (1) 1,749 2,587 4,337 510 Umpqua (2) 2,152 4,470 6,621 &#8212; Total impact of merger-related expense to noninterest expense $ 3,901 $ 7,057 $ 10,958 $ 510 
+
+__________ 
+
+(1) The Company completed the acquisition of Bank of Commerce on October 1, 2021. See Note 3 of the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report for further information regarding this transaction. 
+
+(2) Definitive merger agreement was executed; however, completion of this transaction is pending as of the date of this filing. 
+
+Table of Contents 
+
+Comparison of current quarter to prior quarter 
+
+Noninterest expense was $95.4 million for the second quarter of 2022, a decrease of $9.7 million from $105.1 million for the prior quarter. Merger-related expenses during the quarter were $3.9 million compared to $7.1 million for the prior quarter. Taking this into consideration, the largest contributor to the decrease in noninterest expense was related to compensation and employee benefits attributed to lower 401(k) and payroll tax expenses, which are typically elevated in the first quarter. In addition, there were increased capitalized loan labor costs related to the high amounts of loan production for the quarter. The decrease was also attributable to lower occupancy, data processing and software expense and other noninterest expense. 
+
+Comparison of current year-to-date to prior year period 
+
+For the six months ended June 30, 2022, noninterest expense was $200.4 million, compared to $167.7 million for the same period in 2021, an increase of $32.8 million. The increase from the prior year period was mostly attributable to increases in compensation and employee benefits expense due to our acquisition of Bank of Commerce and the prior year period having substantial capitalized labor costs for PPP loan originations. Increased merger-related expenses also contributed to the increase. 
+
+The provision for unfunded loan commitments for the periods indicated are as follows: 
+
+Three Months Ended Six Months Ended June 30, 2022 March 31, 2022 June 30, 2022 June 30, 2021 (in thousands) Provision for unfunded loan commitments $ &#8212; $ 500 $ 500 $ 1,700 
+
+Income Taxes 
+
+We recorded an income tax provision of $16.2 million for the second quarter of 2022, compared to a provision of $15.6 million for the three months ended March 31, 2022, with effective tax rates of 22% and 21%, respectively. For the six months ended June 30, 2022 and 2021, we recorded income tax provisions of $31.8 million and $27.1 million, respectively, with effective tax rates of 21% for the current year and 20% for the prior year period. For additional information, please refer to the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2021. 
+
+FINANCIAL CONDITION 
+
+Total assets were $20.56 billion at June 30, 2022, a decrease of $380.9 million from December 31, 2021. Cash and cash equivalents decreased $410.5 million. Loans increased $680.5 million during the first six months of 2022, which was primarily the result of new loan production partially offset by loan payments. Debt securities available for sale were $5.12 billion at June 30, 2022, a decrease of $788.4 million from December 31, 2021 which was primarily due to fair value movement. Total liabilities were $18.32 billion as of June 30, 2022, a decrease of $35.4 million from December 31, 2021 primarily due to a decrease in noninterest-bearing deposits. 
+
+Investment Securities 
+
+At June 30, 2022, the Company&#8217;s investment portfolio primarily consisted of debt securities available for sale totaling $5.12 billion compared to $5.91 billion at December 31, 2021 and debt securities held to maturity of $2.15 billion at both June 30, 2022 and December 31, 2021. The decrease in the debt securities available for sale from year-end is due to a $537.9 million decline in unrealized gains, $419.0 million in maturities and repayments, and $15.4 million in premium amortization, partially offset by $183.8 million in purchases. The increase in debt securities held to maturity from year-end is due to purchases of $97.7 million, partially offset by $86.3 million in maturities and repayments and $10.4 million in premium amortization. The average duration of our debt securities available for sale was approximately 5 years and 3 months at June 30, 2022. The average duration of our debt securities held to maturity was approximately 5 years and 10 months at June 30, 2022. These durations take into account calls, where appropriate, and consensus prepayment speeds. 
+
+The investment securities are used by the Company as a component of its balance sheet management strategies. From time-to-time, securities may be sold to reposition the portfolio in response to strategies developed by the Company&#8217;s asset liability management committee. In accordance with our investment strategy, management monitors market conditions with a view to realize gains on its available for sale securities portfolio when prudent. 
+
+The Company performs a quarterly assessment to determine whether a decline in fair value below amortized cost exists. Amortized cost includes adjustments made to the cost of an investment for accretion, amortization, collection of cash and previous credit losses recognized in earnings. 
+
+Table of Contents 
+
+When the fair value of an available for sale debt security falls below the amortized cost basis, it is evaluated to determine if any of the decline in value is attributable to credit loss. Decreases in fair value attributable to credit loss would be recorded directly to earnings with a corresponding allowance for credit losses, limited by the amount that the fair value is less than the amortized cost basis. If the credit quality subsequently improves, the allowance would be reversed up to a maximum of the previously recorded credit losses. If the Company intends to sell an impaired available for sale debt security, or if it is more likely than not that the Company will be required to sell the security prior to recovering the amortized cost basis, the entire fair value adjustment would be immediately recognized in earnings with no corresponding allowance for credit losses. 
+
+At June 30, 2022, the market value of debt securities available for sale had a net unrealized loss of $525.0 million compared to a net unrealized gain of $13.0 million at December 31, 2021. The change in valuation was the result of fluctuations in market interest rates during the six months ended June 30, 2022. At June 30, 2022, the Company had $4.85 billion of debt securities available for sale with gross unrealized losses of $526.7 million; however, we did not consider these investment securities to have an indicated credit loss. 
+
+All of the Company&#8217;s debt securities held to maturity were issued by U.S. government agencies or U.S. government-sponsored enterprises. These securities carry the explicit or implicit guarantee of the U.S. government, are widely recognized as &#8220;risk free,&#8221; and have a long history of zero credit loss. Therefore, the Company did not record an allowance for credit losses for these securities as of June 30, 2022. 
+
+The following table sets forth our securities portfolio by type for the dates indicated: 
+
+June 30, 2022 December 31, 2021 (in thousands) Debt securities available for sale: U.S. government agency and government-sponsored enterprise mortgage-backed securities and collateralized mortgage obligations $ 3,138,764 $ 3,745,601 Other asset-backed securities 379,968 463,063 State and municipal securities 878,328 997,291 U.S. government agency and government-sponsored enterprise securities 229,428 252,576 U.S. government securities 171,319 157,536 Non-agency collateralized mortgage securities 324,761 294,932 Total debt securities available for sale, at fair value $ 5,122,568 $ 5,910,999 Debt securities held to maturity: U.S. government agency and government-sponsored enterprise mortgage-backed securities and collateralized mortgage obligations $ 2,149,255 $ 2,148,327 Total debt securities held to maturity, at amortized cost $ 2,149,255 $ 2,148,327 Equity securities 13,425 13,425 Total investment securities $ 7,285,248 $ 8,072,751 
+
+For further information on our investment portfolio and equity securities transactions, see Note 4 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Credit Risk Management 
+
+The extension of credit in the form of loans or other credit substitutes to individuals and businesses is one of our principal business activities. Our policies and applicable laws and regulations require risk analysis as well as ongoing portfolio and credit management. We manage our credit risk through lending limit constraints, credit review, approval policies and extensive, ongoing internal monitoring. We also manage credit risk through diversification of the loan portfolio by type of loan, type of industry and type of borrower and by limiting the aggregation of debt to a single borrower. 
+
+In analyzing our existing portfolio, we review our consumer and residential loan portfolios by their performance as a pool of loans, since no single loan is individually significant or judged by its risk rating, size or potential risk of loss. In contrast, the monitoring process for the commercial business, real estate construction and commercial real estate portfolios includes periodic reviews of individual loans with risk ratings assigned to each loan and performance judged on a loan-by-loan basis. 
+
+We review these loans to assess the ability of our borrowers to service all interest and principal obligations and, as a result, the risk rating may be adjusted accordingly. In the event that full collection of principal and interest is not reasonably 
+
+Table of Contents 
+
+assured, the loan is appropriately downgraded and, if warranted, placed on nonaccrual status even though the loan may be current as to principal and interest payments. Additionally, we assess whether an individually measured allowance is required for collateral dependent nonaccrual loans with balances equal to or greater than $500,000 and with respect to which foreclosure is probable. For the individually measured collateral dependent nonaccrual loan, the allowance for credit losses is equal to the difference between amortized cost of the loan and the determined value of the collateral. However, if the determined value of the collateral is greater than the amortized cost of the loan, no allowance for credit losses will be added for these loans. 
+
+For additional discussion on our methodology in managing credit risk within our loan portfolio, see the &#8220;Allowance for Credit Losses&#8221; section in this Management&#8217;s Discussion and Analysis and Note 1 to the Consolidated Financial Statements in &#8220;Item 8. Financial Statements and Supplementary Data&#8221; of the Company&#8217;s 2021 Annual Report on Form 10-K. 
+
+Loan policies, credit quality criteria, portfolio guidelines and other controls are established under the guidance of our Chief Credit Officer and approved, as appropriate, by the Board of Directors. Credit Administration, together with the management loan committee, has the responsibility for administering the credit approval process. As another part of its control process, we use an internal credit review and examination function to provide reasonable assurance that loans and commitments are made and maintained as prescribed by our credit policies. Examinations are performed to ensure continued performance and proper risk assessment. 
+
+Loan Portfolio Analysis 
+
+Our wholly owned banking subsidiary Columbia State Bank is a full service commercial bank which, originates a wide variety of loans and focuses its lending efforts on originating commercial real estate and commercial business loans. 
+
+The following table provides additional detail related to the net premium (discount) of acquired and purchased loans by acquisition: 
+
+June 30, 2022 December 31, 2021 (in thousands) Acquisition: Bank of Commerce $ 8,850 $ 12,923 Pacific Continental (4,369) (5,306) All other purchased and acquired net premium 4,585 5,031 Total net premium at period end $ 9,066 $ 12,648 
+
+Commercial Real Estate Loans: Commercial real estate loans are secured by properties located within our primary market areas and typically, have loan-to-value ratios of 80% or lower at origination. Our underwriting standards for commercial and multifamily residential loans generally require that the loan-to-value ratio for these loans not exceed 75% of appraised value, cost, or discounted cash flow value, as appropriate, and that commercial properties maintain debt coverage ratios (net operating income divided by annual debt servicing) of 1.2 or better. However, underwriting standards can be influenced by competition and other factors. We endeavor to maintain the highest practical underwriting standards while balancing the need to remain competitive in our lending practices. 
+
+Commercial Business Loans: Our commercial business lending is directed toward meeting the credit and related deposit and treasury management needs of small to medium sized businesses. Commercial and industrial loans are primarily underwritten based on the identified cash flows of the borrower&#8217;s operations and secondarily on the underlying collateral provided by the borrower and/or the strength of the guarantor. The majority of these loan provide financing for working capital and capital expenditures. Loan terms, including, loan maturity, fixed or adjustable interest rate and collateral considerations, are based on factors such as the loan purpose, collateral type and industry and are underwritten on an individual loan basis. 
+
+Agriculture Loans: Agricultural lending includes agricultural real estate and production loans and lines of credit within our primary market areas. We are committed to offering seasonal and longer-term loans and operating lines of credit by lending officers with expertise in the agricultural communities we serve. Typical loan-to-value ratios on term loans can range from 55% to 80% depending upon the type of loan. Operating lines of credit require the borrower to provide a 20% to 25% equity investment. The debt coverage ratio is generally 1.25 or better on all term loans. 
+
+Construction Loans: We originate a variety of real estate construction loans. Underwriting guidelines for these loans vary by loan type but include loan-to-value limits, term limits and loan advance limits, as applicable. Our underwriting guidelines for commercial and multifamily residential real estate construction loans generally require that the loan-to-value ratio not exceed 
+
+Table of Contents 
+
+75% and stabilized debt coverage ratios (net operating income divided by annual debt service) of 1.2 or better. As noted above, underwriting standards can be influenced by competition and other factors. However, we endeavor to maintain the highest practical underwriting standards while balancing the need to remain competitive in our lending practices. 
+
+One-to-four Family Residential Real Estate Loans: One-to-four family residential loans, including home equity loans and lines of credit, are secured by properties located within our primary market areas and, typically, have loan-to-value ratios of 80% or lower at origination. 
+
+Other Consumer Loans: Consumer loans include automobile loans, boat and recreational vehicle financing and other miscellaneous personal loans. 
+
+Foreign Loans: The Company has no material foreign activities. Substantially all of the Company&#8217;s loans and unfunded commitments are geographically concentrated in its service areas within the states of Washington, Oregon, Idaho and California. 
+
+For additional information on our loan portfolio, including amounts pledged as collateral on borrowings, see Note 5 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Allowance for Credit Losses 
+
+The ACL is an accounting estimate of expected credit losses in our loan portfolio at the balance sheet date. The provision for credit losses is the expense recognized in the Consolidated Statements of Income to adjust the ACL to the levels deemed appropriate by management, as measured by the Company&#8217;s credit loss estimation methodologies. The allowance for unfunded commitments and letters of credit is maintained at a level believed by management to be sufficient to absorb estimated expected losses related to these unfunded credit facilities at the balance sheet date. 
+
+At June 30, 2022, our ACL was $149.9 million, or 1.32% of total loans (excluding loans held for sale). This compares with an ACL of $155.6 million, or 1.46% of total loans (excluding loans held for sale) at December 31, 2021. The decrease from year end was primarily due to significant improvement in portfolio risk ratings as well as the percentage of problem loans to total loans reaching pre-pandemic levels. The ACL at June 30, 2022 does not include a reserve for the PPP loans as they are fully guaranteed by the SBA. 
+
+For additional information on our allowances for credit losses and allowance for unfunded commitments and letters of credit, as well as the credit quality of the loan portfolio, see Note 6 to the Consolidated Financial Statements in &#8220;Item 1. Consolidated Financial Statements (unaudited) &#8221; of this report. 
+
+Table of Contents 
+
+Liquidity and Sources of Funds 
+
+Our primary sources of funds are customer deposits. Additionally, we utilize advances from the FHLB, borrowings from the FRB, sweep repurchase agreements, subordinated debentures and junior subordinated debentures assumed in acquisitions and a revolving line of credit to supplement our funding needs. These funds, together with loan repayments, loan sales, retained earnings, equity and other borrowed funds are used to make loans, to acquire securities, meet deposit withdrawals and maturing liabilities, to acquire other assets and to fund continuing operations. 
+
+In addition, we have a shelf registration statement on file with the SEC registering an unspecified amount of any combination of debt or equity securities, depository shares, purchase contracts, units and warrants in one or more offerings. Specific information regarding the terms of and the securities being offered will be provided at the time of any offering. Proceeds from any future offerings are expected to be used for general corporate purposes, including, but not limited to, the repayment of debt, repurchasing or redeeming outstanding securities, working capital, funding future acquisitions or other purposes identified at the time of any offering. 
+
+Deposit Activities 
+
+Our deposit products include a wide variety of transaction accounts, savings accounts and time deposit accounts. We have established a branch system to serve our consumer and business depositors. Deposits decreased $53.2 million from December 31, 2021. Management&#8217;s strategy for funding asset growth is to make use of public funds and brokered and other wholesale deposits on an as-needed basis. The Company participates in the CD Option of IntraFi Network Deposits program, which is a network that allows participating banks to offer extended FDIC deposit insurance coverage on time deposits. The Company also participates in a similar program to offer extended FDIC deposit insurance coverage on money market accounts. These extended deposit insurance programs are generally available only to existing customers and are not used as a means of generating additional liquidity. At June 30, 2022, brokered deposits, reciprocal money market accounts and other wholesale deposits (excluding public funds) totaled $953.7 million, or 5.3% of total deposits, compared to $821.7 million or 4.6% at year-end 2021. These deposits have varied maturities. 
+
+The following table sets forth the Company&#8217;s deposit base by type of product for the dates indicated: 
+
+June 30, 2022 December 31, 2021 Balance % of Total Balance % of Total (dollars in thousands) Demand and other noninterest-bearing $ 8,741,488 48.7 % $ 8,856,714 49.1 % Money market 3,402,555 18.9 % 3,525,299 19.6 % Interest-bearing demand 2,104,118 11.7 % 1,999,407 11.1 % Savings 1,646,363 9.2 % 1,617,546 9.0 % Interest-bearing public funds, other than certificates of deposit 737,297 4.1 % 779,146 4.3 % Certificates of deposit, less than $250,000 232,063 1.3 % 249,120 1.4 % Certificates of deposit, $250,000 or more 138,945 0.8 % 160,490 0.9 % Certificates of deposit insured by the CD Option of IntraFi Network Deposits 29,178 0.2 % 35,611 0.2 % Reciprocal money market accounts 924,552 5.1 % 786,046 4.4 % Subtotal $ 17,956,559 100.0 % $ 18,009,379 100.0 % Valuation adjustment resulting from acquisition accounting $ 367 $ 736 Total deposits $ 17,956,926 $ 18,010,115 
+
+Table of Contents 
+
+Borrowings 
+
+We rely on FHLB advances and FRB borrowings as another source of both short and long-term funding. FHLB advances and FRB borrowings are secured by investment securities and residential, commercial and commercial real estate loans. At June 30, 2022 and December 31, 2021, we had FHLB advances of $7.3 million and $7.4 million, respectively. 
+
+We also utilize wholesale and retail repurchase agreements to supplement our funding sources. Our wholesale repurchase agreements are secured by mortgage-backed securities. At June 30, 2022 and December 31, 2021, we had deposit customer sweep-related repurchase agreements of $70.3 million and $86.0 million, respectively, which mature on a daily basis. 
+
+Subordinated debentures and junior subordinated debentures are another source of funding. On October 1, 2021, with its acquisition of Bank of Commerce, the Company assumed $10.0 million in aggregate principal amount of subordinated debentures, which are unsecured, and mature on December 10, 2025. Also assumed through the Bank of Commerce acquisition were $10.3 million of trust preferred obligations which mature on September 15, 2035 and are redeemable at the Company&#8217;s option on any March 15, June 15, September 15, or December 15. 
+
+The Company has a $15.0 million short-term credit facility with an unaffiliated bank. This facility provides the Company additional liquidity, if needed, for various corporate activities. At both June 30, 2022 and December 31, 2021, there was no balance associated with this credit facility. The credit agreement requires the Company to comply with certain covenants including those related to asset quality and capital levels. The Company was in compliance with all covenants associated with this facility at June 30, 2022. 
+
+Management anticipates we will continue to rely on FHLB advances, FRB borrowings, the short-term credit facility and wholesale and retail repurchase agreements in the future. We will use those funds primarily to make loans and purchase securities. 
+
+Contractual Obligations, Commitments &#38; Off-Balance Sheet Arrangements 
+
+We are party to many contractual financial obligations, including repayments of borrowings, operating and equipment lease payments, off-balance sheet commitments to extend credit and investments in affordable housing partnerships. At June 30, 2022, we had commitments to extend credit of $3.74 billion compared to $3.54 billion at December 31, 2021. 
+
+Capital Resources 
+
+Shareholders&#8217; equity at June 30, 2022 was $2.24 billion, compared to $2.59 billion at December 31, 2021. Shareholders&#8217; equity was 11% and 12% of total period-end assets at June 30, 2022 and December 31, 2021, respectively. 
+
+Regulatory Capital 
+
+In July 2013, the federal bank regulators approved the Capital Rules (as discussed in our 2021 Annual Report on Form 10-K, &#8220;Item 1. Business&#8212;Supervision and Regulation and &#8212;Regulatory Capital Requirements&#8221;), which implement the Basel III capital framework and various provisions of the Dodd-Frank Act, which were fully phased in as of January 1, 2019. As of June 30, 2022, we and the Bank met all capital adequacy requirements under the Capital Rules. 
+
+FDIC regulations set forth the qualifications necessary for a bank to be classified as &#8220;well-capitalized,&#8221; primarily for assignment of FDIC insurance premium rates. Failure to qualify as &#8220;well-capitalized&#8221; can negatively impact a bank&#8217;s ability to expand and to engage in certain activities. The Company and the Bank qualified as &#8220;well-capitalized&#8221; at June 30, 2022 and December 31, 2021. 
+
+As part of its response to the impact of COVID-19, the U.S. federal regulatory agencies issued an interim final rule that provided the option to temporarily delay certain effects of CECL on regulatory capital for two years, followed by a three year transition period. The interim final rule allows bank holding companies and banks to delay for two years 100% of the day one impact of adopting CECL and 25% of the cumulative change in the reported allowance for credit losses since adopting CECL. The Company elected to adopt the interim final rule. As a result, certain capital ratios and amounts as of June 30, 2022 and December 31, 2021 have a reduced impact of the increased allowance for credit losses related to the adoption of CECL. 
+
+Table of Contents 
+
+The following table presents the capital ratios and the capital conservation buffer, as applicable, for the Company and its banking subsidiary as of the dates presented below: 
+
+Company Columbia Bank June 30, 2022 December 31, 2021 June 30, 2022 December 31, 2021 CET1 risk-based capital ratio 12.59 % 13.01 % 12.64 % 13.06 % Tier 1 risk-based capital ratio 12.59 % 13.01 % 12.64 % 13.06 % Total risk-based capital ratio 13.69 % 14.21 % 13.67 % 14.18 % Leverage ratio 8.77 % 8.55 % 8.86 % 8.60 % Capital conservation buffer 5.69 % 6.21 % 5.67 % 6.18 % 
+
+Non-GAAP Financial Measures 
+
+The Company considers operating net interest margin (tax equivalent) to be a useful measurement as it more closely reflects the ongoing operating performance of the Company. Additionally, presentation of the operating net interest margin allows readers to compare certain aspects of the Company&#8217;s net interest margin to other organizations that may not have had significant acquisitions. Despite the usefulness of the operating net interest margin (tax equivalent) to the Company, there is no standardized definition for it and, as a result, the Company&#8217;s calculations may not be comparable with other organizations. The Company encourages readers to consider its Consolidated Financial Statements in their entirety and not to rely on any single financial measure. 
+
+The following table reconciles the Company&#8217;s calculation of the operating net interest margin (tax equivalent) to the net interest margin (tax equivalent) for the periods indicated: 
+
+Three Months Ended Six Months Ended June 30, 2022 March 31, 2022 June 30, 2022 June 30, 2021 (dollars in thousands) Operating net interest margin non-GAAP reconciliation: Net interest income (tax equivalent) (1) $ 149,542 $ 148,268 $ 297,810 $ 253,298 Adjustments to arrive at operating net interest income (tax equivalent): Incremental accretion income on acquired loans 2,053 350 2,403 (1,911) Premium amortization on acquired securities 1,132 1,031 2,163 1,052 Operating net interest income (tax equivalent) (1) $ 152,727 $ 149,649 $ 302,376 $ 252,439 Average interest earning assets $ 18,975,517 $ 19,266,644 $ 19,120,276 $ 15,799,940 Net interest margin (tax equivalent) (1) 3.16 % 3.12 % 3.14 % 3.23 % Operating net interest margin (tax equivalent) (1) 3.23 % 3.15 % 3.19 % 3.22 % 
+
+__________ 
+
+(1) Tax-exempt interest income has been adjusted to a tax equivalent basis. The amount of such adjustment was an addition to net interest income of $2.1 million for both the three months ended June 30, 2022 and March 31, 2022, respectively, and $1.9 million for the three months ended June 30, 2021. 
+
+Table of Contents 
+

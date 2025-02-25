@@ -107,8 +107,8 @@ class ModelSECPreprocessor:
                         cleaned_text = self.clean_text(text)
                         folder_levels = foldername.replace(root_folder, '').strip(os.sep).split(os.sep)
                         row = {
-                            'Company_Name': folder_levels[2] if len(folder_levels) > 2 else '',
-                            'Year': folder_levels[3] if len(folder_levels) > 3 else '',
+                            'Company_Name': folder_levels[0] if len(folder_levels) > 0 else '',
+                            'Year': folder_levels[1] if len(folder_levels) > 1 else '',
                             'Filename': filename,
                             'Text': cleaned_text
                         }
