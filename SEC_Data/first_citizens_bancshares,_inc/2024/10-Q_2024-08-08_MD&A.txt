@@ -1,0 +1,1242 @@
+ Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Management&#8217;s discussion and analysis (&#8220;MD&#38;A&#8221;) of earnings and related financial data is presented to assist in understanding the financial condition and results of operations of First Citizens BancShares, Inc. (the &#8220;Parent Company&#8221; and, when including all of its subsidiaries on a consolidated basis, &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our,&#8221; or &#8220;BancShares&#8221;) and its banking subsidiary, First-Citizens Bank &#38; Trust Company (&#8220;FCB&#8221;). Unless otherwise noted, the terms &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our,&#8221; and &#8220;BancShares&#8221; in this section refer to the consolidated financial position and consolidated results of operations for BancShares. 
+
+This MD&#38;A is expected to provide our investors with a view of our financial condition and results of operations from our management&#8217;s perspective. This MD&#38;A should be read in conjunction with the unaudited consolidated financial statements and related notes presented within this Quarterly Report on Form 10-Q (this &#8220;Form 10-Q&#8221;), along with our consolidated financial statements and related MD&#38;A of financial condition and results of operations included in our Annual Report on Form 10-K for the year ended December 31, 2023 (&#8220;2023 Form 10-K&#8221;). Throughout this MD&#38;A, references to a specific &#8220;Note&#8221; refer to Notes to the Unaudited Consolidated Financial Statements. 
+
+Intercompany accounts and transactions have been eliminated. Although certain amounts for prior years have been reclassified to conform with financial statement presentations for 2024, the reclassifications had no effect on stockholders&#8217; equity or net income as previously reported. Refer to Note 1&#8212;Significant Accounting Policies and Basis of Presentation. 
+
+Management uses certain financial measures that are not presented in accordance with accounting principles generally accepted in the United States of America (&#8220;GAAP&#8221;) in its analysis of the financial condition and results of operations of BancShares. See the "Non-GAAP Financial Measurements" section of this MD&#38;A for a reconciliation of these financial measures to the most directly comparable financial measures in accordance with GAAP. 
+
+EXECUTIVE OVERVIEW 
+
+The Parent Company is a bank holding company (&#8220;BHC&#8221;) and financial holding company. The Parent Company is regulated by the Board of Governors of the Federal Reserve System (&#8220;FRB&#8221;) under the U.S. Bank Holding Company Act of 1956, as amended. The Parent Company is also registered under the BHC laws of North Carolina and is subject to supervision, regulation and examination by the North Carolina Commissioner of Banks (the &#8220;NCCOB&#8221;). BancShares conducts its banking operations through its wholly owned subsidiary, FCB, a state-chartered bank organized under the laws of the state of North Carolina. FCB is regulated by the NCCOB. In addition, FCB, as an insured depository institution, is supervised by the Federal Deposit Insurance Corporation (the &#8220;FDIC&#8221;). 
+
+BancShares provides financial services for a wide range of consumer and commercial clients. This includes retail and mortgage banking, wealth management, small and middle market banking, factoring and leasing. BancShares provides commercial factoring, receivables management and secured financing services to businesses (generally manufacturers or importers of goods) that operate in various industries, including apparel, textile, furniture, home furnishings and consumer electronics. BancShares also provides deposit, cash management and lending to homeowner associations and property management companies. 
+
+BancShares delivers banking products and services to its customers through an extensive branch network and additionally operates a nationwide digital banking platform that delivers deposit products to consumers (the &#8220;Direct Bank&#8221;). Services offered at most branches include accepting deposits, cashing checks and providing for consumer and commercial cash needs. Consumer and business customers may also conduct banking transactions through various digital channels. 
+
+In addition to our banking operations, we provide various investment products and services through FCB&#8217;s wholly owned subsidiaries, including First Citizens Investor Services, Inc. (&#8220;FCIS&#8221;) and First Citizens Asset Management, Inc. (&#8220;FCAM&#8221;), and a non-bank subsidiary First Citizens Capital Securities, LLC (&#8220;FCCS&#8221;). As a registered broker-dealer, FCIS provides a full range of investment products, including annuities, brokerage services and third-party mutual funds. As registered investment advisers, FCIS and FCAM provide investment management services and advice. FCCS is a broker-dealer that also provides underwriting and private placement services. We also have other wholly owned subsidiaries, including SVB Wealth LLC, SVB Asset Management, and First Citizens Institutional Asset Management, LLC, which are active investment advisers. 
+
+The SVBB Acquisition (defined below) expanded our client base to serve private equity and venture capital clients and also complimented our existing wealth management business by adding enhanced digital capabilities. The SVBB Acquisition further diversified our loan portfolio and business mix, particularly across technology, life science and healthcare industries, and wealth clients. 
+
+BancShares also owns a fleet of railcars and locomotives that are leased to railroads and shippers. 
+
+Refer to Note 20&#8212;Business Segment Information for further information regarding the products and services we provide. 
+
+Refer to the 2023 Form 10-K for a discussion of our strategy. 
+
+Significant Events 
+
+Share Repurchase Program 
+
+On July 25, 2024, BancShares announced that its Board of Directors (the &#8220;Board&#8221;) had authorized a share repurchase program, which will allow BancShares to repurchase shares of its Class A common stock in an aggregate amount up to $3.5 billion through 2025. 
+
+Under the newly authorized share repurchase program, shares of BancShares&#8217; Class A common stock may be purchased from time to time on the open market or in privately negotiated transactions, including through a Rule 10b5-1 plan, but the Board&#8217;s action does not obligate BancShares to repurchase any minimum or particular number of shares, and repurchases may be suspended or discontinued at any time (subject to the terms of any Rule 10b5-1 plan in effect) without prior notice. 
+
+Segment Updates 
+
+We made changes to our segment reporting during the first quarter of 2024 as further discussed in Note 1&#8212;Significant Accounting Policies and Basis of Presentation. Segment disclosures for 2023 periods included in this Form 10-Q were recast to reflect the segment reporting changes. BancShares&#8217; segments include General Bank, Commercial Bank, SVB Commercial, and Rail. All other financial information not allocated to the segments is included in the &#8220;Corporate&#8221; section of the segment disclosures. Refer to Note 20&#8212;Business Segment Information for the segment descriptions. 
+
+Segment results are discussed in the section entitled &#8220;Results by Business Segment&#8221; in this MD&#38;A. 
+
+Updates to Loan Classes 
+
+We updated our loan classes during the first quarter of 2024 as further discussed in Note 1&#8212;Significant Accounting Policies and Basis of Presentation. Loan and lease and allowance for loan and lease losses (&#8220;ALLL&#8221;) disclosures for 2023 periods included in this Form 10-Q were recast to reflect the changes in loan classes. 
+
+SVBB Acquisition 
+
+On March 27, 2023 (the &#8220;SVBB Acquisition Date&#8221;), FCB acquired substantially all loans and certain other assets and assumed all customer deposits and certain other liabilities of Silicon Valley Bridge Bank, N.A. (&#8220;SVBB&#8221;) from the FDIC pursuant to the terms of a purchase and assumption agreement by and among FCB, the FDIC, and the FDIC, as receiver of SVBB (the &#8220;SVBB Acquisition&#8221;). 
+
+The SVBB Acquisition is further discussed in Note 2&#8212;Business Combinations. 
+
+Recent Economic, Industry and Regulatory Developments 
+
+During its July 2024 meeting, the Federal Reserve&#8217;s Federal Open Market Committee (&#8220;FOMC&#8221;) maintained benchmark federal funds rate at a range between 5.25% - 5.50%, where it has remained since July 2023. The FOMC has stated that it does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably towards 2%. While future rate increases are possible, the FOMC&#8217;s interest rate is likely at its peak for this tightening cycle, and the FRB has signaled it may lower the rate once during 2024, potentially as early as September, depending on future economic conditions and other relevant considerations. 
+
+During 2023, the FDIC finalized a notice of proposed rulemaking (&#8220;NPR&#8221;) covering an industry-wide special assessment to recover losses associated with protecting uninsured depositors following the closures of Silicon Valley Bank, Signature Bank, and First Republic Bank. We accrued a FDIC insurance special assessment charge of $64 million in 2023 that will be paid in eight quarterly installments beginning in 2024. In March 2024, the FDIC revised its loss estimate, indicating higher losses than originally estimated to the deposit insurance fund. As a result, we accrued an additional FDIC insurance special assessment charge of $11 million in 2024 that will be paid in two quarterly installments beginning in 2026. 
+
+Also in 2023, the federal banking agencies issued NPRs related to enhanced capital and long-term debt requirements for banking organizations with $100 billion or more in total assets. These NPRs were discussed in Item 1. Business of our 2023 Form 10-K , in the section entitled &#8220;Regulatory Considerations.&#8221; We are in the process of evaluating the proposals and the potential impacts. If the NPRs are finalized, we expect we would need to raise additional long-term debt to satisfy the requirements. 
+
+On June 20, 2024, the FDIC adopted a final rule to amend its Covered Insured Depository Institution rule (&#8220;CIDI Rule&#8221;). The CIDI Rule requires depository institutions insured by the FDIC with $50 billion or more in total consolidated assets to periodically submit resolution plans that will enable the FDIC as receiver to resolve the bank in the event of its insolvency under the Federal Deposit Insurance Act. As a result of the final rule, among other things, we will be required to submit to the FDIC full resolution plans every three years and interim targeted information between full resolution plan submissions. In addition, the final rule introduces a new credibility standard that will be used to evaluate full resolution plan submissions, which would be subject to potential FDIC enforcement action. The final rule is effective beginning October 1, 2024 and we are continuing to evaluate the impact of this final rule. 
+
+Financial Performance Summary 
+
+The following tables in this MD&#38;A include financial data for the three months ended June 30, 2024 (the &#8220;current quarter&#8221;), the three months ended March 31, 2024 (the &#8220;linked quarter&#8221;), the three months ended June 30, 2023 (the &#8220;prior year quarter&#8221;), the six months ended June 30, 2024 (&#8220;current YTD&#8221;), and the six months ended June 30, 2023 (&#8220;prior YTD&#8221;). The operations acquired in the SVBB Acquisition (the &#8220;acquired SVBB operations&#8221;) were included in our results of operations for the current YTD, but only from the SVBB Acquisition Date through June 30, 2023 (the &#8220;partial prior YTD&#8221;) in the prior YTD. Many year-to-date comparisons in this MD&#38;A highlight the impact of including the acquired SVBB operations for the current YTD and the partial prior YTD. 
+
+In accordance with Item 303(c) of Regulation S-K, we focus on changes compared to the linked quarter and year-to-date periods for the narrative discussion and analysis of our results of operations as we believe this provides investors and other users of our data with the most relevant information. 
+
+We primarily focus the discussion of our financial position by comparing balances as of June 30, 2024 to December 31, 2023, but the tables also provide the linked quarter balances. 
+
+The following table summarizes BancShares&#8217; results in accordance with GAAP: 
+
+Table 1 
+
+Selected Financial Data 
+
+dollars in millions, except share data Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Results of Operations: Interest income $ 3,130 $ 3,084 $ 2,953 $ 6,214 $ 4,164 Interest expense 1,309 1,267 992 2,576 1,353 Net interest income 1,821 1,817 1,961 3,638 2,811 Provision for credit losses 95 64 151 159 934 Net interest income after provision for credit losses 1,726 1,753 1,810 3,479 1,877 Noninterest income 639 627 658 1,266 10,917 Noninterest expense 1,386 1,376 1,572 2,762 2,427 Income before income taxes 979 1,004 896 1,983 10,367 Income tax expense 272 273 214 545 167 Net income 707 731 682 1,438 10,200 Preferred stock dividends 16 15 15 31 29 Net income available to common stockholders $ 691 $ 716 $ 667 $ 1,407 $ 10,171 Per Common Share Information: Weighted average common shares outstanding (diluted) 14,534,499 14,536,442 14,537,938 14,535,472 14,539,176 Diluted earnings per common share $ 47.54 $ 49.26 $ 45.87 $ 96.80 $ 699.53 Key Performance Metrics: Return on average assets 1.30 % 1.36 % 1.31 % 1.33 % 12.62 % Net interest margin (1) 
+
+3.64 3.67 4.11 3.66 3.87 Net interest margin, excluding purchase accounting accretion (1)(3) 
+
+3.36 3.35 3.59 3.36 3.49 Select Average Balances: Investment securities $ 36,445 $ 32,647 $ 19,806 $ 34,546 $ 19,612 Total loans and leases (2) 
+
+137,514 133,758 134,696 135,636 104,965 Operating lease equipment, net 8,888 8,806 8,405 8,847 8,321 Total assets 218,891 216,081 209,309 217,486 162,994 Total deposits 150,246 147,715 137,438 148,980 115,758 Total stockholders&#8217; equity 22,052 21,498 19,521 21,775 15,445 Select Ending Balances: Investment securities $ 37,666 $ 35,044 $ 22,171 Total loans and leases 139,341 135,370 133,015 Operating lease equipment, net 8,945 8,811 8,531 Total assets 219,827 217,836 209,502 Total deposits 151,079 149,609 141,164 Total stockholders&#8217; equity 22,487 21,848 19,771 Loan to deposit ratio 92.23 % 90.48 % 94.23 % Noninterest-bearing deposits to total deposits 26.49 26.25 31.56 Capital Ratios: Common equity Tier 1 13.33 % 13.44 % 13.38 % Tier 1 risk-based capital 13.87 14.00 14.00 Total risk-based capital 15.45 15.66 15.84 Tier 1 leverage 10.29 10.11 9.50 Asset Quality: Ratio of nonaccrual loans to total loans 0.82 % 0.79 % 0.70 % Allowance for loan and lease losses to loans ratio 1.22 1.28 1.23 Net charge off ratio 0.38 0.31 0.47 0.35 0.39 
+
+(1) Calculated net of average credit balances and deposits of factoring clients. 
+
+(2) Average loan balances include loans held for sale and nonaccrual loans. 
+
+(3) Net interest margin (&#8220;NIM&#8221;), excluding purchase accounting accretion or amortization (&#8220;PAA&#8221;), is a non-GAAP financial measure. See the &#8220;Non-GAAP Financial Measures&#8221; section of this MD&#38;A for a reconciliation from the most comparable GAAP measure to the non-GAAP measure. 
+
+Financial highlights are summarized below. Further details are discussed in the &#8220;Results of Operations&#8221; section of this MD&#38;A. 
+
+Second Quarter Income Statement Highlights 
+
+&#8226; Net income for the current quarter was $707 million, a decrease of $24 million or 3% from $731 million for the linked quarter. Net income available to common stockholders for the current quarter was $691 million, a decrease of $25 million or 4% from $716 million for the linked quarter. Earnings per diluted common share for the current quarter was $47.54, a decrease from $49.26 for the linked quarter. 
+
+&#9702; The decreases were mainly due to a higher provision for credit losses as a result of a lower benefit for off-balance sheet credit exposure. 
+
+&#9702; As further discussed below, other changes in net income included slightly higher net interest income (&#8220;NII&#8221;) and higher noninterest income, which were partially offset by higher noninterest expense. 
+
+&#8226; The current quarter included the following select item: 
+
+&#9702; Acquisition-related expenses of $44 million . 
+
+&#8226; The linked quarter included the following select items: 
+
+&#9702; Acquisition-related expenses of $58 million, and 
+
+&#9702; Additional FDIC insurance special assessment of $9 million . 
+
+&#8226; Return on average assets for the current quarter was 1.30% compared to 1.36% for the linked quarter. 
+
+&#8226; NII for the current quarter was $1.82 billion, essentially flat compared to the linked quarter, mainly due to higher interest income on loans and investment securities, which were partially offset by lower interest income on interest-earning deposits at banks and higher interest expense on deposits. The increase in interest income on loans was mostly due to loan growth and higher yields, which was partially offset by lower loan accretion income. 
+
+&#8226; NIM for the current quarter was 3.64%, a decrease of 3 basis points (&#8220;bps&#8221;) from 3.67% for the linked quarter, primarily related to the items discussed above for NII. NIM, excluding PAA, was 3.36% compared to 3.35% in the linked quarter. See the &#8220;Non-GAAP Financial Measures&#8221; section of this MD&#38;A for a reconciliation from the most comparable GAAP measure to the non-GAAP measure. 
+
+&#8226; Provision for credit losses , which includes the provision for loan and lease losses and the benefit for off-balance sheet credit exposure, was $95 million in the current quarter compared to $64 million in the linked quarter. The $31 million increase was mainly related to a $29 million lower benefit for off-balance sheet credit exposure as the pace of decline for unfunded commitment volumes slowed relative to the linked quarter. Additionally, the provision for loan and lease losses increased $2 million as a result of higher net charge-offs, partially offset by a mix shift to the global fund banking portfolio, which has lower loss rates relative to our other loan portfolios, lower specific reserves for individually evaluated loans, consistent credit quality, and changes in the macroeconomic forecast. 
+
+&#8226; Noninterest income for the current quarter was $639 million, an increase of $12 million or 2% from $627 million for the linked quarter. Client investment fees increased by $4 million, which was related to higher average off-balance sheet client funds in the SVB Commercial segment. The remaining increases in noninterest income were spread across various items, including a $2 million improvement from the linked quarter for the fair value adjustment on marketable equity securities and a $2 million loss on extinguishment of debt incurred in the linked quarter. 
+
+&#8226; Noninterest expense for the current quarter was $1.39 billion, an increase of $10 million or 1% from $1.38 billion for the linked quarter. The increase was primarily attributable to increases of $15 million for maintenance and other operating lease expenses and $12 million for equipment expense, which were partially offset by a decrease of $14 million in acquisition-related expenses. 
+
+Year-to-Date Income Statement Highlights 
+
+&#8226; Net income for the current YTD was $1.44 billion, a decrease of $8.76 billion or 86% from $10.20 billion for the prior YTD. Net income available to common stockholders for the current YTD was $1.41 billion, a decrease of $8.76 billion from $10.17 billion for the prior YTD. Earnings per diluted common share for the current YTD was $96.80, a decrease from $699.53 for the prior YTD. 
+
+&#9702; The decreases were mostly related to the SVBB Acquisition. Noninterest income was lower for the current YTD as the prior YTD included the gain on acquisition. This was partially offset by a lower provision for credit losses for the current YTD as the prior YTD included the provision for non-purchased credit deteriorated (&#8220;Non-PCD&#8221;) loans and leases and the unfunded commitments acquired in the SVBB Acquisition (collectively, the &#8220;day 2 provision for credit losses&#8221;). 
+
+&#9702; As further discussed below, other changes in net income included higher NII, which was partially offset by higher noninterest expenses. Additionally, the acquired SVBB operations were reflected in earnings for the current YTD and the partial prior YTD. 
+
+&#8226; The current YTD included the following select items: 
+
+&#9702; Acquisition-related expenses of $102 million, and 
+
+&#9702; Additional FDIC insurance special assessment of $11 million. 
+
+&#8226; The prior YTD included the following select items: 
+
+&#9702; Gain on acquisition of $9.88 billion for the SVBB Acquisition , 
+
+&#9702; Day 2 provisions for credit losses of $716 million for the SVBB Acquisition, and 
+
+&#9702; Acquisition-related expenses of $233 million. 
+
+&#8226; Return on average assets for the current YTD was 1.33% compared to 12.62% for the prior YTD. 
+
+&#8226; NII for the current YTD was $3.64 billion, an increase of $827 million or 29% from $2.81 billion for the prior YTD. The increase was primarily due to the acquired SVBB operations and loan accretion income being included for the current YTD and the partial prior YTD. Additionally, interest income increased in the current YTD due to higher interest income on loans and investment securities, which was partially offset by higher interest expense on deposits and borrowings. 
+
+&#8226; NIM for the current YTD was 3.66%, a decrease of 21 bps from 3.87% for the prior YTD. The decreases in NIM from higher average balances of interest-bearing deposits and the Purchase Money Note and higher rates paid on deposits were partially offset by higher average balances and yields on loans and investment securities. NIM, excluding PAA, was 3.36% for the current YTD compared to 3.49% for the prior YTD. See the &#8220;Non-GAAP Financial Measures&#8221; section of this MD&#38;A for a reconciliation from the most comparable GAAP measure to the non-GAAP measure. 
+
+&#8226; Provision for credit losses for the current YTD was $159 million, a decrease of $775 million from $934 million for the prior YTD. The decrease was primarily related to the day 2 provisions for credit losses of $716 million in the prior YTD, lower reserves for individually evaluated loans, and changes in the macroeconomic forecast. 
+
+&#8226; Noninterest income for the current YTD was $1.27 billion, a decrease of $9.65 billion from $10.92 billion for the prior YTD. The decrease was mostly due to the gain on acquisition of $9.88 billion in the prior YTD, partially offset by increases in various components of noninterest income, mostly because the acquired SVBB operations were reflected in earnings for the current YTD and the partial prior YTD . 
+
+&#8226; Noninterest expense for the current YTD was $2.76 billion, an increase of $335 million or 14% from $2.43 billion. The increase was mostly due to the acquired SVBB operations being included for the current YTD and the partial prior YTD, including higher salaries and benefits, partially offset by lower acquisition-related expenses. 
+
+Balance Sheet Highlights 
+
+&#8226; Total loans and leases at June 30, 2024 were $139.34 billion, an increase of $6.04 billion or 5% from $133.30 billion at December 31, 2023 and an increase of $3.97 billion or 3% from $135.37 billion at March 31, 2024. Compared to December 31, 2023 and March 31, 2024, there was loan growth in each of our business segments. Loan growth in the General Bank segment was primarily related to business and commercial loans in our Branch Network. Loan growth in the Commercial Bank segment was mainly due to the technology media and telecommunications (&#8220;TMT&#8221;) industry and the Healthcare industry. Loan growth in the SVB Commercial segment was concentrated in global fund banking loans. 
+
+&#8226; Total investment securities at June 30, 2024 were $37.67 billion, an increase of $7.67 billion or 26% from $30.00 billion at December 31, 2023 and an increase of $2.62 billion or 8% from $35.04 billion at March 31, 2024. Compared to December 31, 2023 and March 31, 2024, the increases were primarily due to purchases of short-duration U.S. agency mortgage-backed and U.S. Treasury investment securities. 
+
+&#8226; Total deposits at June 30, 2024 were $151.08 billion, an increase of $5.23 billion or 4% from $145.85 billion at December 31, 2023 and an increase of $1.47 billion or 1% from $149.61 billion at March 31, 2024. The increase from December 31, 2023 reflected deposit growth in our Branch Network, the Direct Bank, and the SVB Commercial segment. The largest increase from March 31, 2024 reflected deposit growth in the SVB Commercial segment, which was mainly due to slight improvement in the macroeconomic environment and client acquisition. 
+
+&#8226; Total borrowings at June 30, 2024 were $37.46 billion, a decrease of $196 million from $37.65 billion at December 31, 2023 and a decrease of $82 million from $37.54 billion at March 31, 2024. The decreases from December 31, 2023 and March 31, 2024 were mostly due to declines in securities sold under customer purchase agreements and the Purchase Money Note. 
+
+&#8226; At June 30, 2024, BancShares remained well capitalized with a total risk-based capital ratio of 15.45%, a Tier 1 risk-based capital ratio of 13.87%, a common equity Tier 1 ratio of 13.33% and a Tier 1 leverage ratio of 10.29%. 
+
+Funding, Liquidity and Capital Overview 
+
+Deposit Composition and Trends 
+
+We fund our business primarily through deposits. Deposits represented approximately 80% of total funding at June 30, 2024. The following table summarizes the composition, average size and uninsured percentages of our deposits: 
+
+Table 2 
+
+Select Deposit Data 
+
+Deposits as of June 30, 2024 Ending Balance (in millions) Average Size (in thousands) Uninsured % General Bank segment $ 71,479 $ 35 36 % Commercial Bank segment 2,958 250 84 SVB Commercial segment 35,891 493 73 Corporate and Rail segment (1) 
+
+40,751 57 8 Total $ 151,079 53 38 
+
+(1) The average size is reflective of the Direct Bank deposits, and excludes brokered deposits and rail. 
+
+The General Bank segment includes deposits from our branch network, which deploys a relationship-based approach to deposit gathering. The Commercial Bank segment includes deposits of commercial customers, and the SVB Commercial segment includes deposits related to its commercial customer base. Deposits in Corporate were primarily comprised of $39.67 billion in our Direct Bank and brokered deposits. 
+
+As displayed in the table above, the average size of deposits varies across our business segments. The uninsured data represents the percentage of such deposits in the respective segments and Corporate. At June 30, 2024, total uninsured deposits were approximately $57.15 billion or 38% of total deposits. Uninsured deposits were $54.15 billion or 37% of total deposits at December 31, 2023. 
+
+Table 3 
+
+Deposit Trends 
+
+(dollars in millions) Deposit Balance June 30, 2024 March 31, 2024 December 31, 2023 General Bank segment $ 71,479 $ 71,150 $ 68,729 Commercial Bank segment 2,958 3,023 3,228 SVB Commercial segment 35,891 34,014 34,730 Corporate and Rail segment 40,751 41,422 39,167 Total deposits $ 151,079 $ 149,609 $ 145,854 
+
+SVB Commercial segment deposits increased from $34.73 billion at December 31, 2023 to $35.89 billion at June 30, 2024. The table above also indicates that aggregate deposits for our business segments and Corporate increased during the current quarter and current YTD, primarily from deposit growth in the Direct Bank, which is included in Corporate, and in the Branch Network in the General Bank segment. 
+
+Liquidity Position 
+
+We strive to maintain a strong liquidity position, and our risk appetite for liquidity is low. At June 30, 2024, liquidity metrics remained solid as we had $56.91 billion in high-quality liquid assets consisting of $24.48 billion in cash and interest-earning deposits at banks (primarily held at the FRB) and $32.43 billion in high-quality liquid securities (&#8220;HQLS&#8221;). We have unused borrowing capacity with the Federal Home Loan Bank (&#8220;FHLB&#8221;) and FRB of $14.68 billion and $5.53 billion, respectively. 
+
+In connection with the SVBB Acquisition, FCB and the FDIC, as lender and as collateral agent, entered into the Advance Facility Agreement, dated as of March 27, 2023, and effective as of November 20, 2023, providing total advances available through March 27, 2025 of up to $70 billion, subject to limits subsequently described in this MD&#38;A as referenced below, solely to provide liquidity to offset deposit withdrawal or runoff of former SVBB deposit accounts and to fund the unfunded commercial lending commitments acquired in the SVBB Acquisition. The immediate available capacity of the Advance Facility Agreement was $11.34 billion at June 30, 2024. Refer to the &#8220;Liquidity Risk&#8221; section of this MD&#38;A for further discussion. 
+
+Investment Securities Duration 
+
+At June 30, 2024, our investment securities portfolio primarily consisted of debt securities available for sale and held to maturity as summarized below. The duration of our investment securities was approximately 2.8 years at June 30, 2024. The investment securities available for sale portfolio had an average duration of 2.3 years and the held to maturity portfolio had an average duration of 4.5 years. Refer to the &#8220;Interest-earning Assets&#8212;Investment securities&#8221; section of this MD&#38;A and Note 3&#8212;Investment Securities for further information. 
+
+Table 4 
+
+Investment Securities 
+
+dollars in millions June 30, 2024 Composition (1) 
+
+Amortized Cost Fair Value 
+
+Fair Value to Cost 
+
+Total investment securities available for sale 75.0 % $ 27,959 $ 27,053 96.8 % Total investment securities held to maturity 24.8 10,535 8,946 84.9 Investment in marketable equity securities 0.2 75 78 104.0 Total investment securities 100 % $ 38,569 $ 36,077 (1) Calculated as a percentage of the total fair value of investment securities. 
+
+Capital Position 
+
+Our capital position remains strong, and all regulatory capital ratios for BancShares and FCB significantly exceed the prompt corrective action well capitalized thresholds and Basel III requirements as further discussed in the &#8220;Capital&#8221; section of this MD&#38;A. 
+
+RESULTS OF OPERATIONS 
+
+Net Interest Income and Net Interest Margin 
+
+NII is affected by changes in interest rates and changes in the amount and composition of interest-earning assets and interest-bearing liabilities. The following tables present the average balances, yields on interest-earning assets, rates on interest-bearing liabilities, and changes in NII due to changes in: (i) volume (average balances of interest-earning assets and interest-bearing liabilities) and (ii) yields or rates. 
+
+&#8226; The change in NII due to volume is calculated as the change in average balance multiplied by the yield or rate from the prior period. 
+
+&#8226; The change in NII due to yield or rate is calculated as the change in yield or rate multiplied by the average balance from the prior period. 
+
+&#8226; The change in NII due to changes in both volume and yield or rate (i.e., portfolio mix) is calculated as the change in rate multiplied by the change in volume. This component is allocated between the changes due to volume and yield or rate based on the ratio each component bears to the absolute dollar amounts of their total. 
+
+&#8226; Tax equivalent NII was not materially different from NII, therefore we present NII in our analysis. 
+
+Table 5 
+
+Average Balances and Yields/Rates 
+
+dollars in millions Three Months Ended June 30, 2024 March 31, 2024 Change in NII Due to: Average Balance Income / Expense Yield / Rate Average Balance Income / Expense Yield / Rate Volume (1) 
+
+Yield /Rate (1) 
+
+Total Change 
+
+Loans and leases (1)(2) 
+
+$ 135,965 $ 2,422 7.15 % $ 132,313 $ 2,354 7.15 % $ 65 $ 3 $ 68 Investment securities 36,445 327 3.60 32,647 279 3.42 33 15 48 Securities purchased under agreements to resell 236 3 5.37 244 3 5.40 &#8212; &#8212; &#8212; Interest-earning deposits at banks 28,059 378 5.42 33,383 448 5.39 (72) 2 (70) Total interest-earning assets (2) 
+
+$ 200,705 $ 3,130 6.26 % $ 198,587 $ 3,084 6.23 % $ 26 $ 20 $ 46 Operating lease equipment, net $ 8,888 $ 8,806 Cash and due from banks 750 785 Allowance for loan and lease losses (1,763) (1,796) All other noninterest-earning assets 10,311 9,699 Total assets $ 218,891 $ 216,081 Interest-bearing deposits Checking with interest $ 24,427 $ 137 2.26 % $ 23,963 $ 130 2.18 % $ 2 $ 5 $ 7 Money market 31,998 250 3.14 30,929 232 3.02 9 9 18 Savings 38,434 415 4.35 36,493 391 4.31 20 4 24 Time deposits 16,043 173 4.33 16,679 175 4.21 (7) 5 (2) Total interest-bearing deposits 110,902 975 3.54 108,064 928 3.45 24 23 47 Borrowings: Securities sold under customer repurchase agreements 380 &#8212; 0.46 431 1 0.47 (1) &#8212; (1) Short-term FHLB borrowings &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; Short-term borrowings 380 &#8212; 0.46 431 1 0.47 (1) &#8212; (1) Federal Home Loan Bank borrowings &#8212; &#8212; 2.00 &#8212; &#8212; 2.00 &#8212; &#8212; &#8212; Senior unsecured borrowings 375 3 2.49 376 2 2.50 1 &#8212; 1 Subordinated debt 901 7 3.32 911 8 3.29 (1) &#8212; (1) Other borrowings 35,824 324 3.61 35,859 328 3.66 &#8212; (4) (4) Long-term borrowings 37,100 334 3.60 37,146 338 3.64 &#8212; (4) (4) Total borrowings 37,480 334 3.56 37,577 339 3.60 (1) (4) (5) Total interest-bearing liabilities $ 148,382 $ 1,309 3.54 % $ 145,641 $ 1,267 3.49 % $ 23 $ 19 $ 42 Noninterest-bearing deposits $ 39,344 $ 39,651 Credit balances of factoring clients 1,234 1,105 Other noninterest-bearing liabilities 7,879 8,186 Stockholders' equity 22,052 21,498 Total liabilities and stockholders&#8217; equity $ 218,891 $ 216,081 
+
+Interest rate spread (2) 
+
+2.72 % 2.74 % 
+
+Net interest income and net interest margin (2) 
+
+$ 1,821 3.64 % $ 1,817 3.67 % 
+
+(1) Loans and leases include Non-PCD and Purchased Credit Deteriorated (&#8220;PCD&#8221;) loans, nonaccrual loans, and loans held for sale. Interest income on loans and leases includes accretion income and loan fees. 
+
+(2) The balance and rate presented is calculated net of average credit balances and deposits of factoring clients. 
+
+NII and NIM - Current quarter compared to linked quarter 
+
+&#8226; NII for the current quarter was $1.82 billion, an increase of $4 million from the linked quarter. This increase was due to a $46 million increase in interest income, partially offset by a $42 million increase in interest expense. 
+
+&#9702; Interest income earned on loans and leases for the current quarter was $2.42 billion, an increase of $68 million or 3% from $2.35 billion for the linked quarter. Loan growth and a higher yield led to an $86 million increase in loan interest income, partially offset by a decrease of $18 million in loan accretion income which was $145 million in the current quarter and $163 million in the linked quarter. 
+
+&#9702; Interest income earned on investment securities for the current quarter was $327 million, an increase of $48 million or 17% from $279 million for the linked quarter. The increase reflected continued purchases of short duration agency mortgage-backed and U.S. Treasury investment securities, and to a lesser extent, higher yields on the more recently purchased investment securities. 
+
+&#9702; Interest income on interest-earning deposits at banks for the current quarter was $378 million, a decrease of $70 million or 16% from $448 million for the linked quarter. The decrease was due to a lower average balance of interest-earning deposits at banks resulting from the purchases of investment securities described above. 
+
+&#9702; Interest expense on interest-bearing deposits for the current quarter was $975 million, an increase of $47 million or 5% from $928 million for the linked quarter. The increase was primarily from growth in interest-bearing deposits in the General Bank and SVB Commercial segments and higher average rates paid as we remain competitive and optimize our funding strategy through deposit growth. 
+
+&#9702; Interest expense on borrowings for the current quarter was $334 million, a decrease of $5 million or 1% from $339 million for the linked quarter as a result of slightly lower average balances. 
+
+&#8226; NIM for the current quarter was 3.64%, a decrease of 3 bps from 3.67% for the linked quarter, due to the reasons noted above for NII. NIM, excluding PAA, was 3.36% compared to 3.35% in the linked quarter. See the &#8220;Non-GAAP Financial Measures&#8221; section of this MD&#38;A for a reconciliation from the most comparable GAAP measure to the non-GAAP measure. 
+
+&#8226; Average interest-earning assets for the current quarter were $200.71 billion, an increase of $2.12 billion or 1% from $198.59 billion for the linked quarter. The increase mainly reflected higher average balances for investment securities and loans. The yield on average interest-earning assets was 6.26%, an increase of 3 bps from the linked quarter, primarily due to higher average balances and yields on investment securities and loans, partially offset by lower average balances of interest-earning deposits at banks and lower loan accretion income. 
+
+&#8226; Average interest-bearing liabilities for the current quarter were $148.38 billion, an increase of $2.74 billion or 2% from $145.64 billion in the linked quarter. The increase reflected higher average interest-bearing deposit balances. The rate paid on average interest-bearing liabilities increased by 5 bps from the linked quarter, primarily due to a higher rate paid on average interest-bearing deposits. While the rate paid on average interest-bearing deposits increased 9 bps from the linked quarter, the pace slowed relative to the 17 bps increase in the linked quarter compared to the fourth quarter of 2023. 
+
+Table 6 
+
+Average Balances and Yields/Rates 
+
+dollars in millions Three Months Ended June 30, 2024 June 30, 2023 Change in NII Due to: Average Balance Income / Expense Yield / Rate Average Balance Income / Expense Yield / Rate Volume (1) 
+
+Yield /Rate (1) 
+
+Total Change 
+
+Loans and leases (1)(2) 
+
+$ 135,965 $ 2,422 7.15 % $ 133,204 $ 2,353 7.08 % $ 45 $ 24 $ 69 Investment securities 36,445 327 3.60 19,806 117 2.36 128 82 210 Securities purchased under agreements to resell 236 3 5.37 191 3 4.92 &#8212; &#8212; &#8212; Interest-earning deposits at banks 28,059 378 5.42 38,014 480 5.07 (133) 31 (102) Total interest-earning assets (2) 
+
+$ 200,705 $ 3,130 6.26 % $ 191,215 $ 2,953 6.19 % $ 40 $ 137 $ 177 Operating lease equipment, net $ 8,888 $ 8,405 Cash and due from banks 750 1,161 Allowance for loan and lease losses (1,763) (1,600) All other noninterest-earning assets 10,311 10,128 Total assets $ 218,891 $ 209,309 Interest-bearing deposits Checking with interest $ 24,427 $ 137 2.26 % $ 24,164 $ 118 1.96 % $ 1 $ 18 $ 19 Money market 31,998 250 3.14 29,066 148 2.04 16 86 102 Savings 38,434 415 4.35 22,179 188 3.41 165 62 227 Time deposits 16,043 173 4.33 14,758 121 3.28 11 41 52 Total interest-bearing deposits 110,902 975 3.54 90,167 575 2.56 193 207 400 Borrowings: Securities sold under customer repurchase agreements 380 &#8212; 0.46 456 1 0.31 (1) &#8212; (1) Short-term FHLB borrowings &#8212; &#8212; &#8212; 110 1 5.17 (1) &#8212; (1) Short-term borrowings 380 &#8212; 0.46 566 2 1.26 (2) &#8212; (2) Federal Home Loan Bank borrowings &#8212; &#8212; 2.00 5,558 74 5.35 (74) &#8212; (74) Senior unsecured borrowings 375 3 2.49 798 4 2.11 (2) 1 (1) Subordinated debt 901 7 3.32 1,045 10 3.59 (2) (1) (3) Other borrowings 35,824 324 3.61 35,168 327 3.73 7 (10) (3) Long-term borrowings 37,100 334 3.60 42,569 415 3.91 (71) (10) (81) Total borrowings 37,480 334 3.56 43,135 417 3.87 (73) (10) (83) Total interest-bearing liabilities $ 148,382 $ 1,309 3.54 % $ 133,302 $ 992 2.98 % $ 120 $ 197 $ 317 Noninterest-bearing deposits $ 39,344 $ 47,271 Credit balances of factoring clients 1,234 1,168 Other noninterest-bearing liabilities 7,879 8,047 Stockholders' equity 22,052 19,521 Total liabilities and stockholders&#8217; equity $ 218,891 $ 209,309 
+
+Interest rate spread (2) 
+
+2.72 % 3.21 % 
+
+Net interest income and net interest margin (2) 
+
+$ 1,821 3.64 % $ 1,961 4.11 % 
+
+(1) Loans and leases include Non-PCD and PCD loans, nonaccrual loans, and loans held for sale. Interest income on loans and leases includes accretion income and loan fees. 
+
+(2) The balance and rate presented is calculated net of average credit balances and deposits of factoring clients. 
+
+Table 7 
+
+Average Balances and Yields/Rates 
+
+dollars in millions Six Months Ended June 30, 2024 June 30, 2023 Change in NII Due to: Average Balance Income / Expense Yield / Rate Average Balance Income / Expense Yield / Rate Volume (1) 
+
+Yield /Rate (1) 
+
+Total Change 
+
+Loans and leases (1)(2) 
+
+$ 134,139 $ 4,776 7.15 % $ 103,562 $ 3,370 6.55 % $ 1,075 $ 331 $ 1,406 Investment securities 34,546 606 3.51 19,612 224 2.29 225 157 382 Securities purchased under agreements to resell 240 6 5.38 96 3 4.92 3 &#8212; 3 Interest-earning deposits at banks 30,721 826 5.41 22,884 567 4.99 209 50 259 Total interest-earning assets (2) 
+
+$ 199,646 $ 6,214 6.25 % $ 146,154 $ 4,164 5.73 % $ 1,512 $ 538 $ 2,050 Operating lease equipment, net $ 8,847 $ 8,321 Cash and due from banks 768 880 Allowance for loan and lease losses (1,780) (1,270) All other noninterest-earning assets 10,005 8,909 Total assets $ 217,486 $ 162,994 Interest-bearing deposits Checking with interest $ 24,195 $ 267 2.22 % $ 20,350 $ 140 1.39 % $ 31 $ 96 $ 127 Money market 31,463 482 3.08 25,163 228 1.82 67 187 254 Savings 37,463 806 4.33 19,966 298 3.01 338 170 508 Time deposits 16,361 348 4.27 13,345 197 2.98 52 99 151 Total interest-bearing deposits 109,482 1,903 3.50 78,824 863 2.21 488 552 1,040 Borrowings: Securities sold under customer repurchase agreements 406 1 0.47 456 1 0.31 &#8212; &#8212; &#8212; Short-term FHLB borrowings &#8212; &#8212; &#8212; 218 5 4.79 (5) &#8212; (5) Short-term borrowings 406 1 0.47 674 6 1.76 (5) &#8212; (5) Federal Home Loan Bank borrowings &#8212; &#8212; 2.00 4,427 114 5.20 (70) (44) (114) Senior unsecured borrowings 376 5 2.50 840 9 2.09 (6) 2 (4) Subordinated debt 906 15 3.30 1,047 19 3.57 (3) (1) (4) Other borrowings 35,842 652 3.64 18,665 342 3.67 313 (3) 310 Long-term borrowings 37,124 672 3.62 24,979 484 3.88 234 (46) 188 Total borrowings 37,530 673 3.58 25,653 490 3.83 229 (46) 183 Total interest-bearing liabilities $ 147,012 $ 2,576 3.52 % $ 104,477 $ 1,353 2.60 % $ 717 $ 506 $ 1,223 Noninterest-bearing deposits $ 39,498 $ 36,934 Credit balances of factoring clients 1,169 1,088 Other noninterest-bearing liabilities 8,032 5,050 Stockholders' equity 21,775 15,445 Total liabilities and stockholders&#8217; equity $ 217,486 $ 162,994 
+
+Interest rate spread (2) 
+
+2.73 % 3.13 % 
+
+Net interest income and net interest margin (2) 
+
+$ 3,638 3.66 % $ 2,811 3.87 % 
+
+(1) Loans and leases include Non-PCD and PCD loans, nonaccrual loans, and loans held for sale. Interest income on loans and leases includes accretion income and loan fees. 
+
+(2) The balance and rate presented is calculated net of average credit balances and deposits of factoring clients. 
+
+NII and NIM - Current YTD compared to Prior YTD 
+
+&#8226; NII for the current YTD was $3.64 billion, an increase of $827 million or 29% from $2.81 billion for the prior YTD. The increase was primarily due to the acquired SVBB operations and loan accretion income being included for the current YTD and the partial prior YTD. Additionally, interest income increased in the current YTD due to higher interest income on loans and investment securities, which was partially offset by higher interest expense on deposits and borrowings. 
+
+&#9702; Interest income on loans and leases for the current YTD was $4.78 billion, an increase of $1.41 billion or 42% from $3.37 billion for the prior YTD. The increase largely resulted from earning interest and accretion income on the acquired SVBB loans for the current YTD and the partial prior YTD. Loan accretion income was $308 million in the current YTD and $260 million in the prior YTD, an increase of $48 million. Additionally, organic loan growth at higher yields and the impact from floating-rate loan resets contributed to the increase in interest income on loans and leases. 
+
+&#9702; Interest income on investment securities for the current YTD was $612 million, an increase of $385 million or 170% from $227 million for the prior YTD. The increase reflected continued purchases of short duration agency mortgage-backed and U.S. Treasury investment securities available for sale, and to a lesser extent, a higher yield. 
+
+&#9702; Interest income on interest-earning deposits at banks for the current YTD was $826 million, an increase of $259 million or 46% from $567 million for the prior YTD. The increase mainly resulted from a higher average balance of interest-earning deposits at banks related to the SVBB Acquisition, which was partially offset by the purchases of investment securities discussed above. 
+
+&#9702; Interest expense on interest-bearing deposits for the current YTD was $1.90 billion, an increase of $1.04 billion or 121% from $863 million for the prior YTD. The increase largely resulted from paying or accruing interest expense on the acquired SVBB deposits for the current YTD and the partial prior YTD. Organic interest-bearing deposit growth in our General Bank and SVB Commercial segments and higher rates paid on average interest-bearing deposits also significantly contributed to the increase. 
+
+&#9702; Interest expense on borrowings for the current YTD was $673 million, an increase of $183 million or 37% from $490 million for the prior YTD. The increase was mainly the result of interest expense on the Purchase Money Note for the current YTD and the partial prior YTD. 
+
+&#8226; NIM for the current YTD was 3.66%, a decrease of 21 bps from 3.87% for the prior YTD. The decreases in NIM from higher average balances of interest-bearing deposits and the Purchase Money Note and higher rates paid on deposits were partially offset by higher average balances and yields on loans and investment securities. NIM, excluding PAA, was 3.36% for the current YTD compared to 3.49% for the prior YTD. 
+
+&#8226; Average interest-earning assets for the current YTD were $199.65 billion, an increase of $53.49 billion or 37% from $146.15 billion for the prior YTD. The increase was largely due to including the acquired SVBB loans in average interest-earning assets for the current YTD and the partial prior YTD. Organic loan growth and the previously discussed purchases of investment securities also contributed to the increase in average interest-earning assets. The yield on average interest-earning assets was 6.25% in the current YTD, an increase of 52 bps from the prior YTD, primarily due to the higher interest rate environment as yields increased across all interest-earning asset classes. 
+
+&#8226; Average interest-bearing liabilities for the current YTD were $147.01 billion, an increase of $42.54 billion or 41% from $104.48 billion in the prior YTD. The increase was largely due to including the acquired SVBB interest-bearing deposits and the Purchase Money Note in average interest-bearing liabilities for the current YTD and the partial prior YTD. The rate paid on average interest-bearing liabilities was 3.52%, an increase of 92 bps from the prior YTD, primarily due to a higher rate paid on average interest-bearing deposits, partially offset by the impact of paying off FHLB borrowings in the prior year quarter. 
+
+The following table includes the average interest-earning assets by category: 
+
+Table 8 
+
+Average Interest-earning Asset Mix 
+
+% of Average Interest-earning Assets Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Loans and leases 68 % 67 % 70 % 67 % 71 % Investment securities 18 16 10 17 13 Interest-earning deposits at banks 14 17 20 16 16 Total interest-earning assets 100 % 100 % 100 % 100 % 100 % 
+
+The following table shows our average interest-bearing liability mix: 
+
+Table 9 
+
+Average Interest-bearing Liability Mix 
+
+% of Average Interest-bearing Liabilities Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Total interest-bearing deposits 75 % 74 % 68 % 75 % 75 % Securities sold under customer repurchase agreements &#8212; &#8212; &#8212; &#8212; 1 Long-term borrowings 25 26 32 25 24 Total interest-bearing liabilities 100 % 100 % 100 % 100 % 100 % 
+
+Provision for Credit Losses 
+
+The provision for credit losses for the current quarter was $95 million, an increase of $31 million or 50% from $64 million for the linked quarter. The $31 million increase was mainly related to a $29 million lower benefit for off-balance sheet credit exposure as the pace of decline for unfunded commitment volumes slowed relative to the linked quarter. 
+
+The provision for credit losses for the current YTD was $159 million, a decrease of $775 million or 83% from $934 million for the prior YTD. The decrease was primarily related to the day 2 provisions for credit losses of $716 million in the prior YTD, lower reserves for individually evaluated loans, and changes in the macroeconomic forecast. 
+
+The ALLL and net charge-offs are further discussed in the &#8220;Risk Management&#8212;Credit Risk&#8212;Allowance for Loan and Lease Losses&#8221; and &#8220;Credit Metrics&#8221; in this MD&#38;A and in Note 5&#8212;Allowance for Loan and Lease Losses. 
+
+Table 10 
+
+Provision for Credit Losses 
+
+dollars in millions Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Day 2 provision for loan and lease losses $ &#8212; $ &#8212; $ &#8212; $ &#8212; $ 462 
+
+Provision for loan and lease losses 
+
+95 93 169 188 240 Total provision for loan and lease losses 95 93 169 188 702 Day 2 provision for off-balance sheet credit exposure &#8212; &#8212; &#8212; &#8212; 254 Benefit for off-balance sheet credit exposure &#8212; (29) (17) (29) (25) Total (benefit) provision for off-balance sheet credit exposure &#8212; (29) (17) (29) 229 (Benefit) provision for investment securities available for sale credit losses &#8212; &#8212; (1) &#8212; 3 Provision for credit losses $ 95 $ 64 $ 151 $ 159 $ 934 
+
+Noninterest Income 
+
+Noninterest income is an essential part of our total revenue. The primary sources of noninterest income consist of rental income on operating lease equipment, fee income and other service charges, client investment fees, wealth management services, international fees, service charges generated from deposit accounts, factoring commissions, cardholder and merchant services, and insurance commissions. 
+
+Table 11 
+
+Noninterest Income 
+
+dollars in millions Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Rental income on operating lease equipment $ 259 $ 255 $ 238 $ 514 $ 471 Other noninterest income: Fee income and other service charges 77 75 70 152 117 Client investment fees 54 50 52 104 54 Wealth management services 52 51 51 103 91 International fees 30 28 29 58 33 Service charges on deposit accounts 44 44 44 88 68 Factoring commissions 19 17 20 36 39 Cardholder services, net 40 40 41 80 62 Merchant services, net 12 12 14 24 24 Insurance commissions 13 15 14 28 27 Realized loss on sale of investment securities available for sale, net &#8212; &#8212; &#8212; &#8212; (14) Fair value adjustment on marketable equity securities, net (2) (4) (10) (6) (19) Gain on sale of leasing equipment, net 4 10 4 14 8 Gain on acquisition &#8212; &#8212; 55 &#8212; 9,879 Loss on extinguishment of debt &#8212; (2) &#8212; (2) &#8212; Other noninterest income 37 36 36 73 77 Total other noninterest income 380 372 420 752 10,446 Total noninterest income $ 639 $ 627 $ 658 $ 1,266 $ 10,917 
+
+Rental Income on Operating Lease Equipment 
+
+Rental income on operating lease equipment was $259 million for the current quarter, an increase of $4 million or 1% from $255 million for the linked quarter. Rental income on operating lease equipment was $514 million for the current YTD, an increase of $43 million or 9% from $471 million for the prior YTD. Both current quarter and current YTD periods benefited from growth in operating lease equipment, as well as strong re-pricing and utilization rates in the rail portfolio. Rental income is generated primarily in the Rail segment and, to a lesser extent, in the Commercial Bank segment. Revenue is generally dictated by the size of the portfolio, utilization of the railcars, re-pricing of equipment renewed upon lease maturities, and pricing on new leases. Re-pricing refers to the rental rate in the renewed equipment contract compared to the prior contract. Refer to the Rail segment discussion in the &#8220;Results by Business Segment&#8221; section of this MD&#38;A for further details. 
+
+Other Noninterest Income 
+
+Other noninterest income for the current quarter was $380 million, an increase of $8 million from $372 million for the linked quarter. The changes compared to the linked quarter reflect increases and decreases among the various noninterest income categories, with the main items described as follows: 
+
+&#8226; Fee income and other service charges, consisting of items such as capital market-related fees, fees for lines and letters of credit, and servicing fees, increased by $2 million, mainly due to higher fees on lines and letters of credit. 
+
+&#8226; The $4 million increase in client investment fees was mainly related to higher average off-balance sheet client funds in the SVB Commercial segment. 
+
+&#8226; The $2 million increase in international fees, which relate to commissions on customer foreign currency transactions, was primarily related to increased transaction volumes. 
+
+&#8226; The $2 million increase in factoring commissions was primarily due to seasonality in the portfolio as the current quarter has higher volume compared to slower post holiday activity in the linked quarter. 
+
+&#8226; Fair value adjustments on marketable equity securities reflect changes in market prices of underlying portfolio investments. 
+
+&#8226; The $6 million decrease in gain on sale of leasing equipment reflects lower gains from equipment finance, as well as lower railcar scrapping activity. 
+
+&#8226; The linked quarter included a $2 million loss on extinguishment of debt. 
+
+&#8226; Other noninterest income consisted of items such as derivative gains and losses and income from non-marketable securities. 
+
+Other noninterest income for the current YTD was $752 million, a decrease of $9.69 billion from $10.45 billion for the prior YTD. The decrease was mostly due to the gain on acquisition of $9.88 billion in the prior YTD, partially offset by increases in various components of noninterest income, mostly because the acquired SVBB operations were reflected in earnings for the current YTD and the partial prior YTD . 
+
+Noninterest Expense 
+
+Noninterest expense includes depreciation on operating lease equipment, maintenance and other operating lease expenses, and operating expenses. 
+
+Table 12 
+
+Noninterest Expense 
+
+dollars in millions Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Depreciation on operating lease equipment $ 98 $ 96 $ 91 $ 194 $ 180 Maintenance and other operating lease expenses 60 45 56 105 112 Operating expenses: Salaries and benefits 745 744 775 1,489 1,195 Net occupancy expense 58 62 64 120 114 Equipment expense 126 114 133 240 191 Professional fees 24 25 20 49 31 Third-party processing fees 58 60 55 118 85 FDIC insurance expense 33 41 22 74 40 Marketing expense 18 14 41 32 56 Acquisition-related expenses 44 58 205 102 233 Intangible asset amortization 15 17 18 32 23 Other noninterest expense 107 100 92 207 167 Total operating expenses 1,228 1,235 1,425 2,463 2,135 Total noninterest expense $ 1,386 $ 1,376 $ 1,572 $ 2,762 $ 2,427 
+
+Depreciation on Operating Lease Equipment 
+
+Depreciation expense on operating lease equipment is primarily related to rail equipment and small and large ticket equipment we own and lease to others. The increases in depreciation expense for the current quarter and current YTD compared to the linked quarter and prior YTD are primarily due to the higher operating lease equipment balance. Operating lease activity is in the Rail and Commercial Bank segments. The useful lives of rail equipment is generally longer in duration, 40-50 years, whereas small and large ticket equipment is generally 3-10 years. Refer to the Rail segment discussion in the section entitled &#8220;Results by Business Segment&#8221; of this MD&#38;A for further details. 
+
+Maintenance and Other Operating Lease Expenses 
+
+The Rail segment leases railcars, primarily pursuant to full-service lease contracts under which we, as lessor, are responsible for railcar maintenance and repair. Maintenance and other operating lease expenses for the current quarter were $60 million, an increase of $15 million, or 36%, from $45 million for the linked quarter. Maintenance and other operating lease expenses for the current YTD were $105 million, a decrease of $7 million or 6% from $112 million for the prior YTD. Maintenance and other operating lease expenses relate to equipment ownership and leasing costs associated with the railcar portfolio and tend to be variable due to timing and number of railcars coming on or off lease and the asset condition. Refer to the Rail segment discussion in the section entitled &#8220;Results by Business Segment&#8221; of this MD&#38;A for further details. 
+
+Operating Expenses 
+
+The primary components of operating expenses are salaries and benefits, net occupancy expense, and equipment expenses. Operating expenses for the current quarter were $1.23 billion, a decrease of $7 million or 1% compared to $1.24 billion in the linked quarter. The main components of the decrease in operating expenses for the current quarter compared to the linked quarter are summarized below: 
+
+&#8226; The $4 million decrease in net occupancy expense reflected decreased external bank building rent as a result of continued consolidation of office space. 
+
+&#8226; The $12 million increase in equipment expense was primarily related to increased software maintenance and rent. 
+
+&#8226; The $8 million decrease in total FDIC insurance expense was mainly the result of a $9 million FDIC insurance special assessment recorded in the linked quarter compared to a $2 million special assessment in the current quarter. 
+
+&#8226; The $4 million increase in marketing costs reflected higher spending on digital marketing associated with the Direct Bank and an increase in corporate advertising. 
+
+&#8226; Acquisition-related expenses decreased $14 million as shown in Table 13 below. 
+
+&#8226; Other expenses consisted of other insurance and taxes (other than income tax), learning and development, contributions, and other miscellaneous expenses including travel, postage, supplies, and appraisal expense. Changes in these individual items were not material. 
+
+Operating expenses for the current YTD were $2.46 billion, an increase of $328 million or 15% compared to $2.14 billion in the prior YTD. The increase was primarily due to the inclusion of the acquired SVBB operations for the current YTD and the partial prior YTD, which included a $294 million increase in salaries and benefits and a $49 million increase in equipment expense, partially offset by lower acquisition-related and marketing expenses. The $24 million decrease in marketing costs mostly reflected higher advertising costs to support deposit growth in the Direct Bank in the prior YTD. 
+
+The following table presents the major components of acquisition-related expenses: 
+
+Table 13 
+
+Acquisition-related expenses 
+
+dollars in millions Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Salaries and benefits $ 12 $ 29 $ 164 $ 41 $ 177 Professional fees 23 26 22 49 35 Other acquisition-related expense 9 3 19 12 21 Total acquisition-related expense $ 44 $ 58 $ 205 $ 102 $ 233 
+
+Salaries and benefits primarily includes severance and retention costs for employees associated with business combinations. These amounts are recognized over the requisite service period, if any. 
+
+Professional fees mainly include consulting, legal and accounting costs associated with business combinations and the related integration, optimization, and business process reengineering. These amounts are expensed as incurred. 
+
+Income Taxes 
+
+Table 14 
+
+Income Tax Data 
+
+dollars in millions Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Income before income taxes $ 979 $ 1,004 $ 896 $ 1,983 $ 10,367 Income tax expense $ 272 $ 273 $ 214 $ 545 $ 167 Effective tax rate 27.8 % 27.2 % 23.9 % 27.5 % 1.6 % 
+
+The effective tax rate (&#8220;ETR&#8221;) was 27.8% for the current quarter compared to 27.2% in the linked quarter. The increase in the ETR for the current quarter compared to the linked quarter was primarily due to state tax law changes enacted in the second quarter of 2024 that impacted the valuation of gross temporary differences. The ETR was 27.5% for the current YTD compared to 1.6% for the prior YTD. The increase for the current YTD ETR compared to the prior YTD was primarily due to the non-taxable nature of the gain on the SVBB Acquisition in the prior YTD. 
+
+The ETR is impacted by a number of factors, including the relative mix of domestic and international earnings, effects of changes in enacted tax laws, adjustments to valuation allowances, and discrete items. The ETR in future periods may vary from the current quarter ETR due to changes in these factors. 
+
+BancShares monitors and evaluates the potential impact of current events on the estimates used to establish income tax expense and income tax liabilities. On a periodic basis, we evaluate our income tax positions based on current tax law and positions taken by various tax auditors within the jurisdictions where BancShares is required to file income tax returns, as well as potential or pending audits or assessments by tax auditors. Refer to Note 18&#8212;Income Taxes for additional information. 
+
+RESULTS BY BUSINESS SEGMENT 
+
+We made changes to our segment reporting during the first quarter of 2024 as further discussed in Note 1&#8212;Significant Accounting Policies and Basis of Presentation. Segment disclosures for 2023 periods included in this Form 10-Q were recast to reflect the segment reporting changes. 
+
+BancShares&#8217; segments include General Bank, Commercial Bank, SVB Commercial, and Rail. All other financial information not allocated to the segments is included in the &#8220;Corporate&#8221; section of the segment disclosures. Refer to Note 20&#8212;Business Segment Information for the segment descriptions. 
+
+General Bank 
+
+Table 15 
+
+General Bank: Financial Data 
+
+dollars in millions Three Months Ended Six Months Ended Earnings Summary June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Net interest income $ 738 $ 691 $ 659 $ 1,429 $ 1,208 Provision for credit losses 55 28 5 83 15 Net interest income after provision for credit losses 683 663 654 1,346 1,193 Noninterest income 152 145 135 297 253 Noninterest expense 497 520 469 1,017 867 Income before income taxes 338 288 320 626 579 Income tax expense 93 78 77 171 137 Net income $ 245 $ 210 $ 243 $ 455 $ 442 Select Period End Balances Loans and leases $ 65,195 $ 63,732 $ 59,651 Deposits 71,479 71,150 69,863 
+
+General Bank segment net income for the current quarter increased $35 million from the linked quarter. Segment NII increased $47 million compared to the linked quarter due to higher interest income from loan growth, which offset higher interest expense for deposits. The higher provision for credit losses was primarily due to reserve build for certain loan portfolios, such as private banking loans in the SVB portfolio. The $7 million improvement in noninterest income was mostly in cardholder services and service charges on deposits. Noninterest expense decreased $23 million, mainly due to lower salaries and benefits. Noninterest income and expense are discussed in their respective sections entitled &#8220;Noninterest Income&#8221; and &#8220;Noninterest Expense&#8221; of this MD&#38;A. 
+
+General Bank segment net income for the current YTD increased $13 million compared to the prior YTD. The acquired SVBB operations, including SVB Private which is in the General Bank segment, were reflected in earnings for the current YTD and the partial prior YTD . The higher provision for credit losses in the current YTD was mainly due to loan growth and a reserve build as a result of then higher charge-offs and unfavorable trends in certain macroeconomic variables. 
+
+The $1.46 billion increase in loans and leases compared to the linked quarter is mainly due to commercial and business loans in our Branch Network. Our consumer mortgage loans were relatively unchanged as we continued to originate and sell rather than hold for investment. 
+
+Deposits in the General Bank segment primarily include deposits from the Branch Network, as well as Wealth and Community Association Banking channels. The $329 million increase in deposits compared to the linked quarter was primarily in the Branch Network. 
+
+Commercial Bank 
+
+Table 16 
+
+Commercial Bank: Financial Data 
+
+dollars in millions Three Months Ended Six Months Ended Earnings Summary June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Net interest income $ 279 $ 270 $ 258 $ 549 $ 496 Provision for credit losses 22 14 169 36 222 Net interest income after provision for credit losses 257 256 89 513 274 Noninterest income 131 136 137 267 280 Noninterest expense 221 228 199 449 409 Income before income taxes 167 164 27 331 145 Income tax expense 44 42 11 86 41 Net income $ 123 $ 122 $ 16 $ 245 $ 104 Select Period End Balances Loans and leases $ 32,116 $ 31,730 $ 29,170 Operating lease equipment, net 767 763 741 Deposits 2,958 3,023 3,067 
+
+Commercial Bank segment net income for the current quarter increased $1 million from the linked quarter. Segment NII increased $9 million compared to the linked quarter reflecting loan growth and higher yields, partially offset by higher interest expense on deposits. The $8 million increase in provision for credit losses compared to the linked quarter was primarily due to a $12 million increase in net charge-offs, primarily in Equipment Finance and Commercial Finance portfolios. Noninterest income decreased $5 million reflecting items such as lower loan gain on sale of leasing equipment, partially offset by higher factoring commissions. Noninterest expense decreased $7 million as the linked quarter included higher salary and benefit costs. Noninterest income and noninterest expense are discussed in the sections entitled &#8220;Noninterest Income&#8221; and &#8220;Noninterest Expense&#8221; of this MD&#38;A. 
+
+Commercial Bank segment net income for the current YTD increased $141 million compared to the prior YTD, mainly due to the $186 million decrease in provision for credit losses. The higher provision for credit losses in the prior YTD was mainly due to loan growth and a reserve build as a result of then higher charge-offs and unfavorable trends in certain macroeconomic variables. 
+
+The $386 million increase in loans and leases compared to the linked quarter reflects strong origination volume in a number of industries, including TMT and healthcare, partially offset by a decline in real estate finance. 
+
+SVB Commercial 
+
+Table 17 
+
+SVB Commercial: Financial Data 
+
+dollars in millions Three Months Ended Six Months Ended Earnings Summary June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Net interest income $ 577 $ 546 $ 554 $ 1,123 $ 591 Provision (benefit) for credit losses 18 22 (22) 40 (22) Net interest income after provision for credit losses 559 524 576 1,083 613 Noninterest income 139 137 145 276 154 Noninterest expense 387 384 464 771 487 Income before income taxes 311 277 257 588 280 Income tax expense 85 75 70 160 75 Net income $ 226 $ 202 $ 187 $ 428 $ 205 Select Period End Balances Loans and leases $ 41,968 $ 39,846 $ 44,130 Deposits 35,891 34,014 37,092 
+
+SVB Commercial segment net income for the current quarter increased $24 million from the linked quarter. NII increased $31 million due to higher interest income mainly resulting from loan growth, partially offset by higher interest expense mostly due to deposit growth. The provision for credit losses decreased $4 million, primarily the result of a mix shift to the global fund banking portfolio, which has lower loss rates relative to our other loan portfolios. Noninterest income and noninterest expense increased over the linked quarter by $2 million and $3 million, respectively, and are discussed in the sections entitled &#8220;Noninterest Income&#8221; and &#8220;Noninterest Expense&#8221; of this MD&#38;A. 
+
+SVB Commercial segment net income for the current YTD increased $223 million compared to the prior YTD. The acquired SVBB operations were reflected in earnings for the current YTD and the partial prior YTD . 
+
+Loans totaled $41.97 billion at June 30, 2024, an increase from $39.85 billion at December 31, 2023. The $2.12 billion increase was due to growth in global fund banking loans, partially offset by declines in investor dependent loans. 
+
+Deposits totaled $35.89 billion at June 30, 2024, an increase from $34.01 billion at December 31, 2023, mainly due to slight improvement in the macroeconomic environment and increases in client acquisitions . 
+
+Rail 
+
+Table 18 
+
+Rail: Financial Data 
+
+dollars in millions Three Months Ended Six Months Ended Earnings Summary June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Rental income on operating leases $ 201 $ 198 $ 180 $ 399 $ 355 Less: depreciation on operating lease equipment 51 50 47 100 94 Less: maintenance and other operating lease expenses 60 45 56 105 112 Adjusted rental income on operating lease equipment (1) 
+
+90 103 77 194 149 Interest expense, net 45 43 33 88 61 Noninterest income 2 4 (2) 6 (1) Noninterest expense 18 20 18 39 34 Income before income taxes 29 44 24 73 53 Income tax expense 8 11 6 19 13 Net income $ 21 $ 33 $ 18 $ 54 $ 40 Select Period End Balances Loans and leases $ 62 $ 62 $ 64 Operating lease equipment, net 8,178 8,048 7,790 Deposits 10 14 11 
+
+(1) Adjusted rental income on operating lease equipment is a non-GAAP measure. See the &#8220;Non-GAAP Financial Measures&#8221; section of this MD&#38;A for a reconciliation from the most comparable GAAP measure to the non-GAAP measure. 
+
+Rail segment net income, rental income on operating leases and adjusted rental income on operating lease equipment are utilized to measure the profitability of our Rail segment. Adjusted rental income on operating lease equipment is calculated as rental income on operating lease equipment reduced by depreciation, maintenance and other operating lease expenses. Maintenance and other operating lease expenses relate to equipment ownership and leasing costs associated with the portfolio and tend to be variable. Due to the nature of our portfolio, which is essentially all operating lease equipment, certain financial measures commonly used by banks, such as NII, are not as meaningful for this segment. NII is not used because it includes the impact of debt costs funding our operating lease assets but excludes the associated net rental income. 
+
+Rail segment net income, rental income on operating leases and adjusted rental income on operating lease equipment for the current quarter were $21 million, $201 million, and $90 million, respectively. Rail segment net income for the current quarter decreased $12 million from the linked quarter, mostly reflecting higher maintenance and other operating lease expenses. Maintenance and other operating lease expenses tend to be variable due to timing and number of railcars coming on or off lease and the asset condition. Noninterest income primarily reflects net gains on sale of leasing equipment. Rental income on operating leases increased $3 million, largely as a result of growth of our railcar fleet, along with strong re-pricing. Railcar depreciation is recognized on a straight-line basis over the estimated useful life of the asset. 
+
+Segment net income for the current YTD compared to the prior YTD increased $14 million, mostly due to higher rental income on operating leases. Adjusted rental income on operating leases for the current YTD compared to the prior YTD increased $45 million due to portfolio growth. See the &#8220;Non-GAAP Financial Measures&#8221; section of this MD&#38;A for a reconciliation from the most comparable GAAP measure to the non-GAAP measure. 
+
+Our fleet is diverse and the average re-pricing of equipment upon lease maturities was 122% of the average prior or expiring lease rate during the second quarter of 2024. Our fleet is effectively fully utilized. Railcar utilization, including commitments to lease, remain strong at 98.8% at June 30, 2024 and 98.7% at December 31, 2023. 
+
+Portfolio 
+
+Rail segment customers include all of the U.S. and Canadian Class I railroads (i.e., railroads with annual revenues of approximately $500 million and greater) and other railroads, as well as manufacturers and commodity shippers. Our total operating lease fleet at June 30, 2024 consisted of approximately 123,200 railcars and locomotives. 
+
+The following tables reflect the proportion of railcars by type based on units and net investment, and rail operating lease equipment by obligor industry: 
+
+Table 19 
+
+Operating lease Railcar Portfolio by Type (units and net investment) 
+
+June 30, 2024 March 31, 2024 December 31, 2023 Railcar Type Total Owned Fleet - % Total Units Total Owned Fleet - % Total Net Investment Total Owned Fleet - % Total Units Total Owned Fleet - % Total Net Investment Total Owned Fleet - % Total Units Total Owned Fleet - % Total Net Investment Covered hoppers 45 % 42 % 45 % 42 % 45 % 42 % Tank cars 27 38 27 38 27 38 Mill/ coil gondolas 8 7 8 7 8 7 Coal 7 1 7 1 7 1 Boxcars 6 6 6 6 6 6 Other 7 6 7 6 7 6 Total 100 % 100 % 100 % 100 % 100 % 100 % 
+
+Table 20 
+
+Rail Operating Lease Equipment by Obligor Industry 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Manufacturing $ 3,392 41 % $ 3,297 41 % $ 3,281 41 % Rail 1,815 22 1,847 23 1,889 24 Wholesale 1,351 17 1,250 15 1,217 15 Oil and gas extraction / services 620 8 642 8 573 7 Energy and utilities 225 3 225 3 230 3 Other 775 9 787 10 776 10 Total $ 8,178 100 % $ 8,048 100 % $ 7,966 100 % 
+
+Corporate 
+
+Table 21 
+
+Corporate: Financial Data 
+
+dollars in millions Three Months Ended Six Months Ended Earnings Summary June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Net interest income $ 272 $ 353 $ 523 $ 625 $ 577 (Benefit) provision for credit losses &#8212; &#8212; (1) &#8212; 719 Net interest income (expense) after provision for credit losses 272 353 524 625 (142) Noninterest income 14 7 63 21 9,875 Noninterest expense 152 129 319 281 423 Income before income taxes 134 231 268 365 9,310 Income tax expense (benefit) 42 67 50 109 (99) Net income $ 92 $ 164 $ 218 $ 256 $ 9,409 Select Period End Balances Deposits $ 40,741 $ 41,408 $ 31,131 
+
+Current quarter net income and income before income taxes for Corporate decreased $72 million and $97 million, respectively, from the linked quarter. 
+
+NII decreased $81 million from the linked quarter, mainly from a $70 million decrease in interest income on interest-earning deposits at banks, a $22 million decrease in loan accretion income, and a $10 million increase in interest expense on interest-bearing deposits, which were partially offset by an increase in interest income on investment securities. Refer to the &#8220;Net Interest Income and Net Interest Margin&#8221; section of this MD&#38;A for further discussion. 
+
+Corporate noninterest income increased $7 million from the linked quarter, primarily related to a $2 million improvement from the linked quarter for the fair value adjustment on marketable equity securities and a $2 million loss on extinguishment of debt incurred in the linked quarter. 
+
+Corporate noninterest expense increased $23 million from the linked quarter, mainly from higher personnel costs and increased equipment expense, partially offset by lower acquisition-related expenses and FDIC insurance expense. Acquisition-related expenses were $44 million in the current quarter compared to $58 million in the linked quarter. Noninterest income and noninterest expense are discussed in the sections entitled &#8220;Noninterest Income&#8221; and &#8220;Noninterest Expense&#8221; of this MD&#38;A. 
+
+Corporate net income for the current YTD decreased $9.15 billion compared to the prior YTD, which included the gain on acquisition of $9.88 billion, day 2 provisions for credit losses of $716 million, and higher acquisition-related expenses. The prior YTD also included a $3 million provision for investment securities available for sale credit losses. 
+
+The income tax rates for the prior year periods were impacted by the gain on acquisition. Refer to the &#8220;Income Taxes&#8221; section of this MD&#38;A for further discussion. 
+
+Corporate deposits primarily consist of deposits in our Direct Bank and brokered deposits. The $667 million decrease from the linked quarter was primarily due to lower brokered deposits. 
+
+BALANCE SHEET ANALYSIS 
+
+Interest-earning Assets 
+
+Interest-earning assets include interest-earning deposits at banks, securities purchased under agreement to resell, investment securities, loans held for sale, and loans and leases, all of which reflect varying interest rates based on the risk level and repricing characteristics of the underlying asset. Higher-risk investments typically carry a higher interest rate, but expose us to higher levels of market and/or credit risk. We strive to maintain a high level of interest-earning assets relative to total assets while keeping non-earning assets at a minimum. 
+
+Interest-earning Deposits at Banks 
+
+Interest-earning deposits at banks are primarily comprised of interest-bearing deposits with the FRB. Interest-earning deposits at banks as of June 30, 2024 totaled $25.36 billion, a decrease of $8.25 billion or 25% from $33.61 billion at December 31, 2023 and a decrease of $5.43 billion or 18% from $30.79 billion at March 31, 2024. The decrease from December 31, 2023 is related to continued liquidity and funding management as we grew deposits and purchased investment securities. 
+
+Securities Purchased Under Agreement to Resell 
+
+Securities purchased under agreement to resell at June 30, 2024 totaled $392 million, a decrease of $81 million from $473 million at December 31, 2023 and a decrease of $2 million from $394 million at March 31, 2024. 
+
+Investment Securities 
+
+The primary objective of the investment portfolio is to generate incremental income by deploying excess funds into securities that have minimal liquidity risk and low to moderate interest rate risk and credit risk. Other objectives include acting as a stable source of liquidity, serving as a tool for asset and liability management and maintaining an interest rate risk profile compatible with our objectives. Additionally, purchases of equities and corporate bonds in other financial institutions have been made under a long-term earnings optimization strategy. Changes in the total balance of our investment securities portfolio result from trends in balance sheet funding and market performance. Generally, when inflows arising from deposit and treasury services products exceed loan and lease demand, we invest excess funds into the securities portfolio or into interest-earning deposits at banks. Conversely, when loan demand exceeds growth in deposits and short-term borrowings, we allow interest-earning deposits at banks to decline and use proceeds from maturing securities and prepayments to fund loan growth. Refer to Note 3&#8212;Investment Securities and the &#8220;Funding, Liquidity and Capital Overview&#8221; in the &#8220;Executive Overview&#8221; section of this MD&#38;A for additional disclosures regarding investment securities. 
+
+The carrying value of investment securities at June 30, 2024 totaled $37.67 billion, an increase of $7.67 billion or 26% from $30.00 billion at December 31, 2023 and an increase of $2.62 billion or 8% from $35.04 billion at March 31, 2024. The increase from December 31, 2023 reflected purchases that totaled $11.55 billion, which were primarily U.S agency residential mortgage-backed and short-duration U.S. Treasury investment securities, partially offset by maturities and paydowns of $3.67 billion. The change also included non-cash items, such as amortization, accretion, and fair value changes for investment securities available for sale and marketable equity securities. 
+
+Our portfolio of investment securities available for sale consists of mortgage-backed securities issued by government agencies and government sponsored entities, U.S. Treasury securities, unsecured bonds issued by government agencies and government sponsored entities, corporate bonds, and municipal bonds. Investment securities available for sale are reported at fair value and unrealized gains and losses are included as a component of accumulated other comprehensive income, net of deferred taxes. As of June 30, 2024, investment securities available for sale had a net pretax unrealized loss of $906 million, compared to a net pretax unrealized loss of $752 million as of December 31, 2023, reflecting the impacts of market interest rates. The fair value of investment securities is impacted by interest rates, credit spreads, market volatility and liquidity conditions. The fair value of the investment securities portfolio generally decreases when interest rates increase or when credit spreads widen. Given the consistently strong credit rating of the U.S. Treasury, and the long history of no credit losses on debt securities issued by government agencies and government sponsored entities, no allowance for credit loss was required as of June 30, 2024. For corporate bonds, we analyzed the changes in interest rates relative to when the investment securities were purchased or acquired, and considered other factors including changes in credit ratings, delinquencies, and other macroeconomic factors. We determined no allowance for credit loss was required as of June 30, 2024. 
+
+Our portfolio of investment securities held to maturity consists of similar mortgage-backed securities, U.S. Treasury securities and government agency securities described above, as well as securities issued by the Supranational Entities &#38; Multilateral Development Banks and FDIC guaranteed certificates of deposit with other financial institutions. Given the consistently strong credit rating of the U.S. Treasury and the Supranational Entities &#38; Multilateral Development Banks, and the long history of no credit losses on debt securities issued by government agencies and government sponsored entities, we determined that no allowance for credit loss was required for investment securities held to maturity at June 30, 2024. 
+
+The following table presents the investment securities portfolio, segregated by major category: 
+
+Table 22 
+
+Investment Securities 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Composition (1) 
+
+Amortized Cost Fair Value 
+
+Composition (1) 
+
+Amortized cost Fair 
+
+value 
+
+Composition (1) 
+
+Amortized Cost Fair Value 
+
+Investment securities available for sale: U.S. Treasury 32.6 % $ 11,818 $ 11,751 35.4 % $ 11,907 $ 11,836 36.8 % $ 10,554 $ 10,508 Government agency 0.3 99 97 0.3 110 107 0.4 120 117 Residential mortgage-backed securities 33.2 12,561 11,975 30.2 10,665 10,110 23.4 7,154 6,686 Commercial mortgage-backed securities 7.6 2,938 2,727 7.1 2,566 2,361 7.5 2,319 2,131 Corporate bonds 1.3 526 486 1.5 529 487 1.7 529 482 Municipal bonds &#8212; 17 17 &#8212; 14 14 &#8212; 12 12 Total investment securities available for sale 75.0 % $ 27,959 $ 27,053 74.5 % $ 25,791 $ 24,915 69.8 % $ 20,688 $ 19,936 Investment in marketable equity securities 0.2 % $ 75 $ 78 0.2 % $ 75 $ 79 0.3 % $ 75 $ 84 Investment securities held to maturity: U.S. Treasury 1.2 % $ 481 $ 440 1.3 $ 480 $ 438 1.5 % $ 479 $ 439 Government agency 3.8 1,510 1,367 4.1 1,508 1,358 4.9 1,506 1,363 Residential mortgage-backed securities 11.4 4,793 4,093 10.7 4,293 3,596 12.5 4,205 3,561 Commercial mortgage-backed securities 7.7 3,450 2,782 8.4 3,469 2,824 10.1 3,489 2,875 Supranational securities 0.7 299 262 0.8 298 261 0.9 298 263 Other &#8212; 2 2 &#8212; 2 2 &#8212; 2 2 Total investment securities held to maturity 24.8 % $ 10,535 $ 8,946 25.3 % $ 10,050 $ 8,479 29.9 % $ 9,979 $ 8,503 Total investment securities 100.0 % $ 38,569 $ 36,077 100.0 % $ 35,916 $ 33,473 100.0 % $ 30,742 $ 28,523 (1) Calculated as a percentage of the total fair value of investment securities. 
+
+The following table presents the weighted average yields for investment securities available for sale and held to maturity at June 30, 2024, segregated by major category with ranges of contractual maturities. The weighted average yield on the portfolio was calculated using security-level annualized yields. 
+
+Table 23 
+
+Weighted Average Yield on Investment Securities 
+
+June 30, 2024 Within One Year One to Five Years Five to 10 Years After 10 Years Total Investment securities available for sale: U.S. Treasury 4.25 % 4.48 % &#8212; % &#8212; % 4.37 % Government agency &#8212; 4.72 5.18 4.82 5.11 Residential mortgage-backed securities (1) 
+
+5.59 4.10 4.85 3.76 3.90 Commercial mortgage-backed securities (1) 
+
+5.00 4.78 5.58 3.26 4.10 Corporate bonds 5.62 5.26 5.35 6.13 5.34 Municipal bonds &#8212; &#8212; &#8212; 8.00 8.00 Total investment securities available for sale 4.28 % 4.54 % 5.01 % 3.70 % 4.15 % Investment securities held to maturity: U.S. Treasury &#8212; % 1.37 % 1.57 % &#8212; % 1.38 % Government agency 0.91 1.42 1.88 &#8212; 1.53 Residential mortgage-backed securities (1) 
+
+&#8212; &#8212; 2.64 2.43 2.43 Commercial mortgage-backed securities (1) 
+
+&#8212; 2.45 1.88 2.62 2.62 Supranational securities &#8212; 1.35 1.68 &#8212; 1.56 Other 3.84 &#8212; &#8212; &#8212; 3.84 Total investment securities held to maturity 1.08 % 1.40 % 1.80 % 2.51 % 2.29 % 
+
+(1) Residential mortgage-backed and commercial mortgage-backed securities, which are not due at a single maturity date, have been included in maturity groupings based on the contractual maturity at June 30, 2024. The expected life will differ from contractual maturities because borrowers have the right to prepay the underlying loans. 
+
+Assets Held for Sale 
+
+Certain residential mortgage loans and commercial loans are originated with the intent to be sold to investors or lenders, respectively, and are recorded in assets held for sale at fair value. In addition, BancShares may change its strategy for certain loans initially held for investment and decide to sell them in the secondary market. At that time, portfolio loans are transferred to loans held for sale at the lower of cost or market value (&#8220;LOCOM&#8221;). When we decide to sell operating lease equipment, it is transferred to assets held for sale at LOCOM. 
+
+Assets held for sale at June 30, 2024 were $92 million, an increase of $16 million or 21% from $76 million at December 31, 2023 and an increase of $6 million or 6% from $86 million at March 31, 2024. 
+
+Table 24 
+
+Assets Held for Sale 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Loans and leases: Commercial $ 20 $ 33 $ 26 Consumer 67 50 38 SVB &#8212; &#8212; 9 Loans and leases 87 83 73 Operating lease equipment 5 3 3 Total assets held for sale $ 92 $ 86 $ 76 
+
+Loans and Leases 
+
+We updated our loan classes during the first quarter of 2024 as further discussed in Note 1&#8212;Significant Accounting Policies and Basis of Presentation. Loan and lease and ALLL disclosures for 2023 periods included in this Form 10-Q were recast to reflect the changes in loan classes. 
+
+Loans and leases held for investment at June 30, 2024 were $139.34 billion, an increase of $6.04 billion or 5% from $133.30 billion at December 31, 2023 and an increase of $3.97 billion or 3% from $135.37 billion at March 31, 2024. The increase from December 31, 2023 mostly reflects growth in commercial loans and SVB loans, while consumer loans were modestly higher. The increase of $2.80 billion in commercial loans was led by growth in commercial and industrial loans. Within the SVB loan classes, the $2.46 billion growth was primarily attributed to the global fund banking portfolio, partially offset by declines in investor dependent loans. The consumer loan growth of $784 million was mostly in residential mortgages. 
+
+Refer to the &#8220;Results by Business Segments&#8221; section of this MD&#38;A for further information. 
+
+The following table presents loans and leases by loan segment and loan class, and the respective proportion to total loans: 
+
+Table 25 
+
+Loans and Leases 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Balance % to Total Loans Balance % to Total Loans Balance % to Total Loans Commercial: Commercial construction $ 4,484 3 % $ 4,062 3 % $ 3,918 3 % Owner occupied commercial mortgage 16,233 12 15,979 12 15,471 12 Non-owner occupied commercial mortgage 15,580 11 15,329 11 14,995 11 Commercial and industrial 30,684 22 30,164 22 29,794 22 Leases 2,049 2 2,067 2 2,054 2 Total commercial $ 69,030 50 % $ 67,601 50 % $ 66,232 50 % Consumer: Residential mortgage $ 23,101 16 % $ 22,901 17 % $ 22,776 17 % Revolving mortgage 2,351 2 2,240 2 2,165 2 Consumer auto 1,503 1 1,476 1 1,442 1 Consumer other 1,388 1 1,306 1 1,176 1 Total consumer $ 28,343 20 % $ 27,923 21 % $ 27,559 21 % SVB: Global fund banking $ 28,915 20 % $ 26,518 19 % $ 25,553 19 % Investor dependent - early stage 1,179 1 1,293 1 1,403 1 Investor dependent - growth stage 2,627 2 2,696 2 2,897 2 Innovation C&#38;I and cash flow dependent 9,247 7 9,339 7 9,658 7 Total SVB $ 41,968 30 % $ 39,846 29 % $ 39,511 29 % Total loans and leases $ 139,341 100 % $ 135,370 100 % $ 133,302 100 % Allowance for loan and lease losses (1,700) (1,737) (1,747) Net loans and leases $ 137,641 $ 133,633 $ 131,555 
+
+The unamortized discount related to acquired loans was $1.78 billion at June 30, 2024, a decrease of $255 million from $2.04 billion at December 31, 2023 and $123 million from $1.90 billion at March 31, 2024. The decrease from December 31, 2023 reflects accretion of $308 million, including $56 million for unfunded commitments, for the six months ended June 30, 2024. The decrease from March 31, 2024 reflects accretion of $145 million, including $20 million for unfunded commitments, for the quarter ended June 30, 2024. 
+
+Operating Lease Equipment, Net 
+
+As detailed in the following table, our operating lease portfolio mostly relates to the Rail segment, with the remainder included in the Commercial Bank segment. Refer to the &#8220;Results by Business Segment&#8221; section of this MD&#38;A for further details on the operating lease equipment portfolios in the Rail and Commercial Bank segments. 
+
+Table 26 
+
+Operating Lease Equipment 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Railcars and locomotives $ 8,178 $ 8,048 $ 7,966 Other equipment 767 763 780 
+
+Total (1) 
+
+$ 8,945 $ 8,811 $ 8,746 
+
+(1) Includes off-lease rail equipment of $164 million at June 30, 2024, $150 million at March 31, 2024 and $253 million at December 31, 2023. 
+
+Interest-Bearing Liabilities 
+
+Interest-bearing liabilities include interest-bearing deposits, securities sold under customer repurchase agreements, and borrowings. Interest-bearing liabilities at June 30, 2024 totaled $148.52 billion, an increase of $4.81 billion or 3% from $143.71 billion at December 31, 2023 and an increase of $648 million or less than 1% from $147.87 billion at March 31, 2024. The increase from December 31, 2023 was due to deposit growth as further discussed below. 
+
+Deposits 
+
+Total deposits at June 30, 2024 were $151.08 billion, an increase of $5.23 billion or 4% from $145.85 billion at December 31, 2023 and an increase of $1.47 billion or 1% from $149.61 billion at March 31, 2024. The increase from December 31, 2023 is mainly attributable to deposit growth in our Branch Network, the Direct Bank, and the SVB Commercial segment. Deposit growth in the SVB Commercial segment was mainly due to slight improvement in the macroeconomic environment and increases in client acquisitions. 
+
+The following table summarizes the types of deposits: 
+
+Table 27 
+
+Deposits 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Noninterest-bearing demand $ 40,016 $ 39,276 $ 39,799 Checking with interest 23,907 24,244 23,754 Money market 32,636 31,393 30,611 Savings 39,361 37,688 35,258 Time 15,159 17,008 16,432 Interest-bearing deposits 111,063 110,333 106,055 Total deposits $ 151,079 $ 149,609 $ 145,854 Noninterest-bearing deposits to total deposits 26.5 % 26.3 % 27.3 % 
+
+We strive to maintain a strong liquidity position, and therefore, a focus on deposit retention remains a key business objective. We believe traditional bank deposit products remain an attractive option for many customers. As economic conditions change, we recognize that our liquidity position could be adversely affected if bank deposits are withdrawn. Our ability to fund future loan growth is significantly dependent on our success in retaining existing deposits and generating new deposits at a reasonable cost. 
+
+Deposit Concentrations 
+
+BancShares operates a network of more than 600 branches and offices in 30 states as of June 30, 2024, predominantly located in the Southeast, Mid-Atlantic, Midwest and Western United States, providing a broad range of financial services to individuals, businesses and professionals. Based on branch location, deposits as of June 30, 2024 in North Carolina and South Carolina represented approximately 25.4% and 7.8%, respectively, of total deposits. 
+
+The Direct Bank had $39.67 billion or 26.3% of our total deposits as of June 30, 2024. The Direct Bank deposits mainly consist of savings deposit accounts. 
+
+SVB Commercial segment deposits as of June 30, 2024 were $35.89 billion or 23.8% of total deposits and are primarily concentrated in online banking. Deposits in the SVB Commercial segment included large dollar accounts with private equity and venture capital clients, primarily in the technology, life science and healthcare industries. Deposit accounts in the SVB Commercial segment with balances in excess of $50 million totaled approximately $4.87 billion as of June 30, 2024. 
+
+Uninsured Deposits 
+
+Where information is not readily available to determine the amount of deposits not insured by the FDIC, the amount of uninsured deposits is estimated, consistent with the methodologies and assumptions utilized in providing information to our regulators. We estimate total uninsured deposits were $57.15 billion, which represented approximately 37.8% of total deposits at June 30, 2024, compared to $54.15 billion or 37.1% of total deposits at December 31, 2023. 
+
+Refer to the &#8220;Funding, Liquidity and Capital Overview&#8221; and &#8220;Results by Business Segment&#8221; sections of this MD&#38;A for further discussion of deposit composition, uninsured deposits, and recent deposit trends. 
+
+The following table provides the expected maturity of time deposits with balances in excess of $250,000 as of June 30, 2024: 
+
+Table 28 
+
+Maturities of Time Deposits In Excess of $250,000 
+
+dollars in millions June 30, 2024 Time deposits maturing in: Three months or less $ 686 Over three months through six months 649 Over six months through 12 months 289 More than 12 months 49 Total $ 1,673 
+
+Borrowings 
+
+Total borrowings at June 30, 2024 were $37.46 billion, a decrease of $196 million from $37.65 billion at December 31, 2023 and a decrease of $82 million from $37.54 billion at March 31, 2024. The decrease from December 31, 2023 related to redemptions of Capital Trust debentures and declines in securities sold under customer repurchase agreements and the Purchase Money Note payable to the FDIC. 
+
+The following table presents borrowings, net of the respective unamortized purchase accounting adjustments and issuance costs: 
+
+Table 29 
+
+Borrowings 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Securities sold under customer repurchase agreements $ 386 $ 395 $ 485 Federal Deposit Insurance Corporation 3.500% fixed rate note due March 2028 (1) 
+
+35,790 35,858 35,846 Senior Unsecured Borrowings 2.969% fixed-to-floating rate notes due September 2025 (2) 
+
+316 317 318 6.000% fixed rate notes due April 2036 59 59 59 Subordinated debt 6.125% fixed rate notes due March 2028 449 453 460 4.125% fixed-to-fixed rate notes due November 2029 100 101 101 3.375% fixed-to-floating rate notes due March 2030 350 349 349 SCB Capital Trust I - floating rate debentures due April 2034 
+
+&#8212; &#8212; 10 FCB/SC Capital Trust II - floating rate debentures due June 2034 
+
+&#8212; &#8212; 18 Other borrowings 8 8 8 Total borrowings $ 37,458 $ 37,540 $ 37,654 
+
+(1) Purchase Money Note was issued in connection with the SVBB Acquisition. 
+
+(2) Includes a callable feature one year prior to maturity. 
+
+Refer to the &#8220;Liquidity Risk&#8221; section of this MD&#38;A and Note 11&#8212;Borrowings for further information regarding liquidity and borrowings. 
+
+Refer to the &#8220;Regulatory Considerations&#8221; section in Item 1. Business of our 2023 Form 10-K for additional information on an NPR issued by the federal banking agencies discussing, among other items, the proposed requirement to maintain a certain level of long-term debt that would be available to absorb losses in the event of failure. We are in the process of evaluating the proposal and assessing its potential impact, but we expect that we would need to raise additional long-term debt to satisfy these requirements if the NPR is finalized. 
+
+RISK MANAGEMENT 
+
+Risk is inherent in any business. BancShares has defined a moderate risk appetite and a balanced approach to risk taking with a philosophy that does not preclude higher risk business activities commensurate with acceptable returns while meeting regulatory objectives. Through the comprehensive Risk Management Framework and Risk Appetite Framework and Statement, senior management has primary responsibility for day-to-day management of the risks we face with accountability of and support from all associates. Senior management applies various strategies to reduce the risks to which BancShares may be exposed, with effective challenge and oversight by management committees. Our Board strives to ensure that risk management is a part of our business culture and that our policies and procedures for identifying, assessing, monitoring, and managing risk are part of the decision-making process. The Board&#8217;s role in risk oversight is an integral part of our overall Risk Management Framework and Risk Appetite Framework. The Board administers its risk oversight function primarily through its Risk Committee. 
+
+The Risk Committee structure is designed to allow for information flow, effective challenge and timely escalation of risk-related issues. The Risk Committee is directed to monitor and advise the full Board regarding risk exposures, including credit, market, capital, liquidity, operational, compliance, asset, strategic, and reputational risks; review, approve and monitor adherence to the Risk Appetite Statement and supporting risk tolerance levels via a series of established metrics; and evaluate, monitor and oversee the adequacy and effectiveness of the Risk Management Framework and Risk Appetite Framework and Statement. The Risk Committee also reviews reports of examination by and communications from regulatory agencies, the results of internal and third-party testing and qualitative and quantitative assessments related to risk management, and any other matters within the scope of the Risk Committee&#8217;s oversight responsibilities. The Risk Committee monitors management&#8217;s response to certain risk-related regulatory and audit issues. In addition, the Risk Committee may coordinate with the Audit Committee and the Compensation, Nominations and Governance Committee for the review of financial statements and related risks, compensation risk management and other areas of joint responsibility. 
+
+In combination with other risk management and monitoring practices, enterprise-wide stress testing activities are conducted within a defined framework. Stress tests are performed for various risks to ensure the financial institution can support continued operations during stressed periods. 
+
+BancShares monitors and stress tests its capital and liquidity consistent with the safety and soundness expectations of the federal regulators. Refer to the &#8220;Regulatory Considerations&#8221; section of Item 1. Business included in our 2023 Form 10-K for further discussion. 
+
+BancShares has been assessing the emerging impacts of the international tensions that could impact the economy and exacerbate headwinds of elevated market volatility, global supply chain disruptions, and recessionary pressures as well as operational risks such as those associated with potential cyberattacks for FCB and third parties upon whom it relies. Assessments have not identified material impacts to date, but those assessments will remain ongoing as the conditions continue to exist. BancShares is also assessing the potential risk of an economic slowdown or recession that could create increased credit and market risk having downstream impacts on earnings, capital, and/or liquidity. While economic data continues to be mixed, baseline economic forecasts reflect a decline in Commercial Real Estate (&#8220;CRE&#8221;) property values due to current interest rate levels that impacted the ALLL forecasts. Key indicators will continue to be monitored and impacts assessed as part of our ongoing risk management framework. 
+
+Credit Risk 
+
+Credit risk is the risk of not collecting payments pursuant to the contractual terms of loans, leases and certain investment securities. Loans and leases we originate are underwritten in accordance with our credit policies and procedures and are subject to periodic ongoing reviews. Acquired loans, regardless of whether PCD or Non-PCD, are recorded at fair value as of the acquisition date and are subject to periodic reviews to identify any further credit deterioration. Our independent credit review function conducts risk reviews and analyses of both originated and acquired loans to ensure compliance with credit policies and to monitor asset quality trends and borrower financial strength. These reviews include portfolio analysis by geographic location, industry, collateral type, and product. We strive to identify potential problem loans as early as possible, to record charge-offs or write-downs as appropriate and to maintain an appropriate ALLL that accounts for expected losses over the life of the loan and lease portfolios. 
+
+Commercial Lending and Leasing 
+
+BancShares employs a credit ratings system where each commercial loan is assigned a probability of obligor default (&#8220;PD&#8221;), loss given default (&#8220;LGD&#8221;), and/or overall credit rating using scorecards developed to rate each type of transaction incorporating assessments of both quantitative and qualitative factors. When commercial loans and leases are graded during underwriting, or when updated periodically thereafter, a model is run to generate a preliminary risk rating. These models incorporate both internal and external historical default and loss data, as well as other borrower and loan characteristics, to assign a risk rating. The preliminary risk rating assigned by the model can be adjusted as a result of borrower specific facts and circumstances that, in management&#8217;s judgment, warrant a modification of the modeled risk rating to arrive at the final approved risk ratings. 
+
+Consumer Lending 
+
+Consumer lending begins with an evaluation of a consumer borrower&#8217;s credit profile against published standards. Credit decisions are made after analyzing quantitative and qualitative factors to assess the borrower&#8217;s ability to repay the loan, and secondary sources of repayment, such as collateral value. 
+
+Consumer products use traditional and measurable standards to document and assess the creditworthiness of a loan applicant. Credit standards follow industry standard documentation requirements. Performance is largely evaluated based on an acceptable pay history along with a quarterly assessment which incorporates current market conditions. Loans may also be monitored during quarterly reviews of the borrower&#8217;s refreshed credit score. When warranted, an additional review of the loan-to-value of the underlying collateral may be conducted. 
+
+Our ALLL estimate as of June 30, 2024 included extensive reviews of the changes in credit risk associated with the uncertainties around macroeconomic forecasts. These loss estimates consider industry risk and the actual net losses incurred during prior periods of economic stress as well as recent credit trends. 
+
+Our ALLL methodology was discussed further in our 2023 Form 10-K, in the section entitled &#8220;Critical Accounting Estimates&#8221; of the MD&#38;A and Note 1&#8212;Significant Accounting Policies and Basis of Presentation. 
+
+Allowance for Loan and Lease Losses 
+
+We updated our loan classes during the first quarter of 2024 as further discussed in Note 1&#8212;Significant Accounting Policies and Basis of Presentation. Loan and lease and ALLL disclosures for 2023 periods included in this Form 10-Q were recast to reflect the changes in loan classes. 
+
+The ALLL at June 30, 2024 was $1.70 billion, representing a decrease of $47 million from $1.75 billion at December 31, 2023. The ALLL as a percentage of total loans and leases at June 30, 2024 was 1.22%, compared to 1.31% at December 31, 2023. The decrease in the ALLL was primarily the result of a mix shift to the global fund banking portfolio, which has lower loss rates relative to our other loan portfolios, lower specific reserves for individually evaluated loans, consistent credit quality, and changes in the macroeconomic forecast. 
+
+As presented in Table 33 , t he decrease in the ALLL from December 31, 2023 included decreases of $23 million, $13 million, and $11 million related to the Commercial, Consumer, and SVB portfolios, respectively. 
+
+While management utilizes its best judgment and information available, the ultimate adequacy of our ALLL is dependent upon a variety of factors beyond our control which are inherently difficult to predict, the most significant being the macroeconomic scenario forecasts that determine the economic variables utilized in the ALLL models. Due to the inherent uncertainty in the macroeconomic forecasts, BancShares utilizes baseline, upside, and downside macroeconomic scenarios and weights the scenarios based on review of variable forecasts for each scenario and comparison to expectations. At June 30, 2024, ALLL estimates in these scenarios ranged from approximately $1.38 billion, when weighing the upside scenario 100%, to approximately $2.14 billion when weighting the downside scenario 100%. BancShares management determined that an ALLL of $1.70 billion was appropriate as of June 30, 2024. 
+
+Table 30 
+
+ALLL for Loans and Leases 
+
+dollars in millions Three Months Ended June 30, 2024 Commercial Consumer SVB Total Balance at beginning of period $ 1,120 $ 155 $ 462 $ 1,737 Provision for loan and lease losses 66 1 28 95 Charge-offs (96) (6) (57) (159) Recoveries 13 3 11 27 Balance at end of period $ 1,103 $ 153 $ 444 $ 1,700 Net charge-off ratio 0.38 % Net charge-offs $ 83 $ 3 $ 46 $ 132 Average loans 137,426 Percent of loans in each category to total loans 50 % 20 % 30 % 100 % Three Months Ended March 31, 2024 Commercial Consumer SVB Total Balance at beginning of period $ 1,126 $ 166 $ 455 $ 1,747 Provision (benefit) for loans and lease losses 59 (6) 40 93 Charge-offs (75) (7) (46) (128) Recoveries 10 2 13 25 Balance at end of period $ 1,120 $ 155 $ 462 $ 1,737 Net charge-off ratio 0.31 % Net charge-offs $ 65 $ 5 $ 33 $ 103 Average loans 133,703 Percent of loans in each category to total loans 50 % 21 % 29 % 100 % Three Months Ended June 30, 2023 Commercial Consumer SVB Total Balance at beginning of period $ 860 $ 178 $ 567 $ 1,605 Initial PCD ALLL 4 &#8212; 16 20 Day 2 provision for loan and lease losses (11) 11 &#8212; &#8212; Provision (benefit) for loan and lease losses 173 (13) 9 169 Provision (benefit) for loan and lease losses 162 (2) 9 169 Charge-offs (70) (6) (100) (176) Recoveries 12 3 4 19 Balance at end of period $ 968 $ 173 $ 496 $ 1,637 Net charge-off ratio 0.47 % Net charge-offs $ 58 $ 3 $ 96 $ 157 Average loans 134,634 Percent of loans in each category to total loans 47 % 20 % 33 % 100 % 
+
+Table 31 
+
+ALLL for Loans and Leases 
+
+dollars in millions Six Months Ended June 30, 2024 Six Months Ended June 30, 2023 Commercial Consumer SVB Total Commercial Consumer SVB Total Balance at beginning of period $ 1,126 $ 166 $ 455 $ 1,747 $ 789 $ 133 $ &#8212; $ 922 Initial PCD ALLL &#8212; &#8212; &#8212; &#8212; 14 3 203 220 Day 2 provision for loan and lease losses &#8212; &#8212; &#8212; &#8212; 39 43 380 462 Provision (benefit) for loan and lease losses 125 (5) 68 188 230 1 9 240 Total provision (benefit) for loan and lease losses 125 (5) 68 188 269 44 389 702 Charge-offs (171) (13) (103) (287) (124) (14) (100) (238) Recoveries 23 5 24 52 20 7 4 31 Balance at end of period $ 1,103 $ 153 $ 444 $ 1,700 $ 968 $ 173 $ 496 $ 1,637 Net charge-off ratio 0.35 % 0.39 % Net charge-offs $ 148 $ 8 $ 79 $ 235 $ 104 $ 7 $ 96 $ 207 Average loans $ 135,565 $ 104,913 Percent of loans in each category to total loans 50 % 20 % 30 % 100 % 47 % 20 % 33 % 100 % 
+
+Net charge-offs during the current quarter were $132 million, an increase of $29 million from $103 million during the linked quarter. The net charge-off ratio was 0.38% and 0.31% for the current and linked quarters, respectively. The increase in net charge-offs compared to the linked quarter primarily reflects higher charge-offs in the Equipment Finance and Commercial Finance portfolios in commercial loans. In addition, net charge-offs in the SVB loans were higher, primarily in early-stage investor dependent loans. 
+
+Net charge-offs for the current YTD were $235 million, an increase of $28 million from $207 million in the prior YTD. The increase was primarily related to Equipment Finance and Commercial Finance portfolios in commercial loans, which was partially offset by a decrease in SVB loan net charge-offs. 
+
+The following table provides trends in the ALLL ratios: 
+
+Table 32 
+
+ALLL Ratios 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 ALLL $ 1,700 $ 1,737 $ 1,747 Total loans and leases $ 139,341 $ 135,370 $ 133,302 ALLL to total loans and leases 1.22 % 1.28 % 1.31 % Commercial loans and leases: ALLL - commercial $ 1,103 $ 1,120 $ 1,126 Commercial loans and leases $ 69,030 $ 67,601 $ 66,232 Commercial ALLL to commercial loans and leases 1.60 % 1.66 % 1.70 % Consumer loans: ALLL - consumer $ 153 $ 155 $ 166 Consumer loans $ 28,343 $ 27,923 $ 27,559 Consumer ALLL to consumer loans 0.55 % 0.56 % 0.60 % SVB loans: ALLL - SVB $ 444 $ 462 $ 455 SVB loans $ 41,968 $ 39,846 $ 39,511 SVB ALLL to SVB loans 1.05 % 1.16 % 1.15 % 
+
+A reserve for off-balance sheet credit exposure is established for unfunded commitments and is included in other liabilities, presented in Note 13&#8212;Other Liabilities. BancShares estimates the expected funding amounts and applies its PD and LGD models to those expected funding amounts to estimate the reserve. 
+
+The reserve for off-balance sheet credit exposure was $287 million at June 30, 2024, a decrease of $29 million compared to $316 million at December 31, 2023. The decrease from December 31, 2023 primarily reflects declines in the volumes of SVB Commercial segment unfunded commitments. Refer to Note 21&#8212;Commitments and Contingencies for information relating to off-balance sheet commitments. 
+
+The following table presents the ALLL by loan class: 
+
+Table 33 
+
+ALLL by Loan Class 
+
+dollars in millions: June 30, 2024 March 31, 2024 December 31, 2023 ALLL ALLL as a Percentage of Loans ALLL ALLL as a Percentage of Loans ALLL ALLL as a Percentage of Loans Commercial Commercial construction $ 41 0.92 % $ 40 0.99 % $ 44 1.12 % Owner occupied commercial mortgage 50 0.31 47 0.29 47 0.31 Non-owner occupied commercial mortgage 373 2.40 356 2.33 335 2.24 Commercial and industrial 600 1.95 630 2.09 656 2.20 Leases 39 1.92 47 2.26 44 2.12 Total commercial 1,103 1.60 1,120 1.66 1,126 1.70 Consumer Residential mortgage 76 0.33 82 0.36 94 0.41 Revolving mortgage 18 0.75 18 0.80 16 0.75 Consumer auto 5 0.35 5 0.34 5 0.34 Consumer other 54 4.00 50 3.88 51 4.31 Total consumer 153 0.55 155 0.56 166 0.60 SVB Global fund banking 70 0.24 65 0.25 69 0.27 Investor dependent - early stage 80 6.79 100 7.71 96 6.84 Investor dependent - growth stage 120 4.52 114 4.21 127 4.40 Innovation and cash flow dependent 174 1.87 183 1.95 163 1.69 Total SVB 444 1.05 462 1.16 455 1.15 Total ALLL $ 1,700 1.22 % $ 1,737 1.28 % $ 1,747 1.31 % 
+
+Credit Metrics 
+
+Nonperforming Assets 
+
+Nonperforming assets include nonaccrual loans and leases, other real estate owned (&#8220;OREO&#8221;) and repossessed assets. Accounting policies related to nonperforming assets were discussed further in our 2023 Form 10-K, in the section entitled &#8220;Credit Metrics&#8221; of the MD&#38;A and Note 1&#8212;Significant Accounting Policies and Basis of Presentation. 
+
+The following table presents total nonperforming assets: 
+
+Table 34 
+
+Non-Performing Assets 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Nonaccrual loans: Commercial loans $ 880 $ 805 $ 698 Consumer loans 150 145 154 SVB loans 111 124 117 Total nonaccrual loans 1,141 1,074 969 Other real estate owned and repossessed assets 64 58 62 Total nonperforming assets $ 1,205 $ 1,132 $ 1,031 ALLL to total loans and leases 1.22 % 1.28 % 1.31 % Ratio of total nonperforming assets to total loans, leases, other real estate owned and repossessed assets 0.86 0.84 0.77 Ratio of nonaccrual loans and leases to total loans and leases 0.82 0.79 0.73 Ratio of ALLL to nonaccrual loans and leases 149 162 180 
+
+Nonaccrual loans and leases at June 30, 2024 were $1.14 billion, an increase of $172 million from $969 million at December 31, 2023 and an increase of $67 million from $1.07 billion at March 31, 2024. The increase from December 31, 2023 was primarily due to non-owner occupied commercial mortgage and commercial and industrial loan classes. Refer to the &#8220;CRE Portfolio&#8221; discussion below for further information and Note 4&#8212;Loans and Leases for tabular presentation of nonaccrual loans by loan class. 
+
+OREO and repossessed assets at June 30, 2024 was $64 million, compared to $62 million at December 31, 2023 and $58 million at March 31, 2024. Nonperforming assets as a percentage of total loans, leases, OREO and repossessed assets at June 30, 2024 was 0.86% compared to 0.77% at December 31, 2023 and 0.84% at March 31, 2024. 
+
+Past Due Accounts 
+
+The percentage of loans 30 days or more past due at June 30, 2024 was 1.01% of total loans, compared to 1.16% at December 31, 2023 and 1.12% at March 31, 2024. Delinquency status by loan class is presented in Note 4&#8212;Loans and Leases. 
+
+CRE Portfolio 
+
+Our CRE portfolio is diversified across various property types. The following table provides an overview of the property type exposures within our CRE portfolio: 
+
+Table 35 
+
+Commercial Real Estate Portfolio (1) 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Balance % to Total Loans and Leases Balance % to Total Loans and Leases Balance % to Total Loans and Leases Multi-Family $ 5,538 3.98 % $ 5,341 3.94 % $ 4,356 3.27 % Medical Office 3,598 2.58 3,443 2.55 3,494 2.62 Industrial / Warehouse 3,296 2.37 3,121 2.31 2,888 2.16 General Office 2,683 1.93 2,752 2.03 2,927 2.20 Retail 1,949 1.40 1,955 1.44 1,828 1.37 Hotel / Motel 778 0.56 818 0.60 792 0.59 Other 3,974 2.84 3,706 2.74 4,967 3.73 Total $ 21,816 15.66 % $ 21,136 15.61 % $ 21,252 15.94 % 
+
+(1) The definition of CRE in these tables is aligned with FRB and FDIC guidance on CRE and includes the following: construction loans, loans where the primary repayment is from third party rental income, and loans not secured by real estate but for the purpose of real estate. These tables exclude the owner occupied commercial mortgage loan class. 
+
+Evolving macroeconomic and social conditions (including the increase in remote working in connection with the COVID-19 pandemic) may result in changes for general office demand moving forward. Select metrics specific to our general office loan portfolio are as follows: 
+
+Table 36 
+
+Select General Office Loan Metrics (1) 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 % of total loans and leases 1.93 &#160;% 2.03 &#160;% 2.20 &#160;% % of CRE loans 12.30 &#160;% 13.02 &#160;% 13.77 &#160;% Average loan balance $ 2 $ 2 $ 2 Net charge-offs (%) 2.82 &#160;% 2.78 &#160;% 3.56 &#160;% Delinquencies as a % of total CRE loans 11.79 &#160;% 12.00 &#160;% 13.56 &#160;% Non-performing loans as a % of CRE loans 15.97 &#160;% 15.13 &#160;% 11.38 &#160;% ALLL ratio 6.30 &#160;% 5.40 &#160;% 4.77 &#160;% 
+
+Concentration Risk 
+
+We strive to minimize the risks associated with large concentrations within specific geographic areas, collateral types or industries. Despite our focus on diversification, several characteristics of our loan portfolio subject us to risk, such as our concentrations of real estate secured loans, revolving mortgage loans and healthcare-related loans. Additionally, SVB portfolio loans are concentrated in loans with large balances and loans in certain industries and customer groups, including private equity and venture capital. 
+
+Loan concentration data regarding our Commercial, Consumer, and SVB loan portfolios is summarized below. 
+
+Commercial Loan Concentrations 
+
+Geographic Concentrations 
+
+The following table summarizes state concentrations of 5.0% or greater of our loans. Data is based on obligor location. 
+
+Table 37 
+
+Commercial Loans and Leases - Geography 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 State California $ 14,530 21.0 % $ 14,118 20.9 % $ 13,824 20.9 % North Carolina 10,204 14.8 9,992 14.8 9,831 14.8 Texas 4,557 6.6 4,554 6.7 4,453 6.7 Florida 4,022 5.8 3,977 5.9 3,831 5.8 South Carolina 3,428 5.0 3,267 4.8 3,287 5.0 All other states 30,621 44.4 30,029 44.4 29,281 44.2 Total U.S. $ 67,362 97.6 % $ 65,937 97.5 % $ 64,507 97.4 % Total International 1,668 2.4 1,664 2.5 1,725 2.6 Total $ 69,030 100.0 % $ 67,601 100.0 % $ 66,232 100.0 % 
+
+Industry Concentrations 
+
+The following table represents loans by industry of obligor: 
+
+Table 38 
+
+Commercial Loans and Leases - Industry 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Real Estate $ 17,327 25.1 % $ 17,027 25.2 % $ 16,610 25.1 % Healthcare 9,908 14.3 9,633 14.2 9,259 14.0 Business Services 7,645 11.1 7,171 10.6 7,055 10.7 Transportation, Communication, Gas, Utilities 6,046 8.8 5,902 8.7 5,814 8.8 Manufacturing 5,755 8.3 5,723 8.5 5,845 8.8 Wholesale 3,175 4.6 3,795 5.6 3,553 5.3 Retail 3,660 5.3 3,619 5.4 3,560 5.4 Service Industries 3,812 5.5 3,619 5.4 3,498 5.3 Finance and Insurance 3,352 4.9 3,441 5.1 3,454 5.2 Other 8,350 12.1 7,671 11.3 7,584 11.4 Total $ 69,030 100.0 % $ 67,601 100.0 % $ 66,232 100.0 % 
+
+Consumer Loan Concentrations 
+
+Loan concentrations may exist when multiple borrowers could be similarly impacted by economic or other conditions. The following table summarizes state concentrations greater than 5.0% based on customer address: 
+
+Table 39 
+
+Consumer Loans - Geography 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 State California $ 8,871 31.3 % $ 8,788 31.5 % $ 8,787 31.9 % North Carolina 6,732 23.8 6,549 23.4 6,370 23.1 South Carolina 3,522 12.4 3,429 12.3 3,326 12.1 Massachusetts 1,738 6.1 1,703 6.1 1,726 6.2 Other states 7,480 26.4 7,454 26.7 7,350 26.7 Total $ 28,343 100.0 % $ 27,923 100.0 % $ 27,559 100.0 % 
+
+SVB Loans 
+
+SVB loan concentrations may exist when there are borrowers engaged in similar activities or types of loans extended to a diverse group of borrowers that could cause those borrowers or portfolios to be similarly impacted by economic or other conditions. 
+
+The SVB portfolio includes global fund banking and innovation banking loans. 
+
+Global Fund Banking 
+
+The global fund banking loan portfolio includes loans to clients in the private equity and venture capital community. Global fund banking represented 69% of SVB loans and 21% of total loans at June 30, 2024, compared to 65% and 19% at December 31, 2023 and 67% and 20% at March 31, 2024. The vast majority of this portfolio consists of capital call lines of credit, the repayment of which is dependent on the payment of capital calls by the underlying limited partner investors in the funds managed by these firms. These facilities are generally governed by financial covenants oriented towards ensuring that the funds&#8217; remaining callable capital is sufficient to repay the loan, and larger commitments (typically provided to larger private equity funds) are typically secured by an assignment of the general partner's right to call capital from the fund's limited partner investors. 
+
+Innovation Banking 
+
+Innovation banking primarily includes loans to technology, life science and healthcare industry clients in the various stages of their life cycles. The loans are classified as Investor Dependent - Early Stage, Investor Dependent - Growth Stage, and Innovation Commercial and Industrial (&#8220;Innovation C&#38;I&#8221;) and Cash Flow Dependent for reporting purposes. 
+
+Investor Dependent - Early Stage loans represented 3% of SVB loans and 1% of total loans at June 30, 2024, compared to 4% and 1% at December 31, 2023 and 3% and 1% at March 31, 2024. These include loans to pre-revenue, development-stage companies and companies that are in the early phases of commercialization, with revenues of up to $5 million. Repayment of these loans may be dependent upon receipt by borrowers of additional equity financing from venture capital firms or other investors, or in some cases, a successful sale to a third-party or an initial public offering. 
+
+Investor Dependent - Growth Stage loans represented 6% of SVB loans and 2% of total loans at June 30, 2024, compared to 7% and 2% at December 31, 2023 and 7% and 2% at March 31, 2024. These include loans to growth-stage enterprises. Companies with revenues between $5 million and $15 million, or pre-revenue clinical-stage biotechnology companies, are considered to be mid-stage, and companies with revenues in excess of $15 million are considered to be later-stage. 
+
+Innovation C&#38;I and Cash Flow Dependent loans represented 22% of SVB loans and 7% of total loans at June 30, 2024, compared to 24% and 7% at December 31, 2023 and 23% and 7% at March 31, 2024. This portfolio is comprised of two types of loans, Innovation C&#38;I and Cash Flow Dependent. Innovation C&#38;I includes loans in innovation sectors such as technology, life science and healthcare industries. These loans are dependent on either the borrower&#8217;s cash flows or balance sheet for repayment. Cash Flow Dependent loans are typically used to assist a select group of private equity sponsors with the acquisition of businesses, and repayment is generally dependent upon the cash flows of the combined entities. 
+
+The following table provides a summary of SVB loans by size and class. The breakout below is based on total client balances (individually or in the aggregate) as of June 30, 2024: 
+
+Table 40 
+
+SVB Loans by Size and Class 
+
+dollars in millions Less Than $5 Million $5 to &#60; $10 Million $10 to &#60; $20 Million $20 to &#60; $30 Million &#62; $30 Million Total SVB Loans Global fund banking $ 949 $ 1,256 $ 2,438 $ 2,136 $ 22,136 $ 28,915 Investor dependent - early stage 915 170 94 &#8212; &#8212; 1,179 Investor dependent - growth stage 613 777 698 299 240 2,627 Innovation C&#38;I and cash flow dependent 234 297 839 1,477 6,400 9,247 Total $ 2,711 $ 2,500 $ 4,069 $ 3,912 $ 28,776 $ 41,968 
+
+SVB Loans - State Concentrations 
+
+The following table summarizes state concentrations greater than 5.0% within the SVB loans portfolio at June 30, 2024, based on borrower location: 
+
+Table 41 
+
+SVB Loans - Geography 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 State California $ 9,572 22.8 % $ 9,152 23.0 % $ 9,458 23.9 % New York 7,437 17.7 7,414 18.6 7,338 18.6 Massachusetts 5,168 12.3 4,917 12.3 5,213 13.2 Connecticut 4,643 11.1 3,313 8.3 3,246 8.2 Texas 3,477 8.3 3,631 9.1 3,645 9.2 All other states 10,587 25.2 10,395 26.1 8,987 22.8 Total U.S. 40,884 97.4 38,822 97.4 37,887 95.9 Total International 1,084 2.6 1,024 2.6 1,624 4.1 Total $ 41,968 100.0 % $ 39,846 100.0 % $ 39,511 100.0 % 
+
+Counterparty Risk 
+
+We enter into interest rate derivatives and foreign exchange forward contracts as part of our overall risk management practices and also on behalf of our clients. We establish risk metrics and evaluate and manage the counterparty risk associated with these derivative instruments in accordance with the comprehensive Risk Management Framework and Risk Appetite Framework and Statement. 
+
+Counterparty credit exposure or counterparty risk is a primary risk of derivative instruments, relating to the ability of a counterparty to perform its financial obligations under the derivative contract. We seek to control credit risk of derivative agreements through counterparty credit approvals, pre-established exposure limits and monitoring procedures, which are integrated with our cash and issuer related credit processes. 
+
+The applicable Chief Credit Officer, or delegate, approves each counterparty and establishes exposure limits based on credit analysis of each counterparty. Derivative agreements for BancShares&#8217; risk management purposes and for the hedging of client transactions are executed with major financial institutions and are settled through the major clearing exchanges, which are rated investment grade by nationally recognized statistical rating agencies. Credit exposure is mitigated via the exchange of collateral between the counterparties covering mark-to-market valuations. Client related derivative transactions, which are primarily related to lending activities, are incorporated into our loan underwriting and reporting processes. 
+
+Asset Risk 
+
+Asset risk is a form of price risk that is a primary risk of our leasing businesses. This relates to the risk of earning capital arising from changes in the value of owned leasing equipment. Asset risk in our leasing business is evaluated and managed in the divisions and overseen by risk management processes. In our asset-based lending business, we also use residual value guarantees to mitigate or partially mitigate exposure to end of lease residual value exposure on certain of our finance leases. Our business process consists of: (1) setting residual values at transaction inception, (2) systematic periodic residual value reviews, and (3) monitoring levels of residual realizations. Residual realizations, by business and product, are reviewed as part of the quarterly financial and asset quality review. Reviews for impairment are performed at least annually. 
+
+In combination with other risk management and monitoring practices, asset risk is monitored through reviews of the equipment markets, including utilization rates and traffic flows; the evaluation of supply and demand dynamics; the impact of new technologies; and changes in regulatory requirements on different types of equipment. At a high level, demand for equipment is correlated with Gross Domestic Product growth trends for the markets the equipment serves, as well as the more immediate conditions of those markets. Cyclicality in the economy and shifts in trade flows due to specific events represent risks to the earnings that can be realized by these businesses. For instance, in the Rail segment, BancShares seeks to mitigate these risks by maintaining a relatively young fleet of assets, which can bolster attractive lease and utilization rates. 
+
+Market Risk 
+
+Interest rate risk management 
+
+BancShares is exposed to the risk that changes in market conditions may affect interest rates and negatively impact earnings. The risk arises from the nature of BancShares&#8217; business activities, the composition of BancShares&#8217; balance sheet, and changes in the level or shape of the yield curve. BancShares manages this inherent risk strategically based on prescribed guidelines and approved limits. 
+
+Interest rate risk can arise from many of BancShares&#8217; business activities, such as lending, leasing, investing, deposit taking, derivatives, and funding activities. We evaluate and monitor interest rate risk primarily through two metrics. 
+
+&#8226; Net Interest Income Sensitivity (&#8220;NII Sensitivity&#8221;) measures the net impact of hypothetical changes in interest rates on forecasted NII; and 
+
+&#8226; Economic Value of Equity (&#8220;EVE&#8221;) Sensitivity (&#8220;EVE Sensitivity&#8221;) measures the net impact of these hypothetical changes on the value of equity by assessing the economic value of assets, liabilities and off-balance sheet instruments. 
+
+BancShares uses a holistic process to measure and monitor both short term and long term risks, which includes, but is not limited to, gradual and immediate parallel rate shocks, changes in the shape of the yield curve, and changes in the relationship of various yield curves. NII Sensitivity generally focuses on shorter term earnings risk, while EVE Sensitivity assesses the longer-term risk of the existing balance sheet. 
+
+Our exposure to NII Sensitivity is guided by the Risk Appetite Framework and Statement and a range of risk metrics and BancShares may utilize tools across the balance sheet to adjust its interest rate risk exposures, including through business line actions and actions within the investment, funding and derivative portfolios. 
+
+The composition of our interest rate sensitive assets and liabilities generally results in a net asset-sensitive position for NII Sensitivity, whereby our assets will reprice faster than our liabilities. 
+
+Our funding sources consist primarily of deposits and we also support our funding needs through wholesale funding sources (including unsecured and secured borrowings). 
+
+The deposit rates we offer are influenced by market conditions and competitive factors. Market rates are the key drivers of deposit costs and we continue to optimize deposit costs by improving our deposit mix. Changes in interest rates, expected funding needs, as well as actions by competitors, can affect our deposit taking activities and deposit pricing. We believe our targeted non-maturity deposit customer retention is strong and we remain focused on optimizing our mix of deposits. We regularly assess the effect of deposit rate changes on our balances and seek to achieve optimal alignment between assets and liabilities. 
+
+The following table summarizes the results of 12-month NII Sensitivity simulations produced by our asset/liability management system. These simulations assume static balance sheet replacement with like products and implied forward market rates, but also incorporate additional assumptions, including prepayment estimates, pricing estimates, deposit behaviors, and using internal models. The below simulations assume an immediate 100 and 200 bps parallel increase and decrease from current interest rates. 
+
+Table 42 
+
+Net Interest Income Sensitivity Simulation Analysis 
+
+Estimated (Decrease) Increase in NII Change in interest rate (bps) June 30, 2024 March 31, 2024 December 31, 2023 -200 (13.8) &#160;% (16.8) &#160;% (20.1) &#160;% -100 (7.6) (8.4) (10.0) +100 7.4 8.2 9.8 +200 14.4 16.0 19.4 
+
+NII Sensitivity metrics at June 30, 2024, compared to December 31, 2023, were primarily affected by cash deployment into investment securities, and execution of interest rate hedges, as well as higher market rates. 
+
+As of June 30, 2024, BancShares continues to have an asset sensitive interest rate risk profile and the potential exposure to forecasted earnings was largely driven by the composition of the balance sheet (primarily due to floating rate commercial loans and cash), as well as estimates of modest future deposit betas. Approximately 60%-65% of our loans have floating contractual reference rates, indexed primarily to the Prime Lending Rate and Secured Overnight Financing Rate (&#8220;SOFR&#8221;). Deposit betas are currently modeled to have a portfolio average of approximately 30%-35% over the twelve-month forecast horizon; including 40%-50% for interest-bearing non-maturity deposits. Deposit beta is the portion of a change in the federal funds rate that is passed on to the deposit rate. Actual deposit betas may be different than modeled, depending on various factors, including liquidity requirements, deposit mix and competitive pressures. Impacts to NII Sensitivity may change due to actual results differing from modeled expectations. 
+
+As noted above, EVE Sensitivity supplements NII simulations as it estimates risk exposures beyond a twelve-month horizon. EVE Sensitivity measures the change in the EVE driven by changes in assets, liabilities, and off-balance sheet instruments in response to a change in interest rates. EVE Sensitivity was calculated by estimating the change in the net present value of assets, liabilities, and off-balance sheet items under various rate movements, including utilizing a dynamic rate level dependent modeling approach for our deposit attrition assumption. 
+
+The below simulations assume an immediate 100 and 200 bps parallel increase and decrease from current interest rates and the estimated impact on our EVE profile: 
+
+Table 43 
+
+Economic Value of Equity Modeling Analysis 
+
+Estimated Increase (Decrease) in EVE Change in interest rate (bps) June 30, 2024 -200 5.2 &#160;% -100 2.7 +100 (2.5) +200 (4.6) 
+
+In addition to the above reported sensitivities, a wide variety of potential interest rate scenarios are simulated within our asset/liability management system. Scenarios that impact balance sheet composition or the sensitivity to key assumptions are also evaluated. 
+
+We use results of our various interest rate risk analyses to formulate and implement asset and liability management strategies, in coordination with the Asset Liability Committee, to achieve the desired risk profile, while managing our objectives for market risk and other strategic objectives. Specifically, we may manage our interest rate risk position through certain pricing strategies and product design for loans and deposits, our investment portfolio, funding portfolio, or by using derivatives to mitigate earnings volatility. 
+
+The above sensitivities provide an estimate of our interest rate sensitivity; however, they do not account for potential changes in credit quality, size, mix, or changes in the competition for business in the industries we serve. They also do not account for other business developments and other actions. Accordingly, we can give no assurance that actual results would not differ materially from the estimated outcomes of our simulations. 
+
+Loan Maturity and Loan Interest Rate Sensitivity 
+
+The following table provides loan maturity distribution information: 
+
+Table 44 
+
+Loan Maturity Distribution 
+
+dollars in millions At June 30, 2024, Maturing Within One Year One to Five Years Five to 15 Years After 15 Years Total Commercial Commercial construction $ 1,650 $ 2,082 $ 714 $ 38 $ 4,484 Owner occupied commercial mortgage 1,845 7,143 6,881 364 16,233 Non-owner occupied commercial mortgage 3,105 9,158 2,584 733 15,580 Commercial and industrial 9,286 17,269 3,469 660 30,684 Leases 554 1,235 260 &#8212; 2,049 Total commercial 16,440 36,887 13,908 1,795 69,030 Consumer Residential mortgage 623 2,642 7,105 12,731 23,101 Revolving mortgage 61 205 814 1,271 2,351 Consumer auto 336 1,031 136 &#8212; 1,503 Consumer other 328 674 154 232 1,388 Total consumer 1,348 4,552 8,209 14,234 28,343 SVB Global fund banking 26,991 1,827 97 &#8212; 28,915 Investor dependent - early stage 132 1,047 &#8212; &#8212; 1,179 Investor dependent - growth stage 264 2,363 &#8212; &#8212; 2,627 Innovation and cash flow dependent 1,314 7,639 294 &#8212; 9,247 Total SVB 28,701 12,876 391 &#8212; 41,968 Total loans and leases $ 46,489 $ 54,315 $ 22,508 $ 16,029 $ 139,341 
+
+The following table provides information regarding the sensitivity to changes in interest rates of loans and leases maturing one year or after, as of June 30, 2024: 
+
+Table 45 
+
+Loan Interest Rate Sensitivity 
+
+dollars in millions Loans Maturing One Year or After with Fixed Interest Rates Variable Interest Rates Commercial Commercial construction $ 1,280 $ 1,554 Owner occupied commercial mortgage 12,787 1,601 Non-owner occupied commercial mortgage 6,413 6,062 Commercial and industrial 10,356 11,042 Leases 1,484 11 Total commercial 32,320 20,270 Consumer Residential mortgage 9,004 13,474 Revolving mortgage 31 2,259 Consumer auto 1,167 &#8212; Consumer other 316 744 Total consumer 10,518 16,477 SVB Global fund banking 2 1,922 Investor dependent - early stage 21 1,026 Investor dependent - growth stage 7 2,356 Innovation and cash flow dependent &#8212; 7,933 Total SVB 30 13,237 Total loans and leases $ 42,868 $ 49,984 
+
+Liquidity Risk 
+
+Our liquidity risk management and monitoring process is designed to ensure the availability of adequate cash and collateral resources and funding capacity to meet our obligations. Our overall liquidity management strategy is intended to ensure appropriate liquidity to meet expected and contingent funding needs under both normal and stressed environments. Consistent with this strategy, we maintain sufficient amounts of available cash and HQLS. Additional sources of liquidity include committed credit facilities, repurchase agreements, brokered certificates of deposit issuances, unsecured debt issuances, and cash collections generated by portfolio asset sales to third parties. 
+
+We utilize measurement tools to assess and monitor the level and adequacy of our liquidity position, liquidity conditions and trends. We measure and forecast liquidity and liquidity risks under different hypothetical scenarios and across different horizons. We use a liquidity stress testing framework to better understand the range of potential risks and their impacts to which BancShares is exposed. Stress test results inform our business strategy, risk appetite, levels of liquid assets, and contingency funding plans. Also included among our liquidity measurement tools are key risk indicators that assist in identifying potential liquidity risk and stress events. 
+
+BancShares maintains a framework to establish liquidity risk tolerances, monitoring, and breach escalation protocol to alert management of potential funding and liquidity risks and to initiate mitigating actions as appropriate. Further, BancShares maintains a contingent funding plan, which details protocols and potential actions to be taken under liquidity stress conditions. 
+
+Liquidity includes available cash and HQLS. At June 30, 2024 we had $56.91 billion of high-quality liquid assets (25.9% of total assets) and $31.65 billion of contingent liquidity sources available. 
+
+Table 46 
+
+Liquidity 
+
+dollars in millions June 30, 2024 
+
+Available cash 
+
+$ 24,480 
+
+High-quality liquid securities (1) 
+
+32,427 High-quality liquid assets $ 56,907 Credit Facilities: Current Capacity (2) 
+
+FDIC facility (3) 
+
+$ 11,335 FHLB facility (4) 
+
+14,684 FRB facility 5,526 Line of credit 100 Total contingent sources $ 31,645 Total liquid assets and contingent sources $ 88,552 
+
+(1) Consists of readily-marketable, unpledged securities, as well as securities pledged but not drawn against at the FHLB and available for sale, and generally is comprised of Treasury and U.S. Agency investment securities held outright or via reverse repurchase agreements. 
+
+(2) Current capacity is based on the amount of collateral pledged and available for use at June 30, 2024. 
+
+(3) Advance Facility Agreement with the FDIC obtained in connection with SVBB Acquisition and has a maximum capacity of $70 billion, subject to additional collateral pledge requirements. See below for additional details and limits on use. 
+
+(4) See following table for additional details. 
+
+We fund our operations through deposits and borrowings. Our primary source of liquidity is derived from our various deposit channels, including our Branch Network and Direct Bank. Total deposits at June 30, 2024 were $151.08 billion, an increase of $5.23 billion or 4% from $145.85 billion at December 31, 2023 and an increase of $1.47 billion or 1% from $149.61 billion at March 31, 2024. The increase from December 31, 2023 is mainly attributable to deposit growth in our Branch Network, the Direct Bank, and the SVB Commercial segment. Deposit growth in the SVB Commercial segment was mainly due to slight improvement in the macroeconomic environment and increases in client acquisitions. 
+
+We use borrowings to diversify the funding of our business operations. Total borrowings at June 30, 2024 were $37.46 billion, a decrease of $196 million from $37.65 billion at December 31, 2023 and a decrease of $82 million from $37.54 billion at March 31, 2024. The decrease from December 31, 2023 related to redemptions of Capital Trust debentures and declines in securities sold under customer repurchase agreements and the Purchase Money Note payable to the FDIC. In addition to the Purchase Money Note and FHLB advances, borrowings also include senior unsecured notes, securities sold under customer repurchase agreements, and subordinated notes. 
+
+Refer to the respective &#8220;Deposits&#8221; and &#8220;Borrowings&#8221; subsections in the &#8220;Interest-Bearing Liabilities&#8221; section of this MD&#38;A for further details. 
+
+FHLB Capacity 
+
+A source of available funds is advances from the FHLB of Atlanta. We may pledge assets for secured borrowing transactions, which include borrowings from the FHLB and/or FRB, or for other purposes as required or permitted by law. The debt issued in conjunction with these transactions is collateralized by certain discrete receivables, securities, loans, leases and/or underlying equipment. Certain related cash balances are restricted. 
+
+Table 47 
+
+FHLB Balances 
+
+dollars in millions June 30, 2024 March 31, 2024 December 31, 2023 Total borrowing capacity $ 16,134 $ 15,882 $ 15,072 Less: Advances &#8212; &#8212; &#8212; Letters of credit (1) 
+
+1,450 1,450 1,450 Available capacity $ 14,684 $ 14,432 $ 13,622 Pledged Non-PCD loans (contractual balance) $ 27,003 $ 26,431 $ 25,370 
+
+(1) Letters of credit were established with the FHLB to collateralize public funds. 
+
+FRB Capacity 
+
+Under borrowing arrangements with the FRB of Richmond, FCB has access to $5.53 billion on a secured basis. There were no outstanding borrowings with the FRB Discount Window at June 30, 2024 and December 31, 2023. 
+
+FDIC Credit Facility 
+
+FCB and the FDIC entered into the Advance Facility Agreement, dated as of March 27, 2023, and effective as of November 20, 2023, providing total advances available through March 27, 2025 of up to $70 billion (subject to the limits described below) solely to provide liquidity to offset deposit withdrawal or runoff of former SVBB deposit accounts and to fund the unfunded commercial lending commitments acquired in the SVBB Acquisition. Borrowings outstanding under the Advance Facility Agreement are limited to an amount equal to the value of loans and other collateral obtained from SVBB plus the value of any other unencumbered collateral agreed by the parties to serve as additional collateral, reduced by the amount of principal and accrued interest outstanding under the Purchase Money Note and the accrued interest on the Advance Facility Agreement. Interest on any outstanding principal amount accrues at a variable rate equal to the three-month weighted average of the Daily Simple SOFR plus 25 bps (but in no event less than 0.00%). The facility had a current capacity of $11.34 billion and was not utilized as of June 30, 2024. See Note 2&#8212;Business Combinations for further discussion. 
+
+Contractual Obligations and Commitments 
+
+The following table includes significant contractual obligations and commitments as of June 30, 2024, representing required and potential cash outflows, including impacts from purchase accounting adjustments and deferred fees. See Note 21&#8212;Commitments and Contingencies for additional information regarding commitments. Financing commitments, letters of credit and deferred purchase commitments are presented at contractual amounts and do not necessarily reflect future cash outflows, as many are expected to expire unused or partially used. 
+
+Table 48 
+
+Contractual Obligations and Commitments 
+
+dollars in millions Payments Due by Period Less than 1 year 1-3 years 4-5 years Thereafter Total Contractual obligations: Time deposits (1) 
+
+$ 14,331 $ 784 $ 44 $ &#8212; $ 15,159 Short-term borrowings 386 &#8212; &#8212; &#8212; 386 Long-term borrowings (1)(2) 
+
+(37) 240 36,360 509 37,072 Total contractual obligations $ 14,680 $ 1,024 $ 36,404 $ 509 $ 52,617 Commitments: Financing commitments 
+
+$ 31,238 $ 15,539 $ 3,289 $ 6,601 $ 56,667 Letters of credit 
+
+1,680 511 81 5 2,277 Deferred purchase agreements 1,432 &#8212; &#8212; &#8212; 1,432 Purchase and funding commitments 535 &#8212; &#8212; &#8212; 535 Affordable housing partnerships (1) 
+
+472 552 28 44 1,096 Total commitments $ 35,357 $ 16,602 $ 3,398 $ 6,650 $ 62,007 
+
+(1) Time deposits and long-term borrowings are presented net of purchase accounting adjustments of $5 million and $143 million, respectively. On-balance sheet commitments for affordable housing partnerships are included in other liabilities and presented net of a purchase accounting adjustment of $49 million. 
+
+(2) Less than 1 year balance represents the estimated amortization of the purchase accounting adjustment and deferred costs in excess of scheduled repayments. 
+
+CAPITAL 
+
+Capital requirements applicable to BancShares were discussed in &#8220;Regulatory Considerations&#8221; section in Item 1. Business of our 2023 Form 10-K, including a discussion of an NPR issued by the federal banking agencies regarding enhanced capital requirements . 
+
+BancShares&#8217; total consolidated assets are between $100 billion and $250 billion, and, as such, BancShares is required to comply with certain enhanced prudential standards applicable to Category IV banking organizations, subject to the applicable transition periods. However, the proposed interagency rulemaking announced in 2023 by the FDIC, the FRB and the Office of the Comptroller of the Currency could alter the capital framework for banks with total assets of $100 billion or more. We are continuing to monitor these proposed rules. For further discussion, refer to the section entitled &#8220;Regulatory Considerations&#8221; in Item 1. Business of our 2023 Form 10-K. 
+
+BancShares maintains a comprehensive capital adequacy process. BancShares establishes internal capital risk limits and warning thresholds, which utilize Risk-Based and Leverage-Based Capital calculations, internal and external early warning indicators, its capital planning process, and stress testing to evaluate BancShares' capital adequacy for multiple types of risk in both normal and stressed environments. The capital management framework requires contingency plans be defined and may be employed at management&#8217;s discretion . 
+
+Common and Preferred Stock Dividends 
+
+During the first and second quarters of 2024, we paid quarterly dividends of $1.64 on the Class A common stock and Class B common stock. On July 23, 2024, our Board declared a quarterly dividend on the Class A common stock and Class B common stock of $1.64 per common share. The dividends are payable on September 16, 2024 to stockholders of record as of August 30, 2024. 
+
+During the first and second quarters of 2024, we paid quarterly dividends on our Series A Preferred Stock, Series B Preferred Stock and Series C Preferred Stock as disclosed in Note 15&#8212;Stockholders' Equity. On July 23, 2024, our Board declared dividends on our Series A Preferred Stock, Series B Preferred Stock and Series C Preferred Stock in accordance with their terms. The dividends are payable on September 16, 2024. 
+
+Capital Composition and Ratios 
+
+As discussed earlier in this MD&#38;A, in July 2024 the Board authorized a Class A common share repurchase program. See the &#8220;Significant Events&#8221; section above for more information. The following table details the change in outstanding Class A common stock through June 30, 2024: 
+
+Table 49 
+
+Changes in Shares of Class A Common Stock Outstanding 
+
+Three Months Ended June 30, 2024 Six Months Ended June 30, 2024 Class A common stock shares outstanding at beginning of period 13,524,550 13,514,933 Restricted stock units vested, net of shares held to cover taxes &#8212; 9,617 Class A common stock shares outstanding at end of period 13,524,550 13,524,550 
+
+We also had 1,005,185 Class B common stock outstanding at June 30, 2024 and December 31, 2023. 
+
+We are committed to effectively managing our capital to protect our depositors, creditors and stockholders. We continually monitor the capital levels and ratios for BancShares and FCB to ensure they exceed the minimum requirements imposed by regulatory authorities and to ensure they are appropriate given growth projections, risk profile and potential changes in the regulatory or external environment. Failure to meet certain capital requirements may result in actions by regulatory agencies that could have a material impact on our consolidated financial statements. 
+
+In accordance with GAAP, the unrealized gains and losses on certain assets and liabilities, net of deferred taxes, are included in accumulated other comprehensive loss within stockholders&#8217; equity. These amounts are excluded from the calculation of our regulatory capital ratios under current regulatory guidelines. 
+
+Table 50 
+
+Analysis of Capital Adequacy 
+
+dollars in millions Basel III Requirements Requirements to be Well Capitalized June 30, 2024 March 31, 2024 December 31, 2023 Amount Ratio Amount Ratio Amount Ratio BancShares Risk-based capital ratios Total risk-based capital 10.50 % 10.00 % $ 25,120 15.45 % $ 24,440 15.66 % $ 23,891 15.75 % Tier 1 risk-based capital 8.50 8.00 22,543 13.87 21,844 14.00 21,150 13.94 Common equity Tier 1 7.00 6.50 21,663 13.33 20,964 13.44 20,270 13.36 Tier 1 leverage ratio 4.00 5.00 22,543 10.29 21,844 10.11 21,150 9.83 FCB Risk-based capital ratios Total risk-based capital 10.50 % 10.00 % $ 24,454 15.05 % $ 23,972 15.37 % $ 23,600 15.56 % Tier 1 risk-based capital 8.50 8.00 22,228 13.68 21,726 13.93 21,227 13.99 Common equity Tier 1 7.00 6.50 22,228 13.68 21,726 13.93 21,227 13.99 Tier 1 leverage ratio 4.00 5.00 22,228 10.15 21,726 10.06 21,227 9.88 
+
+A s of June 30, 2024, BancShares and FCB had risk-based capital ratio conservation buffers of 7.45% and 7.05%, respectively, which are in excess of the Basel III conservation buffer of 2.50%. As of December 31, 2023, BancShares and FCB risk-based capital ratio conservation buffers were 7.75% and 7.56%, respectively. The capital ratio conservation buffers represent the excess of the regulatory capital ratios as of June 30, 2024 and December 31, 2023 over the Basel III minimum for the ratio that is the binding constraint. Additional Tier 1 capital for BancShares includes perpetual preferred stock. 
+
+Additional Tier 2 capital for BancShares and FCB primarily consists of qualifying ALLL and qualifying subordinated debt. 
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+The ALLL is considered a critical accounting estimate. The ALLL as of June 30, 2024 is discussed in Note 5&#8212;Allowance for Loan and Lease Losses and in the &#8220;Credit Risk&#8221; section above. 
+
+RECENT ACCOUNTING PRONOUNCEMENTS 
+
+The following Accounting Standards Updates (&#8220;ASUs&#8221;) were issued by the Financial Accounting Standards Board but are not yet effective for BancShares: 
+
+Standard Summary of Guidance 
+
+Effect on BancShares&#8217; Financial Statements 
+
+ASU No. 2023-09 - Income Taxes (Topic 740): Improvements to Income Tax Disclosures Issued December 2023 &#160; This ASU enhances income tax disclosure requirements primarily by requiring disclosure of specific categories in the rate reconciliation table and disaggregation of income taxes paid by jurisdiction. Effective for BancShares beginning with our financial statements for the year ending December 31, 2025. Early adoption is permitted and this ASU allows for adoption on a prospective basis, with a retrospective option permitted to prior periods presented. We are currently evaluating the impact of this ASU on our income tax footnote disclosures. ASU No. 2023-07 - Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures Issued November 2023 This ASU expands reportable segment disclosure requirements primarily through enhanced disclosures of significant segment expenses that are regularly provided to the chief operating decision maker and disclosure of the amount and composition of other segment items. Other segment items are the amount that reconciles segment revenues, less significant expenses, to segment profit or loss by reportable segment. Effective for BancShares beginning with our financial statements for the year ending December 31, 2024, and for interim periods beginning in 2025. Early adoption is permitted, and retrospective application is required for all periods presented. We are currently evaluating the impact of the ASU on our segment footnote disclosures. 
+
+NON-GAAP FINANCIAL MEASUREMENTS 
+
+BancShares provides certain non-GAAP information in reporting its financial results to give investors additional data to evaluate its operations. A non-GAAP financial measure is a numerical measure of a company&#8217;s historical or future financial performance or financial position that may either exclude or include amounts or is adjusted in some way to the effect of including or excluding amounts, as compared to the most directly comparable measure calculated and presented in accordance with GAAP financial statements. BancShares&#8217; management believes that non-GAAP financial measures, when reviewed in conjunction with GAAP financial information, can provide transparency about, or an alternate means of assessing, its operating results and financial position to its investors, analysts and management. These non-GAAP measures should be considered in addition to, and not superior to or a substitute for, GAAP measures presented in BancShares&#8217; consolidated financial statements and other publicly filed reports. In addition, our non-GAAP measures may be different from or inconsistent with non-GAAP financial measures used by other institutions. 
+
+Whenever we refer to a non-GAAP financial measure we will generally define and present the most directly comparable financial measure calculated and presented in accordance with GAAP, along with a reconciliation between the GAAP financial measure and the non-GAAP financial measure. We describe each of these measures below and explain why we believe the measure to be useful. 
+
+Adjusted Rental Income on Operating Lease Equipment for Rail Segment 
+
+Adjusted rental income on operating lease equipment within the Rail segment is calculated as rental income on operating leases less depreciation and maintenance. This metric allows us to monitor the performance and profitability of the rail leases after deducting direct expenses. 
+
+The following table details a reconciliation of rental income on operating leases to adjusted rental income on operating lease equipment: 
+
+Table 51 
+
+Rail Segment 
+
+dollars in millions Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Rental income on operating leases (GAAP) $ 201 $ 198 $ 180 $ 399 $ 355 Less: depreciation on operating lease equipment 51 50 47 100 94 Less: maintenance and other operating lease expenses 60 45 56 105 112 Adjusted rental income on operating lease equipment (non-GAAP) $ 90 $ 103 $ 77 $ 194 $ 149 
+
+NIM, Excluding PAA 
+
+NIM, excluding PAA, is calculated by dividing annualized NII, excluding PAA, by average interest-earning assets. Loan PAA income is primarily related to the loan discount in the SVBB Acquisition. Other PAA is primarily related to the discount on the Purchase Money Note payable to the FDIC for the SVBB Acquisition and the premium on deposits assumed in the acquisition of CIT Group Inc. 
+
+NIM, excluding PAA, is a meaningful metric as it allows us to analyze NIM trends more directly related to the rates of the underlying interest earning-assets and interest-bearing liabilities. 
+
+The following table includes a reconciliation from NIM to NIM, excluding PAA: 
+
+Table 52 
+
+NIM, Excluding PAA 
+
+dollars in millions Three Months Ended Six Months Ended June 30, 2024 March 31, 2024 June 30, 2023 June 30, 2024 June 30, 2023 Net interest income (GAAP) a $ 1,821 $ 1,817 $ 1,961 $ 3,638 $ 2,811 Loan PAA income b 145 163 243 308 260 Other PAA (expense) income c (5) (4) 4 (10) 17 Total PAA d = (b+c) 140 159 247 298 277 Net interest income, excluding PAA (non-GAAP) e = (a-d) $ 1,681 $ 1,658 $ 1,714 $ 3,340 $ 2,534 Annualized net interest income (GAAP) f = a annualized $ 7,322 $ 7,308 $ 7,865 $ 7,315 $ 5,668 Annualized net interest income, excluding PAA (non-GAAP) g = e annualized 6,760 6,670 6,875 6,715 5,109 Average interest-earning assets h $ 200,705 $ 198,587 $ 191,215 $ 199,646 $ 146,154 Net interest margin (GAAP) f/h 3.64 % 3.67 % 4.11 % 3.66 % 3.87 % Net interest margin, excluding PAA (non-GAAP) g/h 3.36 3.35 3.59 3.36 3.49 
+
+Forward-Looking Statements 
+
+Statements in this Form 10-Q contain &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995 regarding the financial condition, results of operations, business plans, asset quality, future performance, and other strategic goals of BancShares. Words such as &#8220;anticipates,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; &#8220;expects,&#8221; &#8220;predicts,&#8221; &#8220;forecasts,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;projects,&#8221; &#8220;targets,&#8221; &#8220;designed,&#8221; &#8220;could,&#8221; &#8220;may,&#8221; &#8220;should,&#8221; &#8220;will,&#8221; &#8220;potential,&#8221; &#8220;continue,&#8221; &#8220;aims&#8221; or other similar words and expressions are intended to identify these forward-looking statements. These forward-looking statements are based on BancShares&#8217; current expectations and assumptions regarding BancShares&#8217; business, the economy, and other future conditions. 
+
+Because forward-looking statements relate to future results and occurrences, they are subject to inherent risks, uncertainties, changes in circumstances and other factors that are difficult to predict. Many possible events or factors could affect BancShares&#8217; future financial results and performance and could cause actual results, performance or achievements of BancShares to differ materially from any anticipated results expressed or implied by such forward-looking statements. Such risks and uncertainties include, among others, general competitive, economic, political (including the upcoming U.S. election), geopolitical events (including conflicts in Ukraine and the Middle East) and market conditions, including changes in competitive pressures among financial institutions and the impacts related to or resulting from recent bank failures, the risks and impacts of future bank failures and other volatility in the banking industry, public perceptions of our business practices, including our deposit pricing and acquisition activity, the financial success or changing conditions or strategies of BancShares&#8217; vendors or customers, including changes in demand for deposits, loans and other financial services, fluctuations in interest rates, changes in the quality or composition of BancShares&#8217; loan or investment portfolio, actions of government regulators, including recent interest rate hikes and any changes by the FRB, changes to estimates of future costs and benefits of actions taken by BancShares, BancShares&#8217; ability to maintain adequate sources of funding and liquidity, the potential impact of decisions by the FRB on BancShares&#8217; capital plans, adverse developments with respect to U.S. or global economic conditions, including significant turbulence in the capital or financial markets, the impact of any sustained or elevated inflationary environment, the impact of any cyberattack, information or security breach, the impact of implementation and compliance with current or proposed laws, regulations and regulatory interpretations, including potential increased regulatory requirements, limitations, and costs, such as FDIC special assessments, increases to FDIC deposit insurance premiums and the recently proposed interagency rule on regulatory capital, along with the risk that such laws, regulations and regulatory interpretations may change, the availability of capital and personnel, and the risks associated with BancShares&#8217; previous acquisition transactions, including the SVBB Acquisition and the previously completed transaction with CIT Group Inc., or any future transactions. 
+
+Except to the extent required by applicable laws or regulations, BancShares disclaims any obligation to update forward-looking statements or to publicly announce the results of any revisions to any of the forward-looking statements included herein to reflect future events or developments. Additional factors which could affect the forward-looking statements can be found in the 2023 Form 10-K and its other filings with the SEC. 
+

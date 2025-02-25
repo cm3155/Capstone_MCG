@@ -1,0 +1,432 @@
+ Item 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+This discussion should be read in conjunction with the unaudited Consolidated Financial Statements of Columbia Banking System, Inc. (referred to in this report as &#8220;we&#8221;, &#8220;our&#8221;, &#8220;Columbia&#8221; and &#8220;the Company&#8221;) and notes thereto presented elsewhere in this report and with the December 31, 2019 audited Consolidated Financial Statements and its accompanying notes included in our Annual Report on Form 10-K. In the following discussion, unless otherwise noted, references to increases or decreases in average balances in items of income and expense for a particular period and balances at a particular date refer to the comparison with corresponding amounts for the period or date one year earlier. 
+
+Table of Contents 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This quarterly report on Form 10-Q may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include, but are not limited to, statements about our plans, objectives, expectations and intentions that are not historical facts, and statements identified by words such as &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;should,&#8221; &#8220;projects,&#8221; &#8220;seeks,&#8221; &#8220;estimates&#8221; or the negative version of those words or other comparable words or phrases of a future or forward-looking nature, as well as the continuing effects of the COVID-19 pandemic on the Company&#8217;s business, operations, financial performance and prospects. Forward-looking statements are based on current beliefs and expectations of management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. In addition, forward-looking statements are subject to assumptions with respect to future business strategies and decisions that are subject to change. In addition to the factors set forth in the section titled &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; in this report and the factors set forth in the section titled &#8220;Risk Factors&#8221; in the Company&#8217;s Form 10-K, and Quarterly Reports on Form 10-Q, the following factors, among others, could cause actual results to differ materially from the anticipated results expressed or implied by forward-looking statements: 
+
+&#8226; national and global economic conditions could be less favorable than expected or could have a more direct and pronounced effect on us than expected and adversely affect our ability to continue internal growth and maintain the quality of our earning assets; 
+
+&#8226; the markets where we operate and make loans could face challenges; 
+
+&#8226; the risks presented by the economy, which could adversely affect credit quality, collateral values, including real estate collateral, investment values, liquidity and loan originations and loan portfolio delinquency rates; 
+
+&#8226; the efficiencies and enhanced financial and operating performance we expect to realize from investments in personnel, acquisitions, and infrastructure may not be realized; 
+
+&#8226; interest rate changes could significantly reduce net interest income and negatively affect asset yields and funding sources; 
+
+&#8226; the effect of the discontinuation or replacement of LIBOR; 
+
+&#8226; projected business increases following strategic expansion could be lower than expected; 
+
+&#8226; changes in the scope and cost of FDIC insurance and other coverages; 
+
+&#8226; the impact of acquired loans on our earnings; 
+
+&#8226; changes in accounting policies or procedures as may be required by the FASB or other regulatory agencies could materially affect our financial statements and how we report those results, and expectations and preliminary analysis relating to how such changes will affect our financial results could prove incorrect; 
+
+&#8226; changes in laws and regulations affecting our businesses, including changes in the enforcement and interpretation of such laws and regulations by applicable governmental and regulatory agencies; 
+
+&#8226; competition among financial institutions and nontraditional providers of financial services could increase significantly; 
+
+&#8226; continued consolidation in the Northwest financial services industry resulting in the creation of larger financial institutions that may have greater resources could change the competitive landscape; 
+
+&#8226; the goodwill we have recorded in connection with acquisitions could become impaired, which may have an adverse impact on our earnings and capital; 
+
+&#8226; our ability to identify and address cyber-security risks, including security breaches, &#8220;denial of service attacks,&#8221; &#8220;hacking&#8221; and identity theft; 
+
+&#8226; any material failure or interruption of our information and communications systems; 
+
+&#8226; our ability to keep pace with technological changes; 
+
+&#8226; our ability to effectively manage credit risk, interest rate risk, market risk, operational risk, legal risk, liquidity risk and regulatory and compliance risk; 
+
+&#8226; failure to maintain effective internal control over financial reporting or disclosure controls and procedures; 
+
+&#8226; the effect of geopolitical instability, including wars, conflicts and terrorist attacks; 
+
+&#8226; our profitability measures could be adversely affected if we are unable to effectively manage our capital; 
+
+&#8226; natural disasters, including earthquakes, tsunamis, flooding, fires and other unexpected events; 
+
+&#8226; the effect of COVID-19 and other infectious illness outbreaks that may arise in the future, which has created significant impacts and uncertainties in U.S. and global markets; 
+
+&#8226; changes in governmental policy and regulation, including measures taken in response to economic, business, political and social conditions, including with regard to COVID-19; and 
+
+&#8226; the effects of any damage to our reputation resulting from developments related to any of the items identified above. 
+
+You should take into account that forward-looking statements speak only as of the date of this report. Given the described uncertainties and risks, we cannot guarantee our future performance or results of operations and you should not place undue reliance on forward-looking statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required under federal securities laws. 
+
+Table of Contents 
+
+CRITICAL ACCOUNTING POLICIES 
+
+Management has identified the accounting policies related to the ACL, business combinations and the valuation and recoverability of goodwill as critical to an understanding of our financial statements. These policies and related estimates are discussed in &#8220;Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; under the headings &#8220;Adoption of Allowance for Credit Losses - ASC 326,&#8221; &#8220;Business Combinations&#8221; and &#8220;Valuation and Recoverability of Goodwill&#8221; in our 2019 Annual Report on Form 10-K. There have not been any material changes in our critical accounting policies as compared to those disclosed in our 2019 Annual Report on Form 10-K. 
+
+RESULTS OF OPERATIONS 
+
+Our results of operations are dependent to a large degree on our net interest income. We also generate noninterest income from our broad range of products and services including treasury management, wealth management and debit and credit cards. Our operating expenses consist primarily of compensation and employee benefits, occupancy, data processing and legal and professional fees. Like most financial institutions, our interest income and cost of funds are affected significantly by general economic conditions, particularly changes in market interest rates, and by government policies and actions of regulatory authorities. 
+
+COVID-19 Update 
+
+We continue to monitor the spread of COVID-19 in our communities and adapt to changes in guidance from local healthcare officials. The measures we have taken to mitigate opportunities for spread and provide a safe environment for our team members and clients have been effective. 
+
+Our response employs a multi-layered approach to safety that includes disinfecting protocols, social distancing and remote work options. Where practical, team members with underlying health conditions or those who are caretakers of family with underlying health conditions continue to work remotely. We continue to limit unnecessary travel and have broadly integrated the use of video conferencing as well as virtual collaboration and online learning tools to facilitate training and meetings as well as internal and client-facing events. 
+
+Branch lobbies across the footprint have remained open for standard business hours to serve clients throughout the quarter. Teams routinely carry out our safety protocols, which include disinfecting areas at regular intervals as well as maintaining social distancing and face covering requirements that meet or exceed the guidance issued by local and regional jurisdictions. The diligence of our team members and their commitment to the safety of their team members and clients has minimized the risk of spread in our facilities and helped us keep operating with minimal disruption. 
+
+We continue to support our team members throughout the pandemic by providing flexibility, regular communication and support resources. We communicate regularly with team members across the Bank to provide new information or updated guidance and to promote support resources available through our benefits offering. Throughout the summer our leaders prepared to support team members with school-aged children returning to distanced learning programs by providing a variety of flexible work options including temporary remote work assignments, shift changes, and other accommodations. These adjustments have afforded many team members the support needed to help ease the pressures of distanced learning requirements. Responding to these temporary challenges with a variety of flexible options while upholding client service standards has also allowed us to retain existing talent. 
+
+Our participation in the Small Business Administration&#8217;s (SBA) Paycheck Protection Program has entered a new phase as clients begin submitting requests for loan forgiveness. We began processing requests when the SBA formally opened their portal in mid-August. As of October 26th, we taken over 1,400 applications and approved/submitted nearly 850 of those to the SBA for more than $220.0 million. We continue to process requests on a daily basis, including those utilizing the SBA&#8217;s new simplified application for loans of $50,000 or less. 
+
+For additional information on the impact and potential impact of COVID-19 on our business, financial condition, liquidity, capital and results of operations, see Part II Item 1A &#8220;Risk Factors &#8221; of this report. 
+
+Table of Contents 
+
+Earnings Summary 
+
+Comparison of current quarter to prior year period 
+
+The Company reported net income for the third quarter of $44.7 million or $0.63 per diluted common share, compared to $50.7 million or $0.70 per diluted common share for the third quarter of 2019. Net interest income for the three months ended September 30, 2020 was $124.7 million, an increase of $2.3 million from the prior year period. The increase was primarily a result of a reduction in interest expense on deposits and FHLB advances partially offset by a decline in interest income on interest-earning assets. 
+
+The provision for credit losses for the third quarter of 2020 was $7.4 million compared to $299 thousand for the third quarter of 2019. The increase in provision expense for the third quarter of 2020 compared to one year ago was principally the result of COVID-19 and the 2020 downturn in the national and global economies. 
+
+Noninterest income for the current quarter was $22.5 million, a decrease of $5.6 million from the prior year period. The decrease was principally due to a decline in other noninterest income from a $5.9 million gain from the sale-leaseback of owned real estate during the third quarter of 2019. In addition, deposit account and treasury management fees decreased $2.4 million compared to the same quarter in 2019. These decreases in noninterest income were partially offset by an increase in loan revenue of $2.8 million, driven by higher mortgage banking revenue. 
+
+Total noninterest expense for the quarter ended September 30, 2020 was $85.1 million, a decrease of $2.0 million from the prior year period. This decrease was primarily driven by lower legal and professional fees and advertising and promotion expenses partially offset by an increase in other noninterest expense. 
+
+Comparison of current year-to-date to prior year period 
+
+The Company reported net income for the nine months ended September 30, 2020 of $95.9 million or $1.35 per diluted common share, compared to $148.3 million or $2.04 per diluted common share for the same period in 2019. Net interest income for the nine months ended September 30, 2020 was $369.0 million, an increase of $411 thousand from the prior year period. The drivers for the first nine months of 2020 were similar to the drivers for the quarterly comparison above. The increase was primarily a result of a reduction in interest expense on deposits and FHLB advances partially offset by a decline in interest income on interest-earning assets. 
+
+The provision for credit losses for the nine months ended September 30, 2020 was $82.4 million compared to a provision of $1.9 million for the first nine months of 2019. The increase in the provision for the first nine months of 2020 compared to the same period in 2019 was due to the ongoing COVID-19 pandemic which has negatively affected the economy and increased unemployment rates. 
+
+Noninterest income for the nine months ended September 30, 2020 was $80.9 million, an increase of $5.6 million from the prior year period. The increase was primarily due to a $16.4 million gain from the sale and upward adjustment to the carrying value of the Visa Class B restricted shares to the market price and an increase in loan revenue. These increases were partially offset by decreases in deposit account and treasury management fees and other noninterest income. 
+
+For the nine months ended September 30, 2020, noninterest expense was $250.2 million, a decrease of $8.3 million from $258.5 million for the same period in 2019. The decrease from the prior year period was driven by lower legal and professional fees and compensation and employee benefits expenses which were partially offset by higher other noninterest expense. 
+
+Table of Contents 
+
+Net Interest Income 
+
+The following table sets forth the average balances of all major categories of interest-earning assets and interest-bearing liabilities, the total dollar amounts of interest income on interest-earning assets and interest expense on interest-bearing liabilities, the average yield earned on interest-earning assets and average cost of interest-bearing liabilities by category and, in total, net interest income and net interest margin: 
+
+Three Months Ended September 30, Three Months Ended September 30, 2020 2019 Average Balances Interest Earned / Paid Average Rate Average Balances Interest Earned / Paid Average Rate (dollars in thousands) ASSETS Loans, net (1)(2) $ 9,744,336 $ 106,945 4.37 % $ 8,694,592 $ 114,099 5.21 % Taxable securities 3,511,690 19,102 2.16 % 2,654,490 16,457 2.46 % Tax exempt securities (2) 436,351 2,962 2.70 % 447,723 3,235 2.87 % Interest-earning deposits with banks 800,058 203 0.10 % 144,773 864 2.37 % Total interest-earning assets 14,492,435 129,212 3.55 % 11,941,578 134,655 4.47 % Other earning assets 235,735 230,140 Noninterest-earning assets 1,237,315 1,288,056 Total assets $ 15,965,485 $ 13,459,774 LIABILITIES AND SHAREHOLDERS&#8217; EQUITY Money market accounts 3,200,407 947 0.12 % 2,589,390 2,840 0.44 % Interest-bearing demand 1,296,076 337 0.10 % 1,049,833 438 0.17 % Savings accounts 1,072,472 36 0.01 % 893,395 49 0.02 % Interest-bearing public funds, other than certificates of deposit 621,786 397 0.25 % 602,674 2,879 1.90 % Certificates of deposit 336,954 288 0.34 % 381,879 657 0.68 % Total interest-bearing deposits 6,527,695 2,005 0.12 % 5,517,171 6,863 0.49 % FHLB advances and FRB borrowings 54,173 166 1.22 % 400,956 2,569 2.54 % Subordinated debentures 35,161 468 5.30 % 35,346 468 5.25 % Other borrowings and interest-bearing liabilities 
+
+42,090 19 0.18 % 35,569 183 2.04 % Total interest-bearing liabilities 
+
+6,659,119 2,658 0.16 % 5,989,042 10,083 0.67 % Noninterest-bearing deposits 6,790,790 5,151,596 Other noninterest-bearing liabilities 
+
+221,805 166,220 Shareholders&#8217; equity 2,293,771 2,152,916 Total liabilities &#38; shareholders&#8217; equity 
+
+$ 15,965,485 $ 13,459,774 Net interest income (tax equivalent) $ 126,554 $ 124,572 Net interest margin (tax equivalent) 3.47 % 4.14 % 
+
+__________ 
+
+(1) Nonaccrual loans have been included in the tables as loans carrying a zero yield. Amortized net deferred loan fees and net unearned discounts on acquired loans were included in the interest income calculations. The amortization of net deferred loan fees was $5.0 million and $2.0 million for the three months ended September 30, 2020 and 2019, respectively. The incremental accretion income on acquired loans was $1.7 million and $2.1 million for the three months ended September 30, 2020 and 2019, respectively. 
+
+(2) Tax-exempt income is calculated on a tax equivalent basis. The tax equivalent yield adjustment to interest earned on loans was $1.2 million and $1.4 million for the three months ended September 30, 2020 and 2019, respectively. The tax equivalent yield adjustment to interest earned on tax exempt securities was $622 thousand and $679 thousand for the three months ended September 30, 2020 and 2019, respectively. 
+
+Table of Contents 
+
+The following table sets forth the average balances of all major categories of interest-earning assets and interest-bearing liabilities, the total dollar amounts of interest income on interest-earning assets and interest expense on interest-bearing liabilities, the average yield earned on interest-earning assets and average cost of interest-bearing liabilities by category and, in total, net interest income and net interest margin: 
+
+&#160; Nine Months Ended September 30, Nine Months Ended September 30, &#160; 2020 2019 Average Balances Interest Earned / Paid Average Rate Average Balances Interest Earned / Paid Average Rate (dollars in thousands) ASSETS Loans, net (1)(2) $ 9,370,101 $ 322,347 4.60 % $ 8,568,746 $ 341,798 5.33 % Taxable securities 3,304,295 58,533 2.37 % 2,599,595 49,790 2.56 % Tax exempt securities (2) 415,973 8,733 2.80 % 470,987 10,426 2.96 % Interest-earning deposits with banks 458,987 480 0.14 % 65,374 1,159 2.37 % Total interest-earning assets 13,549,356 $ 390,093 3.85 % 11,704,702 $ 403,173 4.61 % Other earning assets 234,044 231,823 Noninterest-earning assets 1,256,525 1,266,392 Total assets $ 15,039,925 $ 13,202,917 LIABILITIES AND SHAREHOLDERS&#8217; EQUITY Money market accounts 2,925,672 3,649 0.17 % 2,571,722 8,321 0.43 % Interest-bearing demand 1,211,958 1,160 0.13 % 1,063,678 1,230 0.15 % Savings accounts 982,507 117 0.02 % 893,738 136 0.02 % Interest-bearing public funds, other than certificates of deposit 512,548 1,693 0.44 % 380,853 4,831 1.70 % Certificates of deposit 351,973 1,122 0.43 % 397,221 1,819 0.61 % Total interest-bearing deposits 5,984,658 7,741 0.17 % 5,307,212 16,337 0.41 % FHLB advances and FRB borrowings 455,303 6,191 1.82 % 500,448 9,962 2.66 % Subordinated debentures 35,207 1,404 5.33 % 35,392 1,404 5.30 % Other borrowings and interest-bearing liabilities 
+
+41,706 178 0.57 % 35,440 552 2.08 % Total interest-bearing liabilities 6,516,874 $ 15,514 0.32 % 5,878,492 $ 28,255 0.64 % Noninterest-bearing deposits 6,073,718 5,069,629 Other noninterest-bearing liabilities 202,105 156,432 Shareholders&#8217; equity 2,247,228 2,098,364 Total liabilities &#38; shareholders&#8217; equity $ 15,039,925 $ 13,202,917 Net interest income (tax equivalent) $ 374,579 $ 374,918 Net interest margin (tax equivalent) 3.69 % 4.28 % 
+
+__________ 
+
+(1) Nonaccrual loans have been included in the table as loans carrying a zero yield. Amortized net deferred loan fees and net unearned discounts on acquired loans were included in the interest income calculations. The amortization of net deferred loan fees was $12.5 million and $6.3 million for the nine months ended September 30, 2020 and 2019, respectively. The incremental accretion income on acquired loans was $4.8 million and $6.8 million for the nine months ended September 30, 2020 and 2019, respectively. 
+
+(2) Tax-exempt income is calculated on a tax equivalent basis. The tax equivalent yield adjustment to interest earned on loans was $3.7 million and $4.1 million for the nine months ended September 30, 2020 and 2019, respectively. The tax equivalent yield adjustment to interest earned on tax exempt securities was $1.8 million and $2.2 million for the nine months ended September 30, 2020 and 2019, respectively. 
+
+Table of Contents 
+
+The following table sets forth the total dollar amount of change in interest income and interest expense. The changes have been segregated for each major category of interest-earning assets and interest-bearing liabilities into amounts attributable to changes in volume and changes in rates. Changes attributable to the combined effect of volume and interest rates have been allocated proportionately to the changes due to volume and the changes due to interest rates: 
+
+Three Months Ended September 30, 2020 Compared to 2019 Increase (Decrease) Due to Volume Rate Total (in thousands) Interest Income Loans, net $ 12,819 $ (19,973) $ (7,154) Taxable securities 4,842 (2,197) 2,645 Tax exempt securities (81) (192) (273) Interest-earning deposits with banks 820 (1,481) (661) Interest income $ 18,400 $ (23,843) $ (5,443) Interest Expense Deposits: Money market accounts $ 551 $ (2,444) $ (1,893) Interest-bearing demand 87 (188) (101) Savings accounts 8 (21) (13) Interest-bearing public funds, other than certificates of deposit 88 (2,570) (2,482) Certificates of deposit (69) (300) (369) Total interest on deposits 665 (5,523) (4,858) FHLB advances and FRB borrowings (1,498) (905) (2,403) Other borrowings and interest-bearing liabilities 41 (205) (164) Interest expense $ (792) $ (6,633) $ (7,425) 
+
+Table of Contents 
+
+The following table sets forth the total dollar amount of change in interest income and interest expense. The changes have been segregated for each major category of interest-earning assets and interest-bearing liabilities into amounts attributable to changes in volume and changes in rates. Changes attributable to the combined effect of volume and interest rates have been allocated proportionately to the changes due to volume and the changes due to interest rates: 
+
+Nine Months Ended September 30, 2020 Compared to 2019 Increase (Decrease) Due to &#160; Volume Rate Total (1) (in thousands) Interest Income Loans, net $ 30,186 $ (49,637) $ (19,451) Taxable securities 12,704 (3,961) 8,743 Tax exempt securities (1,174) (519) (1,693) Interest earning deposits with banks 1,298 (1,977) (679) Interest income $ 43,014 $ (56,094) $ (13,080) Interest Expense Deposits: Money market accounts 1,016 (5,688) (4,672) Interest-bearing demand 158 (228) (70) Savings accounts 13 (32) (19) Interest-bearing public funds, other than certificates of deposit 1,277 (4,415) (3,138) Certificates of deposit (190) (507) (697) Total interest on deposits 2,274 (10,870) (8,596) FHLB advances and FRB borrowings (836) (2,935) (3,771) Other borrowings 120 (494) (374) Interest expense $ 1,558 $ (14,299) $ (12,741) 
+
+__________ 
+
+(1) The change in interest not due solely to volume or rate has been allocated in proportion to the absolute dollar amount of the change in each. 
+
+Comparison of current quarter to prior year period 
+
+Net interest income for the third quarter of 2020 was $124.7 million, up from $122.5 million for the same quarter in 2019. The increase was primarily a result of a reduction in interest expense on deposits and FHLB advances partially offset by a decline in interest income on interest-earning assets. The reduction in deposit interest expense was due to the lower interest rate environment while the reduction in interest expense on FHLB advances was principally due to lower average balances of advances. Interest income from securities increased principally due to higher average balances. Partially offsetting these favorable changes to net interest income was a decline in loan interest income due to the lower rate environment. 
+
+The Company&#8217;s net interest margin (tax equivalent) decreased to 3.47% in the third quarter of 2020, from 4.14% for the prior year period. This decrease was driven by higher average interest-earning deposits with banks at an average rate of 10 basis points as well as lower rates on the loan and securities portfolios. The Company&#8217;s operating net interest margin (tax equivalent) (1) decreased to 3.46% from 4.12% during the third quarter of 2019. The decrease was due to the items previously noted for the decrease in the net interest margin. 
+
+Comparison of current year-to-date to prior year period 
+
+Net interest income for the nine months ended September 30, 2020 was $369.0 million, relative to $368.6 million for the prior year period. The year-to-date comparison results were similar to the third quarter comparison results as deposit interest expense declined due to the lower rate environment while the decrease in interest expense on FHLB advances was due to both a decline in interest rates and lower average advance balances. The increase in interest income from securities was principally due to higher average balances. Partially offsetting these favorable changes to net interest income was a decline in interest income from loans due to the low rate environment. 
+
+__________ 
+
+(1) Operating net interest margin (tax equivalent) is a non-GAAP financial measure. See the &#8220;Non-GAAP financial measures&#8221; section in this Management&#8217;s Discussion and Analysis. 
+
+Table of Contents 
+
+The Company&#8217;s net interest margin (tax equivalent) decreased to 3.69% for the first nine months of 2020, from 4.28% for the prior year period. The decrease in the Company&#8217;s net interest margin (tax equivalent) was a result of higher average interest-earning deposits with banks at an average rate of 14 basis points as well as lower rates on our loans and securities. The Company&#8217;s operating net interest margin (tax equivalent) for the nine months ended September 30, 2020 was 3.69% compared to 4.28% for the nine months ended September 30, 2019. The decrease was due to the items previously noted for the decrease in the net interest margin. 
+
+Provision for Credit Losses 
+
+Comparison of current quarter to prior year period 
+
+During the third quarter of 2020, the Company recorded a $7.4 million net provision for credit losses, under the CECL methodology, compared to a $299 thousand net provision, under the previous ALLL methodology, during the third quarter of 2019. The increase in provision expense for the third quarter of 2020 compared to one year ago was principally the result of the COVID-19 pandemic and the downturn in the national and global economies as well as increased unemployment rates. 
+
+The net provision for credit losses recorded during the current quarter also included management&#8217;s ongoing assessment of the credit quality of the Company&#8217;s loan portfolio. Other factors affecting the provision include net charge-offs, credit quality migration, and the size and composition of the loan portfolio and changes in the economic environment during the third quarter of 2020. The amount of provision was calculated in accordance with the Company&#8217;s methodology for determining the ACL, discussed in Note 5 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Comparison of current year-to-date to prior year period 
+
+The provision for credit losses for the nine months ended September 30, 2020 was $82.4 million compared to $1.9 million during the same period in 2019. The increase in the provision for the first nine months of 2020 was due to the same factors discussed above for the quarterly provision for credit losses. The amount of provision was calculated in accordance with the Company&#8217;s methodology for determining the ACL, discussed in Note 5 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Noninterest Income 
+
+The following table presents the significant components of noninterest income and the related dollar and percentage change from period to period: 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2020 2019 $ Change % Change 2020 2019 $ Change % Change (dollars in thousands) Deposit account and treasury management fees 
+
+$ 6,658 $ 9,015 $ (2,357) (26) % $ 20,538 $ 27,030 $ (6,492) (24) % Card revenue 3,834 4,006 (172) (4) % 10,431 11,431 (1,000) (9) % Financial services and trust revenue 3,253 3,226 27 1 % 9,481 9,608 (127) (1) % Loan revenue 6,645 3,855 2,790 72 % 16,842 9,840 7,002 71 % Bank owned life insurance 1,585 1,528 57 4 % 4,799 4,644 155 3 % Investment securities gains, net &#8212; &#8212; &#8212; &#8212; 16,674 2,132 14,542 682 % Other 497 6,400 (5,903) (92) % 2,173 10,689 (8,516) (80) % Total noninterest income $ 22,472 $ 28,030 $ (5,558) (20) % $ 80,938 $ 75,374 $ 5,564 7 % 
+
+Table of Contents 
+
+Comparison of current quarter to prior year period 
+
+Noninterest income was $22.5 million for the third quarter of 2020, compared to $28.0 million for the same period in 2019. The decrease was principally due to a $5.9 million gain from the sale-leaseback of owned real estate during the third quarter of 2019, included in other noninterest income in the table above. In addition, treasury management and overdraft fees decreased by $993 thousand and $921 thousand, respectively, compared to the same quarter in 2019. The decrease in overdraft fees was due to an overall decrease in the number of transactions during this pandemic time period as well as clients generally carrying higher cash balances in their deposit accounts. Partially offsetting these decreases in noninterest income was an increase in mortgage banking revenue of $2.3 million compared to the prior year period primarily due to a higher volume of mortgage loans originated and sold. 
+
+Comparison of current year-to-date to prior year period 
+
+For the nine months ended September 30, 2020, noninterest income was $80.9 million compared to $75.4 million for the same period in 2019, an increase of $5.6 million. The increase was primarily due to the $16.4 million gain from the sale and write-up of Visa Class B restricted shares to fair value during the second quarter of 2020. Loan revenue increased during the first nine months of 2020 due to increases in investor premiums earned due to a higher volume of mortgage loan originations through our held for sale program and interest rate swap income. These increases were partially offset by the reduction in other noninterest expense due to the gain on the sale-leaseback of owned real estate in the third quarter of 2019 as stated above for the quarterly comparison. In addition, treasury management and overdraft fees declined due to the same reasons stated for the quarterly comparison above. 
+
+Noninterest Expense 
+
+The following table presents the significant components of noninterest expense and the related dollar and percentage change from period to period: 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2020 2019 $ Change % Change (1) 2020 2019 $ Change % Change (dollars in thousands) Compensation and employee benefits $ 55,133 $ 54,459 $ 674 1 % $ 156,018 $ 158,559 $ (2,541) (2) % Occupancy 8,734 8,645 89 1 % 26,743 26,166 577 2 % Data processing 4,510 5,102 (592) (12) % 14,804 14,372 432 3 % Legal and professional fees 3,000 5,683 (2,683) (47) % 8,585 16,810 (8,225) (49) % Amortization of intangibles 2,193 2,632 (439) (17) % 6,713 8,029 (1,316) (16) % B&#38;O taxes 1,559 1,325 234 18 % 3,427 4,612 (1,185) (26) % Advertising and promotion 680 1,752 (1,072) (61) % 2,822 3,596 (774) (22) % Regulatory premiums 826 (38) 864 N/M 1,894 1,902 (8) &#8212; % Net benefit of operation of OREO 
+
+(160) (90) (70) 78 % (348) (682) 334 (49) % Other 8,640 7,606 1,034 14 % 29,561 25,140 4,421 18 % Total noninterest expense $ 85,115 $ 87,076 $ (1,961) (2) % $ 250,219 $ 258,504 $ (8,285) (3) % 
+
+__________ 
+
+1) Percentage changes greater than +/- 1000% are considered not meaningful and are presented as &#8220;N/M&#8221;. 
+
+Comparison of current quarter to prior year period 
+
+Noninterest expense was $85.1 million for the third quarter of 2020, a decrease of $2.0 million from $87.1 million for the prior year period. This decrease was primarily driven by lower legal and professional fees which declined $2.7 million due to lower expenses tied to digital corporate initiatives while advertising and promotion expenses decreased $1.1 million. Partially offsetting these decreases was a $1.2 million increase in the provision for unfunded loan commitments compared to the third quarter of 2019 which is included in other noninterest expense in the table above. 
+
+Table of Contents 
+
+Comparison of current year-to-date to prior year period 
+
+For the nine months ended September 30, 2020, noninterest expense was $250.2 million, compared to $258.5 million for the same period in 2019, a decrease of $8.3 million. The decrease from the prior year period was driven by lower legal and professional fees and compensation and employee benefits expenses which were partially offset by higher other noninterest expense. Legal and professional fees were down compared to the same period in 2019 primarily due to lower expenses tied to digital corporate initiatives. The decrease in compensation and benefits was due to the deferral of labor costs related to the origination of PPP loans. These labor costs are deferred and amortized as a reduction in interest income over the life of the loan. This decrease was partially offset by increases in salaries and incentive and commission expenses. Partially offsetting these decreases to noninterest expense was an increase in the provision for unfunded loan commitments which is included in other noninterest expense in the table above. 
+
+The provision for unfunded loan commitments for the periods indicated are as follows: 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2020 2019 2020 2019 (in thousands) Provision (recapture) for unfunded loan commitments $ 800 $ (400) $ 4,600 $ (750) 
+
+Income Taxes 
+
+We recorded an income tax provision of $9.9 million for the third quarter of 2020, compared to a provision of $12.4 million for the same period in 2019, with effective tax rates of 18% and 20% for the third quarter of 2020 and 2019, respectively. For the nine months ended September 30, 2020 and 2019, we recorded income tax provisions of $21.4 million and $35.3 million, respectively, with effective tax rates of 18% for the current year and 19% for the prior year period. Our effective tax rate remains lower than the statutory tax rate due to tax-exempt income from municipal securities, BOLI and certain loan receivables. For additional information, please refer to the Company&#8217;s annual report on Form 10-K for the year ended December 31, 2019. 
+
+FINANCIAL CONDITION 
+
+Total assets were $16.23 billion at September 30, 2020, an increase of $2.15 billion from December 31, 2019. Cash and cash equivalents increased $682.6 million. Loans increased $945.5 million during the first nine months of 2020, which was primarily the result of new loan production, supplemented by PPP loans, partially offset by a decrease in line utilization and loan payments. Debt securities available for sale were $4.28 billion at September 30, 2020, an increase of $535.6 million from December 31, 2019. Total liabilities were $13.93 billion as of September 30, 2020, an increase of $2.01 billion from December 31, 2019. The increase was primarily due to an increase in deposits driven by PPP loan funds being deposited into our clients&#8217; deposit accounts, partially offset by a decrease in FHLB advances. 
+
+Investment Securities 
+
+At September 30, 2020, the Company&#8217;s investment portfolio primarily consisted of debt securities available for sale totaling $4.28 billion compared to $3.75 billion at December 31, 2019. The increase in the debt securities portfolio from year-end is due to $997.0 million in purchases and $157.5 million in net unrealized gain, offset by $600.6 million in maturities, repayments and sales and $18.3 million in premium amortization. The average duration of our debt securities investment portfolio was approximately 4 years and 6 months at September 30, 2020. This duration takes into account calls, where appropriate and consensus prepayment speeds. 
+
+The investment securities are used by the Company as a component of its balance sheet management strategies. From time-to-time, securities may be sold to reposition the portfolio in response to strategies developed by the Company&#8217;s asset liability management committee. In accordance with our investment strategy, management monitors market conditions with a view to realize gains on its available for sale securities portfolio when prudent. 
+
+Table of Contents 
+
+The Company performs a quarterly assessment of the debt securities available for sale in its investment portfolio that have an unrealized loss to determine whether the decline in the fair value of these securities below their amortized cost basis has resulted in a credit loss. A credit loss exists when it becomes probable that the Company will be unable to recover the entire amortized cost basis of its investment. The Company&#8217;s impairment assessment takes into consideration factors such as defaults or deferrals of scheduled interest or principal, external credit ratings and recent downgrades, internal assessment of credit quality and whether the Company intends to sell the security and whether it is more likely than not it will be required to sell the security prior to recovery of its amortized cost basis. If a decline in fair value is determined to result in a credit loss, an allowance is recorded. 
+
+When there are credit losses associated with a debt security and the Company does not have the intent to sell the security and it is more likely than not that it will not have to sell the security before recovery of its cost basis, the Company will separate the amount of the impairment into the amount that is credit-related and the amount related to non-credit factors. The credit-related impairment is recognized in earnings through an allowance and the non-credit-related impairment is recognized in accumulated other comprehensive income. 
+
+At September 30, 2020, the market value of debt securities available for sale had a net unrealized gain of $200.6 million compared to a net unrealized gain of $43.0 million at December 31, 2019. The change in valuation was the result of fluctuations in market interest rates during the nine months ended September 30, 2020. At September 30, 2020, the Company had $604.2 million of debt securities available for sale with gross unrealized losses of $5.1 million; however, we did not consider these investment securities to have an indicated credit loss. 
+
+The following table sets forth our securities portfolio by type for the dates indicated: 
+
+September 30, 2020 December 31, 2019 (in thousands) Debt securities available for sale: U.S. government agency and government-sponsored enterprise mortgage-backed securities and collateralized mortgage obligations 
+
+$ 3,121,642 $ 2,892,950 Other asset-backed securities 
+
+293,024 196,050 State and municipal securities 
+
+557,444 488,802 U.S. government agency and government-sponsored enterprise securities 
+
+309,610 168,340 Total debt securities available for sale $ 4,281,720 $ 3,746,142 Equity securities 13,425 &#8212; Total investment securities $ 4,295,145 $ 3,746,142 
+
+For further information on our investment portfolio and equity securities transactions, see Note 3 of the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Credit Risk Management 
+
+The extension of credit in the form of loans or other credit substitutes to individuals and businesses is one of our principal commerce activities. Our policies, as well as applicable laws, and regulations, require risk analysis as well as ongoing portfolio and credit management. We manage our credit risk through lending limit constraints, credit review, approval policies, and extensive, ongoing internal monitoring. We also manage credit risk through diversification of the loan portfolio by type of loan, type of industry and type of borrower and by limiting the aggregation of debt to a single borrower. 
+
+In analyzing our existing portfolio, we review our consumer and residential loan portfolios by their performance as a pool of loans, since no single loan is individually significant or judged by its risk rating, size or potential risk of loss. In contrast, the monitoring process for the commercial business, real estate construction, and commercial real estate portfolios includes periodic reviews of individual loans with risk ratings assigned to each loan and performance judged on a loan-by-loan basis. 
+
+Table of Contents 
+
+We review these loans to assess the ability of our borrowers to service all interest and principal obligations and, as a result, the risk rating may be adjusted accordingly. In the event that full collection of principal and interest is not reasonably assured, the loan is appropriately downgraded and, if warranted, placed on nonaccrual status even though the loan may be current as to principal and interest payments. Additionally, we assess whether an individually measured allowance is required for collateral dependent nonaccrual loans with balances equal to or greater than $500,000 and with respect to which foreclosure is probable. For the individually measured collateral dependent nonaccrual loan, the allowance for credit losses is equal to the difference between amortized cost of the loan and the determined value of the collateral. However, if the determined value of the collateral is greater than the amortized cost of the loan, no allowance for credit losses will be added for these loans. 
+
+For additional discussion on our methodology in managing credit risk within our loan portfolio, see the &#8220;Allowance for Credit Losses&#8221; section in this Management&#8217;s Discussion and Analysis and Note 1 to the Consolidated Financial Statements in &#8220;Item 8. Financial Statements and Supplementary Data&#8221; of the Company&#8217;s 2019 Annual Report on Form 10-K. 
+
+Loan policies, credit quality criteria, portfolio guidelines and other controls are established under the guidance of our Chief Credit Officer and approved, as appropriate, by the Board of Directors. Credit Administration, together with the management loan committee, has the responsibility for administering the credit approval process. As another part of its control process, we use an internal credit review and examination function to provide reasonable assurance that loans and commitments are made and maintained as prescribed by our credit policies. Examinations are performed to ensure continued performance and proper risk assessment. 
+
+Loan Portfolio Analysis 
+
+Our wholly owned banking subsidiary Columbia State Bank is a full service commercial bank, which originates a wide variety of loans, and focuses its lending efforts on originating commercial real estate and commercial business loans. 
+
+September 30, 2020 % of Total December 31, 2019 % of Total (dollars in thousands) Commercial loans: Commercial real estate $ 4,027,035 41.5 % $ 3,945,853 45.1 % Commercial business 3,836,009 39.6 % 2,989,613 34.2 % Agriculture 850,290 8.8 % 765,371 8.8 % Construction 273,176 2.8 % 361,533 4.1 % Consumer loans: One-to-four family residential real estate 665,432 6.9 % 637,325 7.3 % Other consumer 37,005 0.4 % 43,770 0.5 % Total loans $ 9,688,947 100.0 % $ 8,743,465 100.0 % Loans held for sale $ 24,407 $ 17,718 
+
+Total loans increased $945.5 million from year-end 2019. This increase includes $953.2 million of PPP loans, net of $17.1 million in net deferred fees at September 30, 2020. The PPP loans were originated to provide financial support to small and medium-size businesses to cover payroll and certain other expenses during the COVID-19 pandemic. To further assist our borrowers, the Company also offered loan deferrals to support borrowers during the COVID-19 pandemic. 
+
+The following table provides additional detail related to the Company&#8217;s COVID-19 deferrals: 
+
+June 30, 2020 Ended (1) Re-deferral New Deferral September 30, 2020 % Change (dollars in thousands) Number of deferrals 3,050 (3,006) 29 30 103 (96.6) % Balance of deferrals (2) $ 1,595,615 $ (1,593,498) $ 64,815 $ 47,440 $ 114,372 (92.8) % 
+
+__________ 
+
+1) Ended includes re-deferrals that have ended. 
+
+2) Balance of deferrals are gross of unearned income. 
+
+Table of Contents 
+
+The following table provides additional detail related to the net discount of acquired and purchased loans by acquisition: 
+
+September 30, 2020 December 31, 2019 (in thousands) Acquisition: Pacific Continental $ 9,499 $ 13,314 Intermountain 1,294 1,614 West Coast 1,904 2,675 Other 2,388 (1,378) Total net discount at period end $ 15,085 $ 16,225 
+
+Commercial Real Estate Loans: Commercial real estate loans are secured by properties located within our primary market areas and typically, have loan-to-value ratios of 80% or lower at origination. Our underwriting standards for commercial and multifamily residential loans generally require that the loan-to-value ratio for these loans not exceed 75% of appraised value, cost, or discounted cash flow value, as appropriate, and that commercial properties maintain debt coverage ratios (net operating income divided by annual debt servicing) of 1.2 or better. However, underwriting standards can be influenced by competition and other factors. We endeavor to maintain the highest practical underwriting standards while balancing the need to remain competitive in our lending practices. 
+
+Commercial Business Loans: We are committed to providing competitive commercial lending in our primary market area. Management expects a continued focus within its commercial lending products and to emphasize, in particular, relationship banking with businesses and business owners. 
+
+Agriculture Loans: Agricultural lending includes agricultural real estate and production loans and lines of credit within our primary market area. We are committed to our Pacific Northwest communities offering seasonal and longer-term loans and operating lines of credit by lending officers with expertise in the agricultural communities we serve. Typical loan-to-value ratios on term loans can range from 55% to 80% depending upon the type of loan. Operating lines of credit require the borrower to provide a 20% to 25% equity investment. The debt coverage ratio is generally 1.25:1 or better on all term loans. 
+
+Construction Loans: We originate a variety of real estate construction loans. Underwriting guidelines for these loans vary by loan type but include loan-to-value limits, term limits and loan advance limits, as applicable. Our underwriting guidelines for commercial and multifamily residential real estate construction loans generally require that the loan-to-value ratio not exceed 75% and stabilized debt coverage ratios (net operating income divided by annual debt service) of 1.2 or better. As noted above, underwriting standards can be influenced by competition and other factors. However, we endeavor to maintain the highest practical underwriting standards while balancing the need to remain competitive in our lending practices. 
+
+One-to-four Family Residential Real Estate Loans: One-to-four family residential loans, including home equity loans and lines of credit, are secured by properties located within our primary market areas and, typically, have loan-to-value ratios of 80% or lower at origination. 
+
+Other Consumer Loans: Consumer loans include automobile loans, boat and recreational vehicle financing, and other miscellaneous personal loans. 
+
+Foreign Loans: The Company has no material foreign activities. Substantially all of the Company&#8217;s loans and unfunded commitments are geographically concentrated in its service areas within the states of Washington, Oregon and Idaho. 
+
+For additional information on our loan portfolio, including amounts pledged as collateral on borrowings, see Note 4 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Nonperforming Assets 
+
+Nonperforming assets consist of: (i) nonaccrual loans, which generally are loans placed on a nonaccrual basis when the loan becomes past due 90 days or when there are otherwise serious doubts about the collectability of principal or interest within the existing terms of the loan, (ii) OREO and (iii) OPPO, if applicable. 
+
+Table of Contents 
+
+The following table sets forth, at the dates indicated, information with respect to our nonaccrual loans and total nonperforming assets: 
+
+September 30, 2020 December 31, 2019 (dollars in thousands) Nonperforming assets Nonaccrual loans: Commercial loans: Commercial real estate $ 10,362 $ 3,799 Commercial business 19,313 20,937 Agriculture 14,913 5,023 Construction 217 &#8212; Consumer loans: One-to-four family residential real estate 2,405 3,292 Other consumer 21 9 Total nonaccrual loans 47,231 33,060 OREO and OPPO 623 552 Total nonperforming assets $ 47,854 $ 33,612 Loans, net of unearned income $ 9,688,947 $ 8,743,465 Total assets $ 16,233,424 $ 14,079,524 Nonperforming loans to period-end loans 0.49 % 0.38 % Nonperforming assets to period-end assets 0.29 % 0.24 % 
+
+At September 30, 2020, nonperforming assets were $47.9 million, compared to $33.6 million at December 31, 2019. Nonperforming assets increased $14.2 million during the nine months ended September 30, 2020, primarily due to a $9.9 million increase in nonaccrual agriculture loans and a $6.6 million increase in nonaccrual commercial real estate loans. For information on OREO, see Note 6 of the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Allowance for Credit Losses 
+
+The ACL is an accounting estimate of expected credit losses in our loan portfolio at the balance sheet date. The provision for credit losses is the expense recognized in the Consolidated Statements of Income to adjust the ACL to the levels deemed appropriate by management, as measured by the Company&#8217;s credit loss estimation methodologies. The allowance for unfunded commitments and letters of credit is maintained at a level believed by management to be sufficient to absorb estimated expected losses related to these unfunded credit facilities at the balance sheet date. 
+
+At September 30, 2020, our ACL was $157.0 million, or 1.62% of total loans (excluding loans held for sale). This compares with an ALLL of $84.0 million, or 0.96% of total loans (excluding loans held for sale) at December 31, 2019 and an ALLL of $82.7 million or 0.94% of total loans (excluding loans held for sale) at September 30, 2019. The increase was primarily the result of COVID-19 and the 2020 downturn in the national and global economies as well as increased unemployment rates. The ACL at September 30, 2020 does not include a reserve for the PPP loans as they are fully guaranteed by the SBA. 
+
+Table of Contents 
+
+The following table provides an analysis of the Company&#8217;s ACL at the dates and the periods indicated: 
+
+&#160; Three Months Ended September 30, Nine Months Ended September 30, &#160; 2020 2019 2020 2019 (dollars in thousands) Beginning Balance $ 151,546 $ 80,517 $ 83,968 $ 83,369 Impact of adopting ASC 326 &#8212; &#8212; 1,632 &#8212; Charge-offs: Commercial loans: Commercial real estate &#8212; (466) (101) (1,708) Commercial business (3,164) (2,623) (10,290) (8,445) Agriculture (1,269) (55) (5,995) (194) Construction &#8212; (17) &#8212; (232) Consumer loans: One-to-four family residential real estate (16) (202) (26) (1,004) Other consumer (133) (9) (599) (64) Total charge-offs (4,582) (3,372) (17,011) (11,647) Recoveries: Commercial loans: Commercial real estate 65 1,731 92 2,801 Commercial business 1,124 349 2,795 1,368 Agriculture 27 67 69 189 Construction 11 2,555 688 3,329 Consumer loans: One-to-four family residential real estate 1,301 440 2,005 1,224 Other consumer 76 74 330 148 Total recoveries 2,604 5,216 5,979 9,059 Net (charge-offs) recoveries (1,978) 1,844 (11,032) (2,588) Provision for credit losses 7,400 299 82,400 1,879 Ending balance 156,968 82,660 156,968 82,660 Total loans, net at end of period, excluding loans held for sale 
+
+$ 9,688,947 $ 8,756,355 $ 9,688,947 $ 8,756,355 ACL to period-end loans 1.62 % 0.94 % 1.62 % 0.94 % Allowance for unfunded commitments and letters of credit Beginning Balance $ 8,800 $ 3,980 $ 3,430 $ 4,330 Impact of adopting ASC 326 &#8212; &#8212; 1,570 &#8212; Net changes in the allowance for unfunded commitments and letters of credit 
+
+800 (400) 4,600 (750) Ending balance $ 9,600 $ 3,580 $ 9,600 $ 3,580 
+
+Table of Contents 
+
+Liquidity and Sources of Funds 
+
+Our primary sources of funds are customer deposits. Additionally, we utilize advances from the FHLB, borrowings from the FRB, sweep repurchase agreements, subordinated debentures assumed in acquisitions and a revolving line of credit to supplement our funding needs. These funds, together with loan repayments, loan sales, retained earnings, equity and other borrowed funds are used to make loans, to acquire securities, meet deposit withdrawals and maturing liabilities, to acquire other assets and to fund continuing operations. 
+
+In addition, we have a shelf registration statement on file with the SEC registering an unspecified amount of any combination of debt or equity securities, depository shares, purchase contracts, units and warrants in one or more offerings. Specific information regarding the terms of and the securities being offered will be provided at the time of any offering. Proceeds from any future offerings are expected to be used for general corporate purposes, including, but not limited to, the repayment of debt, repurchasing or redeeming outstanding securities, working capital, funding future acquisitions or other purposes identified at the time of any offering. 
+
+Deposit Activities 
+
+Our deposit products include a wide variety of transaction accounts, savings accounts and time deposit accounts. We have established a branch system to serve our consumer and business depositors. Deposits increased $2.9 billion from December 31, 2019. The addition of PPP loans during the second quarter had a notable impact on our deposits, as our clients deposited these funds into their deposit accounts. In addition, management&#8217;s strategy for funding asset growth is to make use of public funds and brokered and other wholesale deposits on an as-needed basis. The Company participates in the CDARS &#174; program. CDARS &#174; is a network that allows participating banks to offer extended FDIC deposit insurance coverage on time deposits. The Company also participates in a similar program to offer extended FDIC deposit insurance coverage on money market accounts. These extended deposit insurance programs are generally available only to existing customers and are not used as a means of generating additional liquidity. At September 30, 2020, brokered deposits, reciprocal money market accounts and other wholesale deposits (excluding public funds) totaled $616.9 million, or 4.5% of total deposits, compared to $329.5 million or 3.1% at year-end 2019. These deposits have varied maturities. 
+
+The following table sets forth the Company&#8217;s deposit base by type of product for the dates indicated: 
+
+September 30, 2020 December 31, 2019 Balance % of Total Balance % of Total (dollars in thousands) Demand and other noninterest-bearing $ 6,897,054 50.7 % $ 5,328,146 49.9 % Money market 2,708,949 19.9 % 2,322,644 21.7 % Interest-bearing demand 1,322,618 9.7 % 1,150,437 10.8 % Savings 1,109,155 8.2 % 882,050 8.3 % Interest-bearing public funds, other than certificates of deposit 635,980 4.7 % 301,203 2.8 % Certificates of deposit, less than $250,000 204,578 1.5 % 218,764 2.0 % Certificates of deposit, $250,000 or more 105,041 0.8 % 151,995 1.4 % Certificates of deposit insured by CDARS &#174; 
+
+22,609 0.2 % 17,065 0.2 % Brokered certificates of deposit 
+
+5,000 &#8212; % 12,259 0.1 % Reciprocal money market accounts 589,276 4.3 % 300,158 2.8 % Subtotal 13,600,260 100.0 % 10,684,721 100.0 % Valuation adjustment resulting from acquisition accounting &#8212; (13) Total deposits $ 13,600,260 $ 10,684,708 
+
+Table of Contents 
+
+Borrowings 
+
+We rely on FHLB advances and FRB borrowings as another source of both short and long-term funding. FHLB advances and FRB borrowings are secured by investment securities, and residential, commercial and commercial real estate loans. At September 30, 2020, we had FHLB advances of $7.4 million compared to $953.5 million at December 31, 2019. 
+
+We also utilize wholesale and retail repurchase agreements to supplement our funding sources. Our wholesale repurchase agreements are secured by mortgage-backed securities. At September 30, 2020 and December 31, 2019, we had deposit customer sweep-related repurchase agreements of $27.0 million and $64.4 million, respectively, which mature on a daily basis. 
+
+Subordinated debentures are another source of funding. The Company assumed $35.0 million in aggregate principal amount with its acquisition of Pacific Continental on November 1, 2017. These subordinated debentures, which are unsecured, are callable on June 30, 2021 and have a stated maturity date of June 30, 2026. 
+
+The Company has a $15.0 million short-term credit facility with an unaffiliated bank. This facility provides the Company additional liquidity, if needed, for various corporate activities including the repurchase of shares of Columbia Banking System, Inc. common stock. At both September 30, 2020 and December 31, 2019, there was no balance associated with this credit facility. The credit agreement requires the Company to comply with certain covenants including those related to asset quality and capital levels. The Company was in compliance with all covenants associated with this facility at September 30, 2020. 
+
+Management anticipates we will continue to rely on FHLB advances, FRB borrowings, the short-term credit facility and wholesale and retail repurchase agreements in the future. We will use those funds primarily to make loans and purchase securities. 
+
+Contractual Obligations, Commitments &#38; Off-Balance Sheet Arrangements 
+
+We are party to many contractual financial obligations, including repayments of borrowings, operating and equipment lease payments, off-balance sheet commitments to extend credit and investments in affordable housing partnerships. At September 30, 2020, we had commitments to extend credit of $3.82 billion compared to $2.70 billion at December 31, 2019. 
+
+Capital Resources 
+
+Shareholders&#8217; equity at September 30, 2020 was $2.30 billion, compared to $2.16 billion at December 31, 2019. Shareholders&#8217; equity was 14% and 15% of total period-end assets at September 30, 2020 and December 31, 2019, respectively. 
+
+Regulatory Capital 
+
+In July 2013, the federal bank regulators approved the Capital Rules (as discussed in our 2019 Annual Report on Form 10-K, &#8220;Item 1. Business&#8212;Supervision and Regulation and &#8212;Regulatory Capital Requirements&#8221;), which implement the Basel III capital framework and various provisions of the Dodd-Frank Act, which were fully phased in as of January 1, 2019. As of September 30, 2020, we and the Bank met all capital adequacy requirements under the Capital Rules. 
+
+FDIC regulations set forth the qualifications necessary for a bank to be classified as &#8220;well-capitalized,&#8221; primarily for assignment of FDIC insurance premium rates. Failure to qualify as &#8220;well-capitalized&#8221; can negatively impact a bank&#8217;s ability to expand and to engage in certain activities. The Company and the Bank qualified as &#8220;well-capitalized&#8221; at September 30, 2020 and December 31, 2019. 
+
+As part of its response to the impact of COVID-19, the U.S. federal regulatory agencies issued an interim final rule that provided the option to temporarily delay certain effects of CECL on regulatory capital for two years, followed by a three year transition period. The interim final rule allows bank holding companies and banks to delay for two years 100% of the day one impact of adopting CECL and 25% of the cumulative change in the reported allowance for credit losses since adopting CECL. The Company elected to adopt the interim final rule. As a result, capital ratios and amounts as of September 30, 2020 exclude the impact of the increased allowance for credit losses related to the adoption of CECL. 
+
+Table of Contents 
+
+The following table presents the capital ratios and the capital conservation buffer, as applicable, for the Company and its banking subsidiary at September 30, 2020 and December 31, 2019: 
+
+Company Columbia Bank September 30, 2020 December 31, 2019 September 30, 2020 December 31, 2019 CET1 risk-based capital ratio 12.61 % 12.45 % 12.83 % 12.46 % Tier 1 risk-based capital ratio 12.61 % 12.45 % 12.83 % 12.46 % Total risk-based capital ratio 14.18 % 13.60 % 14.08 % 13.29 % Leverage ratio 8.89 % 10.17 % 9.14 % 10.22 % Capital conservation buffer 6.18 % 5.60 % 6.08 % 5.29 % 
+
+Stock Repurchase Program 
+
+As described in our Annual Report on Form 10-K for the year ended December 31, 2019, our board of directors approved a stock repurchase program to repurchase up to 2.9 million shares, up to a maximum aggregate purchase price of $100.0 million. The share repurchase authorization expired in May of 2020. There were no share repurchases during the three months ended September 30, 2020. The Company repurchased 731 thousand shares of common stock totaling $20.0 million during the nine months ended September 30, 2020. For additional information, please see Note 16 to the Consolidated Financial Statements in &#8220;Item 1. Financial Statements (unaudited)&#8221; of this report. 
+
+Non-GAAP Financial Measures 
+
+The Company considers operating net interest margin (tax equivalent) to be a useful measurement as it more closely reflects the ongoing operating performance of the Company. Additionally, presentation of the operating net interest margin allows readers to compare certain aspects of the Company&#8217;s net interest margin to other organizations that may not have had significant acquisitions. Despite the usefulness of the operating net interest margin (tax equivalent) to the Company, there is no standardized definition for it and, as a result, the Company&#8217;s calculations may not be comparable with other organizations. The Company encourages readers to consider its Consolidated Financial Statements in their entirety and not to rely on any single financial measure. 
+
+The following table reconciles the Company&#8217;s calculation of the operating net interest margin (tax equivalent) to the net interest margin (tax equivalent) for the periods indicated: 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2020 2019 2020 2019 (dollars in thousands) Operating net interest margin non-GAAP reconciliation: Net interest income (tax equivalent) (1) $ 126,554 $ 124,572 $ 374,579 $ 374,918 Adjustments to arrive at operating net interest income (tax equivalent): 
+
+Incremental accretion income on acquired loans (2) (1,665) (2,072) (4,831) (6,770) Premium amortization on acquired securities 701 1,386 2,803 4,816 Interest reversals on nonaccrual loans 393 174 1,854 1,462 Operating net interest income (tax equivalent) (1) $ 125,983 $ 124,060 $ 374,405 $ 374,426 Average interest earning assets $ 14,492,435 $ 11,941,578 $ 13,549,356 $ 11,704,702 Net interest margin (tax equivalent) (1) 3.47 % 4.14 % 3.69 % 4.28 % Operating net interest margin (tax equivalent) (1) 3.46 % 4.12 % 3.69 % 4.28 % 
+
+__________ 
+
+(1) Tax-exempt interest income has been adjusted to a tax equivalent basis. The amount of such adjustment was an addition to net interest income of $1.8 million and $2.1 million for the three months ended September 30, 2020 and 2019, respectively, and an addition to net interest income of $5.6 million and $6.3 million for the nine months ended September 30, 2020 and 2019, respectively. 
+
+(2) Beginning January 2020, incremental accretion income on PCI loans is no longer presented separate from incremental accretion income on other acquired loans. Prior period amounts have been reclassified to conform with current period presentation. 
+
+Table of Contents 
+

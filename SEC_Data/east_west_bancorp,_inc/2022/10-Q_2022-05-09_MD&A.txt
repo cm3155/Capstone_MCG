@@ -1,0 +1,910 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Page 
+
+Overview 
+
+Financial Review 
+
+Results of Operations 
+
+Net Interest Income 
+
+Noninterest Income 
+
+Noninterest Expense 
+
+Income Taxes 
+
+Operating Segment Results 
+
+Balance Sheet Analysis 
+
+Debt Securities 
+
+Loan Portfolio 
+
+Foreign Outstandings 
+
+Capital 
+
+Deposits and Other Sources of Fund ing 
+
+Regulatory Capital and Ratios 
+
+Risk Management 
+
+Credit Risk Management 
+
+Liquidity Risk Management 
+
+Market Risk Management 
+
+Critical Accounting Policies and Estimates 
+
+Reconciliation of GAAP to Non-GAAP Financial Measures 
+
+Forward-Looking Statements 
+
+55 
+
+Overview 
+
+The following discussion provides information about the results of operations, financial condition, liquidity and capital resources of East West Bancorp, Inc. (referred to herein on an unconsolidated basis as &#8220;East West&#8221; and on a consolidated basis as the &#8220;Company,&#8221; &#8220;we&#8221; or &#8220;EWBC&#8221;), and its subsidiaries, including its subsidiary bank, East West Bank and its subsidiaries (referred to herein as &#8220;East West Bank&#8221; or the &#8220;Bank&#8221;). This information is intended to facilitate the understanding and assessment of significant changes and trends related to the Company&#8217;s results of operations and financial condition. This discussion and analysis should be read in conjunction with the Consolidated Financial Statements and the accompanying notes presented elsewhere in this report, and the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2021, filed with the United States (&#8220;U.S.&#8221;) Securities and Exchange Commission (&#8220;SEC&#8221;) on February 28, 2022 (the &#8220;Company&#8217;s 2021 Form 10-K&#8221;). 
+
+Organization and Strategy 
+
+East West is a bank holding company incorporated in Delaware on August 26, 1998 and is registered under the Bank Holding Company Act of 1956, as amended. The Company commenced business on December 30, 1998 when, pursuant to a reorganization, it acquired all of the voting stock of the Bank, which became its principal asset. The Bank is an independent commercial bank headquartered in California that focuses on the financial service needs of the Asian-American community. Through over 120 locations in the U.S. and China, the Company provides a full range of consumer and commercial products and services through the following business segments: Consumer and Business Banking, and Commercial Banking, with the remaining operations recorded in Other . The Company&#8217;s principal activity is lending to and accepting deposits from businesses and individuals. We are committed to enhancing long-term stockholder value by growing loans, deposits and revenue, improving profitability, and investing for the future while managing risks, expenses and capital. Our business model is built on promoting customer loyalty and engagement, understanding our customers&#8217; financial goals, and meeting our customers&#8217; financial needs through our diverse products and services. We expect our relationship-focused business model to continue to generate organic growth from existing customers and to expand our targeted customer bases. As of March 31, 2022, the Company had $62.24 billion in assets and approximately 3,100 full-time equivalent employees. For additional information on our strategy, and the products and services provided by the Bank, see Item 1. Business &#8212; Strategy and Banking Services in the Company&#8217;s 2021 Form 10-K. 
+
+Developments 
+
+Coronavirus Disease Global Pandemic 
+
+The Coronavirus Disease 2019 (&#8220;COVID-19&#8221;) pandemic created a historic public health crisis and caused unprecedented disruptions to global economies. Although U.S. economic conditions have continued to recover from the COVID-19 pandemic as many health and safety restrictions have been lifted and vaccine rates have increased, certain adverse consequences of the pandemic continue to impact the macroeconomic environment and may persist for some time, including inflationary concerns, as well as stresses in labor markets, and global supply chains. As a result, it is difficult to predict and quantify all the specific impacts, and the extent to which the COVID-19 pandemic may negatively affect our business, financial condition, results of operations, regulatory capital, and liquidity ratios. The Company has been, and may continue to be, impacted by the COVID-19 pandemic. Despite this, the Company has continued to focus on serving its customers and communities and maintaining the well-being of its employees. The Company continues to monitor the external environment and make changes to its safety protocols as appropriate. 
+
+Refer to Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (&#8220;MD&#38;A&#8221;) &#8212; Overview in the Company&#8217;s 2021 Form 10-K and Item 2. MD&#38;A &#8212; Balance Sheet Analysis &#8212; Loan Portfolio in this Quarterly Report on Form 10-Q (&#8220;this Form 10-Q&#8221;) for a discussion on the initiatives the Company has undertaken to support its customers. Further discussion of the potential impacts on the Company&#8217;s business due to the COVID-19 pandemic has been provided in Item 1A. &#8212; Risk Factors &#8212; Risks Related to the COVID-19 Pandemic in the Company&#8217;s 2021 Form 10-K. 
+
+LIBOR Transition 
+
+In March 2021, the United Kingdom&#8217;s Financial Conduct Authority formally announced the London Interbank Offered Rate (&#8220;LIBOR&#8221;) cessation dates. As of January 1, 2022, the one-week and two-month U.S. dollar (&#8220;USD&#8221;) LIBOR tenors were no longer published. The overnight, one-, three-, six- and 12-month USD LIBOR tenors will continue to be calculated using panel bank submissions for the purpose of legacy contracts but will permanently cease on June 30, 2023. 
+
+In connection with the transition from LIBOR, the Adjustable Interest Rate (LIBOR) Act was signed into law as part of the Consolidated Appropriations Act, 2022, on March 15, 2022. This federal legislation provides a targeted solution for financial contracts that mature after the cessation of LIBOR in mid-2023 and have no effective means to replace LIBOR upon its cessation. For contracts in which a party has the discretion to select a successor rate, the legislation provides a safe harbor to parties if they choose the benchmark replacement to be identified by the Board of Governors of the Federal Reserve System (the &#8220;Federal Reserve&#8221;) through regulations that are to be promulgated within 180 days after the legislation&#8217;s enactment. Any Federal Reserve-identified replacement benchmark will be based on the Secured Overnight Financing Rate (&#8220;SOFR&#8221;), a rate published by the Federal Reserve Bank of New York, and will include an appropriate &#8220;tenor spread adjustment&#8221; between LIBOR and SOFR. 
+
+The Company holds a significant volume of LIBOR-based products, including loans, derivatives, debt securities, assets purchased under resale agreements (&#8220;resale agreements&#8221;), junior subordinated debt and repurchase agreements that are indexed to LIBOR tenors that will cease to be published after June 30, 2023. The Company has a cross-functional team to manage the communication of the Company&#8217;s transition plans with both internal and external stakeholders. The team helps to ensure that the Company appropriately updates its business processes, analytical tools, information systems and contract language to minimize disruption during and after the LIBOR transition. The Company has invested in updates to business and legal processes, models, analytical tools, and information and operational systems to facilitate the transition of legacy LIBOR products and offer products under alternative rates. 
+
+The Company began offering loans based on alternative reference rates, including SOFR and the Bloomberg Short-Term Bank Yield Index during the fourth quarter of 2021, and ceased offering new LIBOR loans and any renewals or extensions that extend the use of LIBOR rates beginning January 1, 2022. The Company also adopted industry best practice guidelines for fallback language for new transactions and distributed communications related to the transition to certain impacted internal and external stakeholders. The Company&#8217;s LIBOR transition is anticipated to continue through June 30, 2023. 
+
+The Company will continue to monitor potential risks and impacts associated with the transition. For additional information related to the potential impact surrounding the transition from LIBOR on the Company&#8217;s business, see Item 1A. Risk Factors &#8212; Risks Related to Financial Matters in the Company&#8217;s 2021 Form 10-K. 
+
+Financial Review 
+
+($ and shares in thousands, except per share, and ratio data) Three Months Ended March 31, 2022 March 31, 2021 Summary of operations: Net interest income before provision for credit losses (1) 
+
+$ 415,613 $ 353,695 Noninterest income 79,743 72,866 Total revenue 495,356 426,561 Provision for credit losses 8,000 &#8212; Noninterest expense 189,450 191,077 Income before income taxes 297,906 235,484 Income tax expense 60,254 30,490 Net income $ 237,652 $ 204,994 Per common share: Basic earnings $ 1.67 $ 1.45 Diluted earnings $ 1.66 $ 1.44 Dividends declared $ 0.40 $ 0.33 Weighted-average number of shares outstanding: Basic 142,025 141,646 Diluted 143,223 142,844 Performance metrics: Return on average assets (&#8220;ROA&#8221;) 1.56 % 1.50 % Return on average equity (&#8220;ROE&#8221;) 16.50 % 15.57 % Adjusted return on average tangible equity (2) 
+
+18.00 % 17.17 % Common dividend payout ratio 24.23 % 23.11 % Net interest margin 2.87 % 2.71 % Efficiency ratio (3) 
+
+38.25 % 44.79 % Adjusted efficiency ratio (2) 
+
+35.34 % 38.68 % At period end: March 31, 2022 December 31, 2021 Total assets $ 62,241,456 $ 60,870,701 Total loans (4) 
+
+$ 43,491,313 $ 41,694,416 Total deposits $ 54,938,361 $ 53,350,532 Common shares outstanding at period-end 142,257 141,908 Book value per common share $ 40.09 $ 41.13 Tangible equity per common share (2) 
+
+$ 36.76 $ 37.79 
+
+(1) Includes $5.2 million and $15.0 million of interest income related to Paycheck Protection Program (&#8220;PPP&#8221;) loans for the first quarters of 2022 and 2021, respectively. 
+
+(2) For additional information regarding the reconciliation of these non-U.S. Generally Accepted Accounting Principles (&#8220;GAAP&#8221;) financial measures, refer to Item 2. MD&#38;A &#8212; Reconciliation of GAAP to Non-GAAP Financial Measures in this Form 10-Q. 
+
+(3) The efficiency ratio is noninterest expense divided by total revenue . 
+
+(4) Includes $318.1 million an d $534.2 million o f PPP loans as of March 31, 2022 and December 31, 2021, respectively. 
+
+The Company&#8217;s first quarter 2022 net income was $237.7 million, an increase of $32.7 million or 16%, from first quarter 2021 net income of $205.0 million. The increase was primarily due to revenue growth, partially offset by higher income tax expense and provision for credit losses. 
+
+Noteworthy items about the Company&#8217;s first quarter 2022 performance included: 
+
+&#8226; Total assets reached $62.24 billion, growing by $1.37 billion or 2% from December 31, 2021, primarily driven by loan growth. 
+
+&#8226; Total loans were $43.49 billion as of March 31, 2022, an increase of $1.80 billion or 4% from $41.69 billion as of December 31, 2021. This was primarily driven by well-diversified growth throughout the commercial real estate (&#8220;CRE&#8221;), commercial and industrial (&#8220;C&#38;I&#8221;) and residential mortgage loans. 
+
+&#8226; Total deposits were $54.94 billion as of March 31, 2022, an increase of $1.59 billion or 3% from $53.35 billion as of December 31, 2021. Growth was primarily driven by noninterest-bearing demand deposits, which were partially offset by a decrease in money market accounts. Noninterest-bearing demand deposits comprised 45% of total deposits as of March 31, 2022, up from 43% as of December 31, 2021. 
+
+&#8226; First quarter 2022 net interest income before provision for credit losses was $415.6 million, an increase of $61.9 million or 18%, compared with $353.7 million for the first quarter of 2021. 
+
+&#8226; Profitability ratios in the first quarter of 2022 expanded. First quarter 2022 ROA was 1.56%, an increase of six basis points (&#8220;bps&#8221;) from 1.50% for the first quarter of 2021. First quarter 2022 ROE was 16.50%, an increase of 93 bps, from 15.57% for the first quarter of 2021. First quarter 2022 adjusted return on average tangible equity was 18.00%, compared with 17.17% for the first quarter of 2021. For additional details, see the reconciliation of non-GAAP measures presented under Item 2. MD&#38;A &#8212; Reconciliation of GAAP to Non-GAAP Financial Measures in this Form 10-Q. 
+
+&#8226; The efficiency ratio was 38.25% and 44.79% for the first quarters of 2022 and 2021, respectively. The adjusted efficiency ratio, which excludes the amortization of tax credit and other investments and the amortization of core deposit intangibles, was 35.34% for the first quarter of 2022, an improvement of 334 bps compared with 38.68% for the same period in 2021. For additional details, see the reconciliation of non-GAAP measures presented under Item 2. MD&#38;A &#8212; Reconciliation of GAAP to Non-GAAP Financial Measures in this Form 10-Q. 
+
+&#8226; The Company recorded a provision for credit losses of $8.0 million for the first quarter of 2022, compared with no provision for credit losses for the first quarter of 2021. 
+
+&#8226; Asset quality metrics were strong. As of March 31, 2022, criticized loans totaled $833.3 million, or 1.92% of loans-held-for-investment, compared with $833.1 million, or 2.00% of loans held-for-investment, as of December 31, 2021. Nonperforming assets were $94.4 million or 0.15% of total assets as of March 31, 2022, a decrease of $9.1 million or 9%, compared with $103.5 million or 0.17% of total assets as of December 31, 2021. First quarter 2022 net charge-offs were $8.3 million, or annualized 0.08% of average loans held-for-investment, down from $13.4 million, or annualized 0.14% of average loans held-for-investment, for the first quarter of 2021. 
+
+Results of Operations 
+
+Net Interest Income 
+
+The Company&#8217;s primary source of revenue is net interest income, which is the interest income earned on interest-earning assets less interest expense paid on interest-bearing liabilities. Net interest margin is the ratio of net interest income to average interest-earning assets. Net interest income and net interest margin are impacted by several factors, including changes in average balances and the composition of interest-earning assets and funding sources, market interest rate fluctuations and the slope of the yield curve, repricing characteristics and maturity of interest-earning assets and interest-bearing liabilities, the volume of noninterest-bearing sources of funds, and asset quality. 
+
+First quarter 2022 net interest income before provision for credit losses was $415.6 million, an increase of $61.9 million or 18%, compared with $353.7 million for the first quarter of 2021. First quarter 2022 net interest margin was 2.87%, an increase of 16 bps from 2.71% for the first quarter of 2021. The year-over-year net interest income growth and net interest margin expansion primarily reflected strong loan growth, higher loan yields and a lower cost of deposits. 
+
+Average interest-earning assets were $58.69 billion for the first quarter of 2022, an increase of $5.84 billion or 11% from $52.85 billion for the first quarter of 2021. The year-over-year increase in average interest-earning assets primarily reflected growth in the average balances of debt securities, loans, and resale agreements, partially offset by a decrease in average interest-bearing cash and deposits with banks. 
+
+The yield on average interest-earning assets for the first quarter of 2022 was 2.99%, an increase of six bps from 2.93% for the first quarter of 2021. Strong loan growth drove a favorable shift in the average interest-earning asset mix to higher yielding assets in the first quarter of 2022. 
+
+The average loan yield for the first quarter of 2022 was 3.63%, an increase of five bps from 3.58% for the first quarter of 2021. 65% and 64% of loans held-for-investment were variable-rate or hybrid loans in their adjustable-rate period as of March 31, 2022 and 2021, respectively. 
+
+Deposits are an important source of funds and impact both net interest income and net interest margin. The average cost of deposits was 0.10% for the first quarter of 2022, an eight bps decrease from 0.18% for the first quarter of 2021. The year-over-year decrease reflected lower rates paid on interest-bearing deposits, a higher proportion of noninterest-bearing demand deposits in the deposit mix, and the run-off of higher-cost time deposits. The average cost of interest-bearing deposits decreased 13 bps to 0.17% in first quarter of 2022, from 0.30% in the first quarter of 2021. Noninterest-bearing demand deposits comprised 43% of average total deposits in the first quarter of 2022, compared with 38% in the first quarter of 2021. Time deposits comprised 15% of average total deposits for the first quarter of 2022, compared with 19% for the first quarter of 2021. 
+
+The average cost of funds was 0.12% for the first quarter of 2022, a decrease of 11 bps from 0.23% for the first quarter of 2021. The decrease in the average cost of funds reflected the lower cost of deposits and the maturity of $175.0 million of Federal Home Loan Bank (&#8220;FHLB&#8221;) advances, which had a weighted average rate of 0.59% during the first quarter of 2021. Other sources of funding included in the calculation of the average cost of funds are FHLB advances, assets sold under repurchase agreements (&#8220;repurchase agreements&#8221;), long-term debt and short-term borrowings. 
+
+The Company utilizes various tools to manage interest rate risk. Refer to the Interest Rate Risk Management section of Item 2. MD&#38;A &#8212; Risk Management &#8212; Market Risk Management in this Form 10-Q. 
+
+The following table presents the interest spread, net interest margin, average balances, interest income and expense, and the average yield/rate by asset and liability component for the first quarters of 2022 and 2021: 
+
+($ in thousands) Three Months Ended March 31, 2022 2021 Average Balance Interest Average 
+
+Yield/ 
+
+Rate (1) 
+
+Average Balance Interest Average 
+
+Yield/ 
+
+Rate (1) 
+
+ASSETS Interest-earning assets: Interest-bearing cash and deposits with banks $ 4,466,012 $ 3,260 0.30 % $ 6,117,799 $ 3,632 0.24 % Resale agreements 2,097,998 8,383 1.62 % 1,461,900 6,099 1.69 % Available-for-sale (&#8220;AFS&#8221;) debt securities (2)(3) 
+
+7,969,795 34,469 1.75 % 6,459,875 29,100 1.83 % Held-to-maturity (&#8220;HTM&#8221;) debt securities (2)(4) 
+
+1,968,568 8,198 1.69 % &#8212; &#8212; &#8212; % Loans (5)(6) 
+
+42,112,418 377,110 3.63 % 38,729,307 342,008 3.58 % Restricted equity securities 77,575 609 3.18 % 83,164 547 2.67 % Total interest-earning assets $ 58,692,366 &#160; $ 432,029 &#160; 2.99 &#160; % $ 52,852,045 &#160; $ 381,386 &#160; 2.93 &#160; % Noninterest-earning assets: Cash and due from banks 641,882 580,277 Allowance for loan losses (543,345) (618,589) Other assets 2,967,145 2,780,550 Total assets $ 61,758,048 &#160; $ 55,594,283 &#160; LIABILITIES AND STOCKHOLDERS&#8217; EQUITY Interest-bearing liabilities: Checking deposits $ 6,648,065 $ 1,402 0.09 % $ 6,393,034 $ 4,214 0.27 % Money market deposits 12,913,336 3,203 0.10 % 11,573,847 4,711 0.17 % Savings deposits 2,930,309 1,704 0.24 % 2,674,476 1,741 0.26 % Time deposits 8,100,890 6,680 0.33 % 9,112,662 11,156 0.50 % Short-term borrowings 1,866 9 1.96 % 4,703 42 3.62 % FHLB advances 160,018 578 1.46 % 652,758 3,069 1.91 % Repurchase agreements 311,984 2,016 2.62 % 300,000 1,978 2.67 % Long-term debt and finance lease liabilities 152,011 824 2.20 % 152,088 780 2.08 % Total interest-bearing liabilities $ 31,218,479 &#160; $ 16,416 &#160; 0.21 &#160; % $ 30,863,568 &#160; $ 27,691 &#160; 0.36 &#160; % Noninterest-bearing liabilities and stockholders&#8217; equity: Demand deposits 23,432,746 18,093,696 Accrued expenses and other liabilities 1,264,208 1,298,921 Stockholders&#8217; equity 5,842,615 5,338,098 Total liabilities and stockholders&#8217; equity $ 61,758,048 &#160; $ 55,594,283 &#160; Interest rate spread 2.78 &#160; % 2.57 &#160; % Net interest income and net interest margin $ 415,613 &#160; 2.87 &#160; % $ 353,695 &#160; 2.71 &#160; % 
+
+(1) Annualized. 
+
+(2) Yields on tax-exempt securities are not presented on a tax-equivalent basis. 
+
+(3) Includes the amortization of premiums on AFS debt securities of $23.5 million and $19.0 million for the first quarters of 2022 and 2021, respectively. 
+
+(4) Includes the amortization of premiums on HTM debt securities of $134 thousand for the first quarter of 2022. 
+
+(5) Average balances include nonperforming loans and loans held-for-sale. 
+
+(6) Loans include the accretion of net deferred loan fees, unearned fees and amortization of premiums, which totaled $12.4 million and $13.9 million for the first quarters of 2022 and 2021, respectively. 
+
+The following table summarizes the extent to which changes in (1) interest rates, and (2) volume of average interest-earning assets and average interest-bearing liabilities affected the Company&#8217;s net interest income for the periods presented. The total change for each category of interest-earning assets and interest-bearing liabilities is segmented into changes attributable to variations in volume and yield/rate. Changes that are not solely due to either volume or yield/rate are allocated proportionally based on the absolute value of the change related to average volume and average rate. 
+
+($ in thousands) Three Months Ended March 31, 2022 vs. 2021 Total Change Changes Due to Volume Yield/Rate Interest-earning assets: Interest-bearing cash and deposits with banks $ (372) $ (1,102) $ 730 Resale agreements 2,284 2,552 (268) AFS debt securities 5,369 6,570 (1,201) HTM debt securities 8,198 8,198 &#8212; Loans 35,102 30,237 4,865 Restricted equity securities 62 (39) 101 Total interest and dividend income $ 50,643 $ 46,416 $ 4,227 Interest-bearing liabilities: Checking deposits $ (2,812) $ 162 $ (2,974) Money market deposits (1,508) 497 (2,005) Savings deposits (37) 158 (195) Time deposits (4,476) (1,136) (3,340) Short-term borrowings (33) (19) (14) FHLB advances (2,491) (1,906) (585) Repurchase agreements 38 78 (40) Long-term debt and finance lease liabilities 44 &#8212; 44 Total interest expense $ (11,275) $ (2,166) $ (9,109) Change in net interest income $ 61,918 &#160; $ 48,582 &#160; $ 13,336 &#160; 
+
+Noninterest Income 
+
+The following table presents the components of noninterest income for the first quarters of 2022 and 2021: 
+
+($ in thousands) Three Months Ended March 31, Change from 2021 2022 2021 $ % Lending fees $ 19,438 $ 18,357 $ 1,081 6 % Deposit account fees 
+
+20,315 15,383 4,932 32 % Interest rate contracts and other derivative income 11,133 16,997 (5,864) (35) % Foreign exchange income 12,699 9,526 3,173 33 % Wealth management fees 6,052 6,911 (859) (12) % Net gains on sales of loans 2,922 1,781 1,141 64 % Gains on sales of AFS debt securities 
+
+1,278 192 1,086 NM Other investment income 1,627 925 702 76 % Other income 4,279 2,794 1,485 53 % Total noninterest income 
+
+$ 79,743 &#160; $ 72,866 &#160; $ 6,877 &#160; 9 &#160; % 
+
+NM &#8212; Not meaningful. 
+
+Noninterest income comprised 16% and 17% of total revenue for the first quarters of 2022 and 2021, respectively. First quarter 2022 noninterest income was $79.7 million, an increase of $6.9 million or 9%, compared with $72.9 million for the same period in 2021. This increase was primarily due to increases in deposit account fees, foreign exchange income, other income, net gains on sales of loans and gains on sales of AFS debt securities, partially offset by a decrease in interest rate contracts and other derivative income. 
+
+Deposit account fees were $20.3 million for the first quarter of 2022, an increase of $4.9 million or 32%, compared with $15.4 million for the same period in 2021. The year-over-year growth was primarily driven by commercial deposit account and customer growth. 
+
+Interest rate contracts and other derivative income was $11.1 million for the first quarter of 2022, a decrease of $5.9 million or 35%, compared with $17.0 million for the same period in 2021. This decrease was primarily due to a lower amount of favorable credit valuation adjustments in the first quarter of 2022, compared with the year-ago period. 
+
+Foreign exchange income was $12.7 million for the first quarter of 2022, an increase of $3.2 million or 33%, compared with $9.5 million for the same period in 2021. This increase primarily reflected the spread earned on foreign exchange transactions. 
+
+Net gains on sales of loans were $2.9 million for the first quarter of 2022, an increase of $1.1 million or 64%, compared with $1.8 million for the same period in 2021. The increase was primarily due to a higher volume of Small Business Administration (&#8220;SBA&#8221;) loans sold. 
+
+Gains on sales of AFS debt securities were $1.3 million for the first quarter of 2022, an increase of $1.1 million compared with $192 thousand for the same period in 2021. The increase was primarily due to a higher volume of AFS debt securities sold. 
+
+Other income was $4.3 million for the first quarter of 2022, an increase of $1.5 million or 53%, compared with $2.8 million for the same period in 2021. The increase was primarily due to higher early termination fees received during the first quarter of 2022 related to the Company&#8217;s financing lease contracts. 
+
+Noninterest Expense 
+
+The following table presents the components of noninterest expense for the first quarters of 2022 and 2021: 
+
+($ in thousands) Three Months Ended March 31, Change from 2021 2022 2021 $ % Compensation and employee benefits $ 116,269 $ 107,808 $ 8,461 8 % Occupancy and equipment expense 15,464 15,922 (458) (3) % Deposit insurance premiums and regulatory assessments 
+
+4,717 3,876 841 22 % Deposit account expense 4,693 3,892 801 21 % Data processing 3,665 4,478 (813) (18) % Computer software expense 7,294 7,159 135 2 % Consulting expense 1,833 1,475 358 24 % Legal expense 718 1,502 (784) (52) % Other operating expense 20,897 19,607 1,290 7 % Amortization of tax credit and other investments 
+
+13,900 25,358 (11,458) (45) % Total noninterest expense 
+
+$ 189,450 &#160; $ 191,077 &#160; $ (1,627) (1) % 
+
+First quarter 2022 noninterest expense was $189.5 million, a decrease of $1.6 million or 1%, compared with $191.1 million for the same period in 2021. The decrease was primarily due to a decrease in amortization of tax credit and other investments, partially offset by higher compensation and employee benefits. 
+
+Compensation and employee benefits was $116.3 million for the first quarter of 2022, an increase of $8.5 million or 8%, compared with $107.8 million for the same period in 2021. This increase was primarily due to higher deferred loan costs related to PPP loan originations during the first quarter of 2021. 
+
+Amortization of tax credit and other investments were $13.9 million for the first quarter of 2022, a decrease of $11.5 million or 45%, compared with $25.4 million for the same period in 2021. This year-over-year decrease was primarily due to the expiration of production tax credit contracts during the second half of 2021. In addition, the year-over-year variability in the amortization of tax credit and other investments reflected the impact of investments that closed in a given period. 
+
+Income Taxes 
+
+($ in thousands) Three Months Ended March 31, 2022 2021 % Change Income before income taxes 
+
+$ 297,906 $ 235,484 27 % Income tax expense $ 60,254 $ 30,490 98 % Effective tax rate 20.2 % 12.9 % 
+
+First quarter 2022 income tax expense was $60.3 million, an increase of $29.8 million, compared with first quarter 2021 income tax expense of $30.5 million. First quarter 2022 effective tax rate was 20.2%, compared with first quarter 2021 effective tax rate of 12.9%. The increase in income tax expense was primarily driven by a higher level of income before income tax expense and an increase in the effective tax rate. First quarter 2022 effective tax rate was 20.2%, compared with first quarter 2021 effective tax rate of 12.9%. The year-over-year increase in the effective tax rate was primarily due to higher income before income taxes and a decrease in tax credits recognized in 2022. 
+
+Operating Segment Results 
+
+The Company organizes its operations into three reportable operating segments: (1) Consumer and Business Banking; (2) Commercial Banking; and (3) Other. These segments are defined by the type of customers served and the related products and services provided. The segments reflect how financial information is currently evaluated by management. For additional description of the Company&#8217;s internal management reporting process, including the segment cost allocation methodology, see Note 14 &#8212; Business Segments to the Consolidated Financial Statements in this Form 10-Q. 
+
+Segment net interest income represents the difference between actual interest earned on assets and interest incurred on liabilities of the segment, adjusted for funding charges or credits through the Company&#8217;s internal funds transfer pricing (&#8220;FTP&#8221;) process. 
+
+The following table presents the results by operating segment for the periods indicated: 
+
+($ in thousands) Three Months Ended March 31, Consumer and Business Banking Commercial Banking Other 2022 2021 2022 2021 2022 2021 Total revenue (loss) (1) 
+
+$ 238,413 $ 173,341 $ 257,154 $ 224,488 $ (211) $ 28,732 Provision for (reversal of) credit losses 3,104 (4,249) 4,896 4,249 &#8212; &#8212; Noninterest expense 96,095 89,286 73,395 69,257 19,960 32,534 Segment income (loss) before income taxes (1) 
+
+139,214 88,304 178,863 150,982 (20,171) (3,802) 
+
+Segment net income (1) 
+
+$ 99,164 $ 63,251 $ 127,507 $ 108,207 $ 10,981 $ 33,536 
+
+(1) During the fourth quarter of 2021, the Company enhanced its segment allocation methodology related to the fair values of interest rate and commodity derivative contracts, which are included in noninterest income. These fair values, which were previously allocated to the &#8220;Commercial Banking&#8221; segment prior to the fourth quarter of 2021, have since been reclassified between &#8220;Consumer and Business Banking&#8221; and &#8220;Commercial Banking.&#8221; Balances for the first quarter of 2021 have been reclassified to reflect these allocation changes for comparability. 
+
+Consumer and Business Banking 
+
+The Consumer and Business Banking segment primarily provides financial products and services to consumer and commercial customers through the Company&#8217;s domestic branch network. This segment offers consumer and commercial deposits, mortgage and home equity loans, and other products and services. It also originates commercial loans for small- and medium-sized enterprises. Other products and services provided by this segment include wealth management, treasury management, interest rate risk hedging and foreign exchange services. 
+
+The following table presents additional financial information for the Consumer and Business Banking segment for the periods indicated: 
+
+($ in thousands) Three Months Ended March 31, Change from 2021 2022 2021 $ % Net interest income before provision for (reversal of) credit losses $ 213,214 $ 149,899 $ 63,315 42 % 
+
+Noninterest income (1) 
+
+25,199 23,442 1,757 7 % Total revenue (1) 
+
+238,413 173,341 65,072 38 % Provision for (reversal of) credit losses 3,104 (4,249) 7,353 (173) % Noninterest expense 96,095 89,286 6,809 8 % 
+
+Segment income before income taxes (1) 
+
+139,214 88,304 50,910 58 % Income tax expense 40,050 25,053 14,997 60 % 
+
+Segment net income (1) 
+
+$ 99,164 $ 63,251 $ 35,913 57 % Average loans $ 14,606,446 $ 13,300,153 $ 1,306,293 10 % Average deposits $ 33,113,820 $ 30,224,844 $ 2,888,976 10 % 
+
+(1) During the fourth quarter of 2021, the Company enhanced its segment allocation methodology related to the fair values of interest rate and commodity derivative contracts, which are included in noninterest income. These fair values, which were previously allocated to the &#8220;Commercial Banking&#8221; segment prior to the fourth quarter of 2021, have since been reclassified between &#8220;Consumer and Business Banking&#8221; and &#8220;Commercial Banking.&#8221; Balances for the first quarter of 2021 have been reclassified to reflect these allocation changes for comparability. 
+
+Consumer and Business Banking segment net income was $99.2 million for the first quarter of 2022, an increase of $35.9 million or 57% year-over-year. This increase reflected revenue growth, partially offset by higher income tax expense, provision for credit losses and noninterest expense. Net interest income before provision for (reversal of) credit losses was $213.2 million for the first quarter of 2022, an increase of $63.3 million or 42% year-over-year. The growth in net interest income before provision for (reversal of) credit losses was driven by lower interest expense, primarily due to lower interest rates and a larger proportion of noninterest-bearing deposits, and h igher interest income, primarily due to growth in residential mortgage loans. 
+
+Commercial Banking 
+
+The Commercial Banking segment primarily generates commercial loan and deposit products. Commercial loan products include CRE lending, construction finance, working capital lines of credit, trade finance, letters of credit, commercial business lending, affordable housing lending, asset-based lending, asset-backed finance, project finance and equipment financing. Commercial deposit products and other financial services include treasury management, foreign exchange services, and interest rate and commodity risk hedging. 
+
+The following table presents additional financial information for the Commercial Banking segment for the periods indicated: 
+
+($ in thousands) Three Months Ended March 31, Change from 2021 2022 2021 $ % Net interest income before provision for credit losses $ 208,077 $ 177,092 $ 30,985 17 % 
+
+Noninterest income (1) 
+
+49,077 47,396 1,681 4 % Total revenue (1) 
+
+257,154 224,488 32,666 15 % Provision for credit losses 4,896 4,249 647 15 % Noninterest expense 73,395 69,257 4,138 6 % Segment income before income taxes (1) 
+
+178,863 150,982 27,881 18 % Income tax expense 51,356 42,775 8,581 20 % Segment net income (1) 
+
+$ 127,507 $ 108,207 $ 19,300 18 % Average loans $ 27,505,972 $ 25,429,154 $ 2,076,818 8 % Average deposits $ 17,736,525 $ 15,095,700 $ 2,640,825 17 % 
+
+(1) During the fourth quarter of 2021, the Company enhanced its segment allocation methodology related to the fair values of interest rate and commodity derivative contracts, which are included in noninterest income. These fair values, which were previously allocated to the &#8220;Commercial Banking&#8221; segment prior to the fourth quarter 2021, have since been reclassified between &#8220;Consumer and Business Banking&#8221; and &#8220;Commercial Banking.&#8221; Balances for the first quarter of 2021 have been reclassified to reflect these allocation changes for comparability. 
+
+Commercial Banking segment net income was $127.5 million for the first quarter of 2022, an increase of $19.3 million or 18% year-over-year. This increase reflected revenue growth, partially offset by higher income tax expense and noninterest expense. Net interest income before provision for credit losses was $208.1 million for the first quarter of 2022, an increase of $31.0 million or 17% year-over-year. The growth in net interest income before provision for credit losses was driven by lower interest expense, primarily due to lower interest rates and a larger proportion of noninterest-bearing deposits, and higher interest income, primarily due to growth in commercial lo ans. 
+
+Other 
+
+Centralized functions, including the corporate treasury activities of the Company and eliminations of inter-segment amounts, have been aggregated and included in the Other segment, which provides broad administrative support to the two core segments, namely the Consumer and Business Banking, and the Commercial Banking segments. 
+
+The following table presents additional financial information for the Other segment for the periods indicated: 
+
+($ in thousands) Three Months Ended March 31, Change from 2021 2022 2021 $ % Net interest (loss) income before provision for credit losses $ (5,678) $ 26,704 $ (32,382) (121) % Noninterest income 5,467 2,028 3,439 170 % Total (loss) revenue (211) 28,732 (28,943) (101) % Noninterest expense 19,960 32,534 (12,574) (39) % Segment loss before income taxes (20,171) (3,802) (16,369) 431 % Income tax benefit 31,152 37,338 (6,186) (17) % Segment net income $ 10,981 $ 33,536 $ (22,555) (67) % Average deposits $ 3,175,001 $ 2,527,171 $ 647,830 26 % 
+
+Other segment net income was $11.0 million for the first quarter of 2022, a decrease of $22.6 million or 67% year-over-year. This decrease was primarily driven by lower revenue and income tax benefit, partially offset by lower noninterest expense. Other segment recorded a net interest loss before provision for credit losses of $5.7 million for the first quarter of 2022, a $32.4 million or 121% decrease, from $26.7 million of net interest income before provision for credit losses in the first quarter of 2021. The decrease was primarily driven by lower FTP spread income absorbed by the Other segment, partially offset by an increase in interest income from investments due to a higher volume of debt securities. Noninterest expense of $20.0 million decreased by $12.6 million or 39% year-over-year, primarily due to lower amortization of tax credits and other investments. 
+
+Balance Sheet Analysis 
+
+Debt Securities 
+
+The Company maintains a portfolio of high quality and liquid debt securities with a moderate duration profile. It closely manages the overall portfolio interest rate and liquidity risks. The Company&#8217;s debt securities provide: 
+
+&#8226; interest income for earnings and yield enhancement; 
+
+&#8226; availability for funding needs arising during the normal course of business; 
+
+&#8226; the ability to execute interest rate risk management strategies in response to changes in economic or market conditions; and 
+
+&#8226; collateral to support pledging agreements as required and/or to enhance the Company&#8217;s borrowing capacity. 
+
+While the Company intends to hold its debt securities indefinitely, it may sell AFS securities in response to changes in the balance sheet and related interest rate risk to meet liquidity, regulatory, and strategic requirements. 
+
+The following table presents the distribution of the Company&#8217;s AFS and HTM debt securities portfolio as of March 31, 2022 and December 31, 2021, and by credit ratings as of March 31, 2022: 
+
+($ in thousands) March 31, 2022 December 31, 2021 Ratings as of March 31, 2022 (1) 
+
+Amortized Cost Fair Value % of Fair Value Amortized Cost Fair Value % of Fair Value AAA/AA A BBB No Rating AFS debt securities: U.S. Treasury securities $ 676,330 $ 637,974 9 % $ 1,049,238 $ 1,032,681 10 % 100 % &#8212; % &#8212; % &#8212; % U.S. government agency and U.S. government-sponsored enterprise debt securities 326,555 304,395 5 % 1,333,984 1,301,971 13 % 100 % &#8212; % &#8212; % &#8212; % U.S. government agency and U.S. government-sponsored enterprise mortgage-backed securities 2,813,281 2,668,808 40 % 4,210,832 4,157,263 42 % 100 % &#8212; % &#8212; % &#8212; % Municipal securities 317,952 298,659 4 % 519,381 523,158 5 % 92 % 5 % &#8212; % 3 % Non-agency mortgage-backed securities 1,323,705 1,252,107 19 % 1,388,857 1,378,374 14 % 84 % &#8212; % &#8212; % 16 % Corporate debt securities 683,502 630,512 9 % 657,516 649,665 6 % &#8212; % 21 % 79 % &#8212; % Foreign government bonds 260,846 253,811 4 % 260,447 257,733 3 % 44 % 56 % &#8212; % &#8212; % Asset-backed securities 72,160 71,362 1 % 74,674 74,558 1 % 100 % &#8212; % &#8212; % &#8212; % Collateralized loan obligations (&#8220;CLOs&#8221;) 617,250 611,803 9 % 592,250 589,950 6 % 96 % 4 % &#8212; % &#8212; % Total AFS debt securities $ 7,091,581 &#160; $ 6,729,431 &#160; 100 &#160; % $ 10,087,179 &#160; $ 9,965,353 &#160; 100 &#160; % 85 &#160; % 5 &#160; % 7 &#160; % 3 &#160; % HTM debt securities: U.S. Treasury securities $ 519,989 $ 499,275 18 % $ &#8212; $ &#8212; &#8212; % 100 % &#8212; % &#8212; % &#8212; % U.S. government agency and U.S. government-sponsored enterprise debt securities 946,763 879,286 31 % &#8212; &#8212; &#8212; % 100 % &#8212; % &#8212; % &#8212; % U.S. government agency and U.S. government-sponsored enterprise mortgage-backed securities 1,340,679 1,264,311 45 % &#8212; &#8212; &#8212; % 100 % &#8212; % &#8212; % &#8212; % Municipal securities 190,271 173,096 6 % &#8212; &#8212; &#8212; % 100 % &#8212; % &#8212; % &#8212; % Total HTM debt securities $ 2,997,702 &#160; $ 2,815,968 &#160; 100 &#160; % $ &#8212; &#160; $ &#8212; &#160; &#8212; &#160; % 100 &#160; % &#8212; &#160; % &#8212; &#160; % &#8212; &#160; % Total debt securities $ 10,089,283 &#160; $ 9,545,399 &#160; $ 10,087,179 &#160; $ 9,965,353 &#160; 
+
+(1) Primarily based upon the credit ratings issued by S&#38;P Global Ratings (&#8220;S&#38;P&#8221;), Moody&#8217;s Investors Service (&#8220;Moody&#8217;s&#8221;) or Fitch Ratings (&#8220;Fitch&#8221;), applying the lowest rating, if split rated. Rating percentages are allocated based on fair value. 
+
+The Company&#8217;s AFS and HTM debt securities portfolios had an effective duration, defined as the sensitivity of the value of the portfolio to interest rate changes, of 5.3 as of March 31, 2022. This increased from 5.0 as of December 31, 2021, primarily due to both the upshifting and steepening of the yield curve. 
+
+Available-for-Sale Debt Securities 
+
+The fair value of the AFS debt securities portfolio totaled $6.73 billion as of March 31, 2022, a decrease of $3.24 billion or 32% from $9.97 billion as of December 31, 2021. The decrease was primarily due to the Company&#8217;s transfer of $3.01 billion of AFS securities to HTM securities during the first quarter of 2022. For further discussion, see the Held-to-Maturity Debt Securities section below. The Company&#8217;s AFS debt securities are carried at fair value with noncredit-related unrealized gains and losses, net of tax, reported in Other comprehensive (loss) income on the Consolidated Statement of Comprehensive Income. Pre-tax net unrealized losses on AFS debt securities were $362.2 million as of March 31, 2022, compared with pre-tax net unrealized losses on AFS debt securities of $121.8 million as of December 31, 2021. 
+
+As of March 31, 2022, 85% of the carrying value of the AFS debt securities portfolio was rated &#8220;AA-&#8221; or &#8220;Aa3&#8221; or higher by nationally recognized credit rating agencies, compared with 90% as of December 31, 2021. Of the AFS debt securities with gross unrealized losses, substantially all were rated investment grade as of March 31, 2022 and December 31, 2021. The Company believes that the gross unrealized losses were due to non-credit related factors and were primarily attributable to interest rate movement and widened spreads for certain securities during the first quarter of 2022. The Company believes that the credit support levels of the AFS debt securities are strong and, based on current assessments and macroeconomic forecasts, expects that full contractual cash flows will be received. As of March 31, 2022, the Company had no intention to sell securities with unrealized losses and believed it was more-likely-than-not that it would not be required to sell such securities before recovery of their amortized costs. 
+
+The Company assesses individual securities for credit losses for each reporting period. If a credit loss is identified, the Company records an impairment through the allowance for credit losses with a corresponding Provision for credit losses on the Consolidated Statement of Income. There were no credit losses recognized in earnings for both the first quarter of 2022 and 2021. 
+
+Held-to-Maturity Debt Securities 
+
+During the first quarter of 2022, the Company transferred $3.01 billion in aggregate fair value of U.S. Treasury, government agency and government-sponsored enterprise debt and mortgage-back securities, and municipal securities from AFS to HTM. In comparison, there were no HTM debt securities as of December 31, 2021. The Company&#8217;s HTM debt securities are carried at amortized cost. The unrealized gains or losses at the date of transfer of these securities continue to be reported in Accumulated other comprehensive income (loss) (&#8220;AOCI&#8221;), net of tax on the Consolidated Balance Sheet and are amortized over the remaining life of the securities. 
+
+For HTM debt securities, the allowance for credit losses is measured using an expected loss model, similar to the methodology used for loans. Any expected credit loss is provided through the allowance for credit losses and is deducted from the amortized cost basis reflecting on the Consolidated Balance Sheet the net amount the Company expects to collect. As of March 31, 2022, all HTM securities were rated &#8220;AA-&#8221; or &#8220;Aa3&#8221; or higher by nationally recognized credit rating agencies. All HTM debt securities were issued, guaranteed, or supported by the U.S. government or government-sponsored enterprises. Accordingly, the Company applied a zero credit loss assumption for these securities and no allowance for credit loss was recorded as of March 31, 2022. 
+
+For additional information on AFS and HTM securities, see Note 1 &#8212; Summary of Significant Accounting Policies to the Consolidated Financial Statements in the Company&#8217;s 2021 Form 10-K and Note 2 &#8212; Current Accounting Developments and Summary of Significant Accounting Policies, Note 3 &#8212; Fair Value Measurement and Fair Value of Financial Instruments and Note 5 &#8212; Securities to the Consolidated Financial Statements in this Form 10-Q. 
+
+Loan Portfolio 
+
+The Company offers a broad range of financial products designed to meet the credit needs of its borrowers. The Company&#8217;s loan portfolio segments include commercial loans, which consist of C&#38;I, CRE, multifamily residential, construction and land loans, and consumer loans, which consist of single-family residential, home equity lines of credit (&#8220;HELOCs&#8221;), and other consumer loans. Total net loans were $42.95 billion as of March 31, 2022, an increase of $1.79 billion or 4% from $41.15 billion as of December 31, 2021. This was primarily driven by well-diversified growth throughout our major loan categories including $797.9 million or 5% in total CRE loans, $687.5 million or 5% in C&#38;I loans, and $311.5 million or 3% in residential mortgage loans. Excluding PPP loans, total loans grew $2.01 billion or 5% and C&#38;I loans grew $903.6 million or 7% from December 31, 2021. The composition of the loan portfolio as of March 31, 2022 was similar to the composition as of December 31, 2021. 
+
+The following table presents the composition of the Company&#8217;s total loan portfolio by loan type as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) March 31, 2022 December 31, 2021 Amount % Amount % Commercial: C&#38;I (1) 
+
+$ 14,838,134 34 % $ 14,150,608 34 % CRE: CRE 12,636,787 29 % 12,155,047 29 % Multifamily residential 3,894,463 9 % 3,675,605 9 % Construction and land 443,836 1 % 346,486 1 % Total CRE 16,975,086 39 % 16,177,138 39 % Total commercial 31,813,220 &#160; 73 &#160; % 30,327,746 &#160; 73 &#160; % Consumer: Residential mortgage: Single-family residential 9,283,429 22 % 9,093,702 22 % HELOCs 2,266,634 5 % 2,144,821 5 % Total residential mortgage 11,550,063 27 % 11,238,523 27 % Other consumer 127,399 0 % 127,512 0 % Total consumer 11,677,462 &#160; 27 &#160; % 11,366,035 &#160; 27 &#160; % Total loans held-for-investment (2) 
+
+43,490,682 &#160; 100 &#160; % 41,693,781 &#160; 100 &#160; % Allowance for loan losses 
+
+(545,685) (541,579) 
+
+Loans held-for-sale (3) 
+
+631 635 Total loans, net $ 42,945,628 &#160; $ 41,152,837 &#160; 
+
+(1) Includes $318.1 million and $534.2 million of PPP loans as of March 31, 2022 and December 31, 2021, respectively. 
+
+(2) Includes net deferred loan fees, unearned fees, unamortized premiums and unaccreted discounts of $(42.7) million and $(50.7) million as of March 31, 2022 and December 31, 2021, respectively. 
+
+(3) Consists of single-family residential loans as of both March 31, 2022 and December 31, 2021. 
+
+Actions to Support Customers during the COVID-19 Pandemic 
+
+In response to the COVID-19 pandemic, the Company assisted customers by offering SBA PPP loans to help struggling businesses in our communities pay their employees and sustain their businesses. The SBA stopped accepting new loan applications on May 31, 2021. As of March 31, 2022, the Company had about 1,000 PPP loans outstanding with balances totaling $318.1 million, which were recorded in the C&#38;I portfolio. During the first quarter of 2022, the Company submitted and received SBA approval for the forgiveness of about 800 PPP loans, totaling $202.2 million. For more information on PPP loans, refer to Note 1 &#8212; Summary of Significant Accounting Policies &#8212; Significant Accounting Policies &#8212; Paycheck Protection Program to the Consolidated Financial Statements in the Company&#8217;s 2021 Form 10-K. 
+
+In addition, the Company provided payment relief through various loan modification programs, which expired on January 1, 2022. Refer to Item 2. MD&#38;A &#8212; Risk Management &#8212; Credit Risk Management in this Form 10-Q for details. 
+
+Commercial 
+
+The commercial loan portfolio comprised 73% of total loans as of both March 31, 2022 and December 31, 2021. The Company actively monitors this commercial lending portfolio for elevated levels of credit risk and reviews credit exposures for sensitivity to changing economic conditions. 
+
+Commercial &#8212; Commercial and Industrial Loans. Total C&#38;I loan commitments (loans outstanding plus unfunded credit commitments, excluding issued letters of credit) were $21.02 billion as of March 31, 2022, an increase of $727.3 million or 4% from $20.29 billion as of December 31, 2021. Total C&#38;I loans were $14.84 billion as of March 31, 2022, an increase of $687.5 million or 5% from $14.15 billion. Total C&#38;I loans made up 34% of total loans held-for-investment as of both March 31, 2022 and December 31, 2021. The C&#38;I loan portfolio includes loans and financing for businesses in a wide spectrum of industries, comprised of working capital lines of credit, trade finance, letters of credit, affordable housing lending, asset-based lending, asset-backed finance, project finance and equipment financing. The C&#38;I loan portfolio also includes PPP loans. Additionally, the Company has a portfolio of broadly syndicated C&#38;I loans, which represent revolving or term loan facilities that are marketed and sold primarily to institutional investors. This portfolio totaled $1.00 billion and $939.4 million as of March 31, 2022 and December 31, 2021, respectively. The majority of the C&#38;I loans had variable interest rates as of both March 31, 2022 and December 31, 2021. 
+
+The C&#38;I portfolio is well-diversified by industry. The Company monitors concentrations within the C&#38;I loan portfolio by customer exposure and industry classification, setting diversification targets and exposure limits by industry or loan product. The following charts illustrate the industry mix within our C&#38;I portfolio as of March 31, 2022 and December 31, 2021. 
+
+Commercial &#8212; Total Commercial Real Estate Loans. Total CRE loans outstanding were $16.98 billion as of March 31, 2022, which grew by $797.9 million or 5%, from $16.18 billion as of December 31, 2021, and accounted for 39% of total loans held-for-investment as of both dates. The total CRE loan portfolio consists of CRE, multifamily residential, and construction and land loans. CRE consists of customers with diversified property types listed in the table below. The year-to-date growth in total CRE loans was primarily driven by industrial and multifamily property types. 
+
+The Company&#8217;s total CRE portfolio is diversified by property type with an average CRE loan size of $2.5 million as of both March 31, 2022 and December 31, 2021. The following table summarizes the Company&#8217;s total CRE loans by property type as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) March 31, 2022 December 31, 2021 Amount % Amount % Property types: Retail (1) 
+
+$ 3,759,210 22 % $ 3,685,900 23 % Multifamily 3,894,463 23 % 3,675,605 23 % Office (1) 
+
+2,905,623 17 % 2,804,006 17 % Industrial (1) 
+
+3,099,131 18 % 2,807,325 18 % Hospitality (1) 
+
+2,036,571 12 % 1,993,995 12 % Construction and land 443,836 3 % 346,486 2 % Other (1) 
+
+836,252 5 % 863,821 5 % Total CRE loans $ 16,975,086 &#160; 100 &#160; % $ 16,177,138 &#160; 100 &#160; % 
+
+(1) Included in CRE loans. 
+
+The weighted-average loan-to-value (&#8220;LTV&#8221;) ratio of the total CRE portfolio was 51% as of both March 31, 2022 and December 31, 2021. The low weighted-average LTV ratio was consistent by CRE property type. Approximately 89% of total CRE loans had an LTV ratio of 65% or lower as of both March 31, 2022 and December 31, 2021. The consistency of the Company&#8217;s low LTV underwriting standards has historically resulted in lower credit losses for CRE and multifamily residential loans. 
+
+The following tables provide a summary of the Company&#8217;s CRE, multifamily residential, and construction and land loans by geography as of March 31, 2022 and December 31, 2021. The distribution of the total CRE loan portfolio reflects the Company&#8217;s geographic footprint, which is primarily concentrated in California: 
+
+($ in thousands) March 31, 2022 CRE % Multifamily Residential % Construction and Land % Total CRE % Geographic markets: 
+
+Southern California 
+
+$ 6,673,427 $ 2,093,728 $ 184,061 $ 8,951,216 Northern California 
+
+2,639,700 767,891 144,214 3,551,805 California 9,313,127 74 % 2,861,619 73 % 328,275 75 % 12,503,021 73 % Texas 1,089,421 9 % 295,875 8 % 4,528 1 % 1,389,824 8 % New York 677,511 5 % 187,260 5 % 81,760 18 % 946,531 6 % Washington 405,585 3 % 148,003 4 % 10,058 2 % 563,646 3 % Nevada 139,303 1 % 114,581 3 % 13,479 3 % 267,363 2 % Arizona 120,849 1 % 67,895 2 % &#8212; &#8212; % 188,744 1 % Other markets 890,991 7 % 219,230 5 % 5,736 1 % 1,115,957 7 % Total loans $ 12,636,787 &#160; 100 &#160; % $ 3,894,463 &#160; 100 &#160; % $ 443,836 &#160; 100 &#160; % $ 16,975,086 &#160; 100 &#160; % 
+
+($ in thousands) December 31, 2021 CRE % Multifamily Residential % Construction and Land % Total CRE % Geographic markets: 
+
+Southern California 
+
+$ 6,406,609 $ 2,030,938 $ 138,953 $ 8,576,500 Northern California 
+
+2,622,398 748,631 109,483 3,480,512 California 9,029,007 75 % 2,779,569 77 % 248,436 70 % 12,057,012 75 % Texas 1,005,455 8 % 308,652 8 % 1,896 1 % 1,316,003 8 % New York 630,442 5 % 157,099 4 % 78,368 23 % 865,909 5 % Washington 408,913 3 % 116,047 3 % 9,865 3 % 534,825 3 % Nevada 128,395 1 % 115,163 3 % 5,775 2 % 249,333 2 % Arizona 122,164 1 % 49,836 1 % &#8212; &#8212; % 172,000 1 % Other markets 830,671 7 % 149,239 4 % 2,146 1 % 982,056 6 % Total loans $ 12,155,047 &#160; 100 &#160; % $ 3,675,605 &#160; 100 &#160; % $ 346,486 &#160; 100 &#160; % $ 16,177,138 &#160; 100 &#160; % 
+
+Because 73% and 75% of total CRE loans were concentrated in California as of March 31, 2022 and December 31, 2021, respectively, changes in California&#8217;s economy and real estate values could have a significant impact on the collectability of these loans and the required level of allowance for loan losses. For additional information related to the higher degree of risk from a downturn in the California real estate market, see Item 1A. Risk Factors &#8212; Risks Related to Geopolitical Uncertainties to the Company&#8217;s 2021 Form 10-K. 
+
+Commercial &#8212; Commercial Real Estate Loans. The Company focuses on providing financing to experienced real estate investors and developers who have moderate levels of leverage, many of whom are long-time customers of the Bank. CRE loans totaled $12.64 billion as of March 31, 2022, compared with $12.16 billion as of December 31, 2021, and accounted for 29% of total loans held-for-investment as of both dates. Interest rates on CRE loans may be fixed, variable or hybrid. As of both March 31, 2022 and December 31, 2021, the majority of CRE loans were variable rate loans. Loans are underwritten with conservative standards for cash flows, debt service coverage and LTV. 
+
+Owner-occupied properties comprised 20% of the CRE loans as of both March 31, 2022 and December 31, 2021. The remainder were non-owner-occupied properties, where 50% or more of the debt service for the loan is typically provided by rental income from an unaffiliated third party. 
+
+Commercial &#8212; Multifamily Residential Loans. The multifamily residential loan portfolio is largely comprised of loans secured by residential properties with five or more units. Multifamily residential loans totaled $3.89 billion as of March 31, 2022, compared with and $3.68 billion as of December 31, 2021, and accounted for 9% of total loans held-for-investment as of both dates. The Company offers a variety of first lien mortgages, including fixed- and variable-rate loans, as well as hybrid loans with interest rates that adjust annually after an initial fixed rate period of three to ten years. 
+
+Commercial &#8212; Construction and Land Loans. Construction and land loans provide financing for a portfolio of projects diversified by real estate property type. Construction and land loans totaled $443.8 million as of March 31, 2022, compared with $346.5 million as of December 31, 2021, and accounted for 1% of total loans held-for-investment as of both dates. Construction loans exposure was made up of $354.4 million in loans outstanding, plus $335.0 million in unfunded commitments as of March 31, 2022, compared with $297.9 million in loans outstanding, plus $361.2 million in unfunded commitments as of December 31, 2021. Land loans totaled $89.5 million as of March 31, 2022, compared with $48.6 million as of December 31, 2021. 
+
+Consumer 
+
+The following tables summarize the Company&#8217;s single-family residential and HELOC loan portfolios by geography as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) March 31, 2022 Single-Family Residential % HELOCs % Total Residential Mortgage % Geographic markets: Southern California $ 3,562,505 $ 1,029,843 $ 4,592,348 Northern California 1,041,515 520,439 1,561,954 California 4,604,020 48 % 1,550,282 69 % 6,154,302 53 % New York 3,215,122 35 % 299,484 13 % 3,514,606 30 % Washington 515,752 6 % 255,518 11 % 771,270 7 % Massachusetts 260,701 3 % 89,209 4 % 349,910 3 % Georgia 272,576 3 % 26,560 1 % 299,136 3 % Texas 250,222 3 % &#8212; &#8212; % 250,222 2 % Other markets 165,036 2 % 45,581 2 % 210,617 2 % Total $ 9,283,429 &#160; 100 &#160; % $ 2,266,634 &#160; 100 &#160; % $ 11,550,063 &#160; 100 &#160; % Lien priority: First mortgage $ 9,283,429 100 % $ 1,968,945 87 % $ 11,252,374 97 % Junior lien mortgage &#8212; &#8212; % 297,689 13 % 297,689 3 % Total $ 9,283,429 &#160; 100 &#160; % $ 2,266,634 &#160; 100 &#160; % $ 11,550,063 &#160; 100 &#160; % 
+
+($ in thousands) December 31, 2021 Single-Family Residential % HELOCs % Total Residential Mortgage % Geographic markets: Southern California $ 3,520,010 $ 971,731 $ 4,491,741 Northern California 1,024,564 506,310 1,530,874 California 4,544,574 49 % 1,478,041 68 % 6,022,615 54 % New York 3,102,129 34 % 292,540 14 % 3,394,669 30 % Washington 526,721 6 % 230,294 11 % 757,015 7 % Massachusetts 258,372 3 % 75,815 4 % 334,187 3 % Georgia 279,328 3 % 25,208 1 % 304,536 3 % Texas 230,402 3 % &#8212; &#8212; % 230,402 2 % Other markets 152,176 2 % 42,923 2 % 195,099 1 % Total $ 9,093,702 &#160; 100 &#160; % $ 2,144,821 &#160; 100 &#160; % $ 11,238,523 &#160; 100 &#160; % Lien priority: First mortgage $ 9,093,702 100 % $ 1,872,440 87 % $ 10,966,142 98 % Junior lien mortgage &#8212; &#8212; % 272,381 13 % 272,381 2 % Total $ 9,093,702 &#160; 100 &#160; % $ 2,144,821 &#160; 100 &#160; % $ 11,238,523 &#160; 100 &#160; % 
+
+Consumer &#8212; Single-Family Residential Mortgages. Single-family residential loans totaled $9.28 billion as of March 31, 2022, compared with $9.09 billion as of December 31, 2021, and accounted for 22% of total loans held-for-investment as of both dates. Year-to-date, single-family residential mortgages increased $189.7 million or 2%, primarily driven by net growth in New York and California. The Company was in a first lien position for all of its single-family residential loans as of both March 31, 2022 and December 31, 2021. Many of these loans are reduced documentation loans, for which a substantial down payment is required, resulting in a low LTV ratio at origination, typically 65% or less. These loans have historically experienced low delinquency and loss rates. The Company offers a variety of single-family residential first lien mortgage loan programs, including fixed- and variable-rate loans, as well as hybrid loans with interest rates that adjust on a regular basis, typically each year, after an initial fixed rate period. 
+
+Consumer &#8212; Home Equity Lines of Credit. Total HELOC commitments were $2.74 billion as of March 31, 2022, which grew by $247.5 million or 10% from $2.49 billion as of December 31, 2021. Unfunded HELOC commitments are unconditionally cancellable. HELOCs outstanding totaled $2.27 billion as of March 31, 2022, compared with $2.14 billion as of December 31, 2021, and accounted for 5% of total loans held-for-investment as of both dates. Year-to-date, HELOCs increased $121.8 million or 6%, primarily driven by growth in California. The Company was in a first lien position for 87% of total HELOCs as of both March 31, 2022 and December 31, 2021. Many of these loans are reduced documentation loans, for which a substantial down payment is required, resulting in a low LTV ratio at origination, typically 65% or less. These loans have historically experienced low delinquency and loss rates. Substantially all of the Company&#8217;s HELOCs were variable-rate loans as of both March 31, 2022 and December 31, 2021. 
+
+All originated commercial and consumer loans are subject to the Company&#8217;s underwriting guidelines and loan origination standards. Management believes that the Company&#8217;s underwriting criteria and procedures adequately consider the unique risks associated with these products. The Company conducts a variety of quality control procedures and periodic audits, including the review of lending and legal requirements, to ensure that the Company is in compliance with these requirements. 
+
+Foreign Outstandings 
+
+The Company&#8217;s overseas offices, which include the branch in Hong Kong and the subsidiary bank in China, are subject to the general risks inherent in conducting business in foreign countries, such as regulatory, economic and political uncertainties. As such, the Company&#8217;s international operation risk exposure is largely concentrated in China and Hong Kong. In addition, the Company&#8217;s financial assets held in the Hong Kong branch and the subsidiary bank in China may be affected by fluctuations in currency exchange rates or other factors. The following table presents the major financial assets held in the Company&#8217;s overseas offices as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) March 31, 2022 December 31, 2021 Amount % of Total Consolidated Assets Amount % of Total Consolidated Assets Hong Kong Branch: Cash and cash equivalents $ 936,242 2 % $ 831,283 1 % 
+
+AFS debt securities (1) 
+
+$ 298,287 0 % $ 242,926 0 % 
+
+Loans held-for-investment (2) 
+
+$ 1,061,999 2 % $ 849,573 1 % Total assets $ 2,157,324 3 % $ 1,933,164 3 % Subsidiary Bank in China: Cash and cash equivalents $ 562,610 1 % $ 543,134 1 % Interest-bearing deposits with banks $ 30,876 0 % $ 51,243 0 % 
+
+AFS debt securities (3) 
+
+$ 142,156 0 % $ 141,404 0 % 
+
+Loans held-for-investment (2) 
+
+$ 1,065,054 2 % $ 984,591 2 % Total assets $ 1,787,347 3 % $ 1,709,640 3 % 
+
+(1) Primarily comprised of U.S. Treasury securities and foreign government bonds as of both March 31, 2022 and December 31, 2021. 
+
+(2) Primarily comprised of C&#38;I loans as of both March 31, 2022 and December 31, 2021. 
+
+(3) Comprised of foreign government bonds as of both March 31, 2022 and December 31, 2021. 
+
+The following table presents the total revenue generated by the Company&#8217;s overseas offices for the first quarters of 2022 and 2021: 
+
+($ in thousands) Three Months Ended March 31, 2022 2021 Amount % of Total Consolidated Revenue Amount % of Total Consolidated Revenue Hong Kong Branch: Total revenue $ 7,341 1 % $ 5,467 1 % Subsidiary Bank in China: Total revenue $ 7,866 2 % $ 6,521 2 % 
+
+Capital 
+
+The Company maintains a strong capital base to support its anticipated asset growth, operating needs, and credit risks, and to ensure that the Company and the Bank are in compliance with all regulatory capital guidelines. The Company engages in regular capital planning processes on at least an annual basis to optimize the use of available capital and to appropriately plan for future capital needs, allocating capital to existing and future business activities. Furthermore, the Company conducts capital stress tests as part of its capital planning process. The stress tests enable the Company to assess the impact of adverse changes in the economy and interest rates on its capital base. 
+
+The Company&#8217;s stockholders&#8217; equity was $5.70 billion as of March 31, 2022, a decrease of $133.8 million or 2% from $5.84 billion as of December 31, 2021. The year-to-date decrease in the Company&#8217;s stockholders&#8217; equity was primarily due to a negative change in AOCI of $304.5 million and cash dividends declared of $57.6 million, partially offset by net income of $237.7 million. The negative change in AOCI was primarily due to increased unrealized losses in AFS debt securities. For other factors that contributed to the changes in stockholders&#8217; equity, refer to Item 1. Consolidated Financial Statements &#8212; Consolidated Statement of Changes in Stockholders&#8217; Equit y in this Form 10-Q. 
+
+Book value was $40.09 per common share as of March 31, 2022, a decrease of 3% from $41.13 per common share as of December 31, 2021. Tangible equity per common share was $36.76 as of March 31, 2022, compared with $37.79 as of December 31, 2021. For additional details, see the reconciliation of non-GAAP measures presented under Item 2. MD&#38;A &#8212; Reconciliation of GAAP to Non-GAAP Financial Measures in this Form 10-Q. The Company paid a quarterly cash dividend of $0.40 and $0.33 per common share for the first quarters of 2022 and 2021, respectively. In April 2022, the Company&#8217;s Board of Directors declared second quarter 2022 cash dividend of $0.40 per common share. The dividend is payable on May 16, 2022 to stockholders of record as of May 2, 2022. 
+
+Deposits and Other Sources of Funding 
+
+Deposits are the Company&#8217;s primary source of funding, the cost of which has a significant impact on the Company&#8217;s net interest income and net interest margin. Additional funding is provided by short- and long-term borrowings, and long-term debt. See Item 2. MD&#38;A &#8212; Risk Management &#8212; Liquidity Risk Management &#8212; Liquidity in this Form 10-Q for a discussion of the Company&#8217;s liquidity management. The following table summarizes the Company&#8217;s sources of funds as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) March 31, 2022 December 31, 2021 Change Amount % Amount % $ % Deposits Noninterest-bearing demand $ 24,927,768 45 % $ 22,845,464 43 % $ 2,082,304 9 % Interest-bearing checking 6,774,826 13 % 6,524,721 12 % 250,105 4 % Money market 12,108,432 22 % 13,130,300 25 % (1,021,868) (8) % Savings 2,897,248 5 % 2,888,065 5 % 9,183 &#8212; % Time deposits 8,230,087 15 % 7,961,982 15 % 268,105 3 % Total deposits $ 54,938,361 &#160; 100 &#160; % $ 53,350,532 &#160; 100 &#160; % $ 1,587,829 &#160; 3 &#160; % Other Funds FHLB advances $ 74,619 $ 249,331 $ (174,712) (70) % Repurchase agreements 300,000 300,000 &#8212; &#8212; % Long-term debt 147,729 147,658 71 0 % Total other funds $ 522,348 &#160; $ 696,989 &#160; $ (174,641) (25) % Total sources of funds $ 55,460,709 &#160; $ 54,047,521 &#160; $ 1,413,188 &#160; 3 &#160; % 
+
+Deposits 
+
+The Company offers a wide variety of deposit products to consumer and commercial customers. To provide a stable and low-cost source of funding and liquidity, the Company&#8217;s strategy is to grow and retain relationship-based deposits. 
+
+Total deposits were $54.94 billion as of March 31, 2022, an increase of $1.59 billion or 3% from $53.35 billion as of December 31, 2021. The increase in deposits was attributable to strong growth in noninterest-bearing demand deposits, partially offset by a decrease in money market deposits. Noninterest-bearing demand deposits were $24.93 billion as of March 31, 2022, an increase of $2.08 billion or 9%, compared with $22.85 billion as of December 31, 2021. Noninterest-bearing demand deposits comprised 45% of total deposits as of March 31, 2022, up from 43% as of December 31, 2021. Additional information regarding the impact of deposits on net interest income, with a comparison of average deposit balances and rates, is provided in Item 2. MD&#38;A &#8212; Results of Operations &#8212; Net Interest Income in this Form 10-Q. 
+
+Other Sources of Funding 
+
+As of March 31, 2022 the Company had one FHLB advance of $74.6 million compared with advances totaling $249.3 million as of December 31, 2021. During the first quarter of 2022, advances totaling $175.0 million matured. As of March 31, 2022, the remaining FHLB advance had a floating interest rate of 0.73% with a maturity in seven months. 
+
+Gross repurchase agreements totaled $300.0 million as of both March 31, 2022 and December 31, 2021. Resale and repurchase agreements are reported net, pursuant to Accounting Standards Codification (&#8220;ASC&#8221;) 210-20-45-11, Balance Sheet Offsetting: Repurchase and Reverse Repurchase Agreements . As of both March 31, 2022 and December 31, 2021, the Company did not have any gross resale agreements that were eligible for netting pursuant to ASC 210-20-45-11. As of March 31, 2022, gross repurchase agreements had interest rates ranging from 2.39% to 2.42%. Repurchase agreements of $200.0 million have an original maturity of 10.0 years and mature in 1.3 years, whereas repurchase agreements of $100.0 million have an original maturity of 8.5 years and mature in 1.4 years. 
+
+Repurchase agreements are accounted for as collateralized financing transactions and recorded as liabilities based on the values at which the assets are sold. As of March 31, 2022, the collateral for the repurchase agreements was comprised of U.S. Treasury securities, and U.S. government agency and U.S. government-sponsored enterprise mortgage-backed securities. To ensure the market value of the underlying collateral remains sufficient, the Company monitors the fair value of collateral pledged relative to the principal amounts borrowed under repurchase agreements. The Company manages liquidity risks related to the repurchase agreements by sourcing funds from a diverse group of counterparties, and entering into repurchase agreements with longer durations, when appropriate. For additional details, see Note 4 &#8212; Assets Purchased under Resale Agreements and Sold under Repurchase Agreements to the Consolidated Financial Statements in this Form 10-Q. 
+
+The Company uses long-term debt to provide funding to acquire interest-earning assets, and to enhance liquidity and regulatory capital adequacy. Long-term debt totaled $147.7 million as of both March 31, 2022 and December 31, 2021. Long-term debt consists of junior subordinated debt, which qualifies as Tier 2 capital for regulatory purposes. The junior subordinated debt was issued in connection with the Company&#8217;s various pooled trust preferred securities offerings, as well as with common stock issued by the six wholly-owned subsidiaries of the Company in conjunction with these offerings. The junior subordinated debt had a weighted-average interest rate of 1.98% and 1.78% for the first quarters of 2022 and 2021, respectively, with remaining maturities ranging between 12.7 years and 15.5 years as of March 31, 2022. 
+
+Regulatory Capital and Ratios 
+
+The federal banking agencies have risk-based capital adequacy requirements intended to ensure that banking organizations maintain capital that is commensurate with the degree of risk associated with their operations. The Company and the Bank are each subject to these regulatory capital adequacy requirements. See Item 1. Business &#8212; Supervision and Regulation &#8212; Regulatory Capital Requirements and Regulatory Capital-Related Development in the Company&#8217;s 2021 Form 10-K for additional details. 
+
+The Company adopted Accounting Standards Update (&#8220;ASU&#8221;) 2016-13 on January 1, 2020, which requires the measurement of the allowance for credit losses to be based on management&#8217;s best estimate of lifetime expected credit losses inherent in the Company&#8217;s relevant financial assets. The Company has elected the phase-in option provided by a final rule that delays an estimate of the current expected credit losses methodology (&#8220;CECL&#8221;) effect on regulatory capital for two years and phases the impact over three years. The rule permits certain banking organizations to exclude from regulatory capital the initial adoption impact of CECL, plus 25% of the cumulative changes in the allowance for credit losses under CECL for each period until December 31, 2021, followed by a three-year phase-out period in which the aggregate benefit is reduced by 25% in 2022, 50% in 2023 and 75% in 2024. Under the Coronavirus Aid, Relief, and Economic Security Act (&#8220;CARES Act&#8221;), loans originated by a banking organization under the PPP will be risk-weighted at zero percent for regulatory capital purposes. Accordingly, the capital ratios as of March 31, 2022 delayed 75% of the estimated impact of CECL on regulatory capital through the year 2021, and PPP loans are risk-weighted at 0%. 
+
+The following table presents the Company&#8217;s and the Bank&#8217;s capital ratios as of March 31, 2022 and December 31, 2021 under the Basel III Capital Rules, and those required by regulatory agencies for capital adequacy and well-capitalized classification purposes: 
+
+Basel III Capital Rules March 31, 2022 December 31, 2021 Minimum Regulatory Requirements Minimum Regulatory Requirements including Capital Conservation Buffer Well- Capitalized Requirements Company Bank Company Bank Risk-based capital ratios: Common Equity Tier 1 capital 12.6 % 12.1 % 12.8 % 12.3 % 4.5 % 7.0 % 6.5 % Tier 1 capital (1) 
+
+12.6 % 12.1 % 12.8 % 12.3 % 6.0 % 8.5 % 8.0 % Total capital 13.9 % 13.1 % 14.1 % 13.2 % 8.0 % 10.5 % 10.0 % Tier 1 leverage (1) 
+
+9.3 % 9.0 % 9.0 % 8.6 % 4.0 % 4.0 % 5.0 % 
+
+(1) The Tier 1 leverage well-capitalized requirement applies only to the Bank since there is no Tier 1 leverage ratio component in the definition of a well-capitalized bank holding company. In addition, the minimum Tier 1 risk-based capital ratio requirement for the Company to be considered well-capitalized is 6.0%. 
+
+The Company is committed to maintaining strong capital levels to assure its investors, customers and regulators that the Company and the Bank are financially sound. As of both March 31, 2022 and December 31, 2021, the Company and the Bank continued to exceed all &#8220;well-capitalized&#8221; capital requirements and the required minimum capital requirements under the Basel III Capital Rules. Total risk-weighted assets were $45.43 billion as of March 31, 2022, an increase of $1.85 billion or 4%, from $43.59 billion as of December 31, 2021. The increase in the risk-weighted assets was primarily due to loan growth. 
+
+Risk Management 
+
+Overview 
+
+In the normal course of conducting its business, the Company is exposed to a variety of risks, some of which are inherent to the financial services industry and others of which are more specific to the Company&#8217;s businesses. The Company operates under a Board-approved enterprise risk management (&#8220;ERM&#8221;) framework, which outlines the company-wide approach to risk management and oversight, and describes the structures and practices employed to manage the current and emerging risks inherent to the Company. The Company&#8217;s ERM program incorporates risk management throughout the organization in identifying, managing, monitoring, and reporting risks. It identifies the Company&#8217;s major risk categories as credit risk, liquidity risk, capital risk, market risk, operational risk, compliance and regulatory risks, legal risks, strategic risks, and reputational risks. 
+
+The Risk Oversight Committee of the Board of Directors monitors the ERM program through stated risk categories and provides oversight of the Company&#8217;s risk appetite and control environment. The Risk Oversight Committee provides focused oversight of the Company&#8217;s identified enterprise risk categories on behalf of the full Board of Directors. Under the direction of the Risk Oversight Committee, management committees apply targeted strategies to reduce the risks to which the Company&#8217;s operations are exposed. 
+
+The Company&#8217;s ERM program is executed along the three lines of defense model, which provides for a consistent and standardized risk management control environment across the enterprise. The first line of defense is comprised of production, operational, and support units. The second line of defense is comprised of various risk management and control functions charged with monitoring and managing specific major risk categories and/or risk subcategories. The third line of defense is comprised of the Internal Audit function and Independent Asset Review. Internal Audit provides assurance and evaluates the effectiveness of risk management, control and governance processes as established by the Company. Internal Audit has organizational independence and objectivity, reporting directly to the Board&#8217;s Audit Committee. Further discussion and analysis of some major risk areas are detailed in the following subsections of Risk Management. 
+
+Credit Risk Management 
+
+Credit risk is the risk that a borrower or a counterparty will fail to perform according to the terms and conditions of a loan or investment and expose the Company to loss. Credit risk exists with many of the Company&#8217;s assets and exposures such as loans and certain derivatives. The majority of the Company&#8217;s credit risk is associated with lending activities. 
+
+The Risk Oversight Committee has primary oversight responsibility for identified enterprise risk categories including credit risk. The Risk Oversight Committee monitors management&#8217;s assessment of asset quality, credit risk trends, credit quality administration, underwriting standards, and portfolio credit risk management strategies and processes, such as diversification and concentration limits, all of which enable management to control credit risk. At the management level, the Credit Risk Management Committee has primary oversight responsibility for credit risk. The Senior Credit Supervision function manages credit policy for the line of business transactional credit risk, assuring that all exposure is risk-rated according to the requirements of the credit risk rating policy. The Senior Credit Supervision function evaluates and reports the overall credit risk exposure to senior management and the Risk Oversight Committee. The Independent Asset Review function supports a strong credit risk management culture by providing an independent and objective assessment of underwriting and documentation quality, reporting directly to the Board&#8217;s Risk Oversight Committee. A key focus of our credit risk management is adherence to a well-controlled underwriting process. 
+
+The Company assesses overall credit quality performance of the loan held-for-investment portfolio through an integrated analysis of specific performance ratios. This approach forms the basis of the discussion in the sections immediately following: Nonperforming Assets, Troubled Debt Restructurings (&#8220;TDR&#8221;) and Allowance for Credit Losses. 
+
+Credit Quality 
+
+The Company utilizes a credit risk rating system to assist in monitoring credit quality. Loans are evaluated using the Company&#8217;s internal credit risk rating of 1 through 10. For more information on the Company&#8217;s credit quality indicators and internal credit risk ratings, refer to Note 7 &#8212; Loans Receivable and Allowance for Credit Losses to the Consolidated Financial Statements in this Form 10-Q. 
+
+The following table presents the Company&#8217;s criticized loans as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) Change March 31, 2022 December 31, 2021 $ % Criticized loans Special mention loans $ 402,704 $ 384,694 $ 18,010 4 % Classified loans 430,633 448,362 (17,729) (4) % Total criticized loans $ 833,337 &#160; $ 833,056 &#160; $ 281 &#160; 0 &#160; % Special mention loans to loans held-for-investment 0.93 % 0.92 % Classified loans to loans held-for-investment 0.99 % 1.08 % Criticized loans to loans held-for-investment 1.92 % 2.00 % 
+
+Nonperforming Assets 
+
+Nonperforming assets are comprised of nonaccrual loans, other real estate owned (&#8220;OREO&#8221;) and other nonperforming assets. Other nonperforming assets and OREO are repossessed assets and properties, respectively, acquired through foreclosure, or through full or partial satisfaction of loans held-for-investment. Loans are generally placed on nonaccrual status when they become 90 days past due or when the full collection of principal or interest becomes uncertain regardless of the length of past due status. Collectability is generally assessed based on economic and business conditions, the borrower&#8217;s financial condition, and the adequacy of collateral, if any. For additional details regarding the Company&#8217;s nonaccrual loan policy, see Note 1 &#8212; Summary of Significant Accounting Policies &#8212; Significant Accounting Policies &#8212; Loans Held-for-Investment to the Consolidated Financial Statements in the Company&#8217;s 2021 Form 10-K. 
+
+The following table presents information regarding nonperforming assets as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) Change March 31, 2022 December 31, 2021 $ % Commercial: C&#38;I $ 51,773 $ 59,023 $ (7,250) (12) % CRE: CRE 9,404 9,498 (94) (1) % Multifamily residential 423 444 (21) (5) % Total CRE 9,827 9,942 (115) (1) % Consumer: Residential mortgage: Single-family residential 16,385 15,720 665 4 % HELOCs 6,812 8,444 (1,632) (19) % Total residential mortgage 23,197 24,164 (967) (4) % Other consumer 37 52 (15) (29) % Total nonaccrual loans 84,834 93,181 (8,347) (9) % OREO, net &#8212; 363 (363) (100) % Other nonperforming assets 9,548 9,938 (390) (4) % Total nonperforming assets $ 94,382 &#160; $ 103,482 &#160; $ (9,100) (9) % 
+
+Nonperforming assets to total assets 
+
+0.15 % 0.17 % Nonaccrual loans to loans held-for-investment 
+
+0.20 % 0.22 % Allowance for loan losses to nonaccrual loans 643.24 % 581.21 % TDRs included in nonperforming loans $ 26,306 $ 30,383 
+
+Nonaccrual loans were $84.8 million as of March 31, 2022, a decrease of $8.3 million or 9% from $93.2 million as of December 31, 2021. This decrease was predominantly the result of paydowns and charge-offs of C&#38;I oil and gas, and other commercial loans, partially offset by an addition of a C&#38;I entertainment loan. 
+
+As of March 31, 2022, $44.2 million or 52% of nonaccrual loans were less than 90 days delinquent. In comparison, $54.2 million or 58% of nonaccrual loans were less than 90 days delinquent as of December 31, 2021. 
+
+The following table presents the accruing loans past due by portfolio segment as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) Total Accruing Past Due Loans (1) 
+
+Change Percentage of Total Loans Outstanding March 31, 2022 December 31, 2021 $ % March 31, 2022 December 31, 2021 Commercial: 
+
+C&#38;I $ 26,514 $ 11,069 $ 15,445 140 % 0.18 % 0.08 % CRE: CRE 3,037 3,722 (685) (18) % 0.02 % 0.03 % Multifamily residential 
+
+2,203 5,342 (3,139) (59) % 0.06 % 0.15 % Total CRE 
+
+5,240 9,064 (3,824) (42) % 0.03 % 0.06 % Total commercial 
+
+31,754 &#160; 20,133 &#160; 11,621 &#160; 58 &#160; % 0.10 &#160; % 0.07 &#160; % Consumer: Residential mortgage: 
+
+Single-family residential 
+
+26,669 18,760 7,909 42 % 0.29 % 0.21 % HELOCs 6,072 5,854 218 4 % 0.27 % 0.27 % Total residential mortgage 
+
+32,741 24,614 8,127 33 % 0.28 % 0.22 % Other consumer 794 108 686 NM 0.62 % 0.08 % Total consumer 
+
+33,535 &#160; 24,722 &#160; 8,813 &#160; 36 &#160; % 0.29 &#160; % 0.22 &#160; % Total 
+
+$ 65,289 &#160; $ 44,855 &#160; $ 20,434 &#160; 46 &#160; % 0.15 &#160; % 0.11 &#160; % 
+
+NM &#8212; Not meaningful. 
+
+(1) There were no accruing loans past due 90 days or more as of both March 31, 2022 and December 31, 2021. 
+
+Troubled Debt Restructurings 
+
+TDRs are loans for which contractual terms have been modified by the Company for economic or legal reasons related to a borrower&#8217;s financial difficulties, and for which a concession to the borrower was granted that the Company would not otherwise consider. The Company&#8217;s loan modifications are handled on a case-by-case basis and are negotiated to achieve mutually agreeable terms that maximize loan collectability and meet the borrower&#8217;s financial needs. The following table presents the performing and nonperforming TDRs by portfolio segment as of March 31, 2022 and December 31, 2021. The allowance for loan losses for TDRs was $896 thousand as of March 31, 2022 and $4.8 million as of December 31, 2021. 
+
+($ in thousands) March 31, 2022 December 31, 2021 Performing TDRs Nonperforming TDRs Total Performing TDRs Nonperforming TDRs Total Commercial: C&#38;I $ 77,038 $ 24,544 $ 101,582 $ 77,256 $ 28,239 $ 105,495 CRE: CRE 23,107 &#8212; 23,107 23,379 &#8212; 23,379 Multifamily residential 4,006 190 4,196 4,042 197 4,239 Total CRE 27,113 190 27,303 27,421 197 27,618 Consumer: Residential mortgage: Single-family residential 5,564 1,108 6,672 6,585 1,102 7,687 HELOCs 2,080 464 2,544 2,553 845 3,398 Total residential mortgage 7,644 1,572 9,216 9,138 1,947 11,085 Total TDRs $ 111,795 &#160; $ 26,306 &#160; $ 138,101 &#160; $ 113,815 &#160; $ 30,383 &#160; $ 144,198 &#160; 
+
+Performing TDRs were $111.8 million as of March 31, 2022, a decrease of $2.0 million or 2% from $113.8 million as of December 31, 2021. Approximately 94% of the performing TDRs were current as of both March 31, 2022 and December 31, 2021. Nonperforming TDRs were $26.3 million as of March 31, 2022, a decrease of $4.1 million or 13% from $30.4 million as of December 31, 2021 . This decrease primarily reflected the paydowns and payoffs of C&#38;I TDRs, partially offset by newly designated nonperforming C&#38;I TDRs. 
+
+Existing TDRs that were subsequently modified in response to the COVID-19 pandemic continue to be classified as TDRs. As of March 31, 2022, there were no TDRs that were provided modifications related to the COVID-19 pandemic. The amount of TDRs that were provided modification related to the COVID-19 pandemic were insignificant as of December 31, 2021. 
+
+Loan Modifications Due to COVID-19 Pandemic 
+
+The Company has granted a range of commercial and consumer loan accommodations, predominantly in the form of payment deferrals, to provide relief to borrowers experiencing financial hardship due to the COVID-19 pandemic. For COVID-19 related loan modifications, which occurred between March 2020 through January 1, 2022 that have met the loan modification criteria under Section 4013 of the CARES Act, as amended by the Consolidated Appropriations Act, 2021, or the criteria specified under the Interagency Statement on Loan Modifications and Reporting for Financial Institutions Working with Customers Affected by the Coronavirus (Revised) issued on April 7, 2020, the Company elected to temporarily suspend TDR accounting under ASC Subtopic 310-40. The delinquency aging of loans modified related to the COVID-19 pandemic were frozen at the time of the modification. Interest income continues to be recognized over the accommodation periods. See additional information in Note 1 &#8212; Summary of Significant Accounting Policies &#8212; Significant Accounting Policies &#8212; Troubled Debt Restructurings to the Consolidated Financial Statements in the Company&#8217;s 2021 Form 10-K. As of March 31, 2022, COVID-19 loans under payment deferral and forbearance programs totaled $73.6 million, or 0.2% of total loans, compared to $363.1 million, or 0.9% of total loans as of December 31, 2021. Loans that have exited the modification program were predominantly current as of March 31, 2022. 
+
+Allowance for Credit Losses 
+
+ASU 2016-13, Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments requires the measurement of the allowance for credit losses to be based on management&#8217;s best estimate of lifetime expected credit losses inherent in the Company&#8217;s relevant financial assets. The allowance for credit losses estimate uses various models and estimation techniques based on historical loss experience, current borrower characteristics, current conditions, reasonable and supportable forecasts, and other relevant factors. 
+
+In addition to the allowance for loan losses, the Company maintains an allowance for unfunded credit commitments. The Company has three general areas for which it provides the allowance for unfunded credit commitments: 1) recourse obligations for loans sold, 2) letters of credit, and 3) unfunded lending commitments. The Company&#8217;s methodology for determining the allowance calculation for unfunded lending commitments uses the lifetime loss rates of the on-balance sheet commitment. Recourse obligations for loans sold and letters of credit use the weighted loss rates for the applicable segment of the individual credit. 
+
+In the case of loans and securities, allowance for credit losses are contra-asset valuation accounts that are deducted from the amortized cost basis of these assets to present the net amount expected to be collected. In the case of unfunded credit commitments, the allowance for credit losses is a liability account that is reported as a component of Accrued expenses and other liabilities in our Consolidated Balance Sheet. 
+
+The Company is committed to maintain the allowance for credit losses at a level that is commensurate with the estimated inherent losses in the loan portfolio, including unfunded credit facilities. While the Company believes that the allowance for credit losses as of March 31, 2022 was appropriate to absorb losses inherent in the loan portfolio and in unfunded credit commitments based on the information available, future allowance levels may increase or decrease based on a variety of factors, including but not limited to, accounting standard and regulatory changes, loan growth, portfolio performance and general economic conditions. This evaluation is inherently subjective as it requires numerous estimates and judgements. For a description of the policies, methodologies and judgments used to determine the allowance for credit losses, see Item 7. MD&#38;A &#8212; Critical Accounting Estimates in the Company&#8217;s 2021 Form 10-K and Note 1 &#8212; Summary of Significant Accounting Policies to the Consolidated Financial Statements in the Company&#8217;s 2021 Form 10-K, and Note 7 &#8212; Loans Receivable and Allowance for Credit Losses to the Consolidated Financial Statements in this Form 10-Q. 
+
+The following table presents an allocation of the allowance for loan losses by loan portfolio segments and unfunded credit commitments as of March 31, 2022 and December 31, 2021 : 
+
+($ in thousands) March 31, 2022 December 31, 2021 Allowance Allocation % of Loan Type to Total Loans Allowance Allocation % of Loan Type to Total Loans Allowance for loan losses Commercial: C&#38;I $ 339,446 34 % $ 338,252 34 % CRE: CRE 147,104 29 % 150,940 29 % Multifamily residential 
+
+24,176 9 % 14,400 9 % Construction and land 
+
+11,016 1 % 15,468 1 % Total CRE 182,296 39 % 180,808 39 % Total commercial 521,742 &#160; 73 &#160; % 519,060 &#160; 73 &#160; % Consumer: Residential mortgage: Single-family residential 
+
+18,210 22 % 17,160 22 % HELOCs 3,748 5 % 3,435 5 % Total residential mortgage 
+
+21,958 27 % 20,595 27 % Other consumer 1,985 0 % 1,924 0 % Total consumer 23,943 &#160; 27 &#160; % 22,519 &#160; 27 &#160; % Total allowance for loan losses $ 545,685 &#160; 100 &#160; % $ 541,579 &#160; 100 &#160; % Allowance for unfunded credit commitments $ 23,262 &#160; $ 27,514 &#160; Total allowance for credit losses $ 568,947 &#160; $ 569,093 &#160; Loans held-for-investment $ 43,490,682 $ 41,693,781 Allowance for loan losses to loans held-for-investment 1.25 &#160; % 1.30 &#160; % Three Months Ended March 31, 2022 2021 Average loans held-for-investment $ 42,111,786 $ 38,728,635 Annualized net charge-offs to average loans held-for-investment 0.08 % 0.14 % 
+
+The allowance for loan losses was $545.7 million as of March 31, 2022, an increase of $4.1 million from $541.6 million as of December 31, 2021, primarily reflecting loan growth. 
+
+The Company considers multiple economic scenarios to develop the estimate of the allowance for loan losses. The scenarios may consist of a base forecast representing management's view of the most likely outcome, and downside or upside scenarios reflecting possible worsening or improving economic conditions. As of March 31, 2022, the Company assigned a slightly higher weighting to its downside scenario, compared with the weighting placed as of December 31, 2021 in order to reflect the potential for higher inflation, supply chain constraints and the possibility of additional COVID-19 variants. Macroeconomic assumptions underlying the base forecast include: (1) annual Gross Domestic Product (&#8220;GDP&#8221;) growth of 3.5% for 2022; (2) 3.5% unemployment rate by the end of 2022; and (3) rising interest rates. The downside scenario assumed GDP growth at 0.9% in 2022 and an unemployment rate that was expected to rise from 3.9% to 7.2% by the end of 2022. 
+
+As of March 31, 2022 and December 31, 2021, PPP loans outstanding were $318.1 million and $534.2 million, respectively. Because these loans are fully guaranteed by the SBA, there was no allowance for loan losses established for these loans as of March 31, 2022 and December 31, 2021 . 
+
+First quarter 2022 net charge-offs were $8.3 million or annualized 0.08% of average loans-held-for-investment, compared with $13.4 million or annualized 0.14% of average loans held-for-investment for the same period of 2021. The decrease in net charge-offs was primarily due to a decrease in CRE charge-offs. 
+
+The allowance for unfunded credit commitments was $23.3 million as of March 31, 2022, compared with $27.5 million as of December 31, 2021. 
+
+Liquidity Risk Management 
+
+Liquidity 
+
+Liquidity is a financial institution&#8217;s capacity to meet its deposit and obligations to other counterparties as they come due, or to obtain adequate funding at a reasonable cost to meet those obligations. The objective of liquidity management is to manage the potential mismatch of asset and liability cash flows. Maintaining an adequate level of liquidity depends on the institution&#8217;s ability to efficiently meet both expected and unexpected cash flows, and collateral needs without adversely affecting daily operations or the financial condition of the institution. To achieve this objective, the Company analyzes its liquidity risk, maintains readily available liquid assets, and utilizes diverse funding sources including its stable core deposit base. 
+
+The Board of Directors&#8217; Risk Oversight Committee has primary oversight responsibility over liquidity risk management. At the management level, the Company&#8217;s Asset/Liability Committee (&#8220;ALCO&#8221;) establishes the liquidity guidelines that govern the day-to-day active management of the Company&#8217;s liquidity position by requiring sufficient asset-based liquidity to cover potential funding requirements and avoid over-dependence on volatile, less reliable funding markets. These guidelines are established and monitored for both the Bank and for East West on a stand-alone basis to ensure that the Company can serve as a source of strength for its subsidiaries. The ALCO regularly monitors the Company&#8217;s liquidity status and related management processes, providing regular reports to the Board of Directors. The Company&#8217;s liquidity management practices have been effective under normal operating and stressed market conditions. 
+
+Liquidity Risk &#8212; Liquidity Sources. The Company&#8217;s primary source of funding is from deposits generated by its banking business, which are relatively stable and low-cost. Total deposits amounted to $54.94 billion as of March 31, 2022, compared with $53.35 billion as of December 31, 2021. The Company&#8217;s loan-to-deposit ratio was 79% as of March 31, 2022, compared with 78% as of December 31, 2021. 
+
+In addition to deposits, the Company has access to various sources of wholesale financing, including borrowing capacity with the FHLB and Federal Reserve Bank of San Francisco (&#8220;FRBSF&#8221;), unsecured federal funds lines of credit with various correspondent banks, and several master repurchase agreements with major brokerage companies to sustain an adequate liquid asset portfolio, meet daily cash demands and allow management flexibility to execute its business strategy. Economic conditions and the stability of capital markets impact the Company&#8217;s access to and the cost of wholesale financing. The Company&#8217;s access to capital markets is also affected by the ratings received from various credit rating agencies. As of March 31, 2022, the Company had available borrowing capacity of $25.91 billion, including $12.13 billion with the FHLB and $4.60 billion with the FRBSF. The Company believes that its liquidity sources are sufficient to meet all reasonably foreseeable short-term needs. Unencumbered loans and/or debt securities were pledged to the FHLB and the FRBSF discount window as collateral. The Company has established operational procedures to enable borrowing against these assets, including regular monitoring of the total pool of loans and debt securities eligible as collateral. Eligibility of collateral is defined in guidelines from the FHLB and FRBSF and is subject to change at their discretion. The Bank&#8217;s unsecured federal funds lines of credit with correspondent banks, subject to availability, totaled $1.04 billion as of March 31, 2022. Estimated borrowing capacity from unpledged debt securities totaled $8.14 billion as of March 31, 2022. See Item 2 &#8212; MD&#38;A &#8212; Balance Sheet Analysis &#8212; Deposits and Other Sources of Funding in this Form 10-Q for further detail related to the Company&#8217;s funding sources. 
+
+The Company maintains a certain level of liquid assets in the form of cash and cash equivalents, interest-bearing deposits with banks, short-term resale agreements and unencumbered high-quality and liquid AFS debt securities. The following table presents the Company&#8217;s liquid assets as of March 31, 2022 and December 31, 2021: 
+
+($ in thousands) March 31, 2022 December 31, 2021 Encumbered Unencumbered Total Encumbered Unencumbered Total Cash and cash equivalents $ &#8212; $ 3,848,700 $ 3,848,700 $ &#8212; $ 3,912,935 $ 3,912,935 Interest-bearing deposits with banks &#8212; 816,125 816,125 &#8212; 736,492 736,492 Resale agreements due to mature in one year &#8212; 1,956,822 1,956,822 &#8212; 1,818,503 1,818,503 AFS debt securities: U.S. Treasury, and U.S. government agency and U.S. government-sponsored enterprise debt securities 146,496 795,873 942,369 384,895 1,949,757 2,334,652 U.S. government agency and U.S. government-sponsored enterprise mortgage-backed securities 287,294 2,381,514 2,668,808 418,761 3,738,502 4,157,263 Foreign government bonds &#8212; 253,811 253,811 &#8212; 257,733 257,733 Municipal securities &#8212; 298,659 298,659 &#8212; 523,158 523,158 Non-agency mortgage-backed securities, asset-backed securities and CLOs 216 1,935,056 1,935,272 240 2,042,642 2,042,882 Corporate debt securities &#8212; 630,512 630,512 &#8212; 649,665 649,665 Total $ 434,006 &#160; $ 12,917,072 &#160; $ 13,351,078 &#160; $ 803,896 &#160; $ 15,629,387 &#160; $ 16,433,283 &#160; 
+
+Unencumbered liquid assets totaled $12.92 billion as of March 31, 2022, compared with $15.63 billion as of December 31, 2021. AFS debt securities, included as part of liquidity sources, consist of high quality and liquid securities with moderate durations to minimize overall interest rate and liquidity risks. The Company believes these AFS debt securities provide quick sources of liquidity to obtain financing, regardless of market conditions, through sale or pledging. The decrease in liquid assets was primarily related to the transfer of $3.01 billion of AFS debt securities to HTM debt securities. 
+
+Management believes that the Company&#8217;s excess cash, unencumbered AFS debt securities, borrowing capacity and access to sufficient sources of capital are adequate to meet its short- and long-term liquidity needs in the foreseeable future. In addition, the Company may use debt and equity issuances when costs are deemed attractive, should longer term needs arise. 
+
+Liquidity Risk &#8212; Cash Requirements. In the ordinary course of the Company&#8217;s business, the Company enters into contractual obligations that require future cash payments, including funding for customer deposit withdrawals, repayments for short- and long-term borrowings, leases obligations and other cash commitments. The Company also has off-balance sheet arrangements which represent transactions that are not recorded on the Consolidated Balance Sheet. The Company&#8217;s off-balance sheet arrangements include (i) commitments to extend credit, such as loan commitments, commercial letters of credit for foreign and domestic trade, standby letters of credit (&#8220;SBLCs&#8221;), and financial guarantees, to meet financing needs of its customers, (ii) future interest obligations related to customer deposits and the Company&#8217;s borrowings, and (iii) transactions with unconsolidated entities that provide financing, liquidity, market risk or credit risk support to the Company, or engages in leasing, hedging or research and development services with the Company. Since many of these commitments are expected to expire without being drawn upon, the total commitment amounts do not necessarily represent future funding requirements. Information about the Company&#8217;s loan commitments, commercial letters of credit and SBLCs is provided in Note 10 &#8212; Commitments and Contingencies to the Consolidated Financial Statements in this Form 10-Q. The Company&#8217;s liquidity sources have been, and are expected to be, sufficient to meet all such cash requirements. 
+
+The Consolidated Statement of Cash Flows summarizes the Company&#8217;s sources and uses of cash by type of activities in the first quarters of 2022 and 2021. Excess cash generated by operating and investing activities may be used to repay outstanding debt or invest in liquid assets. 
+
+Liquidity Risk &#8212; Liquidity for East West. In addition to bank level liquidity management, the Company manages liquidity at the parent company level for various operating needs including payment of dividends, repurchases of common stock, principal and interest payments on its borrowings, acquisitions and additional investments in its subsidiaries. East West&#8217;s primary source of liquidity is from cash dividends distributed by its subsidiary, East West Bank. The Bank is subject to various statutory and regulatory restrictions on its ability to pay dividends as discussed in Item 1 . Business &#8212; Supervision and Regulation &#8212; Dividends and Other Transfers of Funds of the Company&#8217;s 2021 Form 10-K. East West held $324.0 million and $345.0 million in cash and cash equivalents as of March 31, 2022 and December 31, 2021, respectively. Management believes that East West has sufficient cash and cash equivalents to meet the projected cash obligations for the current year. 
+
+Liquidity Risk &#8212; Liquidity Stress Testing. The Company utilizes liquidity stress analysis to determine the appropriate amounts of liquidity to maintain at the Company, foreign subsidiary and foreign branch levels needed to meet contractual and contingent cash outflows under a range of scenarios. Scenario analyses include assumptions about significant changes in key funding sources, market triggers, potential uses of funding and economic conditions in certain countries. In addition, Company specific events are incorporated into the stress testing. Liquidity stress tests are conducted to ascertain potential mismatches between liquidity sources and uses over a variety of time horizons, both immediate and longer term, and over a variety of stressed conditions. Given the range of potential stresses, the Company maintains contingency funding plans on a consolidated basis and for individual entities. 
+
+As of March 31, 2022, the Company was not aware of any material commitments for capital expenditures in the foreseeable future and believes it has adequate liquidity resources to conduct operations and meet other needs in the ordinary course of business. Given the uncertainty and the rapidly changing market and economic conditions related to the COVID-19 pandemic, the Company will continue to actively evaluate the nature and extent of the impact on its business and financial position. For more information on how the COVID-19 pandemic may impact our liquidity, see Item 1A . Risk Factors &#8212; Risks Related to the COVID-19 Pandemic of the Company&#8217;s 2021 Form 10-K. 
+
+Market Risk Management 
+
+Market risk is the risk that the Company&#8217;s financial condition may change resulting from adverse movements in market rates or prices including interest rates, foreign exchange rates, interest rate contracts, investment securities prices, credit spreads and related risk resulting from mismatches in rate sensitive assets and liabilities. In the event of market stress, the risk could have a material impact on our results of operations and financial condition. 
+
+The Board&#8217;s Risk Oversight Committee has primary oversight responsibility over market risk management. At the management level, the ALCO establishes and monitors compliance with the policies and risk limits pertaining to market risk management activities. Corporate Treasury supports the ALCO in measuring, monitoring and managing interest rate risk as well as all other market risks. 
+
+Interest Rate Risk Management 
+
+Interest rate risk results primarily from the Company&#8217;s traditional banking activities of gathering deposits and extending loans, which are the primary areas of market risk for the Company. Economic and financial conditions, movements in interest rates, and consumer preferences impact the level of noninterest-bearing funding sources at the Company, as well as affect the difference between the interest the Company earns on interest-earning assets and pays on interest-bearing liabilities. In addition, changes in interest rates can influence the rate of principal prepayments on loans and the speed of deposit withdrawals. Due to the pricing term mismatches and the embedded options inherent in certain products, changes in market interest rates not only affect expected near-term earnings, but also the economic value of these interest-earning assets and interest-bearing liabilities. Other market risks include foreign currency exchange risk and equity price risk. These risks are not considered significant to the Company and no separate quantitative information concerning these risks is presented herein. 
+
+With oversight by the Company&#8217;s Board of Directors, the ALCO coordinates the overall management of the Company&#8217;s interest rate risk. The ALCO meets regularly and is responsible for reviewing the Company&#8217;s open market positions and establishing policies to monitor and limit exposure to market risk. Management of interest rate risk is carried out primarily through strategies involving the Company&#8217;s debt securities portfolio, loan portfolio, available funding channels and capital market activities. In addition, the Company&#8217;s policies permit the use of derivative instruments to assist in managing interest rate risk. 
+
+The interest rate risk exposure is measured and monitored through various risk management tools, which include a simulation model that performs interest rate sensitivity analyses under multiple interest rate scenarios. The model incorporates the Company&#8217;s cash instruments, loans, debt securities, resale agreements, deposits, borrowings and repurchase agreements, as well as financial instruments from the Company&#8217;s foreign operations. The Company uses both a static balance sheet and a forward growth balance sheet to perform these analyses. The simulated interest rate scenarios include a non-parallel shift in the yield curve and a gradual non-parallel shift in the yield curve (&#8220;rate ramp&#8221;) over a static balance sheet. In addition, the Company also performs simulations using alternative interest rate scenarios, including various permutations of the yield curve flattening, steepening or inverting. Results of these various simulations are used to formulate and gauge strategies to achieve a desired risk profile within the Company&#8217;s capital and liquidity guidelines. 
+
+The net interest income simulation model is based on the actual maturity and repricing characteristics of the Company&#8217;s interest-rate sensitive assets, liabilities and related derivative contracts. It also incorporates various assumptions, which management believes to be reasonable but may have a significant impact on results. These assumptions include, but are not limited to, the timing and magnitude of changes in interest rates, the yield curve evolution and shape, the correlation between various interest rate indices, financial instrument future repricing characteristics and spread relative to benchmark rates, and the effect of interest rate floors and caps. The modeled results are highly sensitive to deposit decay and deposit beta assumptions, which are derived from a regression analysis of the Company&#8217;s historical deposit data. The Company used full betas with each incremental rate increase in the rate ramp scenarios, and did not assume lags in repricing. Deposit beta commonly refers to the correlation of the changes in interest rates paid on deposits to changes in benchmark interest rates. The model is also sensitive to the loan and investment prepayment assumptions that are based on an independent model and the Company&#8217;s historical prepayment data, which consider anticipated prepayments under different interest rate environments. 
+
+Simulation results are highly dependent on input assumptions. To the extent actual behavior is different from the assumptions in the models, there could be a material change in interest rate sensitivity. The assumptions applied in the model are documented and supported for reasonableness, and periodically back-tested to assess their effectiveness. The Company makes appropriate calibrations to the model as needed, continually refining the model, methodology and results. Changes to key model assumptions are reviewed by the ALCO. Scenario results do not reflect strategies that management could employ to limit the impact of changing interest rate expectations. 
+
+To help address the impact of the COVID-19 pandemic on the economy and financial markets, the Federal Reserve kept the benchmark federal funds rate at a target range of 0.00% to 0.25% throughout 2021. The Federal Reserve raised the target fed funds rate to the range of 0.25% to 0.50% at its meeting in March 2022 to address the concerns on the elevated inflation level which reflected supply and demand imbalances related to the pandemic, higher energy prices, and broader price pressures. At the end of the quarter, the market anticipated that the Federal Reserve would raise rates expeditiously with the target fed funds rate reaching 2.50% by the end of 2022. 
+
+Twelve-Month Net Interest Income Simulation 
+
+Net interest income simulation modeling looks at interest rate risk through earnings. It projects the changes in interest rate sensitive asset and liability cash flows, expressed in terms of net interest income, over a specified time horizon for defined interest rates scenarios. Net interest income simulations generate insight into the impact of market rates changes on earnings and guide risk management decisions. The Company assesses interest rate risk by comparing net interest income using different interest rate scenarios. 
+
+The following table presents the Company&#8217;s net interest income sensitivity related to an instantaneous and sustained non-parallel shift in market interest rates of 100 and 200 bps in upward direction as of March 31, 2022 and December 31, 2021, based on a static balance sheet as of the date of the analysis. 
+
+Change in Interest Rates (in bps) Net Interest Income Volatility (1) 
+
+March 31, 2022 December 31, 2021 +200 18.9 % 19.5 % +100 9.4 % 9.4 % -100 NM NM -200 NM NM 
+
+NM &#8212; Not meaningful. 
+
+(1) The percentage change represents net interest income over 12 months in a stable interest rate environment versus net interest income in the various rate scenarios. 
+
+While an instantaneous and sustained non-parallel shift in market interest rates was used in the simulation model described in the preceding paragraphs, the Company believes that any shift in interest rates would likely be more gradual and would therefore have a more modest impact, and non-parallel gradual rate shift scenarios may give a more meaningful estimate of the Company&#8217;s underlying interest rate risk. The rate ramp table below shows the net income volatility under a gradual non-parallel shift of the yield curve upward, in even monthly increments over the first 12 months, followed by rates held constant thereafter based on a static balance sheet as of the date of the analysis. Actual results will vary based on the timing and pace of interest rate changes, and earning asset growth: 
+
+Change in Interest Rates (in bps) Net Interest Income Volatility March 31, 2022 December 31, 2021 +200 Rate Ramp 8.7 % 9.2 % +100 Rate Ramp 4.0 % 4.1 % -100 Rate Ramp NM NM -200 Rate Ramp NM NM 
+
+NM &#8212; Not meaningful. 
+
+As of March 31, 2022, the Company&#8217;s net interest income profile reflects an asset sensitive position. Net interest income is expected to increase if interest rates rise as the Company has a large share of variable rate loans in its loan portfolio, primarily linked to Prime or LIBOR indices. The Company&#8217;s interest income is sensitive to changes in short-term interest rates. The Company&#8217;s deposit portfolio is primarily comprised of non-maturity deposits, which are not directly tied to short-term interest rate indices, but are, nevertheless, sensitive to changes in short-term interest rates. The modeled results are highly sensitive to reinvestment yield and deposit beta assumptions. Actual results in terms of net interest income growth during a period of rising interest rates will also reflect earning asset growth and deposit mix changes based on customer preferences relative to the interest rate environment. 
+
+Economic Value of Equity at Risk 
+
+Economic value of equity (&#8220;EVE&#8221;) is a cash flow calculation that takes the present value of all asset cash flows and subtracts the present value of all liability cash flows. This calculation is used for asset/liability management and measures changes in the economic value of the bank. The fair market values of a bank's assets and liabilities are directly linked to interest rates. The economic value approach provides a comparatively broader scope than the net income volatility approach since it captures all anticipated cash flows. 
+
+EVE simulation reflects the effect of interest rate shifts on the value of the Company and is used to assess the degree of interest rate risk exposure. In contrast to the earnings perspective, the economic perspective identifies risks arising from repricing or maturity gaps over the life of the balance sheet. Changes in economic value indicate anticipated changes in the value of the Bank&#8217;s future cash flows. Thus, the economic perspective can provide a leading indicator of the Bank&#8217;s future earnings and capital values. The economic value method also reflects sensitivity across the full maturity spectrum of the Bank&#8217;s assets and liabilities. 
+
+The following table presents the Company&#8217;s EVE sensitivity related to an instantaneous and sustained non-parallel shift in market interest rates of 100 and 200 bps in an upward direction as of March 31, 2022 and December 31, 2021: 
+
+Change in Interest Rates (in bps) EVE Volatility (1) 
+
+March 31, 2022 December 31, 2021 +200 6.2 % 7.1 % +100 3.2 % 3.5 % -100 NM NM -200 NM NM 
+
+NM &#8212; Not meaningful. 
+
+(1) The percentage change represents net portfolio value of the Company in a stable interest rate environment versus net portfolio value in the various rate scenarios. 
+
+The Company&#8217;s EVE sensitivity for the upward interest rate scenarios decreased as of March 31, 2022, compared with the results as of December 31, 2021. The changes in EVE sensitivity during this period were primarily due to changes in level and shape of the yield curve, as well as the increased base EVE as of March 31, 2022. 
+
+The Company&#8217;s EVE profile as of March 31, 2022 reflects an asset sensitive EVE position under the higher interest rate scenarios. Given the uncertainty of the magnitude, timing and direction of future interest rate movements, and the shape of the yield curve, actual results may vary from those predicted by the Company&#8217;s model. 
+
+Derivatives 
+
+It is the Company&#8217;s policy not to speculate on the future direction of interest rates, foreign currency exchange rates and commodity prices. However, the Company periodically enters into derivative transactions in order to reduce its exposure to market risks, primarily interest rate risk and foreign currency risk. The Company believes that these derivative transactions, when properly structured and managed, may provide a hedge against inherent risk in certain assets and liabilities and against risk in specific transactions. Hedging transactions may be implemented using a variety of derivative instruments such as swaps, forwards and options. Prior to entering into any hedging activities, the Company analyzes the costs and benefits of the hedge in comparison to alternative strategies. In addition, the Company enters into derivative transactions in order to assist customers with their risk management objectives, such as managing exposure to fluctuations in interest rates, foreign currencies and commodity prices. To economically hedge against the derivative contracts entered with the Company&#8217;s customers, the Company enters into mirrored derivative contracts with third-party financial institutions. The exposures from derivative transactions are collateralized by cash and/or eligible securities based on limits as set forth in the respective agreements entered between the Company and counterparty financial institutions. 
+
+The Company is subject to credit risk associated with the counterparties to the derivative contracts. This counterparty credit risk is a multi-dimensional form of risk, affected by both the exposure and credit quality of the counterparty, both of which are sensitive to market-induced changes. The Company&#8217;s Credit Risk Management Committee provides oversight of credit risks and the Company has guidelines in place to manage counterparty concentration, tenor limits and collateral. The Company manages the credit risk of its derivative positions by diversifying its positions among various counterparties, by entering legally enforceable master netting arrangements and by requiring collateral arrangements, where possible. The Company may also transfer counterparty credit risk-related to interest rate swaps to institutional third parties through the use of credit risk participation agreements. Certain derivative contracts are required to be centrally cleared through clearinghouses to further mitigate counterparty credit risk. The Company incorporates credit value adjustments and other market standard methodologies to appropriately reflect its own nonperformance risk and the respective counterparty&#8217;s nonperformance risk in the fair value measurements of its derivatives. 
+
+The following table summarizes certain information about derivative financial instruments utilized by the Company in its management of interest rate risk and foreign currency risk as of March 31, 2022 and December 31, 2021: 
+
+March 31, 2022 December 31, 2021 ($ in thousands) Interest Rate Contracts Foreign Exchange Contracts Interest Rate Contracts Foreign Exchange Contracts Derivatives designated as hedging instruments: Cash Flow Hedges Net Investment Hedges Cash Flow Hedges Net Investment Hedges Notional amounts: $ 1,275,000 $ 86,751 $ 275,000 $ 86,531 Fair value: Recognized as an asset 385 &#8212; &#8212; &#8212; Recognized as a liability &#8212; 490 57 225 Net fair value $ 385 &#160; $ (490) $ (57) $ (225) Weighted-average interest rates: Variable-rate borrowings &#8212; Pay fixed (receive floating) 
+
+0.483% (3-month USD-LIBOR) NM 0.483% (3-month USD-LIBOR) NM Variable-rate loans &#8212; Receive fixed (pay floating) 
+
+1.090% (1-month USD-LIBOR) NM NA NM 
+
+Weighted-average remaining term to maturity (in months): 
+
+28.7 11.7 13.9 2.7 Derivatives not designated as hedging instruments: Interest Rate Contracts Foreign Exchange Contracts Interest Rate Contracts Foreign Exchange Contracts Notional amounts: $ 17,771,724 $ 2,365,524 $ 17,575,420 $ 1,874,681 Fair value: Recognized as an asset 187,716 16,122 240,222 21,033 Recognized as a liability 236,569 11,545 179,905 15,276 Net fair value $ (48,853) $ 4,577 &#160; $ 60,317 &#160; $ 5,757 &#160; 
+
+NM &#8212; Not meaningful. 
+
+Derivatives Designated as Hedging Instruments &#8212; Interest rate and foreign exchange derivative contracts are utilized in the Company&#8217;s asset and liability management activities and serve as an efficient tool to manage the Company&#8217;s interest rate risk and foreign exchange risk. The Company uses derivatives to hedge the risk of variable cash flows in its variable interest rate borrowings, which includes repurchase agreements and FHLB advances, as well as a portion of its variable interest rate CRE loans. The Company also uses derivatives to hedge the risk of changes in the USD equivalent value of a designated monetary amount of the Company&#8217;s net investment in East West Bank (China) Limited. For both cash flow and net investment hedges, the change in the fair value of the hedging instruments is recognized in AOCI, net of tax , on the Consolidated Balance Sheet. 
+
+The fluctuation in foreign currency translation of the hedged exposure is expected to be offset by changes in the fair value of the forward contracts. As of March 31, 2022, the outstanding foreign currency forwards effectively hedged approximately 50% of the net Chinese Renminbi exposure from East West Bank (China) Limited. 
+
+Changes to the composition of the Company&#8217;s derivatives designated as hedging instruments during 2022 reflect actions taken for interest rate risk and foreign exchange rate risk management. The Company repositions its derivatives portfolio based on the current assessment of economic and financial conditions, including the interest rate and foreign currency environments, balance sheet composition and trends, and the relative mix of its cash and derivative positions. 
+
+Derivatives Not Designated as Hedging Instruments &#8212; The Company enters into interest rate, foreign exchange and energy commodity contracts to support the business needs of its customers. When derivative transactions are executed with its customers, the derivative contracts are offset by paired trades with third-party financial institutions. The Company may enter into derivative contracts that are either exchange-traded, centrally cleared through a clearinghouse or over-the-counter. 
+
+The Company offers various interest rate derivative contracts to its customers. For the interest rate contracts entered into with its customers, the Company managed its interest rate risk by entering into offsetting interest rate contracts with third-party financial institutions and central clearing organizations. Certain derivative contracts entered with central clearing organizations are settled-to-market daily to the extent the central clearing organizations&#8217; rulebooks legally characterize the variation margin as settlement. Derivative contracts allow borrowers to lock in attractive intermediate and long-term fixed rate financing while not increasing the interest rate risk to the Company. These transactions are not linked to specific Company assets or liabilities on the Consolidated Balance Sheet, or to forecasted transactions in a hedging relationship, and are therefore classified as economic hedges. The contracts are marked-to-market at each reporting period. The changes in fair values of the derivative contracts traded with third-party financial institutions are expected to be largely comparable to the changes in fair values of the derivative transactions executed with customers throughout the terms of these contracts, except for the credit valuation adjustment component. The Company records credit valuation adjustments on derivatives to properly reflect the variances of credit worthiness between the Company and the counterparties, considering the effects of enforceable master netting agreements and collateral arrangements. 
+
+The Company enters into foreign exchange contracts with its customers, consisting of forward, spot, swap and option contracts to accommodate the business needs of its customers. For the foreign exchange contracts entered into with its customers, the Company managed its foreign exchange and credit exposures by entering into offsetting foreign exchange contracts with third-party financial institutions and/or entering into bilateral collateral and master netting agreements with customer counterparties. The changes in the fair values entered with third-party financial institutions are expected to be largely comparable to the changes in fair values of the foreign exchange transactions executed with the customers throughout the terms of these contracts. As of March 31, 2022, the Company anticipates performance by all counterparties and has not experienced nonperformance by any of its counterparties, and therefore did not incur any related losses. The Company also utilizes foreign exchange contracts that are not designated as hedging instruments to mitigate the economic effect of fluctuations in certain foreign currency on-balance sheet assets and liabilities, primarily foreign currency denominated deposits offered to its customers. The Company&#8217;s policies permit taking proprietary currency positions within approved limits, in compliance with exemptions to proprietary trading restrictions provided under Section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, or the Volcker Rule. The Company does not speculate in the foreign exchange markets, and actively manages its foreign exchange exposures within prescribed risk limits and defined controls. 
+
+The Company enters into energy commodity contracts with its customers to allow them to hedge against the risk of energy commodity price fluctuations. To economically hedge against the risk of fluctuation in commodity prices in the products offered to its customers, the Company enters into offsetting commodity contracts with third-party financial institutions and central clearing organizations. Certain derivative contracts entered into with central clearing organizations are settled-to-market daily, to the extent the central clearing organizations&#8217; rulebooks legally characterize the variation margin as settlement. The changes in fair values of the energy commodity contracts traded with third-party financial institutions are expected to be largely comparable to the changes in fair values of the energy commodity transactions executed with customers throughout the terms of these contracts. 
+
+Additional information on the Company&#8217;s derivatives is presented in Note 1 &#8212; Summary of Significant Accounting Policies &#8212; Significant Accounting Policies &#8212; Derivatives to the Consolidated Financial Statements in the Company&#8217;s 2021 Form 10-K, and Note 3 &#8212; Fair Value Measurement and Fair Value of Financial Instruments and Note 6 &#8212; Derivatives to the Consolidated Financial Statements in this Form 10-Q. 
+
+Critical Accounting Policies and Estimates 
+
+The Company&#8217;s significant accounting policies are described in Note 1 &#8212; Summary of Significant Accounting Policies to the Consolidated Financial Statements in the Company&#8217;s 2021 Form 10-K. Certain of these policies include critical accounting estimates, which are subject to valuation assumptions, subjective or complex judgments about matters that are inherently uncertain, and it is likely that materially different amounts could be reported under different assumptions and conditions. The Company has procedures and processes in place to facilitate making these judgments. The following accounting policies are critical to the Company&#8217;s Consolidated Financial Statements: 
+
+&#8226; allowance for loan losses and unfunded credit commitments; 
+
+&#8226; fair value estimates; 
+
+&#8226; goodwill impairment; and 
+
+&#8226; income taxes. 
+
+For additional information on the Company&#8217;s critical accounting estimates involving significant judgments, see Item 7. MD&#38;A &#8212; Critical Accounting Estimates in the Company&#8217;s 2021 Form 10-K. 
+
+Reconciliation of GAAP to Non-GAAP Financial Measures 
+
+To supplement the Company&#8217;s unaudited interim Consolidated Financial Statements presented in accordance with U.S. GAAP, the Company uses certain non-GAAP measures of financial performance. Non-GAAP financial measures are not prepared in accordance with, or as an alternative to U.S. GAAP. Generally, a non-GAAP financial measure is a numerical measure of a company&#8217;s performance that either excludes or includes amounts that are not normally excluded or included in the most directly comparable measure calculated and presented in accordance with U.S. GAAP. A non-GAAP financial measure may also be a financial metric that is not required by U.S. GAAP or other applicable requirements. The Company believes these non-GAAP financial measures, when taken together with the corresponding U.S. GAAP financial measures, provide meaningful supplemental information regarding its performance, and allow comparability to prior periods. These non-GAAP financial measures may be different from non-GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. 
+
+The following tables present the reconciliations of U.S. GAAP to non-GAAP financial measures for the periods presented: 
+
+($ in thousands) Three Months Ended March 31, 2022 2021 Net interest income before provision for (reversal of) credit losses $ 415,613 $ 353,695 Total noninterest income 79,743 72,866 Total revenue (a) $ 495,356 &#160; $ 426,561 &#160; 
+
+Total noninterest expense 
+
+(b) $ 189,450 $ 191,077 Less: Amortization of tax credit and other investments (13,900) (25,358) Amortization of core deposit intangibles (511) (732) Adjusted noninterest expense (d) $ 175,039 &#160; $ 164,987 &#160; Efficiency ratio (a)/(b) 38.25 &#160; % 44.79 &#160; % Adjusted efficiency ratio (a)/(d) 35.34 &#160; % 38.68 &#160; % 
+
+($ in thousands) Three Months Ended March 31, 2022 2021 Net income (a) $ 237,652 $ 204,994 Add: Amortization of core deposit intangibles 511 732 Amortization of mortgage servicing assets 392 414 
+
+Tax effect of amortization adjustments (1) 
+
+(260) (325) Tangible net income (b) $ 238,295 &#160; $ 205,815 &#160; Average stockholders&#8217; equity (c) $ 5,842,615 $ 5,338,098 Less: Average goodwill (465,697) (465,697) Average other intangible assets (2) 
+
+(9,207) (11,594) Average tangible equity (d) $ 5,367,711 &#160; $ 4,860,807 &#160; Return on average equity (a)/(c) 16.50 &#160; % 15.57 &#160; % Adjusted return on average tangible equity (3) 
+
+(b)/(d) 18.00 &#160; % 17.17 &#160; % 
+
+(1) Applied statutory rates of 28.77% for the first quarter of 2022 and 28.37% for the first quarter of 2021. 
+
+(2) Includes core deposit intangibles and mortgage servicing assets. 
+
+(3) Annualized. 
+
+($ and shares in thousands, except per share data) March 31, 2022 December 31, 2021 Stockholders&#8217; equity (a) $ 5,703,456 $ 5,837,218 Less: Goodwill 
+
+(465,697) (465,697) Other intangible assets (1) 
+
+(9,044) (9,334) Tangible equity (b) $ 5,228,715 &#160; $ 5,362,187 &#160; Number of common shares at period-end (c) 142,257 141,908 Book value per common share (a)/(c) $ 40.09 &#160; $ 41.13 &#160; Tangible equity per common share (b)/(c) $ 36.76 &#160; $ 37.79 &#160; 
+
+(1) Includes core deposit intangibles and mortgage servicing assets. 
+
+Forward-Looking Statements 
+
+Certain matters discussed in this Quarterly Report on Form 10-Q contain forward-looking statements that are intended to be covered by the safe harbor for such statements provided by the Private Securities Litigation Reform Act of 1995. In addition, the Company may make forward-looking statements in other documents that it files with, or furnishes to, the SEC and management may make forward-looking statements to analysts, investors, media members and others. Forward-looking statements are those that do not relate to historical facts and that are based on current expectations, estimates and projections about the Company&#8217;s industry, management&#8217;s beliefs and certain assumptions made by management, many of which, by their nature, are inherently uncertain and beyond the Company&#8217;s control. These statements may relate to the Company&#8217;s financial condition, results of operations, plans, objectives, future performance and/or business and usually can be identified by the use of forward-looking language, such as &#8220;anticipates,&#8221; &#8220;assumes,&#8221; &#8220;believes,&#8221; &#8220;can,&#8221; &#8220;continues,&#8221; &#8220;could,&#8221; &#8220;estimates,&#8221; &#8220;expects,&#8221; &#8220;forecasts,&#8221; &#8220;goal,&#8221; &#8220;intends to,&#8221; &#8220;likely,&#8221; &#8220;may,&#8221; &#8220;might,&#8221; &#8220;objective,&#8221; &#8220;plans,&#8221; &#8220;potential,&#8221; &#8220;projects,&#8221; &#8220;remains,&#8221; &#8220;should,&#8221; &#8220;target,&#8221; &#8220;trend,&#8221; &#8220;will,&#8221; &#8220;would,&#8221; or similar expressions, and the negative thereof. You should not place undue reliance on these statements, as they are subject to risks and uncertainties, including, but not limited to, those described in the documents incorporated by reference. When considering these forward-looking statements, you should keep in mind these risks and uncertainties, as well as any cautionary statements the Company may make. Moreover, you should treat these statements as speaking only as of the date they are made and based only on information then actually known to the Company. 
+
+There are a number of important factors that could cause future results to differ materially from historical performance and these forward-looking statements. Factors that might cause such differences include, but are not limited to: 
+
+&#8226; changes in the global economy, including an economic slowdown or market disruption, level of inflation, interest rate environment, housing prices, employment levels, rate of growth and general business conditions; 
+
+&#8226; the impact of any future federal government shutdown and uncertainty regarding the federal government&#8217;s debt limit; 
+
+&#8226; changes in local, regional and global business, economic and political conditions and geopolitical events; 
+
+&#8226; the economic, financial, reputational and other impacts of the ongoing COVID-19 global pandemic, including variants thereof, and any other pandemic, epidemic or health-related crisis, as well as a deterioration of asset quality and an increase in credit losses due to the COVID-19 global pandemic; 
+
+&#8226; changes in laws or the regulatory environment, including regulatory reform initiatives and policies of the U.S. Department of the Treasury, the Federal Reserve, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, the SEC, the Consumer Financial Protection Bureau, and the California Department of Financial Protection and Innovation - Division of Financial Institutions; 
+
+&#8226; the changes and effects thereof in trade, monetary and fiscal policies and laws, including the ongoing economic and political disputes between the U.S. and the People&#8217;s Republic of China and the monetary policies of the Federal Reserve; 
+
+&#8226; changes in the commercial and consumer real estate markets; 
+
+&#8226; changes in consumer or commercial spending, savings and borrowing habits, and patterns and behaviors; 
+
+&#8226; fluctuations in the Company&#8217;s stock price; 
+
+&#8226; impact from potential changes to income tax laws and regulations, federal spending and economic stimulus programs; 
+
+&#8226; the Company&#8217;s ability to compete effectively against financial institutions in its banking markets and other entities, including as a result of emerging technologies; 
+
+&#8226; the soundness of other financial institutions; 
+
+&#8226; success and timing of the Company&#8217;s business strategies; 
+
+&#8226; the Company&#8217;s ability to retain key officers and employees; 
+
+&#8226; impact on the Company&#8217;s funding costs, net interest income and net interest margin from changes in key variable market interest rates, competition, regulatory requirements and the Company&#8217;s product mix; 
+
+&#8226; changes in the Company&#8217;s costs of operation, compliance and expansion; 
+
+&#8226; the Company&#8217;s ability to adopt and successfully integrate new technologies into its business in a strategic manner; 
+
+&#8226; impact of the benchmark interest rate reform in the U.S. including the transition away from USD LIBOR to alternative reference rates; 
+
+&#8226; impact of communications or technology disruption, failure in, or breach of, the Company&#8217;s operational or security systems or infrastructure, or those of third party vendors with which the Company does business, including as a result of cyber-attacks; and other similar matters which could result in, among other things, confidential and/or proprietary information being disclosed or misused and materially impact the Company&#8217;s ability to provide services to its clients; 
+
+&#8226; adequacy of the Company&#8217;s risk management framework, disclosure controls and procedures and internal control over financial reporting; 
+
+&#8226; future credit quality and performance, including the Company&#8217;s expectations regarding future credit losses and allowance levels; 
+
+&#8226; impact of adverse changes to the Company&#8217;s credit ratings from major credit rating agencies; 
+
+&#8226; impact of adverse judgments or settlements in litigation; 
+
+&#8226; impact on the Company&#8217;s operations due to political developments, pandemics, wars, civil unrest, terrorism or other hostilities that may disrupt or increase volatility in securities or otherwise affect business and economic conditions; 
+
+&#8226; heightened regulatory and governmental oversight and scrutiny of the Company&#8217;s business practices, including dealings with consumers; 
+
+&#8226; impact of reputational risk from negative publicity, fines, penalties and other negative consequences from regulatory violations, legal actions and the Company&#8217;s interactions with business partners, counterparties, service providers and other third parties; 
+
+&#8226; impact of regulatory enforcement actions; 
+
+&#8226; changes in accounting standards as may be required by the Financial Accounting Standards Board or other regulatory agencies and their impact on critical accounting policies and assumptions; 
+
+&#8226; the Company&#8217;s capital requirements and its ability to generate capital internally or raise capital on favorable terms; 
+
+&#8226; impact on the Company&#8217;s liquidity due to changes in the Company&#8217;s ability to receive dividends from its subsidiaries; 
+
+&#8226; any future strategic acquisitions or divestitures; 
+
+&#8226; changes in the equity and debt securities markets; 
+
+&#8226; fluctuations in foreign currency exchange rates; 
+
+&#8226; impact of increased focus on social, environmental and sustainability matters, which may affect the Company&#8217;s operations as well as those of its customers and the economy more broadly; 
+
+&#8226; significant turbulence or disruption in the capital or financial markets, which could result in, among other things, a reduction in the availability of funding or increases in funding costs, declines in asset values and/or recognition of allowance for credit losses on securities held in the Company&#8217;s debt securities portfolio; and 
+
+&#8226; impact of climate change, natural or man-made disasters or calamities, such as wildfires, droughts and earthquakes, all of which are particularly common in California, or other events that may directly or indirectly result in a negative impact on the Company&#8217;s financial performance. 
+
+For a more detailed discussion of some of the factors that might cause such differences, see the Company&#8217;s 2021 Form 10-K under the heading Item 1A. Risk Factors and the information set forth under Item 1A. Risk Factors in this Form 10-Q. The Company does not undertake, and specifically disclaims, any obligation to update or revise any forward-looking statements to reflect the occurrence of events or circumstances after the date of such statements except as required by law. 
+

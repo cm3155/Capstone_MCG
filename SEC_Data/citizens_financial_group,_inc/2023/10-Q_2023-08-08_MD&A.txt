@@ -1,0 +1,880 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Page Forward-Looking Statements 
+
+&#160; 6 
+
+Introduction 
+
+&#160; 7 
+
+Financial Performance 
+
+Results of Operations 
+
+Net Interest Income 
+
+Noninterest Income 
+
+Noninterest Expense 
+
+Provision for Credit Losses 
+
+Income Tax Expense 
+
+Business Operating Segments 
+
+Analysis of Financial Condition 
+
+Securities 
+
+Loans and Leases 
+
+Credit Quality 
+
+Deposits 
+
+Borrowed Funds 
+
+Capital and Regulatory Matters 
+
+Liquidity 
+
+Critical Accounting Estimates 
+
+Risk Governance 
+
+Market Risk 
+
+Non-GAAP Financial Measures and Reconciliations 
+
+Citizens Financial Group, Inc. | 5 
+
+FORWARD-LOOKING STATEMENTS 
+
+This document contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Any statement that does not describe historical or current facts is a forward-looking statement. These statements often include the words &#8220;believes,&#8221; &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;estimates,&#8221; &#8220;intends,&#8221; &#8220;plans,&#8221; &#8220;goals,&#8221; &#8220;targets,&#8221; &#8220;initiatives,&#8221; &#8220;potentially,&#8221; &#8220;probably,&#8221; &#8220;projects,&#8221; &#8220;outlook,&#8221; &#8220;guidance&#8221; or similar expressions or future conditional verbs such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;would,&#8221; and &#8220;could.&#8221; 
+
+Forward-looking statements are based upon the current beliefs and expectations of management, and on information currently available to management. Our statements speak as of the date hereof, and we do not assume any obligation to update these statements or to update the reasons why actual results could differ from those contained in such statements in light of new information or future events. We caution you, therefore, against relying on any of these forward-looking statements. They are neither statements of historical fact nor guarantees or assurances of future performance. While there is no assurance that any list of risks and uncertainties or risk factors is complete, important factors that could cause actual results to differ materially from those in the forward-looking statements include the following, without limitation: 
+
+&#8226; Negative economic, business and political conditions, including as a result of the interest rate environment, supply chain disruptions, inflationary pressures and labor shortages, that adversely affect the general economy, housing prices, the job market, consumer confidence and spending habits; 
+
+&#8226; The general state of the economy and employment, as well as general business and economic conditions, and changes in the competitive environment; 
+
+&#8226; Our capital and liquidity requirements under regulatory standards and our ability to generate capital and liquidity on favorable terms; 
+
+&#8226; The effect of changes in the level of commercial and consumer deposits on our funding costs and net interest margin; 
+
+&#8226; Our ability to implement our business strategy, including the cost savings and efficiency components, and achieve our financial performance goals, including the anticipated benefits of the Investors acquisition and HSBC transaction; 
+
+&#8226; The effects of geopolitical instability, including as a result of Russia&#8217;s invasion of Ukraine and the imposition of sanctions on Russia and other actions in response, on economic and market conditions, inflationary pressures and the interest rate environment, commodity price and foreign exchange rate volatility, and heightened cybersecurity risks; 
+
+&#8226; Our ability to meet heightened supervisory requirements and expectations; 
+
+&#8226; Liabilities and business restrictions resulting from litigation and regulatory investigations; 
+
+&#8226; The effect of changes in interest rates on our net interest income, net interest margin and our mortgage originations, mortgage servicing rights and mortgages held for sale; 
+
+&#8226; Changes in interest rates and market liquidity, as well as the magnitude of such changes, which may reduce interest margins, impact funding sources and affect the ability to originate and distribute financial products in the primary and secondary markets; 
+
+&#8226; Financial services reform and other current, pending or future legislation or regulation that could have a negative effect on our revenue and businesses; 
+
+&#8226; Environmental risks, such as physical or transitional risks associated with climate change, and social and governance risks, that could adversely affect our reputation, operations, business, and customers; 
+
+&#8226; A failure in or breach of our operational or security systems or infrastructure, or those of our third-party vendors or other service providers, including as a result of cyber-attacks; and 
+
+&#8226; Management&#8217;s ability to identify and manage these and other risks. 
+
+Citizens Financial Group, Inc. | 6 
+
+In addition to the above factors, we also caution that the actual amounts and timing of any future common stock dividends or share repurchases will be subject to various factors, including our capital position, financial performance, capital impacts of strategic initiatives, market conditions, receipt of required regulatory approvals and other regulatory considerations, as well as any other factors that our Board of Directors deems relevant in making such a determination. Therefore, there can be no assurance that we will repurchase shares from or pay any dividends to holders of our common stock, or as to the amount of any such repurchases or dividends. 
+
+More information about factors that could cause actual results to differ materially from those described in the forward-looking statements can be found in the &#8220;Risk Factors&#8221; section in Part I, Item 1A of our 2022 Form 10-K. 
+
+INTRODUCTION 
+
+Citizens Financial Group, Inc. is one of the nation&#8217;s oldest and largest financial institutions, with $223.1 billion in assets as of June 30, 2023. Headquartered in Providence, Rhode Island, we offer a broad range of retail and commercial banking products and services to individuals, small businesses, middle-market companies, large corporations and institutions. We help our customers reach their potential by listening to them and by understanding their needs in order to offer tailored advice, ideas and solutions. In Consumer Banking, we provide an integrated experience that includes mobile and online banking, a full-service customer contact center and the convenience of approximately 3,400 ATMs and more than 1,100 branches in 14 states and the District of Columbia. Consumer Banking products and services include a full range of banking, lending, savings, wealth management and small business offerings. In Commercial Banking, we offer a broad complement of financial products and solutions, including lending and leasing, deposit and treasury management services, foreign exchange, interest rate and commodity risk management solutions, as well as loan syndication, corporate finance, merger and acquisition, and debt and equity capital markets capabilities. More information is available at www.citizensbank.com. 
+
+The following MD&#38;A is intended to assist readers in their analysis of the accompanying unaudited interim Consolidated Financial Statements and supplemental financial information. It should be read in conjunction with the unaudited interim Consolidated Financial Statements and Notes to the unaudited interim Consolidated Financial Statements in Part I, Item 1, as well as other information contained in this document and our 2022 Form 10-K. 
+
+Non-GAAP Financial Measures 
+
+This document contains non-GAAP financial measures denoted as &#8220;Underlying&#8221; results and &#8220;including AOCI impact&#8221;. Underlying results for any given reporting period exclude certain items that may occur in that period which management does not consider indicative of our on-going financial performance. We believe these non-GAAP financial measures provide useful information to investors because they are used by management to evaluate our operating performance and make day-to-day operating decisions. In addition, we believe our Underlying results in any given reporting period reflect our on-going financial performance in that period and, accordingly, are useful to consider in addition to our GAAP financial results. We further believe the presentation of Underlying results increases comparability of period-to-period results. 
+
+Other companies may use similarly titled non-GAAP financial measures that are calculated differently from the way we calculate such measures. Accordingly, our non-GAAP financial measures may not be comparable to similar measures used by such companies. We caution investors not to place undue reliance on such non-GAAP financial measures, but to consider them with the most directly comparable GAAP measures. Non-GAAP financial measures have limitations as analytical tools and should not be considered in isolation or as a substitute for our results reported under GAAP. 
+
+Non-GAAP measures are denoted throughout our MD&#38;A by the use of the term &#8220;Underlying.&#8221; Where there is a reference to these metrics in that paragraph, all measures that follow are on the same basis when applicable. For more information on the computation of non-GAAP financial measures, see &#8220;Non-GAAP Financial Measures and Reconciliations.&#8221; 
+
+Citizens Financial Group, Inc. | 7 
+
+FINANCIAL PERFORMANCE 
+
+Key Highlights 
+
+Net income increased $114 million and $205 million for the three and six months ended June 30, 2023, respectively, with earnings per diluted common share up $0.25 to $0.92 and up $0.34 to $1.92 compared to the same periods in 2022. 
+
+Results reflect notable items of $53 million or $0.12 per diluted common share, net of tax benefit, for the three months ended June 30, 2023, compared to $231 million or $0.47 per diluted common share, net of tax benefit, for the same period in 2022. For the six months ended June 30, 2023, notable items were $102 million or $0.22 per diluted common share, net of tax benefit, as compared to $287 million or $0.63 per diluted common share, net of tax benefit, for the same period in 2022. 
+
+Table 1: Notable Items Three Months Ended June 30, 2023 Less: notable items (dollars in millions) Reported results (GAAP) Integration related costs (1) 
+
+TOP and other (2) 
+
+Provision Underlying results (non-GAAP) Noninterest expense $1,306 $39 $34 $&#8212; $1,233 Income tax expense 134 (11) (9) &#8212; 154 
+
+Three Months Ended June 30, 2022 Less: notable items (dollars in millions) Reported results (GAAP) Integration related costs (1) 
+
+TOP and other (2) 
+
+Provision (3) 
+
+Underlying results (non-GAAP) Provision (benefit) for credit losses $216 $&#8212; $&#8212; $145 $71 Noninterest income 494 (31) &#8212; &#8212; 525 Noninterest expense 1,305 104 21 &#8212; 1,180 Income tax expense 114 (28) (5) (37) 184 
+
+Six Months Ended June 30, 2023 Less: notable items (dollars in millions) Reported results (GAAP) Integration related costs (1) 
+
+TOP and other (2) 
+
+Provision Underlying results (non-GAAP) Noninterest expense $2,602 $91 $48 $&#8212; $2,463 Income tax expense 287 (24) (13) &#8212; 324 
+
+Six Months Ended June 30, 2022 Less: notable items (dollars in millions) Reported results (GAAP) Integration related costs (1) 
+
+TOP and other (2) 
+
+Provision (3) 
+
+Underlying results (non-GAAP) Provision (benefit) for credit losses $219 $&#8212; $&#8212; $169 $50 Noninterest income 992 (31) &#8212; &#8212; 1,023 Noninterest expense 2,411 141 32 &#8212; 2,238 Income tax expense 230 (38) (5) (43) 316 
+
+(1) Includes integration related costs associated with acquisitions for the three and six months ended June 30, 2023 and 2022, and mark-to-market losses on loans acquired from Investors classified as LHFS for the three and six months ended June 30, 2022. 
+
+(2) Includes our TOP transformational and revenue and efficiency initiatives for the three and six months ended June 30, 2023 and 2022, and income tax impacts related to legacy tax matters for the six months ended June 30, 2022. 
+
+(3) Includes the initial provision for credit losses tied to the HSBC transaction and Investors acquisition. As required by purchase accounting, a fair value mark for performing loans including both credit and interest rate components is recorded in addition to the provision for credit losses expense, thus the credit exposure has been &#8220;double counted&#8221;. 
+
+Citizens Financial Group, Inc. | 8 
+
+&#8226; Net income available to common stockholders increased $112 million and $204 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022. 
+
+&#9702; On an Underlying basis, which excludes notable items, net income available to common stockholders of $497 million and $1.0 billion for the three and six months ended June 30, 2023, respectively, compared with $563 million and $1.0 billion for the same periods in 2022. 
+
+&#9702; On an Underlying basis, earnings per diluted common share of $1.04 and $2.14 for the three and six months ended June 30, 2023, respectively, compared to $1.14 and $2.21 for the same periods in 2022. 
+
+&#8226; Total revenue increased $95 million and $578 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven by increases of 6% and 22%, respectively, in net interest income, including the impacts of the HSBC transaction and Investors acquisition during the six-month period. 
+
+&#8226; The efficiency ratio of 62.3% and 61.6% for the three and six months ended June 30, 2023, respectively, compared to 65.3% and 66.2% for the same periods in 2022. 
+
+&#9702; On an Underlying basis, the efficiency ratio of 58.9% and 58.3% for the three and six months ended June 30, 2023, respectively, compared to 58.2% and 60.9% for the same periods in 2022. 
+
+&#8226; ROTCE of 12.4% and 13.4% for the three and six months ended June 30, 2023, respectively, compared to 9.1% and 10.2% for the same periods in 2022. 
+
+&#9702; On an Underlying basis, ROTCE of 13.9% and 14.8% for the three and six months ended June 30, 2023, respectively, compared to 15.5% and 14.2% for the same periods in 2022. 
+
+&#8226; Tangible book value per common share of $28.72 increased 3% from December 31, 2022. 
+
+For additional information regarding our financial performance, see &#8220;Results of Operations&#8221; included in this report. 
+
+Citizens Financial Group, Inc. | 9 
+
+RESULTS OF OPERATIONS 
+
+Net Interest Income 
+
+Net interest income is our largest source of revenue and is the difference between the interest earned on interest-earning assets (generally loans, leases and investment securities) and the interest expense incurred in connection with interest-bearing liabilities (generally deposits and borrowed funds). The level of net interest income is primarily a function of the difference between the effective yield on our average interest-earning assets and the effective cost of our interest-bearing liabilities. These factors are influenced by the pricing and mix of interest-earning assets and interest-bearing liabilities which, in turn, are impacted by external factors such as local economic conditions, competition for loans and deposits, the monetary policy of the FRB and market interest rates. For further discussion, refer to the &#8220;Market Risk&#8221; and &#8220;Risk Governance&#8221; sections of our 2022 Form 10-K. 
+
+Table 2: Major Components of Net Interest Income Three Months Ended June 30, 2023 2022 Change 
+
+(dollars in millions) Average Balances 
+
+Income/ Expense 
+
+Yields/ Rates 
+
+Average Balances 
+
+Income/ Expense 
+
+Yields/ Rates 
+
+Average Balances 
+
+Yields/ Rates (bps) 
+
+Assets Interest-bearing cash and due from banks and deposits in banks $7,768 $100 5.10 % $4,630 $13 1.06 % $3,138 404 bps Taxable investment securities 38,000 267 2.81 35,900 201 2.25 2,100 56 Non-taxable investment securities 2 &#8212; 2.68 3 &#8212; 2.62 (1) 6 Total investment securities 38,002 267 2.81 35,903 201 2.25 2,099 56 Commercial and industrial 49,770 765 6.09 50,517 418 3.28 (747) 281 Commercial real estate 29,115 445 6.05 27,592 243 3.48 1,523 257 Leases 1,352 12 3.69 1,575 10 2.61 (223) 108 Total commercial 80,237 1,222 6.03 79,684 671 3.33 553 270 Residential mortgages 30,566 259 3.38 28,486 221 3.10 2,080 28 Home equity 14,340 264 7.38 12,811 105 3.27 1,529 411 Automobile 10,997 113 4.14 14,172 127 3.60 (3,175) 54 Education 12,430 155 5.00 13,144 137 4.18 (714) 82 Other retail 5,155 119 9.30 5,557 109 7.87 (402) 143 Total retail 73,488 910 4.96 74,170 699 3.77 (682) 119 Total loans and leases 153,725 2,132 5.52 153,854 1,370 3.55 (129) 197 Loans held for sale, at fair value 1,381 20 5.74 1,937 17 3.60 (556) 214 Other loans held for sale 622 12 7.90 2,353 25 4.21 (1,731) 369 Interest-earning assets 201,498 2,531 5.00 198,677 1,626 3.26 2,821 174 Noninterest-earning assets 20,875 22,290 (1,415) Total assets $222,373 $220,967 $1,406 Liabilities and Stockholders&#8217; Equity Checking with interest $34,586 $110 1.28 % $38,747 $15 0.16 % ($4,161) 112 Money market 49,665 348 2.81 48,795 23 0.19 870 262 Savings 29,640 108 1.46 27,661 9 0.14 1,979 132 Term 17,180 157 3.68 6,970 7 0.31 10,210 337 Total interest-bearing deposits 131,071 723 2.21 122,173 54 0.18 8,898 203 Short-term borrowed funds 1,446 22 5.82 3,995 10 0.98 (2,549) 484 Long-term borrowed funds 16,795 198 4.70 10,222 57 2.26 6,573 244 Total borrowed funds 18,241 220 4.80 14,217 67 1.90 4,024 290 Total interest-bearing liabilities 149,312 943 2.53 136,390 121 0.36 12,922 217 Demand deposits 42,178 54,189 (12,011) Other noninterest-bearing liabilities 6,580 5,991 589 Total liabilities 198,070 196,570 1,500 Stockholders&#8217; equity 24,303 24,397 (94) Total liabilities and stockholders&#8217; equity $222,373 $220,967 $1,406 Interest rate spread 2.47 % 2.90 % (43) Net interest income and net interest margin $1,588 3.16 % $1,505 3.04 % 12 
+
+Net interest income and net interest margin, FTE (1) 
+
+$1,593 3.17 % $1,507 3.04 % 13 Memo: Total deposits (interest-bearing and demand) $173,249 $723 1.68 % $176,362 $54 0.12 % ($3,113) 156 bps 
+
+Citizens Financial Group, Inc. | 10 
+
+Six Months Ended June 30, 2023 2022 Change 
+
+(dollars in millions) Average Balances 
+
+Income/ Expense 
+
+Yields/ Rates 
+
+Average Balances 
+
+Income/ Expense 
+
+Yields/ Rates 
+
+Average Balances 
+
+Yields/ Rates (bps) 
+
+Assets: Interest-bearing cash and due from banks and deposits in banks $6,839 $169 4.91 % $6,333 $17 0.52 % $506 439 bps Taxable investment securities 38,474 533 2.77 32,591 339 2.08 5,883 69 Non-taxable investment securities 2 &#8212; 2.68 2 &#8212; 2.61 &#8212; 7 Total investment securities 38,476 533 2.77 32,593 339 2.08 5,883 69 Commercial and industrial 50,876 1,500 5.87 47,747 746 3.11 3,129 276 Commercial real estate 29,004 861 5.90 20,867 333 3.17 8,137 273 Leases 1,393 24 3.50 1,568 21 2.71 (175) 79 Total commercial 81,273 2,385 5.84 70,182 1,100 3.12 11,091 272 Residential mortgages 30,322 509 3.35 25,987 390 3.00 4,335 35 Home equity 14,207 504 7.16 12,469 195 3.15 1,738 401 Automobile 11,465 232 4.09 14,352 254 3.58 (2,887) 51 Education 12,612 309 4.94 13,091 268 4.13 (479) 81 Other retail 5,222 240 9.27 5,492 211 7.75 (270) 152 Total retail 73,828 1,794 4.89 71,391 1,318 3.71 2,437 118 Total loans and leases 155,101 4,179 5.39 141,573 2,418 3.42 13,528 197 Loans held for sale, at fair value 1,196 35 5.79 2,150 33 3.11 (954) 268 Other loans held for sale 410 17 8.40 1,409 32 4.48 (999) 392 Interest-earning assets 202,022 4,933 4.88 184,058 2,839 3.09 17,964 179 Noninterest-earning assets 20,519 20,674 (155) Total assets $222,541 $204,732 $17,809 Liabilities and Stockholders&#8217; Equity: Checking with interest $35,276 $207 1.18 % $34,605 $20 0.12 % $671 106 Money market 49,803 635 2.57 48,012 35 0.15 1,791 242 Savings 29,551 187 1.28 25,758 14 0.11 3,793 117 Term 15,021 244 3.27 5,976 10 0.30 9,045 297 Total interest-bearing deposits 129,651 1,273 1.98 114,351 79 0.14 15,300 184 Short-term borrowed funds 997 28 5.59 2,023 10 1.00 (1,026) 459 Long-term borrowed funds 17,284 401 4.63 8,155 98 2.40 9,129 223 Total borrowed funds 18,281 429 4.68 10,178 108 2.13 8,103 255 Total interest-bearing liabilities 147,932 1,702 2.31 124,529 187 0.30 23,403 201 Demand deposits 44,145 51,430 (7,285) Other noninterest-bearing liabilities 6,453 5,073 1,380 Total liabilities 198,530 181,032 17,498 Stockholders&#8217; equity 24,011 23,700 311 Total liabilities and stockholders&#8217; equity $222,541 $204,732 $17,809 Interest rate spread 2.57 % 2.79 % (22) Net interest income and net interest margin $3,231 3.23 % $2,652 2.91 % 32 
+
+Net interest income and net interest margin, FTE (1) 
+
+$3,240 3.23 % $2,656 2.91 % 32 Memo: Total deposits (interest-bearing and demand) $173,796 $1,273 1.48 % $165,781 $79 0.10 % $8,015 138 bps 
+
+(1) Net interest income and net interest margin is presented on a FTE basis using the federal statutory tax rate of 21%. The FTE impact is predominantly attributable to commercial and industrial loans for the periods presented. 
+
+Net interest income increased $83 million, or 6%, and $579 million, or 22%, for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, reflecting higher net interest margin and growth of 1% and 10%, respectively, in average interest-earning assets, including the impacts of the HSBC transaction and Investors acquisition during the six-month period. 
+
+Net interest margin on a FTE basis increased 13 basis points and 32 basis points for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, reflecting higher interest-earning asset yields given higher market interest rates and interest-earning asset growth, partially offset by increased funding costs. Average interest-earning asset yields increased 174 basis points and 179 basis points, while average interest-bearing liability costs increased 217 basis points and 201 basis points, respectively, compared to the same periods. 
+
+Citizens Financial Group, Inc. | 11 
+
+Average interest-earning assets increased $2.8 billion, or 1%, and $18.0 billion, or 10%, for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022. The increase in the six-month period is primarily attributable to growth in loans and leases reflecting the impacts of the HSBC transaction and Investors acquisition, and growth in investments, while the increase in the three-month period reflects growth in cash held in interest-bearing deposits and investments, partially offset by a decline in LHFS. 
+
+Average deposits decreased $3.1 billion, or 2%, and increased $8.0 billion, or 5%, for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022. The decrease in the three-month period is primarily due to rate-related outflows, while the increase in the six-month period is primarily attributable to the impacts of the HSBC transaction and Investors acquisition. 
+
+Average total borrowed funds increased $4.0 billion and $8.1 billion for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven primarily by an increase in FHLB advances. 
+
+Noninterest Income 
+
+Table 3: Noninterest Income Three Months Ended June 30, Six Months Ended June 30, (dollars in millions) 2023 2022 Change Percent 2023 2022 Change Percent Service charges and fees $101 $108 ($7) (6 %) $201 $206 ($5) (2 %) Capital markets fees 82 88 (6) (7) 165 181 (16) (9) Card fees 80 71 9 13 152 131 21 16 Mortgage banking fees 59 72 (13) (18) 116 141 (25) (18) Trust and investment services fees 65 66 (1) (2) 128 127 1 1 Foreign exchange and derivative products 44 60 (16) (27) 92 111 (19) (17) Letter of credit and loan fees 43 40 3 8 83 78 5 6 Securities gains, net 9 1 8 NM 14 5 9 180 
+
+Other income (1) 
+
+23 (12) 35 NM 40 12 28 233 Noninterest income $506 $494 $12 2 % $991 $992 ($1) &#8212; % 
+
+(1) Includes bank-owned life insurance income and other income for all periods presented. 
+
+Significant changes in noninterest income for the three and six months ended June 30, 2023, compared to the same periods in 2022, are highlighted below. 
+
+&#8226; Other income increased driven by $31 million of mark-to-market losses on loans acquired from Investors recognized in the second quarter of 2022. 
+
+&#8226; Mortgage banking fees declined driven by lower production volumes and servicing revenue, partially offset by improved gain-on-sale margins. 
+
+&#8226; Card fees increased given higher transaction volumes. 
+
+&#8226; Foreign exchange and derivative products revenue decreased reflecting lower client hedging activity. 
+
+&#8226; Capital markets fees decreased reflecting lower syndication fees, partially offset by higher merger and acquisition advisory fees. 
+
+Citizens Financial Group, Inc. | 12 
+
+Noninterest Expense 
+
+Table 4: Noninterest Expense Three Months Ended June 30, Six Months Ended June 30, (dollars in millions) 2023 2022 Change Percent 2023 2022 Change Percent Salaries and employee benefits $615 $683 ($68) (10 %) $1,273 $1,277 ($4) &#8212; % Outside services 177 189 (12) (6) 353 358 (5) (1) Equipment and software 181 169 12 7 350 319 31 10 Occupancy 136 111 25 23 260 194 66 34 Other operating expense 197 153 44 29 366 263 103 39 Noninterest expense $1,306 $1,305 $1 &#8212; % $2,602 $2,411 $191 8 % 
+
+Noninterest expense was stable for the three months ended June 30, 2023 and increased for the six months ended June 30, 2023, compared to the same periods in 2022, driven primarily by acquisition-related costs and higher other operating expense associated with advertising, fraud losses, and FDIC insurance costs as a result of the increase in the base deposit insurance assessment rate of two basis points effective January 1, 2023. In addition, equipment and software increased reflecting higher software maintenance and amortization costs. These increases were partially offset by the benefit of efficiency initiatives and lower salaries and employee benefits given lower variable compensation. 
+
+Provision for Credit Losses 
+
+The provision for credit losses is the result of a detailed analysis performed to estimate our ACL. The total provision for credit losses includes the provision for loan and lease losses and the provision for unfunded commitments. Refer to &#8220;&#8212;Analysis of Financial Condition &#8212; Credit Quality&#8221; for more information. 
+
+Credit provision expense of $176 million and $344 million for the three and six months ended June 30, 2023, respectively, compared to $216 million and $219 million for the same periods in 2022. The provision expense for the three and six months ended June 30, 2023 reflects an increased net charge-off level in the Commercial Real Estate Office portfolio given return to office dynamics and rising interest rates. Provision expense for the three and six months ended June 30, 2022 reflects lower charge-off levels and reduced reserve requirements as COVID concerns subsided, partially offset by the provision associated with the Investors acquisition in the second quarter of 2022. 
+
+Income Tax Expense 
+
+Income tax expense of $134 million and $287 million increased $20 million and $57 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven by higher pre-tax income. The effective income tax rate of 22.1% and 22.5% for the same periods decreased from 23.8% and 22.7%, respectively, compared to the same periods in 2022, primarily driven by additional tax expense incurred in 2022 related to acquisitions, partially offset by the adoption of the proportional amortization method for qualified investments in tax credit structures in 2023 and increased non-deductible FDIC premium expense. Provision for income taxes is calculated by applying the estimated annual effective tax rate to year-to-date pre-tax income, adjusting for discrete items that occurred during the period. 
+
+Business Operating Segments 
+
+We have two business operating segments: Consumer Banking and Commercial Banking. Segment results are determined based on our management reporting system, which assigns balance sheet and statement of operations items to each of the business segments. The process is designed around our organizational and management structure. The results derived are not necessarily comparable with similar information published by other financial institutions. 
+
+Developing and applying methodologies used to allocate items among the business operating segments is a dynamic process. Accordingly, financial results may be revised periodically as management systems are enhanced, methods of evaluating performance or product lines are updated, or our organizational structure changes. 
+
+There have been no significant changes in our methodologies used to allocate items to our business operating segments as described in Note 26 in our 2022 Form 10-K. 
+
+Citizens Financial Group, Inc. | 13 
+
+The following tables present certain financial data of our business operating segments. Total business operating segment financial results differ from total consolidated financial results. These differences are reflected in Other non-segment operations. See Note 16 for additional information. 
+
+Table 5: Selected Financial Data for Business Operating Segments Consumer Banking Commercial Banking Three Months Ended June 30, Three Months Ended June 30, (dollars in millions) 2023 2022 2023 2022 Net interest income $1,104 $995 $584 $534 Noninterest income 268 280 207 221 Total revenue 1,372 1,275 791 755 Noninterest expense 908 881 315 308 Profit before credit losses 464 394 476 447 Net charge-offs 82 39 71 10 Income before income tax expense 382 355 405 437 Income tax expense 100 90 100 96 Net income $282 $265 $305 $341 Average Balances: Total assets $87,040 $88,881 $77,546 $78,638 
+
+Total loans and leases (1) 
+
+80,684 83,248 74,295 74,172 Deposits 115,846 118,482 45,494 51,575 Interest-earning assets 81,328 84,026 74,687 74,422 
+
+Consumer Banking Commercial Banking Six Months Ended June 30, Six Months Ended June 30, (dollars in millions) 2023 2022 2023 2022 Net interest income $2,200 $1,852 $1,181 $950 Noninterest income 524 537 408 434 Total revenue 2,724 2,389 1,589 1,384 Noninterest expense 1,797 1,665 646 580 Profit before credit losses 927 724 943 804 Net charge-offs 165 88 118 22 Income before income tax expense 762 636 825 782 Income tax expense 199 162 201 170 Net income $563 $474 $624 $612 Average Balances: Total assets $87,298 $83,247 $78,215 $69,927 
+
+Total loans and leases (1) 
+
+80,935 78,268 75,010 66,134 Deposits 115,713 111,610 47,220 48,067 Interest-earning assets 81,598 79,067 75,405 66,412 
+
+(1) Includes LHFS. 
+
+Consumer Banking 
+
+Net interest income increased $109 million and $348 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven by higher net interest margin reflecting higher interest-earning asset yields given higher market interest rates, partially offset by higher funding costs. Growth in average interest-earning assets, including the impacts of the HSBC transaction and Investors acquisition, is also a driver during the six-month period. 
+
+Noninterest income decreased $12 million and $13 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven by a decline in mortgage banking fees reflecting lower production volumes and servicing revenue, partially offset by improved gain-on-sale margins, and a decline in service charges and fees given the elimination of non-sufficient funds fees. These decreases were partially offset by higher card fees given higher transaction volumes. 
+
+Citizens Financial Group, Inc. | 14 
+
+Noninterest expense increased $27 million and $132 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven primarily by acquisition-related costs and higher other operating expense associated with advertising, fraud losses, and FDIC insurance costs as a result of the increase in the base deposit insurance assessment rate of two basis points effective January 1, 2023. These increases were partially offset by the benefit of efficiency initiatives. 
+
+Net charge-offs increased $43 million and $77 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven by other retail, auto and education as credit losses continue to gradually normalize off pandemic-era lows. 
+
+Commercial Banking 
+
+Net interest income increased $50 million and $231 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven by higher net interest margin reflecting higher interest-earning asset yields given higher market interest rates, partially offset by higher funding costs. Growth in average interest-earning assets, including the impact of the Investors acquisition, is also a driver during the six-month period. 
+
+Noninterest income decreased $14 million and $26 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven by a decline in capital markets fees reflecting lower syndication fees, partially offset by higher merger and acquisition advisory fees, and a decline in foreign exchange and derivative products revenue reflecting lower client hedging activity. These decreases were partially offset by higher service charges and fees reflecting the benefit of acquisitions and improvement in Treasury Solutions fees and higher card fees given higher transaction volumes. 
+
+Noninterest expense increased $7 million and $66 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, driven primarily by acquisition-related costs and higher other operating expense associated with FDIC insurance costs as a result of the increase in the base deposit insurance assessment rate of two basis points effective January 1, 2023, partially offset by the benefit of efficiency initiatives. 
+
+Net charge-offs increased $61 million and $96 million for the three and six months ended June 30, 2023, respectively, compared to the same periods in 2022, reflecting higher charge-offs in Commercial Real Estate Office and the normalization of credit losses off pandemic-era lows. 
+
+Citizens Financial Group, Inc. | 15 
+
+ANALYSIS OF FINANCIAL CONDITION 
+
+Securities 
+
+Table 6: Amortized Cost and Fair Value of Securities June 30, 2023 December 31, 2022 (dollars in millions) Amortized 
+
+Cost (1) 
+
+Fair Value Amortized Cost Fair Value U.S. Treasury and other $3,429 $3,236 $3,678 $3,486 State and political subdivisions 2 2 2 2 Mortgage-backed securities: Federal agencies and U.S. government sponsored entities 22,154 20,042 21,250 19,062 Other/non-agency 279 247 280 251 Total mortgage-backed securities 22,433 20,289 21,530 19,313 Collateralized loan obligations 1,248 1,228 1,248 1,206 Total debt securities available for sale $27,112 $24,755 $26,458 $24,007 Mortgage-backed securities: Federal agencies and U.S. government sponsored entities $8,990 $8,225 $9,253 $8,506 Total mortgage-backed securities 8,990 8,225 9,253 8,506 Asset-backed securities 530 503 581 536 Total debt securities held to maturity $9,520 $8,728 $9,834 $9,042 Total debt securities available for sale and held to maturity 
+
+$36,632 $33,483 $36,292 $33,049 Equity securities (at cost) $917 $917 $1,058 $1,058 Equity securities (at fair value) 147 147 153 153 
+
+(1) Excludes portfolio level basis adjustments of $9 million for securities designated in active fair value hedge relationships. The basis adjustments represent a reduction to the amortized cost of the securities being hedged. 
+
+The primary objective of the securities portfolio is to provide a ready source of liquidity. The portfolio primarily includes high-quality, highly-liquid investments reflecting our ongoing commitment to maintain strong contingent liquidity levels and pledging capacity. 
+
+As of June 30, 2023, U.S. Treasury, GNMA and GSE-issued mortgage-backed securities represent 94% of the fair value of our debt securities portfolio holdings, with approximately $26.9 billion in fair value of unencumbered high-quality liquid securities serving as potential collateral for borrowings from the FHLB, FRB discount window, the Fixed Income Clearing Corporation bilateral repurchase agreement market, and the Bank Term Funding Program. Under the Bank Term Funding Program, securities are pledged at par value instead of fair value. 
+
+For further discussion of the use of our securities as liquidity collateral see the &#8220;Liquidity Risk Management and Governance&#8221; section in this document. For further discussion of liquidity requirements, see &#8220;Regulation and Supervision &#8212; Liquidity Requirements&#8221; in our 2022 Form 10-K. 
+
+We manage our securities portfolio duration and convexity risk through asset selection and securities structure, and maintain duration levels within our risk appetite in the context of the broader interest rate risk framework and limits. As of June 30, 2023, the portfolio&#8217;s average effective duration was 5.5 years compared with 5.8 years as of December 31, 2022. 
+
+Citizens Financial Group, Inc. | 16 
+
+Loans and Leases &#160; 
+
+Table 7: Composition of Loans and Leases, Excluding LHFS (dollars in millions) June 30, 2023 December 31, 2022 Change Percent Commercial and industrial $48,038 $51,836 ($3,798) (7) % Commercial real estate 28,947 28,865 82 &#8212; Leases 1,294 1,479 (185) (13) Total commercial 78,279 82,180 (3,901) (5) Residential mortgages 30,769 29,921 848 3 Home equity 14,487 14,043 444 3 Automobile 10,428 12,292 (1,864) (15) Education 12,246 12,808 (562) (4) Other retail 5,111 5,418 (307) (6) Total retail 73,041 74,482 (1,441) (2) Total loans and leases $151,320 $156,662 ($5,342) (3) % 
+
+Total loans and leases as of June 30, 2023 decreased compared to December 31, 2022, reflecting a $3.9 billion decrease in commercial given loan sales as part of balance sheet optimization actions and reduced line utilization by companies in anticipation of a softer economic environment. Retail declined $1.4 billion, given planned runoff in auto and a decline in education, partially offset by growth in mortgage and home equity. 
+
+Credit Quality 
+
+The ACL is a reserve to absorb estimated future credit losses in accordance with GAAP. For additional information regarding the ACL, see &#8220;Critical Accounting Estimates &#8212; Allowance for Credit Losses&#8221; and Note 4 of this report, and &#8220;Critical Accounting Estimates &#8212; Allowance for Credit Losses&#8221; and Note 6 in our 2022 Form 10-K. 
+
+The ACL of $2.3 billion at June 30, 2023 compared with an ACL of $2.2 billion as of December 31, 2022, reflecting a reserve increase of $59 million. For further information see Note 4. 
+
+Table 8: ACL and Related Coverage Ratios by Portfolio June 30, 2023 December 31, 2022 (dollars in millions) Loans and Leases Allowance Coverage Loans and Leases Allowance Coverage Allowance for Loan and Lease Losses Commercial and industrial $48,038 $586 1.22 % $51,836 $581 1.12 % Commercial real estate 28,947 541 1.87 28,865 456 1.58 Leases 1,294 30 2.34 1,479 23 1.59 Total commercial 78,279 1,157 1.48 82,180 1,060 1.29 Residential mortgages 30,769 205 0.67 29,921 207 0.69 Home equity 14,487 100 0.69 14,043 89 0.63 Automobile 10,428 89 0.86 12,292 131 1.07 Education 12,246 261 2.13 12,808 268 2.09 Other retail 5,111 232 4.53 5,418 228 4.21 Total retail 73,041 887 1.21 74,482 923 1.24 Total loans and leases $151,320 $2,044 1.35 % $156,662 $1,983 1.27 % Allowance for Unfunded Lending Commitments Commercial (1) 
+
+$213 1.75 % $207 1.54 % Retail (2) 
+
+42 1.27 50 1.31 Total allowance for unfunded lending commitments 255 257 Allowance for credit losses $151,320 $2,299 1.52 % $156,662 $2,240 1.43 % 
+
+(1) Coverage ratio includes total commercial allowance for unfunded lending commitments and total commercial allowance for loan and lease losses in the numerator and total commercial loans and leases in the denominator. 
+
+(2) Coverage ratio includes total retail allowance for unfunded lending commitments and total retail allowance for loan losses in the numerator and total retail loans in the denominator. 
+
+Citizens Financial Group, Inc. | 17 
+
+Table 9: Nonaccrual Loans and Leases (dollars in millions) June 30, 2023 December 31, 2022 Change Percent Commercial and industrial $280 $249 $31 12 % Commercial real estate 352 103 249 242 Leases 3 &#8212; 3 &#8212; Total commercial 635 352 283 80 Residential mortgages 201 234 (33) (14) Home equity 251 241 10 4 Automobile 51 56 (5) (9) Education 22 33 (11) (33) Other retail 31 28 3 11 Total retail 556 592 (36) (6) Nonaccrual loans and leases $1,191 $944 $247 26 % Nonaccrual loans and leases to total loans and leases 0.79 % 0.60 % 19 bps Allowance for loan and lease losses to nonaccrual loans and leases 172 % 210 % (38 %) Allowance for credit losses to nonaccrual loans and leases 193 % 237 % (44 %) 
+
+Table 10: Ratio of Net Charge-Offs to Average Loans and Leases Three Months Ended June 30, 2023 2022 (dollars in millions) Net Charge-Offs Average Balance Ratio Net Charge-Offs Average Balance Ratio Commercial and industrial $15 $49,770 0.12 % $10 $50,517 0.08 % Commercial real estate 62 29,115 0.86 &#8212; 27,592 &#8212; Leases (1) 1,352 (0.22) &#8212; 1,575 (0.05) Total commercial 76 80,237 0.38 10 79,684 0.05 Residential mortgages &#8212; 30,566 &#8212; (1) 28,486 (0.01) Home equity (3) 14,340 (0.08) (9) 12,811 (0.27) Automobile 8 10,997 0.30 6 14,172 0.16 Education 22 12,430 0.68 11 13,144 0.34 Other retail 49 5,155 3.84 32 5,557 2.25 Total retail 76 73,488 0.41 39 74,170 0.21 Total loans and leases $152 $153,725 0.40 % $49 $153,854 0.13 % 
+
+Six Months Ended June 30, 2023 2022 (dollars in millions) Net Charge-Offs Average Balance Ratio Net Charge-Offs Average Balance Ratio Commercial and industrial $67 $50,876 0.26 % $21 $47,747 0.09 % Commercial real estate 65 29,004 0.46 &#8212; 20,867 &#8212; Leases (4) 1,393 (0.54) &#8212; 1,568 0.03 Total commercial 128 81,273 0.32 21 70,182 0.06 Residential mortgages 1 30,322 &#8212; (1) 25,987 (0.01) Home equity (6) 14,207 (0.08) (18) 12,469 (0.30) Automobile 23 11,465 0.41 12 14,352 0.17 Education 40 12,612 0.63 27 13,091 0.41 Other retail 99 5,222 3.83 67 5,492 2.43 Total retail 157 73,828 0.43 87 71,391 0.24 Total loans and leases $285 $155,101 0.37 % $108 $141,573 0.15 % 
+
+For the three and six months ended June 30, 2023, the net charge-off ratio increased 27 basis points and 22 basis points, respectively, compared to the same periods in 2022. Net charge-offs increased $103 million and $177 million, respectively, compared to the same periods. 
+
+Citizens Financial Group, Inc. | 18 
+
+For the three months ended June 30, 2023, the increase in net charge-offs reflects a $37 million increase in retail, primarily other retail and education, and a $66 million increase in commercial driven by Commercial Real Estate Office. For the six months ended June 30, 2023, the increase in net charge-offs reflects a $70 million increase in retail, primarily other retail, education and auto, and a $107 million increase in commercial, with increases in commercial real estate and commercial and industrial. The increase in commercial real estate was driven by Commercial Real Estate Office while the commercial and industrial increase reflects company specific idiosyncratic charge-offs. The increase in retail is trending up as expected from pandemic lows. 
+
+Commercial Loan Asset Quality 
+
+Our commercial portfolio consists of traditional commercial and industrial loans, commercial leases and commercial real estate loans. As discussed in our 2022 Form 10-K, we utilize regulatory classification ratings to monitor credit quality for commercial loans and leases. 
+
+Total commercial criticized balances of $8.0 billion at June 30, 2023 increased $2.4 billion compared with December 31, 2022. 
+
+Commercial and industrial criticized balances of $3.6 billion at June 30, 2023, increased from $3.1 billion at December 31, 2022, primarily driven by the impact of increasing interest rates and certain sector-specific labor shortages in Retail and Wholesale Trade, and labor costs, labor shortages, and reimbursement challenges in health care-related not-for-profit facilities, including skilled nursing, assisted living, continuing care retirement and hospitals. 
+
+Commercial real estate criticized balances of $4.3 billion increased from $2.4 billion at December 31, 2022, primarily driven by the combined impacts of interest rates and return-to-office dynamics on the Office sector and the impacts of interest rates on the Multi-family sector. Approximately 99% of commercial real estate loans remain current on payments. 
+
+For more information on the distribution of commercial loans by vintage date and regulatory classification rating, see Note 4. 
+
+Citizens Financial Group, Inc. | 19 
+
+Table 11: Commercial Loans and Leases June 30, 2023 December 31, 2022 (dollars in millions) Balance % of Total Loans and Leases Balance % of Total Loans and Leases Sector Finance and insurance Capital call facilities $6,335 4 % $6,753 4 % Other 5,972 3 5,310 3 Other manufacturing 3,990 3 4,474 3 Technology 3,893 3 4,367 3 Accommodation and food services 3,249 2 3,572 2 Health, pharma, and social assistance 2,781 2 3,056 2 Professional, scientific, and technical services 2,765 2 3,067 2 Wholesale trade 2,532 2 2,955 2 Retail trade 2,288 1 2,391 2 Other services 2,473 2 2,713 2 Energy and related 2,087 1 2,299 1 Real estate and rental and leasing 1,435 1 1,542 1 Consumer products manufacturing 1,166 1 1,511 1 Administrative and waste management services 1,545 1 1,710 1 Arts, entertainment, and recreation 1,593 1 1,587 1 Automotive 1,218 1 1,316 1 All other (1) 
+
+2,716 2 3,091 2 Total commercial and industrial 48,038 32 51,715 33 Property type Multi-family 8,844 6 8,696 6 Office 6,213 4 6,253 4 Retail 3,431 2 3,208 2 Industrial 3,744 3 3,344 2 Co-op 1,899 1 1,824 1 Data centers 909 1 870 1 Hospitality 607 &#8212; 638 &#8212; All other (1) 
+
+3,300 2 4,032 2 Total commercial real estate 28,947 19 28,865 18 Total leases 1,294 1 1,479 1 Total commercial (2) 
+
+$78,279 52 % $82,059 52 % 
+
+(1) Includes deferred fees and costs. 
+
+(2) Excludes PPP loans of $121 million as of December 31, 2022. 
+
+Retail Loan Asset Quality 
+
+We utilize credit scores provided by FICO, which are generally refreshed on a quarterly basis, and payment and delinquency status, among other data points, to monitor credit quality for retail loans. Management believes FICO credit scores are the strongest indicator of potential credit losses over the contractual life of the loan. These scores represent current and historical national industry-wide consumer level credit performance data, which management considers to predict a borrower&#8217;s future payment performance. The largest portion of the retail portfolio is represented by borrowers located in the New England, Mid-Atlantic and Midwest regions. 
+
+Citizens Financial Group, Inc. | 20 
+
+Table 12: Retail Loan Portfolio Analysis June 30, 2023 December 31, 2022 Days Past Due and Accruing Days Past Due and Accruing Current 30-59 60-89 90+ Nonaccrual Current 30-59 60-89 90+ Nonaccrual 
+
+Residential mortgages (1) 
+
+98.12 % 0.29 % 0.10 % 0.84 % 0.65 % 97.68 % 0.32 % 0.15 % 1.07 % 0.78 % Home equity 97.72 0.38 0.17 &#8212; 1.73 97.68 0.46 0.14 &#8212; 1.72 Automobile 97.88 1.25 0.38 &#8212; 0.49 97.93 1.24 0.37 &#8212; 0.46 Education 99.37 0.27 0.16 0.02 0.18 99.30 0.28 0.13 0.03 0.26 Other retail 97.67 0.80 0.53 0.39 0.61 97.71 0.81 0.55 0.41 0.52 Total retail 98.19 % 0.48 % 0.19 % 0.38 % 0.76 % 98.02 % 0.52 % 0.21 % 0.46 % 0.79 % 
+
+(1) 90+ days past due and accruing includes $256 million and $316 million of loans fully or partially guaranteed by the FHA, VA, and USDA at June 30, 2023 and December 31, 2022, respectively. 
+
+Table 13: Retail Asset Quality Metrics June 30, 2023 December 31, 2022 Average refreshed FICO for total portfolio 772 770 
+
+CLTV ratio for secured real estate (1) 
+
+52 % 50 % 
+
+(1) The real estate secured portfolio CLTV is calculated as the mortgage and second lien loan balance divided by the most recently available value of the property. 
+
+For more information on the aging of accruing and nonaccrual retail loans, and the distribution of retail loans by vintage date and FICO score, see Note 4. 
+
+Deposits 
+
+Table 14: Composition of Deposits (dollars in millions) June 30, 2023 % of Total Deposits December 31, 2022 % of Total Deposits Demand $40,286 23 % $49,283 27 % Money market 52,542 29 49,905 28 Checking with interest 35,028 20 39,721 22 Savings 29,824 17 29,805 16 Term 19,987 11 12,010 7 Total deposits $177,667 100 % $180,724 100 % 
+
+Total deposits as of June 30, 2023 decreased compared to December 31, 2022, driven by seasonal and rate-related outflows. In addition, as rates rose another 25 basis points in the second quarter of 2023, we saw continued migration of lower cost deposits to higher-yielding categories, primarily in Commercial, with non-interest bearing deposits now representing approximately 23% of our total deposits. 
+
+Table 15: Insured/Secured Deposits (dollars in millions) June 30, 2023 Total deposits $177,667 
+
+Estimated uninsured deposits (1) 
+
+76,777 Less: Uninsured affiliate deposits eliminated in consolidation 15,795 
+
+Less: Secured deposits (1) 
+
+8,381 CFG adjusted estimated uninsured, excluding secured deposits 52,601 Total estimated insured/secured deposits $125,066 Insured/secured deposits to total deposits 70 % 
+
+(1) As reported on CBNA&#8217;s June 30, 2023 Call Report. 
+
+Estimated CFG insured/secured deposits totaled $125.1 billion, comprised of $116.7 billion of insured deposits and $8.4 billion of collateralized preferred deposits from states and municipalities, making up 70% of our consolidated deposit base of $177.7 billion as of June 30, 2023. 
+
+Citizens Financial Group, Inc. | 21 
+
+Table 16: Term Deposits in Excess of the FDIC Insurance Limit by Remaining Maturity (dollars in millions) June 30, 2023 Three months or less $913 After three months through six months 236 After six months through twelve months 779 After twelve months 17 
+
+Total term deposits (1) 
+
+$1,945 
+
+(1) Includes term deposits per account in excess of $250,000. 
+
+Borrowed Funds 
+
+Total borrowed funds of $15.2 billion as of June 30, 2023 decreased $691 million compared to December 31, 2022, primarily driven by a decline in FHLB advances, partially offset by the issuance of secured borrowings collateralized by auto loans. For more information regarding our borrowed funds, see &#8220;Liquidity&#8221; and Note 7. 
+
+CAPITAL AND REGULATORY MATTERS 
+
+We are subject to regulation and supervision by the FRB as a bank and financial holding company. Our banking subsidiary, CBNA, is a national banking association primarily regulated by the OCC. Our regulation and supervision continues to evolve as the legal and regulatory frameworks governing our operations continue to change. 
+
+Capital Adequacy Process 
+
+Our assessment of capital adequacy begins with our Board-approved risk appetite and risk management framework. This framework provides for the identification, measurement and management of material risks. There have been no significant changes to our capital adequacy risk appetite and risk management framework as described in &#8220;Capital and Regulatory Matters&#8221; in our 2022 Form 10-K. 
+
+The FRB regularly supervises and evaluates our capital adequacy and capital planning processes, including the submission of an annual capital plan approved by our Board of Directors or one of its committees, which was submitted on April 4, 2023. Under the FRB&#8217;s capital requirements we must maintain capital ratios above the sum of the regulatory minimum and SCB requirement to avoid restrictions on capital distributions and discretionary bonus payments. The FRB utilizes the supervisory stress test to determine our SCB, which is re-calibrated with each biennial supervisory stress test and updated annually to reflect our planned common stock dividends. As an institution subject to Category IV standards, we are subject to biennial supervisory stress testing in even-numbered years; however, the FRB required us to participate in the 2023 CCAR supervisory stress test to incorporate the effects of the Investors acquisition. Our SCB associated with the 2022 supervisory stress test is 3.4%, effective until September 30, 2023, and our SCB associated with the 2023 supervisory stress test is 4.0%, effective October 1, 2023 through September 30, 2024. 
+
+Regulations relating to capital planning, regulatory reporting, stress testing and capital buffer requirements applicable to firms like us are presently subject to rule-making and potential further guidance and interpretation by the applicable federal regulators. We will continue to evaluate the impact of these and any other prudential regulatory changes, including their potential resultant changes in our regulatory and compliance costs and expenses. 
+
+For more information on our capital adequacy process, see the &#8220;Regulation and Supervision&#8221;, &#8220;Capital and Regulatory Matters&#8221; and &#8220;Tailoring of Prudential Requirements&#8221; sections in our 2022 Form 10-K, and &#8220;Recent Regulatory Developments &#8212; Proposed Regulatory Capital Revisions&#8221; below. 
+
+Regulatory Capital Ratios and Capital Composition 
+
+Under the current U.S. Basel III capital framework, we and our banking subsidiary, CBNA, must meet the following specific minimum requirements: CET1 capital ratio of 4.5%, tier 1 capital ratio of 6.0%, total capital ratio of 8.0% and tier 1 leverage ratio of 4.0%. As a bank holding company, our SCB of 3.4% is imposed on top of the three minimum risk-based capital ratios listed above and a CCB of 2.5% is imposed on top of the three minimum risk-based capital ratios listed above for CBNA. 
+
+Citizens Financial Group, Inc. | 22 
+
+For additional discussion of the U.S. Basel III capital framework and its related application, see &#8220;Regulation and Supervision&#8221; in our 2022 Form 10-K and &#8220;Recent Regulatory Developments &#8212; Proposed Regulatory Capital Revisions&#8221; below. The table below presents the regulatory capital ratios for CFG and CBNA under the U.S. Basel III Standardized rules: 
+
+Table 17: Regulatory Capital Ratios Under the U.S. Basel III Standardized Rules June 30, 2023 December 31, 2022 (dollars in millions) Amount Ratio Amount Ratio Required Minimum Capital Ratio (1) 
+
+CET1 capital CFG $18,381 10.3 % $18,574 10.0 % 7.9 % CBNA 19,761 11.1 20,669 11.2 7.0 Tier 1 capital CFG 20,395 11.4 20,588 11.1 9.4 CBNA 19,761 11.1 20,669 11.2 8.5 Total capital CFG 23,748 13.3 23,755 12.8 11.4 CBNA 22,808 12.8 23,534 12.7 10.5 Tier 1 leverage CFG 20,395 9.4 20,588 9.3 4.0 CBNA 19,761 9.1 20,669 9.4 4.0 Risk-weighted assets CFG 179,034 185,224 CBNA 178,473 184,781 
+
+Quarterly adjusted average assets (2) 
+
+CFG 217,264 220,779 CBNA 216,628 220,182 
+
+(1) Represents minimum requirement under the current capital framework plus the SCB of 3.4% and CCB of 2.5% for CFG and CBNA, respectively. The SCB and CCB are not applicable to the Tier 1 leverage ratio. 
+
+(2) Represents total average assets less certain amounts deducted from Tier 1 capital. 
+
+At June 30, 2023, CFG&#8217;s CET1 and tier 1 capital ratios increased compared to December 31, 2022. Net income and a $6.2 billion decrease in RWA, primarily driven by lower commercial and auto loans, was partially offset by common share repurchases, dividends and a decrease in the modified CECL transition amount as we entered the second year of the CECL three-year transition period. 
+
+At June 30, 2023, CBNA&#8217;s CET1 and tier 1 capital ratios decreased slightly compared to December 31, 2022. A dividend payment to the Parent Company and a decrease in the modified CECL transition amount as we entered the second year of the CECL three-year transition period, was partially offset by net income and a $6.3 billion decrease in RWA, primarily driven by lower commercial and auto loans. 
+
+At June 30, 2023, CFG&#8217;s and CBNA&#8217;s total capital ratios increased driven by their respective changes in CET1 and tier 1 capital described above and a reduction in the modified AACL transition amount. 
+
+At June 30, 2023, CFG&#8217;s tier 1 leverage ratio increased whereas CBNA&#8217;s tier 1 leverage ratio decreased compared to December 31, 2022, driven by their respective changes in tier 1 capital described above and a decline in quarterly adjusted average assets. 
+
+Citizens Financial Group, Inc. | 23 
+
+Table 18: Capital Composition Under the U.S. Basel III Capital Framework (dollars in millions) June 30, 2023 December 31, 2022 Total common stockholders' equity $21,571 $21,676 Exclusions: Modified CECL transitional amount 192 288 Net unrealized (gains)/losses recorded in accumulated other comprehensive income (loss), net of tax: Debt securities 2,643 2,771 Derivatives 1,553 1,416 Unamortized net periodic benefit costs 367 373 Deductions: Goodwill, net of deferred tax liability (7,793) (7,780) Other intangible assets, net of deferred tax liability (150) (170) Deferred tax assets that arise from tax loss and credit carryforwards (2) &#8212; Total common equity tier 1 capital 18,381 18,574 Qualifying preferred stock 2,014 2,014 Total tier 1 capital 20,395 20,588 
+
+Qualifying subordinated debt (1) 
+
+1,431 1,427 Allowance for credit losses 2,299 2,240 Exclusions from tier 2 capital: Modified AACL transitional amount (249) (374) Allowance on PCD assets (128) (126) Adjusted allowance for credit losses 1,922 1,740 Total capital $23,748 $23,755 
+
+(1) As of June 30, 2023 and December 31, 2022, the amount of non-qualifying subordinated debt excluded from regulatory capital was $367 million. See Note 7 for more details on our outstanding subordinated debt. 
+
+Capital Transactions 
+
+We completed the following capital transactions during the six months ended June 30, 2023: 
+
+&#8226; Repurchased $656 million of our outstanding common stock; 
+
+&#8226; Declared and paid quarterly common stock dividends of $0.42 per share, aggregating to $410 million; and 
+
+&#8226; Declared and paid preferred stock dividends aggregating to $57 million. 
+
+For additional detail regarding our common and preferred stock dividends see Note 10. 
+
+In February 2023, our Board of Directors increased our common share repurchase authorization to $2.0 billion, which was an increase of $1.15 billion above the $850 million of capacity remaining as of December 31, 2022 under the prior June 2022 authorization. All future capital distributions are subject to consideration and approval by our Board of Directors prior to execution. The timing and amount of future dividends and share repurchases will depend on various factors, including our capital position, financial performance, capital impacts of strategic initiatives, market conditions, receipt of required regulatory approvals and other regulatory considerations. 
+
+Citizens Financial Group, Inc. | 24 
+
+Recent Regulatory Developments 
+
+Bank Failures 
+
+On April 28, 2023, the FRB issued a report relative to its review of the supervision and regulation of Silicon Valley Bank (&#8220;SVB&#8221;). The report details the FRB&#8217;s assessment of the primary causes for SVB&#8217;s failure and emphasizes the FRB&#8217;s view that supervision and regulation need to be strengthened based on its findings. As a result, the FRB stated it intends to evaluate its supervisory and regulatory framework, with a focus on the following areas: 
+
+&#8226; Regulatory tailoring framework, including a reassessment of a range of rules for banks with $100 billion or more in assets; 
+
+&#8226; Management of interest rate risk; 
+
+&#8226; Liquidity risk, commencing with the risks of uninsured deposits; and 
+
+&#8226; Capital requirements. 
+
+We will continue to monitor and address changes to the FRB&#8217;s supervisory and regulatory framework that may result from this targeted review by the FRB and their associated impact on our business, financial condition or results of operations. 
+
+Deposit Insurance 
+
+Reform Options 
+
+On May 1, 2023, the FDIC released a comprehensive overview of the deposit insurance system and options for reform to address financial stability concerns stemming from recent bank failures. The three reform options outlined for consideration are provided below, all of which would require congressional approval. 
+
+&#8226; Maintain the existing deposit insurance framework at the current or a higher coverage limit; 
+
+&#8226; Provide unlimited deposit insurance for all deposits; and 
+
+&#8226; Provide different coverage across account types, with a focus on providing significantly higher or unlimited coverage to business payment accounts. 
+
+We will continue to monitor developments in this area and evaluate the resultant impact on our business if the FDIC decides to pursue reform of the deposit insurance system. 
+
+Proposed FDIC Special Assessment 
+
+On May 22, 2023, the FDIC issued a notice of proposed rulemaking that would impose special assessments to recover the loss to the Deposit Insurance Fund (&#8220;DIF&#8221;) arising from the protection of uninsured depositors in connection with the systemic risk determination announced on March 12, 2023, following the closures of Silicon Valley Bank and Signature Bank, as required by the Federal Deposit Insurance Act. Under the proposal, the special assessment would be levied on the insured depository institution&#8217;s (&#8220;IDI&#8221;) assessment base, which would be equal to estimated uninsured deposits as reported on the IDI&#8217;s December 31, 2022 Call Report, excluding the first $5 billion in estimated uninsured deposits. The special assessment would be imposed at an annual rate of approximately 12.5 basis points and would be collected over eight quarterly assessment periods beginning with the first quarter of 2024. 
+
+The FDIC&#8217;s initial estimate of the loss attributable to this systemic risk determination was $15.8 billion. This estimate will be periodically adjusted as assets are sold, liabilities are satisfied, and receivership expenses are incurred. The FDIC would cease collection of special assessments before the end of the initial eight-quarter collection period if they expect the loss to be less than expected assessment collections. The FDIC also reserves the right to extend the collection period if there is a shortfall in the amount collected relative to the estimated or actual loss. 
+
+Based on the proposed rulemaking and related accounting guidance, the special assessment would impact our noninterest expense by approximately $210 million upon adoption. This amount is subject to final rulemaking by the FDIC and associated revisions, if any, relative to the application and/or levy of the special assessment on IDIs, including the eventual loss to the DIF should it differ from the FDIC&#8217;s estimate. 
+
+Citizens Financial Group, Inc. | 25 
+
+Proposed Regulatory Capital Revisions 
+
+On July 27, 2023, the FRB, FDIC and OCC issued a proposal to implement the Basel Committee on Banking Supervision&#8217;s finalization of the post-crisis bank regulatory capital reforms. The proposal, commonly referred to as Basel III &#8220;Endgame,&#8221; would significantly revise the capital requirements applicable to large banking organizations with total assets of $100 billion or more, including the Company. Under the proposal, Category III and IV firms, including the Company as a Category IV firm, would become subject to the same capital treatment regarding the inclusion of AOCI, deductions, and rules for minority interest as Category I and II firms. The proposal would also replace the existing models-based approaches for credit and operational risk, which currently apply only to Category I and II firms, with two new approaches applicable to Category I through Category IV firms. The first would use the existing standardized approach and a proposed revised market risk capital rule. The second would use a new expanded risk-based approach, which consists of new non-models-based approaches for credit risk, operational risk and credit valuation adjustment risk, as well as the proposed revised market risk capital rule. The approach resulting in the lower ratio would establish the binding ratio for purposes of satisfying regulatory capital requirements and buffers, including the SCB. Category III and IV firms would also be required to calculate counterparty credit exposure relating to derivatives transactions using the standardized approach for counterparty credit risk (SA-CCR). Additionally, Category IV firms would become subject to the supplementary leverage ratio and the countercyclical capital buffer. The proposal provides for a July 1, 2025 effective date, subject to a three-year transition period. The Company expects a net increase to its capital requirements based on our preliminary assessment of the proposed rule, with the largest impacts attributable to AOCI, as discussed below. The Company is continuing to evaluate the full impact of the proposal. 
+
+AOCI Impact on Regulatory Capital 
+
+Under the current applicable regulatory capital rules we have made the AOCI opt-out election, which enables us to exclude components of AOCI from regulatory capital. As noted above, the regulatory agencies are considering the inclusion of AOCI in regulatory capital for Category IV firms like us, including the AOCI relative to securities and pension. 
+
+The following table presents our regulatory capital ratios including the AOCI impact from securities and pension, which we believe provides useful information in light of recent events and the potential for change in the regulatory capital framework. After considering the inclusion of these components in AOCI, our regulatory capital ratios continue to exceed our required regulatory minimums. 
+
+Table 19: AOCI Impact on Regulatory Capital June 30, 2023 CFG CBNA (dollars in millions) CET1 Tier 1 Total CET1 Tier 1 Total Regulatory capital, including AOCI impact: Regulatory capital (as reported) $18,381 $20,395 $23,748 $19,761 $19,761 $22,808 Unrealized gains (losses) on securities and pension (3,010) (3,010) (3,010) (2,992) (2,992) (2,992) Deferred tax assets - securities and pension AOCI (26) (26) (26) (27) (27) (27) Regulatory capital, including AOCI impact (non-GAAP) $15,345 $17,359 $20,712 $16,742 $16,742 $19,789 Risk-weighted assets, including AOCI impact: Risk-weighted assets (as reported) $179,034 $179,034 $179,034 $178,473 $178,473 $178,473 Unrealized gains (losses) on securities and pension (815) (815) (815) (797) (797) (797) Deferred tax assets - securities and pension AOCI 2,515 2,515 2,515 2,432 2,432 2,432 Risk-weighted assets, including AOCI impact (non-GAAP) $180,734 $180,734 $180,734 $180,108 $180,108 $180,108 Ratio: Regulatory capital ratio (as reported) 10.3 % 11.4 % 13.3 % 11.1 % 11.1 % 12.8 % Regulatory capital ratio, including AOCI impact (non-GAAP) 8.5 % 9.6 % 11.5 % 9.3 % 9.3 % 11.0 % 
+
+Citizens Financial Group, Inc. | 26 
+
+LIQUIDITY 
+
+We define liquidity as our ability to meet our cash-flow and collateral obligations in a timely manner, at a reasonable cost. As a financial institution, we must maintain operating liquidity to meet expected daily and forecasted cash-flow requirements, as well as contingent liquidity to meet unexpected (stress scenario) funding requirements. Reflecting the importance of meeting all unexpected and stress-scenario funding requirements, we identify and manage contingent liquidity, consisting of cash balances at the FRB, unencumbered high-quality liquid securities and unused FHLB borrowing capacity. Separately, we also identify and manage asset liquidity as a subset of contingent liquidity, consisting of cash balances at the FRB and unencumbered high-quality liquid securities. We maintain additional secured borrowing capacity at the FRB discount window, but do not view this as a primary means of funding, but rather a potential source of liquidity in a stressed environment or during a market disruption. We consider the effective and prudent management of liquidity fundamental to our health and strength. We manage liquidity at the consolidated enterprise level and at each material legal entity. 
+
+Parent Company Liquidity 
+
+Our Parent Company&#8217;s primary sources of cash are dividends and interest received from CBNA resulting from investing in bank equity and subordinated debt as well as externally issued preferred stock, senior debt and subordinated debt. Uses of cash include the routine cash flow requirements as a bank holding company, including periodic share repurchases and payments of dividends, interest and expenses; the needs of subsidiaries, including CBNA for additional equity and, as required, its need for debt financing; and the support for extraordinary funding requirements when necessary. To the extent the Parent Company has relied on wholesale borrowings, uses also include payments of related principal and interest. 
+
+During the three months ended June 30, 2023 and 2022, the Parent Company declared dividends on common stock of $205 million and $195 million, respectively, and declared dividends on preferred stock of $34 million and $32 million, respectively. 
+
+During the six months ended June 30, 2023 and 2022, the Parent Company declared dividends on common stock of $410 million and $360 million, respectively, and declared dividends on preferred stock of $57 million and $56 million, respectively. 
+
+During the six months ended June 30, 2023, the Parent Company repurchased $656 million of its outstanding common stock. 
+
+Our Parent Company&#8217;s cash and cash equivalents represent a source of liquidity that can be used to meet various needs and totaled $2.5 billion and $1.6 billion as of June 30, 2023 and December 31, 2022, respectively. The Parent Company&#8217;s double-leverage ratio (the combined equity investment in Parent Company subsidiaries divided by Parent Company equity) is a measure of reliance on equity cash flows from subsidiaries to fund Parent Company obligations. The Parent Company&#8217;s double-leverage ratio was 98.2% and 101.2% as of June 30, 2023 and December 31, 2022, respectively. 
+
+CBNA Liquidity 
+
+As CBNA&#8217;s primary business involves taking deposits and making loans, a key role of liquidity management is to ensure that customers have timely access to funds from deposits and for loans. Liquidity management also involves maintaining sufficient liquidity to repay wholesale borrowings, pay operating expenses and support extraordinary funding requirements when necessary. In the ordinary course of business the liquidity of CBNA is managed by matching sources and uses of cash. The primary sources of bank liquidity include deposits from our consumer and commercial customers; payments of principal and interest on loans and debt securities; and wholesale borrowings, as needed, and as described under &#8220;Liquidity Risk Management and Governance.&#8221; The primary uses of bank liquidity include withdrawals and maturities of deposits; payment of interest on deposits; funding of loans and related commitments; and funding of securities purchases. To the extent that CBNA has relied on wholesale borrowings, uses also include payments of related principal and interest. For further information on CBNA&#8217;s outstanding debt, see Note 7. 
+
+During the six months ended June 30, 2023, CBNA completed the following transactions: 
+
+&#8226; Issued $450 million of 5.284% fixed-to-floating rate senior notes; 
+
+&#8226; Redeemed $750 million of senior notes due March 2023; and 
+
+&#8226; Issued $2.0 billion of secured borrowings collateralized by auto loans. 
+
+Citizens Financial Group, Inc. | 27 
+
+Liquidity Risk 
+
+We define liquidity risk as the risk that an entity will be unable to meet its payment obligations in a timely manner, at a reasonable cost. Liquidity risk can arise due to contingent liquidity risk and/or funding liquidity risk. 
+
+Contingent liquidity risk is the risk that market conditions may reduce an entity&#8217;s ability to liquidate, pledge and/or finance certain assets and thereby substantially reduce the liquidity value of such assets. Drivers of contingent liquidity risk include general market disruptions as well as specific issues regarding the credit quality and/or valuation of a security or loan, issuer or borrower and/or asset class. 
+
+Funding liquidity risk is the risk that market conditions and/or entity-specific events may reduce an entity&#8217;s ability to raise funds from depositors and/or wholesale market counterparties. Drivers of funding liquidity risk may be idiosyncratic or systemic, reflecting impediments to operations and/or damaged market confidence. 
+
+Factors Affecting Liquidity 
+
+Given the composition of assets and borrowing sources, contingent liquidity risk at CBNA would be materially affected by events such as deterioration of financing markets for high-quality securities (e.g., mortgage-backed securities and other instruments issued by GNMA, FNMA and FHLMC), by any inability of the FHLBs to provide collateralized advances and/or by a refusal of the FRB to act as a lender of last resort in systemic stress. 
+
+Similarly, the funding liquidity risk of CBNA could be materially affected by an adverse idiosyncratic event (e.g., a major loss, causing a perceived or actual deterioration in its financial condition), an adverse systemic event (e.g., default or bankruptcy of a significant capital markets participant), or a combination of both. Consequently, and despite ongoing exposure to a variety of idiosyncratic and systemic events, we view our contingent liquidity risk and our funding liquidity risk to be relatively low. 
+
+An additional variable affecting our access to unsecured wholesale market funds and to large denomination (i.e., uninsured) customer deposits is the credit ratings assigned by such agencies as Moody&#8217;s, Standard &#38; Poor&#8217;s, and Fitch. 
+
+Table 20: Credit Ratings &#160; June 30, 2023 &#160; Moody&#8217;s 
+
+Standard &#38; Poor&#8217;s Fitch 
+
+Citizens Financial Group, Inc.: &#160; &#160; &#160; Long-term issuer Baa1 BBB+ BBB+ Short-term issuer NR A-2 F1 Subordinated debt Baa1 BBB BBB Preferred Stock Baa3 BB+ BB Citizens Bank, National Association: Long-term issuer Baa1 A- BBB+ Short-term issuer NR A-2 F1 Long-term deposits A1 NR A- Short-term deposits P-1 NR F1 
+
+&#160; NR = Not rated 
+
+Our ratings have remained unchanged, and we have a &#8220;stable&#8221; outlook at Standard &#38; Poor&#8217;s, a &#8220;negative&#8221; outlook at Moody&#8217;s and a &#8220;positive&#8221; outlook at Fitch. Changes in our public credit ratings could affect both the cost and availability of our wholesale funding. 
+
+Existing and evolving regulatory liquidity requirements represent another key driver of systemic liquidity conditions and liquidity management practices. The FRB, OCC, and FDIC regularly evaluate our liquidity as part of the overall supervisory process. In addition, we are subject to existing and evolving regulatory liquidity requirements, some of which are subject to further rulemaking, guidance and interpretation by the applicable federal regulators. For further discussion, see &#8220;Regulation and Supervision &#8212; Tailoring of Prudential Requirements&#8221; and &#8220;&#8212;Liquidity Requirements&#8221; in our 2022 Form 10-K. 
+
+Citizens Financial Group, Inc. | 28 
+
+Liquidity Risk Management and Governance 
+
+Liquidity risk is measured and managed by the Funding and Liquidity unit within our Treasury group in accordance with policy guidelines promulgated by our Board and the Asset Liability Committee. The Funding and Liquidity unit is responsible for maintaining a liquidity management framework that effectively manages liquidity risk. Processes within this framework include, but are not limited to, regular and comprehensive reporting, including current levels versus threshold limits for a broad set of liquidity metrics and early warning indicators, explanatory commentary relating to emerging risk trends and, as appropriate, recommended remedial strategies, liquidity stress testing, contingency funding plans, and collateral management. 
+
+Our Funding and Liquidity unit&#8217;s primary goals are to deliver and maintain prudent levels of operating liquidity to support expected and projected funding requirements, contingent liquidity to support unexpected funding requirements resulting from idiosyncratic, systemic, and combination stress events, and regulatory liquidity requirements in a timely manner from stable and cost-efficient funding sources. We seek to accomplish these goals by funding loans with stable deposits, by prudently controlling dependence on wholesale funding, particularly short-term unsecured funding, and by maintaining ample available liquidity, including a contingent liquidity buffer of unencumbered high-quality loans and securities. 
+
+We maintain a contingency funding plan designed to ensure that liquidity sources are sufficient to meet ongoing obligations and commitments, particularly in a stressed environment or during a market disruption. The plan identifies members of the liquidity contingency team and provides a framework for management to follow, including notification and escalation of potential liquidity stress events. 
+
+In response to the recent U.S. bank failures, the FRB established the Bank Term Funding Program to make additional funding available to eligible depository institutions to ensure the ability to meet the needs of all depositors. This program was designed to provide another source of liquidity against the par value of high-quality securities, eliminating the need to sell these securities during times of stress. Citizens is eligible to borrow under this program based on its existing eligibility for primary credit under the FRB discount window. 
+
+As of June 30, 2023: 
+
+&#8226; Organically generated deposits continue to be our primary source of funding, resulting in a consolidated period-end loans-to-deposits ratio, excluding LHFS, of 85.2%; 
+
+&#9702; Estimated insured/secured deposits comprise 70% of our consolidated deposit base of $177.7 billion. 
+
+&#8226; Our total available liquidity, comprised of contingent liquidity and available discount window capacity, was approximately $78.8 billion; 
+
+&#9702; Contingent liquidity was $50.9 billion, consisting of unencumbered high-quality liquid securities of $26.9 billion, unused FHLB capacity of $14.2 billion, and our cash balances at the FRB of $9.8 billion; and 
+
+&#9702; Available discount window capacity was $27.9 billion, defined as available total borrowing capacity from the FRB based on identified collateral, which is primarily secured by non-mortgage commercial and retail loans. 
+
+For a summary of our sources and uses of cash by type of activity for the six months ended June 30, 2023 and 2022, see the Consolidated Statements of Cash Flows in Item 1. 
+
+The Funding and Liquidity unit monitors a variety of liquidity and funding metrics and early warning indicators and metrics, including specific risk thresholds limits. These monitoring tools are broadly classified as follows: 
+
+&#8226; Current liquidity sources and capacities, including cash balances at the FRB, free and liquid securities, and secured borrowing capacity at the FHLB and FRB discount window; 
+
+&#8226; Liquidity stress sources, including idiosyncratic, systemic and combined stresses, in addition to evolving regulatory requirements; and 
+
+&#8226; Current and prospective exposures, including secured and unsecured wholesale funding, and spot and cumulative cash-flow gaps across a variety of horizons. 
+
+Citizens Financial Group, Inc. | 29 
+
+Further, certain of these metrics are monitored individually for CBNA and for our consolidated enterprise on a daily basis, including cash position, unencumbered securities, asset liquidity and available FHLB borrowing capacity. In order to identify emerging trends and risks and inform funding decisions, specific metrics are also forecasted over a one-year horizon. 
+
+Off-Balance Sheet Arrangements 
+
+We engage in a variety of activities that are not reflected in our Consolidated Balance Sheets that are generally referred to as &#8220;off-balance sheet arrangements.&#8221; For more information on these types of activities, see Note 11. 
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+Our unaudited interim Consolidated Financial Statements included in this Report are prepared in accordance with GAAP. The preparation of financial statements in conformity with GAAP requires us to establish accounting policies and make estimates that affect amounts reported in our audited Consolidated Financial Statements. 
+
+An accounting estimate requires assumptions and judgments about uncertain matters that could have a material effect on our unaudited interim Consolidated Financial Statements. Estimates are made using facts and circumstances known at a point in time. Changes in those facts and circumstances could produce results substantially different from those estimates. Our most significant accounting policies and estimates and their related application are discussed below. For additional information regarding fair value measurements, see &#8220;Critical Accounting Estimates&#8221; in our 2022 Form 10-K. 
+
+Allowance for Credit Losses 
+
+The ACL increased from $2.2 billion at December 31, 2022 to $2.3 billion at June 30, 2023. 
+
+Our ACL as of June 30, 2023 accounts for an economic forecast over our two-year reasonable and supportable period with peak unemployment of approximately 6% and peak-to-trough GDP decline of approximately 1%. This forecast reflects a moderate recession over the two-year reasonable and supportable period. This compares to our December 31, 2022 forecast which reflected the same unemployment rate with a slightly more adverse peak-to-trough GDP decline of approximately 1.4%. 
+
+Our determination of the ACL is sensitive to changes in forecasted macroeconomic conditions during the reasonable and supportable forecast period. To illustrate the sensitivity, we applied a more pessimistic scenario than that described above which assumes that monetary tightening triggers a deeper real GDP contraction across our two-year reasonable and supportable forecast period, resulting in a 1.5% peak-to-trough decline in real GDP. Excluding consideration of qualitative adjustments, this scenario would result in a quantitative lifetime loss estimate of approximately 1.10x our modeled period-end ACL, or an increase of approximately $245 million. This analysis relates only to the modeled credit loss estimate and not to the overall period-end ACL, which includes qualitative adjustments. 
+
+Because several quantitative and qualitative factors are considered in determining the ACL, this sensitivity analysis does not necessarily reflect the nature and extent of future changes in the ACL or even what the ACL would be under these economic circumstances. The sensitivity is intended to provide insights into the impact of adverse changes in the macroeconomic environment and the corresponding impact to modeled loss estimates. The hypothetical determination does not incorporate the impact of management judgment or other qualitative factors that could be applied in the actual estimation of the ACL and does not imply any expectation of future deterioration in our loss rates. 
+
+It remains difficult to estimate how changes in economic forecasts might affect our ACL because such forecasts consider a wide variety of variables and inputs, and changes in the variables and inputs may not occur at the same time or in the same direction, and such changes may have differing impacts by product type. The variables and inputs may be idiosyncratically affected by risks to the economy, including changing monetary and fiscal policies, impacts from the recent stress on the banking industry, and their impact on inflationary trends. Changes in one or multiple of the key macroeconomic variables may have a material impact to our estimation of expected credit losses. 
+
+For additional information regarding the ACL, see Note 4 of this report, and &#8220;Critical Accounting Estimates - Allowance for Credit Losses&#8221; and Note 6 in our 2022 Form 10-K. 
+
+Citizens Financial Group, Inc. | 30 
+
+RISK GOVERNANCE 
+
+We are committed to maintaining a strong, integrated, and proactive approach to the management of all risks to which we are exposed in pursuit of our business objectives. A key aspect of our Board&#8217;s responsibility as the main decision making body is setting our risk appetite to ensure that the levels of risk that we are willing to accept in the attainment of our strategic business and financial objectives are clearly understood. 
+
+To enable our Board to carry out its objectives, it has delegated authority for risk management activities, as well as governance and oversight of those activities, to a number of Board and executive management level risk committees. The Executive Risk Committee, chaired by the Chief Risk Officer, is responsible for oversight of risk across the enterprise and actively considers our inherent material risks, analyzes our overall risk profile and seeks confirmation that the risks are being appropriately identified, assessed and mitigated. Reporting to the Executive Risk Committee are the following committees covering specific areas of risk: Compliance and Operational Risk, Model Risk, Credit Policy, Asset Liability, Business Initiatives Review, and Conduct and Ethics. 
+
+There have been no significant changes in our risk governance practices, risk framework, risk appetite, or credit risk as described in &#8220;Risk Governance&#8221; in our 2022 Form 10-K. 
+
+MARKET RISK 
+
+Market risk refers to potential losses arising from changes in interest rates, foreign exchange rates, equity prices, commodity prices and/or other relevant market rates or prices. Modest market risk arises from trading activities that serve customer needs, including the hedging of interest rate and foreign exchange risk. As described below, the market risk arising from our non-trading banking activities, such as the origination of loans and deposit-gathering, is more significant. We have established enterprise-wide policies and methodologies to identify, measure, monitor and report market risk. We actively manage market risk for both non-trading and trading activities. 
+
+Non-Trading Risk 
+
+Our non-trading banking activities expose us to market risk. This market risk is composed of interest rate risk, as we have no commodity risk and de minimis direct currency and equity risk. We also have market risk related to capital markets loan originations, as well as the valuation of our MSRs. There have been no significant changes in our sources of interest rate risk, interest rate risk practices, risk framework, metrics or assumptions as described in &#8220;Market Risk &#8212; Non-Trading Risk&#8221; in our 2022 Form 10-K. 
+
+The table below reports net interest income exposures against a variety of interest rate scenarios. Our policies involve measuring exposures as a percentage change in net interest income over the next year due to either instantaneous or gradual parallel changes in rates relative to the market implied forward yield curve. As the following table illustrates, our balance sheet is asset-sensitive; net interest income would benefit from an increase in interest rates, while exposure to a decline in interest rates is within limits established and monitored by senior management. While an instantaneous and severe shift in interest rates is included in this analysis, we believe that any actual shift in interest rates would be more gradual and, therefore, have a more modest impact. 
+
+Citizens Financial Group, Inc. | 31 
+
+The table below presents the sensitivity of net interest income to various parallel yield curve shifts from the market implied forward yield curve: 
+
+Table 21: Sensitivity of Net Interest Income Estimated % Change in Net Interest Income over 12 Months Basis points June 30, 2023 December 31, 2022 Instantaneous Change in Interest Rates &#160; &#160; +200 3.1 % 4.8 % +100 1.7 2.4 -100 (2.6) (2.5) -200 (6.1) (5.6) Gradual Change in Interest Rates +200 1.3 % 2.7 % +100 0.7 1.4 -100 (1.4) (1.4) -200 (3.1) (3.0) 
+
+We continue to manage asset sensitivity within the scope of our policy, changing market conditions and changes in our balance sheet. Asset sensitivity against a 200-basis point gradual increase in rates was 1.3% on June 30, 2023, compared with 2.7% on December 31, 2022. This decrease reflects the effects of our ongoing hedge activity combined with changes in our current and projected balance sheet mix due to the higher interest rate environment. Given the higher rate environment and cumulative effect of the FRB&#8217;s tightening of monetary policy, our down rate exposure exhibits a higher degree of sensitivity as deposit betas are expected to have an initial lagged response to a shift downward in rates over the twelve-month horizon. In addition, we expect continued non-interest bearing to interest-bearing deposit migration if rates continue to rise, naturally reducing our asset sensitivity, which is not expected to occur in a declining rate scenario. Changes in interest rates can also affect risk management activities, which impact the repricing sensitivity of the deposit base as well as the cash flows on assets that allow for early payoff without a penalty. The risk position is managed within our risk limits, and long-term view of interest rates through occasional adjustments to securities investments, interest rate derivatives and mix of funding. 
+
+We use a valuation measure of exposure to structural interest rate risk, EVE, as a supplement to net interest income simulations. EVE complements net interest income simulation analysis as it estimates risk exposure over a long-term horizon. EVE measures the extent to which the economic value of assets, liabilities and off-balance sheet instruments may change in response to fluctuations in interest rates. This analysis is highly dependent upon assumptions applied to assets and liabilities with non-contractual maturities. We employ sophisticated models for prepayments and deposit pricing and attrition, which provide a granular view of cash flows based on the unique characteristics of the underlying products and customer segments. The change in value is expressed as a percentage of regulatory capital. 
+
+Citizens Financial Group, Inc. | 32 
+
+We use interest rate contracts as part of our ALM strategy to manage exposure to the variability in the interest cash flows on our floating-rate assets and wholesale funding, the variability in the fair value of AFS securities, and to hedge market risk on fixed-rate capital markets debt issuances. 
+
+The following table presents interest rate derivative contracts that we have entered into as of June 30, 2023 and December 31, 2022. 
+
+Table 22: Interest Rate Derivative Contracts Used to Manage Non-Trading Interest Rate Exposure June 30, 2023 December 31, 2022 Weighted Average Weighted Average (dollars in millions) Notional Amount Maturity (Years) Fixed Rate Reset Rate Notional Amount Maturity (Years) Fixed Rate Reset Rate Fair value hedges: Asset conversion swaps: AFS securities: Pay fixed/receive SOFR $433 6.6 3.4 % 5.1 % $&#8212; &#8212; &#8212; % &#8212; % Liability conversion swaps: Long-term borrowed funds: Receive fixed/pay 3-month LIBOR 500 0.1 2.6 5.3 1,000 1.6 2.7 4.7 Receive fixed/pay SOFR - forward-starting 500 2.4 2.6 5.3 &#8212; &#8212; &#8212; &#8212; Total fair value hedges 1,433 1,000 Cash flow hedges: Asset conversion swaps: Loans: Swaps Receive fixed/pay SOFR 17,000 0.8 4.6 5.1 500 2.7 3.5 4.3 Receive fixed/pay SOFR - forward-starting 29,530 3.0 3.1 5.2 13,500 3.2 3.0 4.5 Receive fixed/pay 1-month LIBOR &#8212; &#8212; &#8212; &#8212; 15,250 3.8 1.8 4.3 Receive fixed/pay 1-month LIBOR - forward-starting &#8212; &#8212; &#8212; &#8212; 2,000 5.2 2.9 4.9 Basis swaps Receive SOFR/pay 1-month term SOFR 6,000 0.6 &#8212; 5.1/5.1 &#8212; &#8212; &#8212; &#8212; Receive SOFR/pay 1-month term SOFR - forward-starting 13,500 3.0 &#8212; 5.2/5.1 7,000 3.3 &#8212; 4.4/4.4 Floor Rate Cap Rate Floor Rate Cap Rate Options Interest rate collars - forward-starting (1) 
+
+1,500 2.3 2.6 3.9 1,500 2.8 2.6 3.9 Floor spreads - forward-starting (2) 
+
+1,500 2.8 2.3/3.4 &#8212; &#8212; &#8212; &#8212; &#8212; Total cash flow hedges 69,030 39,750 Total hedges $70,463 $40,750 
+
+(1) Weighted average floor and cap rates represents strike rates through which CFG will receive interest if the SOFR rate falls below the floor strike rate and pay interest if the SOFR rate exceeds the cap strike rate. 
+
+(2) Weighted average floor rate represents strike rates for the short and long interest rate floors, respectively. CFG will receive interest if the SOFR rate falls below the upper strike rate and pay interest if the SOFR rate falls below the lower strike rate, effectively hedging the corridor between the two strike rates. The structure also includes a short cap and a long floor which are utilized to neutralize the initial premium. 
+
+The increase in the notional amount as of June 30, 2023 compared to December 31, 2022 is driven by the conversion from LIBOR to SOFR during June and the resulting addition of basis swaps to match the floating-rate index of the hedged loan portfolio. 
+
+Citizens Financial Group, Inc. | 33 
+
+The following table presents the average active notional amounts for our interest rate derivatives, based on contract effective date, during the remainder of 2023 and for the next five years: 
+
+Table 23: Average Active Notional for Interest Rate Derivative Contracts Year Ended (dollars in millions) 2023 2024 2025 2026 2027 2028 Fair value hedges Pay fixed/receive SOFR (1) 
+
+$433 $433 $433 $433 $433 $433 Receive fixed/pay 3-month LIBOR (2) 
+
+133 &#8212; &#8212; &#8212; &#8212; &#8212; Receive fixed/pay SOFR - forward-starting (2) 
+
+367 500 441 &#8212; &#8212; &#8212; Cash flow hedges Receive fixed/pay SOFR (2) 
+
+16,734 3,156 853 500 500 210 Receive fixed/pay SOFR - forward-starting (2) 
+
+2,710 22,627 26,460 13,900 2,370 &#8212; Receive SOFR/pay 1-month term SOFR 5,823 642 &#8212; &#8212; &#8212; &#8212; Receive SOFR/pay 1-month term SOFR - forward-starting 1,054 10,669 11,134 6,721 870 &#8212; Interest rate collars - forward-starting 158 1,260 1,001 240 &#8212; &#8212; Floor spreads - forward-starting &#8212; 1,030 1,500 467 &#8212; &#8212; Total $27,412 $40,317 $41,822 $22,261 $4,173 $643 Weighted average receive fixed rate 4.3 % 3.2 % 3.1 % 3.2 % 3.4 % 2.6 % Weighted average pay fixed rate 3.4 3.4 3.4 3.4 3.4 3.4 
+
+(1) Pay fixed rate leg of the interest rate derivative contract is included in the computation of the weighted average pay fixed rate. 
+
+(2) Receive fixed rate leg of the interest rate derivative contract is included in the computation of the weighted average receive fixed rate. 
+
+Table 24: Pre-Tax Gains (Losses) Recorded in the Consolidated Statements of Operations and the Consolidated Statements of Comprehensive Income on Cash Flow Hedges Three Months Ended June 30, Six Months Ended June 30, (dollars in millions) 2023 2022 2023 2022 Amount of pre-tax net gains (losses) recognized in OCI ($680) ($244) ($447) ($905) Amount of pre-tax net gains (losses) reclassified from AOCI into interest income (137) 12 (264) 49 Amount of pre-tax net gains (losses) reclassified from AOCI into interest expense 1 (1) 1 (6) 
+
+Using the interest rate curve at June 30, 2023, we estimate that approximately $728 million in pre-tax net losses related to cash flow hedge strategies will be reclassified from AOCI to net interest income over the next 12 months, including $466 million from terminated swaps. This amount could differ from amounts actually recognized due to changes in interest rates, hedge de-designations and the addition of other hedges subsequent to June 30, 2023. 
+
+LIBOR Transition 
+
+In July 2017, the United Kingdom&#8217;s FCA announced that it would no longer require banks to submit LIBOR rates after 2021. On March 5, 2021, the FCA formally announced the future cessation of 1-week and 2-month U.S. Dollar LIBOR rates as of December 31, 2021, with all other U.S. Dollar LIBOR tenors ceasing as of June 30, 2023. In the United States, the Alternative Reference Rates Committee, a group of private-market participants convened to help ensure a successful transition away from U.S. Dollar LIBOR, identified SOFR as its recommended alternative rate. 
+
+On March 15, 2022, the Adjustable Interest Rate (LIBOR) Act (the &#8220;LIBOR Act&#8221;) was signed into law, with the FRB adopting its final rule, effective February 27, 2023, to implement the LIBOR Act on December 16, 2022. The final rule addresses references to LIBOR in contracts that (i) are governed by U.S. law; (ii) will not mature before June 30, 2023; and (iii) lack fallback provisions providing for a clearly defined and practical replacement for LIBOR. An overview of the final rule is provided below. 
+
+&#8226; Identifies FRB-selected benchmark replacement rates based on SOFR for contracts that lack adequate fallback provisions, with a spread adjustment incorporated for each specified tenor of LIBOR; 
+
+&#8226; Authorizes persons who have discretionary authority for selecting a LIBOR replacement to opt into a statutory safe harbor from liability by selecting the benchmark identified by the FRB; 
+
+&#8226; Clarifies certain matters related to the implementation, administration, and calculation of the benchmark replacement rate; 
+
+Citizens Financial Group, Inc. | 34 
+
+&#8226; Indicates that the rule preempts any state or local law or standard related to the selection or use of a benchmark replacement rate for LIBOR; and 
+
+&#8226; Ensures that contracts adopting a benchmark rate selected by the FRB will not be interrupted or terminated following LIBOR&#8217;s replacement. 
+
+In 2018, we formed a LIBOR Transition Program (&#8220;the Program&#8221;) designed to develop plans for and guide the organization through the planned discontinuation of LIBOR. The Program, with direction and oversight from our Chief Financial Officer, is responsible for developing, maintaining and executing against a coordinated strategy to ensure a timely and orderly transition from LIBOR. The Program&#8217;s key accomplishments since inception include, but are not limited to, the following: 
+
+&#8226; Moved new originations to alternative reference rates; 
+
+&#8226; Upgraded standard form provisions and issued implementation guidance to require the use of reference rate fallback language in any new and existing LIBOR contracts in connection with contract amendments made in the ordinary course of business; 
+
+&#8226; Remediated existing LIBOR loans and derivatives to alternative reference rates; 
+
+&#8226; Completed operational readiness of systems, models and applications to handle all potential alternative reference rates; and 
+
+&#8226; Analyzed existing fallback language in legacy contracts to devise a strategy for those requiring remediation. 
+
+As of June 30, 2023, the Company&#8217;s transition and remediation efforts are complete, with ongoing monitoring for LIBOR-based financial instruments that will transition to alternative rates at their next interest rate reset. 
+
+See the &#8220;Risk Factors&#8221; section in Part I, Item 1A of our 2022 Form 10-K for further discussion of the risks facing the Company in relation to the transition away from LIBOR. 
+
+Capital Markets 
+
+A key component of our capital markets activities is the underwriting and distribution of corporate credit facilities to partially finance merger and acquisition transactions for our clients. We have a rigorous risk management process around these activities, including a limit structure capping our underwriting risk, potential loss, and sub-limits for specific asset classes. Further, the ability to approve underwriting exposure is delegated only to senior level individuals in the credit risk management and capital markets organizations with each transaction adjudicated in the Loan Underwriting Approval Committee. 
+
+Mortgage Servicing Rights &#160; 
+
+We have market risk associated with the value of residential MSRs, which are impacted by various types of inherent risks, including duration, basis, convexity, volatility and yield curve. 
+
+As part of our overall risk management strategy we enter into various free-standing derivatives, such as interest rate swaps, interest rate swaptions, interest rate futures and forward contracts to purchase mortgage-backed securities to economically hedge the changes in fair value of our MSRs. As of June 30, 2023 and December 31, 2022, the fair value of our MSRs was $1.5 billion, and the total notional amount of related derivative contracts was $18.9 billion and $12.9 billion, respectively. Gains and losses on MSRs and the related derivatives used for hedging are included in mortgage banking fees in the Consolidated Statements of Operations. 
+
+As with our traded market risk-based activities, earnings at risk excludes the impact of MSRs. MSRs are captured under our single price risk management framework that is used for calculating a management value at risk consistent with the definition used by banking regulators. 
+
+Citizens Financial Group, Inc. | 35 
+
+Trading Risk 
+
+We are exposed to market risk primarily through client facilitation activities including derivatives and foreign exchange products as well as underwriting and market making activities. Exposure is created as a result of changes in interest rates and related basis spreads and volatility, foreign exchange rates, equity prices, and credit spreads on a select range of interest rates, foreign exchange, commodities, equity securities, corporate bonds and secondary loan instruments. These securities underwriting and trading activities are conducted through CBNA, CCMI and JMP. There have been no significant changes in our market risk governance, market risk measurement, or market risk practices including VaR, stressed VaR, sensitivity analysis, stress testing, or VaR model review and validation as described in &#8220;Market Risk &#8212; Trading Risk&#8221; in our 2022 Form 10-K. 
+
+Market Risk Regulatory Capital 
+
+The U.S. banking regulators&#8217; &#8220;Market Risk Rule&#8221; covers the calculation of market risk capital. Under this rule all of our client facing trades and associated hedges maintain a net low risk and qualify as &#8220;covered positions.&#8221; The internal management VaR measure is calculated based on the same population of trades that is utilized for regulatory VaR. 
+
+Table 25: Results of Modeled and Non-Modeled Measures for Regulatory Capital Calculations (dollars in millions) For the Three Months Ended June 30, 2023 For the Three Months Ended June 30, 2022 Market Risk Category &#160; 
+
+Period End Average 
+
+High Low Period End Average High Low Interest Rate $3 $2 $7 $1 $1 $1 $2 $1 Foreign Exchange Currency Rate &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 4 &#8212; Credit Spread 2 2 3 1 3 3 4 2 Commodity &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; General VaR 5 3 8 1 3 3 4 2 Specific Risk VaR &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; Total VaR $5 $3 $8 $1 $3 $3 $4 $2 Stressed General VaR $13 $10 $20 $7 $14 $15 $20 $10 Stressed Specific Risk VaR &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; Total Stressed VaR $13 $10 $20 $7 $14 $15 $20 $10 Market Risk Regulatory Capital $38 $54 Specific Risk Not Modeled Add-on 21 22 de Minimis Exposure Add-on &#8212; &#8212; Total Market Risk Regulatory Capital $59 $76 Market Risk-Weighted Assets $735 $955 
+
+Citizens Financial Group, Inc. | 36 
+
+VaR Backtesting 
+
+Backtesting is one form of validation of the VaR model and is run daily. The Market Risk Rule requires a comparison of our internal VaR measure to the actual net trading revenue (excluding fees, commissions, reserves, intra-day trading and net interest income) for each day over the preceding year (the most recent 250 business days). Any observed loss in excess of the VaR number is taken as an exception. The level of exceptions determines the multiplication factor used to derive the VaR and SVaR-based capital requirement for regulatory reporting purposes, when applicable. We perform sub-portfolio backtesting as required under the Market Risk Rule, using models approved by our banking regulators for interest rate, credit spread and foreign exchange positions. 
+
+The following graph shows our daily net trading revenue and total internal, modeled VaR for the twelve months ended June 30, 2023. 
+
+Citizens Financial Group, Inc. | 37 
+
+NON-GAAP FINANCIAL MEASURES AND RECONCILIATIONS 
+
+For more information on the computation of our non-GAAP financial measures, see &#8220;Introduction &#8212; Non-GAAP Financial Measures,&#8221; included in this Report. The following table presents computations of non-GAAP financial measures representing our &#8220;Underlying&#8221; results used in the MD&#38;A: 
+
+Table 26: Reconciliations of Non-GAAP Measures &#160; &#160; As of and for the Three Months Ended June 30, As of and for the Six Months Ended June 30, (dollars in millions, except per share data) Ref. 2023 2022 2023 2022 Noninterest income, Underlying: Noninterest income (GAAP) A $506 $494 $991 $992 Less: Notable items &#8212; (31) &#8212; (31) Noninterest income, Underlying (non-GAAP) B $506 $525 $991 $1,023 Total revenue, Underlying: Total revenue (GAAP) C $2,094 $1,999 $4,222 $3,644 Less: Notable items &#8212; (31) &#8212; (31) Total revenue, Underlying (non-GAAP) D $2,094 $2,030 $4,222 $3,675 Noninterest expense, Underlying: Noninterest expense (GAAP) E $1,306 $1,305 $2,602 $2,411 Less: Notable items 73 125 139 173 Noninterest expense, Underlying (non-GAAP) F $1,233 $1,180 $2,463 $2,238 Pre-provision profit: Total revenue (GAAP) C $2,094 $1,999 $4,222 $3,644 Less: Noninterest expense (GAAP) E 1,306 1,305 2,602 2,411 Pre-provision profit (GAAP) $788 $694 $1,620 $1,233 Pre-provision profit, Underlying Total revenue, Underlying (non-GAAP) D $2,094 $2,030 $4,222 $3,675 Less: Noninterest expense, Underlying (non-GAAP) F 1,233 1,180 2,463 2,238 Pre-provision profit, Underlying (non-GAAP) $861 $850 $1,759 $1,437 Provision (benefit) for credit losses, Underlying: Provision (benefit) for credit losses (GAAP) $176 $216 $344 $219 Less: Notable items &#8212; 145 &#8212; 169 Provision (benefit) for credit losses, Underlying (non-GAAP) $176 $71 $344 $50 Income before income tax expense, Underlying: Income before income tax expense (GAAP) G $612 $478 $1,276 $1,014 Less: Income (loss) before income tax expense (benefit) related to notable items (73) (301) (139) (373) Income before income tax expense, Underlying (non-GAAP) H $685 $779 $1,415 $1,387 Income tax expense and effective income tax rate, Underlying: Income tax expense (GAAP) I $134 $114 $287 $230 Less: Income tax expense (benefit) related to notable items (20) (70) (37) (86) Income tax expense, Underlying (non-GAAP) J $154 $184 $324 $316 Effective income tax rate (GAAP) I/G 22.09 % 23.77 % 22.55 % 22.68 % Effective income tax rate, Underlying (non-GAAP) J/H 22.51 23.69 22.89 22.82 Net income, Underlying: Net income (GAAP) K $478 $364 $989 $784 Add: Notable items, net of income tax benefit 53 231 102 287 Net income, Underlying (non-GAAP) L $531 $595 $1,091 $1,071 Net income available to common stockholders, Underlying: Net income available to common stockholders (GAAP) M $444 $332 $932 $728 Add: Notable items, net of income tax benefit 53 231 102 287 Net income available to common stockholders, Underlying (non-GAAP) N $497 $563 $1,034 $1,015 Return on average common equity and return on average common equity, Underlying: Average common equity (GAAP) O $22,289 $22,383 $21,997 $21,686 Return on average common equity M/O 8.00 % 5.95 % 8.54 % 6.77 % 
+
+Return on average common equity, Underlying (non-GAAP) 
+
+N/O 8.97 10.06 9.48 9.43 
+
+Citizens Financial Group, Inc. | 38 
+
+&#160; &#160; As of and for the Three Months Ended June 30, As of and for the Six Months Ended June 30, (dollars in millions, except per share data) Ref. 2023 2022 2023 2022 Return on average tangible common equity and return on average tangible common equity, Underlying: &#160; Average common equity (GAAP) O $22,289 $22,383 $21,997 $21,686 Less: Average goodwill (GAAP) 8,182 8,015 8,179 7,588 Less: Average other intangibles (GAAP) 181 213 186 147 Add: Average deferred tax liabilities related to goodwill and other intangible assets (GAAP) 422 416 421 400 Average tangible common equity P $14,348 $14,571 $14,053 $14,351 Return on average tangible common equity M/P 12.42 % 9.13 % 13.37 % 10.22 % Return on average tangible common equity, Underlying (non-GAAP) N/P 13.93 15.45 14.84 14.25 Return on average total assets and return on average total assets, Underlying: Average total assets (GAAP) Q $222,373 $220,967 $222,541 $204,732 Return on average total assets K/Q 0.86 % 0.66 % 0.90 % 0.77 % Return on average total assets, Underlying (non-GAAP) L/Q 0.96 1.08 0.99 1.05 Return on average total tangible assets and return on average total tangible assets, Underlying: &#160; Average total assets (GAAP) Q $222,373 $220,967 $222,541 $204,732 Less: Average goodwill (GAAP) 8,182 8,015 8,179 7,588 Less: Average other intangibles (GAAP) 181 213 186 147 Add: Average deferred tax liabilities related to goodwill and other intangible assets (GAAP) 422 416 421 400 Average tangible assets R $214,432 $213,155 $214,597 $197,397 Return on average total tangible assets K/R 0.89 % 0.69 % 0.93 % 0.80 % Return on average total tangible assets, Underlying (non-GAAP) L/R 0.99 1.12 1.03 1.09 Efficiency ratio and efficiency ratio, Underlying: &#160; Efficiency ratio E/C 62.34 % 65.27 % 61.62 % 66.16 % Efficiency ratio, Underlying (non-GAAP) F/D 58.86 58.16 58.34 60.90 Noninterest income as a % of total revenue, Underlying: Noninterest income as a % of total revenue A/C 24.14 % 24.72 % 23.47 % 27.22 % Noninterest income as a % of total revenue, Underlying (non-GAAP) B/D 24.14 25.88 23.47 27.84 Operating leverage and operating leverage, Underlying: Increase in total revenue 4.77 % 24.24 % 15.88 % 11.51 % Increase in noninterest expense 0.06 31.58 7.93 19.97 Operating leverage 4.71 % (7.34) % 7.95 % (8.46) % Increase in total revenue, Underlying (non-GAAP) 3.16 % 26.18 % 14.90 % 12.46 % Increase in noninterest expense, Underlying (non-GAAP) 4.39 20.47 10.08 13.11 Operating leverage, Underlying (non-GAAP) (1.23) % 5.71 % 4.82 % (0.65) % Tangible book value per common share: Common shares - at period end (GAAP) S 474,682,759 495,650,259 474,682,759 495,650,259 Common stockholders' equity (GAAP) $21,571 $22,314 $21,571 $22,314 Less: Goodwill (GAAP) 8,188 8,081 8,188 8,081 Less: Other intangible assets (GAAP) 175 211 175 211 Add: Deferred tax liabilities related to goodwill and other intangible assets (GAAP) 422 422 422 422 Tangible common equity T $13,630 $14,444 $13,630 $14,444 Tangible book value per common share T/S $28.72 $29.14 $28.72 $29.14 Net income per average common share - basic and diluted and net income per average common share - basic and diluted, Underlying: Average common shares outstanding - basic (GAAP) U 479,470,543 491,497,026 482,440,926 457,140,258 Average common shares outstanding - diluted (GAAP) V 480,975,281 493,296,114 484,252,103 459,167,747 Net income per average common share - basic (GAAP) M/U $0.93 $0.68 $1.93 $1.59 Net income per average common share - diluted (GAAP) M/V 0.92 0.67 1.92 1.58 Net income per average common share - basic, Underlying (non-GAAP) N/U 1.04 1.14 2.14 2.22 Net income per average common share - diluted, Underlying (non-GAAP) N/V 1.04 1.14 2.14 2.21 Dividend payout ratio and dividend payout ratio, Underlying: Cash dividends declared and paid per common share W $0.42 $0.39 $0.84 $0.78 Dividend payout ratio W/(M/U) 45 % 57 % 44 % 49 % Dividend payout ratio, Underlying (non-GAAP) W/(N/U) 40 34 39 35 
+
+Citizens Financial Group, Inc. | 39 
+
