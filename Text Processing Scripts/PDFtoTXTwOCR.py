@@ -42,4 +42,4 @@ def pdf_to_text_with_ocr(pdf_path, output_txt_path):
         print(f"Error saving text to file: {e}")
 
 # Example usage:
-pdf_to_text_with_ocr('C:/Users/cassi/Capstone_MCG/SEC_Data/bank_of_new_york_mellon_corporation,_the/2021/10-K_2021-02-25_Management_Discussion_&_Analysis_(MD&A).pdf', 'C:/Users/cassi/Capstone_MCG/SEC_Data/bank_of_new_york_mellon_corporation,_the/2021/10-K_2021-02-25_Management_Discussion_&_Analysis_(MD&A).txt')
+pdf_to_text_with_ocr('C:/Users/cassi/Capstone_MCG/SEC_Data/bank_of_new_york_mellon_corporation,_the/2024/10-K_2024-02-28_Management_Discussion_&_Analysis_(MD&A).pdf', 'C:/Users/cassi/Capstone_MCG/SEC_Data/bank_of_new_york_mellon_corporation,_the/2024/10-K_2024-02-28_Management_Discussion_&_Analysis_(MD&A).txt')
