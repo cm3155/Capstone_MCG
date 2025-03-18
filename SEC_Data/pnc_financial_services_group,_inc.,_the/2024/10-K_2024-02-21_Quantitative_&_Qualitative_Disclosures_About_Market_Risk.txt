@@ -2,3 +2,1750 @@
 
 This information is set forth in the Risk Management section of Item 7 and in Note 1 Accounting Policies, Note 14 Fair Value and Note 15 Financial Derivatives in the Notes to Consolidated Financial Statements in Item 8 of this Report. 
 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+THE PNC FINANCIAL SERVICES GROUP, INC.
+See the Glossary on page 186 for additional information on certain terms and acronyms used throughout the Financial Statements
+and related Notes.
+B
+USINESS
+PNC is one of the largest diversified financial services companies in the U.S. and is headquartered in Pittsburgh, Pennsylvania.
+We have businesses engaged in retail banking, including residential mortgage, corporate and institutional banking and asset
+management, providing many of our products and services nationally. Our retail branch network is located coast-to-coast. We also
+have strategic international offices in four countries outside the U.S.
+NOTE 1 ACCOUNTING POLICIES
+Basis of Financial Statement Presentation
+Our consolidated financial statements include the accounts of the parent company and its subsidiaries, most of which are wholly-
+owned, certain partnership interests and VIEs.
+On June 1, 2021, we acquired BBVA, a U.S. financial holding company conducting its business operations primarily through its U.S.
+banking subsidiary, BBVA USA. PNC paid $11.5 billion in cash as consideration for the acquisition.
+On October 8, 2021, BBVA USA merged into PNC Bank. On October 12, 2021, PNC converted approximately 2.6 million customers,
+9,000 employees and over 600 branches across seven states. Our results of operations and balance sheets for all periods presented in
+this Report reflect the benefit of BBVA’s acquired businesses for the period since the acquisition closed on June 1, 2021.
+We prepared these consolidated financial statements in accordance with GAAP. We have eliminated intercompany accounts and
+transactions. We have also reclassified certain prior-year amounts to conform to the current period presentation, which did not have a
+material impact on our consolidated financial condition or results of operations.
+We have also considered the impact of subsequent events on these consolidated financial statements.
+Noninterest Income Presentation
+Effective for the first quarter of 2022, PNC updated the presentation of its noninterest income categorization to be based on product
+and service type, and accordingly, has changed the basis of presentation of its noninterest income revenue streams to: (i) Asset
+management and brokerage, (ii) Capital markets related, (iii) Card and cash management, (iv) Lending and deposit services, (v)
+Residential and commercial mortgage and (vi) Other noninterest income. Additionally, in the fourth quarter of 2022, PNC updated the
+name of the noninterest income line item “Capital markets related” to “Capital markets and advisory.” This update did not impact the
+components of the category. All periods presented herein reflect these changes. A description of each revenue stream follows:
+Asset management and brokerage includes revenue from our asset management and retail brokerage businesses. Asset management
+services include investment management, custody, retirement planning, family planning, trust management and retirement
+administration. Brokerage services offer retail customers a wide range of investment options, including mutual funds, annuities, stock,
+bonds and managed accounts.
+Capital markets and advisory includes revenue from services and activities primarily related to merger and acquisition advisory,
+equity capital markets advisory, asset-backed financing, loan syndication, securities underwriting, credit valuation adjustments related
+to the derivatives portfolio and customer-related trading.
+Card and cash management includes revenue primarily from debit and credit card activities, inclusive of credit card points and
+rewards, treasury management services and ATM fees. Debit and credit card activities include interchange revenue and merchant
+service fees. Treasury management services include cash and investment management, receivables and disbursement management,
+funds transfer, international payment and access to online/mobile information management and reporting.
+Lending and deposit services includes revenue primarily related to service charges on deposits, loan commitment and usage fees, the
+issuance of standby letters of credit, operating lease income and long-term care and insurance products.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 93Residential and commercial mortgage includes the gain and loss on sale of mortgages, revenue related to our mortgage servicing
+responsibilities, mortgage servicing rights valuation adjustments and net gains on originations and sales of loans held for sale.
+Other noninterest income is primarily composed of private equity revenue, net securities gains and losses, activity related to our
+equity investment in Visa, including related swaps and gains and losses on asset sales.
+See Note 23 Fee-based Revenue from Contracts with Customers for additional details related to these revenue streams within the
+scope of ASC Topic 606 - Revenue from Contracts with Customers.
+Use of Estimates
+We prepared these consolidated financial statements using financial information available at the time of preparation, which requires us
+to make estimates and assumptions that affect the amounts reported. Our most significant estimates pertain to the ACL and our fair
+value measurements. Actual results may differ from the estimates and the differences may be material to the consolidated financial
+statements.
+Cash, Cash Equivalents and Restricted Cash
+Cash and due from banks are considered cash and cash equivalents for financial reporting purposes because they represent a primary
+source of liquidity. Certain cash balances within Cash and due from banks on our Consolidated Balance Sheet are restricted as to
+withdrawal or usage by legally binding contractual agreements or regulatory requirements.
+Investments
+We hold interests in various types of investments. The accounting for these investments is dependent on a number of factors including,
+but not limited to, items such as:
+• Ownership interest,
+• Our plans for the investment, and
+• The nature of the investment.
+Debt Securities
+Debt securities are recorded on a trade-date basis. We classify debt securities as either trading, held to maturity or available for sale.
+Debt securities that we purchase for certain risk management activities or customer-related trading activities are classified as trading
+securities, are reported in the Other assets line item on our Consolidated Balance Sheet and are carried at fair value. For debt securities
+classified as trading, realized and unrealized gains and losses within our Capital markets business are included in Capital markets and
+advisory noninterest income; other realized and unrealized gains and losses are included in Other noninterest income. We classify debt
+securities as held to maturity when we have the positive intent and ability to hold the securities to maturity, and carry them at
+amortized cost, less any allowance. Debt securities not classified as held to maturity or trading are classified as securities available for
+sale and are carried at fair value. Unrealized gains and losses on available for sale securities are included in AOCI net of income taxes.
+We include all interest on debt securities, including amortization of premiums and accretion of discounts on investment securities, in
+net interest income using the constant effective yield method generally calculated over the contractual lives of the securities. Effective
+yields reflect either the effective interest rate implicit in the security at the date of acquisition or, for debt securities where an OTTI
+was recorded, the effective interest rate determined based on improved cash flows subsequent to an impairment. We compute gains
+and losses realized on the sale of available for sale debt securities on a specific security basis. These securities gains and losses are
+included in Other noninterest income on the Consolidated Income Statement.
+The CECL standard requires expected credit losses on both held to maturity and available for sale securities to be recognized through
+a valuation allowance, ACL, instead of as a direct write-down to the amortized cost basis of the security. An available for sale security
+is considered impaired if the fair value is less than its amortized cost basis. If any portion of the decline in fair value is related to
+credit, the amount of allowance is determined as the portion related to credit, limited to the difference between the amortized cost
+basis and the fair value of the security. If we have the intent to sell, or believe it is more likely than not we will be required to sell an
+impaired available for sale security before recovery of the amortized cost basis, the credit loss is recorded as a direct write-down of the
+amortized cost basis. Credit losses on investment securities are recognized through the Provision for credit losses on our Consolidated
+Income Statement. Declines in the fair value of available for sale securities that are not considered credit related are recognized in
+AOCI on our Consolidated Balance Sheet.
+We consider a security to be past due in terms of payment based on its contractual terms. A security may be placed on nonaccrual,
+with interest no longer recognized until received, when collectability of principal or interest is doubtful. As of December 31, 2023,
+nonaccrual or past due held-to-maturity and available-for-sale securities were immaterial.
+94 The PNC Financial Services Group, Inc. – 2023 Form 10-KA security may be partially or fully charged off against the allowance if it is determined to be uncollectible, including for an available
+for sale security, if we have the intent to sell or believe it is more likely than not we will be required to sell the security before
+recovery of the amortized cost basis. Recoveries of previously charged-off available for sale securities are recognized when received,
+while recoveries on held to maturity securities are recognized when expected.
+See the Allowance for Credit Losses section of this Note 1 for further discussion regarding the methodologies used to determine the
+allowance for investment securities. See Note 2 Investment Securities for additional information about the investment securities
+portfolio and the related ACL.
+Equity Securities and Partnership Interests
+We account for equity securities, equity investments, private equity investments, and investments in limited partnerships, limited
+liability companies and other investments that are not required to be consolidated under one of the following methods:
+• We use the equity method for general and limited partner ownership interests and limited liability companies in which we are
+considered to have significant influence over the operations of the investee. Under the equity method, we record our equity
+ownership share of net income or loss of the investee in Noninterest income and any dividends received on equity method
+investments are recorded as a reduction to the investment balance. When an equity investment experiences an other-than-
+temporary decline in value, we record a loss on the investment.
+• We measure equity securities that have a readily determinable fair value at fair value through Net income. We do not consider
+contractual restrictions on the sale of an equity security when measuring fair value. Both realized and unrealized gains and
+losses are included in Noninterest income. Dividend income on these equity securities is included in Other interest income on
+our Consolidated Income Statement.
+• We generally use the practicability exception to fair value measurement for all other investments without a readily
+determinable fair value. When we elect this alternative measurement method, the investment is recorded at cost and the
+carrying value is adjusted for impairment, if any, plus or minus changes in value resulting from observable price changes in
+orderly transactions for identical or similar instruments of the same issuer. Adjustments to fair value based on changes in
+observable price are recorded in Other noninterest income. These investments are written down to fair value if a qualitative
+assessment indicates impairment and the fair value is less than the carrying value. The amount of the write-down is accounted
+for as a loss included in Other noninterest income. Distributions received on these investments are included in Other
+noninterest income.
+Investments described above are included in Equity investments on our Consolidated Balance Sheet.
+Private Equity Investments
+We report private equity investments, which include direct investments in companies, affiliated partnership interests and indirect
+investments in private equity funds, at estimated fair value. These estimates are based on available information and may not
+necessarily represent amounts that we will ultimately realize through distribution, sale or liquidation of the investments. Fair values of
+publicly-traded direct investments are determined using quoted market prices and are subject to various discount factors arising from
+security level restrictions, when appropriate. The valuation procedures applied to direct investments and indirect investments are
+detailed in Note 14 Fair Value. We include all private equity investments within Equity investments on our Consolidated Balance
+Sheet. Changes in fair value of private equity investments are recognized in Other noninterest income.
+We consolidate affiliated partnerships when we have determined that we have control of the partnership or are the primary beneficiary
+if the entity is a VIE. The portion we do not own is reflected in Noncontrolling interests on our Consolidated Balance Sheet.
+Loans
+Loans are classified as held for investment when management has both the intent and ability to hold the loan for the foreseeable future,
+or until maturity or payoff. Management’s intent and view of the foreseeable future may change based on changes in business
+strategies, the economic environment, market conditions and the availability of government programs.
+Measurement of delinquency status is based on the contractual terms of each loan. Loans that are 30 days or more past due are
+considered delinquent. The CARES Act credit reporting rules, which required exceptions to this policy, expired in the third quarter of
+2023. As such, delinquency status at December 31, 2023 is being reported for all loans based on the contractual terms of each loan.
+Prior period amounts continue to be presented in accordance with the credit reporting rules under the CARES Act, which required
+certain loans modified due to pandemic-related hardships to not be reported as past due based on the contractual terms of the loan,
+even when borrowers may not have made payments on their loans during the modification period.
+Loans held for investment, excluding PCD loans, are recorded at amortized cost basis unless we elect to measure these under the fair
+value option. Amortized cost basis represents principal amounts outstanding, net of unearned income, unamortized deferred fees and
+costs on originated loans, premiums or discounts on purchased loans and charge-offs. Amortized cost basis does not include accrued
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 95interest, as we include accrued interest in Other assets on our Consolidated Balance Sheet. Interest on performing loans is accrued
+based on the principal amount outstanding and recorded in Interest income as earned using the constant effective yield method over
+the contractual life. Loan origination fees, direct loan origination costs, and loan premiums and discounts are deferred and accreted or
+amortized into Net interest income using the constant effective yield method, over the contractual life of the loan. The processing fee
+received for loans originated through PPP lending under the CARES Act is deferred and accreted into Net interest income using the
+effective yield method, over the contractual life of the loan. Loans under the fair value option are reported at their fair value, with any
+changes to fair value reported as Noninterest income on the Consolidated Income Statement and are excluded from measurement of
+ALLL.
+In addition to originating loans, we also acquire loans through the secondary loan market, portfolio purchases or acquisitions of other
+financial services companies. Certain acquired loans that have experienced a more-than-insignificant deterioration of credit quality
+since origination (i.e., PCD) are recognized at an amortized cost basis equal to their purchase price plus an ALLL measured at the
+acquisition date. PNC considers a variety of factors in connection with the identification of more-than-insignificant deterioration in
+credit quality, including but not limited to nonperforming status, delinquency, risk ratings and other qualitative factors that indicate
+deterioration in credit quality since origination. Subsequent decreases in expected cash flows that are attributable, at least in part, to
+credit quality are recognized through a charge to the provision for credit losses resulting in an increase in the ALLL. Subsequent
+increases in expected cash flows are recognized as a provision recapture of previously recorded ALLL.
+We consider a loan to be collateral dependent when we determine that substantially all of the expected cash flows will be generated
+from the operation or sale of the collateral underlying the loan, or when the borrower is experiencing financial difficulty and we have
+elected to measure the loan at the estimated fair value of collateral (less costs to sell if sale or foreclosure of the property is expected).
+Additionally, we consider a loan to be collateral dependent when foreclosure or liquidation of the underlying collateral is probable.
+On January 1, 2023, we adopted ASU 2022-02 Financial Instruments—Credit Losses (Topic 326): Troubled Debt Restructurings and
+Vintage Disclosures (ASU 2022-02), which eliminates the accounting guidance for TDRs and replaces TDRs with loan modifications
+to borrowers experiencing financial difficulty, or FDMs. FDMs occur as a result of our loss mitigation activities. A variety of solutions
+are offered to borrowers, including loan modifications that may result in principal forgiveness, interest rate reductions, term
+extensions, payment delays, repayment plans or combinations thereof:
+• Principal forgiveness includes principal and accrued interest forgiveness.
+• Interest rate reductions include modifications where the interest rate is reduced and/or interest is deferred.
+• Term extensions extend the original contractual maturity date of the loan.
+• Payment delays consist of modifications where we expect to collect contractual amounts due but that result in a delay in the
+receipt of payments specified under the original loan terms. We generally consider payment delays to be insignificant when
+the delay is three months or less.
+• Repayment plans are offered for some of our credit card and unsecured line of credit products, which provide for a reduced
+payment and interest rate for a specific period of time.
+Additionally, modifications to borrowers experiencing financial difficulty also result from borrowers that have been discharged from
+personal liability through Chapter 7 bankruptcy and have not formally reaffirmed their obligations to us, and those that enter into trial
+modifications.
+FDMs exclude loans held for sale and loans accounted for under the fair value option. Our disclosed FDM population also excludes
+government insured or guaranteed education loans as loss mitigation activities for these loans are either required by law or they are
+considered separate from PNC’s loss mitigation treatments. Commercial loans with an appraised value of collateral that exceeds the
+loan value, loans with guarantor support, and residential mortgage government insured or guaranteed loans are included in our
+disclosed population of FDMs when those loan modifications are granted to a borrower experiencing financial difficulty.
+FDMs continue to be subject to our existing nonaccrual policies. Expected losses or recoveries on FDMs have been factored into the
+ALLL estimates for each loan class under the methodologies described in this Note 1. Refer to Note 3 Loans and Related Allowance
+for Credit Losses for more information on FDMs.
+Prior to the adoption of this ASU, a TDR was considered a loan whose terms had been restructured in a manner that granted a
+concession to a borrower experiencing financial difficulty. A concession had been granted when we did not expect to collect all
+amounts due, including original interest accrued at the original contract rate, as a result of the restructuring, or there was a delay in
+payment that was more-than-insignificant. TDRs resulted from our loss mitigation activities, and included rate reductions, principal
+forgiveness, postponement/reduction of scheduled amortization and extensions, which were intended to minimize economic loss and
+to avoid foreclosure or repossession of collateral. Additionally, TDRs also resulted from borrowers that had been discharged from
+personal liability through Chapter 7 bankruptcy and had not formally reaffirmed their loan obligations to us. In those situations where
+principal is forgiven, the amount of such principal forgiveness was immediately charged off. Additionally, for periods prior to 2023,
+96 The PNC Financial Services Group, Inc. – 2023 Form 10-Kpotential incremental losses or recoveries on TDRs had been factored into the ALLL estimates for each loan class under the
+methodologies described in this Note 1. Once a loan became a TDR, it would continue to be reported as a TDR until it was ultimately
+repaid in full, the collateral was foreclosed upon or it fully charged off. PNC excluded loans held for sale, loans accounted for under
+the fair value option, and certain government insured or guaranteed loans from our TDR population.
+See the following for additional information related to loans, including further discussion regarding our policies, the methodologies
+and significant inputs used to determine the ALLL and additional details on the composition of our loan portfolio:
+• Nonperforming Loans and Leases section of this Note 1,
+• Allowance for Credit Losses section of this Note 1, and
+• Note 3 Loans and Related Allowance for Credit Losses in this Report.
+Nonperforming Loans and Leases
+The matrix that follows summarizes our policies for classifying certain loans as nonperforming loans and/or discontinuing the accrual
+of loan interest income.
+Commercial
+Loans classified as • Loans accounted for at amortized cost where:
+nonperforming and accounted – The loan is 90 days or more past due.
+for as nonaccrual – The loan is rated substandard or worse due to the determination that full collection of principal and
+interest is not probable as demonstrated by the following conditions:
+• The collection of principal or interest is 90 days or more past due,
+• Reasonable doubt exists as to the certainty of the borrower’s future debt service ability, according
+to the terms of the credit arrangement, regardless of whether 90 days have passed or not,
+• The borrower has filed, or will likely file for bankruptcy, and it is not probable the borrower will
+be able to repay contractual payments due under the loan,
+• The bank advances additional funds to cover principal or interest,
+• We are in the process of liquidating a commercial borrower, or
+• We are pursuing remedies under a guarantee.
+Loans excluded from • Loans accounted for under the fair value option and full collection of principal and interest is not probable.
+nonperforming classification but
+• Loans accounted for at the lower of cost or market less costs to sell (held for sale) and full collection of
+accounted for as nonaccrual
+principal and interest is not probable.
+Loans excluded from • Loans that are well secured and in the process of collection.
+nonperforming classification and
+• Certain government insured or guaranteed loans where substantially all principal and interest is insured.
+nonaccrual accounting
+• Commercial purchasing card assets that do not accrue interest.
+Consumer
+Loans classified as • Loans accounted for at amortized cost where full collection of contractual principal and interest is not
+nonperforming and accounted deemed probable as demonstrated in the policies below:
+for as nonaccrual – The loan is 90 days past due for home equity and installment loans, and 180 days past due for well-
+secured residential real estate loans,
+– The loan had been modified and classified as a TDR prior to the adoption of ASU 2022-02,
+– The loan has been modified due to a borrower experiencing financial difficulty and is not government
+insured or guaranteed,
+– The loan has been modified to defer prior payments in forbearance to the end of the loan term,
+– Notification of bankruptcy has been received,
+– The bank holds a subordinate lien position in the loan and the first lien mortgage loan is seriously
+stressed (i.e., 90 days or more past due),
+– Other loans within the same borrower relationship have been placed on nonaccrual or charge-offs have
+been taken on them,
+– The bank has ordered the repossession of non-real estate collateral securing the loan, or
+– The bank has charged-off the loan to the value of the collateral.
+Loans excluded from • Loans accounted for under the fair value option and full collection of principal and interest is not probable.
+nonperforming classification but
+• Loans accounted for at the lower of cost or market less costs to sell (held for sale) and full collection of
+accounted for as nonaccrual
+principal and interest is not probable.
+Loans excluded from • Certain government insured or guaranteed loans where substantially all principal and interest is insured.
+nonperforming classification and
+• Residential real estate loans that are well secured and in the process of collection.
+nonaccrual accounting
+• Consumer loans and lines of credit, not secured by residential real estate or automobiles, as permitted by
+regulatory guidance.
+Commercial
+We generally charge off commercial (commercial and industrial, commercial real estate and equipment lease financing)
+nonperforming loans when we determine that a specific loan, or portion thereof, is uncollectible. This determination is based on the
+specific facts and circumstances of the individual loans. In making this determination, we consider the viability of the business or
+project as a going concern, the past due status when the asset is not well secured, the expected cash flows to repay the loan, the value
+of the collateral and the ability and willingness of any guarantors to perform. For commercial loans and leases less than a defined
+dollar threshold, balances are generally charged off in full after 180 days for loans and 120 days for leases.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 97Consumer
+We generally charge off secured consumer (home equity, residential real estate and automobile) nonperforming loans to the fair
+value of collateral less costs to sell if the fair value is lower than the amortized cost basis of the loan outstanding and the delinquency
+of the loan, combined with other risk factors such as bankruptcy or lien position, indicates that the loan (or a portion thereof) is
+uncollectible as per our historical experience. These nonperforming loans would also be charged off when the collateral has been
+repossessed. We charge off secured consumer loans no later than 180 days past due. Most consumer loans and lines of credit, not
+secured by automobiles or residential real estate, are charged off once they have reached 120-180 days past due.
+For secured collateral dependent loans, collateral values are updated at least annually and subsequent declines in collateral values are
+charged off, resulting in incremental provision for credit loss. Subsequent increases in collateral values may be reflected as an
+adjustment to the ALLL to reflect the expectation of recoveries in an amount greater than previously expected, limited to amounts
+previously charged-off.
+Accounting for Nonperforming Assets and Leases and Other Nonaccrual Loans
+For nonaccrual loans, interest income accrual and deferred fee/cost recognition is discontinued. Additionally, depending on whether
+the accrued interest has been incorporated into the ACL estimates, as discussed in the Accrued Interest section of this Note 1, the
+accrued and uncollected interest is either reversed through Net interest income (if a CECL reserve is not maintained for accrued
+interest) or charged off against the allowance (if a CECL reserve is maintained for accrued interest), except for credit cards, where we
+reverse any accrued interest through Net interest income at the time of a charge-off, as per industry standard practice. Nonaccrual
+loans that are also collateral dependent may be charged off to reduce the basis to the fair value of collateral less costs to sell.
+If payment is received on a nonaccrual loan, generally the payment is first applied to the remaining principal balance. Payments are
+then applied to recover any charged-off amounts related to the loan. Finally, if both the principal balance and any charge-offs have
+been recovered, then the payment will be recorded as interest income. For certain consumer loans, the receipt of interest payments is
+recognized as interest income on a cash basis. Cash basis income recognition is applied if a loan’s amortized cost basis is deemed fully
+collectible and the loan has performed for at least six months.
+For TDRs prior to the adoption of ASU 2022-02, payments were applied based upon their contractual terms unless the related loan
+was deemed non-performing. TDRs were generally included in nonperforming and nonaccrual loans. However, after a reasonable
+period of time, generally six months, in which the loan performed under restructured terms and met other performance indicators, it
+was returned to performing/accruing status. TDRs resulting from (i) borrowers that had been discharged from personal liability
+through Chapter 7 bankruptcy and had not formally reaffirmed their loan obligations to us, and (ii) borrowers that were not currently
+obligated to make both principal and interest payments under the restructured terms were not returned to accruing status.
+For FDMs, payments are applied based upon their contractual terms unless the related loan is deemed nonperforming. Consumer loans
+modified due to a borrower experiencing financial difficulty are generally included in nonperforming and nonaccrual loans if they are
+not government insured or guaranteed. Commercial loans modified due to a borrower experiencing financial difficulty may be
+included in nonperforming and nonaccrual loans, subject to the bank’s policies for nonperforming loans and leases. FDMs may
+remain on accruing status if the bank expects to collect all contractual principal and interest due under the loan and the borrower
+remains current. Collateral coverage, guarantor and/or sponsor support and debt service coverage are factors that may be considered in
+the accruing status of an FDM loan. FDM loans classified as nonperforming and nonaccrual loans may return to accruing status after a
+reasonable period of time, generally six months, in which the loan performs under modified terms and meets other performance
+indicators. This return to accruing status demonstrates that the bank expects to collect all of the loan’s remaining contractual principal
+and interest. Loan modifications granted to borrowers experiencing financial difficulty resulting from (i) borrowers that have been
+discharged from personal liability through Chapter 7 bankruptcy and have not formally reaffirmed their loan obligations to us, and (ii)
+borrowers that are not currently obligated to make both principal and interest payments under the modified terms are not returned to
+accrual status.
+Other nonaccrual loans are generally not returned to accruing status until the borrower has performed in accordance with the loan’s
+contractual terms and other performance indicators for at least six months, the period of time which was determined to demonstrate the
+expected collectability of the loan’s remaining contractual principal and interest. Nonaccrual loans with partially charged-off principal
+may return to accruing status if the loan performs after a reasonable period of time, generally six months, and the loan meets other
+performance indicators. When a nonperforming loan is returned to accruing status, it is then considered a performing loan. Nonaccrual
+loans with fully charged-off principal are prohibited from returning to accruing status.
+Foreclosed assets consist of any asset seized or property acquired through a foreclosure proceeding or acceptance of a deed-in-lieu of
+foreclosure. OREO comprises principally residential and commercial real estate properties obtained in partial or total satisfaction of
+loan obligations. After obtaining a foreclosure judgment, or in some jurisdictions the initiation of proceedings under a power of sale in
+the loan instruments, the property will be sold. When we are awarded title or completion of deed-in-lieu of foreclosure, we transfer the
+loan to foreclosed assets included in Other assets on our Consolidated Balance Sheet. Property obtained in satisfaction of a loan is
+98 The PNC Financial Services Group, Inc. – 2023 Form 10-Kinitially recorded at estimated fair value less cost to sell. Based upon the estimated fair value less cost to sell, the amortized cost basis
+of the loan is adjusted and a charge-off/recovery is recognized to the ALLL. We estimate fair values primarily based on appraisals or
+sales agreements with third parties. Subsequently, foreclosed assets are valued at the lower of the amount recorded at the acquisition
+date or estimated fair value less cost to sell. Valuation adjustments on these assets and gains or losses realized from disposition of such
+property are reflected in Other noninterest expense.
+For certain mortgage loans that have a government guarantee, we establish a separate other receivable upon foreclosure. The
+receivable is measured based on the loan balance (inclusive of principal and interest) that is expected to be recovered from the
+guarantor.
+See Note 3 Loans and Related Allowance for Credit Losses for additional information on FDMs, nonperforming assets and credit
+quality indicators related to our loan portfolio.
+Allowance for Credit Losses
+Our ACL is based on historical loss experience, current borrower risk characteristics, current economic conditions, reasonable and
+supportable forecasts of future conditions and other relevant factors. We maintain the ACL at an appropriate level for expected losses
+on our existing investment securities, loans, equipment finance leases, other financial assets and unfunded lending related
+commitments, for the remaining estimated contractual term of the assets or exposures as of the balance sheet date. The remaining
+contractual term of assets in scope of CECL is estimated considering contractual maturity dates, prepayment expectations, utilization
+or draw expectations and any contractually embedded extension options that do not allow us to unilaterally cancel the extension
+options. For products without a fixed contractual maturity date (e.g., credit cards), we rely on historical payment behavior to determine
+the length of the paydown or default time period.
+We estimate expected losses on a pooled basis using a combination of (i) the expected losses over a reasonable and supportable
+forecast period, (ii) a period of reversion to long-run average expected losses, where applicable and (iii) the long-run average expected
+losses for the remaining estimated contractual term. For all assets and unfunded lending related commitments in the scope of CECL,
+the ACL also includes individually assessed reserves and qualitative reserves, as applicable.
+We use forward-looking information in estimating expected credit losses for our reasonable and supportable forecast period. For this
+purpose, we use forecasted scenarios produced by PNC’s Economics Team, which are designed to reflect potential trajectories of the
+business cycles and their related estimated probabilities. The forecast length that we have currently determined to be reasonable and
+supportable is three years. As noted in the methodology discussions that follow, forward-looking information is incorporated into the
+expected credit loss estimates. Such forward-looking information includes forecasted relevant macroeconomic variables, which are
+estimated using quantitative macroeconomic models, analysis from PNC economists and management judgment.
+The reversion period is used to bridge our three-year reasonable and supportable forecast period and the long-run average expected
+credit losses. We consider a number of factors in determining the duration of the reversion period, such as contractual maturity of the
+asset, observed historical patterns and the estimated credit loss rates at the end of the forecast period relative to the beginning of the
+long-run average period. The reversion period is typically one to three years, if not immediate.
+The long-run average expected credit losses are derived from long-run historical credit loss information adjusted for the credit quality
+of the current portfolio and, therefore, do not consider current and forecasted economic conditions.
+See the following sections related to investment securities, loans and leases, unfunded lending related commitments and other
+financial assets for details about specific reserve methodologies.
+Allowance for Investment Securities
+A significant portion of our investment securities are issued or guaranteed by either the U.S. government (U.S. Treasury or a
+government entity) or a government-sponsored agency (FNMA or FHLMC). Taking into consideration historical information and
+current and forecasted conditions, we do not expect to incur any credit losses on these securities.
+Investment securities that are not issued or guaranteed by the U.S. government or a government-sponsored agency consist of both
+securitized products, such as non-agency mortgage and asset-backed securities, as well as non-securitized products, such as corporate
+and municipal debt securities. A discounted cash flow approach is primarily used to determine the amount of the allowance required.
+The estimates of expected cash flows are determined using macroeconomic sensitive models taking into consideration the reasonable
+and supportable forecast period and scenarios discussed above. Additional factors unique to a specific security may also be taken into
+consideration when estimating expected cash flows. The cash flows expected to be collected, after considering expected prepayments,
+are discounted at the effective interest rate. For an available-for-sale security, the amount of the allowance is limited to the difference
+between the amortized cost basis of the security and its estimated fair value.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 99See Note 2 Investment Securities for additional information about the investment securities portfolio.
+Allowance for Loan and Lease Losses
+Our pooled expected credit loss methodology is based upon the quantification of risk parameters, such as PD, LGD, EAD and the
+remaining estimated contractual term for a loan, loan segment or lease. We also consider the impact of prepayments and amortization
+on the estimated contractual term in our expected loss estimates. We use historical credit loss information, current borrower risk
+characteristics and forecasted economic variables for the reasonable and supportable forecast period, coupled with analytical methods,
+to estimate these risk parameters by loan, loan segment or lease. PD, LGD and EAD parameters are calculated for each forecasted
+scenario and the long-run average period, and are combined to generate expected loss estimates by scenario. Each scenario is then
+weighted to determine our total estimated loss. The following matrix provides key credit risk characteristics that we use to estimate
+these risk parameters.
+Loan Class Probability of Default Loss Given Default Exposure at Default
+Commercial
+Commercial and •For wholesale obligors: internal •Collateral type, LTV, industry, size •Outstanding balances,
+industrial / risk ratings based on borrower and outstanding exposure for commitment, contractual
+Equipment lease characteristics and industry secured loans maturities and historical
+financing •For retail small balance obligors: •Capital structure, industry and size prepayment experience for loans
+credit score, delinquency status,
+for unsecured loans •Current utilization and historical
+and product type pre-default draw experience for
+•For retail small balance obligors,
+lines
+product type and credit scores
+Commercial real •Property performance metrics, •Property type, LTV, market, risk •Outstanding balances,
+estate (CRE) property type, market and risk pool pool and costs to sell for the commitment, contractual
+for the forecast period forecast period maturities and historical
+•For the long-run average period, •For the long-run average period, prepayment experience for loans
+internal risk ratings based on internal ratings based on collateral
+borrower characteristics performance
+Consumer
+Home equity / •Borrower credit scores, •Collateral characteristics, LTV and •Outstanding balances, contractual
+Residential real delinquency status, origination costs to sell maturities and historical
+estate vintage, LTV and contractual prepayment experience for loans
+maturity •Current utilization and historical
+pre-default draw experience for
+lines
+Automobile •Borrower credit scores, •New vs. used, LTV and borrower •Outstanding balances, contractual
+delinquency status, borrower credit scores maturities and historical
+income, LTV and contractual prepayment experience
+maturity
+Credit card •Borrower credit scores, •Borrower credit scores and credit •Paydown curves are developed
+delinquency status, utilization, line amount using a pro-rata method and
+payment behavior and months on estimated using borrower
+book behavior segments, payment
+ratios and borrower credit scores
+Education / •Modeled using either discrete risk parameters or analytical approaches based on net charge-offs and paydown
+Other consumer rates
+100 The PNC Financial Services Group, Inc. – 2023 Form 10-KThe following matrix describes the key economic variables that are consumed during our forecast period by loan class, as well as other
+assumptions that are used for our reversion and long-run average approaches.
+Loan Class Forecast Period - Key Economic Variables Reversion Method Long-Run Average
+Commercial
+Commercial and •GDP and Gross Domestic •Immediate reversion •Average parameters determined
+industrial / Investment measures, employment based on internal and external
+Equipment lease related variables and personal historical data
+financing income and consumption measures •Modeled parameters using long-
+run economic conditions for retail
+small balance obligors
+Commercial real • CRE Price Index, unemployment • Immediate reversion • Average parameters determined
+estate (CRE) rates, GDP, corporate bond yield based on internal and external
+and interest rates historical data
+Consumer
+Home equity / •Unemployment rates, HPI and •Straight-line over 3 years •Modeled parameters using long-
+Residential real interest rates run economic conditions
+estate
+Automobile •Unemployment rates, HPI, •Straight-line over 1 year •Average parameters determined
+disposable personal income and based on internal historical data
+Manheim used car index
+Credit card •Unemployment rates, personal •Straight-line over 2 years •Modeled parameters using long-
+consumption expenditure and HPI run economic conditions
+Education / •Modeled using either discrete risk parameters or analytical approaches based on net charge-offs and paydown
+Other consumer rates
+After the forecast period, we revert to the long-run average over the reversion period noted above, which is the period between the end
+of the forecast period and when losses are estimated to have completely reverted to the long-run average.
+Once we have developed a combined estimate of credit losses (i.e., for the forecast period, reversion period and long-run average)
+under each of the forecasted scenarios, we produce a probability-weighted credit loss estimate. In addition, we add or deduct any
+qualitative components and other adjustments, such as individually assessed loans, to produce the ALLL. See the Individually
+Assessed Component and Qualitative Component discussions that follow in this Note 1 for additional information about those
+adjustments.
+Discounted Cash Flow
+Prior to January 1, 2023, we used a discounted cash flow methodology for our home equity and residential real estate loan classes, in
+addition to our TDR portfolios. We determined effective interest rates considering contractual cash flows adjusted for estimated
+prepayments. Changes in the ALLL due to the impact of the passage of time under the discounted cash flow estimate were recognized
+through the provision for credit losses.
+Effective January 1, 2023, we discontinued our use of a discounted cash flow methodology, and we now use a pooled expected loss
+methodology based upon the quantification of risk parameters, such as PD, LGD and EAD for a loan or loan segment.
+Individually Assessed Component
+Loans and leases that do not share similar risk characteristics with a pool of loans are individually assessed as follows:
+• For commercial nonperforming loans greater than or equal to a defined dollar threshold, reserves are based on an analysis of
+the present value of the loan’s expected future cash flows or the fair value of the collateral, if appropriate under our policy for
+collateral dependent loans. Nonperforming commercial loans below the defined threshold are reserved for under a pooled
+basis, as we believe these loans continue to share similar risk characteristics.
+• For consumer nonperforming loans classified as collateral dependent, charge-off and ALLL related to recovery of amounts
+previously charged off are evaluated through an analysis of the fair value of the collateral less costs to sell.
+Qualitative Component
+While our reserve models and methodologies strive to reflect all relevant expected credit risk factors, the ACL also accounts for
+factors that may not be directly measured in the determination of individually assessed or pooled reserves. Such qualitative factors
+may include, but are not limited to:
+• Industry concentrations and conditions,
+• Changes in market conditions, including regulatory and legal requirements,
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 101• Changes in the nature and volume of our portfolio,
+• Recent credit quality trends,
+• Recent loss experience in particular portfolios, including specific and unique events,
+• Recent macroeconomic factors that may not be reflected in the forecast information,
+• Limitations of available input data, including historical loss information and recent data such as collateral values,
+• Model imprecision and limitations,
+• Changes in lending policies and procedures, including changes in loss recognition and mitigation policies and procedures, and
+• Timing of available information.
+See Note 3 Loans and Related Allowance for Credit Losses for additional information about our loan portfolio and the related
+allowance.
+Accrued Interest
+When accrued interest is reversed or charged-off in a timely manner, the CECL standard provides a practical expedient to exclude
+accrued interest from ACL measurement. We consider our nonaccrual and charge-off policies to be timely for all of our investment
+securities, loans and leases, with the exception of consumer credit cards, education loans and certain unsecured consumer lines of
+credit. We consider the length of time before nonaccrual/charge-off and the use of appropriate other triggering events for nonaccrual
+and charge-offs in making this determination. Pursuant to these policy elections, we calculate reserves for accrued interest on credit
+cards, education loans and certain unsecured consumer lines of credit, which are then included within the ALLL. See the Debt
+Securities and the Nonperforming Loans and Leases sections of this Note 1 for additional information on our nonaccrual and charge-
+off policies.
+Pursuant to our use of a discounted cash flow methodology in estimating credit losses for our home equity and residential real estate
+loan classes prior to January 1, 2023, applicable reserves for accrued interest were also included within the ALLL for these loan
+classes.
+Purchased Credit Deteriorated Loans or Securities
+The allowance for PCD loans or securities is determined at the time of acquisition, as the estimated expected credit loss of the
+outstanding balance or par value, based on the methodologies described previously for loans and securities. In accordance with CECL,
+the allowance recognized at acquisition is added to the acquisition date purchase price to determine the asset’s amortized cost basis.
+Allowance for Unfunded Lending Related Commitments
+We maintain the allowance for unfunded lending related commitments on off-balance sheet credit exposures that are not
+unconditionally cancelable (e.g., unfunded loan commitments, letters of credit and certain financial guarantees), at a level we believe
+is appropriate as of the balance sheet date to absorb expected credit losses on these exposures. Other than the estimation of the
+probability of funding, this reserve is estimated in a manner similar to the methodology used for determining reserves for pooled loans
+and leases. See the Allowance for Loan and Lease Losses section of this Note 1 for the key credit risk characteristics for unfunded
+lending related commitments. The allowance for unfunded lending related commitments is recorded as a liability on the Consolidated
+Balance Sheet. Net adjustments to this reserve are included in the Provision for credit losses on the Consolidated Income Statement.
+See Note 3 Loans and Related Allowance for Credit Losses for additional information about this allowance.
+Allowance for Other Financial Assets
+We determine the allowance for other financial assets (e.g., trade receivables, servicing advances on PNC-owned loans and balances
+with banks) considering historical loss information and other available indicators. In certain cases where there are no historical, current
+or forecast indicators of an expected credit loss, we may estimate the reserve to be close to zero. As of December 31, 2023 and
+December 31, 2022 the allowance for other financial assets was immaterial.
+Loans Held for Sale
+We designate loans as held for sale when we have the intent and ability to sell them. At the time of designation to held for sale, any
+ACL is reversed, and a valuation allowance for the shortfall between the amortized cost basis and the net realizable value is
+recognized, excluding the amounts already charged off. Similarly, when loans are no longer considered held for sale, the valuation
+allowance (net of writedowns) is reversed, and an allowance for credit losses is established, excluding the amounts already charged-
+off. Write-downs on loans held for sale (if required) are recorded as charge-offs through the valuation allowance. Adjustments to the
+valuation allowance on held for sale loans are recognized in Other noninterest income.
+We have elected to account for certain commercial and residential mortgage loans held for sale at fair value. The changes in the fair
+value of commercial and residential mortgage loans are measured and recorded within Residential and Commercial mortgage within
+noninterest income each period. See Note 14 Fair Value for additional information.
+102 The PNC Financial Services Group, Inc. – 2023 Form 10-KInterest income with respect to loans held for sale is accrued based on the principal amount outstanding and the loan’s contractual
+interest rate.
+In certain circumstances, loans designated as held for sale may be transferred to held for investment based on a change in strategy. We
+transfer these loans at the lower of cost or estimated fair value; however, any loans originated or purchased for the held for sale
+portfolio and for which the fair value option has been elected remain at fair value for the life of the loan.
+Loan Sales, Loan Securitizations and Retained Interests
+We recognize the sale of loans or other financial assets when the transferred assets are legally isolated from our creditors and the
+appropriate accounting criteria are met. We have sold mortgage and other loans through securitization transactions. In a securitization,
+financial assets are transferred into trusts or to SPEs in transactions to effectively legally isolate the assets from us.
+In a securitization, the trust or SPE issues beneficial interests in the form of senior and subordinated securities backed or collateralized
+by the assets sold to the trust. The senior classes of the asset-backed securities typically receive investment grade credit ratings at the
+time of issuance. These ratings are generally achieved through the creation of lower-rated subordinated classes of asset-backed
+securities, as well as subordinated or residual interests. In certain cases, we may retain a portion or all of the securities issued, interest-
+only strips, one or more subordinated tranches, servicing rights and, in some cases, cash reserve accounts. If sale accounting is
+achieved, securitized loans are removed from the balance sheet and a net gain or loss is recognized in Noninterest income at the time
+of initial sale. Gains or losses recognized on the sale of the loans depend on the fair value of the loans sold and the retained interests at
+the date of sale. We generally estimate the fair value of the retained interests based on the present value of future expected cash flows
+using assumptions as to discount rates, interest rates, prepayment speeds, credit losses and servicing costs, if applicable.
+With the exception of loan sales to certain U.S. government-chartered entities, our loan sales and securitizations are generally
+structured without recourse to us except for representations and warranties and with no restrictions on the retained interests. We
+originate, sell and service commercial mortgage loans under the FNMA DUS program. Under the provisions of the DUS program, we
+participate in a loss-sharing arrangement with FNMA. When we are obligated for loss-sharing or recourse, our policy is to record such
+liabilities initially at fair value and subsequently reserve for estimated losses in accordance with guidance contained in applicable
+GAAP.
+Variable Interest Entities
+A VIE is a corporation, partnership, limited liability company, or any other legal structure used to conduct activities or hold assets
+generally that either:
+• Does not have equity investors with voting rights that can directly or indirectly make decisions about the entity’s most
+significant economic activities through those voting rights or similar rights, or
+• Has equity investors that do not provide sufficient equity for the entity to finance its activities without additional subordinated
+financial support.
+A VIE often holds financial assets, including loans or receivables, real estate or other property.
+VIEs are assessed for consolidation under ASC 810 – Consolidation when we hold a variable interest in these entities. We consolidate
+a VIE if we are its primary beneficiary. The primary beneficiary of a VIE is determined to be the party that meets both of the
+following criteria: (i) has the power to make decisions that most significantly affect the economic performance of the VIE; and (ii) has
+the obligation to absorb losses or the right to receive benefits that in either case could potentially be significant to the VIE. Upon
+consolidation of a VIE, we recognize all of the VIE’s assets, liabilities and noncontrolling interests on our Consolidated Balance
+Sheet. On a quarterly basis, we determine whether any changes occurred requiring a reassessment of whether we are the primary
+beneficiary of an entity.
+See Note 4 Loan Sale and Servicing Activities and Variable Interest Entities for information about VIEs that we consolidate as well as
+those that we do not consolidate but in which we hold a significant variable interest.
+Mortgage Servicing Rights
+We provide servicing under various loan servicing contracts for commercial and residential loans. These contracts are either purchased
+in the open market or retained as part of a loan securitization or loan sale. All acquired or originated servicing rights are initially
+measured at fair value. Fair value is based on the present value of the expected future net cash flows, including assumptions as to:
+• Deposit balances and interest rates for escrow and commercial reserve earnings,
+• Discount rates,
+• Estimated prepayment speeds, and
+• Estimated servicing costs.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 103We’ve elected to subsequently measure commercial and residential MSRs at fair value. We manage the risk of changes in fair value of
+MSRs by hedging the fair value with derivatives and securities which are expected to offset the change in fair value of the servicing
+rights. Changes in the fair value of MSRs are recognized as gains/(losses). The fair value of these servicing rights is estimated by
+using a discounted cash flow valuation model which calculates the present value of estimated future net servicing cash flows, taking
+into consideration actual and expected mortgage loan prepayment rates, discount rates, servicing costs and other factors which are
+determined based on current market conditions.
+See Note 5 Goodwill and Mortgage Servicing Rights and Note 14 Fair Value for additional information.
+Goodwill
+Goodwill arising from business acquisitions represents the value attributable to unidentifiable intangible elements in the business
+acquired. Goodwill is assigned at the reporting unit level on the acquisition date. A reporting unit is a business segment or
+one level below a business segment. At least annually, in the fourth quarter, management performs the goodwill impairment test at a
+reporting unit level. The goodwill impairment test may also be performed more frequently if events occur or circumstances have
+changed significantly from the annual test date, when such events or circumstances may indicate that it is more-likely-than-not that the
+fair value of a reporting unit is below its carrying value. Examples of events or circumstances that are considered for more frequent
+goodwill impairment testing include, but are not limited to, changes in macroeconomic conditions, industry and market considerations,
+and other relevant PNC or reporting unit specific events.
+When performing a goodwill impairment test, PNC may first perform a qualitative analysis to evaluate whether it is more-likely-than-
+not that the fair value of a reporting unit is less than its carrying amount. If, after considering all relevant events and circumstances,
+PNC determines it is not more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, then performing a
+quantitative impairment test is not necessary. If PNC elects to bypass the qualitative analysis, or concludes via qualitative analysis that
+it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, a quantitative goodwill impairment test
+is performed. Inputs are generated and used in calculating the fair value of the reporting unit, which is compared to its carrying
+amount. The fair value of our reporting units is determined by using discounted cash flows and/or market comparability
+methodologies. If the fair value is greater than the carrying amount, then the reporting unit’s goodwill is deemed not to be impaired. If
+the fair value is less than the carrying amount, an entity should recognize an impairment charge for the amount by which the carrying
+amount of goodwill exceeds the reporting unit’s fair value. The loss recognized should not exceed the total amount of goodwill
+allocated to that reporting unit and subsequent reversals of goodwill impairment are not permitted.
+See Note 5 Goodwill and Mortgage Servicing Rights for additional information.
+Leases
+Lessor Arrangements
+We provide financing for various types of equipment, including aircraft, energy and power systems and vehicles through a variety of
+lease arrangements. Finance leases are carried at the aggregate of lease payments plus estimated residual value of the leased
+equipment, less unearned income. Leveraged leases, a form of financing leases, are carried net of nonrecourse debt. We recognize
+income over the term of the lease using the constant effective yield method. Lease residual values are reviewed for impairment at least
+annually. Gains or losses on the sale of leased assets are included in Other noninterest income. Valuation adjustments on operating
+lease residuals are included in Other noninterest expense while valuation adjustments on the net investment of a direct financing or
+sales-type lease are included in Provision for credit losses.
+Lessee Arrangements
+We lease retail branches, datacenters, office space, land and equipment under operating and finance leases. Under ASC 842, we
+elected the practical expedient to account for the lease and nonlease components of real estate leases and leases of advertising assets,
+such as signage, as a single lease component. For other leased asset classes, lease and nonlease components of new lease agreements
+are accounted for separately. In addition, we elected the practical expedient to not apply the recognition requirements under the
+standard to short-term leases. Leases with an initial term of 12 months or less are not recorded on the balance sheet, as we recognize
+lease expense for these leases on a straight-line basis over the lease term. Generally, we have elected to use the Overnight Indexed
+Swap rate corresponding to the term of the lease at the lease measurement date as our incremental borrowing rate to measure the right-
+of-use-asset and lease liability.
+See Note 6 Leases for additional information on our leasing arrangements.
+Depreciation and Amortization
+For financial reporting purposes, we depreciate premises and equipment, net of salvage value, principally using the straight-line
+method over their estimated useful lives.
+104 The PNC Financial Services Group, Inc. – 2023 Form 10-KWe use estimated useful lives for furniture and equipment ranging from one to 10 years and depreciate buildings over an estimated
+useful life of up to 40 years. We amortize leasehold improvements over their estimated useful lives of up to 15 years or the respective
+lease terms, whichever is shorter.
+We purchase, as well as internally develop and customize, certain software to enhance or perform internal business functions.
+Software development costs incurred in the planning and post-development project stages are charged to Noninterest expense. Costs
+associated with designing software configuration and interfaces, installation, coding programs and testing systems are capitalized and
+amortized using the straight-line method over periods generally ranging from one to 10 years. Implementation costs of software
+hosting arrangements are capitalized and amortized over the contractual term of the associated arrangement, including extension
+options we are reasonably certain to exercise, on a straight-line basis.
+We review the remaining useful lives and carrying values of premises and equipment to determine whether an event has occurred that
+would indicate a change in useful life is warranted or if any impairment exists.
+Other Comprehensive Income
+Other comprehensive income, on an after-tax basis, primarily consists of unrealized gains or losses on available for sale debt
+securities, unrealized gains or losses on derivatives designated as cash flow hedges, and changes in plan assets and benefit obligations
+of pension and other postretirement benefit plans. Details of each component are included in Note 12 Other Comprehensive Income.
+Treasury Stock
+We record common stock purchased for treasury at cost. At the date of subsequent reissue, the treasury stock account is reduced by the
+cost of such stock on the first-in, first-out basis.
+Earnings Per Common Share
+Basic earnings per common share is calculated using the two-class method to determine income attributable to common shareholders.
+Unvested share-based payment awards that contain nonforfeitable rights to dividends or dividend equivalents are considered
+participating securities under the two-class method. Distributed dividends and dividend equivalents related to participating securities
+and an allocation of undistributed net income to participating securities reduce the amount of income attributable to common
+shareholders. In a period with a loss, no allocation will be made to the participating securities, as they do not have a contractual
+obligation to absorb losses. Income attributable to common shareholders is then divided by the weighted-average common shares
+outstanding for the period.
+Diluted earnings per common share is calculated under the more dilutive of either the treasury stock method or the two-class method.
+For the diluted calculation, we increase the weighted-average number of shares of common stock outstanding by the assumed
+conversion of outstanding convertible preferred stock from the beginning of the year or date of issuance, if later, and the number of
+shares of common stock that would be issued assuming the exercise of stock options and warrants and the issuance of incentive shares
+using the treasury stock method. These adjustments to the weighted-average number of shares of common stock outstanding are made
+only when such adjustments will dilute earnings per common share. For periods in which there is a loss from continuing operations,
+any potential dilutive shares will be anti-dilutive. In this scenario, no potential dilutive shares will be included in the continuing
+operations, discontinued operations or total earnings per common share calculations, even if overall net income is reported.
+See Note 13 Earnings Per Share for additional information.
+Fair Value of Financial Instruments
+The fair value of financial instruments and the methods and assumptions used in estimating fair value amounts and financial assets and
+liabilities for which fair value was elected are detailed in Note 14 Fair Value.
+Derivative Instruments and Hedging Activities
+We use a variety of financial derivatives to both mitigate exposure to market (primarily interest rate) and credit risks inherent in our
+business activities, as well as to facilitate customer risk management activities. We manage these risks as part of our asset and liability
+management process and through credit policies and procedures.
+We recognize all derivative instruments at fair value as either Other assets or Other liabilities on the Consolidated Balance Sheet and
+the related cash flows in the Operating Activities section of the Consolidated Statement of Cash Flows. Adjustments for counterparty
+credit risk are included in the determination of fair value. The accounting for changes in the fair value of a derivative instrument
+depends on whether it has been designated and qualifies as part of a cash flow or net investment hedging relationship. For all other
+derivatives, changes in fair value are recognized in earnings.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 105We utilize a net presentation for derivative instruments on the Consolidated Balance Sheet taking into consideration the effects of
+legally enforceable master netting agreements. Cash collateral exchanged with counterparties is also netted against the applicable
+derivative exposures by offsetting obligations to return, or general rights to reclaim, cash collateral against the fair values of the net
+derivatives being collateralized.
+For those derivative instruments that are designated and qualify as accounting hedges, we designate the hedging instrument, based on
+the exposure being hedged, as a fair value hedge, a cash flow hedge or a hedge of the net investment in a foreign operation.
+We formally document the relationship between the hedging instruments and hedged items, as well as the risk management objective
+and strategy, before undertaking an accounting hedge. To qualify for hedge accounting, the derivatives and related hedged items must
+be designated as a hedge at inception of the hedge relationship. In addition, a derivative must be highly effective at reducing the risk
+associated with the exposure being hedged. For accounting hedge relationships, we formally assess, both at the inception of the hedge
+and on an ongoing basis, if the derivatives are highly effective in offsetting designated changes in the fair value or cash flows of the
+hedged item. If it is determined that the derivative instrument is not highly effective, hedge accounting is discontinued. We assess
+effectiveness using statistical regression analysis. Where the critical terms of the derivative and hedged item match, effectiveness may
+be assessed qualitatively.
+For derivatives that are designated as fair value hedges (i.e., hedging the exposure to changes in the fair value of an asset or a liability
+attributable to a particular risk, such as changes in benchmark interest rates), changes in the fair value of the hedging instrument are
+recognized in earnings and offset by also recognizing in earnings the changes in the fair value of the hedged item attributable to the
+hedged risk. To the extent the change in fair value of the derivative does not offset the change in fair value of the hedged item, the
+difference is reflected in the Consolidated Income Statement in the same income statement line as the hedged item.
+For derivatives designated as cash flow hedges (i.e., hedging the exposure to variability in expected future cash flows), the gain or loss
+on derivatives is reported as a component of AOCI and subsequently reclassified to income in the same period or periods during which
+the hedged cash flows affect earnings and recorded in the same income statement line item as the hedged cash flows. For derivatives
+designated as a hedge of net investment in a foreign operation, the gain or loss on the derivatives is reported as a component of AOCI.
+We discontinue hedge accounting when it is determined that the derivative no longer qualifies as an effective hedge; the derivative
+expires or is sold, terminated or exercised; or the derivative is de-designated as a fair value or cash flow hedge or, for a cash flow
+hedge, it is no longer probable that the forecasted transaction will occur by the end of the originally specified time period.
+We purchase or originate financial instruments that contain an embedded derivative. For financial instruments not measured at fair
+value with changes in fair value reported in earnings, we assess, at inception of the transaction, if the economic characteristics of the
+embedded derivative are clearly and closely related to the economic characteristics of the host contract, and whether a separate
+instrument with the same terms as the embedded derivative would be a derivative. If the embedded derivative is not clearly and closely
+related to the host contract and meets the definition of a derivative, the embedded derivative is recorded separately from the host
+contract with changes in fair value recorded in earnings, unless we elect to account for the hybrid instrument at fair value.
+We enter into commitments to originate residential and commercial mortgage loans for sale. We also enter into commitments to
+purchase or sell commercial and residential real estate loans. These commitments are accounted for as free-standing derivatives which
+are recorded at fair value in Other assets or Other liabilities on the Consolidated Balance Sheet. Any gain or loss from the change in
+fair value after the inception of the commitment is recognized in Noninterest income.
+See Note 15 Financial Derivatives for additional information.
+Income Taxes
+We account for income taxes under the asset and liability method. Deferred tax assets and liabilities are determined based on
+differences between the financial reporting and tax bases of assets and liabilities and are measured using the enacted tax rates and laws
+that we expect will apply at the time when we believe the differences will reverse. Changes in tax rates and tax law are accounted for
+in the period of enactment. Thus, at the enactment date, deferred taxes are remeasured and the change is recognized in Income tax
+expense. The recognition of deferred tax assets requires an assessment to determine the realization of such assets. Realization refers to
+the incremental benefit achieved through the reduction in future taxes payable or refunds receivable from the deferred tax assets,
+assuming that the underlying deductible differences and carryforwards are the last items to enter into the determination of future
+taxable income. We establish a valuation allowance for tax assets when it is more likely than not that they will not be realized, based
+upon all available positive and negative evidence.
+We have elected to apply the proportional amortization method to our qualifying LIHTC and NMTC equity investments. Investment
+tax credits and investment impairment are recognized in tax expense for any individual LIHTC and NMTC equity investment for
+which we can demonstrate that the investment was made primarily for the purpose of receiving income tax credits and other income
+106 The PNC Financial Services Group, Inc. – 2023 Form 10-Ktax benefits. We use the deferral method of accounting for all investment tax credit equity investments. Under this method, the
+investment tax credits are recognized as a reduction to the related asset.
+See Note 18 Income Taxes for additional information.
+Revenue Recognition
+We earn interest and noninterest income from various sources, including:
+• Lending,
+• Securities portfolio,
+• Asset management,
+• Loan sales, loan securitizations and servicing,
+• Brokerage services,
+• Sale of loans and securities,
+• Certain private equity activities, and
+• Securities, derivatives and foreign exchange activities.
+In addition, we earn fees and commissions from:
+• Issuing loan commitments, standby letters of credit and financial guarantees,
+• Deposit account services,
+• Merchant services,
+• Selling various insurance products,
+• Providing treasury management services including money transfer services,
+• Providing merger and acquisition advisory and related services,
+• Debit and credit card transactions, and
+• Facilitating and participating in certain capital markets transactions.
+Service charges on deposit accounts are recognized when earned. Brokerage fees and gains and losses on the sale of securities and
+certain derivatives are recognized on a trade-date basis.
+We record private equity income or loss based on changes in the valuation of the underlying investments or when we dispose of our
+interest.
+We recognize gain/(loss) on changes in the fair value of certain financial instruments where we have elected the fair value option.
+These financial instruments include certain commercial and residential mortgage loans originated for sale, certain residential mortgage
+portfolio loans and resale agreements. We also recognize gain/(loss) on changes in the fair value of residential and commercial MSRs.
+We recognize revenue from servicing residential and commercial mortgages for others as earned based on the specific contractual
+terms. These revenues are reported on the Consolidated Income Statement in the line item Residential and commercial mortgage. We
+recognize revenue from securities, derivatives and foreign exchange customer-related trading, as well as securities underwriting
+activities, as these transactions occur or as services are provided. We generally recognize gains from the sale of loans upon meeting
+the derecognition criteria for transfers of financial assets. Mortgage revenue recognized is reported net of mortgage repurchase
+reserves.
+For the fee-based revenue within the scope of ASC Topic 606 - Revenue from Contracts with Customers, revenue is recognized when
+or as those services are transferred to the customer. See Note 23 Fee-based Revenue from Contracts with Customers for additional
+information related to revenue within the scope of ASC Topic 606.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 107Recently Adopted Accounting Standards
+Accounting Standards
+Update Description Financial Statement Impact
+Reference Rate • Provides optional expedients and exceptions for applying • ASU 2020-04 was adopted March 12, 2020. ASU 2021-01
+Reform - ASU generally accepted accounting principles to contracts, was retrospectively adopted October 1, 2020. ASU
+2020-04
+hedging relationships and other transactions that 2022-06 was adopted upon issuance.
+Issued March 2020 reference LIBOR or another reference rate expected to • During the fourth quarter of 2020, we elected to apply
+be discontinued because of reference rate reform certain optional expedients for contract modifications and
+Reference Rate (codified in ASC 848). hedging relationships to derivative instruments impacted
+Reform Scope - ASU • Includes optional expedients related to contract by the market-wide discounting transition. These optional
+2021-01
+modifications that allow an entity to account for expedients remove the requirement to remeasure contract
+Issued January 2021 modifications (if certain criteria are met) as if the modifications or dedesignate hedging relationships due to
+modifications were only minor (assets within the scope reference rate reform. The elections made in the fourth
+Reference Rate of ASC 310, Receivables), were not substantial (assets quarter of 2020 apply only to derivative instruments
+Reform Deferral of within the scope of ASC 470, Debt) and/or did not impacted by the market-wide discounting transition, not
+Sunset Date – ASU
+2022-06 result in remeasurements or reclassifications (assets all derivative instruments.
+within the scope of ASC 842, Leases, and other
+• During the first quarter of 2021, we elected to apply certain
+Issued December 2022 Topics) of the existing contract.
+optional expedients to derivative instruments that were
+• Includes optional expedients related to hedging
+modified in the first quarter due to the adoption of
+relationships within the scope of ASC 815, Derivatives
+fallback language recommended by the ISDA to address
+& Hedging, whereby changes to the critical terms of a
+the anticipated cessation of LIBOR. These optional
+hedging relationship do not require dedesignation if
+expedients remove the requirement to remeasure contract
+certain criteria are met. In addition, potential sources of
+modifications or dedesignate hedging relationships due to
+ineffectiveness as a result of reference rate reform may
+reference rate reform. We applied these optional
+be disregarded when performing some effectiveness
+expedients consistently to all eligible LIBOR cessation-
+assessments.
+related contract modifications and hedging relationships
+• Includes optional expedients and exceptions for contract
+since election.
+modifications and hedge accounting that apply to
+derivative instruments impacted by the market-wide • During the fourth quarter of 2021, we elected to apply
+discounting transition. certain optional expedients for contract modifications to
+• Guidance in these ASUs is effective as of March 12, 2020 receivables modified in the fourth quarter due to the
+through December 31, 2024. cessation of 1-week and 2-month USD LIBOR tenors and
+non-USD Interbank Offered Rates. These optional
+expedients remove the requirement to assess whether the
+contract modification was more-than-minor in accordance
+with ASC 310. We also elected to apply certain optional
+expedients related to assessing hedge effectiveness to our
+cash flow hedge relationships affected by reference rate
+reform. We applied these optional expedients consistently
+to all eligible LIBOR cessation-related contract
+modifications and hedging relationships since election.
+• During the second quarter of 2023, we elected and applied
+certain optional expedients for contract modifications and
+hedging relationships impacted by the central clearing
+counterparties conversion processes for LIBOR-indexed
+derivative instruments. These optional expedients remove
+the requirement to remeasure contract modifications or
+dedesignate hedging relationships due to reference rate
+reform. The elections made apply only to derivatives
+instruments impacted by the central clearinghouse
+conversion process.
+• During the second quarter of 2023, we applied certain
+optional expedients for investment security, debt and
+preferred stock instrument contract modifications
+impacted by LIBOR cessation. These optional expedients
+remove the requirement to remeasure contract
+modifications.
+• We may elect additional optional expedients for contract
+modifications and hedge relationships affected by
+reference rate reform through the effective date of this
+guidance.
+108 The PNC Financial Services Group, Inc. – 2023 Form 10-KAccounting Standards
+Update Description Financial Statement Impact
+Troubled Debt • Eliminates the accounting guidance for TDRs and • Adopted January 1, 2023 using a modified retrospective
+Restructurings and requires an entity to apply the loan refinancing and transition approach for the amendments related to the
+Vintage Disclosures - restructuring guidance to determine whether a recognition and measurement of TDRs.
+ASU 2022-02
+modification results in a new loan or a continuation of • The impact of adoption resulted in a decrease to the
+Issued March 2022 an existing loan. beginning period ALLL of $35 million, resulting in an
+increase to retained earnings of $26 million, net of tax, as
+• Eliminates the requirement to use a discounted cash flow
+of January 1, 2023.
+approach to measure the allowance for credit losses for
+• The presentation of our loan modification disclosures have
+TDRs.
+been updated to reflect information on loan modifications
+• Enhances disclosure requirements for certain loan given to borrowers experiencing financial difficulty and
+refinancings and restructurings by creditors when a can be found within Note 3 Loans and Related Allowance
+borrower is experiencing financial difficulty. for Credit Losses. TDR disclosures are presented for
+comparative periods only and are not required to be
+• Requires disclosure of current-period gross charge-offs
+updated in current periods. Additionally, our vintage
+by year of origination for financing receivables and net
+disclosure has been updated to reflect gross charge-offs by
+investments in leases within the scope of CECL.
+year of origination.
+Accounting Standards
+Update Description Financial Statement Impact
+Accounting for • Permits reporting entities to elect to account for their tax • Early adopted September 30, 2023, using a modified
+Investments in Tax equity investments, regardless of the tax credit program retrospective transition approach for the amendments
+Credit Structures from which the income tax credits are received, using related to our tax credit programs that are eligible to apply
+Using the the proportional amortization method if certain proportional amortization. The cumulative effect to
+Proportional conditions are met. retained earnings as of January 1, 2023 was immaterial.
+Amortization Method • A reporting entity makes an accounting policy election to • At adoption, we elected to apply the proportional
+– ASU 2023-02 apply the proportional amortization method on a tax- amortization method to all qualifying investments in the
+credit-program-by-tax-credit-program basis rather than NMTC program. PNC historically applied proportional
+Issued March 2023 electing to apply the proportional amortization method amortization to LIHTC investments since applying ASU
+at the reporting entity level or to individual 2014-01.
+investments.
+• See Note 4 Loan Sale and Servicing Activities and Variable
+Interest Entities for the impact of adoption.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 109 
+NOTE 14 FAIR VALUE
+Fair Value Measurement
+We measure certain financial assets and liabilities at fair value. Fair value is defined as the price that would be received to sell an asset
+or the price that would be paid to transfer a liability on the measurement date and is determined using an exit price in the principal or
+most advantageous market for the asset or liability in an orderly transaction between market participants. The fair value hierarchy
+established by GAAP requires us to maximize the use of observable inputs when measuring fair value. The three levels of the fair
+value hierarchy are:
+• Level 1: Fair value is determined using a quoted price in an active market for identical assets or liabilities. Level 1 assets and
+liabilities may include debt securities, equity securities and listed derivative contracts that are traded in an active exchange
+market, and certain U.S. Treasury securities that are actively traded in over-the-counter markets.
+• Level 2: Fair value is estimated using inputs other than quoted prices included within Level 1 that are observable for assets or
+liabilities, either directly or indirectly. The majority of Level 2 assets and liabilities include debt securities and listed
+derivative contracts with quoted prices that are traded in markets that are not active, and certain debt and equity securities and
+over-the-counter derivative contracts whose fair value is determined using a pricing model without significant unobservable
+inputs.
+• Level 3: Fair value is estimated using unobservable inputs that are significant to the fair value of the assets or liabilities.
+Level 3 assets and liabilities include financial instruments whose value is determined using pricing models and discounted
+cash flow methodologies, or similar techniques for which the significant valuation inputs are not observable and the
+determination of fair value requires significant management judgment or estimation.
+We characterize active markets as those where transaction volumes are sufficient to provide objective pricing information, with
+reasonably narrow bid/ask spreads, and where dealer quotes received do not vary widely and are based on current information.
+Inactive markets are typically characterized by low transaction volumes, price quotations that vary substantially among market
+participants or are not based on current information, wide bid/ask spreads, a significant increase in implied liquidity risk premiums,
+yields, or performance indicators for observed transactions or quoted prices compared to historical periods, a significant decline or
+absence of a market for new issuance, or any combination of the above factors. We also consider nonperformance risks, including
+credit risk, as part of our valuation methodology for all assets and liabilities measured at fair value.
+Assets and liabilities measured at fair value, by their nature, result in a higher degree of financial statement volatility. Assets and
+liabilities classified within Level 3 inherently require the use of various assumptions, estimates and judgments when measuring their
+fair value. As observable market activity is commonly not available to use when estimating the fair value of Level 3 assets and
+liabilities, we must estimate fair value using various modeling techniques. These techniques include the use of a variety of inputs/
+assumptions including credit quality, liquidity, interest rates or other relevant inputs across the entire population of our Level 3 assets
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 141and liabilities. Changes in the significant underlying factors or assumptions (either an increase or a decrease) in any of these areas
+underlying our estimates may have resulted in a significant increase/decrease in the Level 3 fair value measurement of a particular
+asset and/or liability from period to period.
+Any models used to determine fair values or to validate dealer quotes are subject to review and independent testing as part of our
+model validation and internal control testing processes. Our Model Risk Management Group reviews significant models on at least an
+annual basis. In addition, the Valuation Committee approves valuation methodologies and reviews the results of independent valuation
+reviews and processes for assets and liabilities measured at fair value on a recurring basis.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+Residential Mortgage Loans Held for Sale
+We account for certain residential mortgage loans originated for sale at fair value on a recurring basis. The election of the fair value
+option aligns the accounting for the residential mortgages with the related hedges. Residential mortgage loans are valued based on
+quoted market prices, where available, prices for other traded mortgage loans with similar characteristics, and purchase commitments
+and bid information received from market participants. The prices are adjusted as necessary to include the embedded servicing value
+in the loans and to take into consideration the specific characteristics of certain loans that are priced based on the pricing of similar
+loans. These adjustments represent unobservable inputs to the valuation but are not considered significant given the relative
+insensitivity of the value to changes in these inputs to the fair value of the loans. Accordingly, the majority of residential mortgage
+loans held for sale are classified as Level 2.
+Commercial Mortgage Loans Held for Sale
+We account for certain commercial mortgage loans classified as held for sale in whole loan transactions at fair value. We determine
+the fair value of commercial mortgage loans held for sale based upon discounted cash flows. Fair value is determined using sale
+valuation assumptions that management believes a market participant would use in pricing the loans.
+For loans to be sold to agencies with servicing retained, the fair value is adjusted for the estimated servicing cash flows, which is an
+unobservable input. This adjustment is not considered significant given the relative insensitivity of the value to changes in the input to
+the fair value of the loans. Accordingly, commercial mortgage loans held for sale to agencies are classified as Level 2.
+Valuation assumptions may include observable inputs based on the benchmark interest rate swap curve, whole loan sales and agency
+sales transactions. The significant unobservable input for commercial mortgage loans held for sale, excluding those to be sold to
+agencies, is management’s assumption of the spread applied to the benchmark rate. The spread over the benchmark curve includes
+management’s assumptions of the impact of credit and liquidity risk. Significant increases (decreases) in the spread applied to the
+benchmark would have resulted in a significantly lower (higher) asset value. The wide range of the spread over the benchmark curve is
+due to the varying risk and underlying property characteristics within our portfolio. Based on the significance of the unobservable
+input, we classified this portfolio as Level 3.
+Securities Available for Sale and Trading Securities
+Securities accounted for at fair value include both the available for sale and trading portfolios. We primarily use prices obtained from
+pricing services, dealer quotes or recent trades to determine the fair value of securities. The majority of securities were priced by third-
+party vendors. The third-party vendors use a variety of methods when pricing securities that incorporate relevant market data to arrive
+at an estimate of what a buyer in the marketplace would pay for a security under current market conditions. We monitor and validate
+the reliability of vendor pricing on an ongoing basis through pricing methodology reviews, including detailed reviews of the
+assumptions and inputs used by the vendor to price individual securities, and through price validation testing. Securities not priced by
+one of our pricing vendors may be valued using a dealer quote, which are also subject to price validation testing. Price validation
+testing is performed independent of the risk-taking function and involves corroborating the prices received from third-party vendors
+and dealers with prices from another third party or through other sources, such as internal valuations or sales of similar securities.
+Security prices are also validated through actual cash settlement upon sale of a security.
+Securities are classified within the fair value hierarchy after considering the activity level in the market for the security type and the
+observability of the inputs used to determine the fair value. When a quoted price in an active market exists for the identical security,
+this price is used to determine fair value and the security is classified within Level 1 of the hierarchy. Level 1 securities include U.S.
+Treasury securities.
+When a quoted price in an active market for the identical security is not available, fair value is estimated using either an alternative
+market approach, such as a recent trade or matrix pricing, or an income approach, such as a discounted cash flow pricing model. If the
+inputs to the valuation are based primarily on market observable information, then the security is classified within Level 2 of the
+hierarchy. Level 2 securities include agency debt securities, agency residential mortgage-backed securities, agency and non-agency
+commercial mortgage-backed securities, certain non-agency residential mortgage-backed securities, asset-backed securities
+142 The PNC Financial Services Group, Inc. – 2023 Form 10-Kcollateralized by non-mortgage-related corporate and consumer loans, and other debt securities. Level 2 securities are predominantly
+priced by third parties, either by a pricing vendor or dealer.
+In certain cases where there is limited activity or less transparency around the inputs to the valuation, securities are classified within
+Level 3 of the hierarchy. Securities classified as Level 3 consist primarily of non-agency residential mortgage-backed and asset-
+backed securities collateralized by first- and second-lien residential mortgage loans. Fair value for these securities is primarily
+estimated using pricing obtained from third-party vendors. In some cases, fair value is estimated using a dealer quote, by reference to
+prices of securities of a similar vintage and collateral type or by reference to recent sales of similar securities. Market activity for these
+security types is limited with little price transparency. As a result, these securities are generally valued by the third-party vendor using
+a discounted cash flow approach that incorporates significant unobservable inputs and observable market activity where available.
+Significant inputs to the valuation include prepayment projections and credit loss assumptions (default rate and loss severity) and
+discount rates that are deemed representative of current market conditions. Significant increases (decreases) in any of those
+assumptions in isolation would have resulted in a significantly lower (higher) fair value measurement.
+Certain infrequently traded debt securities within other debt securities available for sale and trading securities are also classified in
+Level 3 and are included in the Insignificant Level 3 assets, net of liabilities line item in Table 80. The significant unobservable inputs
+used to estimate the fair value of these securities include an estimate of expected credit losses and a discount for liquidity risk. These
+inputs are incorporated into the fair value measurement by either increasing the spread over the benchmark curve or by applying a
+credit and liquidity discount to the par value of the security. Significant increases (decreases) in credit and/or liquidity risk could have
+resulted in a significantly lower (higher) fair value estimate.
+Loans
+Loans accounted for at fair value consist primarily of residential mortgage loans. These loans are generally valued similarly to
+residential mortgage loans held for sale and are classified as Level 2. However, similar to residential mortgage loans held for sale, if
+these loans are repurchased and unsalable, they are classified as Level 3. In addition, repurchased VA loans, where only a portion of
+the principal will be reimbursed, are classified as Level 3. The fair value is determined using a discounted cash flow calculation based
+on our historical loss rate. We have elected to account for certain home equity lines of credit at fair value. These loans are classified as
+Level 3. Significant inputs to the valuation of these loans include credit and liquidity discount, cumulative default rate, loss severity
+and gross discount rate and are deemed representative of current market conditions. Significant increases (decreases) in any of these
+assumptions would have resulted in a significantly lower (higher) fair value measurement.
+Equity Investments
+Equity investments includes money market mutual funds as well as direct and indirect private equity investments. Money market
+mutual funds are valued based on quoted prices in active markets for identical securities and classified within Level 1 of the hierarchy.
+The valuation of direct and indirect private equity investments requires significant management judgment due to the absence of quoted
+market prices, inherent lack of liquidity and the long-term nature of such investments. Various valuation techniques are used for direct
+investments, including multiples of adjusted earnings of the entity, independent appraisals, anticipated financing and sale transactions
+with third parties, or the pricing used to value the entity in a recent financing transaction. A multiple of adjusted earnings calculation is
+the valuation technique utilized most frequently and is the most significant unobservable input used in such calculation. Significant
+decreases (increases) in the multiple of earnings could have resulted in a significantly lower (higher) fair value measurement.
+Generally, direct equity investments are classified as Level 3.
+Indirect investments are not redeemable; however, we receive distributions over the life of the partnerships from liquidation of the
+underlying investments by the investee, which we expect to occur over the next 12 years. We value indirect investments in private
+equity funds using the NAV practical expedient as provided in the financial statements that we receive from fund managers. Due to the
+time lag in our receipt of the financial information and based on a review of investments and valuation techniques applied, adjustments
+to the manager-provided value are made when available recent portfolio company information or market information indicates a
+significant change in value from that provided by the manager of the fund. Indirect investments valued using NAV are not classified in
+the fair value hierarchy.
+Mortgage Servicing Rights (MSRs)
+MSRs are carried at fair value on a recurring basis. Assumptions incorporated into the MSRs valuation model reflect management’s
+best estimate of factors that a market participant would use in valuing the MSRs. Although sales of MSRs do occur and can offer some
+market insight, MSRs do not trade in an active, open market with readily observable prices so the precise terms and conditions of sales
+are not available.
+Residential MSRs
+The fair value of residential MSRs is estimated by using a discounted cash flow model incorporating unobservable inputs for
+assumptions such as constant prepayment rates, spread over the benchmark curve, and other factors. Due to the nature of the
+unobservable valuation inputs, residential MSRs are classified as Level 3. The significant unobservable inputs used in the fair value
+measurement of residential MSRs are constant prepayment rates and spread over the benchmark curve. Significant increases
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 143(decreases) in prepayment rates and spread over the benchmark curve would have resulted in lower (higher) fair market value of
+residential MSRs.
+As a benchmark for the reasonableness of our residential MSRs fair value, we obtained opinions of value from independent brokers.
+These brokers provided a range (+/-10 bps) based upon their own discounted cash flow calculations of our portfolio that reflect
+conditions in the secondary market and any recently executed servicing transactions. We compare our internally-developed residential
+MSRs value to the ranges of values received from the brokers. If our residential MSRs fair value falls outside of the brokers’ ranges,
+management will assess whether a valuation adjustment is warranted. For the periods presented, our residential MSRs value did not
+fall outside of the brokers’ ranges.
+Commercial MSRs
+The fair value of commercial MSRs is estimated by using a discounted cash flow model incorporating unobservable inputs for
+assumptions such as constant prepayment rates, discount rates and other factors. Due to the nature of the unobservable valuation inputs
+and the limited availability of market pricing, commercial MSRs are classified as Level 3. Significant increases (decreases) in constant
+prepayment rates and discount rates would have resulted in significantly lower (higher) commercial MSR value determined based on
+current market conditions and expectations.
+Financial Derivatives
+Exchange-traded derivatives are valued using quoted market prices and are classified as Level 1. The majority of derivatives that we
+enter into are executed over-the-counter and are valued using internal models. These derivatives are primarily classified as Level 2, as
+the readily observable market inputs to these models are validated to external sources, such as industry pricing services, or are
+corroborated through recent trades, dealer quotes, yield curves, implied volatility or other market-related data. Level 2 financial
+derivatives are primarily estimated using observable benchmark interest rate swaps to construct projected discounted cash flows.
+Financial derivatives that are priced using significant management judgment or assumptions are classified as Level 3. Unobservable
+inputs related to interest rate contracts include probability of funding of residential mortgage loan commitments and estimated
+servicing cash flows of commercial and residential mortgage loan commitments. Probability of default and loss severity are the
+significant unobservable inputs used in the valuation of risk participation agreements. The fair values of Level 3 assets and liabilities
+related to these interest rate contract financial derivatives as of December 31, 2023 and 2022 are included in the Insignificant Level 3
+assets, net of liabilities line item in Table 80 of this Note 14.
+In connection with the sales of portions of our Visa Class B common shares, we entered into swap agreements with the purchasers of
+those shares to retain any future risk of decreases in the conversion rate of Class B common shares to Class A common shares
+resulting from increases in the escrow funded by Visa to pay for the costs of resolution of the pending interchange litigation (see
+Note 20 Legal Proceedings). These swaps also require PNC to make periodic payments based on the market price of the Class A
+common shares at a fixed rate of interest (in certain cases subject to step-up provisions) until the Visa litigation is resolved. An
+increase in the estimated length of litigation resolution date, a decrease in the estimated conversion rate or an increase in the estimated
+growth rate of the Class A share price would have had a negative impact on the fair value of the swaps and vice versa.
+The fair values of our derivatives include a credit valuation adjustment to reflect our own and our counterparties’ nonperformance risk.
+Our credit valuation adjustment is computed using credit default swap spreads, in conjunction with internal historical recovery
+observations.
+Other Assets and Liabilities
+Other assets held at fair value on a recurring basis primarily include assets related to PNC’s deferred compensation and supplemental
+incentive savings plans.
+The assets related to PNC’s deferred compensation and supplemental incentive savings plans primarily consist of a prepaid forward
+contract referencing an amount of shares of PNC stock, equity mutual funds and fixed income funds, and are valued based on the
+underlying investments. These assets are valued either by reference to the market price of PNC’s stock or by using the quoted market
+prices for investments other than PNC’s stock and are included in Levels 1 and 2.
+All Level 3 other assets and liabilities are included in the Insignificant Level 3 assets, net of liabilities line item in Table 80 in this
+Note 14.
+Other Borrowed Funds
+Other borrowed funds primarily consist of U.S. Treasury securities sold short which are classified as Level 1. Other borrowed funds
+also includes the related liability for certain repurchased loans for which we have elected the fair value option and are classified as
+either Level 2 or Level 3, consistent with the level classification of the corresponding loans. All Level 3 amounts are included in the
+Insignificant Level 3 assets, net of liabilities line item in Table 80 in this Note 14.
+144 The PNC Financial Services Group, Inc. – 2023 Form 10-KThe following table summarizes our assets and liabilities measured at fair value on a recurring basis, including instruments for which
+we have elected the fair value option:
+Table 78: Fair Value Measurements – Recurring Basis Summary
+December 31, 2023 December 31, 2022
+Total Total
+In millions Level 1 Level 2 Level 3 Fair Value Level 1 Level 2 Level 3 Fair Value
+Assets
+Residential mortgage loans held for sale $ 371 $ 103 $ 474 $ 411 $ 243 $ 654
+Commercial mortgage loans held for sale 227 11 238 243 33 276
+Securities available for sale
+U.S. Treasury and government agencies $ 6,292 659 6,951 $ 8,108 262 8,370
+Residential mortgage-backed
+Agency 27,880 27,880 28,823 28,823
+Non-agency 696 696 819 819
+Commercial mortgage-backed
+Agency 1,546 1,546 1,675 1,675
+Non-agency 766 103 869 1,253 3 1,256
+Asset-backed 1,014 102 1,116 5 124 129
+Other 2,672 55 2,727 3,032 55 3,087
+Total securities available for sale 6,292 34,537 956 41,785 8,108 35,050 1,001 44,159
+Loans 512 726 1,238 541 769 1,310
+Equity investments (a) 574 1,952 2,717 1,173 1,778 3,147
+Residential mortgage servicing rights 2,654 2,654 2,310 2,310
+Commercial mortgage servicing rights 1,032 1,032 1,113 1,113
+Trading securities (b) 377 2,422 2,799 798 1,168 1,966
+Financial derivatives (b) (c) 29 3,394 6 3,429 16 3,747 5 3,768
+Other assets 403 85 8 496 352 80 432
+Total assets (d) $ 7,675 $ 41,548 $ 7,448 $ 56,862 $ 10,447 $ 41,240 $ 7,252 $ 59,135
+Liabilities
+Other borrowed funds $ 724 $ 84 $ 9 $ 817 $ 1,230 $ 232 $ 4 $ 1,466
+Financial derivatives (c) (e) 11 5,736 152 5,899 4 7,491 123 7,618
+Other liabilities 237 237 294 294
+Total liabilities (f) $ 735 $ 5,820 $ 398 $ 6,953 $ 1,234 $ 7,723 $ 421 $ 9,378
+(a) Certain investments that are measured at fair value using the NAV per share (or its equivalent) practical expedient have not been classified in the fair value hierarchy.
+(b) Included in Other assets on the Consolidated Balance Sheet.
+(c) Amounts at December 31, 2023 and 2022 are presented gross and are not reduced by the impact of legally enforceable master netting agreements that allow us to net positive
+and negative positions and cash collateral held or placed with the same counterparty. See Note 15 Financial Derivatives for additional information related to derivative
+offsetting.
+(d) Total assets at fair value as a percentage of total consolidated assets was 10% and 11% at December 31, 2023 and 2022, respectively. Level 3 assets as a percentage of total
+assets at fair value was 13% and 12% as of December 31, 2023 and 2022, respectively. Level 3 assets as a percentage of total consolidated assets was 1% at both
+December 31, 2023 and 2022.
+(e) Included in Other liabilities on the Consolidated Balance Sheet.
+(f) Total liabilities at fair value as a percentage of total consolidated liabilities was 1% and 2% at December 31, 2023 and 2022, respectively. Level 3 liabilities as a percentage
+of total liabilities at fair value was 6% and 4% as of December 31, 2023 and 2022, respectively. Level 3 liabilities as a percentage of total consolidated liabilities was less
+than 1% at both December 31, 2023 and 2022.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 145Reconciliations of assets and liabilities measured at fair value on a recurring basis using Level 3 inputs for 2023 and 2022 are as
+follows:
+Table 79: Reconciliation of Level 3 Assets and Liabilities
+Year Ended December 31, 2023
+Total realized / unrealized
+Unrealized
+gains or losses for the
+gains / losses for the
+period (a)
+period
+on assets and
+Fair Included Fair liabilities held on
+Value in Other Transfers Transfers Value Consolidated
+Level 3 Instruments Only Dec. 31, Included in comprehensive into out of Dec. 31, Balance Sheet at
+In millions 2022 Earnings income (b) Purchases Sales Issuances Settlements Level 3 Level 3 2023 Dec. 31, 2023 (a) (c)
+Assets
+Residential mortgage
+loans held for sale $ 243 $ 1 $ 15 $ (131) $ (10) $ 7 $ (22) (d) $ 103 $ 1
+Commercial mortgage
+loans held for sale 33 1 (23) 11
+Securities available for sale
+Residential mortgage-
+backed non-agency 819 15 $ (11) (127) 696
+Commercial mortgage-
+backed non-agency 3 8 92 103
+Asset-backed 124 1 (1) (22) 102
+Other 55 (1) (3) 6 (5) 3 55
+Total securities
+available for sale 1,001 15 (7) 6 (154) 95 956
+Loans 769 15 47 (2) (98) 21 (26) (d) 726 15
+Equity investments 1,778 140 768 (600) (134) (e) 1,952 92
+Residential mortgage
+servicing rights 2,310 115 444 (1) $ 23 (237) 2,654 115
+Commercial mortgage
+servicing rights 1,113 157 44 50 (332) 1,032 157
+Financial derivatives 5 19 4 (22) 6 24
+Other assets 1 7 8
+Total assets $ 7,252 $ 464 $ (7) $ 1,335 $ (734) $ 73 $ (876) $ 123 $ (182) $ 7,448 $ 404
+Liabilities
+Other borrowed funds $ 4 $ 13 $ (8) $ 9
+Financial derivatives 123 $ 266 $ 5 (242) 152 $ 272
+Other liabilities 294 56 442 (555) 237 41
+Total liabilities $ 421 $ 322 $ 5 $ 455 $ (805) $ 398 $ 313
+Net gains (losses) $ 142 (f) $ 91 (g)
+146 The PNC Financial Services Group, Inc. – 2023 Form 10-K(Continued from previous page)
+Year Ended December 31, 2022
+Total realized / unrealized Unrealized gains /
+gains or losses for the losses for the period
+period (a) on assets and
+liabilities held on
+Fair Included in Fair Consolidated
+Value Other Transfers Transfers Value Balance Sheet at
+Level 3 Instruments Only Dec. 31, Included in comprehensive into out of Dec. 31, Dec. 31, 2022
+In millions 2021 Earnings income (b) Purchases Sales Issuances Settlements Level 3 Level 3 2022 (a) (c)
+Assets
+Residential mortgage
+loans held for sale $ 81 $ (5) $ 226 $ (34) $ (13) $ 29 $ (41) (d) $ 243 $ (5)
+Commercial mortgage
+loans held for sale 49 (6) (10) 33 (6)
+Securities available for sale
+Residential mortgage-
+backed non-agency 1,097 22 $ (108) (192) 819
+Commercial mortgage-
+backed non-agency 3 3
+Asset-backed 163 2 (18) (23) 124
+Other 69 6 (20) 55
+Total securities
+available for sale 1,332 24 (126) 6 (235) 1,001
+Loans 884 23 55 (10) (164) (19) (d) 769 23
+Equity investments 1,680 445 291 (772) 134 (h) 1,778 237
+Residential mortgage
+servicing rights 1,078 509 897 $ 57 (231) 2,310 509
+Commercial mortgage
+servicing rights 740 473 46 62 (208) 1,113 473
+Financial derivatives 38 (6) 8 (35) 5 19
+Total assets $ 5,882 $ 1,457 $ (126) $ 1,529 $ (816) $ 119 $ (896) $ 163 $ (60) $ 7,252 $ 1,250
+Liabilities
+Other borrowed funds $ 3 $ 7 $ (6) $ 4
+Financial derivatives 285 $ 49 $ 14 (225) 123 $ 62
+Other liabilities 175 77 $ 32 876 (866) 294 66
+Total liabilities $ 463 $ 126 $ 32 $ 14 $ 883 $ (1,097) $ 421 $ 128
+Net gains (losses) $ 1,331 (f) $ 1,122 (g)
+(a) Losses for assets are bracketed while losses for liabilities are not.
+(b) The difference in unrealized gains and losses for the period included in Other comprehensive income and changes in unrealized gains and losses for the period included in Other
+comprehensive income for securities available for sale held at the end of the reporting period were insignificant.
+(c) The amount of the total gains or losses for the period included in earnings that is attributable to the change in unrealized gains or losses related to those assets and liabilities held at the
+end of the reporting period.
+(d) Residential mortgage loan transfers out of Level 3 are primarily driven by residential mortgage loans transferring to OREO as well as reclassification of mortgage loans held for sale to
+held for investment.
+(e) Transfers out of Level 3 during the current period were due to valuation methodology changes for certain private company investments. See Note 1 Accounting Policies for more
+information on our accounting for private company investments.
+(f) Net gains (losses) realized and unrealized included in earnings related to Level 3 assets and liabilities included amortization and accretion. The amortization and accretion amounts were
+included in Interest income on the Consolidated Income Statement and the remaining net gains (losses) realized and unrealized were included in Noninterest income on the Consolidated
+Income Statement.
+(g) Net unrealized gains (losses) related to assets and liabilities held at the end of the reporting period were included in Noninterest income on the Consolidated Income Statement.
+(h) Transfers into Level 3 were due to certain private company investments valued using significant unobservable inputs. See Note 1 Accounting Policies for more information on our
+accounting for private company investments.
+An instrument’s categorization within the hierarchy is based on the lowest level of input that is significant to the fair value
+measurement. Changes from one quarter to the next related to the observability of inputs to a fair value measurement may result in a
+reclassification (transfer) of assets or liabilities between hierarchy levels.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 147Quantitative information about the significant unobservable inputs within Level 3 recurring assets and liabilities is as follows:
+Table 80: Fair Value Measurements – Recurring Quantitative Information
+December 31, 2023
+Level 3 Instruments Only
+Dollars in millions Fair Value Valuation Techniques Unobservable Inputs Range (Weighted-Average) (a)
+Commercial mortgage loans held for sale $ 11 Discounted cash flow Spread over the benchmark curve (b) 575bps - 3,610bps (1,647bps)
+Residential mortgage-backed 696 Priced by a third-party vendor Constant prepayment rate 1.0% - 27.9% (3.7%)
+non-agency securities using a discounted cash flow
+Constant default rate 0.0% - 12.0% (2.7%)
+pricing model
+Loss severity 10.0% - 69.0% (41.2%)
+Spread over the benchmark curve (b) 285bps weighted-average
+Asset-backed securities 102 Priced by a third-party vendor Constant prepayment rate 1.0% - 28.0% (5.1%)
+using a discounted cash flow
+Constant default rate 0.0% - 4.3% (1.7%)
+pricing model
+Loss severity 20.0% - 100.0% (49.5%)
+Spread over the benchmark curve (b) 248bps weighted-average
+Loans - Residential real estate - Uninsured 546 Consensus pricing (c) Cumulative default rate 3.6% - 100.0% (59.1%)
+Loss severity 0.0% - 100.0% (5.4%)
+Discount rate 5.5% - 7.5% (5.8%)
+Loans - Residential real estate 75 Discounted cash flow Loss severity 6.0% weighted-average
+Discount rate 7.8% weighted-average
+Loans - Home equity - First-lien 18 Consensus pricing (c) Cumulative default rate 3.6% - 100.0% (60.9%)
+Loss severity 0.0% - 100.0% (14.4%)
+Discount rate 5.5% - 7.5% (6.2%)
+Loans - Home equity 87 Consensus pricing (c) Credit and liquidity discount 0.3% - 100.0% (43.8%)
+Equity investments 1,952 Multiple of adjusted earnings Multiple of earnings 4.5x - 26.7x (10.1x)
+Residential mortgage servicing rights 2,654 Discounted cash flow Constant prepayment rate 0.0% - 33.6% (6.4%)
+Spread over the benchmark curve (b) 337bps - 1,668bps (765bps)
+Commercial mortgage servicing rights 1,032 Discounted cash flow Constant prepayment rate 5.3% - 9.7% (5.5%)
+Discount rate 7.6% - 10.0% (9.6%)
+Financial derivatives - Swaps related to (145) Discounted cash flow Estimated conversion factor of Visa
+sales of certain Visa Class B Class B shares into Class A shares 1.59 weighted-average
+common shares
+Estimated annual growth rate of Visa
+Class A share price 16.0%
+Estimated length of litigation resolution Q3 2024
+date
+Insignificant Level 3 assets, net of 22
+liabilities (d)
+Total Level 3 assets, net of liabilities (e) $ 7,050
+148 The PNC Financial Services Group, Inc. – 2023 Form 10-K(Continued from previous page)
+December 31, 2022
+Level 3 Instruments Only
+Dollars in millions Fair Value Valuation Techniques Unobservable Inputs Range (Weighted-Average) (a)
+Commercial mortgage loans held for sale $ 33 Discounted cash flow Spread over the benchmark curve (b) 585bps - 2,465bps (959bps)
+Residential mortgage-backed 819 Priced by a third-party vendor Constant prepayment rate 1.0% - 27.9% (9.9%)
+non-agency securities using a discounted cash flow
+Constant default rate 0.0% - 13.0% (4.0%)
+pricing model
+Loss severity 15.0% - 80.0% (46.1%)
+Spread over the benchmark curve (b) 289bps weighted-average
+Asset-backed securities 124 Priced by a third-party vendor Constant prepayment rate 1.0% - 40.0% (7.5%)
+using a discounted cash flow
+Constant default rate 0.0% - 7.3% (2.1%)
+pricing model
+Loss severity 20.0% - 100.0% (49.0%)
+Spread over the benchmark curve (b) 296bps weighted-average
+Loans - Residential real estate - Uninsured 570 Consensus pricing (c) Cumulative default rate 3.6% - 100.0% (66.2%)
+Loss severity 0.0% - 100.0% (6.2%)
+Discount rate 5.5% - 7.5% (5.9%)
+Loans - Residential real estate 76 Discounted cash flow Loss severity 6.0% weighted-average
+Discount rate 7.9% weighted-average
+Loans - Home equity - First-lien 25 Consensus pricing (c) Cumulative default rate 3.6% - 100.0% (72.5%)
+Loss severity 0.0% - 100.0% (15.3%)
+Discount rate 5.5% - 7.5% (6.5%)
+Loans - Home equity 98 Consensus pricing (c) Credit and liquidity discount 0.4% - 100.0% (46.2%)
+Equity investments 1,778 Multiple of adjusted earnings Multiple of earnings 4.5x - 25.0x (9.1x)
+Residential mortgage servicing rights 2,310 Discounted cash flow Constant prepayment rate 0.0% - 34.5% (6.7%)
+Spread over the benchmark curve (b) 254bps - 1,653bps (766bps)
+Commercial mortgage servicing rights 1,113 Discounted cash flow Constant prepayment rate 3.9% - 9.8% (4.3%)
+Discount rate 7.8% - 10.1% (9.8%)
+Financial derivatives - Swaps related to (107) Discounted cash flow Estimated conversion factor of Visa 1.61 weighted-average
+sales of certain Visa Class B Class B shares into Class A shares
+common shares Estimated annual growth rate of Visa 16.0%
+Class A share price
+Estimated length of litigation resolution Q2 2023
+date
+Insignificant Level 3 assets, net of (8)
+liabilities (d)
+Total Level 3 assets, net of liabilities (e) $ 6,831
+(a) Unobservable inputs were weighted by the relative fair value of the instruments.
+(b) The assumed yield spread over the benchmark curve for each instrument is generally intended to incorporate non-interest rate risks, such as credit and liquidity risks.
+(c) Consensus pricing refers to fair value estimates that are generally internally developed using information such as dealer quotes or other third-party provided valuations or comparable
+asset prices.
+(d) Represents the aggregate amount of Level 3 assets and liabilities measured at fair value on a recurring basis that are individually and in the aggregate insignificant. The amount includes
+certain financial derivative assets and liabilities, trading securities, other securities, residential mortgage loans held for sale, other assets, other borrowed funds and other liabilities.
+(e) Consisted of total Level 3 assets of $7.4 billion and total Level 3 liabilities of $0.4 billion as of December 31, 2023 and $7.3 billion and $0.4 billion as of December 31, 2022,
+respectively.
+Financial Assets Accounted for at Fair Value on a Nonrecurring Basis
+We may be required to measure certain financial assets at fair value on a nonrecurring basis. These adjustments to fair value usually
+result from the application of lower of amortized cost or fair value accounting or write-downs of individual assets due to impairment
+and are included in Table 81.
+Nonaccrual Loans
+The carrying value of nonaccrual loans represents the fair value of those loans which have been adjusted due to impairment. The
+impairment is primarily based on the appraised value of the collateral.
+Appraisals are obtained by licensed or certified appraisers at least annually and more recently in certain instances. All third-party
+appraisals are reviewed and any adjustments to the initial appraisal are incorporated into the final issued appraisal report. In instances
+where an appraisal is not obtained, collateral value is determined consistent with external third-party appraisal standards by an internal
+person independent of the asset manager.
+Equity Investments
+The majority of the amounts for equity investments represent the carrying value of LIHTC investments held for sale calculated using a
+discounted cash flow model. The significant unobservable input is management’s estimate of required market rate of return. The
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 149market rate of return is based on comparison to recent LIHTC sales in the market. Significant increases (decreases) in this input would
+result in a significantly lower (higher) carrying value of the investments.
+OREO and Foreclosed Assets
+The carrying value of OREO and foreclosed assets includes valuation adjustments recorded subsequent to the transfer to OREO and
+foreclosed assets. These valuation adjustments are based on the fair value less cost to sell of the property. Fair value is based on
+appraised value or sales price and the appraisal process for OREO and foreclosed assets is the same as described above for nonaccrual
+loans.
+Long-Lived Assets
+Long-lived assets consists of buildings for which valuation adjustments were recorded during the period. A facility classified as held
+for use is impaired to the extent its carrying value is not recoverable and exceeds fair value. Valuation adjustments on buildings held
+for sale are based on the fair value of the property less an estimated cost to sell and are recorded subsequent to the transfer of the asset
+to held for sale status. Fair value is determined either by a third-party appraisal, recent sales offer, changes in market or property
+conditions or, where we have agreed to sell the building to a third party, the contractual sales price. Impairment on these long-lived
+assets is recorded in Other noninterest expense on our Consolidated Income Statement.
+Assets measured at fair value on a nonrecurring basis are as follows:
+Table 81: Fair Value Measurements – Nonrecurring (a) (b) (c)
+Fair Value Gains (Losses)
+Year ended December 31
+In millions 2023 2022 2023 2022 2021
+Assets
+Nonaccrual loans $ 578 $ 280 $ (410) $ (287) $ (4)
+Equity investments 203 135 (1)
+OREO and foreclosed assets 12 10 (1)
+Long-lived assets 9 23 (29) (15) (45)
+Total assets $ 802 $ 448 $ (440) $ (303) $ (49)
+(a) All Level 3 for the periods presented, except for $30 million and $42 million included in Equity investments which was categorized as Level 1 as of December 31, 2023 and
+2022, respectively.
+(b) Valuation techniques applied were fair value of property or collateral.
+(c) Unobservable inputs used were appraised value/sales price, broker opinions or projected income/required improvement costs. Additional quantitative information was not
+meaningful for the periods presented.
+Financial Instruments Accounted for under Fair Value Option
+We elect the fair value option to account for certain financial instruments. For more information on these financial instruments for
+which the fair value option election has been made, refer to the Fair Value Measurement section of this Note 14. These financial
+instruments are initially measured at fair value. Gains and losses from initial measurement and any changes in fair value are
+subsequently recognized in earnings.
+Interest income related to changes in the fair values of these financial instruments is recorded on the Consolidated Income Statement
+in Other interest income, except for certain residential mortgage loans, for which income is also recorded in Loans interest income.
+Changes in the value on prepaid forward contracts included in Other assets is reported in Noninterest expense and interest expense on
+the Other borrowed funds is reported in Borrowed funds interest expense.
+150 The PNC Financial Services Group, Inc. – 2023 Form 10-KFair values and aggregate unpaid principal balances of items for which we elected the fair value option are as follows:
+Table 82: Fair Value Option – Fair Value and Principal Balances
+December 31, 2023 December 31, 2022
+Aggregate Aggregate
+Unpaid Unpaid
+Principal Principal
+In millions Fair Value Balance Difference Fair Value Balance Difference
+Assets
+Residential mortgage loans held for sale
+Accruing loans less than 90 days past due $ 432 $ 429 $ 3 $ 609 $ 633 $ (24)
+Accruing loans 90 days or more past due 6 6 5 5
+Nonaccrual loans 36 43 (7) 40 49 (9)
+Total $ 474 $ 478 $ (4) $ 654 $ 687 $ (33)
+Commercial mortgage loans held for sale (a)
+Accruing loans less than 90 days past due $ 238 $ 228 $ 10 $ 261 $ 256 $ 5
+Nonaccrual loans 15 44 (29)
+Total $ 238 $ 228 $ 10 $ 276 $ 300 $ (24)
+Loans
+Accruing loans less than 90 days past due $ 507 $ 520 $ (13) $ 509 $ 521 $ (12)
+Accruing loans 90 days or more past due 146 156 (10) 155 167 (12)
+Nonaccrual loans 585 793 (208) 646 880 (234)
+Total $ 1,238 $ 1,469 $ (231) $ 1,310 $ 1,568 $ (258)
+Other assets $ 85 $ 69 $ 16 $ 80 $ 80
+Liabilities
+Other borrowed funds $ 39 $ 40 $ (1) $ 31 $ 32 $ (1)
+Other liabilities $ 124 $ 124 $ 196 $ 196
+(a) There were no accruing loans 90 days or more past due within this category at December 31, 2023 or December 31, 2022.
+The changes in fair value for items for which we elected the fair value option are as follows:
+Table 83: Fair Value Option – Changes in Fair Value (a)
+Gains (Losses)
+Year ended December 31
+In millions 2023 2022 2021
+Assets
+Residential mortgage loans held for sale $ 32 $ (80) $ 152
+Commercial mortgage loans held for sale $ 53 $ 52 $ 115
+Loans $ 26 $ 42 $ 80
+Other assets $ 7 $ (16) $ 28
+Liabilities
+Other liabilities $ (41) $ (67)
+(a) The impact on earnings of offsetting hedged items or hedging instruments is not reflected in these amounts.
+Additional Fair Value Information Related to Financial Instruments Not Recorded at Fair Value
+This section presents fair value information for all other financial instruments that are not recorded on the Consolidated Balance Sheet
+at fair value. We used the following methods and assumptions to estimate the fair value amounts for these financial instruments.
+Cash and Due from Banks and Interest-earning Deposits with Banks
+Due to their short-term nature, the carrying amounts for Cash and due from banks and Interest-earning deposits with banks reported on
+our Consolidated Balance Sheet approximate fair value.
+Securities Held to Maturity
+We primarily use prices obtained from pricing services, dealer quotes or recent trades to determine the fair value of securities. Refer to
+the Fair Value Measurement section of this Note 14 for additional information relating to our pricing processes and procedures.
+Net Loans
+Fair values are estimated based on the discounted value of expected net cash flows incorporating assumptions about prepayment rates,
+net credit losses and servicing fees. Nonaccrual loans are valued at their estimated recovery value. The carrying value of Net loans are
+presented net of the ALLL.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 151Other Assets
+The carrying value of Other assets, which include accrued interest receivable, cash collateral, federal funds sold and resale agreements,
+certain loans held for sale, and FHLB and FRB stock, approximates fair value. The aggregate carrying value of our FHLB and FRB
+stock was $2.7 billion and $2.5 billion at December 31, 2023 and 2022, respectively.
+Deposits
+For time deposits, fair values are estimated by discounting contractual cash flows using current market rates for instruments with
+similar maturities. For deposits with no defined maturity, such as noninterest-bearing and interest-bearing demand and interest-bearing
+money market and savings deposits, carrying values approximate fair values.
+Borrowed Funds
+For short-term borrowed funds, including federal funds purchased, commercial paper, repurchase agreements and certain other short-
+term borrowings and payables, carrying value approximates fair value. For long-term borrowed funds, quoted market prices are used,
+when available, to estimate fair value. When quoted market prices are not available, fair value is estimated based on current market
+interest rates and credit spreads for debt with similar terms and maturities.
+Unfunded Lending Related Commitments
+The fair value of unfunded lending related commitments is determined by market participant assumptions and takes into consideration
+the impact of changes in interest rates and credit. We establish a liability on these facilities based on the creditworthiness of our
+counterparty.
+Other Liabilities
+Other liabilities includes interest-bearing cash collateral held related to derivatives and other accrued liabilities. Due to its short-term
+nature, the carrying value of Other liabilities reported on our Consolidated Balance Sheet approximates fair value.
+152 The PNC Financial Services Group, Inc. – 2023 Form 10-KThe carrying amounts and estimated fair values, as well as the level within the fair value hierarchy, of these financial instruments as of
+December 31, 2023 and 2022 are as follows:
+Table 84: Additional Fair Value Information Related to Other Financial Instruments
+Fair Value
+Carrying
+In millions Amount Total Level 1 Level 2 Level 3
+December 31, 2023
+Assets
+Cash and due from banks $ 6,921 $ 6,921 $ 6,921
+Interest-earning deposits with banks 43,804 43,804 $ 43,804
+Securities held to maturity 90,790 86,948 30,943 55,850 $ 155
+Net loans (excludes leases) 308,936 299,645 299,645
+Other assets 5,872 5,872 5,872
+Total assets $ 456,323 $ 443,190 $ 37,864 $ 105,526 $ 299,800
+Liabilities
+Time deposits $ 31,569 $ 31,602 $ 31,602
+Borrowed funds 71,816 72,369 71,194 $ 1,175
+Unfunded lending related commitments 663 663 663
+Other liabilities 1,091 1,091 1,091
+Total liabilities $ 105,139 $ 105,725 $ 103,887 $ 1,838
+December 31, 2022
+Assets
+Cash and due from banks $ 7,043 $ 7,043 $ 7,043
+Interest-earning deposits with banks 27,320 27,320 $ 27,320
+Securities held to maturity 95,183 90,279 30,748 59,377 $ 154
+Net loans (excludes leases) 313,460 310,864 310,864
+Other assets 6,022 6,022 6,020 2
+Total assets $ 449,028 $ 441,528 $ 37,791 $ 92,717 $ 311,020
+Liabilities
+Time deposits $ 18,470 $ 18,298 $ 18,298
+Borrowed funds 57,182 57,557 55,922 $ 1,635
+Unfunded lending related commitments 694 694 694
+Other liabilities 660 660 660
+Total liabilities $ 77,006 $ 77,209 $ 74,880 $ 2,329
+The aggregate fair values in Table 84 represent only a portion of the total market value of our assets and liabilities as, in accordance
+with the guidance related to fair values about financial instruments, we exclude the following:
+• financial instruments recorded at fair value on a recurring basis (as they are disclosed in Table 78),
+• investments accounted for under the equity method,
+• equity securities without a readily determinable fair value that apply for the alternative measurement approach to fair value
+under ASU 2016-01,
+• real and personal property,
+• lease financing,
+• loan customer relationships,
+• deposit customer intangibles,
+• MSRs,
+• retail branch networks,
+• fee-based businesses, such as asset management and brokerage,
+• trademarks and brand names,
+• trade receivables and payables due in one year or less,
+• deposit liabilities with no defined or contractual maturities under ASU 2016-01, and
+• insurance contracts.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 153NOTE 15 FINANCIAL DERIVATIVES
+We use a variety of financial derivatives to both mitigate exposure to market (primarily interest rate) and credit risks inherent in our
+business activities, as well as to facilitate customer risk management activities. We manage these risks as part of our overall asset and
+liability management process and through our credit policies and procedures. Derivatives represent contracts between parties that
+usually require little or no initial net investment and result in one party delivering cash or another type of asset to the other party based
+on a notional amount and an underlying as specified in the contract.
+Derivative transactions are often measured in terms of notional amount, but this amount is generally not exchanged and it is not
+recorded on the balance sheet. The notional amount is the basis to which the underlying is applied to determine required payments
+under the derivative contract. The underlying is a referenced interest rate, security price, credit spread or other index. Residential and
+commercial real estate loan commitments associated with loans to be sold also qualify as derivative instruments.
+The following tables presents the notional and gross fair value amounts of all derivative assets and liabilities held by us.
+Table 85: Total Gross Derivatives (a)
+December 31, 2023 December 31, 2022
+Notional / Asset Fair Liability Fair Notional / Asset Fair Liability Fair
+In millions Contract Amount Value (b) Value (c) Contract Amount Value (b) Value (c)
+Derivatives used for hedging
+Interest rate contracts :
+Fair value hedges (d) $ 32,079 $ 24,231
+Cash flow hedges (d) 33,302 40,310 $ 1
+Cash flow hedges - other (e) 25,000 $ 327 $ 137
+Foreign exchange contracts:
+Net investment hedges 1,174 2 1,120 $ 24
+Total derivatives designated for hedging $ 91,555 $ 327 $ 139 $ 65,661 $ 24 $ 1
+Derivatives not used for hedging
+Derivatives used for mortgage banking activities (f):
+Interest rate contracts:
+Swaps $ 43,450 $ 47,908 $ 7 $ 1
+Futures (g) 10,370 5,537
+Mortgage-backed commitments 3,093 $ 66 $ 67 4,516 85 89
+Other 15,544 46 22 18,017 90 14
+Total interest rate contracts 72,457 112 89 75,978 182 104
+Derivatives used for customer-related activities:
+Interest rate contracts:
+Swaps 401,607 1,723 4,228 354,150 1,597 5,397
+Futures (g) 73 32
+Mortgage-backed commitments 2,592 9 25 2,799 10 6
+Other 28,489 186 169 29,071 334 321
+Total interest rate contracts 432,761 1,918 4,422 386,052 1,941 5,724
+Commodity contracts:
+Swaps 6,714 577 569 5,792 1,003 1,067
+Other 4,797 188 188 4,488 205 202
+Total commodity contracts 11,511 765 757 10,280 1,208 1,269
+Foreign exchange contracts and other 32,885 295 239 30,512 366 293
+Total derivatives for customer-related activities 477,157 2,978 5,418 426,844 3,515 7,286
+Derivatives used for other risk management activities:
+Foreign exchange contracts and other 14,882 12 253 12,785 47 227
+Total derivatives not designated for hedging $ 564,496 $ 3,102 $ 5,760 $ 515,607 $ 3,744 $ 7,617
+Total gross derivatives $ 656,051 $ 3,429 $ 5,899 $ 581,268 $ 3,768 $ 7,618
+Less: Impact of legally enforceable master netting agreements 1,406 1,406 1,523 1,523
+Less: Cash collateral received/paid 1,126 955 714 1,571
+Total derivatives $ 897 $ 3,538 $ 1,531 $ 4,524
+(a) Centrally cleared derivatives are settled in cash daily and result in no derivative asset or derivative liability being recognized on our Consolidated Balance Sheet.
+(b) Included in Other assets on our Consolidated Balance Sheet.
+(c) Included in Other liabilities on our Consolidated Balance Sheet.
+(d) Represents primarily swaps.
+(e) Represents caps and floors.
+(f) Includes both residential and commercial mortgage banking activities.
+(g) Futures contracts are settled in cash daily and result in no derivative asset or derivative liability being recognized on our Consolidated Balance Sheet.
+154 The PNC Financial Services Group, Inc. – 2023 Form 10-KAll derivatives are carried on our Consolidated Balance Sheet at fair value. Derivative balances are presented on the Consolidated
+Balance Sheet on a net basis taking into consideration the effects of legally enforceable master netting agreements and, when
+appropriate, any related cash collateral exchanged with counterparties. Further discussion regarding the offsetting rights associated
+with these legally enforceable master netting agreements is included in the Offsetting and Counterparty Credit Risk section of this
+Note 15. Any nonperformance risk, including credit risk, is included in the determination of the estimated net fair value of the
+derivatives. Further discussion on how derivatives are accounted for is included in Note 1 Accounting Policies.
+Derivatives Designated As Hedging Instruments
+Certain derivatives used to manage interest rate and foreign exchange risk as part of our asset and liability risk management activities
+are designated as accounting hedges. Derivatives hedging the risks associated with changes in the fair value of assets or liabilities are
+considered fair value hedges, derivatives hedging the variability of expected future cash flows are considered cash flow hedges and
+derivatives hedging a net investment in a foreign subsidiary are considered net investment hedges. Designating derivatives as
+accounting hedges allows for gains and losses on those derivatives to be recognized in the same period and in the same income
+statement line item as the earnings impact of the hedged items.
+Fair Value Hedges
+We enter into receive-fixed, pay-variable interest rate swaps to hedge changes in the fair value of outstanding fixed-rate debt caused
+by fluctuations in market interest rates. We also enter into pay-fixed, receive-variable interest rate swaps and zero-coupon swaps to
+hedge changes in the fair value of fixed rate and zero-coupon investment securities caused by fluctuations in market interest rates.
+Gains and losses on the interest rate swaps designated in these hedge relationships, along with the offsetting gains and losses on the
+hedged items attributable to the hedged risk, are recognized in current earnings within the same income statement line item.
+Cash Flow Hedges
+We enter into receive-fixed, pay-variable interest rate swaps and interest rate caps and floors to modify the interest rate characteristics
+of designated commercial loans from variable to fixed in order to reduce the impact of changes in future cash flows due to market
+interest rate changes. We also periodically enter into forward purchase and sale contracts to hedge the variability of the consideration
+that will be paid or received related to the purchase or sale of investment securities. The forecasted purchase or sale is consummated
+upon gross settlement of the forward contract itself. For these cash flow hedges, gains and losses on the hedging instruments are
+recorded in AOCI and are then reclassified into earnings in the same period the hedged cash flows affect earnings and within the same
+income statement line as the hedged cash flows.
+In the 12 months that follow December 31, 2023, we expect to reclassify net derivative losses of $1.1 billion pretax, or $0.9 billion
+after-tax, from AOCI to interest income for these cash flow hedge strategies. This reclassified amount could differ from amounts
+actually recognized due to changes in interest rates, hedge de-designations and the addition of other hedges subsequent to
+December 31, 2023. As of December 31, 2023, the maximum length of time over which forecasted transactions are hedged is eight
+years.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 155Further detail regarding gains (losses) related to our fair value and cash flow hedge derivatives is presented in the following table:
+Table 86: Gains (Losses) Recognized on Fair Value and Cash Flow Hedges in the Consolidated Income Statement (a) (b)
+Location and Amount of Gains (Losses) Recognized in Income
+Interest Income Interest Expense Noninterest Income
+In millions Loans Investment Securities Borrowed Funds Other
+Year ended December 31, 2023
+Total amounts on the Consolidated Income Statement $ 18,299 $ 3,545 $ 3,783 $ 619
+Gains (losses) on fair value hedges recognized on:
+Hedged items (c) $ 2 $ (545)
+Derivatives $ 2 $ 531
+Amounts related to interest settlements on derivatives $ 28 $ (605)
+Gains (losses) on cash flow hedges (d):
+Amount of derivative gains (losses) reclassified from accumulated
+other comprehensive income $ (1,512) $ (28)
+Other amounts related to interest settlements on derivatives $ 115
+Year ended December 31, 2022
+Total amounts on the Consolidated Income Statement $ 11,795 $ 2,726 $ 1,155 $ 952
+Gains (losses) on fair value hedges recognized on:
+Hedged items (c) $ (136) $ 1,945
+Derivatives $ 143 $ (1,976)
+Amounts related to interest settlements on derivatives $ (2) $ 120
+Gains (losses) on cash flow hedges (d):
+Amount of derivative gains (losses) reclassified from accumulated
+other comprehensive income $ (259) $ (1)
+Other amounts related to interest settlements on derivatives $ 41
+Year ended December 31, 2021
+Total amounts on the Consolidated Income Statement $ 9,007 $ 1,834 $ 361 $ 1,199
+Gains (losses) on fair value hedges recognized on:
+Hedged items (c) $ (5) $ 937
+Derivatives $ 9 $ (993)
+Amounts related to interest settlements on derivatives $ (4) $ 521
+Gains (losses) on cash flow hedges (d):
+Amount of derivative gains (losses) reclassified from accumulated
+other comprehensive income $ 376 $ 57 $ 61
+(a) For all periods presented, there were no components of derivative gains or losses excluded from the assessment of hedge effectiveness for any of the fair value or cash flow
+hedge strategies.
+(b) All cash flow and fair value hedge derivatives were interest rate contracts for the periods presented.
+(c) Includes an insignificant amount of fair value hedge adjustments related to discontinued hedge relationships.
+(d) For all periods presented, there were no gains or losses from cash flow hedge derivatives reclassified to income because it became probable that the original forecasted
+transaction would not occur.
+Detail regarding the impact of fair value hedge accounting on the carrying value of the hedged items is presented in the following
+table:
+Table 87: Hedged Items - Fair Value Hedges
+December 31, 2023 December 31, 2022
+Cumulative Fair Value Cumulative Fair Value
+Hedge Adjustment Hedge Adjustment
+Carrying Value of the included in the Carrying Carrying Value of the included in the Carrying
+In millions Hedged Items Value of Hedged Items (a) Hedged Items Value of Hedged Items (a)
+Investment securities - available for sale (b) $ 2,076 $ (122) $ 2,376 $ (121)
+Borrowed funds $ 30,503 $ (737) $ 21,781 $ (1,283)
+(a) Includes less than $(0.1) billion of fair value hedge adjustments primarily related to discontinued borrowed funds hedge relationships at both December 31, 2023 and 2022.
+(b) Carrying value shown represents amortized cost.
+Net Investment Hedges
+We enter into foreign currency forward contracts to hedge non-U.S. dollar net investments in foreign subsidiaries against adverse
+changes in foreign exchange rates. We assess whether the hedging relationship is highly effective in achieving offsetting changes in
+the value of the hedge and hedged item by qualitatively verifying that the critical terms of the hedge and hedged item match at the
+inception of the hedging relationship and on an ongoing basis. Net investment hedge derivatives are classified as foreign exchange
+contracts. There were no components of derivative gains or losses excluded from the assessment of the hedge effectiveness for the
+156 The PNC Financial Services Group, Inc. – 2023 Form 10-Kperiods presented. Net gains (losses) on net investment hedge derivatives recognized in OCI were $(53) million and $119 million in
+2023 and 2022, respectively, and insignificant in 2021.
+Derivatives Not Designated As Hedging Instruments
+Residential mortgage loans that will be sold in the secondary market, and the related loan commitments, which are considered
+derivatives, are accounted for at fair value. Changes in the fair value of the loans and commitments due to interest rate risk are hedged
+with forward contracts to sell mortgage-backed securities, as well as U.S. Treasury and Eurodollar futures and options. Gains and
+losses on the loans and commitments held for sale and the derivatives used to economically hedge them are included in Residential
+and commercial mortgage noninterest income on the Consolidated Income Statement.
+Residential mortgage servicing rights are accounted for at fair value with changes in fair value influenced primarily by changes in
+interest rates. Derivatives used to hedge the fair value of residential mortgage servicing rights include interest rate futures, swaps,
+options and forward contracts to purchase mortgage-backed securities. Gains and losses on residential mortgage servicing rights and
+the related derivatives used for hedging are included in Residential and commercial mortgage noninterest income.
+Commercial mortgage loans held for sale and the related loan commitments, which are considered derivatives, are accounted for at fair
+value. Derivatives used to economically hedge these loans and commitments from changes in fair value due to interest rate risk
+include forward loan sale contracts and interest rate swaps. Gains and losses on the commitments, loans and derivatives are included in
+Residential and commercial mortgage noninterest income. Derivatives used to economically hedge the change in value of commercial
+mortgage servicing rights include interest rate futures, swaps and options. Gains or losses on these derivatives are included in
+Residential and commercial mortgage noninterest income.
+The residential and commercial mortgage loan commitments associated with loans to be sold which are accounted for as derivatives
+are valued based on the estimated fair value of the underlying loan and the probability that the loan will fund within the terms of the
+commitment. The fair value also takes into account the fair value of the embedded servicing right.
+We offer derivatives to our customers in connection with their risk management needs. These derivatives primarily consist of interest
+rate swaps, interest rate caps and floors, swaptions, foreign exchange contracts and commodity swaps. We primarily manage our
+market risk exposure from customer transactions by entering into a variety of hedging transactions with third-party dealers. Gains and
+losses on customer-related derivatives are included in Capital markets and advisory noninterest income.
+Included in the customer, mortgage banking risk management, and other risk management portfolios are written interest-rate caps and
+floors entered into with customers and for risk management purposes. We receive an upfront premium from the counterparty and are
+obligated to make payments to the counterparty if the underlying market interest rate rises above or falls below a certain level
+designated in the contract. Our ultimate obligation under written options is based on future market conditions.
+We have entered into risk participation agreements to share some of the credit exposure with other counterparties related to interest
+rate derivative contracts or to take on credit exposure to generate revenue. The following table presents the notional amount of risk
+participation agreements sold and maximum potential exposures at December 31, 2023 and 2022.
+Table 88: Risk Participation Agreements
+Year ended December 31
+In billions 2023 2022
+Risk participation agreements:
+Sold - notional amount $ 8.0 $ 8.0
+Maximum potential amount of exposure (a) $ 0.2 $ 0.1
+(a) Based on the fair value of the underlying swaps assuming all underlying third party customers referenced in the swap contracts defaulted.
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 157Further detail regarding the gains (losses) on derivatives not designated in hedging relationships is presented in the following table:
+Table 89: Gains (Losses) on Derivatives Not Designated for Hedging
+Year ended December 31
+In millions 2023 2022 2021
+Derivatives used for mortgage banking activities:
+Interest rate contracts (a) $ (70) $ (671) $ (78)
+Derivatives used for customer-related activities:
+Interest rate contracts (15) 220 149
+Foreign exchange contracts and other 220 111 135
+Gains from customer-related activities (b) 205 331 284
+Derivatives used for other risk management activities:
+Foreign exchange contracts and other (b) (395) 255 (30)
+Total gains (losses) from derivatives not designated as hedging instruments $ (260) $ (85) $ 176
+(a) Included in Residential and commercial mortgage noninterest income on our Consolidated Income Statement.
+(b) Included in Capital markets and advisory and Other noninterest income on our Consolidated Income Statement.
+Offsetting and Counterparty Credit Risk
+We generally utilize a net presentation on the Consolidated Balance Sheet for those derivative financial instruments entered into with
+counterparties under legally enforceable master netting agreements. The master netting agreements reduce credit risk by permitting the
+closeout netting of all outstanding derivative instruments under the master netting agreement with the same counterparty upon the
+occurrence of an event of default. The master netting agreement also may require the exchange of cash or marketable securities to
+collateralize either party’s net position. Collateral is typically exchanged daily on unsettled positions based on the net fair value of the
+positions with the counterparty as of the preceding day. Collateral representing initial margin, which is based on potential future
+exposure, may also be required to be exchanged. In certain cases, minimum thresholds must be exceeded before any collateral is
+exchanged. Any cash collateral exchanged with counterparties under these master netting agreements is also netted, when appropriate,
+against the applicable derivative fair values on the Consolidated Balance Sheet. However, the fair value of any securities held or
+pledged is not included in the net presentation on the Consolidated Balance Sheet. In order for derivative instruments under a master
+netting agreement to be eligible for closeout netting under GAAP, we must conduct sufficient legal review to conclude with a well-
+founded basis that the offsetting rights included in the master netting agreement would be legally enforceable upon an event of default,
+including upon an event of bankruptcy, insolvency, or a similar proceeding of the counterparty. Enforceability is evidenced by a legal
+opinion that supports, with sufficient confidence, the enforceability of the master netting agreement in such circumstances.
+Table 90 shows the impact legally enforceable master netting agreements had on our derivative assets and derivative liabilities at
+December 31, 2023 and 2022. The table includes cash collateral held or pledged under legally enforceable master netting agreements.
+The table also includes the fair value of any securities collateral held or pledged under legally enforceable master netting agreements.
+Cash and securities collateral amounts are included in the table only to the extent of the related net derivative fair values.
+Table 90 includes OTC derivatives not settled through an exchange (“OTC derivatives”) and OTC derivatives cleared through a
+central clearing house (“OTC cleared derivatives”). OTC derivatives represent contracts executed bilaterally with counterparties that
+are not settled through an organized exchange or directly cleared through a central clearing house. The majority of OTC derivatives
+are governed by the ISDA documentation or other legally enforceable master netting agreements. OTC cleared derivatives represent
+contracts executed bilaterally with counterparties in the OTC market that are novated to a central clearing house that then becomes our
+counterparty. OTC cleared derivative instruments are typically settled in cash each day based on the prior day value.
+158 The PNC Financial Services Group, Inc. – 2023 Form 10-KTable 90: Derivative Assets and Liabilities Offsetting
+Amounts Offset on the Securities
+Consolidated Balance Sheet Collateral Held /
+Pledged Under
+Gross Fair Value Master Netting
+In millions Fair Value Offset Amount Cash Collateral Net Fair Value Agreements Net Amounts
+December 31, 2023
+Derivative assets
+Interest rate contracts:
+Over-the-counter cleared $ 19 $ 19 $ 19
+Over-the-counter 2,338 $ 976 $ 767 595 $ 61 534
+Commodity contracts 765 316 283 166 5 161
+Foreign exchange and other contracts 307 114 76 117 117
+Total derivative assets $ 3,429 $ 1,406 $ 1,126 $ 897 (a) $ 66 $ 831
+Derivative liabilities
+Interest rate contracts:
+Over-the-counter cleared $ 36 $ 36 $ 36
+Over-the-counter 4,612 $ 885 $ 942 2,785 $ 58 2,727
+Commodity contracts 757 332 425 425
+Foreign exchange and other contracts 494 189 13 292 292
+Total derivative liabilities $ 5,899 $ 1,406 $ 955 $ 3,538 (b) $ 58 $ 3,480
+December 31, 2022
+Derivative assets
+Interest rate contracts:
+Over-the-counter cleared $ 23 $ 23 $ 23
+Over-the-counter 2,100 $ 974 $ 630 496 $ 34 462
+Commodity contracts 1,208 335 2 871 871
+Foreign exchange and other contracts 437 214 82 141 141
+Total derivative assets $ 3,768 $ 1,523 $ 714 $ 1,531 (a) $ 34 $ 1,497
+Derivative liabilities
+Interest rate contracts:
+Over-the-counter cleared $ 28 $ 28 $ 28
+Over-the-counter 5,801 $ 625 $ 1,041 4,135 $ 78 4,057
+Commodity contracts 1,269 679 520 70 4 66
+Foreign exchange and other contracts 520 219 10 291 291
+Total derivative liabilities $ 7,618 $ 1,523 $ 1,571 $ 4,524 (b) $ 82 $ 4,442
+(a) Represents the net amount of derivative assets included in Other assets on our Consolidated Balance Sheet.
+(b) Represents the net amount of derivative liabilities included in Other liabilities on our Consolidated Balance Sheet.
+In addition to using master netting agreements and other collateral agreements to reduce credit risk associated with derivative
+instruments, we also seek to manage credit risk by evaluating credit ratings of counterparties and by using internal credit analysis,
+limits, and monitoring procedures.
+At December 31, 2023, cash and debt securities (primarily agency mortgage-backed securities) totaling $2.3 billion were pledged to us
+under master netting agreements and other collateral agreements to collateralize net derivative assets due from counterparties and to
+meet initial margin requirements, and we pledged cash and debt securities (primarily agency mortgage-backed securities) totaling $1.9
+billion under these agreements to collateralize net derivative liabilities owed to counterparties and to meet initial margin requirements.
+These totals may differ from the amounts presented in the preceding offsetting table because these totals may include collateral
+exchanged under an agreement that does not qualify as a master netting agreement or because the total amount of collateral pledged
+exceeds the net derivative fair values with the counterparty as of the balance sheet date due to timing or other factors, such as initial
+margin. To the extent not netted against the derivative fair values under a master netting agreement, the receivable for cash pledged is
+included in Other assets and the obligation for cash held is included in Other liabilities on our Consolidated Balance Sheet. Securities
+pledged to us by counterparties are not recognized on our balance sheet. Likewise, securities we have pledged to counterparties remain
+on our balance sheet.
+Credit-Risk Contingent Features
+Certain derivative agreements contain various credit-risk-related contingent provisions, such as those that require our debt to maintain
+a specified credit rating from one or more of the major credit rating agencies. If our debt ratings were to fall below such specified
+ratings, the counterparties to the derivative instruments could request immediate payment or demand immediate and ongoing full
+collateralization on derivative instruments in net liability positions. The following table presents the aggregate fair value of derivative
+The PNC Financial Services Group, Inc. – 2023 Form 10-K 159
+

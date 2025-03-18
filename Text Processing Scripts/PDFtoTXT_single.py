@@ -16,8 +16,8 @@ def pdf_to_txt(pdf_path, txt_path):
             print(f"Text extracted and saved to {txt_path}")
 
 # Define the PDF file and output TXT file paths
-pdf_file_path = 'C:/Users/cassi/Capstone_MCG/SEC_Data/bank_of_new_york_mellon_corporation,_the/2020/10-K_2020-02-27_Management_Discussion_&_Analysis_(MD&A).pdf'  # Replace with your PDF file path
-txt_file_path = 'C:/Users/cassi/Capstone_MCG/SEC_Data/bank_of_new_york_mellon_corporation,_the/2020/10-K_2020-02-27_Management_Discussion_&_Analysis_(MD&A).txt'  # Replace with your desired output txt file path
+pdf_file_path = 'C:/Users/cassi/Capstone_MCG/SEC_Data/pnc_financial_services_group,_inc.,_the/2024/10K-QQ-Note1415.pdf'  # Replace with your PDF file path
+txt_file_path = 'C:/Users/cassi/Capstone_MCG/SEC_Data/pnc_financial_services_group,_inc.,_the/2024/Notes1415.txt'  # Replace with your desired output txt file path
 
 # Convert PDF to TXT
 pdf_to_txt(pdf_file_path, txt_file_path)
