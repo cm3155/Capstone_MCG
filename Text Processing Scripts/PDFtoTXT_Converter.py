@@ -3,8 +3,8 @@ import os
 from tqdm import tqdm
 
 # Set the folder where your PDFs are stored
-pdf_folder = "C:/Users/cassi/Capstone_MCG/News_Sources"  # UPDATE THIS PATH
-output_folder = "C:/Users/cassi/Capstone_MCG/News_Sources_TXT"  # UPDATE THIS PATH
+pdf_folder = "C:/Users/cassi/Capstone_MCG/Last Sources"  # UPDATE THIS PATH
+output_folder = "C:/Users/cassi/Capstone_MCG/LastSources_Txt"  # UPDATE THIS PATH
 
 # Create output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)

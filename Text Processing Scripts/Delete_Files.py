@@ -1,23 +1,19 @@
 import os
-import glob
 
-def delete_files_in_subfolders(root_folder, keywords):
+def delete_zero_kb_files(root_folder):
     if os.path.exists(root_folder) and os.path.isdir(root_folder):
-        for subdir, _, _ in os.walk(root_folder):
-            for keyword in keywords:
-                pattern = os.path.join(subdir, f"*{keyword}*")
-                files = glob.glob(pattern)
-                for file in files:
+        for subdir, _, files in os.walk(root_folder):
+            for file in files:
+                file_path = os.path.join(subdir, file)
+                if os.path.isfile(file_path) and os.path.getsize(file_path) == 0:
                     try:
-                        os.remove(file)
-                        print(f"Deleted: {file}")
+                        os.remove(file_path)
+                        print(f"Deleted: {file_path}")
                     except Exception as e:
-                        print(f"Error deleting {file}: {e}")
+                        print(f"Error deleting {file_path}: {e}")
     else:
         print(f"Root folder not found: {root_folder}")
 
 # Example usage
 root_folder_to_check = "C:/Users/cassi/Capstone_MCG/SEC_Data"  # Update with actual path
-keywords_to_delete = ["Corporate_Governance"]
-
-delete_files_in_subfolders(root_folder_to_check, keywords_to_delete)
+delete_zero_kb_files(root_folder_to_check)
