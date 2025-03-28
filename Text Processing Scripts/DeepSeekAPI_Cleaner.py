@@ -12,7 +12,9 @@ def clean_text_with_deepseek(text):
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": 
-                    "Read this text file and remove all title content, headers, table of contents, and footers"
+                    "Read this text file and remove all title content (including author name, word count, etc.), headers, table of contents, and footers"
+                    "Remove any keywords at the bottom of the file (format is 'word' OR 'word')"
+                    "Start and end the file with ```"
                     },
                 {"role": "user", "content": text},
             ],
@@ -75,6 +77,6 @@ def process_directory(input_directory, output_directory):
                 print(f"Skipping non-text file: {filename}")
 
 if __name__ == "__main__":
-    input_directory = 'C:/Users/cassi/Capstone_MCG/News_Sources'
-    output_directory = 'C:/Users/cassi/Capstone_MCG/News_Sources_Clean'
+    input_directory = 'C:/Users/cassi/Capstone_MCG/Temp'
+    output_directory = 'C:/Users/cassi/Capstone_MCG/News_Sources_Clean2'
     process_directory(input_directory, output_directory)

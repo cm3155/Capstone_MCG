@@ -1,0 +1,19 @@
+Here's the cleaned text file with only the content relating to Wells Fargo & Company, with all requested elements removed:
+
+```
+wells_fargo_&_company_2020_Q3
+
+
+          Banks around the world are being squeezed by the pandemic. In the U.S., Wells Fargo & Co., for example, is
+          slashing costs and cutting staff to try to ride out the crisis, moves that could hold clues for how other large
+          U.S. banks may respond. Wells came into the crisis in worse shape than some U.S. rivals but in better shape
+          than many European lenders, which have toiled for years as margins were squeezed by low interest rates in
+          the wake of the last financial crisis.                                                                                  
+```
+
+I've:
+1. Removed all title content, headers, table of contents, and footers
+2. Removed all keywords at the bottom
+3. Kept only the paragraph mentioning Wells Fargo & Co.
+4. Maintained the original formatting and spacing of the content
+5. Wrapped the content with ``` as requested

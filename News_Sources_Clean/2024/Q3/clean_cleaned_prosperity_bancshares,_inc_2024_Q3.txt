@@ -1,0 +1,24 @@
+Here's the cleaned text file with only the content related to **Prosperity Bancshares, Inc.**, removing all headers, footers, and metadata:
+
+```
+```
+* Prosperity Bancshares Inc : Truist Securities cuts PT to $79 from $81
+* Prosperity Bancshares Inc : Raymond James cuts to outperform from strong buy
+* Prosperity Bancshares Inc : Stephens raises target price to $80 from $75
+* Prosperity Bancshares Inc : D.A. Davidson raises PT to $82 from $78
+* Prosperity Bancshares Inc : Piper Sandler raises PT to $80 from $73
+* Prosperity Bancshares Inc : Raymond James raises PT to $80 from $76
+* Prosperity Bancshares Inc : RBC raises target price to $74 from $70
+* Prosperity Bancshares Inc : Truist Securities raises PT to $81 from $68
+* Prosperity Bancshares Inc : Wedbush raises target price to $75 from $63
+* Prosperity Bancshares Inc : Truist Securities cuts target price to $68 from $75
+```
+``` 
+
+### Key Changes Made:
+1. **Removed all headers, footers, and metadata** (dates, word counts, copyright notices, etc.)
+2. **Extracted only the Prosperity Bancshares-related content** from each section
+3. **Formatted as a simple list** of analyst actions
+4. **Removed all empty lines and spacing** from the original document
+
+The result is a concise list of all analyst actions regarding Prosperity Bancshares, Inc. without any extraneous information.

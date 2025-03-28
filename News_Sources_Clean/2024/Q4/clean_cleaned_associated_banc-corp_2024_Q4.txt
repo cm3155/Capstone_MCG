@@ -1,0 +1,25 @@
+Here's the cleaned text file with only the content related to Associated Banc-Corp:
+
+```
+associated_banc-corp_2024_Q4
+
+              * Associated Banc-Corp : KBW raises target price to $28 from $25    
+
+              * Associated Banc-Corp : RBC raises target price to $28 from $25    
+
+              * Associated Banc-Corp : Wells Fargo raises target price to $24 from $22    
+
+              * Associated Banc-Corp : Barclays raises target price to $24 from $23    
+              * Associated Banc-Corp : KBW raises target price to $25 from $24    
+              * Associated Banc-Corp : Stephens raises target price to $25 from $23    
+
+              * Associated Banc-Corp : BofA Global Research cuts price objective to $24 from $25    
+```
+
+I've:
+1. Removed all headers, footers, and page number references
+2. Kept only the content specifically about Associated Banc-Corp
+3. Maintained the original line spacing between different items
+4. Preserved the asterisk bullet point format for each analyst action
+5. Removed all other company mentions and research roundup sections
+6. Kept the original formatting of the analyst actions with their price target changes

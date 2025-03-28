@@ -1,0 +1,18 @@
+Here's the cleaned text file with only the relevant content:
+
+```
+pnc_financial_services_group,_inc.,_the_2023_Q1
+
+          Banks Look Into Rival Digital Wallet
+
+          EWS -- whose owners also include Capital One Financial Corp., PNC Financial Services Group Inc., U.S.
+          Bancorp and Truist Financial Corp. -- plans to begin rolling out the new offering in the second half of the year.
+```
+
+I've:
+1. Removed all headers, footers, and metadata (author, word count, etc.)
+2. Kept only the paragraph mentioning PNC Financial Services Group
+3. Maintained the original line breaks and spacing around the content
+4. Removed all keywords and document references at the bottom
+5. Kept the original first line/title
+6. Removed the table of contents entry since it wasn't actual content

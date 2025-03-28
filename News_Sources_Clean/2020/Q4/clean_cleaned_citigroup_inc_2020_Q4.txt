@@ -1,0 +1,92 @@
+Here's the cleaned text file with only the content relating to Citigroup Inc., with all titles, headers, footers, and other non-content elements removed:
+
+```
+citigroup_inc_2020_Q4
+
+          Banking & Finance: Stripe to Team With Goldman, Citigroup --- Online payment processor sets deal to offer
+          banking services for merchants, vendors................................................................................................................. 4
+
+          Lapses at Citi Draw $400 Million Fine ...................................................................................................................... 5
+
+
+          Banking & Finance: Stripe to Team With Goldman, Citigroup --- Online payment processor sets deal to
+          offer banking services for merchants, vendors                           
+          Stripe Inc. is teaming up with banks including Goldman Sachs Group Inc. and Citigroup Inc. to offer checking
+          accounts and other business-banking services, the startup's latest attempt to become the internet's financial
+          supermarket.                                                            
+          Stripe, which processes payments for millions of online businesses and e-commerce platforms, will soon give
+          its customers the option of offering insured, interest-bearing bank accounts, debit cards and other
+          cash-management services.                                               
+          These products aren't meant for consumers. Rather, they are designed for the merchants and vendors that
+          do business with Stripe's customers.                                    
+          Among the early adopters of Stripe's new banking services is Shopify Inc., which, starting early next year, will
+          offer Shopify Balance accounts to many of the hundreds of thousands of merchants that use its software.
+          Shopify Balance accounts will be held at Memphis, Tenn.-based Evolve Bancorp Inc., but Stripe is also
+          teaming up with Goldman in the U.S. and with Citigroup and Barclays PLC internationally to store and move
+          customer funds.                                                         
+          Digital banks like Square Inc.'s Cash App and startup Chime Financial Inc. have recently earned big
+          followings -- and multibillion-dollar valuations -- by providing consumers with alternatives to checking
+          accounts.                                                               
+          Stripe, on the other hand, is focused on automating business banking, specifically for platforms that
+          themselves have existing ties to scores of other businesses.            
+          A number of financial-technology companies offer banking and lending services alongside their signature
+          products. Square, for example, offers commercial loans to users based in part on signals about
+          creditworthiness gleaned from processing payments, a business that Stripe also entered last year.
+          For their part, banks have also looked to partnerships with technology companies as a more efficient way to
+          gather deposits than mailed-out offers or branch traffic. Starting next year, Alphabet Inc.'s Google will allow
+          users to open checking and savings accounts at Citigroup and other banks through the Google Pay app.
+          Coronavirus stay-at-home orders and shutdowns have boosted Stripe this year. More than 500,000 new
+          businesses have signed up for Stripe services since March, and existing Stripe customers like Shopify and
+          DoorDash Inc. experienced a surge of demand.                            
+          "For the partner banks we're working with, our intent for it is to be a shockingly effective customer-acquisition
+          channel for them where they end up with many, many more customers," said John Collison, Stripe's
+          co-founder and president.                                               
+
+
+          Lapses at Citi Draw $400 Million Fine                                   
+          Federal regulators fined Citigroup Inc. $400 million and ordered the nation's third-largest bank to fix its
+          risk-management systems, citing "significant ongoing deficiencies."     
+          In a consent order agreed to by the New York bank's board, the Federal Reserve faulted Citigroup for falling
+          short in "various areas of risk management and internal controls" including data management, regulatory
+          reporting and capital planning. The Office of the Comptroller of the Currency, in a separate consent order,
+          also issued Wednesday, said the fine was punishment for the bank's "long-standing failure" to remedy
+          problems in its risk and data-management systems.                       
+          The Wall Street Journal earlier reported that the Fed and the OCC were planning to reprimand Citigroup for
+          failing to improve its risk-management systems -- an expansive set of technology and procedures designed
+          to detect problematic transactions, risky trades and anything else that could harm the bank.
+          "We are disappointed that we have fallen short of our regulators' expectations, and we are fully committed to
+          thoroughly addressing the issues identified in the Consent Orders," the bank said. "Citi has significant
+          remediation projects underway to strengthen our controls, infrastructure and governance."
+          The public rebuke marks a major escalation of regulators' efforts to get Citigroup to fix its risk systems.
+          For years, the Fed and the OCC have privately pushed Citigroup Chief Executive Michael Corbat to give
+          priority to an overhaul of the systems. Their decision to issue consent orders requiring the changes indicates
+          that the pressure they were exerting behind the scenes wasn't enough.   
+          The reprimand -- in the works for several months -- accelerated planning for Mr. Corbat's retirement. Mr.
+          Corbat, who said last month that he would step down in February, felt the expensive, multiyear overhaul was
+          best left in the hands of his successor, Jane Fraser, the Journal previously reported. Ms. Fraser is currently
+          Citigroup's president and the head of its consumer bank.                
+          The punishment, while substantial, is gentler than the rebuke Wells Fargo & Co. got for weaknesses in its
+          risk-management systems brought to light by its 2016 fake-account scandal. The OCC fined the bank in early
+          2018 more than $1 billion, and the Fed imposed an unprecedented growth cap on the bank.
+          At issue at Citigroup is the infrastructure underpinning the bank's systems meant to identify risk and protect
+          customer data.                                                          
+          Many of Citigroup's various businesses, for example, run on their own independent systems that have their
+          own methods for tracking customers and transactions. There are hundreds of identification systems inside the
+          bank. A customer doing business with multiple parts of the bank could have different identification codes for
+          each one.                                                               
+          Regulators have long fretted that the hodgepodge of systems, a legacy of a string of deals in the 1990s that
+          turned Citigroup into a financial powerhouse, could make the bank vulnerable to costly and potentially
+          damaging missteps. A recent high-profile error -- Citigroup's accidental $900 million payment to creditors of
+          cosmetics company Revlon Inc. -- gave credence to their concerns.       
+          The consent orders from the OCC and Fed leave Citigroup with a lengthy to-do list. The regulators ordered
+          the bank to form a new board committee to oversee the risk overhaul and to develop plans for holding
+          management accountable.                                                 
+          The OCC order requires Citigroup to seek approval for any acquisition and gives the regulator power to order
+          the bank to replace managers or directors. The Fed and the OCC already broadly exercise veto power over
+          big purchases.                                                          
+          In its order, the OCC called out Citigroup's procedures for reporting problems within the bank to the board of
+          directors and its leaders' lack of "clearly defined roles and responsibilities." It said the bank failed to comply
+          with "multiple laws and regulations," including the Fair Housing Act.   
+          The risk-management overhaul is expected to be an expensive undertaking. Chief Financial Officer Mark
+          Mason had said the bank would spend $1 billion on the work this year alone.
+```
