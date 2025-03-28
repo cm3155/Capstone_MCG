@@ -1,0 +1,13 @@
+Here's the cleaned text file with only the relevant content about **Bank of New York Mellon Corporation**, formatted as requested:
+
+```
+More large financial institutions have been starting to participate in the crypto boom. Bank of New York Mellon Corp . and Fidelity Investments have announced plans to provide crypto services for institutional clients such as asset managers and hedge funds. Banks outside the U.S., including Banco Bilbao Vizcaya Argentaria SA and Commonwealth Bank of Australia , have started to sample ways of offering customers the ability to invest and store bitcoin and other digital assets.
+```
+
+### Key Changes Made:
+1. Removed all titles, headers, footers, and metadata.
+2. Extracted only the paragraph mentioning **Bank of New York Mellon Corporation**.
+3. Removed all unrelated content and formatting.
+4. Ensured the output starts and ends with ``` as requested.
+
+Let me know if you'd like any further refinements!

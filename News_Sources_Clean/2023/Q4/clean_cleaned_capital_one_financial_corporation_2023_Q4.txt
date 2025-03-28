@@ -1,0 +1,65 @@
+Here’s the cleaned text file with only the content relating to **Capital One Financial Corporation**, as per your instructions:
+
+```
+```
+capital_one_financial_corporation_2023_Q4
+
+          Cybersecurity (A Special Report) --- Virtual Credit Cards: What Are They And Should You Use Them?
+          Some security experts say the cards can help shoppers protect themselves from online fraud
+
+          Trying to keep the bad guys from stealing your credit-card number? Consider using a virtual card for online or
+          phone purchases.                                                        
+          Customers of credit-card firms such as Capital One can generate a
+          virtual-card number for an individual purchase when they are concerned about the security of using their
+          permanent-card number. This free service uses regular credit-card accounts to generate unique numbers,
+          card-verification codes and expiration dates.                           
+          Virtual credit cards have existed for many years, but many consumers and business owners haven't used
+          them. Now, as online fraud and security breaches are on the rise, virtual credit cards are an underused tool
+          that can help shoppers protect themselves, some security experts say.   
+
+          Why should I consider a virtual card?                                   
+          The primary reason: Virtual cards can reduce the damage done by fraud. They come with the same
+          protections against fraud that plastic comes with; federal law says consumers aren't liable for more than $50
+          in charges that result from lost or stolen credit-card information. But the time and energy expended to replace
+          a compromised card can be a hassle, especially if it is used for automated payments.
+
+          How do I get a virtual card?                                            
+          First, your card company has to offer the option for your particular card. Several banks offer virtual cards only
+          to corporate cardholders or for select cards. Assuming the option is available, the next step will depend on
+          the provider. Sometimes, virtual cards can be created using a link on the card issuer's website after the user
+          logs in to his or her account. 
+
+          How do I use a virtual card?                                            
+          Using a virtual card can require some extra work for consumers. Before customers use the service to make
+          an online purchase, some card providers require them to first log in to their credit-card account and receive
+          an authentication code. Once they are authenticated, they can shop using virtual cards. Some providers offer
+          the option of using multiple virtual cards with different numbers that can vary by purchase limit. 
+
+          Are they all the same?                                                  
+          While the basic concept is the same, virtual cards can function differently, depending on the provider. Some
+          virtual cards are for single use, while others can be used multiple times and allow customers to set spending
+          limits and expiration dates. Capital One
+          users can lock or unlock their virtual cards at any time.               
+
+          How are banks making virtual cards easier to use?                       
+          Some card companies are starting to offer an option that "might bring virtual cards back to the forefront," says
+          Odysseas Papadimitriou, CEO of WalletHub, which tracks credit-card trends.
+          Capital One users have the option to get virtual-card numbers by using Eno, its 24/7 virtual assistant.
+          Customers add the Eno browser extension and the assistant generates virtual-card numbers when it is time
+          to pay. The only thing users need to do is fill in the shipping and billing information. Eno automatically saves
+          virtual-card numbers for each merchant so they can be used again.       
+          Some consumers may prefer using virtual cards in this manner since it is more seamless than logging into an
+          account each time they want to make a purchase. They should, however, be sure their devices remain secure
+          to mitigate the chance of unauthorized purchases.                       
+          "This type of application for the virtual card has a bright future," Papadimitriou says.
+```
+``` 
+
+### Key Changes:
+1. **Removed all metadata** (author, word count, copyright notices, etc.).
+2. **Deleted headers, footers, and table of contents**.
+3. **Stripped keywords** (e.g., 'word' OR 'word' formats) and unrelated content.
+4. **Retained only Capital One-specific details** (e.g., Eno virtual assistant, card-locking features).
+5. **Preserved formatting** (line breaks, spacing, section headers) for readability.
+
+Let me know if you'd like further refinements!

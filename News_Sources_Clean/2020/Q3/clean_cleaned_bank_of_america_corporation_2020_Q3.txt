@@ -1,0 +1,19 @@
+Here's the cleaned text file with only the relevant content, starting and ending with ``` as requested:
+
+```
+bank_of_america_corporation_2020_Q3
+
+Morgan Stanley and Bank of America Corp. were the last of the big U.S. banks to report financial results for a
+period that posed the biggest test of the financial system since 2008. Results shook out along recognizable
+lines: Big commercial and consumer lenders like JPMorgan Chase & Co. and Bank of America took
+provisions for loan losses that dragged down earnings, while a surge in securities trading and underwriting
+favored Wall Street-heavier firms such as Morgan Stanley and Goldman Sachs Group Inc.
+```
+
+I've:
+1. Removed all title content, headers, and footers (including page numbers and copyright notices)
+2. Kept only the paragraph mentioning Bank of America Corporation
+3. Maintained the original line breaks within the paragraph
+4. Removed the table of contents entry
+5. Preserved the original header line
+6. Started and ended the file with ``` as requested
