@@ -11,7 +11,7 @@ def find_small_txt_files(directory, output_csv):
                 file_path = os.path.join(root, file)
                 file_size = os.path.getsize(file_path) / 1024  # Convert to KB
                 
-                if 0 < file_size <= 3:  # Check if file size is 3 KB or less
+                if file_size == 0:  # Check if file size is 3 KB or less
                     with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
                         text = f.read()
                     

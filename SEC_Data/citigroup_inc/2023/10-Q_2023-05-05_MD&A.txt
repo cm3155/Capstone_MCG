@@ -1,0 +1,3366 @@
+Non-GAAP Financial Measures 
+Citi prepares its financial statements in accordance with U.S. 
+generally accepted accounting principles (GAAP) and also 
+presents certain non-GAAP financial measures (non-GAAP 
+measures) that exclude certain items or otherwise include 
+components that differ from the most directly comparable 
+measures calculated in accordance with U.S. GAAP. Non-
+GAAP measures are provided as additional useful information 
+to assess Citi’s financial condition and results of operations 
+(including period-to-period operating performance). These 
+non-GAAP measures are not intended as a substitute for 
+GAAP financial measures and may not be defined or 
+calculated the same way as non-GAAP measures with similar 
+names used by other companies. For more information, 
+including the reconciliation of these non-GAAP financial 
+measures to their corresponding GAAP financial measures, 
+see the respective sections where the measures are presented 
+and described and the “Glossary of Terms and Acronyms” 
+below. 
+
+OVERVIEW
+
+This Quarterly Report on Form 10-Q should be read in 
+conjunction with Citigroup’s Annual Report on Form 10-K for 
+the year ended December 31, 2022 (referred to as the 2022 
+Form 10-K).
+
+Throughout this report, “Citigroup,” “Citi” and “the 
+
+Company” refer to Citigroup Inc. and its consolidated 
+subsidiaries. All “Note” references correspond to the Notes to 
+the Consolidated Financial Statements herein, unless 
+otherwise indicated.
+
+For a list of certain terms and acronyms used in this 
+
+Quarterly Report on Form 10-Q and other Citigroup 
+presentations, see “Glossary of Terms and Acronyms” at the 
+end of this report.
+
+Additional information about Citigroup is available on 
+
+Citi’s website at www.citigroup.com. Citigroup’s recent 
+annual reports on Form 10-K, quarterly reports on Form 10-Q, 
+current reports on Form 8-K and proxy statements, as well as 
+other filings with the U.S. Securities and Exchange 
+Commission (SEC) are available free of charge through Citi’s 
+website by clicking on “SEC Filings” under the “Investors” 
+tab. The SEC’s website also contains these filings and other 
+information regarding Citi at www.sec.gov.
+
+Please see “Risk Factors” in Citi’s 2022 Form 10-K for 
+
+a discussion of material risks and uncertainties that could 
+impact Citigroup’s businesses, results of operations and 
+financial condition.
+
+1
+
+ 
+ 
+ 
+Citigroup is managed pursuant to three operating segments: Institutional Clients Group, Personal Banking and Wealth Management 
+and Legacy Franchises. Activities not assigned to the operating segments are included in Corporate/Other. 
+
+Citigroup Operating Segments
+
+Institutional 
+Clients Group 
+(ICG)
+
+Personal Banking 
+and Wealth 
+Management
+(PBWM)
+
+Legacy
+Franchises 
+
+• Services
+
+• U.S. Personal Banking 
+
+• Asia Consumer Banking
+
+– Treasury and trade solutions 
+
+(TTS)
+
+– Securities services
+
+• Markets
+
+– Equity markets
+– Fixed income markets
+
+• Banking
+
+– Investment banking
+– Corporate lending
+
+– Cards
+
+◦ Branded cards
+◦ Retail services
+
+– Retail banking
+
+• Global Wealth Management
+
+(Global Wealth)
+– Private bank
+– Wealth at Work
+– Citigold
+
+(Asia Consumer)
+– Retail banking and cards for the 
+remaining 6 exit markets (China, 
+Indonesia, Korea, Poland, Russia 
+and Taiwan)
+
+• Mexico Consumer Banking 
+
+(Mexico Consumer) and Mexico 
+Small Business and Middle-
+Market Banking (Mexico 
+SBMM)
+– Retail banking and cards
+
+• Legacy Holdings Assets
+
+– Certain North America consumer 
+
+mortgage loans
+– Other legacy assets
+
+Corporate/Other 
+
+• Corporate Treasury managed activities
+
+• Operations and technology
+
+• Global staff functions and other corporate expenses
+
+• Discontinued operations
+
+The following are the four regions in which Citigroup operates. The regional results are fully reflected in the operating segments and 
+Corporate/Other above.
+
+Citigroup Regions(1)
+
+North 
+America
+
+Europe,
+Middle East
+and Africa
+(EMEA)
+
+Latin 
+America
+
+Asia
+
+(1)  North America includes the U.S., Canada and Puerto Rico, Latin America includes Mexico and Asia includes Japan. 
+
+2
+
+  
+ 
+ 
+    
+  
+ 
+ 
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION 
+AND RESULTS OF OPERATIONS 
+
+EXECUTIVE SUMMARY 
+
+First Quarter of 2023—Results Demonstrated Continued 
+Progress Toward Achieving Priorities
+As described further throughout this Executive Summary, 
+during the first quarter of 2023:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Citi’s revenues increased 12% versus the prior-year 
+period, including a gain on sale of Citi’s India consumer 
+banking business versus a loss related to the sale of Citi’s 
+Australia consumer banking business in the prior-year 
+period (for additional information, see “First Quarter of 
+2023 Results Summary” below). Excluding these 
+divestiture-related impacts, revenues increased 6%, 
+primarily driven by higher net interest income, partially 
+offset by lower non-interest revenues.
+Citi’s expenses increased 1% versus the prior-year period, 
+including divestiture-related impacts in both the current 
+and prior-year periods (for additional information, see 
+“First Quarter of 2023 Results Summary” below). 
+Excluding these divestiture-related impacts, expenses 
+increased 5%, primarily driven by continued investments 
+in Citi’s transformation, other risk and control 
+investments, inflation and severance costs, all partially 
+offset by the benefit of productivity savings, foreign 
+exchange translation and expense reduction from the 
+closed exit markets and wind-downs (for additional 
+information, see “Expenses” below).
+Citi’s cost of credit was $2.0 billion versus $0.8 billion in 
+the prior-year period. The increase reflected a net build of 
+$0.7 billion in the allowance for credit losses (ACL) for 
+loans and unfunded commitments and other provisions, 
+compared to a net ACL release of $0.1 billion in the prior-
+year period, primarily driven by macroeconomic 
+deterioration and growth in card revolving balances, and 
+higher net credit losses, primarily driven by ongoing 
+normalization in Branded cards and Retail services.
+Citi returned $1.0 billion to common shareholders in the 
+form of dividends.
+Citi’s Common Equity Tier 1 (CET1) Capital ratio 
+increased to 13.4% as of March 31, 2023, compared to 
+11.4% as of March 31, 2022 (for additional information, 
+see “Capital Resources” below). This compares to Citi’s 
+required regulatory CET1 Capital ratio of 12.0% as of 
+January 1, 2023 under the Basel III Standardized 
+Approach. 
+Citi continued to make further progress on its consumer 
+banking business divestitures in the first quarter of 2023, 
+including, among other things, completing the sales of its 
+India and Vietnam consumer banking businesses and 
+working toward closing two additional sale transactions in 
+2023, as well as progressing with the continued wind-
+downs of the Korea and China consumer banking 
+businesses and the Russia consumer, local commercial 
+and institutional businesses.
+
+3
+
+First Quarter of 2023 Results Summary
+
+Citigroup
+Citigroup reported net income of $4.6 billion, or $2.19 per 
+share, compared to net income of $4.3 billion, or $2.02 per 
+share in the prior-year period. The increase in net income was 
+primarily driven by the higher revenues, partially offset by the 
+higher expenses and the higher cost of credit. Citigroup’s 
+effective tax rate was approximately 25% in the current 
+quarter, including the impact of divestitures, versus 18% in the 
+prior-year period, which had higher discrete tax benefits (for 
+additional information, see “Income Taxes” below). Earnings 
+per share (EPS) increased 8%, reflecting the higher net income 
+and an approximate 1% decline in average diluted shares 
+outstanding. 
+
+Results for the first quarter of 2023 included divestiture-
+
+related impacts of $953 million in earnings before taxes ($648 
+million after-tax), primarily recorded in Legacy Franchises, 
+reflecting the following: 
+
+•
+
+•
+
+•
+•
+
+$1,018 million of net divestiture gains, primarily related 
+to a gain on sale of the India consumer banking business, 
+recorded in revenues 
+$73 million of aggregate divestiture-related costs, 
+recorded in expenses
+An $8 million benefit of divestiture-related credit costs
+$305 million of related taxes
+
+These divestiture-related impacts, collectively, had a 
+$0.33 positive impact on EPS in the current quarter. Excluding 
+these divestiture-related impacts, EPS was $1.86. (As used 
+throughout this Form 10-Q, Citi’s results of operations and 
+financial condition excluding the impact of divestiture-related 
+impacts are non-GAAP financial measures.)
+
+Results for the first quarter of 2022 included divestiture-
+
+related impacts of $(677) million in earnings before taxes 
+($(588) million after-tax), recorded in Legacy Franchises, 
+reflecting the following:
+
+•
+
+• A $118 million pretax loss primarily related to the Asia 
+markets, recorded in revenues; this pretax loss reflected 
+an ACL release of $(104) million and a net revenue 
+impact of $(14) million due to contractual adjustments
+A $71 million cost of credit reclassification to revenues, 
+as once a divestiture is classified as held-for-sale, credit 
+costs, including ACL builds/releases and net credit losses, 
+are reclassified to revenues
+A $535 million goodwill impairment recorded in 
+expenses, due to the re-segmentation and sequencing of 
+divestitures, as well as $24 million of costs related to the 
+Korea voluntary early retirement program, also recorded 
+in expenses
+$(89) million of related tax benefits
+
+•
+
+•
+
+These divestiture-related impacts, collectively, had a 
+$(0.30) negative impact on EPS in the prior-year period. 
+Excluding these divestiture-related impacts, EPS was $2.32.
+
+Citigroup revenues of $21.4 billion in the first quarter of 
+2023 increased 12% from the prior-year period. As discussed 
+above, reported revenues included net divestiture gains of 
+approximately $1.0 billion this quarter, primarily related to the 
+gain on sale of the India consumer banking business, 
+compared to a loss of $47 million primarily related to the Asia 
+markets in the prior-year period, both recorded in Legacy 
+Franchises. Excluding these impacts, revenues increased 6%, 
+reflecting strength across Services and Fixed income markets 
+in Institutional Clients Group (ICG), as well as strong average 
+loan growth in U.S. Personal Banking in Personal Banking 
+and Wealth Management (PBWM). The higher revenues were 
+partially offset by a decline in Investment banking and Equity 
+markets in ICG and lower investment product revenues in 
+Global Wealth Management (Global Wealth) in PBWM, as 
+well as impacts from the closed exit markets and wind-downs 
+in Legacy Franchises.
+
+in Citi’s transformation, other risk and control investments, 
+volume-related expenses and inflation.
+
+Cost of Credit
+Citi’s total provisions for credit losses and for benefits and 
+claims was a cost of $2.0 billion, compared to $0.8 billion in 
+the prior-year period. This increase reflected higher net credit 
+losses (see below) and a net build of $0.7 billion in the ACL 
+for loans and unfunded commitments and other provisions, 
+primarily driven by macroeconomic deterioration and growth 
+in card revolving balances in PBWM. This compared to a net 
+ACL release and other provisions of $(0.1) billion in the prior-
+year period. For additional information on Citi’s ACL, see 
+“Significant Accounting Policies and Significant Estimates—
+Citi’s Allowance for Credit Losses (ACL)” below. 
+
+Net credit losses of $1.3 billion increased 49% from the 
+prior year. Consumer net credit losses of $1.3 billion increased 
+52%, reflecting ongoing normalization, particularly in 
+Branded cards and Retail services. Corporate net credit losses 
+decreased to $22 million from $31 million. 
+
+Citigroup’s end-of-period loans were $652 billion, down 
+
+Citi also expects to incur higher net credit losses in 2023, 
+
+1% versus the prior-year period, as growth in PBWM was 
+more than offset by a decline in ICG and Legacy Franchises. 
+
+Citigroup’s end-of-period deposits were approximately 
+$1.3 trillion, largely unchanged versus the prior-year period, 
+as a decrease in PBWM, largely reflecting Global Wealth 
+clients reallocating deposits to higher-yielding investments on 
+the business’s platform, was offset by an increase in 
+institutional certificates of deposit in Corporate/Other. For 
+additional information about Citi’s deposits by business, 
+including drivers and deposit trends, see each respective 
+business’s results of operations and “Liquidity Risk—
+Deposits” below.
+
+Expenses
+Citigroup’s operating expenses of $13.3 billion increased 1% 
+from the prior-year period. As discussed above, reported 
+operating expenses included $73 million of divestiture-related 
+costs this quarter, compared to $559 million in the prior-year 
+period, both recorded in Legacy Franchises. Excluding these 
+divestiture-related costs, expenses increased 5%, largely 
+driven by the following:
+
+•
+
+•
+
+Approximately 1% by continued investments in Citi’s 
+transformation, largely related to risk and controls, data 
+and finance programs.
+Approximately 4% by structural expenses, largely in 
+compensation and benefits, which included the full-year 
+impact of hiring in the prior year, as well as hiring in the 
+first quarter of 2023; and the impact of inflation and 
+severance costs.
+
+The increase in expenses was partially offset by 
+
+productivity savings, lower business-led investments and the 
+impact of foreign exchange translation, as well as expense 
+reduction from the closed exit markets and wind-downs in 
+Legacy Franchises.
+
+As previously announced, Citi expects to incur higher 
+expenses in 2023, primarily reflecting continued investments 
+
+primarily driven by continued normalization toward pre-
+pandemic levels, particularly in the cards business in PBWM.
+For additional information on Citi’s consumer and 
+
+corporate credit costs, see each respective business’s results of 
+operations and “Credit Risk” below.
+
+Capital
+Citigroup’s CET1 Capital ratio was 13.4% as of March 31, 
+2023, compared to 11.4% as of March 31, 2022, based on the 
+Basel III Standardized Approach for determining risk-
+weighted assets (RWA). The increase was primarily driven by 
+net income, the impacts from the closing of the Asia consumer 
+banking business sales, and business actions, including a 
+reduction in RWA, partially offset by the payment of common 
+dividends.
+
+Citigroup’s Supplementary Leverage ratio as of March 
+
+31, 2023 was 6.0%, compared to 5.6% as of March 31, 2022. 
+The increase was driven by higher Tier 1 Capital, partially 
+offset by a slight increase in Total Leverage Exposure. For 
+additional information on Citi’s capital ratios and related 
+components, see “Capital Resources” below.
+
+During the first quarter of 2023, Citi continued to pause 
+common share repurchases, in anticipation of any temporary 
+capital impacts related to any potential signing of a sale 
+agreement for its Mexico Consumer/SBMM businesses (for 
+additional information, see “Macroeconomic and Other Risks 
+and Uncertainties” and the capital return risk factor in “Risk 
+Factors” in Citi’s 2022 Form 10-K) and to continue to have 
+ample capital to serve its clients.
+
+Institutional Clients Group
+ICG net income of $3.3 billion increased 23%, primarily 
+driven by lower cost of credit and higher revenues, partially 
+offset by higher expenses. ICG operating expenses of $7.0 
+billion increased 4%, largely driven by continued investments 
+in Citi’s transformation, other risk and control investments, 
+volume-related expenses and other structural expenses, 
+including severance costs, partially offset by productivity 
+savings and the impact of foreign exchange translation.
+
+4
+
+ICG revenues of $11.2 billion increased 1% (including 
+
+gain (loss) on loan hedges), as strength in Treasury and trade 
+solutions (TTS), Securities services and Fixed income markets 
+was partially offset by declines in Banking and Equity 
+markets. Results included a loss on loan hedges of $199 
+million in the first quarter of 2023, compared with a gain on 
+loan hedges of $169 million in the prior-year period.
+
+Services revenues of $4.5 billion increased 29%. TTS 
+revenues of $3.4 billion increased 31%, driven by 41% growth 
+in net interest income and 13% growth in non-interest revenue. 
+Strong performance in TTS was driven by higher interest rates 
+and business actions, including growth in deposits, managing 
+repricing and growth in fees. Securities services revenues of 
+$1.1 billion increased 23%, as net interest income increased 
+94%, driven by higher interest rates across currencies, and 
+were partially offset by a 6% decrease in non-interest revenue 
+due to the impact of lower settlement volumes and lower 
+market valuations on assets under custody and administration.
+Markets revenues of $5.6 billion decreased 4%, as growth 
+in Fixed income markets was more than offset by a decline in 
+Equity markets. Fixed income markets revenues of $4.5 billion 
+increased 4%, primarily driven by strength in rates and 
+currencies, partially offset by lower revenues in spread 
+products and other fixed income. Equity markets revenues of 
+$1.1 billion declined 25%, primarily reflecting reduced client 
+activity in cash and equity derivatives relative to a strong 
+quarter in the prior-year period.
+
+Banking revenues of $1.2 billion decreased 38%, 
+
+including the gain (loss) on loan hedges in the current quarter 
+and the prior-year period. Excluding the gain (loss) on loan 
+hedges, Banking revenues of $1.4 billion decreased 21%, 
+driven by lower revenues in Investment banking and 
+Corporate lending. Investment banking revenues of $774 
+million decreased 25%, reflecting a decline in the overall 
+market wallet, as continued geopolitical uncertainty, 
+heightened macroeconomic uncertainty and volatility 
+continued to impact client activity. Corporate lending revenues 
+decreased 54%, including the impact of the gain (loss) on loan 
+hedges. Excluding the impact of the gain (loss) on loan 
+hedges, Corporate lending revenues decreased 14% versus the 
+prior-year period, driven by lower volumes and higher 
+hedging costs. 
+
+For additional information on the results of operations of 
+
+ICG for the first quarter of 2023, see “Institutional Clients 
+Group” below.
+
+Personal Banking and Wealth Management
+PBWM net income of $489 million decreased 74%, driven by 
+higher cost of credit and higher expenses, partially offset by 
+higher revenues. PBWM operating expenses of $4.3 billion 
+increased 9%, primarily driven by continued investments in 
+Citi’s transformation, other risk and control investments and 
+severance costs, partially offset by productivity savings.
+
+PBWM revenues of $6.4 billion increased 9%, primarily 
+
+due to higher net interest income, driven by strong loan 
+growth across U.S. Personal Banking, partially offset by a 
+decline in non-interest revenue, primarily driven by lower 
+investment product revenues in Global Wealth.
+
+U.S. Personal Banking revenues of $4.7 billion increased 
+18%. Branded cards revenues of $2.5 billion increased 18%, 
+
+5
+
+primarily driven by the higher net interest income, as card 
+spend volume increased 9% and average loans increased 15%. 
+Retail services revenues of $1.6 billion increased 24%, 
+primarily driven by the higher net interest income. Retail 
+banking revenues of $613 million increased 3%, primarily 
+driven by higher mortgage revenue and strong growth in 
+installment lending, partially offset by the impact of the 
+transfer of relationships and the associated deposit balances to 
+Global Wealth.
+
+Global Wealth revenues of $1.8 billion decreased 9%, 
+largely driven by investment product revenue headwinds and 
+higher interest rates paid on deposits, particularly in the 
+Private bank.
+
+For additional information on the results of operations of 
+
+PBWM for the first quarter of 2023, see “Personal Banking 
+and Wealth Management” below.
+
+Legacy Franchises
+Legacy Franchises net income was $604 million, compared to 
+a net loss of $383 million in the prior-year period, primarily 
+driven by higher revenues and lower expenses, partially offset 
+by higher cost of credit. 
+
+Legacy Franchises revenues of $2.9 billion increased 
+
+48%, primarily driven by the gain on sale of the India 
+consumer banking business, partially offset by the absence of 
+the closed exit markets and wind-downs. 
+
+Legacy Franchises expenses of $1.8 billion decreased 
+
+24%, largely driven by the absence of the goodwill 
+impairment in Asia Consumer Banking (Asia Consumer) 
+recorded in the prior-year period and the benefit of the closed 
+exit markets and wind-downs.
+
+For additional information on the results of operations of 
+Legacy Franchises for the first quarter of 2023, see “Legacy 
+Franchises” below.
+
+Corporate/Other 
+Corporate/Other net income was $255 million, compared to 
+$189 million in the prior-year period, reflecting higher 
+revenues, partially offset by higher cost of credit, higher 
+expenses and lower income tax benefits. Corporate/Other 
+operating expenses of $310 million increased 19%, driven by 
+continued investments in Citi’s transformation and other risk 
+and control investments, partially offset by lower consulting 
+expenses. 
+
+Corporate/Other revenues of $914 million increased from 
+
+$190 million in the prior-year period, driven by higher net 
+interest income. The higher net interest income was primarily 
+due to the investment portfolio, largely driven by higher 
+interest rates. 
+
+For additional information on the results of operations of 
+Corporate/Other for the first quarter of 2023, see “Corporate/
+Other” below.
+
+Macroeconomic and Other Risks and Uncertainties
+Various geopolitical and macroeconomic challenges and 
+uncertainties continue to adversely impact economic 
+conditions in the U.S. and globally, including continued 
+elevated levels of inflation, central banks continuing to 
+increase interest rates, recent bank failures and related 
+volatility, uncertainty with respect to raising the U.S. federal 
+
+debt limit, and economic and geopolitical challenges related to 
+China and the Russia–Ukraine war. These and other factors 
+have adversely affected financial markets, negatively impacted 
+global economic growth rates and increased the risk of 
+recession in the U.S., Europe and other countries. These and 
+other factors could adversely affect Citi’s customers, clients, 
+businesses, funding costs, expenses and overall results of 
+operations and financial condition during the remainder of 
+2023.
+
+For example, on April 18, 2023, the Federal Deposit 
+Insurance Corporation (FDIC) announced that in May 2023, it 
+will propose a special assessment to recover the uninsured 
+deposit losses from the failures of Silicon Valley Bank and 
+Signature Bank. On May 1, 2023, the FDIC announced that its 
+Deposit Insurance Fund will incur additional costs related to 
+the resolution of First Republic Bank. The FDIC did not 
+indicate how it proposes covering these costs, but First 
+Republic Bank was not resolved under special emergency 
+provisions. Citibank, N.A. could incur an increase in its non-
+interest expense from the imposition of additional costs by the 
+FDIC, although the amount of such costs is not yet known or 
+reasonably estimable. 
+
+In addition, Citi could incur a significant loss on sale due 
+
+to currency translation adjustment (CTA) losses (net of 
+hedges) in Accumulated other comprehensive income (loss) 
+(AOCI), allocated goodwill and intangibles and other AOCI 
+loss components related to the potential signing of a sale 
+agreement for its remaining consumer banking divestitures. 
+The majority of these losses would be regulatory capital 
+neutral at closing.
+
+For a further discussion of trends, uncertainties and risks 
+
+that will or could impact Citi’s businesses, results of 
+operations, capital and other financial condition during the 
+remainder of 2023, see “First Quarter of 2023 Results 
+Summary” above and each respective business’s results of 
+operations, “Managing Global Risk,” including “Managing 
+Global Risk—Other Risks—Country Risk—Russia” and “—
+Argentina,” and “Forward-Looking Statements” below and 
+“Risk Factors” in Citi’s 2022 Form 10-K.
+
+6
+
+This page intentionally left blank.
+
+7
+
+RESULTS OF OPERATIONS
+
+SUMMARY OF SELECTED FINANCIAL DATA
+
+In millions of dollars, except per share amounts
+
+Net interest income
+
+Non-interest revenue
+
+Revenues, net of interest expense
+
+Operating expenses
+
+Provisions for credit losses and for benefits and claims
+
+Income from continuing operations before income taxes
+
+Income taxes
+
+Income from continuing operations
+
+Income (loss) from discontinued operations, net of taxes
+
+Net income before attribution of noncontrolling interests
+
+Net income attributable to noncontrolling interests
+
+Citigroup’s net income
+
+Earnings per share
+
+Basic
+
+Income from continuing operations
+
+Net income
+
+Diluted 
+
+Income from continuing operations
+
+Net income
+
+Dividends declared per common share 
+
+Common dividends 
+Preferred dividends(1)
+Common share repurchases
+
+Citigroup Inc. and Consolidated Subsidiaries
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+13,348  $ 
+
+10,871 
+
+8,099   
+
+21,447  $ 
+
+13,289   
+
+1,975   
+
+6,183  $ 
+
+1,531   
+
+4,652  $ 
+
+(1)   
+
+8,315 
+
+19,186 
+
+13,165 
+
+755 
+
+5,266 
+
+941 
+
+4,325 
+
+(2) 
+
+4,651  $ 
+
+4,323 
+
+45   
+
+17 
+
+4,606  $ 
+
+4,306 
+
+2.21  $ 
+
+2.21   
+
+2.19  $ 
+
+2.19   
+
+0.51   
+
+$ 
+
+1,000  $ 
+
+277   
+
+—   
+
+2.03 
+
+2.03 
+
+2.02 
+
+2.02 
+
+0.51 
+
+1,014 
+
+279 
+
+3,000 
+
+ 23 %
+
+ (3) 
+
+ 12 %
+
+ 1 
+
+NM
+
+ 17 %
+
+ 63 
+
+ 8 %
+
+ 50 
+
+ 8 %
+
+NM
+
+ 7 %
+
+ 9 %
+
+ 9 
+
+ 8 %
+
+ 8 
+
+ — 
+
+ (1) %
+
+ (1) 
+
+NM
+
+Table continues on the next page, including footnotes.
+
+8
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMMARY OF SELECTED FINANCIAL DATA
+(Continued)
+
+In millions of dollars, except per share amounts, ratios and direct staff
+
+At March 31:
+
+Total assets
+
+Total deposits 
+
+Long-term debt
+
+Citigroup common stockholders’ equity
+
+Total Citigroup stockholders’ equity
+
+Average assets
+
+Direct staff (in thousands)
+
+Performance metrics
+
+Return on average assets
+Return on average common stockholders’ equity(2)
+Return on average total stockholders’ equity(2)
+Return on tangible common equity (RoTCE)(3)
+Efficiency ratio (total operating expenses/total revenues, net)
+
+Basel III ratios
+CET1 Capital(4)(5)
+Tier 1 Capital(4)(5)
+Total Capital(4)
+Supplementary Leverage ratio(4)
+Citigroup common stockholders’ equity to assets
+
+Total Citigroup stockholders’ equity to assets
+Dividend payout ratio(6)
+Total payout ratio(7)
+Book value per common share
+Tangible book value (TBV) per share(3)
+
+Citigroup Inc. and Consolidated Subsidiaries
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 2,455,113 
+
+$ 2,394,105 
+
+ 3 %
+
+  1,330,459 
+
+  1,333,711 
+
+  279,684 
+
+  188,050 
+
+  208,295 
+
+253,954 
+
+178,714 
+
+197,709 
+
+  2,462,244 
+
+  2,374,040 
+
+ — 
+
+ 10 
+
+ 5 
+
+ 5 
+
+ 4 
+
+240 
+
+228 
+
+ 5 %
+
+ 0.76 %
+
+ 0.74 %
+
+ 9.5 
+
+ 9.2 
+
+ 10.9 
+
+ 62.0 
+
+ 9.0 
+
+ 8.7 
+
+ 10.5 
+
+ 68.6 
+
+ 13.44 %
+
+ 11.43 %
+
+ 15.31 
+
+ 15.57 
+
+ 5.96 
+
+ 7.66 %
+
+ 8.48 
+
+ 23 
+
+ 23 
+
+$ 
+
+96.59 
+
+$ 
+
+84.21 
+
+ 13.05 
+
+ 14.84 
+
+ 5.58 
+
+ 7.46 %
+
+ 8.26 
+
+ 25 
+
+ 100 
+
+92.03 
+
+79.03 
+
+ 5 %
+
+ 7 
+
+(1)  Certain series of preferred stock have semiannual payment dates. See Note 21 to the Consolidated Financial Statements in Citi’s 2022 Form 10-K. 
+(2)  The return on average common stockholders’ equity is calculated using net income less preferred stock dividends divided by average common stockholders’ 
+
+equity. The return on average total Citigroup stockholders’ equity is calculated using net income divided by average Citigroup stockholders’ equity.
+
+(3)  RoTCE and TBV are non-GAAP financial measures. For information on RoTCE and TBV, see “Capital Resources—Tangible Common Equity, Book Value Per 
+
+Share, Tangible Book Value Per Share and Return on Equity” below.
+
+(4)  Citi’s binding CET1 Capital and Tier 1 Capital ratios were derived under the Basel III Standardized Approach, whereas Citi’s binding Total Capital ratio was 
+
+derived under the Basel III Advanced Approaches framework for both periods presented.
+
+(5)  Certain of the above prior-period amounts have been revised to conform with enhancements made in the current period.
+(6)  Dividends declared per common share as a percentage of net income per diluted share.
+(7)  Total common dividends declared plus common share repurchases as a percentage of net income available to common shareholders (Net income less preferred 
+
+dividends). See “Consolidated Statement of Changes in Stockholders’ Equity,” Note 9 and “Equity Security Repurchases” below for the component details. 
+
+NM Not meaningful
+
+9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEGMENT REVENUES AND INCOME (LOSS)
+
+REVENUES
+
+In millions of dollars
+
+Institutional Clients Group
+
+Personal Banking and Wealth Management
+
+Legacy Franchises
+
+Corporate/Other
+
+Total Citigroup net revenues
+
+NM Not meaningful
+
+INCOME
+
+In millions of dollars
+
+Income (loss) from continuing operations
+
+Institutional Clients Group
+
+Personal Banking and Wealth Management
+
+Legacy Franchises
+
+Corporate/Other
+
+Income from continuing operations 
+
+Discontinued operations
+
+Less: Net income attributable to noncontrolling interests
+
+Citigroup’s net income
+
+NM Not meaningful 
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 
+
+11,233  $ 
+
+11,160 
+
+6,448   
+
+2,852   
+
+914   
+
+5,905 
+
+1,931 
+
+190 
+
+$ 
+
+21,447  $ 
+
+19,186 
+
+ 1 %
+
+ 9 
+
+ 48 
+
+NM
+
+ 12 %
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 
+
+3,298  $ 
+
+489   
+
+606   
+
+259   
+
+2,658 
+
+1,860 
+
+(385) 
+
+192 
+
+$ 
+
+$ 
+
+$ 
+
+4,652  $ 
+
+4,325 
+
+(1)  $ 
+
+45   
+
+(2) 
+
+17 
+
+4,606  $ 
+
+4,306 
+
+ 24 %
+
+ (74) 
+
+NM
+
+ 35 
+
+ 8 %
+
+ 50 %
+
+NM
+
+ 7 %
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEGMENT BALANCE SHEET(1)—MARCH 31, 2023
+
+In millions of dollars
+
+Assets
+
+Cash and deposits with banks, net of 
+allowance
+
+Securities borrowed and purchased under 
+agreements to resell, net of allowance
+
+Trading account assets
+
+Investments, net of allowance
+
+Loans, net of unearned income and 
+allowance for credit losses on loans
+
+Other assets, net of allowance
+Net intersegment liquid assets(4)
+
+Total assets
+
+Liabilities and equity
+
+Total deposits
+
+Securities loaned and sold under 
+agreements to repurchase
+
+Trading account liabilities
+
+Short-term borrowings
+Long-term debt(3)
+Other liabilities
+Net intersegment funding (lending)(3)
+
+Institutional
+Clients
+Group
+
+Personal 
+Banking 
+and Wealth 
+Management
+
+Legacy 
+Franchises
+
+Corporate/Other
+and
+consolidating
+eliminations(2)
+
+Citigroup
+parent company-
+issued long-term
+debt and
+stockholders’
+equity(3)
+
+Total
+Citigroup
+consolidated
+
+$ 
+
+96,751  $ 
+
+5,469  $ 
+
+3,433  $ 
+
+223,306  $ 
+
+—  $ 
+
+328,959 
+
+383,485   
+
+370,311   
+
+140,816   
+
+455   
+
+1,275   
+
+258   
+
+730   
+
+13   
+
+1,572   
+
+277,953   
+
+321,555   
+
+35,319   
+
+114,351   
+
+25,473   
+
+26,520   
+
+—   
+
+11,590   
+
+370,177   
+
+(1)   
+
+44,302   
+
+385,240   
+
+135,430   
+
+26,353   
+
+(547,023)   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+—   
+
+384,198 
+
+383,906 
+
+512,578 
+
+634,826 
+
+210,646 
+
+— 
+
+$  1,768,907  $ 
+
+489,670  $ 
+
+94,185  $ 
+
+102,351  $ 
+
+—  $ 
+
+2,455,113 
+
+$ 
+
+819,387  $ 
+
+436,925  $ 
+
+52,690  $ 
+
+21,457  $ 
+
+—  $ 
+
+1,330,459 
+
+255,264   
+
+183,763   
+
+31,637   
+
+100,982   
+
+105,245   
+
+272,629   
+
+47   
+
+514   
+
+1   
+
+227   
+
+2,369   
+
+246   
+
+—   
+
+83   
+
+10,850   
+
+23,353   
+
+41,106   
+
+15,444   
+
+1   
+
+487   
+
+8,549   
+
+11,566   
+
+13,625   
+
+45,942   
+
+—   
+
+—   
+
+—   
+
+166,826   
+
+—   
+
+(375,121)   
+
+257,681 
+
+185,010 
+
+40,187 
+
+279,684 
+
+153,073 
+
+— 
+
+Total liabilities
+Total equity(5)
+Total liabilities and equity
+
+$  1,768,907  $ 
+
+489,670  $ 
+
+94,185  $ 
+
+101,627  $ 
+
+(208,295)  $ 
+
+2,246,094 
+
+—   
+
+—   
+
+—   
+
+724   
+
+208,295   
+
+209,019 
+
+$  1,768,907  $ 
+
+489,670  $ 
+
+94,185  $ 
+
+102,351  $ 
+
+—  $ 
+
+2,455,113 
+
+(1) The supplemental information presented in the table above reflects Citigroup’s consolidated GAAP balance sheet by reportable segment and component. The 
+
+respective segment information depicts the assets and liabilities managed by each segment.
+
+(2) Consolidating eliminations for total Citigroup and Citigroup parent company assets and liabilities are recorded within Corporate/Other.
+(3) The total equity and the majority of long-term debt of Citigroup are reflected on the Citigroup parent company balance sheet (see Notes 17 and 26). Citigroup 
+
+allocates stockholders’ equity and long-term debt to its businesses through intersegment allocations as shown above.
+
+(4) Represents the attribution of Citigroup’s liquid assets (primarily consisting of cash, marketable equity securities and AFS debt securities) to the various businesses 
+
+based on Liquidity Coverage ratio (LCR) assumptions.
+(5) Corporate/Other equity represents noncontrolling interests. 
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INSTITUTIONAL CLIENTS GROUP
+
+Institutional Clients Group (ICG) includes Services, Markets and Banking (for additional information on these businesses, see 
+“Citigroup Operating Segments” above). ICG provides corporate, institutional and public sector clients around the world with a full 
+range of wholesale banking products and services, including fixed income and equity sales and trading, foreign exchange, prime 
+brokerage, derivative services, equity and fixed income research, corporate lending, investment banking and advisory services, cash 
+management, trade finance and securities services. ICG transacts with clients in both cash instruments and derivatives, including fixed 
+income, foreign currency, equity and commodity products. For more information on ICG’s business activities, see “Institutional 
+Clients Group” in Citi’s 2022 Form 10-K. 
+
+ICG’s international presence is supported by trading floors in approximately 80 countries and a proprietary network in 95 
+countries and jurisdictions. As part of previously disclosed plans, Citi has ended nearly all of the institutional banking services it 
+offered in Russia as of March 31, 2023, with the remaining services only those necessary to fulfill its remaining legal and regulatory 
+obligations. In connection with this wind-down, Citi expects to incur approximately $210 million in total estimated charges (excluding 
+the impact from any portfolio sales), of which $60 million relates to ICG. For additional information about Citi’s continued efforts to 
+reduce its operations and exposure in Russia, see “Legacy Franchises” and “Managing Global Risk—Other Risks—Country Risk—
+Russia” below.
+
+At March 31, 2023, ICG had $1.8 trillion in assets and $819 billion in deposits. Securities services managed $23.0 trillion in 
+assets under custody and administration at March 31, 2023, of which Citi provided both custody and administrative services to certain 
+clients related to $1.9 trillion of such assets. Managed assets under trust were $3.9 trillion at March 31, 2023. For additional 
+information on these operations, see “Administration and Other Fiduciary Fees” in Note 5.
+
+First Quarter
+
+2022
+
+% Change
+
+In millions of dollars, except as otherwise noted
+Commissions and fees
+Administration and other fiduciary fees
+Investment banking fees(1)
+Principal transactions
+
+Other
+
+Total non-interest revenue
+
+Net interest income (including dividends)
+
+Total revenues, net of interest expense
+
+Total operating expenses
+
+Net credit losses on loans
+Credit reserve build (release) for loans
+
+Provision (release) for credit losses on unfunded lending commitments
+
+Provisions (releases) for credit losses on HTM debt securities and other assets
+
+Provisions (releases) for credit losses
+
+Income from continuing operations before taxes
+
+Income taxes
+
+Income from continuing operations
+
+Noncontrolling interests
+
+Net income
+
+Balance Sheet data (in billions of dollars)
+
+EOP assets
+
+Average assets
+
+Efficiency ratio
+
+Average loans by reporting unit (in billions of dollars)
+
+Services
+Banking
+Markets
+
+Total
+
+Average deposits by reporting unit (in billions of dollars)
+
+TTS
+Securities services
+
+12
+
+$ 
+
+$ 
+
+2023
+1,150 
+654 
+834 
+3,709 
+
+(142) 
+
+$ 
+
+6,205 
+
+$ 
+
+5,028 
+
+1,130 
+672 
+1,039 
+4,442 
+
+93 
+
+7,376 
+
+3,784 
+
+$  11,233 
+
+$  11,160 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+6,973 
+
+22 
+(75) 
+
+(170) 
+
+151 
+
+(72) 
+
+4,332 
+
+1,034 
+
+6,723 
+
+30 
+596 
+
+352 
+
+(7) 
+
+971 
+
+3,466 
+
+808 
+
+$ 
+
+3,298 
+
+$ 
+
+2,658 
+
+40 
+
+18 
+
+$ 
+
+3,258 
+
+$ 
+
+2,640 
+
+$ 
+
+1,769 
+
+$ 
+
+1,774 
+
+1,704 
+
+1,685 
+
+ 62 %
+
+ 60 %
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+79 
+191 
+13 
+
+283 
+
+704 
+125 
+
+81 
+194 
+14 
+
+289 
+
+670 
+135 
+
+ 2 %
+ (3) 
+ (20) 
+ (17) 
+
+NM
+
+ (16) %
+
+ 33 
+
+ 1 %
+
+ 4 %
+
+ (27) %
+NM
+
+NM
+
+NM
+
+NM
+
+ 25 %
+
+ 28 
+
+ 24 %
+
+NM
+
+ 23 %
+
+ 4 %
+
+ 5 
+
+ (2) %
+ (2) 
+ (7) 
+
+ (2) %
+
+ 5 %
+ (7) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Services
+Markets and Banking
+
+Total
+
+$ 
+
+$ 
+
+829 
+24 
+853 
+
+$ 
+
+$ 
+
+805 
+21 
+826 
+
+ 3 %
+ 14 
+ 3 %
+
+Investment banking fees are substantially composed of underwriting and advisory revenues.
+
+(1) 
+NM Not meaningful
+
+ICG Revenue Details
+
+In millions of dollars
+
+Services
+
+Net interest income
+
+Non-interest revenue
+
+Total Services revenues
+
+Net interest income
+
+Non-interest revenue
+
+TTS revenues
+
+Net interest income
+
+Non-interest revenue
+
+Securities services revenues
+
+Markets
+
+Net interest income
+
+Non-interest revenue
+Total Markets revenues(1)
+Fixed income markets
+
+Equity markets
+
+Total Markets revenues
+
+Rates and currencies
+
+Spread products / other fixed income
+
+Total Fixed income markets revenues
+
+Banking
+
+Net interest income
+
+Non-interest revenue
+
+Total Banking revenues
+
+Investment banking
+
+Advisory
+
+Equity underwriting
+
+Debt underwriting
+
+Total Investment banking revenues
+Corporate lending (excluding gains (losses) on loan hedges)(2)
+
+Total Banking revenues (excluding gains (losses) on loan hedges)(2)
+Gain (loss) on loan hedges(2)
+
+Total Banking revenues (including gains (losses) on loan hedges)(2)
+Total ICG revenues, net of interest expense
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+2,839  $ 
+
+1,628   
+
+4,467  $ 
+
+2,358  $ 
+
+1,053   
+
+3,411  $ 
+
+481  $ 
+
+575   
+
+1,056  $ 
+
+1,470  $ 
+
+4,131   
+
+5,601  $ 
+
+4,454  $ 
+
+1,147   
+
+5,601  $ 
+
+3,640  $ 
+
+814   
+
+4,454  $ 
+
+719  $ 
+
+446   
+
+1,165  $ 
+
+289  $ 
+
+109   
+
+376   
+
+774  $ 
+
+590  $ 
+
+1,364  $ 
+
+(199)   
+
+1,165  $ 
+
+1,924 
+
+1,541 
+
+3,465 
+
+1,676 
+
+931 
+
+2,607 
+
+248 
+
+610 
+
+858 
+
+1,092 
+
+4,717 
+
+5,809 
+
+4,289 
+
+1,520 
+
+5,809 
+
+3,214 
+
+1,075 
+
+4,289 
+
+768 
+
+1,118 
+
+1,886 
+
+347 
+
+185 
+
+496 
+
+1,028 
+
+689 
+
+1,717 
+
+169 
+
+1,886 
+
+11,233  $ 
+
+11,160 
+
+ 48 %
+
+ 6 
+
+ 29 %
+
+ 41 %
+
+ 13 
+
+ 31 %
+
+ 94 %
+
+ (6) 
+
+ 23 %
+
+ 35 %
+
+ (12) 
+
+ (4) %
+
+ 4 %
+
+ (25) 
+
+ (4) %
+
+ 13 %
+
+ (24) 
+
+ 4 %
+
+ (6) %
+
+ (60) 
+
+ (38) %
+
+ (17) %
+
+ (41) 
+
+ (24) 
+
+ (25) %
+
+ (14) %
+
+ (21) %
+
+NM
+
+ (38) %
+
+ 1 %
+
+(1)  Citi assesses its Markets business performance on a total revenue basis, as offsets may occur across revenue line items. For example, securities that generate Net 
+
+interest income may be risk managed with derivatives that are recorded in Principal transactions revenue within Non-interest revenue. For a description of the 
+composition of these revenue line items, see Notes 4, 5 and 6.
+
+(2)  Credit derivatives are used to economically hedge a portion of the corporate loan portfolio that includes both accrual loans and loans at fair value. Gain (loss) on 
+
+loan hedges include the mark-to-market on the credit derivatives and the mark-to-market on the loans in the portfolio that are at fair value. The fixed premium 
+costs of these hedges are netted against the corporate lending revenues to reflect the cost of credit protection. Citigroup’s results of operations excluding the 
+impact of gain (loss) on loan hedges are non-GAAP financial measures.
+
+NM Not meaningful
+
+13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The discussion of the results of operations for ICG below excludes (where noted) the impact of any gain (loss) on hedges of accrual 
+loans, which are non-GAAP financial measures. For a reconciliation of these metrics to the reported results, see the table above.
+
+1Q23 vs. 1Q22
+Net income of $3.3 billion increased 23%, primarily driven by 
+lower cost of credit and higher revenues, partially offset by 
+higher expenses.
+
+Revenues increased 1% (including gain (loss) on loan 
+hedges), driven by higher Services revenues, partially offset 
+by lower Banking and Markets revenues. Services revenues 
+were up 29%, driven by higher revenues in both TTS and 
+Securities services. Banking revenues were down 38% 
+(including the impact of the gain (loss) on loan hedges), 
+reflecting lower revenues in both Investment banking and 
+Corporate lending. Markets revenues were down 4%, driven 
+by Equity markets, partially offset by higher Fixed income 
+markets revenues.
+
+Within Services:
+
+•
+
+•
+
+TTS revenues increased 31%, driven by 41% growth in 
+net interest income and 13% growth in non-interest 
+revenue, reflecting strong growth across all client 
+segments. The increase in net interest income was 
+primarily driven by higher interest rates and business 
+actions, including growth in deposits and managing 
+repricing. Average deposits increased 5%, largely driven 
+by growth in EMEA and North America. Average loans 
+decreased 2%, largely reflecting loans sales, primarily in 
+North America. The increase in non-interest revenue was 
+primarily due to strong fee growth across both the cash 
+and trade businesses, reflecting solid client engagement 
+and continued growth of underlying drivers, with U.S. 
+dollar clearing volumes up 6%, cross-border flows up 
+10% and commercial card spend up 40%.
+Securities services revenues increased 23%, as net interest 
+income grew 94%, driven by higher interest rates across 
+currencies. The increase in revenues was partially offset 
+by lower non-interest revenues (decrease of 6%), driven 
+by lower settlement volumes (decline of 3%), along with 
+lower market valuations on assets under custody and 
+administration. The decline in non-interest revenue was 
+partially offset by higher existing client activity and new 
+client onboarding and continued elevated levels of 
+corporate activity in Issuer services.
+
+Within Markets:
+
+•
+
+Fixed income markets revenues increased 4%, driven by 
+growth in rates and currencies, primarily in North 
+America, partially offset by a decline in spread products 
+and other fixed income, primarily in North America and 
+EMEA.
+
+Rates and currencies increased 13%, driven by the 
+rates business, reflecting increased interest rate volatility, 
+partially offset by a decline in the currencies business due 
+to a strong prior-year comparison. Spread products and 
+other fixed income revenues decreased 24%, due to 
+decreased institutional and corporate client activity in 
+spread products and a decline in commodities, primarily 
+
+•
+
+in North America, driven by decreased volatility against a 
+strong prior-year comparison. 
+Equity markets revenues decreased 25%, driven by equity 
+derivatives, primarily reflecting lower activity in both 
+corporate and institutional clients compared to a strong 
+prior-year period. The lower revenues also reflected a 
+decline in equity cash, driven by lower institutional client 
+activity. Prime finance balances continued to grow in the 
+quarter. 
+
+Within Banking:
+
+•
+
+•
+
+Investment banking revenues declined 25%, reflecting a 
+decline in the overall market wallet, as continued 
+geopolitical uncertainty, heightened macroeconomic 
+uncertainty and volatility continued to impact client 
+activity. Advisory revenues decreased 17%, reflecting a 
+decline in North America and Asia, partially offset by 
+growth in EMEA. The decrease in advisory revenues was 
+driven by the lower market wallet, partially offset by 
+wallet share gains. Equity underwriting revenues 
+decreased 41%, reflecting a decline in North America, 
+Asia and EMEA, driven by the decline in the market 
+wallet as well as wallet share loss. Debt underwriting 
+revenues decreased 24%, reflecting a decline in North 
+America and EMEA, driven by the decline in the market 
+wallet, partially offset by wallet share gains largely in the 
+investment-grade portfolio.
+Corporate lending revenues decreased 54%, including the 
+impact of the gain (loss) on loan hedges. Excluding the 
+impact of the gain (loss) on loan hedges, revenues 
+decreased 14%, primarily driven by lower volumes and 
+higher hedging costs. 
+
+Expenses increased 4%, primarily driven by continued 
+investment in Citi’s transformation, other risk and control 
+investments, volume-related expenses and other structural 
+expenses, including severance costs, partially offset by 
+productivity savings and the impact of foreign exchange 
+translation. 
+
+Provisions reflected a benefit of $72 million, compared to 
+
+costs of $971 million in the prior-year period, largely driven 
+by an ACL release for loans and unfunded lending 
+commitments and other provisions, compared to an ACL build 
+in the prior-year period. Net credit losses were $22 million, 
+compared to $30 million in the prior-year period.
+
+The ACL release was $94 million, compared to a build of 
+
+$941 million in the prior-year period. The year-over-year 
+decrease in the ACL build was due to the absence of Russia-
+related ACL builds in the prior-year period. The $94 million 
+ACL release for the quarter was driven by a net ACL release 
+for loans and unfunded lending commitments of $245 million, 
+primarily due to reductions in Russia loan exposures, partially 
+offset by $151 million related to an increase in transfer risk 
+associated with exposures outside the U.S. For additional 
+information on Citi’s ACL, see “Significant Accounting 
+Policies and Significant Estimates” below.
+
+14
+
+For additional information on ICG’s corporate credit 
+
+portfolio, see “Managing Global Risk—Credit Risk—
+Corporate Credit” below.
+
+For additional information on trends in ICG’s deposits 
+
+and loans, see “Managing Global Risk—Liquidity Risk—
+Loans” and “—Deposits” below.
+
+For additional information about trends, uncertainties and 
+risks related to ICG’s future results, see “Executive Summary” 
+above, “Managing Global Risk—Other Risks—Country Risk
+—Argentina” and “—Russia” and “Forward-Looking 
+Statements” below and “Risk Factors” in Citi’s 2022 Form 10-
+K.
+
+15
+
+PERSONAL BANKING AND WEALTH MANAGEMENT
+
+Personal Banking and Wealth Management (PBWM) consists of U.S. Personal Banking and Global Wealth Management (Global 
+Wealth). U.S. Personal Banking includes Branded cards and Retail services, which have the following proprietary cards portfolios: 
+Cash, Rewards and Value portfolios and co-branded cards within Branded cards (including American Airlines and Costco), and co-
+brand and private label relationships within Retail services (including, among others, The Home Depot, Best Buy, Sears and Macy’s). 
+U.S. Personal Banking also includes Retail banking, which provides traditional banking services to retail and small business 
+customers. Global Wealth includes Private bank, Wealth at Work and Citigold and provides financial services to clients from affluent 
+to ultra-high-net-worth through banking, lending, mortgages, investment, custody and trust product offerings in 20 countries, 
+including the U.S., Mexico and four wealth management centers: Singapore, Hong Kong, the UAE and London.
+
+At March 31, 2023, U.S. Personal Banking had 653 retail bank branches concentrated in the six key metropolitan areas of New 
+
+York, Chicago, Los Angeles, San Francisco, Miami and Washington, D.C. U.S. Personal Banking had $146 billion in outstanding 
+credit card balances, $115 billion in deposits and $39 billion in retail banking loans.
+
+At March 31, 2023, Global Wealth had $322 billion in deposits, $85 billion in mortgage loans, $60 billion in personal and small 
+
+business loans and $4 billion in outstanding credit card balances.
+
+In millions of dollars, except as otherwise noted
+
+Net interest income
+
+Non-interest revenue
+
+Total revenues, net of interest expense
+
+Total operating expenses
+
+Net credit losses on loans
+
+Credit reserve build (release) for loans
+
+Provision (release) for credit losses on unfunded lending commitments
+
+Provisions for benefits and claims (PBC), and other assets
+
+Provisions (releases) for credit losses and PBC
+
+Income from continuing operations before taxes
+
+Income taxes
+
+Income from continuing operations
+
+Noncontrolling interests
+
+Net income
+
+Balance Sheet data (in billions of dollars)
+
+EOP assets
+
+Average assets
+
+Average loans
+
+Average deposits
+
+Efficiency ratio
+
+Net credit losses as a percentage of average loans
+
+Revenue by reporting unit and component
+
+Branded cards
+
+Retail services
+
+Retail banking
+
+U.S. Personal Banking
+
+Private bank
+
+Wealth at Work
+
+Citigold
+
+Global Wealth
+
+Total
+
+NM Not meaningful
+
+16
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 
+
+5,934 
+
+$ 
+
+5,385 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+514 
+
+6,448 
+
+4,254 
+
+1,094 
+
+507 
+
+(6) 
+
+(4) 
+
+1,591 
+
+603 
+
+114 
+
+489 
+
+— 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+520 
+
+5,905 
+
+3,889 
+
+691 
+
+(1,062) 
+
+(2) 
+
+(3) 
+
+(376) 
+
+2,392 
+
+532 
+
+$ 
+
+1,860 
+
+— 
+
+489 
+
+$ 
+
+1,860 
+
+$ 
+
+490 
+
+495 
+
+333 
+
+434 
+
+476 
+
+474 
+
+312 
+
+447 
+
+ 66 %
+
+ 1.33 
+
+ 66 %
+
+ 0.90 
+
+$ 
+
+2,466 
+
+$ 
+
+2,090 
+
+$ 
+
+$ 
+
+1,613 
+
+613 
+
+4,692 
+
+567 
+
+193 
+
+996 
+
+$ 
+
+$ 
+
+1,756 
+
+6,448 
+
+1,299 
+
+595 
+
+3,984 
+
+779 
+
+183 
+
+959 
+
+1,921 
+
+5,905 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+ 10 %
+
+ (1) 
+
+ 9 %
+
+ 9 %
+
+ 58 %
+
+NM
+
+NM
+
+ (33) 
+
+NM
+
+ (75) %
+
+ (79) 
+
+ (74) %
+
+ — 
+
+ (74) %
+
+ 3 %
+
+ 4 
+
+ 7 
+
+ (3) 
+
+ 18 %
+
+ 24 
+
+ 3 
+
+ 18 %
+
+ (27) %
+
+ 5 
+
+ 4 
+
+ (9) %
+
+ 9 %
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1Q23 vs. 1Q22 
+Net income was $489 million, compared to $1.9 billion in the 
+prior-year period, driven by higher cost of credit and higher 
+expenses, partially offset by higher revenues.
+
+Revenues increased 9%, primarily due to higher net 
+
+interest income, driven by strong loan growth across U.S. 
+Personal Banking. The increase was partially offset by lower 
+non-interest revenue, primarily reflecting lower investment 
+product revenues in Global Wealth. 
+
+U.S. Personal Banking revenues increased 18%, reflecting 
+
+higher revenues in both cards and Retail banking.
+
+Expenses increased 9%, primarily driven by continued 
+investments in Citi’s transformation, other risk and control 
+investments and severance costs, partially offset by 
+productivity savings.
+
+Provisions were $1.6 billion, compared to a benefit of 
+
+$376 million in the prior-year period, largely driven by a net 
+ACL build for loans and higher net credit losses. Net credit 
+losses increased 58%, reflecting ongoing normalization from 
+historically low levels, particularly in Branded cards (net 
+credit losses up 72% to $521 million) and Retail services (net 
+credit losses up 95% to $491 million). 
+
+Cards revenues increased 20%. Branded cards revenues 
+
+The net ACL build was $0.5 billion, compared to a net 
+
+release of $1.1 billion in the prior-year period, primarily 
+driven by a deterioration in macroeconomic assumptions and 
+growth in U.S. cards revolving balances. For additional 
+information on Citi’s ACL, see “Significant Accounting 
+Policies and Significant Estimates” below.
+
+For additional information on U.S. Personal Banking’s 
+
+Branded cards, Retail services and Retail banking portfolios, 
+see “Credit Risk—Consumer Credit” below.
+
+For additional information about trends, uncertainties and 
+
+risks related to PBWM’s future results, see “Executive 
+Summary” above and “Forward-Looking Statements” below, 
+and “Risk Factors—Strategic Risks” in Citi’s 2022 Form 10-
+K.
+
+increased 18%, primarily driven by higher net interest income 
+on higher card spend volumes and higher loan balances. 
+Branded cards new account acquisitions increased 17% and 
+card spend volumes increased 9%. Average loans increased 
+15%, reflecting the higher card spend volumes and lower 
+payment rates.
+
+Retail services revenues increased 24%, primarily driven 
+by higher net interest income on higher loan balances. Retail 
+services card spend volumes decreased 3% and average loans 
+increased 10%, reflecting lower payment rates. 
+
+Retail banking revenues increased 3%, primarily driven 
+by higher mortgage revenue and strong growth in installment 
+lending, partially offset by the impact of the transfer of 
+relationships and the associated deposit balances to Global 
+Wealth. Average loans increased 14%, primarily driven by 
+higher mortgage originations. Average deposits decreased 6%, 
+reflecting the transfer of relationships and the associated 
+deposit balances to Global Wealth.
+
+Global Wealth revenues decreased 9%, largely reflecting 
+investment product revenue headwinds and lower net interest 
+income in the Private bank. Average deposits decreased 2% 
+and average loans decreased 1%. The decline in average 
+deposits largely reflected Global Wealth clients reallocating 
+deposits to higher-yielding investments on the business’s 
+platform, partially offset by the transfer of deposit 
+relationships from Retail banking. Client assets decreased 4%, 
+driven by declines in equity market valuations and lower 
+deposits. Global Wealth continued to grow client advisors, 
+which increased 3%. Private bank revenues decreased 27%, 
+driven by the investment product revenue headwinds and 
+higher interest rates paid on deposits. In addition, Wealth at 
+Work revenues increased 5% and Citigold revenues increased 
+4%. 
+
+17
+
+LEGACY FRANCHISES
+
+As of March 31, 2023, Legacy Franchises included (i) Asia Consumer Banking (Asia Consumer), representing the consumer banking 
+operations of the remaining six Asia and EMEA exit countries, (ii) Mexico Consumer Banking (Mexico Consumer) and Mexico Small 
+Business and Middle-Market Banking (Mexico SBMM), collectively Mexico Consumer/SBMM, and (iii) Legacy Holdings Assets 
+(certain North America consumer mortgage loans and other legacy assets). Asia Consumer provides traditional retail banking and 
+branded card products to retail and small business customers. Mexico Consumer/SBMM provides traditional retail banking and 
+branded card products to consumers and small business customers and traditional middle-market banking products and services to 
+commercial customers through Citibanamex. 
+
+Legacy Franchises also included the following seven consumer banking businesses prior to their sale: Australia, until its closing 
+on June 1, 2022; the Philippines, until its closing on August 1, 2022; Thailand and Malaysia, until their closings on November 1, 2022; 
+Bahrain, until its closing on December 1, 2022; and India and Vietnam, until their closings on March 1, 2023. 
+
+In addition, Citi has entered into agreements to sell its consumer banking businesses in Indonesia and Taiwan, and has continued 
+to make progress on its wind-downs of consumer banking operations in Korea and China and consumer banking and local commercial 
+banking operations in Russia (see below). See Note 2 for additional information on Legacy Franchises’ consumer banking business 
+sales and wind-downs. 
+
+In connection with Citi’s consumer and local commercial banking wind-down in Russia, Citi expects to incur approximately $210 
+million in total estimated charges (excluding the impact from any portfolio sales), of which $150 million relates to Legacy Franchises, 
+largely driven by restructuring, vendor termination fees and other related charges. Citi’s previously disclosed referral agreement with a 
+Russian bank to settle a portfolio of ruble-denominated credit card loans, subject to customer consents, can be terminated under certain 
+circumstances and is being reevaluated as Citi reviews other alternatives. The credit card loans will remain held-for-investment as Citi 
+continues to explore pathways to accelerate the wind-down in a manner that is compliant with all applicable regulatory and legal 
+requirements. For additional information about Citi’s continued efforts to reduce its operations and exposure in Russia, see 
+“Institutional Clients Group” above and “Managing Global Risk—Other Risks—Country Risk—Russia” below, as well as “Risk 
+Factors” in Citi’s 2022 Form 10-K.
+
+At March 31, 2023, on a combined basis, Legacy Franchises had 1,406 retail branches, $20 billion in retail banking loans and $53 
+
+billion in deposits. In addition, the businesses had $9 billion in outstanding card loan balances, and Mexico SBMM had $8 billion in 
+outstanding corporate loan balances. These loan and deposit amounts exclude approximately $10 billion of loans ($9 billion of retail 
+banking loans and $1 billion of credit card loan balances) and approximately $11 billion of deposits, all of which were reclassified to 
+held-for-sale (HFS) (e.g., as Other assets and Other liabilities on the Consolidated Balance Sheet) as a result of Citi’s entry into 
+agreements to sell certain remaining consumer banking businesses. See Note 2 for additional information.
+
+In millions of dollars, except as otherwise noted
+
+Net interest income
+
+Non-interest revenue
+
+Total revenues, net of interest expense
+
+Total operating expenses
+
+Net credit losses on loans
+
+Credit reserve build (release) for loans
+
+Provision (release) for credit losses on unfunded lending commitments
+
+Provisions for benefits and claims (PBC), HTM debt securities and other assets
+
+Provisions (releases) for credit losses and PBC
+
+Income (loss) from continuing operations before taxes
+
+Income taxes
+
+Income (loss) from continuing operations
+
+Noncontrolling interests
+
+Net income (loss)
+
+Balance Sheet data (in billions of dollars)
+
+EOP assets
+
+Average assets
+
+EOP loans
+
+EOP deposits
+
+Efficiency ratio
+
+Revenue by reporting unit and component
+
+18
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+1,290 
+
+1,562 
+
+2,852 
+
+1,752 
+
+186 
+
+3 
+
+(18) 
+
+174 
+
+345 
+
+755 
+
+149 
+
+606 
+
+2 
+
+1,508 
+
+423 
+
+1,931 
+
+2,293 
+
+151 
+
+(146) 
+
+124 
+
+31 
+
+160 
+
+(522) 
+
+(137) 
+
+(385) 
+
+(2) 
+
+604 
+
+$ 
+
+(383) 
+
+$ 
+
+94 
+
+97 
+
+37 
+
+53 
+
+122 
+
+124 
+
+44 
+
+51 
+
+ 61 %
+
+ 119 %
+
+ (14) %
+
+NM
+
+ 48 %
+
+ (24) %
+
+ 23 %
+
+NM
+
+NM
+
+NM
+
+NM
+
+NM
+
+NM
+
+NM
+
+NM
+
+NM
+
+ (23) %
+
+ (22) 
+
+ (16) 
+
+ 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Asia Consumer
+
+Mexico Consumer/SBMM
+
+Legacy Holdings Assets
+
+Total
+
+NM Not meaningful
+
+1Q23 vs. 1Q22 
+Net income was $604 million, compared to a net loss of $383 
+million in the prior-year period, driven by higher revenues and 
+lower expenses, partially offset by higher cost of credit. 
+
+Results for the first quarter of 2023 included divestiture-
+
+related impacts of $953 million in earnings before taxes ($648 
+million after-tax), recorded in Legacy Franchises, reflecting 
+the following: 
+
+•
+
+•
+
+•
+•
+
+$1,018 million of net divestiture gains, primarily related 
+to a gain on sale of the India consumer banking business, 
+recorded in other revenue 
+$73 million of aggregate divestiture-related costs, 
+recorded in expenses
+An $8 million benefit of divestiture-related credit costs
+$305 million of related taxes
+
+Results for the first quarter of 2022 included divestiture-
+related impacts of $(677) million ($(588) million after-tax), 
+recorded in Legacy Franchises, reflecting the following:
+
+•
+
+•
+
+•
+
+•
+
+A $118 million pretax loss primarily related to the Asia 
+markets, recorded in revenues; this pretax loss reflected 
+an ACL release of $(104) million and a net revenue 
+impact of $(14) million due to contractual adjustments
+A $71 million cost of credit reclassification to revenues, 
+as once a divestiture is classified as held-for-sale, credit 
+costs, including ACL builds/releases and net credit losses, 
+are reclassified to revenues
+A $535 million goodwill impairment, recorded in 
+expenses, due to the re-segmentation and sequencing of 
+divestitures, as well as $24 million of costs related to the 
+Korea voluntary early retirement program, also recorded 
+in expenses
+$(89) million of related tax benefits
+
+$ 
+
+$ 
+
+1,509 
+
+1,322 
+
+21 
+
+787 
+
+1,139 
+
+5 
+
+$ 
+
+2,852 
+
+$ 
+
+1,931 
+
+ 92 %
+
+ 16 
+
+NM
+
+ 48 %
+
+Revenues increased 48%, primarily driven by higher 
+revenues in Asia Consumer and Mexico Consumer/SBMM. 
+Asia Consumer revenues of $1.5 billion increased from 
+$787 million in the prior-year period, primarily driven by the 
+India gain on sale, partially offset by the absence of closed exit 
+markets and wind-downs. 
+
+Mexico Consumer/SBMM revenues increased 16%, as 
+cards revenues increased 29%, SBMM revenues increased 
+18% and retail banking revenues increased 11%, primarily due 
+to the benefit of FX translation as well as higher interest rates 
+and higher lending volumes. 
+
+Legacy Holdings Assets revenues were largely 
+
+unchanged.
+
+Expenses decreased 24%, primarily driven by the absence 
+
+of the goodwill impairment in the prior-year period and the 
+benefit of the closed exit markets and wind-downs. 
+
+Provisions were $345 million, compared to $160 million 
+
+in the prior-year period, primarily driven by an increase of 
+$174 million due to a reserve build related to macroeconomic 
+deterioration and an increase in transfer risk associated with 
+exposures outside the U.S. The higher cost of credit was also 
+driven by higher net credit losses, primarily reflecting higher 
+lending volumes in Mexico Consumer.
+
+For additional information about trends, uncertainties and 
+
+risks related to Legacy Franchises’ future results, see 
+“Executive Summary” above, “Managing Global Risk—Other 
+Risks—Country Risk—Russia” and “Forward-Looking 
+Statements” below and “Risk Factors—Strategic Risks” in 
+Citi’s 2022 Form 10-K.
+
+19
+
+ 
+ 
+ 
+ 
+CORPORATE/OTHER 
+
+Activities not assigned to the operating segments (ICG, PBWM and Legacy Franchises) are included in Corporate/Other. Corporate/
+Other included certain unallocated costs of global staff functions (including finance, risk, human resources, legal and compliance-
+related costs), other corporate expenses and unallocated global operations and technology expenses and income taxes, as well as 
+results of Corporate Treasury investment activities and discontinued operations. At March 31, 2023, Corporate/Other had $102 billion 
+in assets, including Corporate Treasury investment securities and the Company’s deferred tax assets (DTAs). During the first quarter 
+of 2023, Citi placed a $5 billion uninsured deposit with First Republic Bank, classified as Deposits with banks. On May 1, 2023, 
+JPMorgan Chase Bank, N.A. (JPMorgan), as part of its purchase of certain assets and liabilities of First Republic Bank, assumed all of 
+the deposits of First Republic Bank. As a result, Citi now has a $5 billion uninsured deposit with JPMorgan.
+
+First Quarter
+
+2023
+
+2022
+
+% Change
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+1,096  $ 
+
+(182)   
+
+914  $ 
+
+310  $ 
+
+111  $ 
+
+493  $ 
+
+234   
+
+259  $ 
+
+(1)   
+
+258  $ 
+
+3   
+
+255  $ 
+
+194 
+
+(4) 
+
+190 
+
+260 
+
+— 
+
+(70) 
+
+(262) 
+
+192 
+
+(2) 
+
+190 
+
+1 
+
+189 
+
+NM
+
+NM
+
+NM
+
+ 19 %
+
+ — %
+
+NM
+
+NM
+
+ 35 %
+
+ 50 
+
+ 36 %
+
+NM
+
+ 35 %
+
+In millions of dollars
+
+Net interest income
+
+Non-interest revenue
+
+Total revenues, net of interest expense
+
+Total operating expenses
+
+Provisions for HTM debt securities and other assets
+
+Income (loss) from continuing operations before taxes
+
+Income taxes (benefits)
+
+Income from continuing operations
+
+Income (loss) from discontinued operations, net of taxes
+
+Net income before attribution to noncontrolling interests
+
+Noncontrolling interests
+
+Net income
+
+NM Not meaningful
+
+1Q23 vs. 1Q22
+Net income was $255 million, compared to $189 million in the 
+prior-year period. The increase in net income was primarily 
+driven by higher revenues, partially offset by lower discrete 
+income tax benefits, higher cost of credit and higher expenses. 
+Revenues were $914 million, compared to $190 million in 
+
+the prior-year period, primarily driven by higher net revenue 
+from the investment portfolio, largely due to higher interest 
+rates. 
+
+Expenses increased 19%, primarily driven by 
+transformation and other risk and control investments, 
+partially offset by lower consulting expenses. 
+
+Provisions were $111 million, primarily driven by a 
+
+reserve build related to the uninsured deposit with First 
+Republic Bank.
+
+For additional information about trends, uncertainties and 
+
+risks related to Corporate/Other’s future results, see 
+“Executive Summary” above, “Forward-Looking Statements” 
+below and “Risk Factors—Strategic Risks” in Citi’s 2022 
+Form 10-K.
+
+20
+
+ 
+ 
+ 
+ 
+

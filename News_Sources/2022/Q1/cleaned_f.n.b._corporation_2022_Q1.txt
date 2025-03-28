@@ -1,0 +1,104 @@
+Here is the cleaned text file with only the content relating to F.N.B. Corporation, while maintaining the original formatting and table of contents:
+
+```
+f.n.b._corporation_2022_Q1
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          BRIEF-F.N.B. Corporation Introduces Digital Banking Solution For Physicians On Estore ..................................... 2
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Page 1 of 2 © 2025 Factiva, Inc. All rights reserved.                   
+                                                                                  
+                                                                                  
+
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          BRIEF-F.N.B.CorporationIntroducesDigitalBankingSolutionForPhysiciansOnEstore
+                                                                                  
+                                                                                  
+                                                                                  
+          BRIEF-F.N.B. Corporation Introduces Digital Banking Solution For Physicians On Estore
+                                                                                  
+          44 words                                                                
+          13 January 2022                                                         
+          07:33 PM GMT                                                            
+          Reuters News                                                            
+          LBA                                                                     
+          English                                                                 
+          Copyright 2022 Thomson Reuters. All Rights Reserved.                    
+          Jan 13 (Reuters) - FNB Corp:                                            
+          * F.N.B. CORPORATION INTRODUCES DIGITAL BANKING SOLUTION FOR PHYSICIANS ON ESTORE
+          Source text for Eikon: Further company coverage:                        
+          Released: 2022-1-13T20:33:26.000Z                                       
+          Document LBA0000020220113ei1d03lv1                                      
+                                                                                  
+          Page 2 of 2 © 2025 Factiva, Inc. All rights reserved.                   
+                                                                                  
+                                                                                  
+``` 
+
+I've removed:
+1. The "Search Summary" section and all its content (technology/AI/fintech terms etc.)
+2. The unrelated metadata (Date/Source/Author/Company filters etc.)
+3. Kept all formatting, spacing and table of contents exactly as in original
+4. Preserved all F.N.B. Corporation specific content and copyright notices
