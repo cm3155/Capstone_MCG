@@ -1,0 +1,521 @@
+RISK MANAGEMENT
+
+
+Schwab’s business activities expose it to a variety of risks, including operational, compliance, credit, market, and liquidity risks. The Company has a comprehensive risk management program to identify and manage these risks and their associated potential for financial and reputational impact. Our risk management process is comprised of risk identification and assessment, risk response, risk measurement and monitoring, and risk reporting and escalation. We use periodic risk and control self-assessments, control testing programs, and our internal audit department performs evaluations of our risk management processes and controls.
+
+
+Culture
+
+
+A fundamental commitment to strong and effective risk management is core to Schwab’s business strategy. Risk management is an integrated and foundational part of our culture and a duty of every employee. The Board of Directors has approved an Enterprise Risk Management (ERM) Framework that incorporates our purpose, vision, and values, which form the bedrock of our corporate culture and set the tone for the organization. We designed the ERM Framework to enable a comprehensive approach to managing risks encountered by Schwab in its business activities. The ERM Framework incorporates key concepts commensurate with the size, risk profile, complexity, and continuing growth of the Company. While all personnel are responsible for risk management, the Company’s risk appetite, which is defined as the amount of risk the Company is willing to accept in pursuit of its corporate strategy, is developed by executive management and approved by the Board of Directors.
+
+
+The Company’s “Through Clients’ Eyes” strategy guides our actions and behaviors at Schwab, and informs our corporate culture, our risk appetite, and approach to risk management. Schwab is committed to the highest standards of ethical conduct and compliance with applicable laws, rules, and regulations, and our Code of Business Conduct and Ethics outlines the ethical conduct that we must demonstrate to deliver our strategy while retaining the trust of our stakeholders.
+
+
+As part of our integration of TD Ameritrade, the Company has aligned TD Ameritrade’s risk management practices with Schwab’s risk appetite. Our integration work included evaluating new or changed risks impacting the combined company and taking action through various means. Though integration work continues, the Company’s operations, inclusive of TD Ameritrade, remain consistent with our ERM Framework.
+
+
+Risk Governance
+
+
+Schwab maintains an integrated risk governance structure that directs Company-wide execution of the risk management process. The risk governance structure includes the Board of Directors, designated committees of the Board, and management risk committees.
+
+
+- 45 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+CSC’s Board of Directors sets the tone and culture of effective risk management. The Board has a Risk Committee that assists the Board in setting the type and level of risks that the Company is willing to take and supports the independence and stature of independent risk management. The Board Risk Committee also assists the Board in overseeing and holding senior management accountable for implementing the Board’s approved risk tolerance, maintaining the Company’s risk management and control program, and managing the Company’s activities in a safe and sound manner, and in compliance with applicable laws and regulations. The Board Risk Committee also approves risk appetite statements and related key risk appetite metrics, key risk policies, and reviews reports relating to risk issues from functional areas of corporate risk management, legal, and internal audit.
+
+
+The Audit Committee of the Board of Directors assists the Board in fulfilling its oversight responsibilities by reviewing the integrity of the Company’s financial statements and financial reporting processes, the qualifications and independence of the independent auditors and performance of the Company’s internal audit function and independent auditors, compliance with legal and regulatory requirements, processes to assess and manage risk exposures, and other matters as directed by the Board. The Compensation Committee of the Board of Directors assists the Board in oversight of compensation of the Company’s directors, executive officers, and other senior officers. The Board Nominating and Corporate Governance Committee assists the Board in its oversight responsibilities regarding Board composition, performance, and developing corporate governance principles, policies and procedures.
+
+
+Senior management takes an active role in the risk management process and has developed policies and procedures under which specific business and control units are responsible for risk identification and assessment, risk response, risk measurement and monitoring, and risk reporting and escalation. The Global Risk Committee, which is comprised of senior executives from each major business and control function, is responsible for the oversight of risk management. This includes identifying emerging risks, assessing risk management practices and the control environment, reinforcing business accountability for risk management, supervisory controls and regulatory compliance, supporting resource prioritization across the organization, and escalating significant issues to the Board of Directors. The Chief Risk Officer regularly reports activities of the Global Risk Committee to the Risk Committee of the Board of Directors.
+
+
+We have established risk metrics and reporting that enable measurement of the impact of strategy execution against risk appetite. The risk metrics, with risk limits and tolerance levels, are established for key risk categories by the Global Risk Committee and its functional risk sub-committees. Functional risk sub-committees focusing on specific areas of risk report to the Global Risk Committee. These sub-committees include the:
+
+
+•Operational Risk Oversight Committee – provides oversight of and approves operational risk management policies, risk tolerance levels, and operational risk governance processes, and includes sub-committees covering Information Security and Cybersecurity, Technology, Fraud, Third-Party Risk, Data Integrity, and Model Governance;
+•Compliance Risk Committee – provides oversight of compliance risk management (inclusive of compliance programs for Schwab’s regulated entities, Anti-Money Laundering/Sanctions, Conduct, Fiduciary, Conflicts of Interest, and Privacy), policies, and risk tolerance levels providing an aggregate view of compliance risk exposure and employee conduct, including subcommittees covering Fiduciary and Conflicts of Interest Risk;
+•Financial Risk Oversight Committee – provides oversight of and approves credit, market, liquidity, and capital risk policies, limits, and exposures and includes the Liquidity and Capital Subcommittee; and
+•New Products and Services Risk Oversight Committee – provides oversight of, and approves new products, including the policy, program, and process designed to oversee new products and services risks prior to and post launch.
+
+
+Senior management has also created an Incentive Compensation Risk Oversight Committee to provide oversight of incentive compensation risks and achieve sound incentive compensation risk management practices; it reports directly to the Compensation Committee of the Board of Directors.
+
+
+The Company’s finance, internal audit, legal, and corporate risk management departments assist management and the various risk committees in evaluating, testing, and monitoring risk management.
+
+
+In addition, the Disclosure Committee is responsible for monitoring and evaluating the effectiveness of our disclosure controls and procedures and internal control over financial reporting as of the end of each fiscal quarter. The Disclosure Committee reports on this evaluation to the CEO and CFO prior to their certification required by Sections 302 and 906 of the Sarbanes Oxley Act of 2002.
+
+
+- 46 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+Operational Risk
+
+
+Operational risk arises due to potential inadequacies or failures related to internal processes, people, and systems, or from external events or relationships impacting the Company and/or any of its key business partners and vendors. While operational risk is inherent in all business activities, the Company has established a system of internal controls and risk management practices designed to keep operational risk and operational losses within the Company’s risk appetite. We have specific policies and procedures to identify and manage operational risk, and perform periodic testing to evaluate the effectiveness of relevant internal controls. Where appropriate, we manage the impact of operational loss and litigation expense through the purchase of insurance. The insurance program is specifically designed to address our key operational risks and to maintain compliance with local laws and regulations.
+
+
+Schwab’s operations are highly dependent on the integrity and resilience of our critical business functions and technology systems. To the extent Schwab experiences business or system interruptions, errors or downtime (which could result from a variety of causes, including natural disasters, terrorist attacks, technological failure, cyber attacks, changes to systems, linkages with third-party systems, extreme weather, and power failures), our business and operations could be negatively impacted. To minimize business interruptions and ensure the capacity to continue operations during an incident regardless of duration, Schwab maintains a backup and recovery infrastructure which includes facilities for backup and communications, a geographically dispersed workforce, and routine testing of business continuity and disaster recovery plans and a well-established incident management program. Please see Part I – Item 1C. Cybersecurity for additional information regarding Information Security risk, including cybersecurity risk management.
+
+
+Fraud risk arises from attempted or actual theft of financial assets or other property of any client or the Company. Schwab is committed to protecting the Company’s and its clients’ assets from fraud and complying with all applicable laws and regulations to prevent, detect and report fraudulent activity. Schwab manages fraud risk through policies, procedures and controls. We also take affirmative steps to prevent and detect fraud and report, to appropriate authorities, any known or suspected acts of fraud in accordance with existing laws and requirements.
+
+
+Schwab also faces operational risk when we employ the services of various third parties, including domestic and international outsourcing of certain technology, processing, servicing, and support functions. We manage the exposure to third-party risk and promote a culture of resiliency through internal policies, procedures and controls, and contractual provisions, control standards, ongoing monitoring of third-party performance, and appropriate testing with third-party service providers.
+
+
+Model risk is the potential for adverse consequences from decisions based on incorrect or misused model outputs and reports. Model uses at Schwab include, but are not limited to, calculating capital requirements for hypothetical stressful environments, estimating interest and credit risk for loans and other balance sheet assets, identifying and preventing fraud and other financial crimes, and providing guidance in the management of client portfolios. Schwab has established a policy that aligns with regulatory guidance to describe the roles and responsibilities of all key stakeholders in model development, management, and use. Schwab registers models in a centralized database, performs risk assessment of models based on their potential financial, reputational, or regulatory impact to the Company. The model risk rating determines the scope of model governance activities such as independent model validations, model annual reviews, and model performance monitoring.
+
+
+Compliance Risk
+
+
+Schwab faces compliance risk which is the potential exposure to legal or regulatory sanctions, fines or penalties, financial loss, or damage to reputation resulting from the failure to comply with laws, regulations, rules, or other regulatory requirements. Among other things, compliance risks relate to the suitability of client investments, conflicts of interest, disclosure obligations and performance expectations for products and services, supervision of employees, and the adequacy of our controls. The Company and its affiliates are subject to extensive regulation by federal, state and foreign regulatory authorities, including SROs.
+
+
+We manage compliance risk through policies, procedures, and controls reasonably designed to achieve and/or monitor compliance with applicable legal and regulatory requirements. These procedures address issues such as conduct and ethics, sales and trading practices, marketing and communications, extension of credit, client funds and securities, books and records, anti-money laundering, privacy, and employment policies.
+
+
+- 47 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+Privacy risk is the risk of unauthorized collection, use, storage, or sharing of personal information, including data incidents and other mismanagement of personal information. We manage privacy risk through policies, procedures, and controls reasonably designed to achieve and/or monitor compliance with these laws and regulations.
+
+
+Anti-money laundering/sanctions risk is the risk of legal or regulatory sanctions, fines or penalties, financial loss, or damage to reputation resulting from the failure to comply with the Bank Secrecy Act/Anti-Money Laundering (BSA/AML) and Office of Foreign Assets Control (OFAC)/global sanctions (collectively, “AML”) laws, regulations, rules, or other regulatory requirements. Schwab manages this risk through daily monitoring, a system of internal controls, education and training for appropriate personnel, and developing risk-based procedures for conducting ongoing customer due diligence and complying with beneficial ownership requirements for legal entity customers.
+
+
+Conduct risk arises from inappropriate, unethical, or unlawful behavior of the Company, its employees or third parties acting on the Company’s behalf that may result in detriment to the Company’s clients, financial markets, the Company, and/or the Company’s employees. We manage this risk through policies, procedures, a system of internal controls, including personnel monitoring and surveillance. Conduct-related matters are escalated through appropriate channels by the Company’s Corporate Responsibility Officer.
+
+
+Fiduciary risk is the potential for financial or reputational loss through breach of fiduciary duties to a client. Fiduciary activities include, but are not limited to, individual and institutional trust, investment management, custody, and cash and securities processing. We manage this risk by establishing policy and procedures to ensure that obligations to clients are discharged faithfully and in compliance with applicable legal and regulatory requirements. Business units have the primary responsibility for adherence to the policy and procedures applicable to their business. Guidance and control are provided through the creation, approval, and ongoing review of applicable policies by business units and various risk committees.
+
+
+Incentive Compensation risk is the potential for adverse consequences resulting from compensation plans that do not balance the execution of our strategy with risk and financial rewards, potentially encouraging imprudent risk-taking by employees. We have implemented risk management processes, including a policy, to identify, evaluate, assess, and manage risks associated with incentive compensation plans and the activities of certain employees, defined as Covered Employees, who have the authority to expose the Company to material amounts of risk.
+
+
+Credit Risk
+
+
+Credit risk is the potential for loss due to a borrower, counterparty, or issuer failing to perform its contractual obligations. Our exposure to credit risk mainly results from investing activities in our liquidity and investment portfolios, mortgage lending, margin lending and client option and futures activities, pledged asset lending, securities lending activities, and our role as a counterparty in other financial contracts. To manage the risks of such losses, we have established policies and procedures, which include setting and reviewing credit limits, monitoring of credit limits and quality of counterparties, and adjusting margin, PAL, option, and futures requirements for certain securities and instruments.
+
+
+Liquidity and Investment Portfolios
+
+
+Schwab has exposure to credit risk associated with its investment portfolios, which include U.S. agency and non-agency mortgage-backed securities, asset-backed securities, corporate debt securities, U.S. agency notes, U.S. Treasury securities, certificates of deposit, U.S. state and municipal securities, commercial paper, and foreign government agency securities.
+
+
+At December 31, 2023, substantially all securities in the investment portfolios were rated investment grade. U.S. agency mortgage-backed securities do not have explicit credit ratings; however, management considers these to be of the highest credit quality and rating given the guarantee of principal and interest by the U.S. government or U.S. government-sponsored enterprises.
+
+
+Mortgage Lending Portfolio
+
+
+The bank loan portfolio includes First Mortgages, HELOCs, PALs (discussed below), and other loans. The credit risk exposure related to loans is actively managed through individual loan and portfolio reviews. Management regularly reviews asset quality, including concentrations, delinquencies, nonaccrual loans, charge-offs, and recoveries. All are factors in the determination of an appropriate allowance for credit losses.
+
+
+- 48 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+Our residential loan underwriting guidelines include maximum LTV ratios, cash out limits, and minimum Fair Isaac Corporation (FICO) credit scores. The specific guidelines are dependent on the individual characteristics of a loan (for example, whether the property is a primary or secondary residence, whether the loan is for investment property, whether the loan is for an initial purchase of a home or refinance of an existing home, and whether the loan size is conforming or jumbo).
+
+
+Schwab does not originate or purchase residential loans that allow for negative amortization and does not originate or purchase subprime loans (generally defined as extensions of credit to borrowers with a FICO score of less than 620 at origination), unless the borrower has compensating credit factors. For more information on credit quality indicators relating to Schwab’s bank loans, see Item 8 – Note 6. 
+
+
+Securities and Instrument-Based Lending Portfolios
+
+
+Collateral arrangements relating to margin loans, PALs, option and futures positions, securities lending agreements, and securities purchased under agreements to resell (resale agreements) include provisions that require additional collateral in the event of market fluctuations. Additionally, for margin loans, PALs, options and futures positions, and securities lending agreements, collateral arrangements require that the fair value of such collateral sufficiently exceeds the credit exposure in order to maintain a fully secured position.
+
+
+Other Counterparty Exposures
+
+
+Schwab performs clearing services for all securities transactions in its client accounts. Schwab has exposure to credit risk due to its obligation to settle transactions with clearing corporations, mutual funds, and other financial institutions even if Schwab’s clients or a counterparty fail to meet their obligations to the Company.
+
+
+Market Risk
+
+
+Market risk is the potential for changes in earnings or the value of financial instruments held by Schwab as a result of fluctuations in interest rates, equity prices, or market conditions. Schwab is exposed to market risk primarily from changes in interest rates within our interest-earning assets relative to changes in the costs of funding sources that finance these assets.
+
+
+To manage interest rate risk, we have established policies and procedures, which include setting limits on net interest revenue risk and economic value of equity (EVE) risk. To remain within these limits, we manage the maturity, repricing, and cash flow characteristics of the investment portfolios. Management monitors established guidelines to stay within the Company’s risk appetite. In 2023, the Company began to utilize interest rate swap derivative instruments to assist with managing interest rate risk, the effects of which are incorporated into the Company’s net interest revenue and EVE analyses. For further information on our interest rate risk management strategies utilizing interest rate swaps, see Item 8 – Note 16.
+
+
+Our measurement of interest rate risk involves assumptions that are inherently uncertain and, as a result, cannot precisely estimate the impact of changes in interest rates on net interest revenue, bank deposit account fees, or EVE. Actual results may differ from simulated results due to balance growth or decline and the timing, magnitude, and frequency of interest rate changes, as well as changes in market conditions and management strategies, including changes in asset and liability mix. Financial instruments are also subject to the risk that valuations will be negatively affected by changes in demand and the underlying market for a financial instrument. 
+
+
+We are indirectly exposed to option, futures, and equity market fluctuations in connection with client option and futures accounts, securities collateralizing margin loans to brokerage customers, and client securities loaned out as part of the brokerage securities lending activities. Equity market valuations may also affect the level of brokerage client trading activity, margin borrowing, and overall client engagement with Schwab. Additionally, we earn mutual fund and ETF service fees and asset management fees based upon daily balances of certain client assets. Fluctuations in these client asset balances caused by changes in equity valuations directly impact the amount of fee revenue we earn.
+
+
+Our market risk related to financial instruments held for trading is not material.
+
+
+Net Interest Revenue Simulation
+
+
+For our net interest revenue sensitivity analysis, we use net interest revenue simulation modeling techniques to evaluate and manage the effect of changing interest rates. The simulations include all balance sheet interest rate-sensitive assets and
+- 49 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+liabilities, and include derivative instruments. Key assumptions include the projection of interest rate scenarios with rate floors, rates and balances of non-maturity client cash held on the balance sheet, prepayment speeds of mortgage-related investments, repricing of financial instruments, and reinvestment of matured or paid-down securities and loans. We use independent third-party models to simulate net interest revenue sensitivity and related analyses. Fixed income analytical vendors provide term structure models, prepayment speed models for mortgage-backed securities and mortgage loans, and cash flow projections based on interest income, contractual maturities, and prepayments. Consistent with our policies related to the management of interest rate risk, the Company’s net interest revenue sensitivity analysis primarily involves gradual parallel increases/decreases in interest rates over a twelve-month period, though we also regularly simulate the effects of non-parallel shifts and instantaneous shifts of interest rates on net interest revenue.
+
+
+Net interest revenue is affected by various factors, such as the distribution and composition of interest-earning assets and interest-bearing liabilities, the spread between yields earned on interest-earning assets and rates paid on interest-bearing liabilities, which may reprice at different times or by different amounts, and the spread between short- and long-term interest rates. Interest-earning assets include investment securities, margin loans, bank loans, and cash and cash equivalents. These assets are sensitive to changes in interest rates and changes in prepayment levels that tend to increase in a declining rate environment and decrease in a rising rate environment. Because we establish the rates paid on certain brokerage client cash balances and bank deposits and the rates charged on certain margin and bank loans, and control the composition of our investment securities, we have some ability to manage our net interest spread, depending on competitive factors and market conditions. When we have liquidity needs that exceed our primary sources of funding, the Company has needed to utilize higher-cost funding sources, which can reduce net interest margin and net interest revenue.
+
+
+Higher prevailing short-term interest rates generally improve yields on shorter duration interest-earning assets. During periods of rapidly rising interest rates, clients tend to reallocate cash out of sweep products into higher-yielding, off-balance sheet, fixed income securities and money market funds within Schwab’s product offerings. This can result in lower interest-earning assets and/or may require replacement funding with higher funding costs, which therefore tend to constrain net interest revenue when interest rates are moving rapidly higher. A decline in short-term interest rates could also negatively impact the yield on the Company’s investment and loan portfolios to a greater degree than any offsetting reduction in interest expense from funding sources, compressing net interest margin.
+
+
+Net interest revenue sensitivity analysis assumes the asset and liability structure of the consolidated balance sheet would not be changed as a result of the simulated changes in interest rates. While this approach is useful to isolate the impact of changes in interest rates on a statically-sized asset and liability structure, it does not capture changes to client cash allocations. We conduct simulations on EVE to capture the impact of client cash allocation changes on our balance sheet. As we actively manage the consolidated balance sheet and interest rate exposure, we have taken and would typically seek to take steps to manage additional interest rate exposure that could result from changes in the interest rate environment.
+
+
+As part of the Company’s ongoing evaluation of its modeling, in the fourth quarter of 2023, the Company updated deposit beta assumptions in a declining market interest rate environment for its net interest revenue simulation model. The following table shows simulated changes to net interest revenue over the next 12 months beginning December 31, 2023 and 2022 of a gradual increase or decrease in market interest rates relative to prevailing market rates at the end of each reporting period:
+December 31,        
+2023 (1)
+2022
+Increase of 200 basis points
+10.8%        7.3%
+Increase of 100 basis points        5.8%        3.6%
+Increase of 50 basis points
+3.1%        1.7%
+Decrease of 50 basis points
+0.4%        (1.5)%
+Decrease of 100 basis points        (0.2)%        (3.2)%
+Decrease of 200 basis points
+(4.2)%        (6.7)%
+ 
+(1) Reflects the impact of the assumption updates implemented in the fourth quarter of 2023. The prior period has not been recast.
+
+
+The Company’s simulated incremental increases in market interest rates had a larger impact on net interest revenue as of December 31, 2023 compared to December 31, 2022 primarily due to higher margin loan and cash balances, which was partially offset by an increased allocation to FHLB borrowings and other short-term borrowings across the Company’s banking subsidiaries. In the absence of the assumption updates, simulated decreases of 50, 100, and 200 basis points as of December 31, 2023 would have reduced net interest revenue by 1.7%, 3.8%, and 8.3%, respectively. Simulated incremental decreases in market interest rates had a lesser impact on net interest revenue as of December 31, 2023 compared to December 31, 2022 due primarily to the change in assumptions for deposit betas, which, along with a lower rate environment, drove greater expense
+- 50 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+savings across non-maturity deposits and an increased allocation to shorter-term liabilities, partially offset by higher concentrations of margin loan and cash balances.
+
+
+Effective Duration
+
+
+Effective duration measures price sensitivity relative to a change in prevailing interest rates, taking account of amortizing cash flows and prepayment optionality for mortgage-related securities and loans. Duration is measured in years and commonly interpreted as the average timing of principal and interest cash flows. We seek to manage the Company’s asset duration in relation to management’s estimate of the Company’s liability duration. The Company’s liability duration is impacted by the composition of funding sources, and typically decreases in periods of rising market interest rates and increases in periods of declining market interest rates.
+
+
+The Company’s estimated effective duration of consolidated total assets was approximately 2.4 years at December 31, 2023 (inclusive of the impact of derivative instruments) and 2.6 years at December 31, 2022. The estimated effective duration of our AFS investment securities portfolio was approximately 2.5 years (2.2 years inclusive of the impact of derivative instruments) as of December 31, 2023 and 2.4 years as of December 31, 2022. The estimated effective duration for the Company’s total AFS and HTM investment securities portfolio was approximately 4.0 years as of both December 31, 2023 and 2022 (3.9 years inclusive of the impact of derivative instruments on AFS securities as of December 31, 2023). AFS and HTM securities comprised approximately 54% and 58% of the Company’s consolidated total assets as of December 31, 2023 and 2022, respectively. The estimated effective duration of the remaining balance sheet assets in aggregate was less than one year as of both December 31, 2023 and 2022.
+
+
+Economic Value of Equity Simulation
+
+
+Management also uses EVE simulations to measure interest rate risk. EVE sensitivity measures the long-term impact of interest rate changes on the net present value of assets and liabilities, and includes the impact of derivative instruments. While EVE does not have a direct accounting relationship, the measure aims to capture a theoretical value of assets and liabilities under a variety of interest rate environments. EVE is calculated by subjecting the balance sheet to hypothetical instantaneous shifts in the level of interest rates. This analysis is highly dependent upon asset and liability assumptions based on historical behaviors. Key assumptions in our EVE calculation include projection of interest rate scenarios with rate floors, prepayment speeds of mortgage-related investments, term structure models of interest rates, behavior of non-maturity client cash held on the balance sheet, and pricing assumptions. We use both proprietary and independent third-party models to simulate EVE sensitivity and related analyses. We develop and maintain client credits and deposits run-off models internally based on historical experience and prevailing client cash realignment behaviors. We rely on third-party models for term structure modeling, prepayment speed modeling for mortgage-backed securities and mortgage loans, and cash flow projections based on interest income, contractual maturities, and prepayments.
+
+
+As interest rates rose throughout 2023, EVE sensitivity generally trended higher due to a shortening of liability duration. While the Company’s asset duration remained largely stable during the period of rising interest rates, liability duration shortened significantly and is now shorter than asset duration.
+
+
+Bank Deposit Account Fees Simulation
+
+
+Consistent with the presentation on the consolidated statement of income, the sensitivity of bank deposit account fee revenue to interest rate changes is assessed separately from the net interest revenue simulation described above. As of December 31, 2023 and 2022, simulated changes in bank deposit account fee revenue from gradual changes in market interest rates relative to prevailing market rates, under the interest rate scenarios described above for net interest revenue, did not have a significant impact on the Company’s total net revenues. Our net interest revenue, EVE, and bank deposit account fee revenue simulations reflect the assumption of non-negative investment yields.
+
+
+Phase-out of LIBOR
+
+
+Effective June 30, 2023, publication of the London Interbank Offered Rate (LIBOR) ceased. Schwab completed all LIBOR transition work that could be done prior to June 30, 2023, though we have continued to monitor and manage the LIBOR substitution for the portfolio of legacy loans that we have for which scheduled interest rate resets or related interest rate transitions will occur in future periods. Certain of the Company’s technology systems and financial models have historically utilized LIBOR. We’ve transitioned our financial models and systems to alternative reference rates, and we continue to monitor
+- 51 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+our financial models and systems that previously referenced LIBOR. In addition, we have transitioned the Company’s IDA agreement and certain intercompany lending agreements that previously were tied to LIBOR to other appropriate reference rates. The Company’s investment securities that previously referenced LIBOR have transitioned to applicable alternative benchmark indices. The Company’s work to transition from LIBOR is now substantially complete, and we do not expect the phase-out of LIBOR will have a material impact to the Company going forward.
+
+
+Liquidity Risk
+
+
+Liquidity risk is the potential that Schwab will be unable to sell assets or meet cash flow obligations when they come due without incurring unacceptable losses.
+
+
+Due to its role as a source of financial strength, CSC’s liquidity needs are primarily driven by the liquidity and capital needs of: CS&Co, TD Ameritrade, Inc., and TDAC, our principal broker-dealer subsidiaries; the capital needs of the banking subsidiaries; principal and interest due on corporate debt, and dividend payments on CSC’s preferred and common stock. The liquidity needs of our broker-dealer subsidiaries are primarily driven by client activity including trading and margin lending activities and capital expenditures. The capital needs of the banking subsidiaries are primarily driven by client deposit levels and other borrowings. We have established liquidity policies to support the successful execution of business strategies, while ensuring ongoing and sufficient liquidity to meet operational needs and satisfy applicable regulatory requirements under both normal and stressed conditions. We seek to maintain client confidence in the balance sheet and the safety of client assets by maintaining liquidity and diversity of funding sources to allow the Company to meet its obligations. To this end, we have established limits and contingency funding plans to support liquidity levels during both business as usual and stressed conditions.
+
+
+We employ a variety of metrics to monitor and manage liquidity. We conduct regular liquidity stress testing to develop a view of liquidity risk exposures and to ensure our ability to maintain sufficient liquidity during market-related or company-specific liquidity stress events. Liquidity sources are also tested periodically and results are reported to the Financial Risk Oversight Committee. A number of early warning indicators are monitored to help identify emerging liquidity stresses in the market or within the organization and are reviewed with management periodically.
+
+
+Funding Sources
+
+
+Schwab’s primary source of funds is cash generated by client activity which includes bank deposits and cash balances in client brokerage accounts. These funds are used to purchase investment securities and extend loans to clients. Other sources of funds may include cash flows from operations, maturities and sales of investment securities, repayments on loans, securities lending of assets held in client brokerage accounts, FHLB borrowings, issuance of CDs, cash provided by securities issuances by CSC in the capital markets, and other facilities described below.
+
+
+To meet daily funding needs, we maintain liquidity in the form of overnight cash deposits and short-term investments. For unanticipated liquidity needs, we also maintain a buffer of highly liquid investments, including U.S. Treasury securities.
+
+
+Our clients’ bank deposits and brokerage cash balances primarily originate from our 34.8 million active brokerage accounts. More than 80% of our bank deposits qualified for FDIC insurance as of December 31, 2023. Our clients’ allocation of cash held on our balance sheet as bank deposits or payables to brokerage clients is sensitive to interest rate levels, with clients typically increasing their utilization of investment cash solutions such as purchased money market funds and certain fixed income products when those yields are higher than those of cash sweep features.
+
+
+Schwab’s need for borrowings from external debt facilities arises primarily from timing differences between cash flow requirements, including in the event the outflow of client cash from the balance sheet is greater than cash flows from operations and investment securities and bank loans; payments on interest-earning investments; movements of cash to meet regulatory brokerage client cash segregation requirements; and general corporate purposes. We maintain policies and procedures necessary to access funding, and test borrowing procedures on a periodic basis. Rollover risk is the risk that we will not be able to refinance or payoff borrowings as they mature. We manage rollover risk on borrowings, taking into account expected principal paydowns on our investment and loan portfolios along with expected deposit flows.
+
+
+- 52 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+The following table describes external debt facilities available at December 31, 2023:
+Description        Borrower        Outstanding        Available                Maturity of Amounts Outstanding        Weighted-Average Interest Rate on Amounts Outstanding
+FHLB secured credit facilities
+Banking subsidiaries        $        26,400                 $        63,102                 
+(1)
+January 2024 - November 2024        5.34%
+Federal Reserve discount window        Banking subsidiaries        —                 6,248                 
+(1)
+N/A        —
+Federal Reserve Bank Term Funding Program        Banking subsidiaries        —                 39,170                 
+(1)
+N/A        —
+Repurchase agreements        
+Banking subsidiaries, CSC
+4,903                 —                 
+(2)
+January 2024 -
+July 2024        5.53%
+Uncommitted, unsecured lines of credit with various external banks        CSC, CS&Co        —                 1,767                         N/A        —
+Unsecured commercial paper        CSC        —                 5,000                         N/A        —
+Secured uncommitted lines of credit with various external banks        CS&Co        950                 —                 
+(3)
+January 2024 - February 2024        5.70%
+Secured uncommitted lines of credit with various external banks        TDAC        700                 —                 
+(3)
+January 2024 - February 2024        5.72%
+ 
+(1) Amounts shown as available from the FHLB and Federal Reserve facilities represent remaining capacity based on assets pledged as of December 31, 2023. Incremental borrowing capacity may be made available by pledging additional assets, subject to applicable facility terms. See below and Item 8 – Note 12 for additional information.
+(2) Secured borrowing capacity is made available based on the banking subsidiaries’ or CSC’s ability to provide collateral deemed acceptable by each respective counterparty. See Item 8 – Note 17 for additional information.
+(3) Secured borrowing capacity is made available based on CS&Co’s or TDAC’s ability to provide acceptable collateral to the lenders as determined by the credit agreements.
+N/A Not applicable.
+
+
+Available borrowing capacity from the FHLB and Federal Reserve facilities maintained by our banking subsidiaries is dependent on the value of assets pledged and the terms of the borrowing arrangements. As of December 31, 2023, the Company had additional investment securities with a par value of approximately $142 billion or a fair value of approximately $131 billion available to be pledged to obtain additional capacity. These securities could be used to provide additional borrowing capacity of up to $142 billion as of December 31, 2023, dependent on the facility utilized. Additional details regarding availability and use of these facilities is described below.
+
+
+Amounts available under secured credit facilities with the FHLB are dependent on the value of our First Mortgages, HELOCs, and the value of certain of our investment securities that are pledged as collateral. These credit facilities are also available as backup financing in the event the outflow of client cash from the banking subsidiaries’ respective balance sheets is greater than maturities and paydowns on investment securities and bank loans. CSC’s banking subsidiaries must each maintain positive tangible capital, as defined by the Federal Housing Finance Agency, in order to place new draws upon these credit facilities, and the Company manages capital with consideration of minimum tangible capital ratios at our banking subsidiaries. Tangible capital pursuant to the requirements of the FHLB borrowing facilities for our banking subsidiaries is common equity less goodwill and intangible assets.
+
+
+Our banking subsidiaries also have access to short-term secured funding through the Federal Reserve discount window. Amounts available under the Federal Reserve discount window are dependent on the fair value of certain investment securities that are pledged as collateral. Our banking subsidiaries may also engage with external financial institutions in repurchase agreements collateralized by investment securities as another source of short-term liquidity. In addition, our banking subsidiaries are counterparties to the standing repo facility with the Federal Reserve Bank of New York; other than de minimis tests performed to satisfy the Federal Reserve Bank of New York’s testing requirements, this facility was not used during 2023 and there were no amounts outstanding at December 31, 2023. Beginning in 2023, CSC maintains a standing bilateral repurchase agreement with an external bank. Other than de minimis tests, this facility was not used during 2023 and there were no amounts outstanding under this facility at December 31, 2023.
+
+
+On March 12, 2023, the Federal Reserve Board announced the creation of a new Bank Term Funding Program, offering loans through March 11, 2024 of up to one year in length to eligible financial institutions with U.S. Treasury securities, agency debt, mortgage-backed securities, and other qualifying assets pledged as collateral. Borrowing capacity available under this program is dependent upon the par value of the investment securities that are pledged as collateral. The Company is eligible to obtain advances under this program. This facility was not used during 2023.
+
+
+CSC’s ratings for Commercial Paper Notes were P1 by Moody’s Investor Service (Moody’s), A2 by Standard & Poor’s Rating Group (Standard & Poor’s), and F1 by Fitch Ratings, Ltd (Fitch) at December 31, 2023. During the second quarter of 2023,
+- 53 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+Standard & Poor’s downgraded its rating of CSC’s Commercial Paper Notes from A1 to A2, and Moody’s changed its outlook from positive to stable.
+
+
+CSC also has a universal automatic shelf registration statement on file with the SEC, which enables it to issue debt, equity, and other securities.
+
+
+CS&Co maintains uncommitted, unsecured bank credit lines with a group of banks as a source of short-term liquidity, which can also be accessed by CSC. CS&Co also maintains secured, uncommitted lines of credit, under which CS&Co may borrow on a short-term basis and pledge either client margin securities or firm securities as collateral, based on the terms of the agreements. TDAC maintains secured uncommitted lines of credit, under which TDAC borrows on either a demand or short-term basis and pledges client margin securities as collateral.
+
+
+In the fourth quarter of 2022 and in 2023, CSB issued brokered CDs as a supplemental funding source. The following table provides information about brokered CDs issued by CSB and outstanding as of December 31, 2023:
+Amount Outstanding        Maturity        Weighted-Average Interest Rate
+Brokered CDs        $        48,297                 January 2024 - April 2025        5.15%
+ 
+
+
+Cash Flow Activity
+
+
+As a result of rapidly increasing short-term interest rates beginning in 2022, the Company saw an increase in the pace at which clients moved certain cash balances out of our sweep features and into higher-yielding alternatives at Schwab. As a result of these outflows, our banking subsidiaries have supplemented excess cash on hand and cash generated by maturities and paydowns on our investment securities portfolios with fixed- and floating-rate FHLB advances, repurchase agreements, and issuances of brokered CDs. The average pace of client cash allocations out of sweep products into higher-yielding investment solutions decreased significantly beginning in the second quarter of 2023, and, apart from an increase in August following the Federal Reserve’s July rate increase, continued to decline during the second half of 2023. See also Results of Operations – Net Interest Revenue.
+
+
+In the fourth quarter of 2023, the Company’s FHLB borrowings and total other short-term borrowings decreased by $6.4 billion as a result of repayments during the period. Bank deposits increased during the fourth quarter of 2023 by $5.5 billion, resulting from an increase of $2.8 billion in deposits swept from brokerage accounts due to the slowed pace of client cash realignment decisions and seasonal cash inflows near year-end, as well as an increase of $2.9 billion in brokered CDs.
+
+
+Cash and cash equivalents increased $3.1 billion from year-end 2022 to $43.3 billion at December 31, 2023; cash and cash equivalents, including amounts restricted, increased $15.8 billion to $74.5 billion as of year-end 2023. This increase was driven by net cash provided by investing and operating activities, partially offset by net cash used for financing activities. Bank deposits decreased $76.8 billion in 2023, resulting primarily from a decrease of $113.5 billion in deposits swept from brokerage accounts due to client cash allocation decisions, partially offset by a net increase in brokered CDs of $42.3 billion. Offsetting the decrease in bank deposits, investing cash flows from our AFS and HTM securities totaled $58.9 billion in 2023, cash flows from operating activities totaled $19.6 billion, and the Company increased FHLB borrowings and other short-term borrowings by a total of $15.9 billion in 2023.
+
+
+In 2022, cash and cash equivalents decreased $22.8 billion to end the year at $40.2 billion. Cash and cash equivalents, including amounts restricted, decreased $34.6 billion during 2022 to $58.7 billion at December 31, 2022. This decrease was driven primarily by net cash used for financing activities, partially offset by net cash provided by investing activities. Bank deposits decreased $77.1 billion in 2022, primarily due to a decrease of $78.5 billion in deposits swept from brokerage accounts due to client cash allocation decisions, partially offset by the issuance of $6.0 billion of brokered CDs. In 2022, FHLB borrowings and other short-term borrowings increased $12.2 billion, and investing cash flows from AFS and HTM securities were $39.4 billion.
+
+
+- 54 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+Liquidity Coverage Ratio
+
+
+Schwab is subject to the full LCR rule, which requires the Company to hold HQLA in an amount equal to at least 100% of the Company’s projected net cash outflows over a prospective 30-calendar-day period of acute liquidity stress, calculated on each business day. See Part I – Item 1 – Regulation for additional information. The Company was in compliance with the LCR rule at December 31, 2023, and the table below presents information about our average daily LCR:
+Average for the Three Months Ended
+December 31, 2023                September 30, 2023
+Total eligible HQLA        $        58,056                         $        60,781         
+Net cash outflows        44,793                         51,351         
+LCR        130         %                119         %
+ 
+
+
+To support growth in margin loan balances at our broker-dealer subsidiaries while meeting our LCR requirements, the Company may issue commercial paper or draw on secured lines of credit, in addition to capital markets issuances.
+
+
+Net Stable Funding Ratio
+
+
+Schwab is subject to disclosure requirements under the NSFR rule, which requires the semi-annual public disclosure of its NSFR levels beginning in the second quarter of 2023. The NSFR rule stipulates that the Company’s available stable funding (ASF) must be at least 100% of the Company’s required stable funding (RSF). ASF is calculated by assessing the stability of the Company’s funding sources and RSF is calculated by evaluating the characteristics of the Company’s assets, derivatives, and off-balance-sheet exposures. The Company was in compliance with the NSFR rule at December 31, 2023, and the table below presents information about our average NSFR:
+Average for the Three Months Ended
+December 31, 2023        September 30, 2023
+ASF        $        197,756                 $        202,775         
+RSF        157,560                 161,270         
+NSFR        126         %        126         %
+ 
+
+
+Long-Term Borrowings
+
+
+The Company’s long-term debt is primarily comprised of Senior Notes and totaled $26.1 billion and $20.8 billion at December 31, 2023 and 2022, respectively.
+
+
+The following table provides information about our Senior Notes outstanding at December 31, 2023:
+Par Outstanding        Maturity        Weighted-Average
+Interest Rate        Moody’s        Standard
+& Poor’s        Fitch
+CSC Senior Notes        $        25,862                 2024 - 2034        3.64%        A2        A-        A
+TDA Holding Senior Notes        $        213                 2024 - 2029        3.47%        A2        A-        —
+ 
+
+
+During the second quarter of 2023, Standard and Poor’s downgraded CSC’s and TDA Holding’s long-term issuer credit and senior unsecured debt ratings from A to A- and affirmed its outlook remained stable. Moody’s also affirmed its rating of A2 for CSC and TDA Holding and changed its outlook from positive to stable.
+
+
+- 55 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+New Debt Issuances
+
+
+The below debt issuances in 2023, 2022, and 2021 were senior unsecured obligations. Additional details are as follows:
+Issuance Date        Issuance Amount        Maturity Date        Interest Rate        Interest Payable        
+March 18, 2021        $        1,250                 3/18/2024        SOFR + 0.500%        Quarterly        
+(1)
+March 18, 2021        $        1,500                 3/18/2024        0.750%        Semi-annually        
+March 18, 2021        $        1,250                 3/20/2028        2.000%        Semi-annually        
+May 13, 2021        $        500                 5/13/2026        SOFR + 0.520%        Quarterly        
+May 13, 2021        $        1,000                 5/13/2026        1.150%        Semi-annually        
+May 13, 2021        $        750                 5/13/2031        2.300%        Semi-annually        
+August 26, 2021        $        850                 12/1/2031        1.950%        Semi-annually        
+March 3, 2022        $        500                 3/3/2027        SOFR + 1.050%        Quarterly        
+March 3, 2022        $        1,500                 3/3/2027        2.450%        Semi-annually        
+March 3, 2022        $        1,000                 3/3/2032        2.900%        Semi-annually        
+May 19, 2023        $        1,200                 5/19/2029        5.643%        Semi-annually        
+(2)
+May 19, 2023        $        1,300                 5/19/2034        5.853%        Semi-annually        
+(2)
+August 24, 2023        $        1,350                 8/24/2034        6.136%        Semi-annually        
+(2)
+August 24, 2023        $        1,000                 8/24/2026        5.875%        Semi-annually        
+November 17, 2023        $        1,300                 11/17/2029        6.196%        Semi-annually        
+(2)
+ 
+(1) On February 18, 2024, the Company redeemed all of these outstanding floating-rate Senior Notes.
+(2) Interest rates presented are those in effect at December 31, 2023. For additional information regarding future interest rates on fixed-to-floating rate Senior Notes, see Item 8 – Note 12.
+
+
+During 2021, we completed a debt exchange offer related to certain senior notes issued by TDA Holding for an equivalent amount of senior notes issued by CSC. For further discussion of the exchange, see Item 8 – Note 12.
+
+
+Equity Issuances and Redemptions
+
+
+CSC’s preferred stock issued and net proceeds for 2023, 2022, and 2021 are shown below:
+Date Issued and Sold        Net Proceeds
+Series I        March 18, 2021        $        2,222         
+Series J        March 30, 2021        $        584         
+Series K        March 4, 2022        $        740         
+ 
+
+
+On June 1, 2021, the Company redeemed all of the outstanding shares of its 6.00% Non-Cumulative Perpetual Preferred Stock, Series C, and the corresponding depositary shares. The depositary shares were redeemed at a redemption price of $25 per depositary share for a total of $600 million. The redemption was funded with the net proceeds from the Series J preferred stock offering. On November 1, 2022, the Company redeemed all of the outstanding shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A at a redemption price of $1,000 per share for a total of $400 million. On December 1, 2022, the Company redeemed all of the Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E, and the corresponding depositary shares. The depositary shares were redeemed at a redemption price of $1,000 per depositary share for a total of $600 million.
+
+
+For further discussion, see Item 8 – Note 11 for the Company’s bank deposits, Item 8 – Note 12 for the Company’s outstanding debt and borrowing facilities, and Item 8 – Note 19 for equity outstanding balances and activity.
+
+
+Contractual Obligations
+
+
+Schwab’s principal contractual obligations as of December 31, 2023 include payments on brokered CDs; payments on FHLB borrowings, other short-term borrowings, and long-term debt; lease payments including legally-binding minimum lease payments for leases signed but not yet commenced; credit-related financial instruments, representing our banking subsidiaries’ commitments to extend credit to banking clients, purchase mortgage loans, and fund CRA investments; and purchase obligations for services such as advertising and marketing, telecommunications, hardware- and software-related agreements, and professional services. For information on our contractual obligations for brokered CDs, FHLB borrowings, other short-term borrowings, long-term debt, leases, and credit-related financial instruments, see Item 8 – Notes 11, 12, 13, and 14. As of
+- 56 -
+
+
+THE CHARLES SCHWAB CORPORATION
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+(Tabular Amounts in Millions, Except Ratios, or as Noted)
+
+
+December 31, 2023, the Company had total short-term purchase obligations of $537 million and total long-term purchase obligations of $439 million.
+
+
+Schwab also enters into guarantees and other similar arrangements in the ordinary course of business. For information on these arrangements, see Item 8 – Notes 5, 6, 10, 12, 14, and 17. Pursuant to the 2023 IDA agreement, certain brokerage client deposits are required to be swept off-balance sheet to the TD Depository Institutions. See Item 8 – Note 14 for additional information on the 2023 IDA agreement.

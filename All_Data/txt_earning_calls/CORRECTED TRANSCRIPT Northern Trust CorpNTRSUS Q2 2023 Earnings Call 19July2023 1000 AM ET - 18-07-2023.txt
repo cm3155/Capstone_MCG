@@ -1,0 +1,996 @@
+Corrected Transcript
+19-Jul-2023
+Northern Trust Corp.
+(NTRS)
+Q2 2023 Earnings Call
+Total Pages: 22
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+CORPORATE PARTICIPANTS
+Jennifer Childe Jason J. Tyler
+Senior Vice President & Director-Investor Relations, Northern Trust Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Corp.
+Michael G. O'Grady
+Chairman & Chief Executive Officer, Northern Trust Corp.
+.....................................................................................................................................................................................................................................................................
+OTHER PARTICIPANTS
+Sharon Leung Robert Wildhack
+Analyst, Wolfe Research LLC Analyst, Autonomous Research US LP
+Alexander Blostein Connell J. Schmitz
+Analyst, Goldman Sachs & Co. LLC Analyst, Morgan Stanley & Co. LLC
+Brian Bedell Michael Brown
+Analyst, Deutsche Bank Securities, Inc. Analyst, Keefe, Bruyette & Woods, Inc.
+Robert Rutschow Gerard Cassidy
+Analyst, Wells Fargo Securities LLC Analyst, RBC Capital Markets LLC
+Brennan Hawken Vivek Juneja
+Analyst, UBS Securities LLC Analyst, JPMorgan Securities LLC
+2
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+MANAGEMENT DISCUSSION SECTION
+[Abrupt Start]
+.....................................................................................................................................................................................................................................................................
+Operator: ...Corporation Second Quarter 2023 Earnings Conference Call. Today's conference is being recorded.
+At this time, I would like to turn the conference over to Jennifer Childe, Director of Investor Relations. Please go
+ahead, ma'am.
+.....................................................................................................................................................................................................................................................................
+Jennifer Childe
+Senior Vice President & Director-Investor Relations, Northern Trust Corp.
+Thank you, Jenny, and good morning, everyone. Welcome to Northern Trust Corporation's second quarter 2023
+earnings conference call. Joining me on our call this morning is Michael O'Grady, our Chairman and CEO; Jason
+Tyler, our Chief Financial Officer; Lauren Allnutt, our Controller; and Grace Higgins from our Investor Relations
+team.
+Our second quarter earnings press release and financial trends report are both available on our website at
+northerntrust.com. Also on our website, you will find our quarterly earnings review presentation, which we will use
+to guide today's conference call.
+This July 19 call is being webcast live on northerntrust.com. The only authorized rebroadcast of this call is the
+replay that will be made available on our website through August 19. Northern Trust disclaims any continuing
+accuracy of the information provided in this call after today. Please refer to our Safe Harbor statement regarding
+forward-looking statements on page 12 of the accompanying presentation, which will apply to our commentary on
+this call.
+During today's question-and-answer session, please limit your initial query to one question and one related follow-
+up. This will allow us to move through the queue and enable as many people as possible the opportunity to ask
+questions as time permits. Thank you again for joining us today.
+Let me turn the call over to Mike O'Grady.
+.....................................................................................................................................................................................................................................................................
+Michael G. O'Grady
+Chairman & Chief Executive Officer, Northern Trust Corp.
+Thank you, Jennifer. Let me join in welcoming you to our second quarter 2023 earnings call. Our results for the
+second quarter reflect solid sequential performance. Trust fees and assets under custody and management
+increased sequentially, which included positive organic growth in each business.
+Net interest income was down modestly on a linked-quarter basis, reflecting higher funding costs associated with
+the highly competitive deposit backdrop. Expenses, excluding unusual items, were well-controlled, reflecting the
+rigor of our cost discipline, as well as the impact of various productivity initiatives. We reported $64 million in
+charges in the second quarter associated with these steps.
+3
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Our Wealth Management business modestly grew Assets Under Custody and Management and trust fees on a
+sequential basis. We continue to see strength in the higher wealth tiers and within our Global Family Office
+segment, where we captured several marquee wins.
+Our industry leadership position also set out in the quarter. We held our third annual Northern Trust Wealth
+Planning Symposium, bringing together legal and financial experts to share innovative strategies and insights to
+shape the future of Wealth Management. Sessions averaged more than 1,000 participants and included
+attendees from North and South America, Europe, Asia, Africa, and the Middle East.
+We also released the second Family Office Trends report coauthored with the Wharton School. Notably, we
+received a utility patent for our cloud-based goals-driven Wealth Management technology during the quarter and
+were named Best Digital Innovator of the Year and Best Private Bank for Digital Wealth Planning by the Financial
+Times Group.
+In asset management, we saw strong flows into our institutional money market platform and have recaptured
+share. We also won a number of key mandates across products, including outsourced investment solutions, Tax
+Advantaged Equity, and quant active. Our new product launches in the quarter focused on alternatives.
+Within Asset Servicing, we continue to have good momentum in core custody and fund administration, particularly
+with asset managers in Europe, and our pipeline remains robust. In the UK, we were reappointed by Brightwell for
+middle office services. Brightwell is the primary service provider to British Telecom Pension Scheme, which has
+more than $50 billion in assets under management. Among asset owners, we clinched several key multimillion-
+dollar takeaway wins in North America, where our front office solutions, which provides a comprehensive view
+across public and private assets, was cited as a key differentiator.
+As a testament to our capabilities, we are recently awarded three prestigious industry awards, including: Best
+Global Custodian for Asset Owners by Asian Investor. In the second quarter, we launched A-Suite, our content
+community and collaboration hub for global asset owners. Within the first few weeks of launch, we've seen
+significant client engagement. Going forward, we expect this new communications channel to create relationships
+with key target audiences and further showcase our expertise in the market.
+In closing, our balance sheet continues to be very strong with ample capital and liquidity. Our new business
+momentum is gathering steam and our pipeline remains robust. While there's still more work to be done, we're
+making solid progress following the trajectory of our expense growth. Rationalizing our cost base remains a top
+priority, and the governance and control mechanisms we're putting in place today should drive sustainable
+improvements for both the near term and for years to come.
+We head into the second half of the year well-positioned to support our clients and generate value for all of our
+stakeholders. I'll now turn the call over to Jason.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Thank you, Mike, and let me join Jennifer and Mike in welcoming you to our second quarter 2023 earnings call.
+Let's dive into the financial results of the quarter starting on page 4. This morning, we reported second quarter net
+income of $332 million, earnings per share of $1.56, and our return on average common equity was 12.4%.
+Currency movements had an immaterial impact on our revenue and expense growth in both periods.
+4
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Our second quarter results were impacted by two notable items. We recognized a $38.7 million pre-tax severance
+charge impacting both our Compensation and Outside Services line items. We recorded a $25.6 million pre-tax
+charge associated with the write-off of an investment in a client capability. Notable items from previous periods
+are listed on the slide.
+Excluding notable items in all periods, revenue is up 1% on a sequential quarter basis and down 1% over the prior
+year. Expenses were down 1% on a sequential quarter basis and up 5% over the prior year. This reflects an
+expense to trust fee ratio of 116%, down from 120% in the first quarter and 122% in the fourth quarter of last year.
+Pre-tax income was up 13% sequentially but down 9% over the prior year.
+Trust, investment, and other servicing fees, representing the largest component of our revenue, totaled $1.1
+billion, which reflected a 3% sequential increase, but a 4% decrease as compared to last year. All other
+noninterest income was flat sequentially, but down 10% over the prior year.
+Net interest income, on an FTE basis, which I'll discuss in more detail in a few moments, is $525 million, down 4%
+sequentially but up 12% from a year ago. We had a $15 million credit reserve release in the second quarter due
+to improved credit quality on a small number of larger loans, which is offset in part by expectations for higher
+future economic stress in the commercial real estate market.
+Turning to our Asset Servicing results on page 5, Assets Under Custody/Administration for Asset Servicing clients
+were $13.5 trillion at quarter-end, up 2% sequentially and up 5% year-over-year. Asset servicing fees totaled
+$621 million, which were up 3% sequentially, but down 3% year-over-year. Custody and fund administration fees,
+the largest component of fees in the business were $427 million, up 3% sequentially, but down 1% year-over-
+year.
+Custody and fund administration fees increased on a linked-quarter basis for the second consecutive quarter due
+to solid new business activity, higher transaction activity and favorable markets. They decreased from the prior
+year quarter primarily due to unfavorable markets.
+Assets under management, for Asset Servicing clients were $990 billion, up 3% sequentially and up 4% year-
+over-year. Investment management fees within Asset Servicing was $134 million, up 6% sequentially, but down
+10% year-over-year. Investment management fees increased sequentially, primarily due to asset inflows and
+favorable markets. They decreased from the prior year quarter, primarily due to asset outflows and unfavorable
+markets.
+Moving to our Wealth Management business on page 6. Assets under management for our Wealth Management
+clients were $376 billion at quarter end, up 2% sequentially and up 7% year-over-year. Trust, investment and
+other servicing fees were $475 million, up 3% sequentially but down 5% compared to the prior year.
+Sequentially, the increase in fees in the regions was driven primarily by favorable markets. Sequentially, the
+increase in GFO fees was driven by net inflows. Relative to the prior year, the decrease in fees in the regions was
+primarily due to unfavorable markets and product-related asset outflows. Within GFO, the decrease in fees was
+due largely to unfavorable markets.
+Moving to page 7 and our balance sheet and NII trends. Our average balance sheet decreased 1% on a linked-
+quarter basis, primarily due to lower client deposits; partially offset by higher leveraging activity. Earning assets
+5
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+averaged $134 billion in the quarter; down 1% sequentially and down 4% versus the prior year. Money market
+assets primarily absorbed the decrease.
+Client liquidity continued to grow during the second quarter. While we saw a decline in average deposits, it was
+more than offset by increases in other categories. Relative to the first quarter, our money market funds were up
+$8 billion or 6%; and our CDs were up 29%. Average deposits were $106 billion, down $6.6 billion or 6%
+sequentially, but remained consistent with late-April levels.
+We experienced a $2.6 billion sequential decline in noninterest-bearing deposits, mostly within the institutional
+channel, as clients continue to shift to higher yielding alternatives. This reduced the mix of noninterest bearing
+deposits to 17%. At quarter end, operational deposits comprised approximately two-thirds of institutional deposits.
+These tend to be the stickiest deposits as clients use them to operate their businesses. Approximately, three-
+quarters of our average deposits are institutional, with the remainder related to wealth clients, including GFO.
+Chipping to the asset side of the balance sheet, average securities were down 2% sequentially, reflecting the
+natural run-off which we've seen to reinvest at the short end of the curve. Our $50 billion investment portfolio
+consists largely of highly liquid US Treasury, agency and sovereign wealth fund bonds and is split approximately
+evenly between available for sale and held to maturity. The duration of securities portfolio continued to edge down
+in the second quarter to 2.1 years. The total balance sheet duration is now less than a year. Loan balances
+averaged $42 billion and were up 1% sequentially.
+Our loan portfolio is well-diversified across geographies, operating segments and loan types. Approximately 75%
+of the portfolio is floating and the overall duration is less than one year. Our liquidity remains strong, with cash
+held at the Fed and other central banks up 9% to $43 billion. More than 45% of our overall balance sheet is
+comprised of cash, money market assets and available for sale securities. This translates to $73 billion of
+immediately available liquidity, or more than 60% of the total deposit base.
+Net interest income on an FTE basis was $525 million for the quarter, down 4% sequentially but up 12% from the
+prior year. NII reflected the impact of several dynamics. We saw continued client migration out of deposits and
+into higher yielding alternatives. Noninterest-bearing deposits as a percentage of total deposits slid to 17% and
+deposit costs increase with our interest bearing deposit beta during the quarter reaching 88% and our cumulative
+beta for the cycle at 68%. The net interest margin on an FTE basis was 1.57% for the quarter, down 5 basis
+points sequentially, but up 22 basis points from a year ago. The sequential decline reflects the impact of higher
+funding costs, partially offset by higher short-term market rates.
+Our NII in the third quarter will continue to be driven by client behavior, which has been less predictable given the
+speed and velocity of this cycle's rate hikes. Our average client deposits thus far in the quarter are approximately
+$106 billion. Deposit outflows are expected to continue in part due to seasonality as August is typically our low
+point in the year, as European activity slows materially. The pace of the outflows is expected to moderate.
+Turning to page 8, as reported, noninterest expenses were $1.3 billion in the second quarter, 4% higher
+sequentially and 9% higher than the prior year. Excluding charges in both periods, as noted on the slide,
+expenses in the second quarter were down 1% sequentially, but up 5% year-over-year. I'll hit on just a few
+highlights. Compensation and technology expense continue to be the areas of highest spend. Compensation
+expense, excluding severance charges, was down 5% sequentially but up 4% compared to the prior year. It was
+down sequentially due to the payment of our annual retirement eligible incentives in the first quarter. This is
+partially offset by the impact of this year's base pay adjustments, which are granted in the second quarter.
+6
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+The year-over-year growth in compensation expense largely reflects the impact from inflationary wage pressures
+and last year's employee expansion, partially offset by lower incentives. Excluding charges, non-compensation
+expense was up 3% sequentially. Primary driver of the increase was growth in the Outside Services line, which is
+up 9% sequentially. The increase is largely due to timing. As we reported a sequential decline in Outside Services
+of 9% in the first quarter due to delays in technical services projects. With our heightened focus on expense
+control, we expect our operating expenses to grow more modestly and our expense to trust fee ratio to show
+further improvement.
+Turning to page 9, our capital ratios remain strong in the quarter and continue to be well above our required
+regulatory minimums. Our common equity tier 1 ratio under standardized approach was flat to the prior quarter at
+11.3%; despite continued common stock repurchases. This reflects a 430 basis point buffer above regulatory
+requirements. Our tier 1 leverage ratio is 7.4%, up slightly from the prior quarter. We returned $257 million to
+common shareholders in the quarter through cash dividends of $158 million and common stock repurchases of
+$99 million.
+And with that, Jenny, please open the line for questions.
+.....................................................................................................................................................................................................................................................................
+QUESTION AND ANSWER SECTION
+Operator: Thank you. [Operator Instructions] And I do have a question from Steven Chubak, Wolfe Research.
+Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Sharon Leung Q
+Analyst, Wolfe Research LLC
+Hi. Good morning. This is actually Sharon Leung filling in for Steven. Just a question on deposit betas. They came
+in a little bit better than expected this quarter. Can you help us understand how to think about the incremental
+betas from here?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure. So betas have continued to increase. And from here, I think we still have to separate the institutional client
+base from the wealth client base. We noted that we were cumulatively across the platform within this quarter in
+the high-80% range. The institutional channel is likely going to be at 100% at this point. The wealth channel still
+provides some benefit. The betas there are a lot lower, but at this point we're seeing about 100% in the
+institutional channel and still much less than that in wealth and that seems to those – both of those trends seem to
+be continuing as we've seen early signs in the quarter.
+.....................................................................................................................................................................................................................................................................
+Sharon Leung Q
+Analyst, Wolfe Research LLC
+Great. And then as a follow-up, you noted you're at about 17% noninterest bearing deposits today. I think you had
+troughed closer to about 15% in the [ph] 2004 to 2006 (00:18:50) cycle. Can you help us think through where that
+potentially goes from here and once that starts to normalize where you see NII exiting the year?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+7
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Sharon, well, like you, we've looked back a lot at where it's troughed. And the data we have showed, at a little
+higher than the 15% you mentioned, I think it's 16%, but I don't think about that as a floor. There's nothing
+structural in the base to consider that a floor.
+Now, that said, it has been moderating significantly. And we don't see – we haven't seen much movement at this
+point. Obviously, there's a step down this quarter of another percentage point, but it seems to be leveling off at
+this point.
+.....................................................................................................................................................................................................................................................................
+Sharon Leung Q
+Analyst, Wolfe Research LLC
+Great. Thank you.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Thank you.
+.....................................................................................................................................................................................................................................................................
+Operator: Next question comes from Alex Blostein from Goldman Sachs. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning, Alex.
+.....................................................................................................................................................................................................................................................................
+Alexander Blostein Q
+Analyst, Goldman Sachs & Co. LLC
+Good morning. Hello, everybody. So a couple of questions around expense trends. I guess, one, a little bit more
+near term, you guys announced some action obviously over the course of the quarter. There's a severance
+charge, so maybe help us quantify what it means in terms of savings and your just updated views on the overall
+sort of firm-wide expense growth for the year, I guess, excluding the charges occurred in the second quarter. I
+think, last time you talked about bringing that down to below 7%, but maybe an update there would be helpful.
+And then, bigger picture question, you guys are running at a kind of high 20-ish-percent pre-tax margin that used
+to be north of 30%. So as you kind of think about the fee environment getting a little better with the market, but NII
+has clearly peaked as we talked about before. Is there an opportunity to get back to that 30%-plus? And how do
+you see sort of achieving that, if that's the goal, and what's the timeframe around that?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure. So let me tackle the expense, the compensation related first. First, I'm sure people are curious, where is the
+base from here? So let me just provide some background on kind of first quarter to second quarter, second
+quarter to third quarter. I think from here, we'd say flat to down from second quarter, ex the severance charge in
+the compensation line.
+So, if I go back to last quarter, we explained that the significant movements for second quarter would be the $40
+million seasonal decline in equity awards and then the $20 million increase in the base pay coming online. That
+would have put comp at about $575 million for the quarter, and obviously ex the charge, we ended up about $8
+million better than that, including currency. So, two factors led to that.
+8
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+First, we pulled a lot of levers in the quarter to flatten compensation, including accelerating and close to
+completing the actions that we launched in fourth quarter of last year. So in January, we communicated that the
+projected reduction by late 2023 would be about 300 roles and about $5 million to $7 million in quarterly comp
+benefit, net of reinvestments. So we guide a portion of that work done in the first quarter, and we mostly finished it
+in second quarter, and that was big part of the reason it put us ahead of schedule.
+Second, as we saw the timing of that first program accelerating and coming to completion, we launched a new
+effort during the second quarter specifically related to what you referenced, Alex, in the severance charge that we
+announced this morning. We've already gotten some benefit of that within the quarter, and that's reflected in the
+result.
+So overall, this new program, to your question, should impact about an incremental 600 roles. Many of that will be
+backfilled based on a lens of skills or geography but same goal. We should be able to get $5 million to $7 million a
+quarter in run rate savings, and a portion of that got embedded in the second quarter.
+So, we've got to remember that we did pull the lever hard this quarter. So there's some hiring that's in the queue,
+but we also pushed a fair amount back. And so, that's why, with various puts and starts, it's good to think about a
+flat to down from the comp levels you see in second quarter ex charges going into third quarter. So, that's a
+hopefully helpful background there.
+To get to your questions on, for the rest of the year, where do we see expenses? At a high level, we've taken
+about 1 point out of the curve for the year based on the trajectory that we're on. To your point, if you take out the
+notable items this year on – each quarter has been under 6 points, and we think we've taken that point out of the
+curve at this point, and that should continue through the rest of the year.
+To margins, you're right that we – and we'd been in the 30s and now in the 20s. Our target has us – one of our
+key performance indicators is for us to be in the 30s, and no way have we lost sight on that. That is where we're
+trying to get. That gets impacted largely by what's going to happen in our minds, we can control the expense side,
+and obviously we're doing a lot of work there. And we're also getting good benefit because we saw good organic
+growth in the quarter. And so both levers are working in the right way, but we have definitely not changed our
+target of being in the 30s from a margin perspective.
+.....................................................................................................................................................................................................................................................................
+Alexander Blostein Q
+Analyst, Goldman Sachs & Co. LLC
+Got it. Thanks. Super comprehensive. Just a quick follow-up around deposit, so good news, you guys were kind
+of in line with what you updated us on around $105 million. It sounds like deposits are fairly stable. I think you said
+$106 million right now with a kind of similar noninterest-bearing mix, as we saw over the course of the quarter.
+Can you help just frame the seasonal deposit outflows in any other kind of client conversations you're hearing that
+could give us a sense where deposits could ultimately trough in the cycle. Sounds like there's a little bit more to
+go, but just curious to hear what the endpoint might be?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah. You heard right, it's held in quite well so far in July. And we didn't – June – you see the end of the quarter
+and there's a spike there. But in general, June and July have been at about this level and have been holding in
+well. Our client activity is good. We've taken action here to make sure we're talking to clients aggressively and
+telling them we want to continue providing good liquidity services for them, whether it's lending or holding on to
+9
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+their deposits, but we've got a – we talked last quarter about the fact that we think about liquidity broadly. It's
+about client liquidity. And it was good to see money market funds up this quarter. That adds to margins really well,
+too.
+And even as we think about what clients are holding in brokerage and so all of the client liquidity seems to be
+holding in well. On the seasonality dynamic, August is a low point, but it's not – it doesn't go down dramatically.
+We've looked back several years. And so we're feeling that deposits at these levels seem to be holding in okay.
+So I can even give a little bit of thought from our perspective at this point, based on our outlook. I think it's prudent
+to think about another decline, even though the deposits are holding in pretty well, but we see the competition.
+And so I think it's prudent to think about another NII decline of about 5% for the quarter. Again, June and July
+volumes have held in at about $100 billion to $110 billion, but we just have to be conscious of the competitive
+environment and what the summer tends to hold in terms of volume pressure.
+.....................................................................................................................................................................................................................................................................
+Alexander Blostein Q
+Analyst, Goldman Sachs & Co. LLC
+Understood. Great. Thanks so much.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+You bet. Thanks, Alex.
+.....................................................................................................................................................................................................................................................................
+Operator: And our next question is going to come from Brian Bedell from Deutsche Bank.
+.....................................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Great. Thanks. Good morning, folks.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning, Brian.
+.....................................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Good morning. Good morning. Hope all is well. Maybe just to go back to expenses. Appreciate the color you
+gave, Jason. Normally, you start to talk about the seasonal lift that you typically get in the second half in things
+like equipments and software and Outside Services. So I wonder if you want to comment on any projection there.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure. Well, it's good to call it out. I think, in equipment and software in particular, we were better than what we
+thought we were going to be, but that was – really two factors led to that. One, we did have some delays in
+projects coming from WIP into being depreciated. Those will come online. So that's more timing. And then,
+secondly, we've been working very aggressively as far as the Productivity Office to just negotiate on and then try
+and push inflation down. And we had some good results there, bringing costs down.
+10
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+And so, from here, we think third quarter up $5 million to $10 million in that line item. Fourth quarter, we can even
+tell because some of it's baked; an additional $5 million to $10 million lift from that perspective and Outside
+Services, no update to make there.
+.....................................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Okay. Great. And then Mike, you started off the call talking about some of the new business wins in Asset
+Servicing and Wealth Management. I guess, how should we think about that contributing to organic revenue
+growth? Maybe just broadly, if we're in a say a flat, flattish market situation, would you expect this to have a
+positive impact in the next couple of quarters and going 2024 on revenue?
+.....................................................................................................................................................................................................................................................................
+Michael G. O'Grady A
+Chairman & Chief Executive Officer, Northern Trust Corp.
+Yeah, Brian. So, the answer is yes. And, to your point, we only consider it organic growth once it's transitioned
+and in and yet we know the pipeline of business or mandates that we've won that have not transitioned in yet. And
+in each of the businesses, it's a little bit different. There's more of a – I'll call it forward pipeline with Asset
+Servicing, but the pipeline looks very good based on recent activity that I mentioned there.
+Within Wealth Management, there's not as much of a forward pipeline, if you will, but similarly there – I would say
+very steady, steady activity. And as much as anything with Wealth Management, keeping in mind that this, I'll say
+company, but also that business has been built on doing what's right for the client.
+And sometimes that results in different financial implications for the company, but over time it is best for the
+company and the shareholders. And my point being, the discussion around deposits and money market funds
+and, treasuries and managing things like that, they all have different implications for us, but the client activity has
+been very good. And we're, I would say, optimistic about how some of the shifts with rates will have implications
+on where those funds get redeployed.
+So again, positive on the Wealth Management front in a steady fashion. And then asset management, as Jason
+mentioned, we've seen strong flows into the money market platform there, but that also in some other areas as
+well; and likewise, I like to see those get redeployed in other ways over time. So, good across the board.
+.....................................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+So it's fair to say that revenue growth on the fee side is definitely better than the NII side for the organic growth
+equation at least now.
+.....................................................................................................................................................................................................................................................................
+Michael G. O'Grady A
+Chairman & Chief Executive Officer, Northern Trust Corp.
+Yeah. No, that's right, Brian. And I view it as you're kind of implying there. On the fee side, it tends to kind of grind
+up more gradually, subject to the markets and NNI can be more volatile. And the only other area I would just
+highlight is around our capital markets activity, FX and brokerage and trading there which has been relatively
+subdued during this time period with lower volatilities, lower activity, which that can also change and that has
+different implications too, just meaning those can be more profitable.
+.....................................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+11
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Right. That's great. Great. Thanks. Thanks for all the color.
+.....................................................................................................................................................................................................................................................................
+Michael G. O'Grady A
+Chairman & Chief Executive Officer, Northern Trust Corp.
+Sure.
+.....................................................................................................................................................................................................................................................................
+Operator: And Robert Rutschow from Wells Fargo, please go ahead.
+.....................................................................................................................................................................................................................................................................
+Robert Rutschow Q
+Analyst, Wells Fargo Securities LLC
+Hey, good morning. Thanks for taking my question. I guess the first question is on fee growth kind of more
+broadly. You've sort of indicated that you're at the 5% expense growth rate. Does that go down? But do the fees –
+where do you see fees growing to get up to that expense level so that you can grow fees faster than expenses?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Well, I mean in the short run, I think we're still – I don't think we're still absorbing an inflationary environment from
+an expense perspective. And so we'd like to be able to do better even than what we're doing right now in the long
+run from an expense growth perspective.
+On the revenue side, as you know, the lift – the financial model enables us to have lift from two different areas.
+One is the market lift and that's tended to provide low-single-digit growth rates, but it's a very strong component of
+the financial model. And then, secondly, the organic growth and if we can have low-single-digit growth in Wealth
+Management organically, then mid-single-digit growth in Asset Servicing, that provides a good model for us to get
+well above the expense rates that we think we can lead to in the long run and provide good operating leverage.
+.....................................................................................................................................................................................................................................................................
+Robert Rutschow Q
+Analyst, Wells Fargo Securities LLC
+Okay. And if I could follow-up on wealth. You've improved growth there as well. Are there any differences in the
+competitive dynamic among the top end, in the low end? Are you having more success? You said you're having
+more success in the Global Family Office. I guess, can you talk about the funnel of new clients' sort of in the
+middle tier and what you're doing to grow that?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah, it's interesting. It's actually not just the family office, but the very top end of wealth advisory. And those
+clients can be similar size. They just happen to not have a family office and are leaning more toward us for wealth
+advice as opposed to the broader set of more operational and reporting services that the Global Family Office
+provides. We are doing better at the top end and looking at the new business that came on board, and at the
+pipeline.
+The accounts above $20 million, just that was where there was more velocity and that's been consistent for a
+while on that business; and so there is something to that dynamic. We seem to be doing better at the top end.
+That's where a disproportionate percentage of the growth has come from.
+.....................................................................................................................................................................................................................................................................
+12
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Robert Rutschow Q
+Analyst, Wells Fargo Securities LLC
+Okay. Thank you.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+You bet.
+.....................................................................................................................................................................................................................................................................
+Operator: And our next question is going to come from Brennan Hawken from UBS. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning, Brennan.
+.....................................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Good Morning. Hey, how you doing? Just a quick clarification point. Jason, you referenced a point of expense
+benefit. Is it right to interpret that as coming off of your prior 7% or better expectation or was that meant in a
+different way?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+It is correct to interpret that as saying we don't see 7% at this point. We said 7% or better; and at this point, we
+should be doing 6% or better. We've done that first half and we see path to that the second half as well.
+.....................................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Perfect. Thank you for clarifying that. And then...
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Thank you.
+.....................................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Sure. You guys had a write-off of a client capability. I don't remember seeing that in the past. Just a little
+confusing to me. So maybe if you could help me understand it. When did you build that capability? And what
+happened that caused you to write it off?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah. I can give you some thoughts on it. It's just from a timing perspective. It's been in the works for many, many
+quarters, but one of the pillars of the Productivity Office is to look at what we refer to as internal investments to
+ensure that they're on track to meet our hurdle rates for returns and margins. The charge was a project to build
+out a new client capability in Asset Servicing and specifically in the asset owners channel.
+13
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+So, after working and eventually discussing with different stakeholders, we didn't reach commercial agreement on
+terms that would meet our hurdles, and so we halted the project. I think importantly, I presume you'd ask, are
+there others like this in inventory? Absolutely not. We don't – this was a large project endeavor that we've been
+working on and didn't reach resolution that got to our hurdle rates and so stopped the project.
+.....................................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Okay. Did something happen in the sort of like revenue opportunity that diminished it versus where you planned?
+Because I'm sure you guys went through the process before you broke ground, so to speak, at least
+metaphorically or was it that it was really pricey? It turned out to be more expensive to build. Was it the expense
+side that that hurt the outlook versus plan or was it the revenue opportunity?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah. It was more costly to build than we thought, and the revenue dynamics were not, at that point, going to get
+to our hurdle rate. And it really is reflective of us taking an extremely disciplined approach on items like this,
+where we're not going to devote resources to areas where we're not going to achieve our hurdle rate.
+And so, well before we talked about this, even internally, one of the pillars that we talked about for the Productivity
+Office was looking at our internal investments, and this fits squarely in one of those areas. We define that as
+areas where we're allocating resources, whether it's capital or expense dollars, and we're not at our hurdle rate.
+And so, this is one where we were disciplined in saying, we're going to stop now, halt it, and not invest more into
+this.
+.....................................................................................................................................................................................................................................................................
+Brennan Hawken Q
+Analyst, UBS Securities LLC
+Yeah. Thanks for explaining that, Jason. It's actually a lot more encouraging than I interpreted it on paper. So,
+thanks for the color.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+No. Yeah. No, thanks for asking it. Probably if it's helpful to you to clarify, it's helpful to others. So thank you.
+.....................................................................................................................................................................................................................................................................
+Operator: And next question comes from Rob Wildhack, Autonomous Research. Go ahead, please.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning, Rob.
+.....................................................................................................................................................................................................................................................................
+Robert Wildhack Q
+Analyst, Autonomous Research US LP
+Good morning, guys. Good morning. Just a bigger picture question on expenses. Where do you want – or what's
+your target, I guess, for that expense to trust ratio over the long run? And then what are the sort of necessary
+ingredients to get there?
+.....................................................................................................................................................................................................................................................................
+14
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah. If we can be in the 110% to 110% range, then that's – 105% to 110%, then we feel like we're in good shape
+to do well, and we're grinding to get down there. We got down there before. We've been well above it. We got
+down into that range, in fact even slightly below it for a quarter or two. And now, all the factors we've talked about,
+higher inflation, markets coming down, and the fact of NII going up not helping that metric, we're outside that
+range, but it is an important part of our financial model to be in that range.
+And so, it's the first thing. It's first thing I look at is where are we? And it's good to see us getting back toward the
+number that we – the range that we've articulated. It's another one of the key performance indicators that we talk
+about internally.
+.....................................................................................................................................................................................................................................................................
+Robert Wildhack Q
+Analyst, Autonomous Research US LP
+Got it. Thanks. And just one follow-up on the positive organic growth commentary this morning. If you saw a big
+acceleration in organic growth or a sustained period of strong organic growth multiple quarters, even several
+years, how do you think that would impact expense growth, if at all?
+.....................................................................................................................................................................................................................................................................
+Michael G. O'Grady A
+Chairman & Chief Executive Officer, Northern Trust Corp.
+Yeah. So, Rob, your two questions relate to each other, which is the primary way that we can drive that ratio to
+the range that Jason talked about is through organic growth on the fee side, and then controlling organic
+expenses, all right. And to your point, if you have higher organic growth, that is going to require more resources.
+And to the extent that you don't achieve that, then you have to make sure that you're reducing the organic growth
+on the expense side to get there.
+But those are the two areas that we control the most. And then, you say, okay, but beyond that, as Jason
+mentioned on the fee side, it's going to have the impact of markets and sometimes currency. And on the expense
+side, you're going to have the impact from inflation, and to some extent, currency. And so, you try to focus on
+what you can control the most, which are those two items, organic growth on fees and organic growth on
+expenses, to ultimately drive it to the target range.
+.....................................................................................................................................................................................................................................................................
+Robert Wildhack Q
+Analyst, Autonomous Research US LP
+Okay. Thank you, both.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure.
+.....................................................................................................................................................................................................................................................................
+Operator: And Betsy Graseck from Morgan Stanley is next. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning, Betsy.
+.....................................................................................................................................................................................................................................................................
+15
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Connell J. Schmitz Q
+Analyst, Morgan Stanley & Co. LLC
+Hi. Good morning. This is actually Connell Schmitz filling in for Betsy.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+How are you?
+.....................................................................................................................................................................................................................................................................
+Connell J. Schmitz Q
+Analyst, Morgan Stanley & Co. LLC
+Good. How are you? So just one question, a little bit nuanced on the credit portfolio, seems like a little bit of an
+outlier. I know it's small, but on the reserve release, it seems like an outlier that there's an improved outlook on
+your CRE book. Can you just explain what's going on there and where you see this line item from here?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah. So actually, just to clarify, there was the release. The release is a result of some improvement in a small
+number of borrowers in that book. But that more than offset an actually worsening outlook that we have overall for
+CRE. And so, it's not dramatic, but our outlook on that portion of the book actually would have caused an increase
+in the reserve.
+.....................................................................................................................................................................................................................................................................
+Connell J. Schmitz Q
+Analyst, Morgan Stanley & Co. LLC
+Got it. Okay. That makes more sense.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure.
+.....................................................................................................................................................................................................................................................................
+Connell J. Schmitz Q
+Analyst, Morgan Stanley & Co. LLC
+I guess, one other question on the investment portfolio, you mentioned duration still sub-one year, and you're
+mostly in cash. At what point – just given the context of potential future rate hikes, where do you see like this
+duration heading in the coming months, and how are you planning to mix shift this book in that context to [ph]
+detect (00:44:06) NII? Yeah.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah absolutely. So the duration of the securities book is at [ph] 2.1 (00:44:14). The duration of the balance sheet
+is just under one year. And you're absolutely right to call out that it is an interesting time and what we think of as
+the evolution of the yield curve. And so we've been allowing the maturity of securities to go, to become more liquid
+as we reinvest them that's brought down duration.
+At this point with the yield curve, we are talking about where to go from here. And that's not indicating it's going to
+go up, but it's not on a – at this point we are thinking about where is the yield curve, where is it going and how
+16
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+does that influence what we want to do as the large securities book continues to mature and provide opportunity
+for reinvestment.
+.....................................................................................................................................................................................................................................................................
+Connell J. Schmitz Q
+Analyst, Morgan Stanley & Co. LLC
+Okay. And then, I guess, one follow-up on that same topic. How should we think about earning asset growth in
+the context of deposit outflows potentially? Should those flow out on a one-to-one basis or will you maintain
+certain balance sheet size or...
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah. As the deposits come down, the securities can act as obviously a funding mechanism for it. That doesn't
+move very quickly. And so the deposit size is always going to influence the earning asset size. And so what we
+have to then think about the constraining factor at that point becomes what does leverage look like. And we've got
+a lot of room from a leverage perspective.
+And so that's what sometimes will lead us to think about discretionary leveraging just to make sure that we're not
+missing opportunities to pick up some NII, even if it's at very thin NIM based on where the size of the balance
+sheet is because it doesn't flex super quickly.
+.....................................................................................................................................................................................................................................................................
+Connell J. Schmitz Q
+Analyst, Morgan Stanley & Co. LLC
+Got it. Okay. That's helpful. All right. That was it from me. Thanks a lot.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure. Thank you. Sure.
+.....................................................................................................................................................................................................................................................................
+Operator: And our next question is going to come from Mike Brown from KBW. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning, Mike.
+.....................................................................................................................................................................................................................................................................
+Michael Brown Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Thank you. Good morning. Maybe just actually following up on that question there. We noticed that the
+complexion of your balance sheet has been shifting on the funding side naturally and that makes sense, but your
+deposits they declined by 6%, but we saw that the higher cost Fed fund purchased balance actually jumped
+meaningfully quarter-over-quarter has been growing this year. I guess why not just let the balance sheet decline
+more? Like what's kind of going on there in terms of the mix? And how could that progress from here if the
+deposits continue to trend down, as you talked about, will that balance – the Fed funds purchase balance
+continue to grow as an offset to fund the assets?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+17
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Yeah. And part of it is that in this – the deposits have just been so volatile and so you don't want to comment to
+significant movement and shrinking the balance sheet and we want to be there for our clients. We've got plenty of
+capital. We've got plenty of room for a leverage perspective. And so just not anxious to quickly do any significant
+moves.
+And so, to that extent, as deposits come down, you have the opportunity to then say, well, maybe we want to use
+some discretionary leveraging again [indiscernible] (00:47:50) 7.4% Tier 1 leverage, which leaves you a lot of
+room. And so if we hadn't done leveraging that incremental leveraging would be even higher in the 7s; and at a
+point you just have to say it is prudent to make sure you're taking advantage of the opportunities that exist so.
+.....................................................................................................................................................................................................................................................................
+Michael Brown Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Okay. Great. Thanks for the color there. And then I guess maybe just following up on that point there on the
+capital side. You guys increased the share buyback or you bought back about $100 million or so of stock this
+quarter. Any expectation on how that could progress from here? What should we think about in terms of your
+capital return?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure. The overall theme of what you saw in this quarter makes sense in the near-term, or you see a speed in the
+market for share repurchase. The thing that worked against us, the AOCI actually worked slightly against us this
+quarter usually in a neutral rate environment, the pull the par will give us some lift there, but it did in this quarter,
+that's fine. But even so, $100 million we did is about what – it's kind of that's the model we're thinking about in the
+short run.
+Big caveat is that the FDIC special assessment coming online, presumably in third quarter that would be a similar
+dollar amount as what we did from a repurchase perspective this quarter. And so, you could see us saying hold
+off for a quarter, get that payment done and then get back to your game plan.
+.....................................................................................................................................................................................................................................................................
+Michael Brown Q
+Analyst, Keefe, Bruyette & Woods, Inc.
+Okay. Thank you for the color.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure.
+.....................................................................................................................................................................................................................................................................
+Operator: Next question comes from Gerard Cassidy from RBC. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning, Gerard.
+.....................................................................................................................................................................................................................................................................
+Gerard Cassidy Q
+Analyst, RBC Capital Markets LLC
+Hi, Jason. How are you?
+18
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Very well.
+.....................................................................................................................................................................................................................................................................
+Gerard Cassidy Q
+Analyst, RBC Capital Markets LLC
+Jason, can you share with us – I think you gave us the cumulative beta through the cycle of 68% and then the
+incremental beta, of course, is higher. I think you touched on it this quarter maybe 100%. The question is this how
+is the beta behaving relative to past tightening cycles? I don't know if 2016 to 2018 is a cycle that really is that
+comparable. Maybe I have to go back a little further. And then, second, how quickly – if the Fed does start cutting
+Fed fund rates in 2024 sometime, how quickly can you guys reduce your deposit costs?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure. On the first, just to make sure I said it right earlier. The 100% going forward would be for the institutional
+side of the business, not for the overall deposit base.
+.....................................................................................................................................................................................................................................................................
+Gerard Cassidy Q
+Analyst, RBC Capital Markets LLC
+Okay. Got it.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yeah. Yeah. And to the question of how does how does that compare historically, this is higher than it has been
+historically and just there's different dynamics that you and I could talk about, I think, that are driving that. But
+there's a very strong competition for deposits right now and for various reasons. And so we want to make sure
+that we're there for our clients.
+And we still – we've got the ability to do that; and so we want to make sure that we're holding on to our fair share
+and providing that liquidity capability for clients. If you think about reductions, the reductions can – they can come
+quickly and the way we priced, the way our agreements work, we get fast movement on the way down and so we
+should be able to get deposit costs down quickly as rates come down.
+.....................................................................................................................................................................................................................................................................
+Gerard Cassidy Q
+Analyst, RBC Capital Markets LLC
+Very good. And then as a follow up, you also touched on the volatility of deposits. Is it more based on your guys'
+experience at Northern? Are you finding that this period's volatility is even greater than past periods? And is it
+because of quantitative tightening or Fed actions that is causing greater volatility in your guys' estimate?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+It is more volatile; not just over the long run and we went from [ph] 90 to 138 down to 106 (00:52:24) but even
+within the quarters, a lot of volatility, but I think that's driven by some of the macro factors. And what we saw in
+early March spooked a lot of depositors obviously. And then another trend of debt ceiling and then leading to
+another trend of deposit competition.
+19
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+All of those things are having or driving significant different preferences that clients have, not just between which
+bank to go to, but whether to use banks versus money market funds versus treasuries. I think all of those factors
+are reports leading to the heightened volatility we're seeing.
+.....................................................................................................................................................................................................................................................................
+Gerard Cassidy Q
+Analyst, RBC Capital Markets LLC
+Got it. Okay. Thank you.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Sure.
+.....................................................................................................................................................................................................................................................................
+Operator: And next question comes from Vivek Juneja from JPMorgan. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Vivek Juneja Q
+Analyst, JPMorgan Securities LLC
+Hi.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Good morning.
+.....................................................................................................................................................................................................................................................................
+Vivek Juneja Q
+Analyst, JPMorgan Securities LLC
+Thanks. Good morning. A couple of questions. Our sovereign noninterest-bearing deposits the big outflow you
+saw in the second quarter. Which segment did that come more out of and what are you seeing in that trend?
+Sorry if I'm repeating a question; there've been overlapping calls this minute. I hope I'm not doing that.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+The significant movements are almost always going to come well not almost all – within this case came from
+Asset Servicing and...
+.....................................................................................................................................................................................................................................................................
+Vivek Juneja Q
+Analyst, JPMorgan Securities LLC
+Okay. And the stabilization, where are you seeing more of that, or which segment?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+The Asset Servicing segment has actually overall been relatively stable. We'll see big chunky movements in and
+out, but the overall level has been about the same. The Wealth segment is more granular. The GFO client base is
+much chunkier, but you just think about the amount of clients in the Wealth segment, it just makes it more
+granular.
+.....................................................................................................................................................................................................................................................................
+20
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Vivek Juneja Q
+Analyst, JPMorgan Securities LLC
+Okay. And on the Wealth Management segment, the low-single-digit expense growth; is that because that's
+where you've done a lot of the head count cutting that you all talked about and what are the implications for
+service there?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Service has been great. And we didn't provide detail in the expense allocation between the business units, but
+just in general you'll note that the head count is down but no impact to service levels whatsoever. This low-single-
+digit growth I referenced was related to organic growth within Wealth Management.
+.....................................................................................................................................................................................................................................................................
+Vivek Juneja Q
+Analyst, JPMorgan Securities LLC
+Okay. All right. Thanks.
+.....................................................................................................................................................................................................................................................................
+Operator: The next question comes from Robert Rutschow from Wells Fargo.
+.....................................................................................................................................................................................................................................................................
+Robert Rutschow Q
+Analyst, Wells Fargo Securities LLC
+Hi. Just a quick follow-up. You mentioned that equipment and software, you had some projects being delayed.
+Does that mean that non-comp expense will see some upward pressure in the second half of the year?
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+Yes, in certain categories it will. And so in equipment and software, we'll see – in that line item in particular we'll
+see upward pressure, $5 million to $10 million, third and fourth quarter...
+.....................................................................................................................................................................................................................................................................
+Robert Rutschow Q
+Analyst, Wells Fargo Securities LLC
+Okay.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+I didn't reference other line items. We mentioned Outside Services relatively flat. So that's really the only forward
+looking information we provided except for the comp number which we referenced.
+.....................................................................................................................................................................................................................................................................
+Robert Rutschow Q
+Analyst, Wells Fargo Securities LLC
+Great. Thank you.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+You're welcome.
+.....................................................................................................................................................................................................................................................................
+21
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC
+
+Northern Trust Corp.
+(NTRS) Corrected Transcript
+Q2 2023 Earnings Call 19-Jul-2023
+Operator: And Brian Bedell from Deutsche Bank. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Oh, great. Thanks for taking follow-up. Just want to clarify on the FDIC special assessment, is that included in that
+expense guide of 6% or better? And I don't know if you're able to frame the size of the of the special assessment
+yet.
+.....................................................................................................................................................................................................................................................................
+Jason J. Tyler A
+Chief Financial Officer & Executive Vice President, Northern Trust Corp.
+It's not included in the 6%. And we haven't talked publicly about what the number is.
+.....................................................................................................................................................................................................................................................................
+Brian Bedell Q
+Analyst, Deutsche Bank Securities, Inc.
+Okay. Okay. Fair enough. Thank you.
+.....................................................................................................................................................................................................................................................................
+Michael G. O'Grady A
+Chairman & Chief Executive Officer, Northern Trust Corp.
+Sure.
+.....................................................................................................................................................................................................................................................................
+Operator: Okay. Thank you very much for joining us today. We look forward to speaking with you again soon.
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of FactSet
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE,
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2023 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+22
+1-877-FACTSET www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC

@@ -14,7 +14,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 
 class ModelSECPreprocessor:
-    def __init__(self, stopwords_file="stopwords-en.txt"): 
+    def __init__(self, stopwords_file="C:/Users/cassi/Capstone_MCG/stopwords-en.txt"): 
         # Load stopwords from file
         self.basicstopwords = self.load_stopwords(stopwords_file) #Stopwords from https://github.com/stopwords-iso/stopwords-en/blob/master/stopwords-en.txt
         self.customstopwords = { #SEC common stopwords

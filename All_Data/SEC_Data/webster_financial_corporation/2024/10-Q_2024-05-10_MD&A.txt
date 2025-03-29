@@ -1,0 +1,574 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Webster Financial Corporation is a bank holding company and financial holding company under the BHC Act, incorporated under the laws of Delaware in 1986, and headquartered in Stamford, CT. Webster Bank is a leading commercial bank in the Northeast that provides a wide range of digital and traditional financial solutions across three differentiated lines of business: Commercial Banking, Healthcare Financial Services, and Consumer Banking. While its core footprint spans the northeastern U.S. from New York to Massachusetts, certain businesses operate in extended geographies. 
+
+The following discussion and analysis provides information that management believes is necessary to understand the Company&#8217;s financial condition, results of operations, and cash flows for the three months ended March 31, 2024, as compared to 2023. This information should be read in conjunction with the Condensed Consolidated Financial Statements, and accompanying Notes thereto, contained in Part I - Item 1. Financial Statements of this report, and the Consolidated Financial Statements, and accompanying Notes thereto, contained in Part II - Item 8. Financial Statements and Supplementary Data of the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. The Company&#8217;s financial condition, results of operations, and cash flows for the three months ended March 31, 2024, are not necessarily indicative of future results that may be attained for the entire year or other interim periods. 
+
+Results of Operations 
+
+The following table summarizes selected financial highlights and key performance indicators: &#160; At or for the three months ended March 31, (In thousands, except per share and ratio data) 2024 2023 Income and performance ratios: Net income $ 216,323 $ 221,004 Net income available to common stockholders 212,160 216,841 Earnings per diluted common share 1.23 1.24 Return on average assets (annualized) 1.15 % 1.22 % Return on average tangible common stockholders&#8217; equity (annualized) (non-GAAP) 16.30 17.66 Return on average common stockholders&#8217; equity (annualized) 10.01 10.94 Non-interest income as a percentage of total revenue 14.89 10.62 Asset quality: ACL on loans and leases $ 641,442 $ 613,914 
+
+Non-performing assets (1) 
+
+289,254 186,551 ACL on loans and leases / total loans and leases 1.26 % 1.21 % Net charge-offs / average loans and leases (annualized) 0.29 0.20 
+
+Non-performing loans and leases / total loans and leases (1) 
+
+0.56 0.36 
+
+Non-performing assets / total loans and leases plus OREO and repossessed assets (1) 
+
+0.57 0.37 
+
+ACL on loans and leases / non-performing loans and leases (1) 
+
+226.17 331.81 Other ratios: Tangible common equity (non-GAAP) 7.15 % 7.15 % Tier 1 Risk-Based Capital 11.08 10.93 Total Risk-Based Capital 13.21 12.99 CET1 Risk-Based Capital 10.57 10.42 Stockholders&#8217; equity / total assets 11.49 11.08 Net interest margin 3.35 3.66 Efficiency ratio (non-GAAP) 45.25 41.64 Equity and share related: Common stockholders&#8217; equity $ 8,463,519 $ 8,010,315 Book value per common share 49.07 45.85 Tangible book value per common share (non-GAAP) 30.22 29.47 Common stock closing price 50.77 39.42 Dividends and equivalents declared per common share 0.40 0.40 Common shares issued and outstanding 172,464 174,712 Weighted-average common shares outstanding - basic 170,445 172,766 Weighted-average common shares outstanding - diluted 170,704 172,883 
+
+(1) Non-performing assets and the related asset quality ratios exclude the impact of net unamortized (discounts)/premiums and net unamortized deferred (fees)/costs on loans and leases. 
+
+Non-GAAP Financial Measures 
+
+The non-GAAP financial measures identified in the preceding table provide both management and investors with information useful in understanding the Company&#8217;s financial position, results of operations, the strength of its capital position, and overall business performance. These non-GAAP financial measures are used by management for performance measurement purposes, as well as for internal planning and forecasting, and by securities analysts, investors, and other interested parties to assess peer company operating performance. Management believes that this presentation, together with the accompanying reconciliations, provides investors with a more complete understanding of the factors and trends affecting the Company&#8217;s business and allows investors to view its performance in a similar manner. 
+
+Tangible book value per common share represents stockholders&#8217; equity less preferred stock and goodwill and other intangible assets (tangible common equity) divided by common shares outstanding at the end of the reporting period. The tangible common equity ratio represents tangible common equity divided by total assets less goodwill and other intangible assets (tangible assets). Both of these measures are used by management to evaluate the Company&#8217;s capital position. The annualized return on average tangible common stockholders&#8217; equity is calculated using net income available to common stockholders, adjusted for the annualized tax-effected amortization of intangible assets, as a percentage of average tangible common equity. This measure is used by management to assess the Company&#8217;s performance against its peer financial institutions. The efficiency ratio, which represents the costs expended to generate a dollar of revenue, is calculated excluding certain non-operational items in order to measure how well the Company is managing its recurring operating expenses. 
+
+These non-GAAP financial measures should not be considered a substitute for GAAP basis financial measures. Because non-GAAP financial measures are not standardized, it may not be possible to compare these with other companies that present financial measures having the same or similar names. 
+
+The following tables reconcile non-GAAP financial measures to the most comparable financial measures defined by GAAP: At March 31, (Dollars and shares in thousands, except per share data) 2024 2023 Tangible book value per common share: Stockholders&#8217; equity $ 8,747,498 $ 8,294,294 Less: Preferred stock 283,979 283,979 Common stockholders&#8217; equity $ 8,463,519 $ 8,010,315 Less: Goodwill and other intangible assets 3,250,909 2,861,310 Tangible common stockholders&#8217; equity $ 5,212,610 $ 5,149,005 Common shares outstanding 172,464 174,712 Tangible book value per common share $ 30.22 &#160; $ 29.47 &#160; Book value per common share (GAAP) $ 49.07 &#160; $ 45.85 &#160; Tangible common equity ratio: Tangible common stockholders&#8217; equity $ 5,212,610 $ 5,149,005 Total assets $ 76,161,693 $ 74,844,395 Less: Goodwill and other intangible assets 3,250,909 2,861,310 Tangible assets $ 72,910,784 $ 71,983,085 Tangible common equity ratio 7.15 &#160; % 7.15 &#160; % Common stockholders&#8217; equity to total assets (GAAP) 11.11 &#160; % 10.70 &#160; % 
+
+Three months ended March 31, (Dollars in thousands) 2024 2023 Return on average tangible common stockholders&#8217; equity: Net income $ 216,323 $ 221,004 Less: Preferred stock dividends 4,163 4,163 Add: Intangible assets amortization, tax-effected 7,263 7,503 Net income adjusted for preferred stock dividends and intangible assets amortization $ 219,423 $ 224,344 Net income adjusted for preferred stock dividends and intangible assets amortization (annualized) $ 877,692 $ 897,376 Average stockholders&#8217; equity $ 8,759,992 $ 8,215,676 Less: Average preferred stock 283,979 283,979 Average goodwill and other intangible assets 3,090,751 2,849,673 Average tangible common stockholders&#8217; equity $ 5,385,262 $ 5,082,024 Return on average tangible common stockholders&#8217; equity 16.30 &#160; % 17.66 &#160; % Return on average common stockholders&#8217; equity (annualized) (GAAP) 10.01 &#160; % 10.94 &#160; % Efficiency ratio: Non-interest expense $ 335,923 $ 332,467 Less: Foreclosed property activities (330) (262) Intangible assets amortization 9,194 9,497 Operating lease depreciation 663 1,884 FDIC special assessment estimate 11,862 &#8212; Merger-related expenses (1) 
+
+3,139 29,373 Non-interest expense $ 311,395 $ 291,975 Net interest income $ 567,739 $ 595,283 Add: FTE adjustment 15,879 15,911 Non-interest income 99,353 70,766 Other income (2) 
+
+7,626 4,311 Less: Operating lease depreciation 663 1,884 (Loss) on sale of investment securities, net (9,826) (16,747) Net gain on sale of mortgage servicing rights 11,655 &#8212; Income $ 688,105 $ 701,134 Efficiency ratio 45.25 &#160; % 41.64 &#160; % Non-interest expense as a percentage of total revenue (GAAP) 50.36 &#160; % 49.92 &#160; % 
+
+(1) Merger-related expenses include Ametros acquisition expenses and primarily Sterling merger expenses for the three months ended March 31, 2024, and 2023, respectively. Additional information regarding the Company&#8217;s business developments, including the acquisition of Ametros in January 2024, can be found within Note 2: Business Developments in the Notes to Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements. 
+
+(2) Other income (non-GAAP) includes the taxable equivalent of net income generated from LIHTC investments. 
+
+Net Interest Income 
+
+Net interest income is the Company&#8217;s primary source of revenue, representing 85.1% and 89.4% of total revenue for the three months ended March 31, 2024, and 2023, respectively. Net interest income is the difference between interest income on interest-earning assets (i.e., loans and leases and investment securities) and interest expense on interest-bearing liabilities (i.e., deposits and borrowings), which are used to fund interest-earning assets and other activities. Net interest margin is calculated as the ratio of FTE net interest income to average interest-earning assets. 
+
+Net interest income, net interest margin, yields, and ratios on an FTE basis are considered non-GAAP financial measures, and are used by management to evaluate the comparability of the Company&#8217;s revenue arising from both taxable and non-taxable sources. FTE adjustments are determined assuming a statutory federal income tax rate of 21%. 
+
+Net interest income and net interest margin are influenced by the volume and mix of interest-earning assets and interest-bearing liabilities, changes in interest rate levels, re-pricing frequencies, contractual maturities, prepayment behavior, and the use of interest rate derivative financial instruments. These factors are affected by changes in economic conditions, which impacts monetary policies, competition for loans and deposits, as well as the extent of interest lost on non-performing assets. 
+
+Net interest income decreased $27.6 million, or 4.6%, from $595.3 million for the three months ended March 31, 2023, to $567.7 million for the three months ended March 31, 2024. On an FTE basis, net interest income also decreased $27.6 million. Net interest margin decreased 31 basis points from 3.66% for the three months ended March 31, 2023, to 3.35% for the three months ended March 31, 2024. 
+
+Average total interest-earning assets increased $2.0 billion, or 3.1%, from $66.1 billion for the three months ended March 31, 2023, to $68.1 billion for the three months ended March 31, 2024, primarily due to increases of $1.6 billion and $0.8 billion in average total investment securities and average loans and leases, respectively, partially offset by decreases of $0.3 billion and $0.1 billion in average interest-bearing deposits held at the FRB and average FHLB and FRB stock, respectively. The average yield on interest-earning assets increased 51 basis points from 5.08% for the three months ended March 31, 2023, to 5.59% for the three months ended March 31, 2024, primarily due to the higher interest rate environment, partially offset by lower purchase accounting accretion on loans and leases that were acquired in the Sterling merger. 
+
+Average total investment securities increased $1.6 billion, or 11.0%, from $14.6 billion for the three months ended March 31, 2023, to $16.2 billion for the three months ended March 31, 2024, primarily due to a higher volume of purchases net of paydown activities and sales of available-for-sale securities. At March 31, 2024, and 2023, the average total investment securities portfolio comprised 23.8% and 22.1% of average total interest-earning assets, respectively. The average yield on total investment securities increased 85 basis points from 2.79% for the three months ended March 31, 2023, to 3.64% for the three months ended March 31, 2024, primarily due to the reinvestment of funds received from the sale of lower yielding securities for securities at higher interest rates. 
+
+Average loans and leases increased $0.8 billion, or 1.7%, from $50.1 billion for the three months ended March 31, 2023, to $50.9 billion for the three months ended March 31, 2024, primarily due to commercial real estate and residential mortgage growth in 2023, partially offset by a decrease in mortgage warehouse loans. At March 31, 2024, and 2023, average loans and leases comprised 74.8% and 75.8% of average total interest-earning assets, respectively. The average yield on loans and leases increased 44 basis points from 5.80% for the three months ended March 31, 2023, to 6.24% for the three months ended March 31, 2024, primarily due to the higher interest rate environment, partially offset by lower purchase accounting accretion on loans and leases that were acquired in the Sterling merger. 
+
+Average interest-bearing deposits held at the FRB decreased $0.3 billion, or 36.3%, from $0.9 billion for the three months ended March 31, 2023, to $0.6 billion for the three months ended March 31, 2024, primarily due to the Company's risk management approach to hold higher levels of on-balance sheet liquidity in 2023. At March 31, 2024, and 2023, average interest-bearing deposits held at the FRB comprised 0.8% and 1.4% of total average interest-earning assets, respectively. The average yield on interest-bearing deposits held at the FRB increased 75 basis points from 4.63% for the three months ended March 31, 2023, to 5.38% for the three months ended March 31, 2024, primarily due to the higher interest rate environment. 
+
+Average FHLB and FRB stock decreased $0.1 billion, or 25.1%, from $0.5 billion for the three months ended March 31, 2023, to $0.4 billion for the three months ended March 31, 2024, primarily due to the lower FHLB stock investment required as a result of the decrease in FHLB advances in the second half of 2023. At March 31, 2024, and 2023, average FHLB and FRB stock comprised 0.5% and 0.7% of total average interest-earning assets, respectively. The average yield on average FHLB and FRB stock increased 75 basis points from 4.34% for the three months ended March 31, 2023, to 5.09% for the three months ended March 31, 2024, primarily due to the higher interest rate environment. 
+
+Average total interest-bearing liabilities increased $2.0 billion, or 3.3%, from $62.5 billion for the three months ended March 31, 2023, to $64.5 billion for the three months ended March 31, 2024, primarily due to an increase of $5.8 billion in average total deposits, partially offset by decreases of $3.0 billion, $0.6 billion, $0.1 billion, and $0.1 billion in average FHLB advances, average federal funds purchased, average securities sold under agreements to repurchase, and average long-term debt, respectively. The average rate on interest-bearing liabilities increased 87 basis points from 1.52% for the three months ended March 31, 2023, to 2.39% for the three months ended March 31, 2024, primarily due to the higher interest rate environment. 
+
+Average total deposits increased $5.8 billion, or 10.5%, from $54.8 billion for the three months ended March 31, 2023, to $60.6 billion for the three months ended March 31, 2024, reflecting an increase of $7.8 billion in interest-bearing deposits, partially offset by a decrease of $2.0 billion in non-interest-bearing deposits. The overall increase in average total deposits was primarily due to growth in interLINK, money market deposits, and retail certificates of deposit, partially offset by decreases in average non-interest-bearing and savings deposits. At March 31, 2024, and 2023, average total deposits comprised 93.9% and 87.7% of total average interest-bearing liabilities, respectively. The average rate on deposits increased 112 basis points from 1.11% for the three months ended March 31, 2023, to 2.23% for the three months ended March 31, 2024, primarily due to the higher interest rate environment and growth in higher costing deposit products, such as money market accounts and certificates of deposit. Time deposits as a percentage of average total interest-bearing deposits increased from 9.5% for the three months ended March 31, 2023, to 14.6% for the three months ended March 31, 2024, primarily due to a shift in customer preferences from lower rate savings accounts into higher rate certificates of deposits. 
+
+Average FHLB advances decreased $3.0 billion, or 52.6%, from $5.7 billion for the three months ended March 31, 2023, to $2.7 billion for the three months ended March 31, 2024, primarily due to the Company&#8217;s risk management approach to hold higher levels of on-balance sheet liquidity in 2023. At March 31, 2024, and 2023, average FHLB advances comprised 4.2% and 9.1% of average total interest-bearing liabilities, respectively. The average rate on FHLB advances to repurchase increased 70 basis points from 4.80% for the three months ended March 31, 2023, to 5.50% for the three months ended March 31, 2024, primarily due to the higher interest rate environment. 
+
+Average federal funds purchased decreased $0.6 billion, or 79.1%, from $0.7 billion for the three months ended March 31, 2023, to $0.1 billion for the three months ended March 31, 2024, primarily due to the additional liquidity generated from the interLINK deposit sweep program, which allowed for the Company to decrease its federal funds borrowing volume in 2023. At March 31, 2024, and 2023, average federal funds purchased comprised 0.2% and 1.1% of average total interest-bearing liabilities, respectively. The average rate on federal funds purchased increased 85 basis points from 4.62% for the three months ended March 31, 2023, to 5.47% for the three months ended March 31, 2024, primarily due to the higher interest rate environment. 
+
+Average securities sold under agreements to repurchase decreased $0.1 billion, or 46.4% from $0.2 billion for the three months ended March 31, 2023, to $0.1 billion for the three months ended March 31, 2024, primarily due to short-term liquidity management needs. At March 31, 2024, and 2023, average securities sold under agreements to repurchase comprised 0.2% and 0.4% of total average interest-bearing liabilities, respectively. The average rate on securities sold under agreements to repurchase increased 41 basis points from 0.11% for the three months ended March 31, 2023, to 0.52% for the three months ended March 31, 2024, primarily due to the higher interest rate environment. 
+
+Average long-term debt decreased $0.1 billion, or 8.5%, from $1.1 billion for the three months ended March 31, 2023, to $1.0 billion for the three months ended March 31, 2024, primarily due to the maturity of its 4.375% senior fixed rate notes in February 2024. At March 31, 2024, and 2023, average long-term debt comprised 1.5% and 1.7% of average total interest-bearing liabilities, respectively. The average rate on long-term debt remained relatively flat at approximately 3.65% for both the three months ended March 31, 2024, and 2023. 
+
+The following table summarizes daily average balances, interest, and average yield/rate by major category, and net interest margin on an FTE basis: 
+
+&#160; Three months ended March 31, &#160; 2024 2023 (Dollars in thousands) Average Balance Interest Income/Expense Average Yield/Rate Average Balance Interest Income/Expense Average Yield/Rate Assets Interest-earning assets: Loans and leases (1) 
+
+$ 50,938,418 $ 801,864 6.24 % $ 50,095,192 $ 725,543 5.80 % Investment securities: (2) 
+
+Taxable 13,955,397 141,131 3.87 12,093,477 92,290 2.91 Non-taxable 2,287,952 12,514 2.18 2,539,768 13,684 2.16 Total investment securities 16,243,349 153,645 3.64 14,633,245 105,974 2.79 FHLB and FRB stock 343,992 4,352 5.09 459,375 4,910 4.34 Interest-bearing deposits (3) 
+
+572,401 7,786 5.38 898,884 10,396 4.63 Loans held for sale 13,418 82 2.45 4,630 16 1.39 Total interest-earning assets 68,111,578 $ 967,729 5.59 % 66,091,326 $ 846,839 5.08 % Non-interest-earning assets 7,221,187 6,225,199 Total assets $ 75,332,765 $ 72,316,525 Liabilities and Stockholders&#8217; Equity Interest-bearing liabilities: Demand deposits $ 10,582,416 $ &#8212; &#8212; % $ 12,629,928 $ &#8212; &#8212; % Health savings accounts 8,605,640 3,191 0.15 8,292,450 3,027 0.15 Interest-bearing checking, money market, and savings 34,055,685 249,650 2.95 29,853,370 123,048 1.67 Time deposits 7,321,625 83,130 4.57 4,024,472 24,129 2.43 Total deposits 60,565,366 335,971 2.23 54,800,220 150,204 1.11 Securities sold under agreements to repurchase 130,653 171 0.52 243,848 67 0.11 Federal funds purchased 140,165 1,937 5.47 671,175 7,760 4.62 FHLB advances 2,689,632 37,367 5.50 5,673,826 68,126 4.80 Long-term debt (2) 
+
+980,926 8,665 3.64 1,072,252 9,488 3.65 Total borrowings 3,941,376 48,140 4.88 7,661,101 85,441 4.48 Total interest-bearing liabilities 64,506,742 $ 384,111 2.39 % 62,461,321 $ 235,645 1.52 % Non-interest-bearing liabilities 2,066,031 1,639,528 Total liabilities 66,572,773 64,100,849 Preferred stock 283,979 283,979 Common stockholders&#8217; equity 8,476,013 7,931,697 Total stockholders&#8217; equity 8,759,992 8,215,676 Total liabilities and stockholders&#8217; equity $ 75,332,765 $ 72,316,525 Net interest income (FTE) $ 583,618 $ 611,194 Less: FTE adjustment (15,879) (15,911) Net interest income $ 567,739 $ 595,283 Net interest margin (FTE) 3.35 % 3.66 % 
+
+(1) Non-accrual loans have been included in the computation of average balances. 
+
+(2) For the purpose of our average yield/rate and margin computations, unsettled trades on investment securities, unrealized gains (losses) on available-for-sale investment securities, and basis adjustments on long-term debt from de-designated fair value hedges are excluded. 
+
+(3) Interest-bearing deposits are a component of Cash and cash equivalents on the Condensed Consolidated Statements of Cash Flows included in Part I - Item 1. Financial Statements. 
+
+The following table summarizes the change in net interest income attributable to changes in rate and volume, and reflects net interest income on an FTE basis: 
+
+Three months ended March 31, 2024 vs. 2023 
+
+Increase (decrease) due to 
+
+(In thousands) Rate (1) 
+
+Volume Total Change in interest on interest-earning assets: Loans and leases $ 69,137 $ 7,184 $ 76,321 Investment securities 36,483 11,188 47,671 FHLB and FRB stock 675 (1,233) (558) Interest-bearing deposits 1,166 (3,776) (2,610) Loans held for sale 76 (10) 66 Total interest income $ 107,537 $ 13,353 $ 120,890 Change in interest on interest-bearing liabilities: Health savings accounts $ 50 $ 114 $ 164 Interest-bearing checking, money market, and savings 70,546 56,056 126,602 Time deposits 42,447 16,554 59,001 Securities sold under agreements to repurchase 135 (31) 104 Federal funds purchased 317 (6,140) (5,823) FHLB advances 5,073 (35,832) (30,759) Long-term debt 11 (834) (823) Total interest expense $ 118,579 $ 29,887 $ 148,466 Net change in net interest income $ (11,042) $ (16,534) $ (27,576) 
+
+(1) The change attributable to mix, a combined impact of rate and volume, is included with the change due to rate. 
+
+Provision for Credit Losses 
+
+The provision for credit losses decreased $1.2 million, or 2.7%, from $46.7 million for the three months ended March 31, 2023, to $45.5 million for the three months ended March 31, 2024. The balance for the three months ended March 31, 2023, included a one-time merger related charge of $6.8 million, which increased the provision for unfunded loan commitments. Excluding this charge, the provision for credit losses increased $5.6 million, primarily due to the impact of the current macroeconomic environment on credit performance, risk rating migration, and loan growth. 
+
+Additional information regarding the Company&#8217;s provision for credit losses and ACL can be found under the sections captioned &#8220;Loans and Leases&#8221; through &#8220;Allowance for Credit Losses on Loans and Leases&#8221; contained elsewhere in this Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Non-Interest Income &#160; Three months ended March 31, (In thousands) 2024 2023 Deposit service fees $ 42,589 $ 45,436 Loan and lease related fees 19,767 23,005 Wealth and investment services 7,924 6,587 Cash surrender value of life insurance policies 5,946 6,728 (Loss) on sale of investment securities, net (9,826) (16,747) Other income 32,953 5,757 Total non-interest income $ 99,353 $ 70,766 
+
+Total non-interest income increased $28.6 million, or 40.4%, from $70.8 million for the three months ended March 31, 2023, to $99.4 million for the three months ended March 31, 2024, primarily due to an increase in Other income and lower net losses on sale of investment securities, partially offset by decreases in Loan and lease related fees and Deposit service fees. 
+
+Other income increased $27.2 million, or 472.4%, from $5.8 million for the three months ended March 31, 2023, to $33.0 million for the three months ended March 31, 2024, primarily due to a $11.7 million net gain on sale of mortgage servicing rights, excess proceeds from bank-owned life insurance policies, higher income generated from interest rate derivative activities, and incremental fee income related to the acquired Ametros business. 
+
+Net losses on sale of investment securities decreased $6.9 million, or 41.3%, from $16.7 million for the three months ended March 31, 2023, to $9.8 million or the three months ended March 31, 2024. The Company sold $344.1 million of Agency MBS, Corporate debt securities, and Municipal bonds and notes classified as available-for-sale for proceeds of $331.7 million during the three months ended March 31, 2024, and $415.9 million of U.S. Treasury notes and Corporate debt securities classified as available-for-sale for proceeds of $395.4 million during the three months ended March 31, 2023. The amount included in non-interest income reflects the portion of the total loss that was not attributed to a decline in credit quality. 
+
+Loan and lease related fees decreased $3.2 million, or 14.1%, from $23.0 million for the three months ended March 31, 2023, to $19.8 million for the three months ended March 31, 2024, primarily due to lower loan servicing fees. 
+
+Deposit service fees decreased $2.8 million, or 6.3%, from $45.4 million for the three months ended March 31, 2023, to $42.6 million for the three months ended March 31, 2024, primarily due to lower customer account service fees, partially offset by higher cash management fees. 
+
+Non-Interest Expense &#160; Three months ended March 31, (In thousands) 2024 2023 Compensation and benefits $ 188,540 $ 173,200 Occupancy 19,439 20,171 Technology and equipment 45,836 44,366 Intangible assets amortization 9,194 9,497 Marketing 4,281 3,476 Professional and outside services 12,981 32,434 Deposit insurance 24,223 12,323 Other expense 31,429 37,000 Total non-interest expense $ 335,923 $ 332,467 
+
+Total non-interest expense increased $3.4 million, or 1.0%, from $332.5 million for the three months ended March 31, 2023, to $335.9 million for the three months ended March 31, 2024, primarily due to increases in Compensation and benefits and Deposit insurance, partially offset by decreases in Professional and outside services and Other expense. 
+
+Compensation and benefits increased $15.3 million, or 8.9%, from $173.2 million for the three months ended March 31, 2023, to $188.5 million for the three months ended March 31, 2024, primarily due to the impact from the employees acquired in the Ametros acquisition, and higher compensation, performance-based incentives, and employee benefits. 
+
+Deposit insurance increased $11.9 million, or 96.6%, from $12.3 million for the three months ended March 31, 2023, to $24.2 million for the three months ended March 31, 2024, due to an increase in the FDIC special assessment estimate. 
+
+Professional and outside services decreased $19.4 million, or 60.0%, from $32.4 million for the three months ended March 31, 2023, to $13.0 million for the three months ended March 31, 2024, primarily due to a decrease in technology consulting fees, which were higher in 2023 as a result of the core conversion of the legacy Webster and legacy Sterling platforms. 
+
+Other expense decreased $5.6 million, or 15.1%, from $37.0 million for the three months ended March 31, 2023, to $31.4 million for the three months ended March 31, 2024, primarily due to a decrease in pension expense and other miscellaneous expenses. 
+
+Income Taxes 
+
+The Company recognized income tax expense of $69.3 million and $65.8 million for the three months ended March 31, 2024, and 2023, respectively, reflecting effective tax rates of 24.3% and 23.0%, respectively. 
+
+The increase in both income tax expense and the effective tax rate reflects the recognition of $9.4 million of net discrete tax expense during the three months ended March 31, 2024, which included a $10.9 million expense related to items recognized in prior years, as compared to the recognition of $6.0 million of net discrete tax benefits during the three months ended March 31, 2023, which included benefits related to Sterling merger related costs. 
+
+Additional information regarding the Company&#8217;s income taxes, including its DTAs, can be found within Note 9: Income Taxes in the Notes to Consolidated Financial Statements contained in Part II - Item 8. Financial Statements and Supplementary Data of the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Segment Reporting 
+
+The Company has three reportable segments, which reflect its primary differentiated lines of business: Commercial Banking, Healthcare Financial Services, and Consumer Banking. Segment performance is evaluated using PPNR, or PTNR, as appropriate. Certain Treasury activities and other functional divisions, such as information technology, human resources, risk management, bank operations, and the operations of interLINK, as well as amounts required to reconcile non-GAAP profitability metrics to those reported in accordance with GAAP, are included in the Corporate and Reconciling category. 
+
+Effective January 1, 2024, the Company realigned certain of its Business Banking operations to better serve its customers and deliver operational efficiencies. Under this realignment, $1.5 billion of loans and $2.2 billion of deposits were reassigned from Commercial Banking to Consumer Banking. Prior period amounts have been recast accordingly. 
+
+In addition, with the acquisition of Ametros on January 24, 2024, the Company formed a new reportable segment called Healthcare Financial Services, which includes the aggregated financial information of the HSA Bank and Ametros businesses. 
+
+The following is a description of the Company&#8217;s three reportable segments and their primary services at March 31, 2024: 
+
+Commercial Banking serves businesses with more than $10 million of revenue through its Commercial Real Estate, Equipment Finance, Middle Market, Regional Banking, Asset-Based Lending, Commercial Services, Public Sector Finance, Sponsor and Specialty Finance, Verticals and Support, Private Banking, and Treasury Management business units. 
+
+Healthcare Financial Services offers consumer-directed healthcare solutions that includes HSAs, health reimbursement arrangements, the administration of medical insurance claim settlements, flexible spending accounts, and commuter benefits. Accounts are distributed nationwide directly to employers and individual consumers, as well as through national and regional insurance carriers, benefit consultants, and financial advisors. 
+
+Consumer Banking offers consumer deposit and fee-based services, residential mortgages, home equity lines, secured and unsecured loans, debit and credit card products, and investment services to individual consumers and small businesses through its Consumer Lending and Business Banking business units. Consumer Banking operates a distribution network consisting of 196 banking centers and 347 ATMs, a customer care center, and a full range of web and mobile-based banking services, primarily throughout southern New England and the New York metro and suburban markets. 
+
+Additional information regarding the Company&#8217;s reportable segments and its segment reporting methodology can be found within Note 14: Segment Reporting in the Notes to Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements of this report, and within Note 21: Segment Reporting in the Notes to Consolidated Financial Statements contained in Part II - Item 8. Financial Statements and Supplementary Data of the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Commercial Banking 
+
+Operating Results: Three months ended March 31, (In thousands) 2024 2023 Net interest income $ 341,942 $ 360,293 Non-interest income 34,280 33,720 Non-interest expense 106,225 98,833 Pre-tax, pre-provision net revenue $ 269,997 $ 295,180 
+
+Commercial Banking&#8217;s PPNR decreased $25.2 million, or 8.5%, for the three months ended March 31, 2024, as compared to the three months ended March 31, 2023, due to a decrease in net interest income and an increase in non-interest expense, partially offset by an increase in non-interest income. The $18.4 million decrease in net interest income is primarily due to lower average deposit balances and higher rates paid on deposits. The $0.6 million increase in non-interest income is primarily due to higher cash management fees and interest rate derivative activities, partially offset by lower loan servicing fees. The $7.4 million increase in non-interest expense is primarily due to higher employee compensation, operational support, and technology expenses in order to support balance sheet growth. 
+
+Selected Balance Sheet and Off-Balance Sheet Information: (In thousands) At March 31, 2024 At December 31, 2023 Loans and leases $ 39,883,343 $ 39,480,945 Deposits 16,075,390 16,053,850 Assets under administration / management (off-balance sheet) 3,016,817 2,911,293 
+
+Loans and leases increased $0.4 billion, or 1.0%, at March 31, 2024, as compared to December 31, 2023, primarily due to organic growth in the commercial real estate, public sector finance and private banking business units, partially offset by net principal paydowns in the commercial non-mortgage, asset-based lending, and equipment finance categories. Total portfolio originations for the three months ended March 31, 2024, and 2023, were $2.2 billion and $3.0 billion, respectively. The $0.8 billion decrease was primarily due to lower originations in all loan categories except for commercial real estate, which increased as compared to the prior year quarter. 
+
+Deposits increased $21.5 million, or 0.1%, at March 31, 2024, as compared to December 31, 2023, primarily due to higher money market and savings account balances, partially offset by lower non-interest-bearing demand deposit balances. 
+
+Commercial Banking held assets under administration of $0.9 billion at both March 31, 2024, and December 31, 2023, and assets under management of $2.1 billion and $2.0 billion at March 31, 2024, and December 31, 2023, respectively. The combined $0.1 billion increase, or 3.6%, was primarily due to an increase in investment account balances as a result of higher valuations in the equity markets and net funds invested. 
+
+Healthcare Financial Services 
+
+Operating Results: Three months ended March 31, (In thousands) 2024 2023 Net interest income $ 86,138 $ 71,730 Non-interest income 31,061 24,067 Non-interest expense 52,127 43,700 Pre-tax net revenue $ 65,072 $ 52,097 
+
+Healthcare Financial Services&#8217; PTNR increased $13.0 million, or 24.9%, for the three months ended March 31, 2024, as compared to the three months ended March 31, 2023, due to increases in net interest income and non-interest income, partially offset by an increase in non-interest expense. The $14.4 million increase in net interest income is primarily due to the acquisition of Ametros, an increase in net deposit spread, and organic HSA deposit growth. The $7.0 million increase in non-interest income is primarily due to incremental fee income related to the acquired Ametros business, and higher customer account and interchange fees. The $8.4 million increase in non-interest expense is primarily due to incremental expenses related to the acquired Ametros business, and higher employee compensation and service contract expenses. 
+
+Selected Balance Sheet and Off-Balance Sheet Information: (In thousands) At March 31, 2024 At December 31, 2023 Deposits $ 9,473,560 $ 8,287,705 Assets under administration, through linked investment accounts (off-balance sheet) 5,194,204 4,641,830 
+
+Deposits increased $1.2 billion, or 14.3%, at March 31, 2024, as compared to December 31, 2023, primarily due to additional HSA account holders, organic HSA deposit growth, and the acquisition of Ametros. 
+
+Assets under administration, through linked investment accounts, increased $0.6 billion, or 11.9%, at March 31, 2024, as compared to December 31, 2023, primarily due to additional HSA account holders and an increase in investment account balances as a result of higher valuations in the equity markets. 
+
+Consumer Banking 
+
+Operating Results: Three months ended March 31, (In thousands) 2024 2023 Net interest income $ 205,777 $ 234,604 Non-interest income 33,978 27,636 Non-interest expense 120,121 116,555 Pre-tax, pre-provision net revenue $ 119,634 $ 145,685 
+
+Consumer Banking&#8217;s PPNR decreased $26.1 million, or 17.9%, for the three months ended March 31, 2024, as compared to the three months ended March 31, 2023, due to a decrease in net interest income and an increase in non-interest expense, partially offset by an increase in non-interest income. The $28.8 million decrease in net interest income is primarily due to higher rates paid on deposits, partially offset by higher average loan balances and deposit growth. The $6.3 million increase in non-interest income is primarily due to a net gain on sale of mortgage servicing rights, partially offset by lower customer account service fees and loan servicing fees. The $3.6 million increase in non-interest expense is primarily due to higher employee compensation and operational support expenses, partially offset by lower technology and professional service costs. 
+
+Selected Balance Sheet and Off-Balance Sheet Information: (In thousands) At March 31, 2024 At December 31, 2023 Loans $ 11,208,804 $ 11,234,743 Deposits 26,914,464 26,251,722 Assets under administration (off-balance sheet) 8,124,874 7,876,437 
+
+Loans decreased $25.9 million, or 0.2%, at March 31, 2024, as compared to December 31, 2023, primarily due to net principal paydowns in home equity lines and loans, other consumer loans, and small business commercial and industrial loans, partially offset by organic growth in small business commercial real estate and residential mortgages. Total portfolio originations for both the three months ended March 31, 2024, and 2023, were $0.3 billion. 
+
+Deposits increased $0.7 billion, or 2.5%, at March 31, 2024, as compared to December 31, 2023, primarily due to higher money market, savings, and certificates of deposit balances, partially offset by lower non-interest-bearing demand deposits balances. 
+
+Assets under administration increased $0.2 billion, or 3.2% at March 31, 2024, as compared to December 31, 2023, primarily due to an increase in investment account balances as a result of higher valuations in the equity markets. 
+
+Financial Condition 
+
+Total assets increased $1.3 billion, or 1.6%, from $74.9 billion at December 31, 2023, to $76.2 billion at March 31, 2024. The change in total assets was primarily attributed to the following, which experienced changes greater than $100 million: 
+
+&#8226; Cash and cash equivalents decreased $170.6 million, primarily due to the Company&#8217;s risk management approach to hold higher levels of on-balance sheet liquidity in 2023; 
+
+&#8226; Total investment securities increased $246.7 million, reflecting a $605.3 million increase in the held-to-maturity portfolio, partially offset by a decrease of $358.6 million in the available-for-sale portfolio. The net increase in total investment securities was primarily due to purchases exceeding paydown activities, particularly across the Agency MBS, Agency CMBS, and CMBS categories, partially offset by $344.1 million in sales of available-for-sale Agency MBS, Corporate debt and Municipal bonds and notes; 
+
+&#8226; Loans held for sale increased $233.2 million, primarily due to the transfer of an aggregate $220.2 million of payroll finance and factored receivables loans from portfolio to held for sale at March 31, 2024; 
+
+&#8226; Loans and leases increased $372.6 million, primarily due to $2.5 billion of originations during the three months ended March 31, 2024, particularly across the commercial real estate and commercial non-mortgage categories, partially offset by net principal paydowns, and the aforementioned transfer of $220.2 million of payroll finance and factored receivables loans from portfolio to held for sale; 
+
+&#8226; Goodwill and other net intangible assets increased a combined $416.3 million, primarily due to the acquisition of Ametros on January 24, 2024, which resulted in the recognition of $228.2 million in goodwill, a $182.8 million core deposit intangible asset, and a $6.1 million trade name; and 
+
+&#8226; Accrued interest receivable and other assets increased $113.8 million. Notable drivers of the change included increases in LIHTC investments, accrued interest receivable, and accrued income from bank-owned life insurance policies, partially offset by decreases in treasury derivative assets and other asset balances. 
+
+Total liabilities increased $1.1 billion, or 1.7%, from $66.3 billion at December 31, 2023, to $67.4 billion at March 31, 2024. The change in total liabilities was primarily attributed to the following: 
+
+&#8226; Total deposits decreased $36.5 million, reflecting a $520.0 million decrease in non-interest-bearing deposits, partially offset by a $483.5 million increase in interest-bearing deposits. The net decrease in total deposits was primarily due to a $1.9 billion decrease in brokered certificates of deposit and lower balances in non-interest-bearing demand, partially offset by higher balances across all other deposit products, the receipt of the remaining Ametros deposits that were held at other banks, and organic HSA deposit growth; 
+
+&#8226; Securities sold under agreements to repurchase and other borrowings decreased $96.5 million, reflecting a $231.5 million decrease in short-term repurchase agreements, which was primarily due to the timing of maturities in the first quarter of 2024, partially offset by a $135.0 million increase in overnight federal funds, which was primarily due to a change in short-term funding mix; 
+
+&#8226; FHLB advances increased $1.3 billion, also primarily due to a change in short-term funding mix; 
+
+&#8226; Long-term debt decreased $134.3 million, primarily due to the maturity of its 4.375% senior fixed-rate notes on February 15, 2024; and 
+
+&#8226; Accrued expenses and other liabilities increased $126.4 million. Notable drivers of the change included increases in unfunded commitments for LIHTC investments, treasury derivative liabilities, income taxes payable, and deferred revenue, partially offset by decreases in accrued compensation and accrued interest payable. 
+
+Total stockholders&#8217; equity remained relatively flat at approximately $8.7 billion at both March 31, 2024, and December 31, 2023. Although the financial statement caption as a whole did not significantly change, activity within total stockholders&#8217; equity included the following during the three months ended March 31, 2024: 
+
+&#8226; Net income recognized of $216.3 million; 
+
+&#8226; Other comprehensive loss, net of tax, of $65.5 million; 
+
+&#8226; Dividends paid to common and preferred stockholders of $69.0 million and $4.2 million, respectively; 
+
+&#8226; Stock-based compensation expense of $13.8 million; and 
+
+&#8226; Repurchases of common stock of $20.4 million under the Company&#8217;s common stock repurchase program and $13.5 million related to employee stock-based compensation plans. 
+
+Investment Securities 
+
+Through its Corporate Treasury function, the Company maintains and invests in debt securities that are primarily used to provide a source of liquidity for operating needs, to generate interest income, and as a means to manage the Company&#8217;s interest-rate risk. The Company&#8217;s investment securities are classified into two major categories: available-for-sale and held-to-maturity. 
+
+The ALCO manages the Company&#8217;s investment securities in accordance with regulatory guidelines and corporate policies, which include limitations on aspects such as concentrations in and types of investments, as well as minimum risk ratings per type of security. In addition, the OCC may further establish individual limits on certain types of investments if the concentration in any such security presents a safety and soundness concern. At March 31, 2024, and December 31, 2023, the Company had total investment securities of $16.3 billion and $16.0 billion, respectively, with an average risk weighting for regulatory purposes of 16.3% and 17.2%, respectively. The Bank held the entirety of the Company's investment securities portfolio at both March 31, 2024, and December 31, 2023. However, the Holding Company may also directly hold investment securities. 
+
+The following table summarizes the balances and percentage composition of the Company&#8217;s investment securities: &#160; At March 31, 2024 At December 31, 2023 (In thousands) Amount % Amount % Available-for-sale: Government agency debentures $ 262,488 3.1 % $ 264,633 3.0 % Municipal bonds and notes 1,207,350 14.0 1,573,233 17.6 Agency CMO 46,236 0.5 48,941 0.5 Agency MBS 3,364,414 39.1 3,347,098 37.4 Agency CMBS 2,321,230 27.0 2,288,071 25.5 CMBS 731,851 8.5 763,749 8.5 Corporate debt 617,209 7.2 622,155 6.9 Private label MBS 41,308 0.5 42,808 0.5 Other 9,055 0.1 9,041 0.1 Total available-for-sale $ 8,601,141 100.0 % $ 8,959,729 100.0 % Held-to-maturity: Agency CMO $ 22,489 0.3 % $ 23,470 0.3 % Agency MBS 2,618,783 34.1 2,409,521 34.1 Agency CMBS 4,028,799 52.5 3,625,627 51.2 Municipal bonds and notes (1) 
+
+910,422 11.8 916,104 13.0 CMBS 99,582 1.3 100,075 1.4 Total held-to-maturity $ 7,680,075 100.0 % $ 7,074,797 100.0 % Total investment securities $ 16,281,216 $ 16,034,526 
+
+(1) The balances at both March 31, 2024, and December 31, 2023, exclude the $0.2 million ACL recorded on held-to-maturity securities. 
+
+Available-for-sale securities decreased $0.4 billion, or 4.0%, from $9.0 billion at December 31, 2023, to $8.6 billion at March 31, 2024, primarily due to the sale of $0.3 billion in Agency MBS, Corporate debt securities, and Municipal bonds and notes, which resulted in $12.4 million of gross realized losses, $2.6 million of which were attributed to a decline in credit quality, and therefore, have been included in the Provision for credit losses. This decrease was partially offset by purchases exceeding paydown activities, particularly across the Agency MBS, Agency CMBS, and CMBS categories. The average FTE yield on the available-for-sale portfolio was 3.85% for the three months ended March 31, 2024, as compared to 2.76% for the three months ended March 31, 2023. The 109 basis point increase is primarily due to the reinvestment of funds received from the sale of lower yielding securities for securities at higher interest rates. 
+
+At both March 31, 2024, and December 31, 2023, gross unrealized losses on available-for-sale securities were $0.8 billion. Available-for-sale securities are evaluated for credit losses on a quarterly basis. At both March 31, 2024, and December 31, 2023, no ACL was recorded on available-for-sale securities as each of the securities in the Company&#8217;s portfolio are investment grade and current as to principal and interest, and their price changes are consistent with interest and credit spreads when adjusting for convexity, rating, and industry differences. As of March 31, 2024, based on current market conditions and the Company&#8217;s targeted balance sheet composition strategy, the Company intends to hold its available-for-sale securities in unrealized loss positions through the anticipated recovery period. 
+
+Held-to-maturity securities increased $0.6 billion, or 8.6%, from $7.1 billion at December 31, 2023, to $7.7 billion at March 31, 2024, primarily due to purchases exceeding paydown activities, particularly across the Agency MBS and Agency CMBS categories. The average FTE yield on the held-to-maturity portfolio was 3.37% for the three months ended March 31, 2024, as compared to 2.82% for the three months ended March 31, 2023, respectively. The 55 basis point increase is primarily due to higher interest rates on recent securities purchases, as compared to interest rates on securities with paydown activities. 
+
+At March 31, 2024, and December 31, 2023, gross unrealized losses on held-to-maturity securities were $0.9 billion and $0.8 billion, respectively. The $0.1 billion increase is primarily due to higher interest rates. Held-to-maturity securities are evaluated for credit losses on a quarterly basis under the CECL methodology. At both March 31, 2024, and December 31, 2023, the ACL on held-to-maturity securities was $0.2 million. 
+
+The following table summarizes the book value of investment securities by the earlier of either contractual maturity or call date, as applicable, along with the respective weighted-average yields: 
+
+At March 31, 2024 1 Year or Less 1 - 5 Years 5 - 10 Years After 10 Years Total (Dollars in thousands) Amount Weighted- 
+
+Average 
+
+Yield (1) 
+
+Amount Weighted- 
+
+Average 
+
+Yield (1) 
+
+Amount Weighted- 
+
+Average 
+
+Yield (1) 
+
+Amount Weighted- 
+
+Average 
+
+Yield (1) 
+
+Amount Weighted- 
+
+Average 
+
+Yield (1) 
+
+Available-for-sale: Government agency debentures $ &#8212; &#8212; % $ 75,163 2.41 % $ 16,350 2.26 % $ 170,975 3.31 % $ 262,488 2.99 % Municipal bonds and notes 13,973 1.94 112,977 1.74 613,219 1.64 467,181 1.64 1,207,350 1.66 Agency CMO &#8212; &#8212; 234 2.98 4,260 3.09 41,742 2.85 46,236 2.87 Agency MBS &#8212; &#8212; 16,461 1.33 129,198 1.79 3,218,755 3.94 3,364,414 3.84 Agency CMBS 8,382 0.85 100,352 1.08 31,436 2.12 2,181,060 4.49 2,321,230 4.29 CMBS &#8212; &#8212; 69,319 6.92 &#8212; &#8212; 662,532 6.90 731,851 6.90 Corporate debt 9,266 3.44 186,102 2.66 375,065 3.26 46,776 3.67 617,209 3.12 Private label MBS &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 41,308 4.01 41,308 4.01 Other &#8212; &#8212; 4,855 3.80 4,200 2.70 &#8212; &#8212; 9,055 3.29 Total available-for-sale $ 31,621 2.09 % $ 565,463 2.66 % $ 1,173,728 2.21 % $ 6,830,329 4.22 % $ 8,601,141 3.83 % Held-to-maturity: Agency CMO $ &#8212; &#8212; % $ &#8212; &#8212; % $ &#8212; &#8212; % $ 22,489 2.88 % $ 22,489 2.88 % Agency MBS 90 3.09 462 1.99 27,025 2.66 2,591,206 2.82 2,618,783 2.82 Agency CMBS &#8212; &#8212; 57,690 2.96 60,029 2.38 3,911,080 3.88 4,028,799 3.84 Municipal bonds and notes 29,756 3.15 36,446 2.84 212,658 2.73 631,562 3.24 910,422 3.10 CMBS &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 99,582 2.69 99,582 2.69 Total held-to-maturity $ 29,846 3.15 % $ 94,598 2.91 % $ 299,712 2.65 % $ 7,255,919 3.43 % $ 7,680,075 3.39 % Total investment securities $ 61,467 2.61 % $ 660,061 2.69 % $ 1,473,440 2.30 % $ 14,086,248 3.81 % $ 16,281,216 3.63 % 
+
+(1) Weighted-average yields exclude FTE adjustments, and are calculated using the sum of the total book value multiplied by the yield divided by the sum of the total book value for each security, major type, and maturity bucket. 
+
+Additional information regarding the Company&#8217;s investment securities&#8217; portfolios can be found within Note 3: Investment Securities in the Notes to Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements. 
+
+Loans and Leases 
+
+The following table summarizes the amortized cost and percentage composition of the Company&#8217;s loans and leases: &#160; At March 31, 2024 At December 31, 2023 (Dollars in thousands) Amount % Amount % Commercial non-mortgage $ 16,696,070 32.7 % $ 16,885,475 33.3 % Asset-based 1,492,886 2.9 1,557,841 3.1 Commercial real estate 13,972,916 27.3 13,569,762 26.7 Multi-family 7,896,586 15.5 7,587,970 15.0 Equipment financing 1,280,058 2.5 1,328,786 2.6 Residential 8,226,154 16.1 8,227,923 16.2 Home equity 1,479,420 2.9 1,516,955 3.0 Other consumer 54,552 0.1 51,340 0.1 Total loans and leases (1) 
+
+$ 51,098,642 100.0 % $ 50,726,052 100.0 % 
+
+(1) The amortized cost balances at March 31, 2024, and December 31, 2023, exclude the ACL recorded on loans and leases of $641.4 million and $635.7 million, respectively. 
+
+The following table summarizes loans and leases by contractual maturity, along with the indication of whether interest rates are fixed or variable: At March 31, 2024 (In thousands) 1 Year or Less 1 - 5 Years 5 - 15 Years After 15 Years Total Fixed rate: Commercial non-mortgage $ 129,444 $ 788,203 $ 2,328,841 $ 1,510,237 $ 4,756,725 Asset-based &#8212; 95,369 &#8212; &#8212; 95,369 Commercial real estate 514,891 1,965,463 1,122,284 124,036 3,726,674 Multi-family 363,685 3,510,062 1,121,337 63,908 5,058,992 Equipment financing 119,567 924,002 236,489 &#8212; 1,280,058 Residential 844 50,788 364,416 5,015,988 5,432,036 Home equity 2,986 23,777 167,846 210,170 404,779 Other consumer 21,117 6,166 1,043 112 28,438 Total fixed rate loans and leases $ 1,152,534 $ 7,363,830 $ 5,342,256 $ 6,924,451 $ 20,783,071 Variable rate: Commercial non-mortgage $ 4,123,296 $ 7,176,187 $ 569,885 $ 69,977 $ 11,939,345 Asset-based 415,701 981,816 &#8212; &#8212; 1,397,517 Commercial real estate 2,497,244 4,811,981 2,255,905 681,112 10,246,242 Multi-family 346,702 1,254,661 1,207,623 28,608 2,837,594 Residential 185 10,448 287,848 2,495,637 2,794,118 Home equity 1,638 6,526 124,349 942,128 1,074,641 Other consumer 3,588 20,534 1,992 &#8212; 26,114 Total variable rate loans and leases $ 7,388,354 $ 14,262,153 $ 4,447,602 $ 4,217,462 $ 30,315,571 Total loans and leases (1) 
+
+$ 8,540,888 $ 21,625,983 $ 9,789,858 $ 11,141,913 $ 51,098,642 
+
+(1) Amounts due exclude total accrued interest receivable of $284.1 million. 
+
+(2) The Company has a back-to-back swap program, whereby it enters into an interest rate swap with a qualified customer and simultaneously enters into an equal and opposite interest-rate swap with a swap counterparty, to hedge interest rate risk. At March 31, 2024, there were 898 customer interest rate swaps arrangements with a total notional amount of $7.2 billion to convert floating-rate loan payments to fixed-rate loan payments. 
+
+Portfolio Concentrations 
+
+The Company actively monitors and manages concentrations of credit risk pertaining to specific industries and geographies that may exist in its loan and lease portfolio. 
+
+At March 31, 2024, and December 31, 2023, commercial non-mortgage, commercial real estate, and multi-family loans comprised 75.5% and 75.0%, respectively, of the Company&#8217;s loan and lease portfolio, with a large portion of the borrowers or properties associated with these loans geographically concentrated in New York City and the proximate areas. 
+
+The following table summarizes commercial non-mortgage loans by industry, as determined using standardized industry classification codes, which are used by the Company to categorize loans based on the borrower&#8217;s type of business: At March 31, 2024 At December 31, 2023 (In thousands) Amount % Amount % Finance $ 3,928,510 23.5 % $ 4,109,280 24.4 % Services 2,720,172 16.3 2,928,621 17.3 Communications 1,391,025 8.3 1,166,668 6.9 Healthcare 1,027,056 6.2 848,867 5.0 Manufacturing 996,336 6.0 1,163,798 6.9 Retail &#38; Wholesale 780,762 4.7 874,547 5.2 Real Estate 773,660 4.6 815,769 4.8 Transportation &#38; Public Utilities 550,132 3.3 547,967 3.3 Construction 447,574 2.7 477,303 2.8 Other 4,080,843 24.4 3,952,655 23.4 Total Commercial non-mortgage $ 16,696,070 100.0 % $ 16,885,475 100.0 % 
+
+As illustrated above, the Company&#8217;s commercial non-mortgage portfolio is well diversified across industries, and concentrations are generally consistent from period to period. Any change in composition is consistent with the Company's portfolio growth strategy. 
+
+The following tables summarize commercial real estate and multi-family loans by both geography and property type: (In thousands) At March 31, 2024 At December 31, 2023 Geography: Amount % Amount % New York City $ 7,634,045 34.9 % $ 7,482,324 35.4 % Other New York County 3,297,133 15.1 3,321,313 15.7 Connecticut 1,789,142 8.2 1,749,839 8.3 New Jersey 1,782,090 8.1 1,729,139 8.2 Massachusetts 1,336,681 6.1 1,338,936 6.3 Southeast 2,523,181 11.6 2,311,574 10.9 Other 3,507,230 16.0 3,224,607 15.2 Total Commercial real estate &#38; Multi-family $ 21,869,502 100.0 % $ 21,157,732 100.0 % Property Type: 
+
+Multi-family (1) 
+
+$ 7,896,586 36.1 % $ 7,587,970 35.9 % Industrial &#38; Warehouse 3,721,986 17.0 3,467,859 16.4 Retail 1,620,643 7.4 1,765,512 8.3 Healthcare &#38; Senior Living 1,581,836 7.3 1,576,511 7.5 Construction 1,512,655 6.9 1,442,621 6.8 Office 986,182 4.5 1,041,451 4.9 Hotel 462,961 2.1 489,379 2.3 Other 4,086,653 18.7 3,786,429 17.9 Total Commercial real estate &#38; Multi-family $ 21,869,502 100.0 % $ 21,157,732 100.0 % 
+
+(1) Includes $1.5 billion and $1.3 billion of rent-regulated multi-family loans at March 31, 2024, and December 31, 2023, respectively. 
+
+Given the foundational change in office demand driven by the acceptance of remote work options, the commercial real estate market has experienced an increase in office property vacancies following the COVID-19 pandemic. As such, commercial real estate performance across the United States related to the office sector continues to be an area of uncertainty. 
+
+At March 31, 2024, the Company&#8217;s outstanding balance for commercial real estate office loans was $1.0 billion, or 1.9% of total loans and leases. In addition, at March 31, 2024, the Company has established reserves of $50.0 million against commercial real estate office loans. While the Company does anticipate ongoing change in the office sector, management believes that its reserve levels reflect the expected credit losses in the portfolio. 
+
+Credit Policies and Procedures 
+
+The Bank has credit policies and procedures in place designed to support its lending activities within an acceptable level of risk, which are reviewed and approved by management and the Board of Directors on a regular basis. To assist with this process, management inspects reports generated by the Company&#8217;s loan reporting systems related to loan production, loan quality, concentrations of credit, loan delinquencies, non-performing loans, and potential problem loans. 
+
+Commercial non-mortgage, asset-based, and equipment finance loans are underwritten after evaluating and understanding the borrower&#8217;s ability to operate and service its debt. Assessment of the borrower&#8217;s management is a critical element of the underwriting process and credit decision. Once it has been determined that the borrower&#8217;s management possesses sound ethics and a solid business acumen, current and projected cash flows are examined to determine the ability of the borrower to repay obligations, as contracted. Commercial non-mortgage, asset-based, and equipment finance loans are primarily made based on the identified cash flows of the borrower, and secondarily on the underlying collateral provided by the borrower. However, the cash flows of borrowers may not be as expected, and the collateral securing these loans, as applicable, may fluctuate in value. Most commercial non-mortgage, asset-based, and equipment finance loans are secured by the assets being financed and may incorporate personal guarantees of the principal balance. 
+
+Commercial real estate loans, including multi-family, are subject to underwriting standards and processes similar to those for commercial non-mortgage, asset-based, equipment finance, and warehouse lending loans. These loans are primarily viewed as cash flow loans, and secondarily as loans secured by real estate. Repayment of commercial real estate loans is largely dependent on the successful operation of the property securing the loan, the market in which the property is located, and the tenants of the property securing the loan. The properties securing the Company&#8217;s commercial real estate portfolio are diverse in terms of type and geographic location, which reduces the Company&#8217;s exposure to adverse economic events that may affect a particular market. Management monitors and evaluates commercial real estate loans based on collateral, geography, and risk grade criteria. All transactions are appraised to determine market value. Commercial real estate loans may be adversely affected by conditions in the real estate markets or in the general economy. Management periodically utilizes third-party experts to provide insight and guidance about economic conditions and trends affecting its commercial real estate loan portfolio. 
+
+Consumer loans are subject to policies and procedures developed to manage the specific risk characteristics of the portfolio. These policies and procedures, coupled with relatively small individual loan amounts and predominately collateralized loan structures, are spread across many different borrowers, minimizing the level of credit risk. Trend and outlook reports are reviewed by management on a regular basis, and policies and procedures are modified or developed, as needed. Underwriting factors for residential mortgage and home equity loans include the borrower&#8217;s FICO score, the loan amount relative to property value, and the borrower&#8217;s debt-to-income level. The Bank originates both qualified mortgage and non-qualified mortgage loans, as defined by applicable CFPB rules. 
+
+Allowance for Credit Losses on Loans and Leases 
+
+The ACL on loans and leases increased $5.7 million, or 0.9%, from $635.7 million at December 31, 2023, to $641.4 million at March 31, 2024, primarily due to the impact of the current macroeconomic environment on credit performance and nominal organic loan growth, partially offset by net charge-offs. 
+
+The following table summarizes the percentage allocation of the ACL across the loans and leases categories: 
+
+At March 31, 2024 At December 31, 2023 (Dollars in thousands) Amount % (1) 
+
+Amount % (1) 
+
+Commercial non-mortgage $ 186,448 29.1 % $ 211,699 33.3 % Asset-based 31,832 5.0 15,828 2.5 Commercial real estate 268,692 41.9 248,921 39.2 Multi-family 81,839 12.7 80,582 12.7 Equipment financing 20,298 3.2 20,633 3.2 Residential 25,948 4.0 29,739 4.7 Home equity 24,186 3.8 26,154 4.1 Other consumer 2,199 0.3 2,181 0.3 Total ACL on loans and leases $ 641,442 100.0 % $ 635,737 100.0 % 
+
+(1) The ACL allocated to a single loan and lease category does not preclude its availability to absorb losses in other categories. 
+
+Methodology 
+
+The Company&#8217;s ACL on loans and leases is considered to be a critical accounting policy. The ACL on loans and leases is a contra-asset account that offsets the amortized cost basis of loans and leases for the credit losses that are expected to occur over the life of the asset. Executive management reviews and advises on the adequacy of the allowance, which is maintained at a level that management deems to be sufficient to cover expected losses within the loan and lease portfolios. 
+
+The ACL on loans and leases is determined using the CECL model, whereby an expected lifetime credit loss is recognized at the origination or purchase of an asset, including those acquired through a business combination, which is then reassessed at each reporting date over the contractual life of the asset. The calculation of expected credit losses includes consideration of past events, current conditions, and reasonable and supportable economic forecasts that affect the collectability of the reported amounts. Generally, expected credit losses are determined through a pooled, collective assessment of loans and leases with similar risk characteristics. However, if the risk characteristics of a loan or lease change such that it no longer matches that of the collectively assessed pool, it is removed from the population and individually assessed for credit losses. The total ACL on loans and leases recorded by management represents the aggregated estimated credit loss determined through both the collective and individual assessments. 
+
+Collectively Assessed Loans and Leases . Collectively assessed loans and leases are segmented based on product type and credit quality, and expected losses are determined using models that follow a PD, LGD, EAD, or loss rate framework. For portfolios using the PD, LGD, and EAD framework, expected credit losses are calculated as the product of the probability of a loan defaulting, expected loss given the occurrence of a default, and the expected exposure of a loan at default. Summing the product across loans over their lives yields the lifetime expected credit losses for a given portfolio. The Company&#8217;s PD and LGD calculations are predictive models that measure the current risk profile of the loan pools using forecasts of future macroeconomic conditions, historical loss information, loan-level risk attributes, and credit quality indicators. The calculation of EAD follows an iterative process to determine the expected remaining principal balance of a loan based on historical paydown rates for loans of a similar segment within the same portfolio. The calculation of portfolio exposure in future quarters incorporates expected losses, the loan&#8217;s amortization schedule, and prepayment rates. Under the loss rate framework, expected credit losses are estimated using a loss rate that is multiplied by the amortized cost of the asset at the balance sheet date. For each loan segment identified, management applies an expected historical loss trend based on third-party loss estimates, and correlates them to observed economic metrics, and reasonable and supportable forecasts of economic conditions. 
+
+The Company&#8217;s models incorporate a single economic forecast scenario and macroeconomic assumptions over a reasonable and supportable forecast period. The development of the reasonable and supportable forecast assumes each macroeconomic variable will revert to long-term expectations, with reversion characteristics unique to specific economic indicators and forecasts. Reversion towards long-term expectations generally begins two to three years from the forecast start date and is complete within three to five years. Certain models use output reversion and revert to mean historical portfolio loss rates on a straight-line basis in the third year of the forecast. Other models incorporate a reasonable and supportable forecast of various macroeconomic variables over the remaining life of the Company&#8217;s assets. 
+
+The Company incorporates forecasts of macroeconomic variables in the determination of expected credit losses. Macroeconomic variables are selected for each class of financing receivable based on relevant factors, such as asset type and the correlation of the variables to credit losses, among others. Data from the forecast scenario of these macroeconomic variables are used as an inputs to the modeled loss calculation. 
+
+A portion of the collective ACL is comprised of qualitative adjustments for risk characteristics that are not reflected or captured in the quantitative models, but are likely to impact the measurement of estimated credit losses. Qualitative factors are based on management&#8217;s judgement of the Company, market, industry, or business specific data including loan trends, portfolio segment composition, and loan rating or credit scores. Qualitative adjustments may be applied in relation to economic forecasts when relevant facts and circumstances are expected to impact credit losses, particularly in times of significant volatility in economic activity. 
+
+Individually Assessed Loans and Leases . If the risk characteristics of a loan or lease change such that it no longer matches the risk characteristics of the collectively assessed pool, it is removed from the population and individually assessed for credit losses. Generally, all non-accrual loans and loans with a charge-off are individually assessed. The measurement method used to calculate the expected credit loss on an individually assessed loan or lease is dependent on the type and whether the loan or lease is considered to be collateral dependent. Methods for collateral dependent loans are either based on the fair value of the collateral less estimated cost to sell (when the basis of repayment is the sale of collateral), or the present value of the expected cash flows from the operation of the collateral. For non-collateral dependent loans, either a discounted cash flow method or other loss factor method is used. Any individually assessed loan or lease for which no specific valuation allowance is deemed necessary is either the result of sufficient cash flows or sufficient collateral coverage relative to the amortized cost of the asset. 
+
+Additional information regarding the Company&#8217;s ACL methodology can be found within Note 1: Summary of Significant Accounting Policies in the Consolidated Financial Statements contained in Part II - Item 8. Financial Statements and Supplementary Data of the Company's Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Asset Quality Ratios 
+
+The Company manages asset quality using risk tolerance levels established through the Company's underwriting standards, servicing, and management of its loan and lease portfolio. Loans and leases for which a heightened risk of loss has been identified are regularly monitored to mitigate further deterioration and preserve asset quality in future periods. Non-performing assets, credit losses, and net charge-offs are considered by management to be key measures of asset quality. 
+
+The following table summarizes key asset quality ratios and their underlying components: (Dollars in thousands) At March 31, 2024 At December 31, 2023 Non-performing loans and leases (1) 
+
+$ 283,612 $ 209,544 Total loans and leases 51,098,642 50,726,052 Non-performing loans and leases as a percentage of loans and leases 0.56 % 0.41 % Non-performing assets (1) 
+
+$ 289,254 $ 218,600 Total loans and leases $ 51,098,642 $ 50,726,052 Add: OREO and repossessed assets 5,642 9,056 Total loans and leases plus OREO and repossessed assets $ 51,104,284 $ 50,735,108 Non-performing assets as a percentage of loans and leases plus OREO and repossessed assets 0.57 % 0.43 % Non-performing assets (1) 
+
+$ 289,254 $ 218,600 Total assets 76,161,693 74,945,249 Non-performing assets as a percentage of total assets 0.38 % 0.29 % ACL on loans and leases $ 641,442 $ 635,737 Non-performing loans and leases (1) 
+
+283,612 209,544 ACL on loans and leases as a percentage of non-performing loans and leases 226.17 % 303.39 % ACL on loans and leases $ 641,442 $ 635,737 Total loans and leases 51,098,642 50,726,052 ACL on loans and leases as a percentage of loans and leases 1.26 % 1.25 % ACL on loans and leases $ 641,442 $ 635,737 Net charge-offs (annualized) 149,956 108,086 Ratio of ACL on loans and leases to net charge-offs (annualized) 4.28x 5.88x 
+
+(1) Non-performing asset balances and related asset quality ratios exclude the impact of net unamortized (discounts)/premiums and net unamortized deferred (fees)/costs on loans and leases. 
+
+The following table summarizes net charge-offs as an annualized percentage of average loans and leases for each category: At or for the three months ended March 31, 2024 2023 (Dollars in thousands) Net Charge-offs (Recoveries) Average Balance % Net Charge-offs (Recoveries) Average Balance % Commercial non-mortgage $ 31,333 $ 16,941,546 0.74 % $ 2,723 $ 16,635,874 0.07 % Asset-based &#8212; 1,523,616 &#8212; 13,189 1,790,992 2.95 Commercial real estate 2,112 13,719,196 0.06 8,551 13,260,223 0.26 Multi-family 1,128 7,684,569 0.06 1,033 6,710,103 0.06 Equipment financing 3,335 1,293,856 1.03 (660) 1,625,463 (0.16) Warehouse lending &#8212; &#8212; &#8212; &#8212; 409,580 &#8212; Residential (72) 8,225,151 &#8212; (461) 7,995,327 (0.02) Home equity (1,206) 1,499,529 (0.32) (421) 1,608,428 (0.10) Other consumer 859 50,955 6.74 567 59,202 3.83 Total $ 37,489 $ 50,938,418 0.29 % $ 24,521 $ 50,095,192 0.20 % 
+
+Net charge-offs increased $13.0 million, or 52.9%, from $24.5 million for the three months ended March 31, 2024, as compared to $37.5 million for the three months ended March 31, 2023, primarily due to an increase in net charge-offs in the commercial non-mortgage category, partially offset by a decrease in net charge-offs in the asset-based lending category. 
+
+Liquidity and Capital Resources 
+
+The Company manages its cash flow requirements through proactive liquidity measures at both the Holding Company and the Bank. In order to maintain stable, cost-effective funding, and to promote overall balance sheet strength, the liquidity position of the Company is continuously monitored, and adjustments are made to balance sources and uses of funds, as appropriate. 
+
+At March 31, 2024, management is not aware of any events that are reasonably likely to have a material adverse effect on the Company&#8217;s liquidity position, capital resources, or operating activities. Although regulatory agencies have not issued formal guidance mandating more stringent liquidity and capital requirements, the Company is anticipating a greater focus on the liquidity and capital adequacy of financial institutions in response to the high-profile bank failures that occurred in 2023 and related turmoil in the banking industry. The Company has taken appropriate measures to mitigate the risk that such requirements, if implemented, may have on its business, financial positions, and results of operations. 
+
+Cash inflows are provided through a variety of sources, including principal and interest payments on loans and investments, unpledged securities that can be sold or utilized to secure funding, and new deposits. The Company is committed to maintaining a strong base of core deposits, which consists of demand, interest-bearing checking, savings, health savings, and money market accounts, to support growth in its loan portfolios. Management actively monitors the interest rate environment and makes adjustments to its deposit strategy in response to evolving market conditions, funding needs, and client relationship dynamics. 
+
+Holding Company Liquidity. The primary source of liquidity at the Holding Company is dividends from the Bank. To a lesser extent, investment income, net proceeds from investment sales, borrowings, and public offerings may provide additional liquidity. The Holding Company generally uses its funds for principal and interest payments on senior notes, subordinated notes, and junior subordinated debt, dividend payments to preferred and common stockholders, repurchases of its common stock, and purchases of investment securities, as applicable. 
+
+During the three months ended March 31, 2024, the Bank paid $175.0 million in dividends to the Holding Company. At March 31, 2024, there was $598.6 million of retained earnings available for the payment of dividends by the Bank to the Holding Company. On April 24, 2024, the Bank was approved to pay the Holding Company $125.0 million in dividends for the second quarter of 2024. 
+
+There are certain restrictions on the Bank&#8217;s payment of dividends to the Holding Company, which can be found within Note 9: Regulatory Capital and Restrictions in the Notes to Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements of this report, and in the section captioned &#8220;Supervision and Regulation&#8221; in Part I - Item 1. Business of the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+The quarterly cash dividend to common stockholders remained at $0.40 per common share for the three months ended March 31, 2024. On April 24, 2024, it was announced that the Holding Company&#8217;s Board of Directors had declared a quarterly cash dividend of $0.40 per share on Webster common stock. For the Series F Preferred Stock and Series G Preferred Stock, quarterly cash dividends of $328.125 per share and $16.25 per share were declared, respectively. The Company continues to monitor economic forecasts, anticipated earnings, and its capital position in the determination of its dividend payments. 
+
+The Holding Company maintains a common stock repurchase program, which was approved by the Board of Directors, that authorizes management to purchase shares of its common stock in open market or privately negotiated transactions, through block trades, and pursuant to any adopted predetermined trading plan, subject to certain conditions. During the three months ended March 31, 2024, the Holding Company repurchased 434,061 shares under the repurchase program at a weighted-average price of $47.01 per share, totaling $20.4 million. At March 31, 2024, the Holding Company&#8217;s remaining purchase authority was $273.0 million. In addition, the Company will periodically acquire common shares outside of the repurchase program related to employee stock compensation plan activity. During the three months ended March 31, 2024, the Company repurchased 280,517 shares at a weighted-average price of $48.11 per share, totaling $13.5 million, for this purpose. 
+
+Webster Bank Liquidity. The Bank&#8217;s primary source of funding is its core deposits. Including time deposits, the Bank had a loan to deposit ratio of 84.1% and 83.5% at March 31, 2024, and December 31, 2023, respectively. 
+
+The Bank is required by OCC regulations to maintain a sufficient level of liquidity to ensure safe and sound operations. The adequacy of liquidity, as assessed by the OCC, depends on factors such as overall asset and liability structure, market conditions, competition, and the nature of the institution&#8217;s deposit and loan customers. At March 31, 2024, the Bank exceeded all regulatory liquidity requirements. The Company has designed a detailed contingency plan in order to respond to any liquidity concerns in a prompt and comprehensive manner, including early detection of potential problems and corrective action to address liquidity stress scenarios. 
+
+Capital Requirements. The Holding Company and the Bank are subject to various regulatory capital requirements administered by the federal banking agencies. Failure to meet minimum capital requirements can initiate certain mandatory actions by regulators that could have a direct material effect on the Company&#8217;s Condensed Consolidated Financial Statements. Under capital adequacy guidelines and/or the the regulatory framework for prompt corrective action (applies to the Bank only), both the Holding Company and the Bank must meet specific capital guidelines that involve quantitative measures of assets, liabilities, and certain off-balance sheet items calculated pursuant to regulatory directives. Capital amounts and classification are also subject to qualitative judgments by the regulators about components, risk weightings, and other factors. 
+
+Quantitative measures established by Basel III to ensure capital adequacy require the Holding Company and the Bank to maintain minimum ratios of CET1 Risk-Based Capital, Tier 1 Risk-Based Capital, Total Risk-Based Capital, and Tier 1 Leverage Capital, as defined in the regulations. At March 31, 2024, both the Holding Company and the Bank were classified as well-capitalized. Management believes that no events or changes have occurred subsequent to quarter-end that would change this designation. 
+
+In accordance with regulatory capital rules, the Company elected an option to delay the estimated impact of the adoption of CECL on its regulatory capital over a two-year deferral period, which ended on January 1, 2022, and subsequent three-year transition period ending on December 31, 2024. During the three-year transition period, capital ratios will phase out the aggregate amount of the regulatory capital benefit provided from the delayed CECL adoption in the initial two years. For 2022, 2023, and 2024, the Company is allowed 75%, 50%, and 25%, respectively, of the regulatory capital benefit as of December 31, 2021, with full absorption occurring in 2025. At March 31, 2024, the regulatory capital benefit allowed from the delayed CECL adoption resulted in a 3, 3, and 2 basis point increase to the Holding Company&#8217;s and the Bank&#8217;s CET1 Risk-Based Capital, Tier 1 Risk-Based Capital, and Tier 1 Leverage Capital, respectively, and a 1 basis point decrease to Total Risk-Based Capital. Both the Holding Company&#8217;s and the Bank&#8217;s regulatory ratios remain in excess of being well-capitalized, even without the regulatory capital benefit of the delayed CECL adoption impact. 
+
+Additional information regarding the required regulatory capital levels and ratios applicable to the Holding Company and the Bank can be found within Note 9: Regulatory Capital and Restrictions in the Notes to Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements. 
+
+Sources and Uses of Funds 
+
+Sources of Funds. Deposits are the primary source of cash flows for the Bank&#8217;s lending activities and general operational needs. Loan and securities repayments, proceeds from sales of loans and securities held for sale, and maturities also provide cash flows. While scheduled loan and securities repayments are a relatively stable source of funds, prepayments and other deposit inflows are influenced by economic conditions and prevailing interest rates, the timing of which are inherently uncertain. Additional sources of funds are provided by both short-term and long-term borrowings, and to a lesser extent, dividends received as part of the Bank's membership with the FHLB and FRB. 
+
+Deposits. The Bank offers a wide variety of checking and savings deposit products designed to meet the transactional and investment needs of its consumer and business customers. The Bank&#8217;s deposit services include, but are not limited to, ATM and debit card use, direct deposit, ACH payments, mobile banking, internet-based banking, banking by mail, account transfers, and overdraft protection, among others. The Bank manages the flow of funds in its deposit accounts and interest rates consistent with FDIC regulations. The Bank&#8217;s Consumer and Digital Pricing Committee and its Commercial and Institutional Liability and Loan Pricing Committee both meet regularly to determine pricing and marketing initiatives. 
+
+Total deposits were $60.7 billion and $60.8 billion at March 31, 2024, and December 31, 2023, respectively. The nominal $36.5 million decrease is primarily due to a $1.9 billion decrease in brokered certificates of deposit and lower balances in non-interest-bearing demand, partially offset by higher balances across all other deposit products, the receipt of the remaining Ametros deposits that were held at other banks, and organic HSA deposit growth. 
+
+The following table summarizes daily average balances of deposits by type and the weighted-average rates paid thereon: Three months ended March 31, 2024 2023 (Dollars in thousands) Average Balance Average Rate Average Balance Average Rate Non-interest-bearing: Demand $ 10,582,416 &#8212; % $ 12,629,928 &#8212; % Interest-bearing: Checking 9,255,252 1.80 8,822,549 1.44 Health savings accounts 8,605,640 0.15 8,292,450 0.15 Money market 18,102,661 4.15 12,884,558 2.57 Savings 6,697,772 1.29 8,146,263 0.49 Time deposits 7,321,625 4.57 4,024,472 2.43 Total interest-bearing 49,982,950 2.70 42,170,292 1.42 Total average deposits $ 60,565,366 2.23 % $ 54,800,220 1.11 % 
+
+Uninsured deposits represent the portion of deposit accounts in U.S. offices that exceed the FDIC insurance limit or similar state deposit insurance regime, and amounts in any other uninsured investment or deposit accounts that are classified as deposits and not subject to any federal or state deposit insurance regimes. The Company calculates its uninsured deposit balances based on the methodologies and assumptions used for regulatory reporting requirements, which includes an estimated portion and affiliate deposits. At March 31, 2024, and December 31, 2023, total uninsured deposits as per regulatory reporting requirements and reported on Schedule RC-O of the Bank&#8217;s Call Report were $20.7 billion and $21.0 billion, respectively. 
+
+The following table summarizes uninsured deposits information at March 31, 2024, after certain exclusions: (In thousands) At March 31, 2024 Uninsured deposits, per regulatory reporting requirements $ 20,726,997 Less: Affiliate deposits (2,741,198) Collateralized deposits (5,067,374) Uninsured deposits, after exclusions $ 12,918,425 
+
+Immediately available liquidity (1) 
+
+$ 18,756,799 Uninsured deposits coverage 145.2% 
+
+(1) Reflects $10.8 billion and $6.8 billion of additional borrowing capacity from the FHLB and the FRB, respectively, and $1.2 billion of interest-bearing deposits held at FRB. 
+
+Uninsured deposits, after adjusting for affiliate deposits and collateralized deposits, represented 21.3% of total deposits at March 31, 2024. Management believes that this presentation provides a more accurate view of deposits at risk given that affiliate deposits are not customer facing, and therefore are eliminated upon consolidation, and collateralized deposits are secured by other means. As of the date of this Quarterly Report on Form 10-Q, the Company&#8217;s uninsured deposits as a percentage of total deposits, adjusted for affiliate deposits and collateralized deposits, is consistent with the percentage reported at March 31, 2024. 
+
+The following table summarizes the portion of U.S. time deposits in excess of the FDIC insurance limit and time deposits otherwise uninsured by contractual maturity: (In thousands) March 31, 2024 Portion of U.S. time deposits in excess of insurance limit $ 508,998 Time deposits otherwise uninsured with a maturity of: 3 months or less $ 190,521 Over 3 months through 6 months 186,435 Over 6 months through 12 months 124,826 Over 12 months 7,216 
+
+Additional information regarding period-end deposit balances and rates can be found within Note 6: Deposits in the Notes to Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements. 
+
+Borrowings. The Bank&#8217;s primary borrowing sources include securities sold under agreements to repurchase, federal funds purchased, FHLB advances, and long-term debt. Total borrowings were $4.9 billion and $3.9 billion at March 31, 2024, and December 31, 2023, respectively, and represented 6.5% and 5.2% of total assets, respectively. The $1.0 billion increase is primarily due to increases of $1.3 billion and $135.0 million in FHLB advances and federal funds purchased, respectively, partially offset by decreases of $231.5 million and $134.3 million in securities sold under agreements to repurchase and long-term debt, respectively. 
+
+Securities sold under agreements to repurchase are generally a form of short-term funding for the Bank in which it sells securities to counterparties with an agreement to buy them back in the future at a fixed price. Securities sold under agreements to repurchase totaled $126.9 million and $358.4 million at March 31, 2024, and December 31, 2023, respectively. The $231.5 million decrease is primarily due to the timing of maturities in the first quarter of 2024. 
+
+The Bank may also purchase term and overnight federal funds to meet its short-term liquidity needs. Federal funds purchased totaled $235.0 million and $100.0 million at March 31, 2024, and December 31, 2023, respectively. The $135.0 million increase is primarily due to the change in short-term funding mix. 
+
+FHLB advances are not only utilized as a source of funding, but also for interest rate risk management purposes. FHLB advances totaled $3.7 billion and $2.4 billion at March 31, 2024, and December 31, 2023, respectively. The $1.3 billion increase is also due to the change in short-term funding mix. 
+
+Long-term debt consists of senior fixed-rate notes maturing in 2029, subordinated fixed-to-floating-rate notes maturing in 2029 and 2030, and floating-rate junior subordinated notes maturing in 2033. Long-term debt totaled $914.5 million and $1.0 billion at March 31, 2024, and December 31, 2023, respectively. The $134.3 million decrease is primarily due to the maturity of its 4.375% senior fixed-rate notes on February 15, 2024. 
+
+The Bank had additional borrowing capacity from the FHLB of $10.8 billion and $12.5 billion at March 31, 2024, and December 31, 2023, respectively. The Bank also had additional borrowing capacity from the FRB of $6.8 billion and $6.6 billion at March 31, 2024, and December 31, 2023, respectively. Unencumbered investment securities of $1.1 billion at March 31, 2024, could have been used for collateral on borrowings or to increase borrowing capacity by either $848.5 million with the FHLB or $1.0 billion with the FRB. 
+
+The following table summarizes daily average balances of borrowings by type and the weighted-average rates paid thereon: Three months ended March 31, 2024 2023 (Dollars in thousands) Average Balance Average Rate Average Balance Average Rate Securities sold under agreements to repurchase $ 130,653 0.52 % $ 243,848 0.11 % Federal funds purchased 140,165 5.47 671,175 4.62 FHLB advances 2,689,632 5.50 5,673,826 4.80 Long-term debt 980,926 3.64 1,072,252 3.65 Total average borrowings $ 3,941,376 4.88 % $ 7,661,101 4.48 % 
+
+Additional information regarding period-end borrowings balances and rates can be found within Note 7: Borrowings in the Notes to Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements. 
+
+Federal Home Loan Bank and Federal Reserve Bank Stock. The Bank is a member of the FHLB System, which consists of eleven district FHLBs, each of which is subject to the supervision and regulation of the Federal Housing Finance Agency. An activity-based capital stock investment in the FHLB is required in order for the Bank to maintain its membership and access advances and other extensions of credit for sources of funds and liquidity purposes. The FHLB capital stock investment is restricted as there is no market for it, and it can only be redeemed by the FHLB. The Bank held FHLB capital stock of $153.1 million and $99.0 million at March 31, 2024, and December 31, 2023, respectively. The most recent FHLB quarterly cash dividend was paid on May 2, 2024, in an amount equal to an annual yield of 8.40%. 
+
+The Bank is also required to hold FRB stock equal to 6% of its capital and surplus, of which 50% is paid. The remaining 50% is subject to call when deemed necessary by the Federal Reserve System. Similar to FHLB stock, the FRB capital stock investment is restricted as there is no market for it, and it can only be redeemed by the FRB. The Bank held FRB capital stock of $228.3 million and $227.9 million at March 31, 2024, and December 31, 2023, respectively. The most recent FRB semi-annual cash dividend was paid on December 29, 2023, in an amount equal to an annual yield of 4.30%. 
+
+Uses of Funds. The Company enters into various contractual obligations in the normal course of business that require future cash payments and that could impact its short-term and long-term liquidity and capital resource needs. The following table summarizes significant fixed and determinable contractual obligations at March 31, 2024. The actual timing and amounts of future cash payments may differ from the amounts presented. Based on the Company&#8217;s current liquidity position, it is expected that our sources of funds will be sufficient to fulfill these obligations when they come due. 
+
+&#160; &#160; 
+
+Payments Due by Period (1) 
+
+(In thousands) 2024 2025 2026 2027 2028 Thereafter Total Senior notes $ &#8212; $ &#8212; $ &#8212; $ &#8212; $ &#8212; $ 300,000 $ 300,000 Subordinated notes &#8212; &#8212; &#8212; &#8212; &#8212; 499,000 499,000 Junior subordinated debt &#8212; &#8212; &#8212; &#8212; &#8212; 77,320 77,320 FHLB advances 3,650,000 &#8212; &#8212; 231 225 9,474 3,659,930 Securities sold under agreements to repurchase 126,886 &#8212; &#8212; &#8212; &#8212; &#8212; 126,886 Federal funds purchased 235,000 &#8212; &#8212; &#8212; &#8212; &#8212; 235,000 Time deposits 6,406,380 414,440 56,451 33,809 20,873 5,367 6,937,320 Operating lease liabilities 28,969 40,748 36,777 32,089 27,872 83,303 249,758 Contingent consideration 12,500 207 &#8212; &#8212; &#8212; &#8212; 12,707 Royalty liabilities 8,940 1,560 &#8212; &#8212; &#8212; &#8212; 10,500 
+
+Purchase obligations (2) 
+
+103,403 37,947 18,638 12,583 4,333 14,287 191,191 Total contractual obligations $ 10,572,078 $ 494,902 $ 111,866 $ 78,712 $ 53,303 $ 988,751 $ 12,299,612 
+
+(1) Interest payments on borrowings have been excluded. 
+
+(2) Purchase obligations represent agreements to purchase goods or services of $1.0 million or more that are enforceable and legally binding and specify all significant terms. 
+
+In addition, in the normal course of business, the Company offers financial instruments with off-balance sheet risk to meet the financing needs of its customers. These transactions include commitments to extend credit and commercial and standby letters of credit, which involve, to a varying degree, elements of credit risk. Since many of these commitments are expected to expire unused or be only partially funded, the total commitment amount of $11.7 billion at March 31, 2024, does not necessarily reflect future cash payments. 
+
+The Company also enters into commitments to invest in venture capital and private equity funds and tax credit structures to assist the Bank in meeting its responsibilities under the CRA. The total unfunded commitment for these alternative investments was $796.2 million at March 31, 2024. However, the timing of capital calls cannot be reasonably estimated, and depending on the nature of the contract, the entirety of the capital committed by the Company may not be called. 
+
+Pension obligations are funded by the Company, as needed, to provide for participant benefit payments as it relates to the Company&#8217;s frozen, non-contributory, qualified defined benefit pension plan. Decisions to contribute to the defined benefit pension plan are made based upon pension funding requirements under the Pension Protection Act, the maximum amount deductible under the Internal Revenue Code, the actual performance of plan assets, and trends in the regulatory environment. The Company does not currently anticipate that it will be required to contribute to the defined benefit pension plan in 2024. The Company&#8217;s non-qualified supplemental executive retirement plans and other post-employment benefit plans are unfunded. 
+
+At March 31, 2024, the Company&#8217;s Condensed Consolidated Balance Sheet reflects a liability for uncertain tax positions of $14.5 million and $4.3 million of accrued interest and penalties, respectively. The ultimate timing and amount of any related future cash settlements cannot be predicted with reasonable certainty. 
+
+On November 29, 2023, the FDIC published a final rule implementing a special assessment for certain banks to recover losses incurred by protecting uninsured depositors of Silicon Valley Bank and Signature Bank upon their failure in March 2023. The final rule levies a special assessment to certain banks at a quarterly rate of 3.36 basis points based on their uninsured deposits balance reported as of December 31, 2022. The special assessment is to be collected for an anticipated total of eight quarterly assessment periods beginning with the first quarter of 2024, which has a payment date of June 28, 2024. Based on the final rule, the Company had estimated that its special assessment charge was approximately $47.2 million at December 31, 2023. 
+
+On February 23, 2024, the Company received notification from the FDIC that the estimated loss attributable to the protection of uninsured depositors at Silicon Valley Bank and Signature Bank was $20.4 billion, an increase of approximately $4.1 billion from the estimated $16.3 billion described in the final rule. Based on the Company&#8217;s evaluation of all information available at March 31, 2024, the Company recorded an additional $11.9 million towards its estimated special assessment charge. The FDIC plans to provide institutions subject to the special assessment with an updated estimate of each institution&#8217;s quarterly and total special assessment expense with its first quarter 2024 special assessment invoice, to be released in June 2024. 
+
+Additional information regarding credit-related financial instruments and the FDIC special assessment, and alternative investments can be found within Note 16: Commitments and Contingencies and Note 10: Variable Interest Entities, respectively, in the Notes to the Condensed Consolidated Financial Statements contained in Part I - Item 1. Financial Statements of this report. Additional information regarding defined benefit pension and other postretirement benefit plans and income taxes can be found within Note 19: Retirement Benefit Plans and Note 9: Income Taxes, respectively, in the Notes to the Consolidated Financial Statements contained in Part II - Item 8. Financial Statements and Supplementary Data of the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Asset/Liability Management and Market Risk 
+
+An effective asset/liability management process must balance the risks and rewards from both short-term and long-term interest rate risk when determining the Company&#8217;s strategy and action. To facilitate this process, interest rate sensitivity is monitored on an ongoing basis by the Company&#8217;s ALCO, whose primary goal is to manage interest rate risk and maximize net income and net economic value over time in changing interest rate environments. The ALCO meets frequently to make decisions on the Company&#8217;s investment and funding portfolios based on the economic outlook, its interest rate expectations, the risk position, and other factors. 
+
+Four main tools are used for managing interest rate risk: 
+
+&#8226; the size, duration, and credit risk of the investment portfolio; 
+
+&#8226; the size and duration of the wholesale funding portfolio; 
+
+&#8226; interest rate contracts; and 
+
+&#8226; the pricing and structure of loans and deposits. 
+
+The Company measures interest rate risk using simulation analysis and asset/liability modeling software to calculate the earnings at risk and equity at risk. Essentially, interest rates are assumed to change up or down in a parallel fashion, and the net interest income results in each scenario are compared to a flat rate base scenario. The flat rate base scenario holds the end of period yield curve constant over a twelve-month forecast horizon. At both March 31, 2024, and December 31, 2023, the flat rate base scenario assumed a federal funds rate of 5.50%. The federal funds rate target range was 5.25-5.50% at both March 31, 2024, and December 31, 2023. 
+
+The following table summarizes the estimated impact that gradual parallel changes in interest rates of up and down 100, 200, and 300 basis points might have on the Company&#8217;s net interest income over a twelve-month period starting at March 31, 2024, and December 31, 2023, as compared to actual net interest income and assuming no changes in interest rates: 
+
+-300bp -200bp -100bp +100bp +200bp +300bp March 31, 2024 (7.0)% (4.2)% (2.0)% 1.7% 3.4% 5.4% December 31, 2023 (7.2)% (4.5)% (2.0)% 1.7% 3.3% 5.4% 
+
+Despite changes in the Company&#8217;s balance sheet composition during the three months ended March, 31, 2024, asset sensitivity in terms of net interest income generally remained unchanged from December 31, 2023, to March 31, 2024. This was primarily due to an increase in fixed-rate investment securities, which was offset by an increase in floating-rate loans. 
+
+The following table summarizes the estimated impact that yield curve twists or immediate non-parallel changes in interest rates of up and down 50 and 100 basis points might have on the Company&#8217;s net interest income over a twelve-month period starting at March 31, 2024, and December 31, 2023: 
+
+Short End of the Yield Curve Long End of the Yield Curve -100bp -50bp +50bp +100bp -100bp -50bp +50bp +100bp March 31, 2024 (1.7)% (0.7)% 0.4% 0.8% (2.2)% (1.1)% 1.1% 2.1% December 31, 2023 (1.8)% (0.8)% 0.4% 0.7% (2.3)% (1.1)% 1.1% 2.2% 
+
+These non-parallel scenarios are modeled with the short end of the yield curve moving up or down 50 and 100 basis points, while the long end of the yield curve remains unchanged, and vice versa. The short end of the yield curve is defined as terms less than eighteen months, and the long end of the yield curve is defined as terms greater than eighteen months. The results reflect the annualized impact of immediate interest rate changes. 
+
+Despite changes in the Company&#8217;s balance sheet composition during the three months ended March, 31, 2024, sensitivity to both the short end and the long end of the yield curve for net interest income generally remained from December 31, 2023, to March 31, 2024. This was also primarily due to an increase in fixed-rate investment securities, which was offset by an increase in floating-rate loans. 
+
+The following table summarizes the estimated economic value of financial assets, financial liabilities, and off-balance sheet financial instruments and the corresponding estimated change in economic value if interest rates were to instantaneously increase or decrease by 100 basis points at March 31, 2024, and December 31, 2023: 
+
+(Dollars in thousands) Book Value Estimated Economic Value Estimated Economic Value Change -100bp +100bp March 31, 2024 Assets $ 76,161,693 $ 71,150,404 $ 1,351,686 $ (1,399,835) Liabilities 67,414,195 62,140,735 1,923,952 (1,754,226) Net $ 8,747,498 $ 9,009,669 $ (572,266) $ 354,391 Net change as % base net economic value (6.4) % 3.9 % December 31, 2023 Assets $ 74,945,249 $ 70,356,779 $ 1,297,870 $ (1,350,496) Liabilities 66,255,253 61,722,480 1,960,088 (1,786,228) Net $ 8,689,996 $ 8,634,299 $ (662,218) $ 435,732 Net change as % base net economic value (7.7) % 5.0 % 
+
+Changes in economic value can best be described through duration, which is a measure of the price sensitivity of financial instruments due to changes in interest rates. For fixed-rate financial instruments, it can be thought of as the weighted-average expected time to receive future cash flows, whereas for floating-rate financial instruments, it can be thought of as the weighted-average expected time until the next rate reset. Overall, the longer the duration, the greater the price sensitivity due to changes in interest rates. Generally, increases in interest rates reduce the economic value of fixed-rate financial assets as future discounted cash flows are worth less at higher interest rates. In a rising interest rate environment, the economic value of financial liabilities decreases for the same reason. A reduction in the economic value of financial liabilities is a benefit to the Company. Floating-rate financial instruments may have durations as short as one day, and therefore, may have very little price sensitivity due to changes in interest rates. 
+
+Duration gap represents the difference between the duration of financial assets and financial liabilities. A duration gap at or near zero would imply that the balance sheet is matched, and therefore, would exhibit no change in estimated economic value for changes in interest rates. At March 31, 2024, and December 31, 2023, the Company&#8217;s duration gap was negative 1.0 years and negative 1.1 years, respectively. A negative duration gap implies that the duration of financial liabilities is longer than the duration of financial assets, and therefore, liabilities have more price sensitivity than assets and will reset their interest rates at a slower pace. Consequently, the Company&#8217;s net estimated economic value would generally be expected to increase when interest rates rise, as the benefit of the decreased value of financial liabilities would more than offset the decreased value of financial assets. The opposite would generally be expected to occur when interest rates fall. Earnings would also generally be expected to increase when interest rates rise, and decrease when interest rates fall over the long term, absent the effects of any new business booked in the future. 
+
+These earnings and net economic value estimates are subject to factors that could cause actual results to differ, and also assume that management does not take any additional action to mitigate any positive or negative effects from changing interest rates. Management believes that the Company&#8217;s interest rate risk position at March 31, 2024, represents a reasonable level of risk given the current interest rate outlook. The Company continues to monitor interest rates and other relevant factors given recent market volatility and is prepared to take additional action, as necessary. 
+
+Additional information regarding the Company&#8217;s asset/liability management process can be found under the section captioned &#8220;Asset/Liability Management and Market Risk &#8221; contained in Part II - Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations of the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Critical Accounting Estimates 
+
+The preparation of the Company&#8217;s Condensed Consolidated Financial Statements, and accompanying notes thereto, in accordance with GAAP and practices generally applicable to the financial services industry, requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses, and the disclosure of contingent assets and liabilities. While management&#8217;s estimates are made based on historical experience, current available information, and other factors that are deemed to be relevant, actual results could significantly differ from those estimates. 
+
+Accounting estimates are necessary in the application of certain accounting policies and can be susceptible to significant change in the near term. Critical accounting estimates are those estimates made in accordance with GAAP that involve a significant level of estimation uncertainty and have had, or are reasonably likely to have, a material impact on the Company&#8217;s financial condition or results of operations. Management has identified that the Company&#8217;s most critical accounting estimates are those related to its ACL on loans and leases and business combinations accounting policies. These accounting policies and their underlying estimates are discussed directly with the Audit Committee of the Board of Directors. 
+
+Allowance for Credit Losses on Loans and Leases 
+
+The ACL on loans and leases is a reserve established through a provision for credit losses charged to expense, which represents management&#8217;s best estimate of expected lifetime credit losses within the Company&#8217;s loan and lease portfolios at the balance sheet date. The calculation of expected credit losses is determined using predictive methods and models that follow a PD, LGD, EAD, or loss rate framework and include consideration of past events, current conditions, macroeconomic variables (i.e., unemployment, gross domestic product, property values, and interest rate spreads), and reasonable and supportable economic forecasts that affect the collectability of the reported amounts. Changes to the ACL on loans and leases, and therefore, to the related provision for credit losses, can materially affect financial results. 
+
+The determination of the appropriate level of ACL on loans and leases inherently involves a high degree of subjectivity and requires the Company to make significant estimates of current credit risks and trends using existing qualitative and quantitative information, and reasonable and supportable forecasts of future economic conditions, all of which may undergo frequent and material changes. Changes in economic conditions affecting borrowers and macroeconomic variables that the Company is more susceptible to, unforeseen events such as natural disasters and pandemics, along with new information regarding existing loans, identification of additional problem loans, the fair value of underlying collateral, and other factors, both within and outside the Company&#8217;s control, may indicate the need for an increase or decrease in the ACL on loans and leases. 
+
+It is difficult to estimate the sensitivity of how potential changes in any one economic factor or input might affect the overall reserve because a wide variety of factors and inputs are considered in estimating the ACL and changes in those factors and inputs considered may not occur at the same rate and may not be consistent across all product types. Further, changes in factors and inputs may also be directionally inconsistent, such that improvement in one factor may offset deterioration in others. 
+
+Executive management reviews and advises on the adequacy of the ACL on loans and leases on a quarterly basis. Although the overall balance is determined based on specific portfolio segments and individually assessed assets, the entire balance is available to absorb credit losses for any of the loan and lease portfolios. 
+
+Additional information regarding the determination of the ACL on loans and leases, including the Company&#8217;s valuation methodology, can be found under the section captioned &#8220;Allowance for Credit Losses on Loans and Leases&#8221; contained elsewhere in this Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations, and within Note 1: Summary of Significant Accounting Policies in the Notes to Consolidated Financial Statements contained in Part II - Item 8. Financial Statements and Supplementary Data included in the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Business Combinations 
+
+The acquisition method of accounting generally requires that the identifiable assets acquired and liabilities assumed in business combinations are recorded at fair value as of the acquisition date. The determination of fair value often involves the use of internal or third-party valuation techniques, such as discounted cash flow analyses or appraisals. Particularly, the valuation techniques used to estimate the fair value of the core deposit intangible asset acquired in the Ametros acquisition includes estimates related to discount rates, client attrition rates, an alternative cost of funds, and other relevant factors, which are inherently subjective. A description of the valuation methodologies used to estimate the fair values of the significant assets acquired and liabilities assumed from the Ametros acquisition can be found within Note 2: Business Developments in the Notes to Consolidated Financial Statements contained in Part I - Item 1. Financial Statements. 
+

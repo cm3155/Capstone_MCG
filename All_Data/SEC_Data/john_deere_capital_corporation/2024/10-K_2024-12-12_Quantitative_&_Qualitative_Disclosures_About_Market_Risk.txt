@@ -1,0 +1,22 @@
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Financial Instrument Market Risk Information 
+
+We are naturally exposed to various interest rate and foreign currency risks. As a result, we enter into derivative transactions to manage this exposure and not for speculative purposes.
+
+From time to time, we enter into interest rate swap agreements to manage our interest rate exposure. We also have foreign currency exposures at some of our foreign and domestic operations related to financing in currencies other than the functional currencies. We have entered into derivative agreements related to the management of these foreign currency transaction risks.
+
+Interest Rate Risk 
+
+Results of Operations &#8211; Central bank policy rates increased in 2022 and 2023 and have remained elevated. Increased interest rates have historically impacted our borrowings sooner than the benefit is realized from the Receivable and Lease portfolio. As a result, we experienced spread compression in 2023 and 2024.
+
+Fair Value Measurement &#8211; Quarterly, we use a combination of cash flow models to assess the sensitivity of our financial instruments with interest rate exposure to changes in market interest rates. The models calculate the effect of adjusting interest rates as follows:
+
+##TABLE_START &#9679; cash flows for Receivables are discounted at the current prevailing rate for each Receivable portfolio, ##TABLE_END##TABLE_START &#9679; cash flows for unsecured borrowings are discounted at the applicable benchmark yield curve plus market credit spreads for similarly rated borrowers, ##TABLE_END##TABLE_START &#9679; cash flows for securitized borrowings are discounted at the swap yield curve plus a market credit spread for similarly rated borrowers, and ##TABLE_END##TABLE_START &#9679; cash flows for interest rate swaps are projected and discounted using forward rates from the swap yield curve at the repricing dates. ##TABLE_END 
+
+The net loss in these financial instruments&#8217; fair values, which would be caused by increasing the interest rates by 10 percent from the market rates at October 27, 2024 and October 29, 2023, would have been approximately $90 and $137, respectively.
+
+Foreign Currency Risk 
+
+Our policy is to manage foreign currency risk through hedging strategies if the currency of the borrowings does not match the currency of the Receivable portfolio. As a result, a hypothetical 10 percent adverse change in the value of the U.S. dollar relative to all other foreign currencies would not have a material effect on our cash flows.
+

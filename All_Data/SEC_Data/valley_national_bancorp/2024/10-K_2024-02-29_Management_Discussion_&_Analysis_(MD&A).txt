@@ -1,0 +1,1007 @@
+ Item 7. Management&#8217;s Discussion and Analysis (MD&#38;A) of Financial Condition and Results of Operations ##TABLE_END
+
+The purpose of this analysis is to provide the reader with information relevant to understanding and assessing Valley&#8217;s results of operations and financial condition for each of the past two years. In order to fully appreciate this analysis, the reader is encouraged to review the consolidated financial statements and accompanying notes thereto appearing under Item 8 of this Report, and statistical data presented in this document. For comparison of our results of operations for the years ended December 31, 2022 and 2021, please refer to Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations of our Report on Form 10-K for the year ended December 31, 2022, filed with the SEC on March 1, 2023. 
+
+Cautionary Statement Concerning Forward-Looking Statements 
+
+This Report, both in MD&#38;A and elsewhere, contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are not historical facts and include expressions about management&#8217;s confidence and strategies and management&#8217;s expectations about our business, new and existing programs and products, acquisitions, relationships, opportunities, taxation, technology, market conditions and economic expectations. These statements may be identified by such forward-looking terminology as &#8220;intend,&#8221; &#8220;should,&#8221; &#8220;expect,&#8221; &#8220;believe,&#8221; &#8220;view,&#8221; &#8220;opportunity,&#8221; &#8220;allow,&#8221; &#8220;continues,&#8221; &#8220;reflects,&#8221; &#8220;typically,&#8221; &#8220;usually,&#8221; &#8220;anticipate,&#8221; &#8220;may,&#8221; &#8220;estimate,&#8221; &#8220;outlook,&#8221; &#8220;project&#8221; or similar statements or variations of such terms. Such forward-looking statements involve certain risks and uncertainties. Actual results may differ materially from such forward-looking statements. Factors that may cause actual results to differ materially from those contemplated by such forward-looking statements in addition to those risk factors listed under Item 1A. Risk Factors of this Report include, but are not limited to: 
+
+&#8226; the impact of monetary and fiscal policies of the federal government and its agencies, including in response to higher inflation, which could have a material adverse effect on our clients, as well as our business, our employees, and our ability to provide services to our customers; 
+
+&#8226; the impact of a potential U.S. Government shutdown, default by the U.S. government on its debt obligations, or related credit-rating downgrades, on economic activity in the markets in which we operate and, in general, on levels of end market demand in the economy; 
+
+##TABLE_START 39 
+
+2023 Form 10-K ##TABLE_END
+
+&#8226; the impact of unfavorable macroeconomic conditions or downturns, instability or volatility in financial markets, unanticipated loan delinquencies, loss of collateral, decreased service revenues, increased business disruptions or failures, reductions in employment, and other potential negative effects on our business, employees or clients caused by factors outside of our control, such as geopolitical instabilities or events (including the Israel-Hamas war); natural and other disasters (including severe weather events); health emergencies; acts of terrorism or other external events; 
+
+&#8226; the impact of potential instability within the U.S. financial sector in the aftermath of the banking failures in 2023, including the possibility of a run on deposits by a coordinated deposit base, and the impact of the actual or perceived soundness, or concerns about the creditworthiness of other financial institutions, including any resulting disruption within the financial markets, increased expenses, including FDIC insurance premiums, or adverse impact on our stock price, deposits or our ability to borrow or raise capital; 
+
+&#8226; the impact of negative public opinion regarding Valley or banks in general that damages our reputation and adversely impacts business and revenues; 
+
+&#8226; greater than expected costs or difficulties related to Valley's new core banking system implemented in the fourth quarter 2023 and continued enhancements to processes and systems under Valley's current technology roadmap; 
+
+&#8226; the loss of or decrease in lower-cost funding sources within our deposit base; 
+
+&#8226; damage verdicts or settlements or restrictions related to existing or potential class action litigation or individual litigation arising from claims of violations of laws or regulations, contractual claims, breach of fiduciary responsibility, negligence, fraud, environmental laws, patent, trademark or other intellectual property infringement, misappropriation or other violation, employment related claims, and other matters; 
+
+&#8226; a prolonged downturn in the economy, as well as an unexpected decline in commercial real estate values collateralizing a significant portion of our loan portfolio; 
+
+&#8226; higher or lower than expected income tax expense or tax rates, including increases or decreases resulting from changes in uncertain tax position liabilities, tax laws, regulations and case law; 
+
+&#8226; the inability to grow customer deposits to keep pace with loan growth; 
+
+&#8226; a material change in our allowance for credit losses under CECL due to forecasted economic conditions and/or unexpected credit deterioration in our loan and investment portfolios; 
+
+&#8226; the need to supplement debt or equity capital to maintain or exceed internal capital thresholds; 
+
+&#8226; greater than expected technology related costs due to, among other factors, prolonged or failed implementations, additional project staffing and obsolescence caused by continuous and rapid market innovations; 
+
+&#8226; cyberattacks, ransomware attacks, computer viruses, malware or other cybersecurity incidents that may breach the security of our websites or other systems or networks to obtain unauthorized access to personal, confidential, proprietary or sensitive information, destroy data, disable or degrade service, or sabotage our systems or networks; 
+
+&#8226; results of examinations by the Office of the Comptroller of the Currency (OCC), the Federal Reserve Bank, the Consumer Financial Protection Bureau (CFPB) and other regulatory authorities, including the possibility that any such regulatory authority may, among other things, require us to increase our allowance for credit losses, write-down assets, reimburse customers, change the way we do business, or limit or eliminate certain other banking activities; 
+
+&#8226; our inability or determination not to pay dividends at current levels, or at all, because of inadequate earnings, regulatory restrictions or limitations, changes in our capital requirements or a decision to increase capital by retaining more earnings; 
+
+&#8226; unanticipated loan delinquencies, loss of collateral, decreased service revenues, and other potential negative effects on our business caused by severe weather, pandemics or other public health crises, acts of terrorism or other external events; and 
+
+&#8226; unexpected significant declines in the loan portfolio due to the lack of economic expansion, increased competition, large prepayments, changes in regulatory lending guidance or other factors. 
+
+Critical Accounting Estimates 
+
+Our accounting and reporting policies conform, in all material respects, to GAAP. In preparing the consolidated financial statements, management has made estimates, judgments and assumptions that affect the reported amounts of assets and 
+
+##TABLE_START 2023 Form 10-K 40 
+
+##TABLE_END
+
+liabilities as of the date of the consolidated statements of financial condition and results of operations for the periods indicated. Actual results could differ materially from those estimates. 
+
+Valley&#8217;s accounting policies are fundamental to understanding management&#8217;s discussion and analysis of its financial condition and results of operations. Our significant accounting policies are presented in Note 1 to the consolidated financial statements. We identified our policies for the allowance for credit losses, goodwill and other intangible assets, and income taxes to be critical because management has to make subjective and/or complex judgments about matters that are inherently uncertain and because it is likely that materially different amounts would be reported under different conditions or using different assumptions. Management has reviewed the application of these policies with the Audit Committee of the Board. 
+
+The judgments used by management in applying the critical accounting policies discussed below may be affected by significant changes in the economic environment, which may result in changes to future financial results. Specifically, subsequent evaluations of the loan portfolio, in light of the factors then prevailing, may result in material changes in the allowance for credit losses in future periods, and the inability to collect on outstanding loans could result in increased loan losses. 
+
+Allowance for Credit Losses . Determining the allowance for credit losses for loans has historically been identified as a critical accounting estimate. We estimate and recognize an allowance for lifetime expected credit losses for loans, unfunded credit commitments and HTM debt securities measured at amortized cost. See Notes 1 , 4 and 5 to the consolidated financial statements for further discussion of our accounting policies and methodologies for establishing the allowance for credit losses. 
+
+The accounting estimate of the allowance for credit losses is a &#8220;critical accounting estimate&#8221; for the following reasons: 
+
+&#8226; Changes in the provision for credit losses can materially affect our financial results; 
+
+&#8226; Estimates relating to the allowance for credit losses require us to project future borrower performance, delinquencies and charge-offs, along with, when applicable, collateral values, based on a reasonable and supportable forecast period utilizing forward-looking economic scenarios in order to estimate probability of default and loss given default; 
+
+&#8226; The allowance for credit losses is influenced by factors outside of our control such as industry and business trends, geopolitical events and the effects of laws and regulations as well as economic conditions such as trends in GDP, unemployment, housing prices, interest rates, inflation, and energy prices; and 
+
+&#8226; Judgment is required to determine whether the models used to generate the allowance for credit losses produce an estimate that is sufficient to encompass the current view of lifetime expected credit losses. 
+
+Additionally, management&#8217;s determination of the amount of the ACL is a critical accounting estimate because it requires significant reliance on the credit risk we ascribe to individual borrowers, the use of estimates and significant judgment as to the amount and timing of expected future cash flows on individually evaluated loans, significant reliance on historical loss rates on homogenous portfolios, consideration of our quantitative and qualitative evaluation of past events, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amounts. Changes in such estimates could significantly impact our allowance and provision for credit losses. Accordingly, our actual credit loss experience may not be in line with our expectations. 
+
+Changes in Our Allowance for Credit Losses for Loans 
+
+Valley considers it difficult to quantify the impact of changes in the economic forecast on its allowance for credit losses for loans. However, management believes the following discussion may enable investors to better understand the variables that drive the allowance for credit losses for loans, which totaled $465.6 million and $483.3 million at December 31, 2023 and 2022, respectivel y. 
+
+As discussed further in the &#8220;Allowance for Credit Losses&#8221; section in this MD&#38;A, we incorpo rated a multi-scenario economic forecast for estimating lifetime expected credit losses at December 31, 2023 and 2022. Despite general improvements in most economic indicators, including inflation, during the latter half of 2023, the qualitative economic component of our reserves at December 31, 2023 increased by $4.8 million to approximately 19 percent of total allowance for credit losses for loans at December 31, 2023 as compared to 17 percent at December 31, 2022. The percentage increase was almost entirely due to changes in the expected impact of the economic forecast on our non-owner occupied commercial real estate portfolio as compared to December 31, 2022. Other qualitative non-economic reserves, largely based upon management judgements about certain inherent factors in acquired loan portfolios not reflected in our quantitative reserves, decreased $23.5 million to approximately 16 percent of total allowance for credit losses for loans at December 31, 2023 as compared to 20 percent at December 31, 2022. The decline was mostly due to the passage of time and better than expected performance of these portfolios. The net positive developments in these significant judgmental factors during 2023 were mostly offset by increases in 
+
+##TABLE_START 41 
+
+2023 Form 10-K ##TABLE_END
+
+the quantitative portion of our allowance based upon a transition matrix model which calculates an expected life of loan loss percentage for each loan pool by generating probability of default and loss given default metrics. 
+
+The allowance for credit losses for loans also included specific reserves totaling $74.2 million and $86.6 million, respectively, at December 31, 2023 and 2022. These reserves are based upon management's valuation of collateral for collateral dependent loans, and prior to the adoption of ASU No. 2022-02 on January 1, 2023, the present value of expected cash flows for certain troubled debt restructured loans. These specific reserves include $37.7 million and $42.2 million at December 31, 2023 and 2022, respectively, related to New York City tax i medallion loan valuations based on the estimated value of the underlying medallions. Our valuation of the underlying medallions at December 31, 2023 increased 20 percent from December 31, 2022 due to continued incremental improvements in the New York City medallion pricing levels of publicly available sale transactions during 2023. However, the valuation of the underlying medallions could be adversely impacted by numerous ride-sharing/taxi service market challenges and illiquidity that result in a lower market valuations of the underlying collateral, thus leading to additional provisions for loan losses. See additional taxi medallion loan valuation sensitivity analysis under the &#8220;Non-performing Assets&#8221; section of this MD&#38;A. 
+
+Goodwill and Other Intangible Assets. We have significant goodwill and other intangible assets related to our acquisitions totaling $1.9 billion and $160.3 million at December 31, 2023, respectively. We record all acquired assets, including goodwill and other intangible assets, and assumed liabilities in purchase acquisitions at fair value as of the acquisition date, and expense all acquisition related costs as incurred as required by ASC Topic 805, &#8220;Business Combinations.&#8221; The initial recording of goodwill and other intangible assets requires subjective judgments concerning estimates of the fair value of the acquired assets and assumed liabilities. Goodwill is subject to annual tests for impairment or more often, if events or circumstances indicate it may be impaired. Our determination of whether or not goodwill is impaired requires us to make significant judgments and to use significant estimates and assumptions regarding estimated future cash flows. If we change our strategy or if market conditions shift, our judgments may change, which may result in adjustments to the recorded goodwill balance. Other intangible assets are amortized over their estimated useful lives and are subject to impairment tests if events or circumstances indicate a possible inability to realize the carrying amount. Such evaluation of other intangible assets is based on undiscounted cash flow projections. 
+
+An impairment loss is recognized if the carrying value of the net assets assigned to the reporting unit exceeds the fair value of the reporting unit, with the impairment loss not to exceed the amount of goodwill recorded. We perform our annual goodwill impairment test in the second quarter of each year, or more often if events or circumstances warrant. In addition to the annual impairment test, we assessed the immediate and long-term impact of significant events during 2023, including the bank failures and changes in bank regulation, on the macroeconomic variables and economic forecasts and how those might impact the fair value of our reporting units each quarter end. After consideration of these variables and other possible triggering events or circumstances, as well as our operating results, we determined it was more-likely-than-not that the fair values of our three reporting units, Wealth Management, Consumer Banking, and Commercial Banking, were in excess of their carrying values during 2023. Therefore, we concluded there were no triggering events that would require additional goodwill impairment test of the reporting units during 2023. 
+
+In 2024, we will continue to monitor and evaluate the overall economic conditions that may impact our market capitalization and any triggering events that may indicate a possible impairment of goodwill allocated to our reporting units. While not expected at this time, we may be required to record a charge to earnings should there be a deficiency in our estimated fair value of one or more of our reporting units during our subsequent annual (or more frequent) impairment tests. See the &#8220;Business Segments&#8221; section in this MD&#38;A for more information regarding our business segments/reporting units. 
+
+Fair value is determined using certain discounted cash flow and market multiple methods. Estimated cash flows may extend far into the future and, by their nature, are difficult to determine over an extended timeframe. Factors that may materially affect the estimates include, among others, macroeconomic conditions such as a deterioration in general economic conditions and economic forecasts, competitive forces, customer behaviors and attrition, changes in revenue growth trends, cost structures and technology, and changes in discount rates, growth rate, terminal values, and specific industry or market sector conditions. Additionally, we perform a market capitalization reconciliation to support the appropriateness of our reporting unit fair values and impairment test results. In performing this reconciliation, we compare the sum of fair value of the reporting units to our market capitalization, adjusted for the present value of estimated synergies which a market participant acquirer could reasonably expect to realize from a hypothetical acquisition of Valley. 
+
+To assist in assessing the impact of potential goodwill or other intangible assets impairment charges at December 31, 2023, the impact of a five percent impairment charge on these intangible assets would result in a reduction in pre-tax income of approximately $101.5 million. See Note 8 to the consolidated financial statements for additional information regarding goodwill and other intangible assets. 
+
+##TABLE_START 2023 Form 10-K 42 
+
+##TABLE_END
+
+Income Taxes. We are subject to the income tax laws of the U.S., its states and municipalities. The income tax laws of the jurisdictions in which we operate are complex and subject to different interpretations by the taxpayer and the relevant government taxing authorities. In establishing a provision for income tax expense, we must make judgments and interpretations about the application of these inherently complex tax laws to our business activities, as well as the timing of when certain items may affect taxable income. 
+
+Our interpretations may be subject to review during examination by taxing authorities and disputes may arise over the respective tax positions. We attempt to resolve these disputes during the tax examination and audit process and ultimately through the court systems when applicable. We monitor relevant tax authorities and revise our estimate of accrued income taxes due to changes in income tax laws and their interpretation by the courts and regulatory authorities on a quarterly basis. Revisions of our estimate of accrued income taxes also may result from our own income tax planning and from the resolution of income tax controversies. Such revisions in our estimates may be material to our operating results for any given quarter. 
+
+The provision for income taxes is composed of current and deferred taxes. Deferred taxes arise from differences between assets and liabilities measured for financial reporting versus income tax return purposes. Deferred tax assets are recognized if, in management&#8217;s judgment, their realizability is determined to be more likely than not. We perform regular reviews to ascertain the realizability of our deferred tax assets. These reviews include management&#8217;s estimates and assumptions regarding future taxable income, which also incorporate various tax planning strategies. In connection with these reviews, if we determine that a portion of the deferred tax asset is not realizable, a valuation allowance is established. Management determined it is more likely than not that Valley will realize its net deferred tax assets, except for immaterial valuation allowances, as of December 31, 2023 and 2022. 
+
+We also maintain a reserve related to certain tax positions that management believes contain an element of uncertainty. An uncertain tax position is measured based on the largest amount of benefit that management believes is more likely than not to be realized. During 2023, 2022 and 2021, our income tax expense reflected increases of $3.0 million, $1.8 million and $1.2 million, respectively, to our tax provision related to reserve for uncertain tax liability positions and/or accrued interest related to such positions at December 31, 2023, 2022 and 2021, respectively. 
+
+See Notes 1 and 13 to the consolidated financial statements and the &#8220;Executive Summary&#8221; and &#8220;Income Taxes&#8221; sections in this MD&#38;A for an additional discussion on the accounting for income taxes. 
+
+New Authoritative Accounting Guidance. See Note 1 of the consolidated financial statements for a description of recent accounting pronouncements including the dates of adoption and the anticipated effect on our results of operations and financial condition. 
+
+Executive Summary 
+
+Company Overview. At December 31, 2023, Valley had consolidated total assets of $60.9 billion, total net loans of $49.8 billion, total deposits of $49.2 billion and total shareholders&#8217; equity of $6.7 billion. Our commercial bank operations include branch office locations in northern and central New Jersey, the New York City boroughs of Manhattan, Brooklyn and Queens, Long Island, Westchester County, New York, Florida, Alabama, California and Illinois. Of our current 229 branch network, 56 percent, 18 percent, and 18 percent of the branches are located in New Jersey, New York, and Florida, respectively, with the remaining 8 percent of the branches in Alabama, California and Illinois combined. Despite targeted branch consolidation activity, we have grown significantly both in asset size and locations over the past several years through organic efforts and bank acquisitions, including our acquisition of Bank Leumi USA on April 1, 2022, which is discussed below. 
+
+Bank Leumi Le-Israel Corporation. On April 1, 2022, Valley completed its acquisition of Bank Leumi Le-Israel Corporation, the U.S. subsidiary of Bank Leumi Le-Israel B.M., and parent company of Bank Leumi USA, collectively referred to as &#8220;Bank Leumi USA.&#8221; At the acquisition date, Bank Leumi USA had approximately $8.1 billion in assets, $5.9 billion of loans and $7.0 billion of deposits, after purchase accounting adjustments. Valley issued approximately 85 million shares of common stock and paid $113.4 million in cash in the transaction. The consideration for the acquisition totaled approximately $1.2 billion, inclusive of the value of stock options. The transaction resulted in $403.2 million of goodwill and $153.4 million of combined core deposit and other intangible assets subject to amortization. As originally planned, Valley completed its conversion of the legacy Valley and Bank Leumi USA operating systems to a single core operating system in October 2023. See Note 2 to the consolidated financial statements for additional details regarding the acquisition of Bank Leumi USA and other recent acquisition activities. 
+
+Subsequent Events. In January 2024, we entered into an agreement to sell our commercial premium finance lending business and a significant portion of its outstanding loan portfolio. This line of business represented $274.7 million, or 0.55 percent of our total loans outstanding, at December 31, 2023. Actual loans to be sold as part of this transaction will be identified shortly before the closing date of the transaction. Loans retained from this line of business are expected to mostly run-off at 
+
+##TABLE_START 43 
+
+2023 Form 10-K ##TABLE_END
+
+their normal maturity dates over the next 12 months. The pending transaction is expected to close during the first quarter 2024 and is not anticipated to materially impact our commercial lending operations or financial statements. 
+
+On February 23, 2024, Valley received notification from the FDIC that the estimated loss attributable to the protection of uninsured depositors at Silicon Valley Bank and Signature Bank was $20.4 billion at December 31, 2023, an increase of approximately $4.1 billion from the estimate of $16.3 billion described in the final rule issued in November 2023. The FDIC plans to provide an updated estimate of each institution's quarterly and total special assessment expense with its first quarter 2024 special assessment invoice, to be released in June 2024. Valley will continue to evaluate new information as it becomes available. For additional information on the FDIC&#8217;s special assessment, see Item 1. Business&#8212;"Supervision and Regulation&#8221; and the "Non-Interest Expense" section of this MD&#38;A. 
+
+Industry Developments in 2023. The combination of rapidly rising interest rates, increased competition and economic uncertainty weighed on the banking industry in the wake of the bank failures in the first half of 2023. We have consistently operated the Bank with a focus on diversification to maintain stability through various economic cycles. During 2023, we continued to position our balance sheet to mitigate potential risks from the market uncertainty affecting the banking industry in general and Valley, its clients and communities in particular. 
+
+&#8226; Total assets increased $3.5 billion , or 6.0 percent, to $60.9 billion at December 31, 2023 from December 31, 2022 primarily driven by loan growth. Our liquid assets totaled $2.4 billion at December 31, 2023, representing 4.3 percent of interest earning assets. We continue to maintain significant access to readily available, diverse funding sources to fulfill both short-term and long-term funding needs. See the &#8220;&#8212;Bank Liquidity&#8221; section for additional information. 
+
+&#8226; Total deposits increased $1.6 billion, or 3.4 percent, to $49.2 billion at December 31, 2023 as compared to $47.6 billion at December 31, 2022 due to increases in both direct and indirect customer interest bearing deposits, partially offset by a $2.9 billion decrease in non-interest bearing deposits. See the &#8220;&#8212;Deposits and Other Borrowings&#8221; section for more details. 
+
+&#8226; Capital remained strong with ratios of both Valley and the Bank exceeding all capital adequacy requirements at December 31, 2023. Total shareholders&#8217; equity increased $300.6 million to $6.7 billion at December 31, 2023 as compared to December 31, 2022 . See the &#8220;&#8212;Capital Adequacy&#8221; section for additional details. 
+
+&#8226; Total loans increased $3.3 billion, or 7.0 percent, to $50.2 billion at December 31, 2023 as compared to December 31, 2022 mainly due to well-controlled loan growth across most loan types in 2023. See further details on our loan activities under the &#8220;&#8212;Loan Portfolio&#8221; section below. 
+
+&#8226; Asset quality continued to reflect our disciplined underwriting and lending practices during 2023. Non-performing assets (NPAs) as a percentage of total loans and NPAs totaled 0.58 percent at both December 31, 2023 and 2022. Our total net loan charge-offs to average loans was 0.13 percent and 0.05 percent for the years ended December 31, 2023 and 2022, respectively. See the &#8220;&#8212;Non-Performing Assets&#8221; section for additional information. 
+
+&#8226; Total investment securities were $5.1 billion , or 8.4 percent of total assets, at December 31, 2023 and remained relatively unchanged as compared to December 31, 2022 . See the &#8220;&#8212;Investment Securities Portfolio&#8221; section for more details. 
+
+Annual Results . Net income for the year ended December 31, 2023 was $498.5 million, or $0.95 per diluted common share as compared to $568.9 million, or $1.14 per diluted common share for 2022. The $70.3 million decrease in net income as compared to the same period one year ago was mainly due to the following changes: 
+
+&#8226; a $137.7 million increase in non-interest expense due in part to organic and acquired growth in our bank operations, including a full year of normal and integration expenses related to the April 1, 2022 acquisition of Bank Leumi USA, inflationary pressures on our labor costs, increased charges for collateral liabilities related to derivative transactions and a $12.3 million increase in non-core items (highlighted in the &#8220;&#8212;Non-GAAP Financial Measures&#8221; section below); 
+
+Which was partially offset by: 
+
+&#8226; a $32.0 million decrease in income tax expense mostly due to lower pre-tax income and an increase in tax credits for the year ended December 31, 2023; 
+
+&#8226; a $18.9 million increase in non-interest income that was primarily driven by higher wealth management and trust fees and net gains on sales of assets, partially offset by lower capital markets income; 
+
+##TABLE_START 2023 Form 10-K 44 
+
+##TABLE_END
+
+&#8226; a $9.8 million increase in net interest income mostly due to higher yields on new loan originations and adjustable-rate loans and loan growth, partially offset by an increase in both the cost of deposits and average time deposits; and 
+
+&#8226; a $6.6 million decrease in our provision for credit losses. 
+
+See the &#8220;Net Interest Income,&#8221; &#8220;Non-Interest Income,&#8221; &#8220;Non-Interest Expense,&#8221; and &#8220;Income Taxes&#8221; sections in this MD&#38;A for more details on the items above and other infrequent non-core items impacting our 2023 annual results. 
+
+Operating Environment. During 2023, real gross domestic product (GDP) increased at an annual rate of 2.5 percent as compared to an increase of 1.9 percent during 2022. The increase in real GDP was primarily driven by consumer spending, nonresidential fixed investment, exports, and government spending. The gains were partly offset by decreases in residential fixed investment, inventory restocking and imports. Inflation continued to wane with the consumer price index on a year over year basis decelerating from 6.4 percent at December 31, 2022 to 3.3 percent at December 31, 2023. 
+
+In 2023, the Federal Reserve raised the target range for the federal funds rate from 4.25 - 4.50 percent to 5.25 - 5.50 percent. At its recent meeting in January 2024, the Committee indicated it does not expect to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent. In addition, the Committee indicated it would continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities, as described in its previously announced plans. 
+
+The 10-year U.S. Treasury note yield ended 2023 at 3.88 percent unchanged from 2022 and the 2-year U.S. Treasury note yield ended 2023 at 4.23 percent, or 18 basis points lower as compared to 2022. 
+
+Total loans and leases for U.S. commercial banks increased 2.3 percent in 2023 compared to 11.4 percent in 2022. Consumer and commercial real estate loans grew 3.5 and 3.2 percent, respectively from 2022 to 2023 while commercial and industrial loans decreased approximately 1.3 percent for the same period. Overall, commercial real estate lending continued to be stressed, particularly affecting regional and midsize banks that may be overexposed to office space lending. In light of higher uncertainty, inflated property prices, and concerns about debt repayments, most banks have become more selective in their new commercial real estate originations and continued to tighten standards related to real estate and commercial loans. Additionally, the combination of high interest rates and tight inventories kept residential real estate sales and both refinanced and purchased residential mortgage loan activity low during the second half of 2023. 
+
+Although the economy experienced strong growth during 2023, several factors have created a challenging operating environment for most of the banking sector including inflation that has remained above the Federal Reserve's target of two percent, the potential for additional fallout from the banking failures in 2023, heightened bank regulation and oversight, and the negative impact of the inverted yield curve on net interest income and margins. In addition, geopolitical tensions in the Middle East, which could threaten to spike oil prices, and the possibility of a U.S. government shutdown in 2024, among other factors, have added a moderate level of uncertainty to the future path of the U.S. economy despite a growing consensus by economists that a recession is unlikely. Should economic conditions deteriorate, causing business activity, spending and investment to decline, it and other factors may adversely impact our financial results, as highlighted in the remaining MD&#38;A discussion below. 
+
+Deposits and Other Borrowings . Overall, average deposits increased by $6.0 billion to $48.5 billion for the year ended December 31, 2023 as compared to 2022 largely due to $7.7 billion increase in average time deposits, partially offset by a $2.2 billion decrease in average non-interest bearing deposits. The increase in time deposits was mainly driven by successful retail CD generation and our increased utilization of fully insured indirect customer (i.e., brokered) deposits in 2023. The decrease in average non-interest bearing deposits was largely due to the rising market interest rate environment which led to a shift in some customer balances to our interest bearing deposit products, outflows due to attractive investment alternatives to deposits in the marketplace, and customer use of cash reserves in place of financing. Average non-interest-bearing deposits; savings, NOW and money market deposits; and time deposits represented approximately 26 percent, 48 percent and 26 percent of total deposits at December 31, 2023 , respectively, as compared to 35 percent, 53 percent and 12 percent of total deposits at December 31, 2022 , respectively. 
+
+Actual ending balances for deposits increased $1.6 billion to $49.2 billion at December 31, 2023 as compared to 2022 mostly due to increases of $3.6 billion and $909.8 million in time deposits and savings, NOW and money market deposits, respectively, partially offset by a $2.9 billion decrease in non-interest bearing deposits. The increase in time deposits was largely due to successful retail deposit campaigns and higher indirect customer deposits. Total indirect customer deposits (primarily brokered CDs) increased to $7.5 billion at December 31, 2023 as compared to $5.9 billion at December 31, 2022 as we increased our utilization of such funds in 2023 as a favorable alternative to other borrowings. The increase in savings, NOW and money market deposits was largely broad-based commercial and retail customer inflows, including some shift from non-interest bearing deposits, as well as increases in digital and national specialized deposits at December 31, 2023. Non-interest 
+
+##TABLE_START 45 
+
+2023 Form 10-K ##TABLE_END
+
+bearing balances continued to be challenged by the high level of market interest rates and the aforementioned changes in customer behavior. Non-interest bearing deposits; savings, NOW and money market deposits; and time deposits represented approximately 23 percent, 50 percent and 27 percent of total deposits as of December 31, 2023, respectively, as compared to 30 percent, 50 percent and 20 percent as of December 31, 2022, respectively. 
+
+The following table lists, by maturity, uninsured CDs at December 31, 2023: 
+
+##TABLE_START &#160; (in thousands) Less than three months $ 1,021,613 Three to six months 581,891 Six to twelve months 873,609 More than twelve months 110,422 Total $ 2,587,535 ##TABLE_END
+
+Total estimated uninsured deposits, excluding collateralized government deposits and intercompany deposits (i.e., deposits eliminated in consolidation), totaled approximately $12.2 billion, or 25 percent of total deposits, at December 31, 2023. 
+
+While we maintained a diversified commercial and consumer deposit base at December 31, 2023, deposit gathering initiatives and our current deposit base could remain challenged due to market competition, attractive investment alternatives, such as U.S. Treasury securities, and other factors. As a result, we cannot guarantee that we will be able to maintain deposit levels at or near those reported at December 31, 2023. Management continuously monitors liquidity and all available funding sources including non-deposit borrowings discussed below. See the "Liquidity and Cash Requirements" section of this MD&#38;A for additional information. 
+
+The following table presents average short-term and long-term borrowings for the years ended December 31, 2023 and 2022: 
+
+##TABLE_START 2023 2022 (in thousands) Average short-term borrowings: FHLB advances $ 1,713,448 $ 531,020 Securities sold under repurchase agreements 89,430 137,527 Federal funds purchased 78,822 355,805 Total $ 1,881,700 $ 1,024,352 Average long-term borrowings: FHLB advances $ 1,446,790 $ 788,725 Subordinated debt 723,852 658,798 Junior subordinated debentures issued to capital trusts 56,936 56,588 Total $ 2,227,578 $ 1,504,111 ##TABLE_END
+
+Average short-term borrowings increased $857.3 million at December 31, 2023 as compared to 2022 mostly due to increased use of FHLB advances as a part of our overall funding strategy, partially offset by lower utilization of federal funds purchased. Average long-term borrowings (including junior subordinated debentures issued to capital trusts which are presented separately on the consolidated statements of financial condition) increased $723.5 million at December 31, 2023 as compared to 2022 largely due to new FHLB advances issued in the first half of 2023 with maturity dates ranging from 2026 to early 2028. The average balance of subordinated debt increased due to the issuance of $150 million of 6.25 percent fixed-to-floating rate subordinated notes during September 2022, partially offset by the maturity and repayment of $125.0 million of 5.125 percent subordinated notes in September 2023 . 
+
+Actual ending balances for short-term borrowings increased $779.1 million to $917.8 million at December 31, 2023 as compared to 2022 largely due to the increased use of FHLB advances during 2023, partially offset by lower repo balances at December 31, 2023. Long-term borrowings increased $785.3 million to $2.3 billion at December 31, 2023 as compared to $1.5 billion at December 31, 2022 primarily due to new FHLB advances issued during the first half of 2023 and the 
+
+##TABLE_START 2023 Form 10-K 46 
+
+##TABLE_END
+
+aforementioned issuance and maturities of subordinated notes in 2022 and 2023, respectively. See the &#8220;Net Interest Income&#8221; section below and Note 10 to the consolidated financial state ments for additional details on our borrowed funds. 
+
+Non-GAAP Financial Measures. The table below presents selected performance indicators, their comparative non-GAAP measures and the (non-GAAP) efficiency ratio for the periods indicated. Valley believes that the non-GAAP financial measures provide useful supplemental information to both management and investors in understanding Valley&#8217;s underlying operational performance, business, and performance trends, and may facilitate comparisons of our current and prior performance with the performance of others in the financial services industry. Management utilizes these measures for internal planning, forecasting and analysis purposes. Management believes that Valley&#8217;s presentation and discussion of this supplemental information, together with the accompanying reconciliations to the GAAP financial measures, also allows investors to view performance in a manner similar to management. These non-GAAP financial measures should not be considered in isolation, as a substitute for or superior to financial measures calculated in accordance with GAAP. These non-GAAP financial measures may also be calculated differently from similar measures disclosed by other companies. 
+
+The following table presents our annualized performance ratios for the three years ended December 31, 2023, 2022 and 2021: 
+
+##TABLE_START &#160; 2023 2022 2021 Selected Performance Indicators ($ in thousands, except for %) GAAP measures: Net income, as reported $ 498,511 $ 568,851 $ 473,840 Return on average assets 0.82 % 1.09 % 1.14 % Return on average shareholders&#8217; equity 7.60 9.50 9.98 Non-GAAP measures: Net income, as adjusted $ 554,271 $ 650,452 $ 492,148 Return on average assets, as adjusted 0.91 % 1.25 % 1.19 % Return on average shareholders&#8217; equity, as adjusted 8.45 10.87 10.37 Return on average tangible shareholders&#8217; equity (ROATE) 11.05 14.08 14.40 ROATE, as adjusted 12.29 16.10 14.96 Efficiency ratio 56.62 % 50.55 % 48.46 % As of December 31, Common Equity Per Share Data: 2023 2022 2021 Book value per common share (GAAP) $ 12.79 $ 12.23 $ 11.57 Tangible book value per common share (non-GAAP) 8.79 8.15 7.94 ##TABLE_END
+
+##TABLE_START 47 
+
+2023 Form 10-K ##TABLE_END
+
+Non-GAAP Reconciliations to GAAP Financial Measures 
+
+Adjusted net income for the three years ended December 31, 2023, 2022 and 2021 was computed as follows: 
+
+##TABLE_START 2023 2022 2021 (in thousands) Net income, as reported (GAAP) $ 498,511 $ 568,851 $ 473,840 Non-GAAP adjustments: Add: Loss on extinguishment of debt &#8212; &#8212; 8,406 Add: FDIC Special assessment (1) 
+
+50,297 &#8212; &#8212; Add: Restructuring charge (2) 
+
+9,969 &#8212; &#8212; Add: Provision for credit losses for available for sale securities (3) 
+
+5,000 &#8212; &#8212; Add: Non-PCD provision for credit losses (4) 
+
+&#8212; 41,012 6,210 Add: Merger related expenses (5) 
+
+14,133 71,203 8,900 Add: Litigation reserve (6) 
+
+3,540 &#8212; 2,100 Less: Net gains on sales of office buildings (7) 
+
+(6,721) &#8212; &#8212; Less: Gains on available for sale and held to maturity debt securities, net (8) 
+
+(401) (95) (545) Total non-GAAP adjustments to net income 75,817 112,120 25,071 Income tax adjustments related to non-GAAP adjustments (9) 
+
+(20,057) (30,519) (6,763) Net income, as adjusted (non-GAAP) $ 554,271 $ 650,452 $ 492,148 ##TABLE_END
+
+##TABLE_START ##TABLE_END##TABLE_START (1) Included in the FDIC insurance expense. 
+
+(2) Represents severance expense related to workforce reductions within salary and employee benefits expense. 
+
+(3) Included in provision for credit losses for available for sale and held to maturity securities (tax disallowed). 
+
+(4) Represents provision for credit losses for non-PCD assets and unfunded credit commitments acquired during the period. 
+
+(5) Primarily represents data processing termination costs within technology, furniture and equipment expense for 2023. Merger related 
+
+expenses were primarily salary and employee benefits expense for 2022 and 2021. (6) Represents legal reserves and settlement charges included in professional and legal fees. 
+
+(7) Included in gains on sale of assets, net within non-interest income. 
+
+(8) Included in gains (losses) on securities transactions, net. 
+
+(9) Calculated using the appropriate blended statutory tax rate for the applicable period. Certain merger related expenses are non-deductible 
+
+for tax purposes. ##TABLE_END
+
+In addition to the items used to calculate net income, as adjusted, in the table above, our net income is, from time to time, impacted by fluctuations in the level of net gains on sales of loans and swap fees recognized from commercial loan customer transactions reported in capital markets fees. These amounts can vary widely from period to period due to, among other factors, the amount of residential mortgage loans originated for sale, loan portfolio sales, and commercial loan customer demand for certain products. See the &#8220;Non-Interest Income&#8221; section below for more details. 
+
+Adjusted annualized return on average assets for the three years ended December 31, 2023, 2022 and 2021 is computed by dividing adjusted net income by average assets, as follows: 
+
+##TABLE_START 2023 2022 2021 ($ in thousands) Net income, as adjusted (non-GAAP) $ 554,271 $ 650,452 $ 492,148 Average assets (GAAP) $ 61,065,897 $ 52,182,310 $ 41,475,682 Annualized return on average assets, as adjusted (non-GAAP) 0.91 % 1.25 % 1.19 % ##TABLE_END
+
+Adjusted annualized return on average shareholders' equity for the three years ended December 31, 2023, 2022 and 2021 is computed by dividing adjusted net income by average shareholders' equity, as follows: 
+
+##TABLE_START 2023 Form 10-K 48 
+
+##TABLE_END
+
+##TABLE_START 2023 2022 2021 ($ in thousands) Net income, as adjusted (non-GAAP) $ 554,271 $ 650,452 $ 492,148 Average shareholders' equity (GAAP) $ 6,558,768 $ 5,985,236 $ 4,747,745 Annualized return on average shareholders' equity, as adjusted (non-GAAP) 8.45 % 10.87 % 10.37 % ##TABLE_END
+
+ROATE and adjusted ROATE for the three years ended December 31, 2023, 2022 and 2021 are computed by dividing net income and adjusted net income, respectively, by average shareholders&#8217; equity less average goodwill and average other intangible assets, as follows: 
+
+##TABLE_START &#160; 2023 2022 2021 ($ in thousands) Net income, as reported (GAAP) $ 498,511 $ 568,851 $ 473,840 Net income, as adjusted (non-GAAP) $ 554,271 $ 650,452 $ 492,148 Average shareholders&#8217; equity (GAAP) $ 6,558,768 $ 5,985,236 $ 4,747,745 Less: Average goodwill and other intangible assets (GAAP) 2,047,172 1,944,503 1,457,519 Average tangible shareholders&#8217; equity (non-GAAP) $ 4,511,596 $ 4,040,733 $ 3,290,226 Annualized ROATE (non-GAAP) 11.05 % 14.08 % 14.40 % Annualized ROATE, as adjusted (non-GAAP) 12.29 % 16.10 % 14.96 % ##TABLE_END
+
+The efficiency ratio for the years ended December 31, 2023, 2022 and 2021 was computed as follows: &#160; 
+
+##TABLE_START &#160; 2023 2022 2021 &#160; ($ in thousands) Total non-interest expense, as reported (GAAP) $ 1,162,691 $ 1,024,949 $ 691,542 Less: Loss on extinguishment of debt &#8212; &#8212; 8,406 Less: FDIC Special assessment (1) 
+
+50,297 &#8212; &#8212; Less: Restructuring charge (2) 
+
+9,969 &#8212; &#8212; Less: Merger related expenses (3) 
+
+14,133 71,203 8,900 Less: Litigation reserve (4) 
+
+3,540 &#8212; 2,100 Less: Amortization of tax credit investments 18,009 12,407 10,910 Total non-interest expense, as adjusted (non-GAAP) 1,066,743 941,339 661,226 Net interest income, as reported (GAAP) 1,665,478 1,655,640 1,209,901 Total non-interest income, as reported (GAAP) 225,729 206,793 155,013 Less: Net gains on sales of office buildings (6) 
+
+(6,721) &#8212; &#8212; Less: Gains on available for sale and held to maturity debt securities transactions, net (5) 
+
+(401) (95) (545) Total net interest income and non-interest income, as adjusted (non-GAAP) $ 218,607 $ 206,698 $ 154,468 Gross operating income, as adjusted (non-GAAP) $ 1,884,085 $ 1,862,338 $ 1,364,369 Efficiency ratio, (non-GAAP) 56.62 % 50.55 % 48.46 % ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+(1) Included in the FDIC insurance expense. 
+
+(2) Represents severance expense related to workforce reductions within salary and employee benefits expense. 
+
+(3) Included primarily within salary and employee benefits expense, technology, furniture and equipment expense, professional and legal fees, and other expense. 
+
+(4) Included in professional and legal fees. 
+
+(5) Included in gains (losses) on sales of assets, net. 
+
+(6) Included in gains (losses) on securities transactions, net. 
+
+##TABLE_START 49 
+
+2023 Form 10-K ##TABLE_END
+
+Tangible book value per common share is computed by dividing shareholders&#8217; equity less preferred stock, goodwill and other intangible assets by common shares outstanding for the two years ended December 31, 2023 and 2022, as follows: 
+
+##TABLE_START 2023 2022 &#160; ($ in thousands, except for share data) Common shares outstanding 507,709,927 506,374,478 Shareholders&#8217; equity (GAAP) $ 6,701,391 $ 6,400,802 Less: Preferred stock 209,691 209,691 Less: Goodwill and other intangible assets 2,029,267 2,066,392 Tangible common shareholders&#8217; equity (non-GAAP) $ 4,462,433 $ 4,124,719 Tangible book value per common share (non-GAAP) $ 8.79 $ 8.15 Book value per common share (GAAP) $ 12.79 $ 12.23 ##TABLE_END
+
+Net Interest Income 
+
+Net interest income consists of interest income and dividends earned on interest earning assets less interest expense on interest bearing liabilities and represents the main source of income for Valley. The net interest margin on a fully tax equivalent basis is calculated by dividing tax equivalent net interest income by average interest earning assets and is a key measurement used in the banking industry to measure income from interest earning assets. 
+
+Annual Period 2023. Net interest income on a tax equivalent basis increased by $10.5 million to $1.7 billion for 2023 as compared to 2022. The increase as compared to 2022 was mostly due to increased yield on loans and loan growth, partially offset by an increase in both the cost of deposits and average time deposits. Interest income on a tax equivalent basis increased $1.2 billion to $3.1 billion for 2023 as compared to 2022. The increase was mostly due to higher yields on both new originations and adjustable rate loans and a $7.4 billion increase in average loan balances driven by organic new loan volumes and, to a lesser extent, a continuation of slower loan prepayments in 2023 . T otal interest expense increased $1.2 billion to $1.5 billion for 2023 as compared to 2022 primarily due the higher cost of deposits in the rising market interest rate environment and a $7.7 billion increase in time deposits caused by both direct and indirect customer CD growth. 
+
+Average interest earning assets totaling $56.5 billion for the year ended December 31, 2023 increased $8.4 billion, or 17.5 percent, as compared to 2022 mainly due to a $7.4 billion increase in average loan balances to $49.4 billion and a $619.5 million increase in average interest bearing cash balances largely due to higher excess cash held overnight as part of our prudent liquidity management navigating the fallout from the bank failures in the first half of 2023. Average loans mainly increased due to organic loan growth in the commercial loan categories over the 12-month period, and, to a much lesser extent, $5.9 billion of loans acquired from Bank Leumi USA on April 1, 2022. 
+
+Average interest bearing liabilities increased $9.9 billion to $40.0 billion for the year ended December 31, 2023 as compared to 2022 mainly due to increases of $7.1 billion, $857.3 million and $723.5 million in average time deposits, short-term borrowings and long-term borrowings, respectively. The increases in average time deposits and both short and long-term borrowings were largely due to prudent liquidity management efforts during the first half of 2023 , including increased usage of fully FDIC-insured indirect customer CD and successful direct retail CD initiatives. See additional information under "Deposits and Other Borrowings" in the Executive Summary section above. 
+
+Net interest margin on a tax equivalent basis was 2.96 percent for the year ended December 31, 2023 and decreased 49 basis points as compared to 2022. Th e decrease as compared to 2022 was mostly driven by a 262 basis point increase in the cost of average interest-bearing liabilities which outpaced a 145 basis point increase in the yield on average interest earning assets primarily due to the rapid rise in short-term market interest rates and a prolonged inverted yield curve. The cost of interest-bearing deposits also increased 262 points to 3.55 percent for 2023 as compared to 2022 due to strong competition for customer deposits in a rising market interest rate environment. The yield on average loans increased 149 basis points to 5.85 percent for 2023 as compared to 4.36 percent in 2022 largely due to higher interest rates on new originations and adjustable rate loans. The yields on average taxable and non-taxable investments also increased 57 basis points and 30 basis points, respectively, as compared to 2022 largely due to investment maturities and prepayments redeployed into new higher yielding securities, as well as lower premium amortization expense caused by a decline in prepayments on mortgage-backed securities during 2023. The yield on interest bearing deposits with banks (mainly overnight cash balances held at the FRB of New York) also increased 356 basis points as compared to 2022 due to the high level of short-term interest rates. 
+
+Fourth Quarter 2023. Net interest income on a tax equivalent basis totaling $398.6 million for the fourth quarter 2023 decreased $15.1 million and $68.7 million as compared to the third quarter 2023 and fourth quarter 2022, respectively. The decrease as compared to the third quarter 2023 was mainly due to increased interest rates on most interest bearing deposit 
+
+##TABLE_START 2023 Form 10-K 50 
+
+##TABLE_END
+
+products, partially offset by higher loan yields and a decline in average time deposit balances. As a result of the higher cost of deposits, total interest expense increased $20.3 million to $420.9 million for the fourth quarter 2023 as compared to the third quarter 2023. Interest income on a tax equivalent basis increased $5.2 million to $819.5 million for the fourth quarter 2023 as compared to the third quarter 2023. The increase in the fourth quarter 2023 was mostly due to higher yields on both new originations and adjustable rate loans in our portfolio, as well as higher yields on investments, partially offset by a decline in average interest bearing deposits with banks as overnight excess cash liquidity was reduced as compared to the third quarter 2023. 
+
+Net interest margin on a tax equivalent basis of 2.82 percent for the fourth quarter 2023 decreased 9 basis points and 75 basis points from 2.91 percent and 3.57 percent, respectively, for the third quarter 2023 and fourth quarter 2022. The decrease as compared to the third quarter 2023 was largely driven by higher interest rates on interest bearing deposits, partially offset by an increase in the yield on average interest earning asset s. Our cost of total average deposits was 3.13 percent for the fourth quarter 2023 as compared to 2.94 percent for the third quarter 2023. The overall cost of average interest-bearing liabilities increased by 21 basis points to 4.13 percent for the fourth quarter 2023 as compared to the linked third quarter 2023 primarily driven by the continued rise in market interest rates on deposits. The yield on average interest earning assets increased by 7 basis points to 5.80 basis points on a linked quarter basis largely due to the increased yield of the loan portfolio. The yield on average loans increased to 6.10 percent for the fourth quarter 2023 from 6.03 percent for the third quarter 2023 mostly due to the higher level of market interest rates on new originations and adjustable rate loan s. 
+
+Based upon our latest model estimates, we anticipate net interest income growth of approximately three to five percent for the full year of 2024 as compared to 2023. While we are optimistic about the possible stabilization of our net interest income during 2024 as compared to the fourth quarter 2023, our forecasts include several uncertain assumptions, including expected interest rate cuts by the FRB and the timing of these actions as part of their monetary policies in 2024. As such, we cannot provide any assurances that our net interest income or margin will remain at the levels reported for the fourth quarter 2023. 
+
+##TABLE_START 51 
+
+2023 Form 10-K ##TABLE_END
+
+The following table reflects the components of net interest income for each of the three years ended December 31, 2023, 2022 and 2021: 
+
+ANALYSIS OF AVERAGE ASSETS, LIABILITIES AND SHAREHOLDERS&#8217; EQUITY AND 
+
+NET INTEREST INCOME ON A TAX EQUIVALENT BASIS 
+
+##TABLE_START &#160; 2023 2022 2021 &#160; Average Balance Interest Average Rate Average Balance Interest Average Rate Average Balance Interest Average Rate &#160; ($ in thousands) Assets Interest earning assets: 
+
+Loans (1)(2) 
+
+$ 49,351,861 $ 2,887,026 5.85 % $ 41,930,353 $ 1,828,576 4.36 % $ 32,816,985 $ 1,257,489 3.83 % 
+
+Taxable investments (3) 
+
+4,990,942 154,847 3.10 4,628,353 117,184 2.53 3,285,543 63,383 1.93 
+
+Tax-exempt investments (1)(3) 
+
+616,555 25,703 4.17 586,956 22,687 3.87 464,833 14,830 3.19 Interest bearing deposits with banks 
+
+1,541,170 76,809 4.98 921,719 13,064 1.42 1,660,454 1,738 0.10 Total interest earning assets 56,500,528 3,144,385 5.57 48,067,381 1,981,511 4.12 38,227,815 1,337,440 3.50 Allowance for loan losses (452,713) (442,068) (349,877) Cash and due from banks 395,895 386,399 279,578 Other assets 4,805,711 4,254,389 3,285,731 Unrealized gains (losses) on securities available for sale, net (183,524) (83,791) 32,435 Total assets $ 61,065,897 $ 52,182,310 $ 41,475,682 Liabilities and Shareholders&#8217; Equity 
+
+Interest bearing liabilities: Savings, NOW and money market deposits 
+
+$ 23,228,453 $ 739,025 3.18 % $ 22,652,502 $ 186,709 0.82 % $ 18,223,279 $ 42,879 0.24 % Time deposits 12,704,775 535,749 4.22 5,009,302 69,691 1.39 4,574,337 25,094 0.55 Total interest bearing deposits 35,933,228 1,274,774 3.55 27,661,804 256,400 0.93 22,797,616 67,973 0.30 Short-term borrowings 1,881,700 94,869 5.04 1,024,352 17,453 1.70 891,908 5,374 0.60 Long-term borrowings 2,227,578 103,770 4.66 1,504,111 47,190 3.14 1,897,343 50,978 2.69 Total interest bearing liabilities 
+
+40,042,506 1,473,413 3.68 30,190,267 321,043 1.06 25,586,867 124,325 0.49 Non-interest bearing deposits 12,558,441 14,789,661 10,441,816 Other liabilities 1,906,182 1,217,146 699,254 Shareholders&#8217; equity 6,558,768 5,985,236 4,747,745 Total liabilities and shareholders&#8217; equity 
+
+$ 61,065,897 $ 52,182,310 $ 41,475,682 Net interest income/interest rate spread (5) 
+
+1,670,972 1.89 % 1,660,468 3.06 % 1,213,115 3.01 % Tax equivalent adjustment (5,494) (4,828) (3,214) Net interest income, as reported 
+
+$ 1,665,478 $ 1,655,640 $ 1,209,901 
+
+Net interest margin (6) 
+
+2.95 % 3.44 % 3.16 % Tax equivalent effect 0.01 0.01 0.01 Net interest margin on a fully tax equivalent basis (6) 
+
+2.96 % 3.45 % 3.17 % ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+(1) Interest income is presented on a tax equivalent basis using a 21 percent federal tax rate. 
+
+(2) Loans are stated net of unearned income and include non-accrual loans. 
+
+(3) The yield for securities that are classified as available for sale is based on the average historical amortized cost. 
+
+(4) Includes junior subordinated debentures issued to capital trusts which are presented separately on the consolidated statements of condition. 
+
+(5) Interest rate spread represents the difference between the average yield on interest earning assets and the average cost of interest bearing liabilities and is presented on a fully tax equivalent basis. 
+
+(6) Net interest income as a percentage of total average interest earning assets. 
+
+##TABLE_START 2023 Form 10-K 52 
+
+##TABLE_END
+
+The following table demonstrates the relative impact on net interest income of changes in the volume of interest earning assets and interest bearing liabilities and changes in rates earned and paid by Valley on such assets and liabilities. Variances resulting from a combination of changes in volume and rates are allocated to the categories in proportion to the absolute dollar amounts of the change in each category. 
+
+CHANGE IN NET INTEREST INCOME ON A TAX EQUIVALENT BASIS 
+
+&#160; 
+
+##TABLE_START &#160; 2023 Compared to 2022 2022 Compared to 2021 &#160; Change Due to Volume Change Due to Rate Total Change Change Due to Volume Change Due to Rate Total Change &#160; (in thousands) Interest income: Loans* $ 361,377 $ 697,073 $ 1,058,450 $ 381,416 $ 189,671 $ 571,087 Taxable investments 9,714 27,949 37,663 30,492 23,309 53,801 Tax-exempt investments* 1,179 1,837 3,016 4,353 3,504 7,857 Federal funds sold and other interest bearing deposits 
+
+13,437 50,308 63,745 (1,105) 12,431 11,326 Total increase in interest income 385,707 777,167 1,162,874 415,156 228,915 644,071 Interest expense: Savings, NOW and money market deposits 
+
+4,867 547,448 552,315 12,731 131,099 143,830 Time deposits 200,705 265,353 466,058 2,600 41,997 44,597 Short-term borrowings 23,174 54,242 77,416 908 11,171 12,079 Long-term borrowings and junior subordinated debentures 
+
+28,178 28,402 56,580 (11,545) 7,757 (3,788) Total increase in interest expense 256,924 895,445 1,152,369 4,694 192,024 196,718 Increase (decrease) in net interest income $ 128,783 $ (118,278) $ 10,505 $ 410,462 $ 36,891 $ 447,353 ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+* Interest income is presented on a tax equivalent basis using a 21 percent federal tax rate. 
+
+Non-Interest Income 
+
+Non-interest income represented 6.7 percent and 9.5 percent of total interest income plus non-interest income for 2023 and 2022, respectively. For the year ended December 31, 2023, non-interest income increased $18.9 million as compared to the year ended December 31, 2022 mainly attributable to higher w ealth management and trust fees income, net gains on sales of assets, increases in service charges on deposit accounts and changes in the fair value of equity securities. These increases were partially offset by a decrease in capital markets income. See further details below. 
+
+The following table presents the components of non-interest income for the years ended December 31, 2023, 2022, and 2021: &#160; 
+
+##TABLE_START &#160; 2023 2022 2021 &#160; (in thousands) Wealth management and trust fees $ 44,158 $ 34,709 $ 14,910 Insurance commissions 11,116 11,975 7,810 Capital markets 41,489 52,362 27,377 Service charges on deposit accounts 41,306 36,930 21,424 Gains (losses) on securities transactions, net 1,104 (1,230) 1,758 Fees from loan servicing 10,670 11,273 11,651 Gains on sales of loans, net 6,054 6,418 26,669 Gains on sales of assets, net 6,809 897 901 Bank owned life insurance 11,843 8,040 8,817 Other 51,180 45,419 33,696 Total non-interest income $ 225,729 $ 206,793 $ 155,013 ##TABLE_END
+
+##TABLE_START 53 
+
+2023 Form 10-K ##TABLE_END
+
+Wealth management and trust fees income increased by $9.4 million for the year ended December 31, 2023 as compared to 2022. The increase was largely driven by increased brokerage commissions from higher trading volume and additional asset management fee income related to our broker dealer subsidiary, Valley Financial Management, Inc., acquired on April 1, 2022 in connection with the acquisition of Bank Leumi USA . Brokerage fees totaled $19.1 million for the year ended December 31, 2023 and $13.1 million for the same period in 2022 . 
+
+Insurance commissions decreased $859 thousand for the year ended December 31, 2023 as compared to the same period in 2022 mostly due to lower business volume generated from the Bank's title insurance agency subsidiary. 
+
+Capital markets income decreased $10.9 million for the year ended December 31, 2023 as compared to 2022 mainly due to a decline in the volume of interest rate swap transactions executed for commercial customers. This decrease was partially offset by a $2.2 million increase in syndication and participation fees for the year ended December 31, 2023 as compared to the same period in 2022. 
+
+Service charges on deposit accounts increased $4.4 million for the year ended December 31, 2023 as compared to 2022 largely due to the additional deposit accounts acquired from Bank Leumi USA on April 1, 2022. During the fourth quarter 2023, the increase in fees was partially offset by certain transactional fees waived for customers around the time of our core system conversion in October 2023. 
+
+The net gains and losses on securities transactions for the years ended December 31, 2023 and 2022 were partially related to municipal bond trading activities . The n et gain on securities transactions for the year ended December 31, 2023 also includes an $869 thousand gain on the sale of a previously impaired corporate bond issued by Signature Bank. See Note 4 for additional details. 
+
+Net gains on sales of assets increased $5.9 million for the year ended December 31, 2023 as compared to 2022 l argely due to the sale of two non-branch offices located in Wayne, New Jersey in the third quarter 2023. 
+
+Net gains on sales of loans decreased $364 thousand for the year ended December 31, 2023 as compared to 2022 mostly due to lower loan sale volumes as we continued to retain a higher percentage of new loan volume s in 2023 . Our ability to generate net gains on sales of loans could continue to be challenged by several factors, including higher market interest rates, lower customer demand for conforming loan products and our decision to originate certain residential mortgage loans for investment in our loan portfolio rather than sale. See further discussions of our residential mortgage loan origination activity under the &#8220;Loan Portfolio&#8221; section of this MD&#38;A below. 
+
+Bank owned life insurance income increased $3.8 million for the year ended December 31, 2023 as compared to 2022 due to income and increases in market value of the underlying investment securities, including income from bank owned life insurance assets acquired from Bank Leumi USA on April 1, 2022. 
+
+Other non-interest income increased $5.8 million for the year ended December 31, 2023 as compared to 2022 due to a $4.1 million increase in the fair value of equity securities and a $2.0 million increase in credit card fee income. 
+
+Through organic and acquisitive efforts, we have developed a robust suite of fee income product and service offerings for our growing customer base, including recent enhancements of our treasury management offerings to commercial customers expected to help us generate additional fee income and attract new customers. During 2024, we will continue to focus on growing our differentiated revenues within non-interest income and have targeted 5 to 7 percent growth in total non-interest income as compared to $225.7 for the year ended December 31, 2023. 
+
+Non-Interest Expense 
+
+Non-interest expense increased $137.7 million to $1.2 billion for the year ended December 31, 2023 as compared to 2022 mainly driven by a $65.3 million increase in the FDIC insurance assessment expense, organic and acquired growth in our operations, ongoing technology transformation efforts and merger related expenses. See further details below. 
+
+##TABLE_START 2023 Form 10-K 54 
+
+##TABLE_END
+
+The following table presents the components of non-interest expense for the years ended December 31, 2023, 2022 and 2021: &#160; 
+
+##TABLE_START &#160; 2023 2022 2021 &#160; &#160; (in thousands) &#160; Salary and employee benefits expense $ 563,591 $ 526,737 $ 375,865 Net occupancy expense 101,470 94,352 79,355 Technology, furniture and equipment expense 150,708 161,752 89,221 FDIC insurance assessment 88,154 22,836 14,183 Amortization of other intangible assets 39,768 37,825 21,827 Professional and legal fees 80,567 82,618 38,432 Loss on extinguishment of debt &#8212; &#8212; 8,406 Amortization of tax credit investments 18,009 12,407 10,910 Other 120,424 86,422 53,343 Total non-interest expense $ 1,162,691 $ 1,024,949 $ 691,542 ##TABLE_END
+
+Salary and employee benefits expense increased $36.9 million for the year ended December 31, 2023 as compared to 2022 primarily driven by (i) higher headcount from the Bank Leumi USA acquisition and organic growth in our operations, (ii) $10.0 million of restructuring charges, consisting of severance expense related to workforce reductions, and (iii) inflationary pressures on our overall labor costs. These increases were partially offset by lower merger related costs, which totaled approximately $4.1 million and $29.5 million for the years ended December 31, 2023 and 2022, respectively, related to the Bank Leumi USA acquisition. 
+
+Net occupancy expenses increased $7.1 million for the year ended December 31, 2023 as compared to 2022 mainly due to increases in rent expense and depreciation expense (mostly related to leasehold improvements) totaling $7.7 million and $2.2 million, respectively, caused by additional branches and office facilities. Building repair expense decreased $1.4 million during the year ended December 31, 2023 as compared to 2022. The merger related expenses within this category totaled $1.5 million for the year ended December 31, 2022. 
+
+Technology, furniture and equipment expense decreased $11.0 million for the year ended December 31, 2023 as compared to 2022. The decrease was largely due to a decline in merger related expenses, partially offset by higher data processing expense. Within this expense category, merger related expenses totaled $10.0 million for the year ended December 31, 2023 as compared to $34.2 million for the year ended December 31, 2022. The merger expenses mainly related to the termination of certain technology contracts for both respective periods. 
+
+FDIC insurance assessment expense increased $65.3 million for the year ended December 31, 2023 as compared to 2022 mainly due to a $50.3 million special assessment to recover losses in the Deposit Insurance Fund from protecting uninsured depositors following the Silicon Valley Bank and Signature Bank failures. The remaining increase related to growth in our balance sheet, and a two basis point increase in the initial base rate effective for 2023. 
+
+Amortization of other intangibles increased $1.9 million for the year ended December 31, 2023 as compared to 2022 mainly due to higher amortization expense of core deposits and other intangible assets resulting from the Bank Leumi USA acquisition, partially offset by lower amortization expense of mortgage serving rights. See Note 8 to the consolidated financial statements for additional information. 
+
+Professional and legal fees decreased $2.1 million for the year ended December 31, 2023 as compared to 2022 mainly due to lower consulting and legal expenses. The overall decrease was partially offset by a $3.5 million charge for legal settlements which were recognized during the fourth quarter of 2023. Within the category, merger related expenses (related to the Bank Leumi USA acquisition) totaled $11.5 million for the year ended December 31, 2022. 
+
+Other non-interest expense increased $34.0 million for the year ended December 31, 2023 as compared to 2022 primarily due to increased interest charges on collateral related to derivative transactions, as well as general increases in travel costs, advertising expense and several other categories caused by our acquired and organic growth in operations. 
+
+Exclusive of the anticipated shortfall FDIC special assessment discussed in the "Subsequent Events" section of this MD&#38;A, we expect non-interest expense in 2024 to increase 4 to 6 percent as compared to 2023 based upon several factors, including operational growth and other inflationary factors expected to be experienced in 2024, net of the benefits from our continued efforts to optimize core processes and expenses. 
+
+##TABLE_START 55 
+
+2023 Form 10-K ##TABLE_END
+
+Income Taxes 
+
+Income tax expense was $179.8 million for the year ended December 31, 2023, reflecting an effective tax rate of 26.5 percent, as compared to $211.8 million for the year ended December 31, 2022, reflecting an effective tax rate of 27.1 percent. The decrease in income tax expense during 2023 as compared to 2022 was mainly attributable to a larger investment in tax credits and lower pre-tax income. The Coronavirus Aid, Relief, and Economic Security (CARES) Act, as amended, did not have a material impact on our reported income tax expense for the years ended December 31, 2023 and 2022. 
+
+Our uncertain tax liability positions totaled $30.4 million at both December 31, 2023 and 2022 and solely relate to certain tax credits and other tax benefits previously recognized by Valley, where subsequently, a third-party fraud was uncovered by the U.S. Department of Justice in 2018. 
+
+GAAP requires that any change in judgment or change in measurement of a tax position taken in a prior annual period be recognized as a discrete event in the quarter in which it occurs, rather than being recognized as a change in effective tax rate for the current year. Our adherence to these tax guidelines may result in volatile effective income tax rates in future quarterly and annual periods. Factors that could impact management&#8217;s judgment include changes in income, tax laws and regulations, and tax planning strategies. Based on the current information available, we anticipate that our effective tax rate will be approximately 27 percent for 2024. 
+
+See additional information regarding our income taxes under our &#8220;&#8212;Critical Accounting Estimates&#8221; section above, as well as Note 13 to the consolidated financial statements. 
+
+Operating Segments 
+
+Valley manages its business operations under operating segments consisting of Consumer Banking and Commercial Banking. Activities not assigned to the operating segments are included in Treasury and Corporate Other. Each operating segment is reviewed routinely for its asset growth, contribution to income before income taxes, return on average interest earning assets and impairment (if events or circumstances indicate a possible inability to realize the carrying amount). Valley regularly assesses its strategic plans, operations, and reporting structures to identify its reportable segment s. Prior to the second quarter 2022, Valley had three operating segments: Consumer Lending, Commercial Lending, and Investment Management. Valley re-evaluated its segment reporting during the second quarter 2022 to consider the Bank Leumi USA acquisition on April 1, 2022 along with other factors, including changes in the internal structure of operations, discrete financial information reviewed by key decision-makers, balance sheet management strategies and personnel. There were no changes to Valley&#8217;s reportable segments during 2023. 
+
+The accounting for each operating segment and Treasury and Corporate Other includes internal accounting policies designed to measure consistent and reasonable financial reporting and may result in income and expense measurements that differ from amounts under GAAP. The financial reporting for each segment contains allocations and reporting in line with Valley&#8217;s operations, which may not necessarily be comparable to those of any other financial institution. Furthermore, changes in management structure or allocation methodologies and procedures may result in changes in reported segment financial data. 
+
+See Note 21 to the consolidated financial statements for additional information. 
+
+##TABLE_START 2023 Form 10-K 56 
+
+##TABLE_END
+
+The following tables present the financial data for Valley's operating segments, and Treasury and Corporate Other for the year ended December 31, 2023 and 2022: 
+
+##TABLE_START &#160; December 31, 2023 &#160; Consumer Banking Commercial Banking Treasury and Corporate Other Total &#160; ($ in thousands) Average interest earning assets $ 8,892,563 $ 40,459,298 $ 7,148,667 $ 56,500,528 
+
+Income (loss) before income taxes 
+
+34,552 891,484 (247,704) 678,332 Return on average interest earning assets (before tax) 0.39 % 2.20 % (3.47) % 1.20 % ##TABLE_END
+
+##TABLE_START &#160; December 31, 2022 &#160; Consumer Banking Commercial Banking Treasury and Corporate Other Total &#160; ($ in thousands) Average interest earning assets $ 8,133,665 $ 33,796,688 $ 6,137,028 $ 48,067,381 Income (loss) before income taxes 64,753 787,047 (71,133) 780,667 Return on average interest earning assets (before tax) 0.80 % 2.33 % (1.16) % 1.62 % ##TABLE_END
+
+Consumer Banking Segment. The Consumer Banking segment represented 18.0 percent of the total loan portfolio at December 31, 2023 , and was mainly comprised of residential mortgage loans and automobile loans, and to a lesser extent, home equity loans, secured personal lines of credit and other consumer loans (including credit card loans). The duration of the residential mortgage loan portfolio (which represented 11.1 percent of our total loan portfolio at December 31, 2023) is subject to movements in the market level of interest rates and forecasted prepayment speeds. The weighted average life of the automobile loans portfolio (representing 3.2 percent of total loans at December 31, 2023) is relatively unaffected by movements in the market level of interest rates. However, the average life may be impacted by new loans as a result of the availability of credit within the automobile marketplace and consumer demand for purchasing new or used automobiles. Consumer Banking also includes the Wealth Management and Insurance Services Division, comprised of trust, asset management, brokerage, insurance and tax credit advisory services. 
+
+Consumer Banking&#8217;s average interest earning assets increased $758.9 million to $8.9 billion for the year ended December 31, 2023 as compared to 2022. The increase was largely due to new residential mortgage loan volumes originated for investment rather than sale over the last 12-month period, as well as growth in home equity loans and secured personal lines of credit. 
+
+Income before income taxes generated by the Consumer Banking segment decreased $30.2 million to $34.6 million for the year ended December 31, 2023 as compared to $64.8 million for the year ended December 31, 2022. Th e decrease wa s mainly driven by lower net interest income. Net interest income decreased $79.3 million as compared to the same period in 2022 mainly due to the increase in our cost of funds outpacing the yield on the loan portfolio during 2023. The decline in net interest income was partially offset by a $30.2 million increase in non-interest income coupled with a lower provision for loan losses and internal transfer expense. The increase in non -interest income was mainly driven by increases in wealth management and trust fees and service charges on deposit accounts partially driven by a full year of growth in such services from our acquisition of Bank Leumi USA on April 1, 2022. The provision for loan losses decreased $14.7 million for the year ended December 31, 2023 from $20.9 million for the same period in 2022 mainl y due to moderate credit loss experience in the consumer loan portfolio and improved economic outlook since December 31, 2022. See further details in the &#8220;Allowance for Credit Losses&#8221; section of this MD&#38;A. 
+
+Net interest margin on the Consumer Banking portfolio decreased 113 basis points to 1.62 percent for the year ended December 31, 2023 as compared to 2022 mainly due to a 192 basis point increase in the costs associated with our funding sources, partially offset by a 79 basis point increase in the yield on average loans. The increase in our funding costs was mainly driven by higher interest rates on most of interest bearing direct and indirect customer deposit products, as well as adjustable rate and new other borrowings utilized during 2023. The 79 basis point increase in loan yiel d was largely due to higher yielding new loan volumes and adjustable rate loans in our portfolio. See the &#8220;Executive Summary&#8221; and the &#8220;Net Interest Income&#8221; sections above for more details on our net interest margin and funding sources. 
+
+The return on average interest earning assets before income taxes for the Consumer Banking segment was 0.39 percent for 2023 compared to 0.80 percent for 2022. 
+
+##TABLE_START 57 
+
+2023 Form 10-K ##TABLE_END
+
+Commercial Banking Segment. The Commercial Banking segment is comprised of floating rate and adjustable rate commercial and industrial loans and construction loans, as well as fixed rate owner occupied and commercial real estate loans. Due to the portfolio&#8217;s interest rate characteristics, Commercial Banking is Valley&#8217;s operating segment that is most sensitive to movements in market interest rates. Commercial and industrial loans totaled approximately $9.2 billion and represented 18.4 percent of the total loan portfolio at December 31, 2023. Commercial real estate loans and construction loans totaled $32.0 billion and represented 63.7 percent of the total loan portfolio at December 31, 2023. 
+
+Average interest earning assets in Commercial Banking segment increased $6.7 billion to $40.5 billion for the year ended December 31, 2023 as compared to the same period in 2022. This increase was primarily due to organic loan growth, especially in the commercial real estate portfolio over the 12-month period ended December 31, 2023, as well as average balances related to loans acquired from Bank Leumi USA on April 1, 2022. 
+
+For the year ended December 31, 2023, income before income taxes for Commercial Banking increased $104.4 million to $891.5 million as compared to 2022 mainly due to an increase in net interest income, partially offset by lower non-interest income and higher non-interest expense. Net interest income increased $147.4 million to $1.5 billion for the year ended December 31, 2023 as compared to 2022 primarily due to higher average commercial loan balances and higher interest rates on new and adjustable loans. Non-interest income decreased $27.8 million to $51.9 million for the year ended December 31, 2023 as compared to 2022 mainly due to a decline in the volume of interest rate swap transactions executed for commercial loan customers. Non-interest expens e increased $22.1 million to $141.0 million for the year ended December 31, 2023 as compared to 2022 mainly due to acquired and organic growth in our commercial operations . See further details in the &#8220;&#8212;Non-Interest Income&#8217; and &#8220;&#8212;Non-Interest Expense&#8221; sections of this MD&#38;A. 
+
+The net interest margin for this segment decreased 29 basis points to 3.71 percent for the year ended December 31, 2023 as compared to the same period in 2022 due to a 192 basis point increase in the cost of our funding sources, partially offset by a 163 basis point increase in the yield on average loans. 
+
+The return on average interest earning assets before income taxes for the commercial banking segment was 2.20 percent for 2023 compared to 2.33 percent for 2022. 
+
+Treasury and Corporate Other. Treasury and Corporate Other largely consists of the Treasury managed HTM and AFS debt securities portfolios mainly utilized in the liquidity management needs of our lending segments and income and expense items resulting from support functions not directly attributable to a specific segment. Interest income is generated through investments in various types of securities (mainly comprised of fixed rate securities) and interest-bearing deposits with other banks (primarily the Federal Reserve Bank of New York). Expenses related to the branch network, all other components of retail banking, along with the back office departments of the Bank are allocated from Treasury and Corporate Other to the Consumer Banking and Commercial Banking segments. Interest expense and internal transfer expense (for general corporate expenses) are allocated to each operating segment utilizing a transfer pricing methodology, which involves the allocation of operating and funding costs based on each segment's respective mix of average interest earning assets and/or liabilities outstanding for the period. Other items disclosed in Treasury and Corporate Other include net gains and losses on AFS and HTM securities transactions, interest expense related to subordinated notes, amortization of tax credit investments, as well as other non-core items, including merger, restructuring and FDIC special assessment charges. 
+
+Treasury and Corporate Other's average interest earning assets increased $1.0 billion to $7.1 billion for the year ended December 31, 2023 as compared to 2022 mainly due to higher excess interest-bearing cash liquidity held during 2023, investment securities acquired from Bank Leumi USA, and, to a much lesser extent, purchases of new investment securities over the last 12-month period. Average interest bearing deposits with banks increased $619.5 million as compared to 2022 mainly due to additional cash held as a cautionary liquidity management measur e starting in March 2023 and winding down to relatively normal levels in the third quarter 2023. 
+
+For the year ended December 31, 2023, loss before income taxes in this segment totaled $247.7 million for the year ended December 31, 2023 compared to $71.1 million for 2022. The $176.6 million increase in pre-tax l oss was mainly due to a higher non-interest income expense combined with a decrease in net interest income related to our Treasury managed investment securities portfolio. Non-interest expense increased $106.2 million to $939.1 million for the year ended December 31, 2023 as compared to the same period in 2022 largely due to a $65.3 million increase in the FDIC insurance assessment expense, including a $50.3 million special assessment assessed in the fourth quarter 2023, and additional expenses related to our expanded banking operations and organic business growth, including higher salary and employee benefits expense, occupancy expenses, travel and other general expenses. See further details in the "Non-Interest Income" and "Non-Interest Expense" sections of this MD&#38;A. Provision for credit losses increased $4.1 million mainly due to a corporate bond issued by one failed bank within our AFS debt securities portfolio that was fully charged-off during 2023. Internal transfer income decreased $24.5 
+
+##TABLE_START 2023 Form 10-K 58 
+
+##TABLE_END
+
+million to $588.2 million for the year ended December 31, 2023 as compared to the same period in 2022 due to lower allocations of the overhead expense to the Consumer Banking and Commercial Banking segments over the same period. 
+
+Treasury and Corporate Other's net interest margin decreased 81 basis points to 1 percent for the year ended December 31, 2023 as compared to the same period in 2022 due to a 192 basis point increase in cost of our funding source, partially offset by a 111 basis point increase in the yield on average investments. The increased yield on average investments as compared to the same period in 2022 was largely driven by new higher yielding investments and a reduction in premium amortization expense mostly caused by slower principal repayments in the rising interest rate environment. 
+
+ASSET/LIABILITY MANAGEMENT 
+
+Interest Rate Sensitivity 
+
+Our success is largely dependent upon our ability to manage interest rate risk. Interest rate risk can be defined as the exposure of our interest rate sensitive assets and liabilities to the movement in interest rates. Our Asset/Liability Management Committee is responsible for managing such risks and establishing policies that monitor and coordinate our sources and uses of funds. Asset/Liability management is a continuous process due to the constant change in interest rate risk factors. In assessing the appropriate interest rate risk levels for us, management weighs the potential benefit of each risk management activity within the desired parameters of liquidity, capital levels and management&#8217;s tolerance for exposure to income fluctuations. Many of the actions undertaken by management utilize fair value analysis and attempt to achieve consistent accounting and economic benefits for financial assets and their related funding sources. We have predominately focused on managing our interest rate risk by attempting to match the inherent risk and cash flows of financial assets and liabilities. Specifically, management employs multiple risk management activities such as optimizing the level of new residential mortgage originations retained in our mortgage portfolio through increasing or decreasing loan sales in the secondary market, product pricing levels, the desired maturity levels for new originations, the composition levels of both our interest earning assets and interest bearing liabilities, as well as several other risk management activities. 
+
+We use a simulation model to analyze net interest income sensitivity to movements in interest rates. The simulation model projects net interest income based on various interest rate scenarios over a 12-month period. The model is based on the actual maturity and re-pricing characteristics of rate sensitive assets and liabilities. The model incorporates certain assumptions which management believes to be reasonable regarding the impact of changing interest rates and the prepayment assumptions of certain assets and liabilities as of December 31, 2023. The model assumes immediate changes in interest rates without any proactive change in the composition or size of the balance sheet, or other future actions that management might undertake to mitigate this risk. In the model, the forecasted shape of the yield curve remains static as of December 31, 2023. The impact of interest rate derivatives, such as interest rate swaps, is also included in the model. 
+
+Our simulation model is based on market interest rates and prepayment speeds prevalent in the market as of December 31, 2023. Although the size of Valley&#8217;s balance sheet is forecasted to remain static as of December 31, 2023, in our model, the composition is adjusted to reflect new interest earning assets and funding originations coupled with rate spreads utilizing our actual originations during 2023. The model utilizes an immediate parallel shift in the market interest rates at December 31, 2023. 
+
+The assumptions used in the net interest income simulation are inherently uncertain. Actual results may differ significantly from those presented in the table below, due to the frequency and timing of changes in interest rates, and changes in spreads between maturity and re-pricing categories. Overall, our net interest income is affected by changes in interest rates and cash flows from our loan and investment portfolios. We actively manage these cash flows in conjunction with our liability mix, duration and interest rates to optimize the net interest income, while structuring the balance sheet in response to actual or potential changes in interest rates. Additionally, our net interest income is impacted by the level of competition within our marketplace. Competition can negatively impact the level of interest rates attainable on loans and increase the cost of deposits, which may result in downward pressure on our net interest margin in future periods. Other factors, including, but not limited to, the slope of the yield curve and projected cash flows will impact our net interest income results and may increase or decrease the level of asset sensitivity of our balance sheet. 
+
+Convexity is a measure of how the duration of a financial instrument changes as market interest rates change. Potential movements in the convexity of bonds held in our investment portfolio, as well as the duration of the loan portfolio may have a positive or negative impact on our net interest income in varying interest rate environments. As a result, the increase or decrease in forecasted net interest income may not have a linear relationship to the results reflected in the table below. Management cannot provide any assurance about the actual effect of changes in interest rates on our net interest income. 
+
+##TABLE_START 59 
+
+2023 Form 10-K ##TABLE_END
+
+The following table reflects management&#8217;s expectations of the change in our net interest income over the next 12-month period considering the aforementioned assumptions. While an instantaneous and severe shift in interest rates was used in this simulation model, we believe that any actual shift in interest rates would likely be more gradual and would therefore have a more modest impact than shown in the table below. 
+
+##TABLE_START &#160; Estimated Change in Future Net Interest Income Changes in Interest Rates Dollar Change Percentage Change (in basis points) ($ in thousands) +300 $ 104,684 6.03 % +200 71,034 4.09 +100 37,440 2.16 - 100 (31,903) (1.84) - 200 (67,207) (3.87) - 300 (102,062) (5.88) ##TABLE_END
+
+As noted in the table above, a 100 basis point immediate decrease in interest rates combined with a static balance sheet where the size, mix, and proportions of assets and liabilities remain unchanged is projected to decrease net interest income over the next 12-month period by 1.84 percent. Management believes the interest rate sensitivity remains within an expected tolerance range at December 31, 2023 . How ever, the level of net interest income sensitivity may increase or decrease in the future as a result of several factors, including potential changes in our balance sheet strategies, the slope of the yield curve and projected cash flows. 
+
+The following table sets forth the amounts of interest earning assets and interest bearing liabilities that were outstanding at December 31, 2023. The expected cash flows are categorized based on each financial instrument&#8217;s anticipated maturity or interest rate reset date in each of the future periods presented. 
+
+INTEREST RATE SENSITIVITY ANALYSIS 
+
+##TABLE_START 2024 2025 2026 2027 2028 Thereafter Total Balance &#160; ($ in thousands) Interest sensitive assets: Available for sale debt securities $ 116,206 $ 237,990 $ 54,086 $ 200,915 $ 46,566 $ 640,813 $ 1,296,576 Held to maturity debt securities 347,488 263,908 258,151 190,179 174,968 2,505,719 3,740,413 
+
+Loans and loans held for sale 
+
+27,249,565 4,594,823 4,402,675 3,509,544 3,227,938 7,256,390 50,240,935 
+
+Other interest earning assets 
+
+611,108 &#8212; &#8212; &#8212; &#8212; &#8212; 611,108 Total interest sensitive assets 
+
+$ 28,324,367 $ 5,096,721 $ 4,714,912 $ 3,900,638 $ 3,449,472 $ 10,402,922 $ 55,889,032 Interest sensitive liabilities: 
+
+Deposits: Savings, NOW and money market 
+
+$ 24,526,622 $ &#8212; $ &#8212; $ &#8212; $ &#8212; $ &#8212; $ 24,526,622 Time 12,332,120 582,428 176,543 36,192 21,992 27,449 13,176,724 Short-term borrowings 917,834 &#8212; &#8212; &#8212; &#8212; &#8212; 917,834 Long-term borrowings 165,000 724,804 &#8212; 900,000 &#8212; 538,571 2,328,375 Junior subordinated debentures 
+
+&#8212; &#8212; &#8212; &#8212; &#8212; 57,108 57,108 Total interest sensitive liabilities 
+
+$ 37,941,576 $ 1,307,232 $ 176,543 $ 936,192 $ 21,992 $ 623,128 $ 41,006,663 Interest sensitivity gap $ (9,617,209) $ 3,789,489 $ 4,538,369 $ 2,964,446 $ 3,427,480 $ 9,779,794 $ 14,882,369 Ratio of interest sensitive assets to interest sensitive liabilities 
+
+0.75:1 3.9:1 26.71:1 4.17:1 156.85:1 16.69:1 1.36:1 ##TABLE_END
+
+The above table provides an approximation of the projected re-pricing of assets and liabilities at December 31, 2023 based on the contractual maturities, adjusted for anticipated prepayments of principal (including anticipated call dates on long-term borrowings and junior subordinated debentures) and scheduled rate adjustments. The prepayment experience reflected herein is based on historical experience combined with market consensus expectations derived from independent external sources. The actual repayments of these instruments could vary substantially if future prepayments differ from historical experience or current market expectations. While all non-maturity deposit liabilities are reflected in the 2024 column in the table above, management controls the re-pricing of the vast majority of the interest-bearing instruments within these liabilities. 
+
+##TABLE_START 2023 Form 10-K 60 
+
+##TABLE_END
+
+The total gap re-pricing within one year as of December 31, 2023 wa s a negative $9.6 billion , representing a ratio of interest sensitive assets to interest sensitive liabilities of 0.75:1. The total gap re-pricing position, as reported in the table above, reflects the projected interest rate sensitivity of our principal cash flows based on market conditions as of December 31, 2023. As the market level of interest rates and associated prepayment speeds move, the total gap re-pricing position will change accordingly, but not likely in a linear relationship. Management does not view our one-year gap position as of December 31, 2023 as presenting an unusually high risk potential, although no assurances can be given that we are not at risk from interest rate increases or decreases or liquidity and cash requirements (discussed in the section below). 
+
+Liquidity and Cash Requirements 
+
+Bank Liquidity. Liquidity measures Valley&#8217;s ability to satisfy its current and future cash flow needs. Our objective is to have liquidity available to fulfill loan demands, repay deposits and other liabilities, and execute balance sheet strategies in all market conditions while adhering to internal controls and income targets. Valley&#8217;s liquidity program is managed by the Treasury Department and routinely monitored by the Asset and Liability Management Committee and two board committees. Among other actions, Treasury actively monitors Valley's current liquidity profile, sources and stability of funding, availability of assets for pledging or sale, opportunities to gather additional funds, and anticipated future funding needs, including the level of unfunded commitments. 
+
+The Bank adheres to certain internal liquidity measures including ratios of loans to deposits below 110 percent and wholesale funding to total funding below 25 percent, as summarized in the table below. Management maintains flexibility to temporarily exceed these thresholds in certain operating environments. The Bank was in compliance with the foregoing policies at December 31, 2023. 
+
+The following table presents Valley's loan to deposits and wholesale funding to total funding ratios at December 31, 2023 and 2022: ##TABLE_START 2023 2022 Loans to deposits 102.0 % 98.5 % Wholesale funding to total funding 19.5 13.8 ##TABLE_END
+
+At December 31, 2023, the Bank had various contractual obligations totaling $17.0 billion and $13.5 billion of maturing liabilities due in 12 months or less and greater than 1 year included in the table below. 
+
+The following table summarizes maturities of contractual obligations of the Bank at December 31, 2023: 
+
+##TABLE_START One Year or Less One to Three Years Three to Five Years Over Five Years Total (in thousands) Time deposits $ 12,332,120 $ 758,971 $ 58,184 $ 27,449 $ 13,176,724 Short-term borrowings 917,834 &#8212; &#8212; &#8212; 917,834 Long-term borrowings 165,000 724,804 900,000 565,000 2,354,804 Junior subordinated debentures issued to capital trusts &#8212; &#8212; &#8212; 60,827 60,827 Lease obligations 50,533 97,857 86,883 168,508 403,781 Capital expenditures 27,626 &#8212; &#8212; &#8212; 27,626 Other purchase obligations 46,270 31,251 9,064 628 87,213 Total $ 13,539,383 $ 1,612,883 $ 1,054,131 $ 822,412 $ 17,028,809 ##TABLE_END
+
+In the ordinary course of operations, the Bank enters into various financial obligations, including contractual obligations that may require future cash payments. As a financial services provider, we routinely enter into commitments to extend credit, including loan commitments, standby and commercial letters of credit. Such commitments are subject to the same credit policies and approval process accorded to loans made by the Bank. We enter into forward commitments for the future delivery of residential mortgage loans when interest rate lock commitments are entered into in order to economically hedge the effect of future changes in interest rates on Bank's commitments to fund the loans, as well as on its portfolio of mortgage loans held for sale. Commitments to extend credit and standby letters of credit are subject to change since many of these commitments are expected to expire unused or only partially used based upon our historical experience; as such, the total amounts of these 
+
+##TABLE_START 61 
+
+2023 Form 10-K ##TABLE_END
+
+commitments do not necessarily reflect future cas h requirements. At December 31, 2023, our off-balance sheet commitments totaled $13.3 billion, inclusive of commitments of $7.4 billion due in 12 months or less. See Note 15 to the consolidated financial statements for further details. 
+
+Management believes the Bank has the ability to generate and obtain adequate amounts of cash to meet its short-term and long-term obligations as they come due by utilizing various cash resources described below. 
+
+On the asset side of the balance sheet, the Bank has numerous sources of liquid funds in the form of cash and due from banks, interest bearing deposits with banks (including the Federal Reserve Bank of New York) and other sources. The following table summarizes Valley's sources of liquid assets: 
+
+##TABLE_START 2023 2022 (in thousands) Cash and due from banks $ 284,090 $ 444,325 Interest bearing deposits with banks 607,135 503,622 Trading debt securities 3,973 13,438 Held to maturity debt securities (1) 
+
+194,094 177,614 Available for sale debt securities (2) 
+
+1,296,576 1,261,397 Loans held for sale 30,640 18,118 Total liquid assets $ 2,416,508 $ 2,418,514 ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+(1) Represents securities that are maturing within 90 days or would otherwise qualify as maturities if sold (i.e., 85 percent of original cost basis has been repaid) within the held to maturity debt security portfolio. 
+
+(2) Includes a pproximately $840.3 million and $333.3 million of various investment securities that were pledged to counterparties to support our earning asset funding strategies at December 31, 2023 and 2022, respectively. 
+
+Total liquid assets represented 4.3 percent and 4.6 percent of interest earning assets at December 31, 2023 and 2022, respectively. 
+
+Other sources of funds on the asset side are derived from scheduled loan payments of principal and interest, as well as prepayments received. At December 31, 2023 , estimated cash inflows from total loans are projected to be approximately $12.8 billion over the next 12-month period. As a contingency plan for any liquidity constraints, liquidity could also be derived from the sale of conforming residential mortgages from our loan portfolio or alleviated from the temporary curtail ment of lending activities. We anticipate the receipt of approx imately $384.0 million in principal payments from securities in the total investment portfolio at December 31, 2023 over the next 12-month period due to normally scheduled principal repayments and expected prepayments of certain securities, primarily residential mortgage-backed securities. 
+
+On the liability side of the balance sheet, we utilize multiple sources of funds to meet liquidity needs, including retail and commercial deposits, fully FDIC-insured indirect customer deposits, collateralized municipal deposits, and short-term and long-term borrowings. Our core deposit base, which generally excludes all fully insured indirect customer deposits, as well as retail certificates of deposit over $250 thousand, represents the largest of these source s. Average core deposits totaled approximately $37.6 billion and $38.1 billion for the years ended December 31, 2023 and 2022, respectively, representing 66.6 percent and 79.2 percent of average interest earning assets for the respective periods. The level of interest bearing deposits is affected by interest rates offered, which is often influenced by our need for funds, rates prevailing in the capital markets, competition, and the need to manage interest rate risk sensitivity. 
+
+In addition to customer deposits, the Bank has access to readily available borrowing sources to supplement its current and projected funding needs. The following table presents short-term borrowings outstanding at December 31, 2023 and 2022: 
+
+##TABLE_START 2023 2022 &#160; FHLB advances $ 850,000 $ 24,035 Securities sold under agreements to repurchase 67,834 114,694 Total short-term borrowings $ 917,834 $ 138,729 ##TABLE_END
+
+##TABLE_START 2023 Form 10-K 62 
+
+##TABLE_END
+
+The following table summarizes the Bank's estimated unused available non-deposit borrowing capacities at December 31, 2023 and 2022: 
+
+##TABLE_START 2023 2022 (in thousands) FHLB borrowing capacity* $ 13,604,000 $ 6,891,000 Unused FRB discount window* 8,530,000 2,099,000 Unused federal funds lines available from commercial banks 2,140,000 1,940,000 Unencumbered investment securities 1,129,000 3,502,000 Total $ 25,403,000 $ 14,432,000 ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+* Used and unused FHLB and FRB borrowings are collateralized by certain pledged securities, including but not limited to U.S. government and agency mortgage-backed securities and blanket qualifying first lien on certain real estate and residential mortgage secured loans. 
+
+Additionally, the Federal Reserve established the Bank Term Funding Program on March 12, 2023 as a funding source for eligible depository institutions. The Program can provide short-term liquidity (up to one year) against the par value of certain high-quality collateral, such as U.S. Treasury securities, and eliminate the potential need for an institution to sell those securities in times of stress. Advances under the Program can be requested until March 11, 2024. Valley had no outstanding borrowings under the Program at December 31, 2023. 
+
+Corporation Liquidity. Valley&#8217;s recurring cash requirements primarily consist of dividends to preferred and common shareholders and interest expense on subordinated notes and junior subordinated debentures issued to capital trusts. As part of our ongoing asset/liability management strategies, Valley could also use cash to repurchase shares of its outstanding common stock under its share repurchase program or redeem its callable junior subordinated debentures and subordinated notes (including $125 million of 5.125 percent subordinated notes which matured on September 27, 2023). Valley's cash needs are routinely satisfied by dividends collected from the Bank. Projected cash flows from the Bank are expected to be adequate to pay preferred and common dividends, if declared, and interest expense payable to subordinated note holders and capital trusts, given the current capital levels and current profitable operations of the Bank. In addition to dividends received from the Bank, Valley can satisfy its cash requirements by utilizing its own cash and potential new funds borrowed from outside sources or capital issuances. Valley also has the right to defer interest payments on the junior subordinated debentures, and therefore distributions on its trust preferred securities for consecutive quarterly periods of up to five years, but not beyond the stated maturity dates, and subject to other conditions. 
+
+Investment Securities Portfolio 
+
+As of December 31, 2023, our investment securities portfolio consisted of equity and debt securities, with the debt securities classified as either trading, AFS or HTM. The AFS and HTM debt securities portfolios, which comprise the majority of the securities we own, include: U.S. Treasury securities, U.S. government agency securities, tax-exempt and taxable issuances of states and political subdivisions, residential mortgage-backed securities, single-issuer trust preferred securities principally issued by bank holding companies, and high quality corporate bonds. Among other securities, our AFS debt securities include securities such as bank issued and other corporate bonds, as well as municipal special revenue bonds, which may pose a higher risk of future impairment charges to us as a result of the uncertain economic environment and its potential negative effect on the future performance of the security issuers. The equity securities consisted of two publicly traded mutual funds, CRA investments and several other equity investments we have made in companies that develop new financial technologies and in partnerships that invest in such companies. Our CRA and other equity investments are a mix of both publicly traded entities and privately held entities. We also have trading securities consisting of U.S. Treasury securities; and U.S. Treasury securities and municipal bonds at December 31, 2023 and 2022, respectively. 
+
+The primary purpose of our HTM and AFS investment portfolios is to provide a source of earnings and liquidity, as well as serve as a tool for managing interest rate risk. The decision to purchase or sell securities is based upon the current assessment of long and short-term economic and financial conditions, including the interest rate environment and other statement of financial condition components. See additional information under &#8220;Interest Rate Sensitivity,&#8221; &#8220;Liquidity and Cash Requirements&#8221; and &#8220;Capital Adequacy&#8221; sections elsewhere in this MD&#38;A. 
+
+We continually evaluate our investment securities portfolio in response to established asset/liability management objectives, changing market conditions that could affect profitability, and the level of interest rate risk to which we are exposed. These evaluations may cause us to change the level of funds we deploy into investment securities, change the composition of 
+
+##TABLE_START 63 
+
+2023 Form 10-K ##TABLE_END
+
+our investment securities portfolio, and change the proportion of investments primarily made into the AFS and HTM debt securities portfolios. 
+
+Investment securities at December 31, 2023 and 2022 were as follows: &#160; 
+
+##TABLE_START 2023 2022 &#160; (in thousands) Equity securities $ 64,464 $ 48,731 Trading debt securities 3,973 13,438 Available for sale debt securities U.S. Treasury securities 288,157 279,498 U.S. government agency securities 23,702 26,964 Obligations of states and political subdivisions: Obligations of states and state agencies 47,695 10,406 Municipal bonds 143,995 136,405 Total obligations of states and political subdivisions 191,690 146,811 Residential mortgage-backed securities 626,572 629,818 Corporate and other debt securities 166,455 178,306 Total available for sale debt securities 1,296,576 1,261,397 Total investment securities (fair value) $ 1,365,013 $ 1,323,566 Held to maturity debt securities U.S. Treasury securities $ 26,232 $ 66,911 U.S. government agency securities 305,996 260,392 Obligations of states and political subdivisions: Obligations of states and state agencies 88,556 99,238 Municipal bonds 316,914 381,060 Total obligations of states and political subdivisions 405,470 480,298 Residential mortgage-backed securities 2,885,303 2,909,106 Trust preferred securities 37,062 37,043 Corporate and other debt securities 80,350 75,234 Total investment securities held to maturity (amortized cost) $ 3,740,413 $ 3,828,984 Allowance for credit losses 1,205 1,646 Total investment securities held to maturity, net of allowance for credit losses 3,739,208 3,827,338 Total investment securities $ 5,104,221 $ 5,150,904 ##TABLE_END
+
+At December 31, 2023, we had $2.9 billion and $626.6 million of residential mortgage-backed securities classified as HTM and AFS, respectively. Approximately 47.6 percent, 31.4 percent and 21.0 percent of our total residential mortgage-backed securities portfolio were issued and guaranteed by Fannie Mae, Ginnie Mae and Freddie Mac, respectively, at December 31, 2023. 
+
+##TABLE_START 2023 Form 10-K 64 
+
+##TABLE_END
+
+The following table presents the weighted-average yields, calculated on a yield-to-maturity basis, on the remaining contractual maturities (unadjusted for expected prepayments) of held to maturity debt securities at December 31, 2023: 
+
+##TABLE_START &#160; 0-1 year 1-5 years 5-10 years Over 10 years Total Held to maturity debt securities U.S. Treasury securities &#8212; % 3.71 % &#8212; % &#8212; % 3.71 % U.S. government agency securities &#8212; &#8212; 4.88 3.34 3.69 Obligations of states and political subdivisions: (1) 
+
+Obligations of states and state agencies 3.24 &#8212; 4.54 4.87 4.68 Municipal bonds 4.84 3.83 2.35 3.90 3.71 Total obligations of states and political subdivisions 4.21 3.83 2.87 4.12 3.92 Residential mortgage-backed securities (2) 
+
+7.05 2.86 1.94 2.88 2.87 Trust preferred securities &#8212; 8.12 7.75 7.93 7.90 Corporate and other debt securities 3.99 3.53 4.94 &#8212; 3.96 Total 4.14 % 3.65 % 3.88 % 3.06 % 3.13 % ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+(1) Average yields on obligations of states and political subdivisions are generally tax-exempt and calculated on a tax-equivalent basis using a statutory federal income tax rate of 21 percent. 
+
+(2) Residential mortgage-backed securities yields are shown using stated contractual maturity dates. 
+
+The residential mortgage-backed securities portfolio is a significant source of our liquidity through the monthly cash flow of principal and interest. Mortgage-backed securities, like all securities, are sensitive to changes in the interest rate environment, increasing and decreasing in value as interest rates fall and rise. As interest rates fall, the potential increase in prepayments can reduce the yield on the mortgage-backed securities portfolio and reinvestment of the proceeds will be at lower yields. Conversely, rising interest rates may reduce cash flows from prepayments and extend anticipated duration of these assets. We monitor the changes in interest rates, cash flows and duration, in accordance with our investment policies. Management seeks out investment securities with an attractive spread over our cost of funds. 
+
+Allowance for Credit Losses and Impairment Analysis 
+
+Available for sale debt securities. AFS debt securities in unrealized loss positions are evaluated for impairment related to credit losses at least quarterly. In assessing whether a credit loss exists, we compare the present value of cash flows expected to be collected from the security with the amortized cost basis of the security. If the present value of cash flows expected to be collected is less than the amortized cost basis for the security, a credit loss exists and an allowance for credit losses is recorded, limited to the amount that the fair value is less than the amortized cost basis. Declines in fair value that have not been recorded through an allowance for credit losses, such as declines due to changes in market interest rates, are recorded through other comprehensive income, net of applicable taxes. 
+
+We have evalua ted all AFS debt securities that are in an unrealized loss position as of December 31, 2023 and December 31, 2022 and determined that the declines in fair value are mainly attributable to changes in market volatility, due to factors such as interest rates and spread factors, but not attributable to credit quality or other factors. During the first quarter 2023, Valley recognized a credit related impairment of one corporate bond issued by Signature Bank resulting in both a provision for credit losses and full charge-off of the security totaling $5.0 million b ased on a comparison of the present value of expected cash flows to the amortized cost. The bond was subsequently sold in the fourth quarter 2023 and resulted in a $869 thousand gain. There was no other impairment recognized within the AFS debt securities portfolio during the years ended December 31, 2023, 2022 and 2021. 
+
+Valley does not intend to sell any of its AFS debt securities in an unrealized loss position prior to recovery of our amortized cost basis, and it is more likely than not that Valley will not be required to sell any of its securities prior to recovery of our amortized cost basis. None of the AFS debt securities were past due as of December 31, 2023 and there was no allowance for credit losses for AFS debt securities at December 31, 2023 and 2022 . 
+
+Held to maturity debt securities. As discussed further in Note 4 to the consolidated financial statements, Valley estimates the expected credit losses on HTM debt securities that have loss expectations using a discounted cash flow model developed by a third party. Valley has a zero-loss expectation for certain securities within the HTM portfolio, including U.S. Treasury securities, U.S. agency securities, residential mortgage-backed securities issued by Ginnie Mae, Fannie Mae and Freddie Mac, and collateralized municipal bonds. To measure the expected credit losses on HTM debt securities that have loss 
+
+##TABLE_START 65 
+
+2023 Form 10-K ##TABLE_END
+
+expectations, Valley estimates the expected credit losses using a discounted cash flow model developed by a third party. Assumptions used in the model for pools of securities with common risk characteristics include the historical lifetime probability of default and severity of loss in the event of default, with the model incorporating several economic cycles of loss history data to calculate expected credit losses given default at the individual security level. HTM debt securities were carried net of an allowance for credit losses totaling $1.2 million and $1.6 million at December 31, 2023 and 2022, respectively. There were no net charge-offs of HTM debt securities during the years ended December 31, 2023, 2022 and 2021. 
+
+Investment grades . The investment grades in the table below reflect the most current independent analysis performed by third parties of each security as of the date presented and not necessarily the investment grades at the date of our purchase of the securities. For many securities, the rating agencies may not have performed an independent analysis of the tranches owned by us, but rather an analysis of the entire investment pool. For this and other reasons, we believe the assigned investment grades may not accurately reflect the actual credit quality of each security and should not be viewed in isolation as a measure of the quality of our investment portfolio. 
+
+The following table presents available for sale and held to maturity debt investment securities by investment grades at December 31, 2023. 
+
+##TABLE_START &#160; December 31, 2023 &#160; Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value &#160; (in thousands) Available for sale investment grades:* AAA Rated $ 1,075,741 $ 747 $ (110,907) $ 965,581 AA Rated 150,038 &#8212; (22,970) 127,068 A Rated 22,129 &#8212; (2,564) 19,565 BBB Rated 94,366 &#8212; (4,825) 89,541 Not rated 112,165 &#8212; (17,344) 94,821 Total $ 1,454,439 $ 747 $ (158,610) $ 1,296,576 Held to maturity investment grades:* AAA Rated $ 3,349,758 $ 6,286 $ (420,375) $ 2,935,669 AA Rated 213,761 364 (9,896) 204,229 A Rated 3,955 1 (106) 3,850 BBB Rated 6,000 &#8212; (486) 5,514 Non-investment grade 5,330 &#8212; (803) 4,527 Not rated 161,609 &#8212; (13,086) 148,523 Total $ 3,740,413 $ 6,651 $ (444,752) $ 3,302,312 ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+* Rated using external rating agencies. Ratings categories include entire range. For example, &#8220;A Rated&#8221; includes A+, A, and A-. Split rated securities with two ratings are categorized at the higher of the rating levels. 
+
+The unrealized losses in the AAA and AA rated categories of both the AFS and HTM debt securities portfolios (in the above table) were largely related to residential mortgage-backed securities issued by Ginnie Mae, Fannie Mae and Freddie Mac and continued to be driven by the rising interest rate environment during most of 2023. 
+
+The investment securities AFS and HTM debt securities included $112.2 million and $161.6 million, respectively, of investments not rated by the rating agencies with aggregate unrealized losses of $17.3 million and $13.1 million, respectively, at December 31, 2023. The unrealized losses within non-rated AFS debt securities mostly related to several large corporate bonds negatively impacted by higher interest rates during 2023, and not changes in underlying credit. The unrealized losses within non-rated HTM debt securities mostly related to four single-issuer bank trust preferred issuances with a combined amortized cost of $36.1 million . 
+
+See Note 4 to the consolidated financial statements for additional information regarding our investment securities portfolio. 
+
+##TABLE_START 2023 Form 10-K 66 
+
+##TABLE_END
+
+Loan Portfolio 
+
+The following table reflects the composition of the loan portfolio for the years indicated. 
+
+##TABLE_START &#160; At December 31, &#160; 2023 2022 &#160; ($ in thousands) Commercial and industrial $ 9,230,543 $ 8,804,830 Commercial real estate: Commercial real estate 28,243,239 25,732,033 Construction 3,726,808 3,700,835 Total commercial real estate 31,970,047 29,432,868 Residential mortgage 5,569,010 5,364,550 Consumer: Home equity 559,152 503,884 Automobile 1,620,389 1,746,225 Other consumer 1,261,154 1,064,843 Total consumer loans 3,440,695 3,314,952 
+
+Total loans * 
+
+$ 50,210,295 $ 46,917,200 As a percent of total loans: Commercial and industrial 18.4 % 18.8 % Commercial real estate 63.7 62.7 Residential mortgage 11.1 11.4 Consumer loans 6.8 7.1 Total 100 % 100 % ##TABLE_END
+
+##TABLE_START ##TABLE_END
+
+* Includes net unearned discount and deferred loan fees of $85.4 million and $120.5 million at December 31, 2023 and 2022, respectively. Net unearned discounts and deferred loans fees include the non-credit discount on PCD loans. 
+
+Total loans increased by $3.3 billion, or 7.0 percent to $50.2 billion at December 31, 2023 from December 31, 2022 mainly as a result of well-controlled organic loan growth in the commercial real estate and most other loan categories. Loans held for sale are presented separately from total loans on the consolidated statements of financial condition totaled $30.6 million and $18.1 million at December 31, 2023 and 2022, respectively. During the year ended December 31, 2023, we transferred a non-performing construction loan totaling $10.0 million, net of $4.2 million charge-offs from the held for investment loan portfolio to loans held for sale. See Note 3 for additional information regarding loans held for sale. 
+
+Commercial and industrial loans increased $425.7 million to $9.2 billion at December 31, 2023 from December 31, 2022. The organic and diverse growth was mainly a result of new loan volumes from our pre-existing long-term customer base , as well as the continued efforts of our commercial banking relationship teams. 
+
+Commercial real estate loans (excluding construction loans) increased $2.5 billion to $28.2 billion at December 31, 2023 from December 31, 2022, mainly reflecting new originations across our geographic market areas . Our organic approach to growth is a balance of loan production through expansion of lending with our existing clients and establishing new relationships with key players in our marketplaces. Overall, commercial real estate loans are well-diversified across our footprint areas in Florida, Alabama, New Jersey, New York and Manhattan with a combined weighted average loan to value ratio of 57 percent and debt service coverage ratio of 1.67. 
+
+Construction loans increased only $26.0 million to $3.7 billion at December 31, 2023 from December 31, 2022 due to highly selective underwriting of new projects in 2023 and advances on both new and pre-existing projects being partially offset by the migration of completed projects to permanent financing. 
+
+Residential mortgage loans totaled $5.6 billion at December 31, 2023 and increased $204.5 million from December 31, 2022 primarily due to continued retention of a higher percentage of new loan volumes for investment rather than for sale, combined with lower prepayment activity. New and refinanced residential mortgage loan originations totaled $649.9 million for the year ended December 31, 2023 as compared to $1.7 billion in 2022. During 2023, we retained approximately 69 percent of the total residential mortgages originations in our held for investment loan portfolio. The volume of primarily new loan 
+
+##TABLE_START 67 
+
+2023 Form 10-K ##TABLE_END
+
+applications has continued to be relatively low in the early stages of the first quarter 2024 largely due to the higher level of mortgage interest rates and this may continue to challenge our ability to grow this loan category. 
+
+Consumer loans increased $125.7 million to $3.4 billion at December 31, 2023 from December 31, 2022 mainly due to increases in other consumer and home equity, partially offset by lower volumes of automobile loans. Other consumer loans increased $196.3 million to $1.3 billion at December 31, 2023 as compared to 2022 primarily due to solid d emand and utilization of collateralized personal lines of credit during the first half of 2023 and slowing in the latter half of 2023 due to rising interest rates. Home equity loans increased $55.3 million to $559.2 million at December 31, 2023 from $503.9 million at December 31, 2022 largely due to moderate increases in pre-existing line utilization, while new home equity loan originations remain challenged due to the unfavorable high interest rate environment . Automobile loans decreased $125.8 million or 7.2 percent to $1.6 billion at December 31, 2023 from December 31, 2022 as a modest uptick in new indirect auto loan volumes from our dealership network and commercial vehicle financing did not keep pace with the portfolio repayment activity during 2023 . We anticipate that the current level of average new and used vehicle prices coupled with high market interest rates could deter consumer demand and continue to have a negative impact on our ability to grow this loan category during the first quarter 2024. 
+
+A significant part of our lending is in northern and central New Jersey, New York City, Long Island and Florida. To mitigate our geographic risks, we make efforts to maintain a diversified portfolio as to type of borrower and loan to guard against a potential downward turn in any one economic sector. 
+
+Looking forward to 2024, we expect to remain highly selective on new loan originations and generally supportive of compelling projects led by our high quality and tenured customer base. We also intend to focus greater efforts on commercial and industrial loan and owner-occupied commercial real estate loan growth with a moderate de-emphasis on growth in other types of commercial real estate lending. For 2024, we are targeting well-controlled loan growth in the range of 5 to 7 percent based on total loans of $50.2 billion at December 31, 2023. However, there can be no assurance that we will achieve such levels given the potential for unforeseen changes in the market and other conditions detailed in our risk factors set forth under Item 1A. Risk Factors of this Report. 
+
+The following table presents the contractual maturity distribution of loans by category at December 31, 2023: &#160; 
+
+##TABLE_START 1 Year or Less 1 to 5 Years 5 to 15 Years Over 15 Years Total &#160; (in thousands) Commercial and industrial $ 2,574,855 $ 3,801,154 $ 2,606,088 $ 248,446 $ 9,230,543 Commercial real estate 3,067,357 10,427,068 12,000,576 2,748,238 28,243,239 Construction 1,569,622 1,579,149 366,072 211,965 3,726,808 Residential mortgage 117,816 196,984 464,646 4,789,564 5,569,010 Consumer 74,503 1,092,483 2,211,314 62,395 3,440,695 Total loans $ 7,404,153 $ 17,096,838 $ 17,648,696 $ 8,060,608 $ 50,210,295 ##TABLE_END
+
+We may renew loans at maturity when requested by a customer. In such instances, we generally conduct a review which includes an analysis of the borrower&#8217;s financial condition and, if applicable, a review of the adequacy of collateral via a new appraisal from an independent, bank approved, certified or licensed property appraiser or readily available market resources. A rollover of the loan at maturity may require a principal reduction or other modified terms. 
+
+The following table presents the contractual maturities after one year for fixed and adjustable rate loans within each loan category at December 31, 2023: &#160; 
+
+##TABLE_START Loans Maturing After One Year Fixed Rate Adjustable Rate Total &#160; (in thousands) Commercial and industrial $ 2,534,762 $ 4,120,926 $ 6,655,688 Commercial real estate 10,049,760 15,126,122 25,175,882 Construction 359,553 1,797,633 2,157,186 Residential mortgage 4,197,251 1,253,943 5,451,194 Consumer 1,753,757 1,612,435 3,366,192 Total loans $ 18,895,083 $ 23,911,059 $ 42,806,142 ##TABLE_END
+
+##TABLE_START 2023 Form 10-K 68 
+
+##TABLE_END
+
+Non-performing Assets 
+
+NPAs include non-accrual loans, OREO, and other repossessed assets (which consist of automobiles and taxi medallions) at December 31, 2023. Loans are generally placed on non-accrual status when they become past due in excess of 90 days as to payment of principal or interest. Exceptions to the non-accrual policy may be permitted if the loan is sufficiently collateralized and in the process of collection. OREO is acquired through foreclosure on loans secured by land or real estate. OREO and other repossessed assets are reported at the lower of cost or fair value, less cost to sell. 
+
+NPAs totaling $293.4 million at December 31, 2023 increased $21.4 million, or 7.9 percent, from December 31, 2022 (as shown in the table below). NPAs as a percentage of total loans and NPAs totaled 0.58 percent at both December 31, 2023 and 2022. We believe o ur total NPAs has remained low as a percen tage of the total loan portfolio and the level of NPAs is reflective of our consistent approach to the loan underwriting criteria for both Valley originated loans and loans purchased from third parties. For additional details, see the &#8220;Credit quality indicators&#8221; section in Note 5 to the consolidated financial statements. 
+
+Our lending strategy is based on underwriting standards designed to maintain high credit quality and we remain optimistic regarding the overall future performance of our loan portfolio. During the year ended December 31, 2023, most of our credit trends have remained relatively stable, and the majority of our borrowers continued to demonstrate resilience despite the impact of higher borrowing costs, elevated inflation, labor costs and other factors. We continue to proactively monitor our commercial loans for potential negative trends/borrower weakness due to the current operating environment and internally risk rate them accordingly. However, management cannot provide assurance that the non-performing assets will not materially increase from the levels reported at December 31, 2023 due to the aforementioned or other factors potentially impacting our lending customers. 
+
+##TABLE_START 69 
+
+2023 Form 10-K ##TABLE_END
+
+The following table sets forth by loan category, accruing past due and non-performing assets on the dates indicated in conjunction with our asset quality ratios: 
+
+##TABLE_START &#160; At December 31, &#160; 2023 2022 &#160; ($ in thousands) Accruing past due loans 30 to 59 days past due: Commercial and industrial $ 9,307 $ 11,664 Commercial real estate 3,008 6,638 Residential mortgage 26,345 16,146 Total consumer 20,554 9,087 Total 30 to 59 days past due 59,214 43,535 60 to 89 days past due: Commercial and industrial 5,095 12,705 Commercial real estate 1,257 3,167 Residential mortgage 8,200 3,315 Total consumer 4,715 1,579 Total 60 to 89 days past due 19,267 20,766 90 or more days past due: Commercial and industrial 5,579 18,392 Commercial real estate &#8212; 2,292 Construction 3,990 3,990 Residential mortgage 2,488 1,866 Total consumer 1,088 47 Total 90 or more days past due 13,145 26,587 Total accruing past due loans $ 91,626 $ 90,888 Non-accrual loans: Commercial and industrial $ 99,912 $ 98,881 Commercial real estate 99,739 68,316 Construction 60,851 74,230 Residential mortgage 26,986 25,160 Total consumer 4,383 3,174 Total non-accrual loans 291,871 269,761 Other real estate owned (OREO) 71 286 Other repossessed assets 1,444 1,937 Total non-performing assets (NPAs) $ 293,386 $ 271,984 Total non-accrual loans as a % of loans 0.58 % 0.57 % Total NPAs as a % of loans and NPAs 0.58 0.58 Total accruing past due and non-accrual loans as a % of loans 
+
+0.76 0.77 Allowance for loan losses as a % of non-accrual loans 
+
+152.83 170.02 ##TABLE_END
+
+Loans past due 30 to 59 days increased $15.7 million to $59.2 million at December 31, 2023 as compared to December 31, 2022. The increase within this early stage delinquency category was mainly due to higher secured consumer and residential mortgage loans delinquencies, partially offset by declines in commercial real estate and commercial and industrial loan delinquencies. 
+
+Loans past due 60 to 89 days decreased $1.5 million to $19.3 million at December 31, 2023 as compared to December 31, 2022 mostly due to lower commercial and industrial and commercial real estate loan delinquencies which were largely offset by increases in residential mortgage and consumer loans within this delinquency category. 
+
+##TABLE_START 2023 Form 10-K 70 
+
+##TABLE_END
+
+Loans 90 days or more past due and still accruing decreased $13.4 million to $13.1 million at December 31, 2023 as compared to December 31, 2022 mainly due to decreases in commercial and industrial and commercial real estate loan delinquencies within this category. All the loans past due 90 days or more and still accruing are considered to be well secured and in the process of collection. 
+
+Non-accrual loans increased $22.1 million to $291.9 million at December 31, 2023 as compared to December 31, 2022 mainly driven by increases in construction and commercial real estate non-accrual loans. Construction non-accrual loans at December 31, 2023 included a non-performing loan totaling $10.0 million transferred to loans held for sale during the second quarter 2023. N on-accrual commercial real estate loans at December 31, 2023 included two loans totaling $14.5 million and $9.1 mil lion, respectively. The $9.1 mil lion loan was net of partial charge-offs of $1.5 million and was paid off in early January 2024. The increases within the n on-accrual commercial real estate category were partially offset by full repayments of two loans totaling $12.7 million during 2023. 
+
+Non-performing taxi medallion loans included in non-accrual commercial and industrial loans totaled $62.3 million at December 31, 2023 and had related reserves of $37.7 million, or 60.5 percent of such loans, within the allowance for loan losses as compared to $66.5 million of loans with related reserves of $42.2 million at December 31, 2022 . During 2023, we closely monitored the performance of our taxi medallion loans (primarily collateralized by New York City medallions). Due to the challenging operating environment for ride services and uncertain borrower performance, all of the taxi medallion loans remain on non-accrual status at December 31, 2023. Potential further declines in the market valuation of taxi medallions and the c urrent operating environment mainly within New York City may negatively impact the performance of this portfolio. 
+
+Although the timing of collection is uncertain, management believes that the majority of the non-accrual loans at December 31, 2023, are well secured and largely collectible, based in part on our quarterly review of collateral dependent loans and the valuation of the underlying collateral, if applicable. Any estimated shortfall in each collateral valuation results in an allocation of specific reserves within our allowance for credit losses for loans. If interest on non-accrual loans had been accrued in accordance with the original contractual terms, such interest income would have amounted to approximately $28.8 million , $21.7 million and $7.1 million for the years ended December 31, 2023, 2022 and 2021, respectively; none of these amounts were included in interest income during these periods. 
+
+Asset Concentration and Risk Elements 
+
+Most of our lendin g is within our primary markets located in northern and central New Jersey, New York City , Long Island, Westchester County, New York and Florida, and, to a lesser extent, Alabama, California and Illinois . As part of our business strategy, we have expanded commercial real estate lending to new customers in a few targeted states beyond our geographic footprint. In addition to our primary markets, automobile loans are mostly originated in several other contiguous states. To mitigate our geographic risks, we make efforts to maintain a diversified portfolio as to type of borrower and loan to guard against a potential downward turn in any one economic sector. Due to the level of our underwriting standards applied to all loans, management believes the out of market loans generally present no more risk than those made within the market. However, each loan or group of loans made outside of our primary markets poses different geographic risks based upon the economy of that particular region. 
+
+For our commercial loan portfolio, comprised of commercial and industrial loans, commercial real estate loans, and construction loans, a separate credit department is responsible for risk assessment and periodically evaluating overall creditworthiness of a borrower. Additionally, efforts are made to limit concentrations of credit to minimize the impact of a downturn in any one economic sector. We believe our loan portfolio is diversified as to type of borrower and loan. However, loans collateralized by real estate represent approximately 76 percent of total loans at December 31, 2023. Most of the loans collateralized by real estate are in New Jersey, New York and Florida presenting a geographical credit risk if there was a further significant broad-based deterioration in economic conditions within these regions. See Item 1A. Risk Factors&#8212;&#8220;Risks Related to the Operating Environment.&#8221; 
+
+Additionally, our commercial real estate portfolio includes credit risk exposures to loans collateralized by office buildings and multifamily properties in Manhattan and other markets. At December 31, 2023, total commercial real estate loans collateralized by office buildings were approxima tely $3.3 billion (including approximately $268.6 million located in Manhattan) of the total $28.2 billion portfolio. The majority of the office space loans are multi-tenant and dispersed geographically in Florida, Alabama, New Jersey and New York. Multifamily loans within the portfolio totaled $8.8 billion at December 31, 2023, including approximately $421 million of loan exposures to fully rent regulated buildings mainly in Manhattan . We continue to closely monitor these loan types for elevated risks or weaknesses, and internally risk rate and reserve for the loans in our allowance for loan losses accordingly. 
+
+Consumer loans are comprised of residential mortgage loans, home equity loans, automobile loans and other consumer loans. Residential mortgage loans are secured by 1-4 family properties mostly located in New Jersey, New York and Florida. 
+
+##TABLE_START 71 
+
+2023 Form 10-K ##TABLE_END
+
+We do provide mortgage loans secured by homes beyond this primary geographic area; however, lending outside this primary area has generally consisted of loans made in support of existing customer relationships, as well as targeted purchases of certain loans guaranteed by third parties. Our mortgage loan originations are comprised of both jumbo (i.e., loans with balances above conventional conforming loan limits) and conventional loans based on underwriting standards that generally comply with Fannie Mae and/or Freddie Mac requirements. The weighted average loan-to-value ratio of all residential mortgage originations in 2023 wa s 73.4 percent while FICO &#174; (independent objective criteria measuring the creditworthiness of a borrower) scores averaged 755. Home equity and automobile loans are secured loans and are made based on an evaluation of the collateral and the borrower&#8217;s cr editworthiness. 
+
+Management realizes that some degree of risk must be expected in the normal course of lending activities. Allowances are maintained to absorb such lifetime expected credit losses inherent in the portfolio. 
+
+See the &#8220;Loan Portfolio Risk Elements and Credit Risk Management&#8221; section in Note 5 to the consolidated financial statements for additional information. 
+
+Allowance for Credit Losses 
+
+The ACL for loans includes the allowance for loan losses and the reserve for unfunded credit commitments. Under CECL, our methodology to establish the allowance for loan losses has two basic components: (i) a collective reserve component for estimated expected credit losses for pools of loans that share common risk characteristics and (ii) an individual reserve component for loans that do not share risk characteristics, consisting of collateral dependent loans. Valley also maintains a separate allowance for unfunded credit commitments mainly consisting of undisbursed non-cancellable lines of credit, new loan commitments and commercial standby letters of credit. 
+
+Valley estimates the collective ACL using a current expected credit losses methodology which is based on relevant information about historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the loan balances. In estimating the component of the allowance on a collective basis, we use a transition matrix model which calculates an expected life of loan loss percentage for each loan pool by generating probability of default and loss given default metrics. The metrics are based on the migration of loans within the commercial and industrial loan categories from performing to loss by credit quality rating or delinquency categories using historical life-of-loan analysis periods for each loan portfolio pool and the severity of loss based on the aggregate net lifetime losses. The model's expected losses based on loss history are adjusted for qualitative factors. Among other things, these adjustments include and account for differences in: (i) the impact of the reasonable and supportable economic forecast, relative probability weightings and reversion period, (ii) other asset specific risks to the extent that they do not exist in the historical loss information, and (iii) net expected recoveries of charged-off loan balances. These adjustments are based on qualitative factors not reflected in the quantitative model but are likely to impact the measurement of estimated credit losses. The expected lifetime loss rate is the life of loan loss percentage from the transition matrix model plus the impact of the adjustments for qualitative factors. The expected credit losses are the product of multiplying the model&#8217;s expected lifetime loss rate by the exposure at default at period end on an undiscounted basis. 
+
+Valley utilizes a two-year reasonable and supportable forecast period followed by a one-year period over which estimated losses revert to historical loss experience for the remaining life of the loan on a straight-line basis. The forecasts consist of a multi-scenario economic forecast model to estimate future credit losses and are governed by a cross-functional committee. The committee meets each quarter to determine which economic scenarios developed by Moody's will be incorporated into the model, as well as the relative probability weightings of the selected scenarios, based upon all readily available information. The model projects economic variables under each scenario based on detailed statistical analyses. We have identified and selected key variables that most closely correlated to our historical credit performance, which include: GDP, unemployment and the Case-Shiller Home Price Index. 
+
+Valley maintained the majority of its probability weighting used in the economic forecast to the Moody&#8217;s Baseline scenario with less emphasis on the S-3 downside and S-4 adverse scenarios at December 31, 2022. During 2023, Valley continued to maintain the majority of its probability weighting to the Moody&#8217;s Baseline scenario with slightly less emphasis on the S-3. At December 31, 2023, we removed the S-4 adverse scenario and added modest weighting to the Moody's S-1 upside scenario given a trend in positive several economic indicators and a decline in the perceived risk in the marketplace of a potential recession. At December 31, 2023, the standalone Moody's Baseline scenario, reflected a more optimistic outlook as compared at December 31, 2022 in terms of most metrics highlighted below. 
+
+At December 31, 2023, the Moody's Baseline forecast included the following specific assumptions: 
+
+&#8226; GDP expansion by about 1.1 percent in the first quarter 2024 ; 
+
+##TABLE_START 2023 Form 10-K 72 
+
+##TABLE_END
+
+&#8226; Unemployme nt of 3.9 percent in the first quarter 2024 and approximately 4.0 to 4.1 percent over the remainder of the forecast period ending in the fourth quarter 2025; 
+
+&#8226; Interest rates are expected to begin decreasing by June 2024; 
+
+&#8226; The Federal Reserve opted to pause its rate h ikes, keeping the federal funds rate at 5.25 - 5.50 percent with possible cuts totaling 0.75 percent in 2024; and 
+
+&#8226; Inflation moderately cooled to 3.7 percent in the fourth quarter 2023. 
+
+The allowance for credit losses for loans methodology and accounting policy are fully described in Note 1 to the consolidated financial statements. 
+
+The following table summarizes the relationship among loans, loans charged-off, loan recoveries, the provision for credit losses and the allowance for credit losses for the years indicated: ##TABLE_START &#160; Years Ended December 31, &#160; 2023 2022 2021 Allowance for credit losses for loans ($ in thousands) Beginning balance $ 483,255 $ 375,702 $ 351,354 Impact of the adoption of ASU No. 2022-02 (1) 
+
+(1,368) &#8212; &#8212; Allowance for purchased credit deteriorated (PCD) loans (2) 
+
+&#8212; 70,319 6,542 Beginning balance, adjusted 481,887 446,021 357,896 Loans charged-off: Commercial and industrial (48,015) (33,250) (21,507) Commercial real estate (11,134) (4,561) (382) Construction (11,812) &#8212; &#8212; Residential mortgage (194) (28) (140) Total Consumer (4,298) (4,057) (4,303) Total loan charge-offs (75,453) (41,896) (26,332) Charged-off loans recovered: Commercial and industrial 11,270 17,081 3,934 Commercial real estate 34 2,073 2,553 Construction &#8212; &#8212; 4 Residential mortgage 201 711 676 Total Consumer 1,986 2,929 4,075 Total loans recovered 13,491 22,794 11,242 Total net loan charge-offs (61,962) (19,102) (15,090) Provision for credit losses for loans 45,625 56,336 32,896 Ending balance $ 465,550 $ 483,255 $ 375,702 Components of allowance for credit losses for loans: Allowance for loan losses $ 446,080 $ 458,655 $ 359,202 Allowance for unfunded credit commitments 19,470 24,600 16,500 Allowance for credit losses for loans $ 465,550 $ 483,255 $ 375,702 Components of provision for credit losses for loans: Provision for credit losses for loans $ 50,755 $ 48,236 $ 27,507 (Credit) provision for unfunded credit commitments 
+
+(5,130) 8,100 5,389 Total provision for credit losses for loans $ 45,625 $ 56,336 $ 32,896 Allowance for credit losses for loans as a % of total loans 
+
+0.93 % 1.03 % 1.10 % ##TABLE_END
+
+##TABLE_START ##TABLE_END##TABLE_START (1) Represents the opening adjustment for the adoption of ASU No. 2022-02 effective January 1, 2023. 
+
+(2) Represents the allowance for acquired PCD loans. For 2022, the allowance for acquired PCD loans is net of PCD loan charge-offs totaling $62.4 million in the second quarter 2022. 
+
+##TABLE_END
+
+##TABLE_START 73 
+
+2023 Form 10-K ##TABLE_END
+
+The following table presents the relationship among net loans charged-off and recoveries, and average loan balances outstanding for the years indicated: 
+
+##TABLE_START &#160; Years Ended December 31, &#160; 2023 2022 2021 &#160; ($ in thousands) Net loan (charge-offs) recoveries Commercial and industrial $ (36,745) $ (16,169) $ (17,573) Commercial real estate (11,100) (2,488) 2,171 Construction (11,812) &#8212; 4 Residential mortgage 7 683 536 Total consumer (2,312) (1,128) (228) Total $ (61,962) $ (19,102) $ (15,090) Average loans outstanding Commercial and industrial $ 8,999,783 $ 7,691,496 $ 6,334,612 Commercial real estate 27,610,042 23,127,504 17,444,293 Construction 3,849,473 2,977,688 1,775,272 Residential mortgage 5,498,563 4,899,854 4,401,881 Total consumer 3,394,000 3,233,811 2,860,927 Total $ 49,351,861 $ 41,930,353 $ 32,816,985 Net loan charge-offs (recoveries) to average loans outstanding Commercial and industrial 0.41% 0.21% 0.28% Commercial real estate 0.04 0.01 (0.01) Construction 0.31 0.00 0.00 Residential mortgage 0.00 (0.01) (0.01) Total consumer 0.07 0.03 0.01 Total net loan charge-offs to total average loans outstanding 0.13 0.05 0.05 ##TABLE_END
+
+Net loan charge-offs increased $42.9 million to $62.0 million in 2023 as compared to $19.1 million in 2022 primarily due to higher gross loan charge-offs within commercial loan categories. Gross commercial and industrial loan char ge-offs totaling $48.0 million for the year ended December 31, 2023 included (i) the $19.7 million loan charge-off of a single non-performing loan that was fully reserved for in our allowance for loan losses and (ii) a few larger partial loan charge-offs, including approximately $8.2 million of gross loan charge-offs related to our premium finance lending business expected to be sold during the first quarter 2024. Gross construction loan charge-offs totaling $11.8 million for the year ended December 31, 2023 included the $4.2 million fully reserved partial charge-off related to the valuation of a non-performing construction loan transferred from the held for investment loan portfolio to loans held for sale during the second quarter 2023. 
+
+While elevated as compared with the low levels of net charge-offs experienced in 2022 and 2021, the overall level of net loan charge-offs (as presented in the above table) for the year ended December 31, 2023 continued to largely trend within management's expectations for the credit quality of the loan portfolio during 2023. 
+
+##TABLE_START 2023 Form 10-K 74 
+
+##TABLE_END
+
+The following table summarizes the allocation of the allowance for credit losses to specific loan portfolio categories for the years ended December 31, 2023 and 2022: 
+
+##TABLE_START &#160; 2023 2022 &#160; Allowance Allocation Percent of Loan Category to Total Loans Allowance Allocation Percent of Loan Category to Total Loans &#160; ($ in thousands) Loan Category: Commercial and industrial $ 133,359 18.4 % $ 140,008 18.8 % Commercial real estate: Commercial real estate 194,820 56.3 200,248 54.8 Construction 54,778 7.4 58,987 7.9 Total commercial real estate 249,598 63.7 259,235 62.7 Residential mortgage 42,957 11.1 39,020 11.4 Total consumer 20,166 6.8 20,392 7.1 Total allowance for loan losses 446,080 100.0 % 458,655 100.0 % Allowance for unfunded credit commitments 19,470 24,600 Total allowance for credit losses for loans $ 465,550 $ 483,255 ##TABLE_END
+
+The allowance for credit losses for loans, comprised of our allowance for loan losses and unfunded credit commitments (including letters of credit), as a percentage of total loans was 0.93 percent at December 31, 2023 and 1.03 percent at December 31, 2022. The allowance for credit losses for loans decreased $17.7 million at December 31, 2023 as compared to December 31, 2022. The decrease was due, in part, to (i) lower qualitative non-economic reserves for certain acquired commercial loan portfolios largely caused by the passage of time and better than expected credit loss experience since their acquisition dates, (ii) a decline in specific reserves for collateral dependent loans and (iii) a decrease in the allowance for unfunded credit commitments . 
+
+The provision for credit losses for loans totaled $45.6 million and $56.3 million for the year ended December 31, 2023 and 2022, respectively. During 2023, we recorded a negative (credit) provision for unfunded credit commitments mostly due to a decline in these obligations as compared to prior year. During 2022, the provision for credit losses for loans included $36.3 million and $4.7 million of provision related to non-PCD loans and unfunded credit commitments, respectively, acquired from Bank Leumi USA. 
+
+See Note 5 to the consolidated financial statements for additional information regarding our allowance for credit losses for loans. 
+
+Loan Repurchase Contingencies 
+
+We engage in the origination of residential mortgages for sale into the secondary market. Our loan sales totaled approximately $202.5 million, $385.5 million and $1.2 billion for 2023, 2022 and 2021, respectively. The level of loan sales is impacted by several factors, including consumer demand and preferences for certain mortgage products and our management of the interest rate risk and the mix of the interest earning assets on our balance sheet. During 2023 and 2022, loan sales were significantly lower than 2021 largely due to a reduction in our conforming new and refinanced loan originations caused by the higher level of mortgage interest rates and reduced consumer demand. 
+
+In connection with loan sales, we make representations and warranties, which, if breached, may require us to repurchase such loans, substitute other loans or indemnify the purchasers of such loans for actual losses incurred due to such loans. However, the performance of our loans sold has been historically strong due to our strict underwriting standards and procedures. Over the past several years, we have experienced a nominal amount of repurchase requests, only a few of which have actually resulted in repurchases by Valley (only three loan repurchases in 2023 and ten loan repurchases in 2022 ). None of the loan repurchases resulted in material loss. Ac cordingly, no reserves pertaining to loans sold were established on our consolidated financial statements a t December 31, 2023 and 2022. See Item 1A. Risk Factors &#8212;&#8220;We may incur future losses in connection with repurchases and indemnification payments related to mortgages that we have sold into the secondary market&#8221; for additional information. 
+
+##TABLE_START 75 
+
+2023 Form 10-K ##TABLE_END
+
+Capital Adequacy 
+
+A significant measure of the strength of a financial institution is its shareholders&#8217; equity. At December 31, 2023 and 2022, shareholders&#8217; equity totaled approximately $6.7 billion and $6.4 billion, or 11.0 percent and 11.1 percent of total assets, respectively. 
+
+During 2023, total shareholders&#8217; equity increased by $300.6 million primarily due to the following: 
+
+&#8226; net income of $498.5 million, 
+
+&#8226; a $23.8 million increase attributable to the effect of share issuances under our stock incentive plan, 
+
+&#8226; a net gain of $17.5 million recorded in accumulated comprehensive loss, 
+
+&#8226; the additional capital issued totaling $3.8 million, and 
+
+&#8226; a $990 thousand net cumulative effect adjustment to retained earnings for the adoption of ASU 2022-02. 
+
+These positive changes were partially offset by: 
+
+&#8226; cash dividends declared on common and preferred stock totaling a combined $241.9 million and 
+
+&#8226; repurchases of $2.1 million of our common stock with these shares held as treasury stock. 
+
+Valley and the Bank are subject to the regulatory capital requirements administered by the Federal Reserve and the OCC. Quantitative measures established by regulation to ensure capital adequacy require Valley and the Bank to maintain minimum amounts and ratios of common equity Tier 1 capital, total and Tier 1 capital to risk-weighted assets, and Tier 1 capital to average assets, as defined in the regulations. 
+
+The following table presents the capital guidelines and actual ratios applicable to Valley as of December 31, 2023 and 2022: 
+
+##TABLE_START 
+
+Actual Ratio Minimum Ratio 
+
+Minimum Ratio plus Capital Conservation Buffer 
+
+2023 2022 
+
+Total Risk-based Capital 
+
+8.0 % 10.5 % 11.76 % 11.63 % 
+
+Common Equity Tier 1 Capital 
+
+4.5 7.0 9.29 9.01 Tier 1 Risk-based Capital 6.0 8.5 9.72 9.46 
+
+Tier 1 Leverage Capital 
+
+4.0 N/A 
+
+8.16 8.23 ##TABLE_END
+
+As of December 31, 2023 and 2022, Valley and the Bank exceeded all capital adequacy requirements. See Note 17 to the consolidated financial statements for Valley&#8217;s and the Bank&#8217;s regulatory capital positions and capital ratios. 
+
+For regulatory capital purposes, in accordance with the Federal Reserve Board&#8217;s final rule issued on August 26, 2020, we deferred 100 percent of the CECL Day 1 impact to shareholders' equity plus 25 percent of the reserve build (i.e., provision for credit losses less net charge-offs) for a two-year period ending January 1, 2022. On January 1, 2022, the deferral amount totaling $47.3 million after-tax started to be phased-in by 25 percent and will increase 25 percent per year until fully phased-in on January 1, 2025. As of December 31, 2023, approximately $23.6 million of the $47.3 million deferral amount was recognized as a reduction to regulatory capital and, as a result, decreased our risk-based capital ratios by approximately 6 basis points. 
+
+Typically, our primary source of capital growth is through retention of earnings. Our rate of earnings retention is derived by dividing undistributed earnings per common share by earnings (or net income available to common shareholders) per common share. Our retention ratio was 53.7 percent and 61.4 percent for the years ended December 31, 2023 and 2022, respectively. 
+
+Cash dividends declared amounted to $0.44 per common share for both years ended December 31, 2023 and 2022. The Board is committed to examining and weighing relevant facts and considerations, including its commitment to shareholder value, each time it makes a cash dividend decision. The Federal Reserve has cautioned all bank holding companies about distributing dividends which may reduce the level of capital or not allow capital to grow considering the increased capital levels as required under the Basel III rules. Prior to the date of this filing, Valley has received no objection or adverse guidance from the Federal Reserve or the OCC regarding the current level of its quarterly common stock dividend. However, the Federal Reserve has reiterated its long-standing guidance in recent years that banking organizations should consult them before declaring dividends in excess of earnings for the corresponding quarter. The renewed guidance was largely due to the increased 
+
+##TABLE_START 2023 Form 10-K 76 
+
+##TABLE_END
+
+risk of the COVID-19 pandemic and other factors negatively impacting the future level of bank earnings. See Item 1A. Risk Factors of this Report for additional information. 
+
+We may from time to time offer and sell in one or more offerings, individually or in any combination, our common stock, preferred stock and other non-equity securities in order to pursue growth opportunities that may become available in the future and comply with any changes in the regulatory environment that call for increased capital requirements. Valley&#8217;s ability, and any decision to issue and sell securities, is subject to market conditions and Valley&#8217;s capital needs at such time. Additional equity offerings may dilute the holdings of our existing shareholders or reduce the market price of our common stock, or both. Such offerings may be necessary in the future due to several reasons beyond management&#8217;s control, including numerous external factors that could negatively impact the strength of the U.S. economy or our ability to maintain or increase the level of our net income. See Note 18 to the consolidated financial statements for additional information on Valley&#8217;s common and preferred stock. 
+
+##TABLE_START 

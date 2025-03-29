@@ -1,0 +1,824 @@
+ Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+INTRODUCTION 
+
+The Charles Schwab Corporation (CSC) is a savings and loan holding company. CSC engages, through its subsidiaries (collectively referred to as Schwab or the Company), in wealth management, securities brokerage, banking, asset management, custody, and financial advisory services. 
+
+Principal business subsidiaries of CSC include the following: 
+
+&#8226; Charles Schwab &#38; Co., Inc. (CS&#38;Co), incorporated in 1971, a securities broker-dealer; 
+
+&#8226; TD Ameritrade, Inc., an introducing securities broker-dealer; 
+
+&#8226; TD Ameritrade Clearing, Inc. (TDAC), a securities broker-dealer that provides trade execution and clearing services to TD Ameritrade, Inc.; 
+
+&#8226; Charles Schwab Bank, SSB (CSB), our principal banking entity; and 
+
+&#8226; Charles Schwab Investment Management, Inc. (CSIM), the investment advisor for Schwab&#8217;s proprietary mutual funds (Schwab Funds &#174; ) and for Schwab&#8217;s exchange-traded funds (Schwab ETFs &#8482; ). 
+
+Unless otherwise indicated, the terms &#8220;Schwab,&#8221; &#8220;the Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; or &#8220;our&#8221; mean CSC together with its consolidated subsidiaries. 
+
+Schwab provides financial services to individuals and institutional clients through two segments &#8211; Investor Services and Advisor Services. The Investor Services segment provides retail brokerage, investment advisory, and banking and trust services to individual investors, and retirement plan services, as well as other corporate brokerage services, to businesses and their employees. The Advisor Services segment provides custodial, trading, banking and trust, and support services, as well as retirement business services, to independent registered investment advisors (RIAs), independent retirement advisors, and recordkeepers. 
+
+Schwab was founded on the belief that all Americans deserve access to a better investing experience. Although much has changed in the intervening years, our purpose remains clear &#8211; to champion every client&#8217;s goals with passion and integrity. Guided by this purpose and our vision of creating the most trusted leader in investment services, management has adopted a strategy described as &#8220;Through Clients&#8217; Eyes.&#8221; 
+
+This strategy emphasizes placing clients&#8217; perspectives, needs, and desires at the forefront. Because investing plays a fundamental role in building financial security, we strive to deliver a better investing experience for our clients &#8211; individual investors and the people and institutions who serve them &#8211; by disrupting longstanding industry practices on their behalf and providing superior service. We also aim to offer a broad range of products and solutions to meet client needs with a focus on transparency, value, and trust. In addition, management works to couple Schwab&#8217;s scale and resources with ongoing expense discipline to keep costs low and ensure that products and solutions are affordable as well as responsive to client needs. In combination, these are the key elements of our &#8220;no trade-offs&#8221; approach to serving investors. We believe that following this strategy is the best way to maximize our market valuation and stockholder returns over time. 
+
+Management estimates that investable wealth in the United States (U.S.) (consisting of assets in defined contribution, retail wealth management and brokerage, and registered investment advisor channels, along with bank deposits) currently exceeds $60 trillion, which means the Company&#8217;s $6.64 trillion in client assets leaves substantial opportunity for growth. Our strategy is based on the principle that developing trusted relationships will translate into more assets from both new and existing clients, ultimately driving more revenue, and along with expense discipline and thoughtful capital management, will generate earnings growth and build long-term stockholder value. 
+
+This Management&#8217;s Discussion and Analysis should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended December 31, 2021 (2021 Form 10-K). 
+
+On our website, https://www.aboutschwab.com , we post the following filings after they are electronically filed with or furnished to the Securities and Exchange Commission (SEC or Commission): annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) 
+
+- 1 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+or 15(d) of the Securities Exchange Act of 1934. In addition, the website also includes the Dodd-Frank stress test results, our regulatory capital disclosures based on Basel III, and our average liquidity coverage ratio (LCR). The SEC maintains a website at https://www.sec.gov that contains reports, proxy statements, and other information that we file electronically with them. 
+
+FORWARD-LOOKING STATEMENTS 
+
+In addition to historical information, this Quarterly Report on Form 10-Q contains &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements are identified by words such as &#8220;believe,&#8221; &#8220;anticipate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;plan,&#8221; &#8220;will,&#8221; &#8220;may,&#8221; &#8220;estimate,&#8221; &#8220;appear,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;expand,&#8221; &#8220;aim,&#8221; &#8220;maintain,&#8221; &#8220;continue,&#8221; &#8220;seek,&#8221; and other similar expressions. In addition, any statements that refer to expectations, projections, or other characterizations of future events or circumstances are forward-looking statements. 
+
+These forward-looking statements, which reflect management&#8217;s beliefs, objectives, and expectations as of the date hereof, are estimates based on the best judgment of Schwab&#8217;s senior management. These statements relate to, among other things: 
+
+&#8226; Maximizing our market valuation and stockholder returns over time; our belief that developing trusted relationships will translate into more client assets which drives revenue and, along with expense discipline and thoughtful capital management, generates earnings growth and builds stockholder value (see Introduction in Part I &#8211; Item 2); 
+
+&#8226; Investments to support growth in our client base (see Overview); 
+
+&#8226; Tier 1 Leverage Ratio operating objective (see Overview and Capital Management); 
+
+&#8226; Expected timing for the TD Ameritrade client conversions; cost estimates and timing related to the TD Ameritrade integration, including acquisition and integration-related costs and capital expenditures, cost synergies, and exit and other related costs (see Overview and Exit and Other Related Liabilities in Part I &#8211; Item 1 &#8211; Financial Information &#8211; Notes to Condensed Consolidated Financial Statements (Item 1) &#8211; Note 10); 
+
+&#8226; The expected impact of proposed and final rules (see Current Regulatory Environment and other Developments); 
+
+&#8226; Rates paid on client-related liabilities; net interest revenue (see Results of Operations); 
+
+&#8226; Capital expenditures (see Results of Operations); 
+
+&#8226; The phase-out of the use of LIBOR (see Risk Management); 
+
+&#8226; Sources and uses of liquidity and capital (see Liquidity Risk and Capital Management); 
+
+&#8226; Capital management; the migration of Insured Deposit Account (IDA) agreement balances to our balance sheet (see Capital Management and Commitments and Contingencies in Item 1 &#8211; Note 9); 
+
+&#8226; The expected impact of new accounting standards not yet adopted (see New Accounting Standards in Item 1 &#8211; Note 2); 
+
+&#8226; The likelihood of indemnification and guarantee payment obligations and clients failing to fulfill contractual obligations (see Commitments and Contingencies in Item 1 &#8211; Note 9); and 
+
+&#8226; The impact of legal proceedings and regulatory matters (see Commitments and Contingencies in Item 1 &#8211; Note 9 and Legal Proceedings in Part II &#8211; Item 1). 
+
+Achievement of the expressed beliefs, objectives, and expectations described in these statements is subject to certain risks and uncertainties that could cause actual results to differ materially from the expressed beliefs, objectives, and expectations. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this Quarterly Report on Form 10-Q or, in the case of documents incorporated by reference, as of the date of those documents. 
+
+Important factors that may cause actual results to differ include, but are not limited to: 
+
+&#8226; General market conditions, including equity valuations and the level of interest rates; 
+
+&#8226; The level and mix of client trading activity; 
+
+&#8226; Our ability to attract and retain clients, develop trusted relationships, and grow client assets; 
+
+&#8226; Client use of our advisory and lending solutions and other products and services; 
+
+&#8226; The level of client assets, including cash balances; 
+
+&#8226; Competitive pressure on pricing, including deposit rates; 
+
+&#8226; Client sensitivity to rates; 
+
+&#8226; Regulatory guidance and adverse impacts from new legislation or rulemaking; 
+
+&#8226; Capital and liquidity needs and management; 
+
+&#8226; Our ability to manage expenses; 
+
+&#8226; Our ability to attract and retain talent; 
+
+- 2 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+&#8226; Our ability to develop and launch new and enhanced products, services, and capabilities, as well as enhance our infrastructure, in a timely and successful manner; 
+
+&#8226; Our ability to monetize client assets; 
+
+&#8226; Our ability to support client activity levels; 
+
+&#8226; The risk that expected cost synergies and other benefits from the TD Ameritrade acquisition may not be fully realized or may take longer to realize than expected and that integration-related expenses may be higher than expected; 
+
+&#8226; Increased compensation and other costs due to inflationary pressures; 
+
+&#8226; The timing and scope of integration-related and other technology projects; 
+
+&#8226; Re al estate and workforce decisions; 
+
+&#8226; Client cash allocations; 
+
+&#8226; Migrations of bank deposit account balances (BDA balances); 
+
+&#8226; Balance sheet positioning relative to changes in interest rates; 
+
+&#8226; Interest earning asset mix and growth; 
+
+&#8226; Prepayment levels for mortgage-backed securities; 
+
+&#8226; LIBOR trends; 
+
+&#8226; Adverse developments in litigation or regulatory matters and any related charges; and 
+
+&#8226; Potential breaches of contractual terms for which we have indemnification and guarantee obligations. 
+
+Certain of these factors, as well as general risk factors affecting the Company, are discussed in greater detail in Part I &#8211; Item 1A &#8211; Risk Factors in the 2021 Form 10-K. 
+
+- 3 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+OVERVIEW 
+
+Management focuses on several client activity and financial metrics in evaluating Schwab&#8217;s financial position and operating performance. Results for the third quarter and first nine months of 2022 and 2021 are as follows: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2022 2021 2022 2021 Client Metrics &#160; &#160; &#160; 
+
+Net new client assets (in billions) (1) 
+
+$ 114.6 $ 139.0 (18) % $ 278.5 $ 381.6 (27) % Core net new client assets (in billions) $ 114.6 $ 139.0 (18) % $ 299.3 $ 396.0 (24) % Client assets (in billions, at quarter end) $ 6,644.2 $ 7,614.0 (13) % Average client assets (in billions) $ 7,125.9 $ 7,699.7 (7) % $ 7,385.0 $ 7,336.9 1 % New brokerage accounts (in thousands) 897 1,178 (24) % 3,113 5,988 (48) % Active brokerage accounts (in thousands, at quarter end) 33,875 32,675 4 % Assets receiving ongoing advisory services (in billions, at quarter end) $ 3,417.5 $ 3,783.3 (10) % Client cash as a percentage of client assets (at quarter end) 12.9 % 10.8 % &#160; Company Financial Information and Metrics &#160; &#160; &#160; Total net revenues $ 5,500 $ 4,570 20 % $ 15,265 $ 13,812 11 % Total expenses excluding interest 2,823 2,559 10 % 8,475 8,122 4 % Income before taxes on income 2,677 2,011 33 % 6,790 5,690 19 % Taxes on income 657 485 35 % 1,575 1,415 11 % Net income 2,020 1,526 32 % 5,215 4,275 22 % Preferred stock dividends and other 136 120 13 % 401 364 10 % Net income available to common stockholders $ 1,884 $ 1,406 34 % $ 4,814 $ 3,911 23 % Earnings per common share &#8212; diluted $ .99 $ .74 34 % $ 2.53 $ 2.06 23 % Net revenue growth from prior year 20 % 87 % &#160; 11 % 84 % Pre-tax profit margin 48.7 % 44.0 % &#160; 44.5 % 41.2 % Return on average common stockholders&#8217; equity (annualized) 25 % 12 % &#160; 18 % 11 % Expenses excluding interest as a percentage of average client assets (annualized) 0.16 % 0.13 % 0.15 % 0.15 % Consolidated Tier 1 Leverage Ratio (at quarter end) 6.8 % 6.3 % 
+
+Non-GAAP Financial Measures (2) 
+
+Adjusted total expenses (3) 
+
+$ 2,570 $ 2,302 $ 7,724 $ 7,294 Adjusted diluted EPS $ 1.10 $ .84 $ 2.83 $ 2.39 Return on tangible common equity 74 % 23 % 42 % 21 % 
+
+(1) The first nine months of 2022 include an outflow of $20.8 billion from a mutual fund clearing services client. The first nine months of 2021 includes an outflow of $14.4 billion from a mutual fund clearing services client. 
+
+(2) See Non-GAAP Financial Measures for further details and a reconciliation of such measures to GAAP reported results. 
+
+(3) Adjusted total expenses is a non-GAAP financial measure adjusting total expenses excluding interest. See Non-GAAP Financial Measures. 
+
+During the first nine months of 2022, our clients faced a challenging macroeconomic environment that included rising inflation, the Federal Reserve&#8217;s corresponding aggressive monetary tightening policy, Russia&#8217;s continued war in Ukraine, and increasing challenges across other global economies. Equity markets declined substantially throughout the first nine months of 2022, with the S&#38;P 500 extending year-to-date losses to 25% through September 30. 
+
+Against this backdrop, clients&#8217; daily average trades (DATs) in the third quarter remained consistent with the prior year quarter at 5.5 million, while declining 8% to 6.1 million on a year-to-date basis as investor sentiment softened, particularly compared with the extraordinary client trading levels seen in early 2021. New brokerage accounts were also down from the prior year, as clients opened 897 thousand and 3.1 million new brokerage accounts in the third quarter and first nine months of 2022, respectively. Active brokerage accounts were 33.9 million at September 30, 2022, increasing 4% year-over-year. Core net new assets were $114.6 billion in the third quarter and brought the year-to-date 2022 total to $299.3 billion. We ended the third quarter of 2022 with total client assets of $6.64 trillion, down 13% from September 30, 2021, and down 18% from year-end 2021, as declines in market valuations of approximately $1.4 trillion over the past 12 months outweighed our continued asset gathering. 
+
+- 4 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Schwab&#8217;s financial results in the third quarter and first nine months of 2022 reflected the strength of our business and significant benefits from higher market interest rates. Net income totaled $2.0 billion and $5.2 billion in the third quarter and first nine months of 2022, respectively, increasing 32% and 22% from the comparable periods in 2021. Diluted earnings per common share (EPS) was $.99 and $2.53 in the third quarter and first nine months of 2022, respectively, rising 34% and 23% from the same periods in the prior year. Adjusted diluted EPS (1) , which excludes acquisition and integration-related costs, amortization of acquired intangible assets, and related income tax effects, was $1.10 and $2.83 in the third quarter and first nine months of 2022, respectively, up 31% and 18% from the comparable periods in 2021. 
+
+Total net revenues were $5.5 billion and $15.3 billion in the third quarter and first nine months of 2022, respectively, rising 20% and 11% from the comparable periods in 2021. Net interest revenue increased to $2.9 billion and $7.7 billion for the third quarter and first nine months of 2022, representing growth of 44% and 30% over the prior year periods primarily as a result of significantly higher market rates. Asset management and administration fees of $1.0 billion and $3.2 billion in the third quarter and first nine months of 2022, respectively, were down 5% from the third quarter of 2021 and largely flat with the first nine months of 2021, as significant declines in equity market valuations offset the benefit of lower money market fund fee waivers. 
+
+Trading revenue totaled $930 million and $2.8 billion in the third quarter and first nine months of 2022, respectively, down 4% and 11% from the same periods in 2021, due primarily to changes in the mix of client trading activity, and, for the year-to-date period, lower DATs in 2022 relative to the extraordinary client trading volume seen early in 2021. Bank deposit account fee revenue was $413 million and $1.1 billion in the third quarter and first nine months of 2022, respectively, increasing 28% and 5% from the same periods in 2021, as higher average net yields more than offset lower average BDA balances. BDA balances totaled $139.6 billion at September 30, 2022, down 9% from September 30, 2021 and down 12% from year-end 2021. 
+
+Total expenses excluding interest amounted to $2.8 billion and $8.5 billion in the third quarter and first nine months of 2022, respectively, increasing 10% and 4% from the same periods in 2021. Adjusted total expenses (1) were $2.6 billion and 
+
+$7.7 billion for the third quarter and first nine months of 2022, respectively, increasing 12% and 6% from the same periods in 2021. The increases in total expenses excluding interest and total adjusted expenses reflected higher compensation and benefits expense and higher occupancy and equipment expense, as we continued to invest in our people and technology to support ongoing growth in our client base. The year-to-date increases were partially offset by lower other expense, which included a charge of approximately $200 million in the second quarter of 2021 (see Item 1 &#8211; Note 9). 
+
+Return on average common stockholders&#8217; equity increased to 25% and 18% for the third quarter and first nine months of 2022, respectively, compared with 12% and 11% in the comparable periods in 2021. Return on tangible common equity (1) (ROTCE) was 74% and 42% in the third quarter and first nine months of 2022, respectively, compared with 23% and 21% in the same periods in the prior year. The increases in both return on average common stockholders&#8217; equity and ROTCE were due primarily to lower stockholders&#8217; equity and higher net income. Stockholders&#8217; equity declined in the first nine months of 2022 due to a significant decrease in accumulated other comprehensive income (AOCI), as higher market interest rates resulted in larger unrealized losses on our available for sale (AFS) portfolio. 
+
+The Company continued its diligent approach to balance sheet management amid a rapidly evolving macroeconomic environment in the first nine months of 2022, maintaining appropriate capital and liquidity to support client activity and returning excess capital to stockholders. Total balance sheet assets of $577.6 billion at September 30, 2022 were down 9% in the third quarter and down 13% from year-end 2021, primarily due to decreases in bank deposits and payables to brokerage clients as a result of client cash allocation decisions and unrealized losses on AFS securities, both primarily resulting from higher market interest rates. 
+
+During the third quarter, the Board of Directors approved a 10% increase in our common dividend and a $15 billion share repurchase authorization; repurchases under this new authorization totaled $1.5 billion in the third quarter. As announced in September, the Company redeemed its $400 million Series A Preferred Stock effective November 1, 2022, and we announced in October the redemption of our $600 million Series E Preferred Stock, effective December 1, 2022. In addition, during the third quarter, we lowered our operating objective for the Company&#8217;s consolidated Tier 1 Leverage Ratio by 25 basis points to 6.50%-6.75%. The Company&#8217;s Tier 1 Leverage Ratio was 6.8% at September 30, 2022, slightly above our new operating objective. 
+
+(1) Adjusted diluted EPS, adjusted total expenses, and return on tangible common equity are non-GAAP financial measures. See Non-GAAP Financial Measures for further details and a reconciliation of such measures to GAAP reported results. 
+
+- 5 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Integration of TD Ameritrade 
+
+Effective October 6, 2020, the Company completed its acquisition of TD Ameritrade Holding Corporation (TDA Holding) and its consolidated subsidiaries (collectively referred to as &#8220;TD Ameritrade&#8221; or &#8220;TDA&#8221;). Integration work continued during the first nine months of 2022. Based on our current integration plans and expanded scope of technology work, the Company now expects to complete most client conversions across multiple groups over the course of 2023, with certain client groups to be completed in early 2024. We now expect to incur total acquisition and integration-related costs and capital expenditures of between $2.4 billion and $2.5 billion, which reflects increased costs resulting from incremental complexity in conversion work, due in part to the replacement of certain vendor resources following Russia&#8217;s invasion of Ukraine, as well as overall inflationary pressures. 
+
+The Company&#8217;s estimates of the nature, amounts, and timing of recognition of acquisition and integration-related costs remain subject to change based on a number of factors, including the expected duration and complexity of the integration process and the continued uncertainty of the economic environment. More specifically, factors that could cause variability in our expected acquisition and integration-related costs include the level of employee attrition and availability of third-party labor, workforce redeployment from eliminated positions into open roles, changes in the levels of client activity, as well as changes in the scope and cost of technology and real estate-related exit cost variability due to effects of changes in remote working trends. 
+
+Acquisition and integration-related costs, which are inclusive of related exit costs, totaled $101 million and $291 million for the third quarter and first nine months of 2022, respectively, and $104 million and $367 million for the third quarter and first nine months of 2021, respectively. Over the course of the integration, we continue to expect to realize annualized cost synergies of between $1.8 billion and $2.0 billion, and, through September 30, 2022, we have achieved over half of this amount on an annualized run-rate basis. The Company expects to realize the vast majority of the remaining estimated cost synergies by the end of 2024. Estimated timing and amounts of synergy realization are subject to change as we progress in the integration. Refer to Part II &#8211; Item 7 &#8211; Overview in our 2021 Form 10-K and Item 1 &#8211; Note 10 for additional information regarding our integration of TD Ameritrade. 
+
+Current Regulatory Environment and Other Developments 
+
+Results of the Federal Reserve&#8217;s 2022 Comprehensive Capital Analysis and Review 
+
+In June 2022, the Company received the results of the Federal Reserve&#8217;s 2022 Comprehensive Capital Analysis and Review (CCAR). These results included the Federal Reserve&#8217;s estimate of CSC&#8217;s minimum capital ratios under the supervisory severely adverse scenario for the nine-quarter horizon beginning December 31, 2021 and ending March 31, 2024. Based on these results, CSC&#8217;s calculated stress capital buffer was below the 2.5% minimum, resulting in a stress capital buffer at the 2.5% floor. This 2.5% stress capital buffer became applicable on October 1, 2022. See Item 1 &#8211; Note 16 for additional information regarding our capital requirements. 
+
+Inflation Reduction Act of 2022: Excise Tax on Share Repurchases 
+
+In August 2022, the Inflation Reduction Act of 2022 (Inflation Reduction Act) was enacted into law. Among many other items, the Inflation Reduction Act imposes a nondeductible 1% excise tax on a publicly traded corporation on the fair market value of certain stock that it repurchases, net of issuances, effective for repurchases after December 31, 2022. The Company believes share repurchases made under its current repurchase authorization beginning in 2023 will become subject to this tax. We expect to recognize the tax as a direct and incremental cost associated with these transactions. For repurchases of common stock, we expect the tax will be recorded as part of the cost basis of the treasury stock repurchased, resulting in no income statement impact. 
+
+Federal Deposit Insurance Corporation (FDIC) Assessment Rate Increase 
+
+In October 2022, the FDIC adopted a final rule to increase the initial base deposit insurance assessment rates by 2 basis points, beginning with the first quarterly assessment period of 2023. The FDIC has stated that this change is intended to raise the FDIC&#8217;s Deposit Insurance Fund (DIF) reserve ratio to the minimum threshold within the FDIC&#8217;s established DIF restoration plan, and will remain in effect until the DIF reserve ratio meets the FDIC&#8217;s long-term goal of 2%. A 2 basis point increase in the initial base deposit insurance assessment rate will result in a corresponding increase in regulatory fees and assessments, as well as a corresponding decrease in bank deposit account fee revenue based on IDA balances. 
+
+- 6 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+RESULTS OF OPERATIONS 
+
+Total Net Revenues 
+
+The following tables present a comparison of revenue by category: 
+
+&#160; 2022 2021 Three Months Ended September 30, Percent Change Amount % of Total Net Revenues Amount % of Total Net Revenues Net interest revenue Interest revenue 56 % $ 3,357 61 % $ 2,153 47 % Interest expense N/M (431) (8) % (123) (3) % Net interest revenue 44 % 2,926 53 % 2,030 44 % Asset management and administration fees &#160; &#160; &#160; Mutual funds, exchange-traded funds (ETFs), and collective trust funds (CTFs) 3 % 520 9 % 503 11 % Advice solutions (12) % 452 8 % 511 11 % Other (14) % 75 2 % 87 2 % Asset management and administration fees (5) % 1,047 19 % 1,101 24 % Trading revenue &#160; &#160; Commissions (7) % 435 8 % 466 10 % Order flow revenue (10) % 432 8 % 482 11 % Principal transactions N/M 63 1 % 16 &#8212; Trading revenue (4) % 930 17 % 964 21 % Bank deposit account fees 28 % 413 8 % 323 7 % Other 21 % 184 3 % 152 4 % Total net revenues 20 % $ 5,500 100 % $ 4,570 100 % 
+
+&#160; 2022 2021 Nine Months Ended September 30, Percent Change Amount % of Total Net Revenues Amount % of Total Net Revenues Net interest revenue Interest revenue 34 % $ 8,386 55 % $ 6,236 45 % Interest expense 111 % (733) (5) % (348) (2) % Net interest revenue 30 % 7,653 50 % 5,888 43 % Asset management and administration fees Mutual funds, ETFs, and CTFs 5 % 1,524 10 % 1,454 11 % Advice solutions (4) % 1,409 9 % 1,469 11 % Other (3) % 234 2 % 241 1 % Asset management and administration fees &#8212; 3,167 21 % 3,164 23 % Trading revenue Commissions (13) % 1,362 9 % 1,559 11 % Order flow revenue (13) % 1,332 9 % 1,538 11 % Principal transactions 121 % 84 &#8212; 38 1 % Trading revenue (11) % 2,778 18 % 3,135 23 % Bank deposit account fees 5 % 1,059 7 % 1,011 7 % Other (1) % 608 4 % 614 4 % Total net revenues 11 % $ 15,265 100 % $ 13,812 100 % 
+
+N/M Not meaningful. Percent changes greater than 200% are presented as not meaningful. 
+
+- 7 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Net Interest Revenue 
+
+Revenue on interest-earning assets is affected by various factors, such as the composition of assets, prevailing interest rates and spreads at the time of origination or purchase, changes in interest rates on floating-rate securities and loans, and changes in prepayment levels for mortgage-backed and other asset-backed securities and loans. Schwab establishes the rates paid on client-related liabilities, and management expects that it will generally adjust the rates paid on these liabilities at some fraction of any movement in short-term rates. Interest expense on long-term debt, short-term borrowings, and other funding sources is impacted by market interest rates at the time of borrowing and changes in interest rates on floating-rate debt. 
+
+Interest rates increased significantly from year-end 2021 through September 30, 2022. Short-term rates were near zero until the Federal Reserve began its aggressive tightening cycle in response to rising inflation beginning in March 2022, ultimately increasing the federal funds target overnight rate five times between March and September for a total increase of 300 basis points, while long-term interest rates increased throughout the first nine months of the year. 
+
+Schwab continued to see strength in net new client assets during the first nine months of 2022, which, along with transfers of BDA balances to the Company&#8217;s balance sheet (see Bank Deposit Account Fees), drove growth in Schwab&#8217;s average interest-earning assets in the third quarter and first nine months of 2022 relative to the same periods in 2021. Partially offsetting this growth, we experienced significant seasonal tax outflows in the second quarter, and, due to the rapid increases to the federal funds overnight rate, changes in client cash allocations increased in the third quarter which resulted in a total decrease in bank deposits and payables to brokerage clients of 9% during the third quarter and 11% since year-end 2021. In recent quarters, the Company increased its cash holdings and reduced the duration of incremental investment securities purchases, which has provided flexibility to support such changes in client cash allocations associated with higher short-term interest rates. These steps also help keep Schwab positioned to benefit from interest rate increases. 
+
+The following table presents net interest revenue information corresponding to interest-earning assets and funding sources on the condensed consolidated balance sheets: 
+
+2022 2021 Three Months Ended September 30, Average Balance Interest Revenue/ Expense Average Yield/Rate Average Balance Interest Revenue/ Expense Average Yield/Rate Interest-earning assets &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents $ 53,127 $ 294 2.16 % $ 38,732 $ 11 0.12 % Cash and investments segregated 49,554 214 1.69 % 42,617 5 0.04 % Receivables from brokerage clients 72,751 912 4.91 % 80,873 628 3.04 % 
+
+Available for sale securities (1,2) 
+
+273,968 1,161 1.69 % 362,204 1,187 1.30 % 
+
+Held to maturity securities (1,2) 
+
+97,568 345 1.41 % &#8212; &#8212; &#8212; Bank loans 39,984 300 2.99 % 30,235 161 2.12 % Total interest-earning assets 586,952 3,226 2.17 % 554,661 1,992 1.42 % Securities lending revenue 124 159 Other interest revenue 7 2 Total interest-earning assets $ 586,952 $ 3,357 2.26 % $ 554,661 $ 2,153 1.54 % Funding sources Bank deposits $ 420,132 $ 241 0.23 % $ 384,561 $ 14 0.01 % Payables to brokerage clients 96,802 41 0.17 % 92,498 3 0.01 % Short-term borrowings 708 4 1.95 % 3,485 3 0.34 % Long-term debt 21,024 131 2.49 % 19,030 99 2.10 % Total interest-bearing liabilities 538,666 417 0.31 % 499,574 119 0.09 % 
+
+Non-interest-bearing funding sources 
+
+48,286 55,087 
+
+Securities lending expense 
+
+13 4 
+
+Other interest expense 
+
+1 &#8212; Total funding sources $ 586,952 $ 431 0.29 % $ 554,661 $ 123 0.09 % Net interest revenue $ 2,926 1.97 % $ 2,030 1.45 % 
+
+- 8 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+2022 2021 Nine Months Ended September 30, Average Balance Interest Revenue/ Expense Average Yield/Rate Average Balance Interest Revenue/ Expense Average Yield/Rate Interest-earning assets &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents $ 63,598 $ 461 0.95 % $ 39,848 $ 27 0.09 % Cash and investments segregated 50,891 308 0.80 % 43,914 19 0.06 % Receivables from brokerage clients 78,630 2,244 3.76 % 74,831 1,800 3.17 % 
+
+Available for sale securities (1,2) 
+
+281,897 3,196 1.51 % 348,477 3,381 1.29 % 
+
+Held to maturity securities (1,2) 
+
+100,890 1,062 1.40 % &#8212; &#8212; &#8212; Bank loans 38,238 717 2.50 % 27,336 448 2.18 % Total interest-earning assets 614,144 7,988 1.73 % 534,406 5,675 1.41 % Securities lending revenue 383 557 Other interest revenue 15 4 Total interest-earning assets $ 614,144 $ 8,386 1.81 % $ 534,406 $ 6,236 1.55 % Funding sources Bank deposits $ 440,801 $ 285 0.09 % $ 371,974 $ 40 0.01 % Payables to brokerage clients 101,472 47 0.06 % 89,087 7 0.01 % Short-term borrowings 2,656 12 0.60 % 2,617 6 0.32 % Long-term debt 20,673 363 2.34 % 17,225 281 2.18 % Total interest-bearing liabilities 565,602 707 0.17 % 480,903 334 0.09 % 
+
+Non-interest-bearing funding sources 
+
+48,542 53,503 
+
+Securities lending expense 
+
+28 16 
+
+Other interest expense 
+
+(2) (2) Total funding sources $ 614,144 $ 733 0.16 % $ 534,406 $ 348 0.09 % Net interest revenue $ 7,653 1.65 % $ 5,888 1.46 % (1) Amounts have been calculated based on amortized cost. Interest revenue on investment securities is presented net of related premium amortization. 
+
+(2) In January 2022, the Company transferred a portion of its investment securities designated as available for sale to the held to maturity category, as described in Item 1 &#8211; Note 4. 
+
+Net interest revenue increased $896 million, or 44%, and $1.8 billion, or 30%, in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021. These increases were due primarily to higher average yields on substantially all interest-earning assets as a result of higher market interest rates. Net premium amortization of investment securities decreased to $295 million and $1.2 billion in the third quarter and first nine months of 2022, respectively, from $560 million and $1.8 billion in the third quarter and first nine months of 2021, respectively. These benefits were partially offset by higher rates paid on bank deposits, payables to brokerage clients, and long-term debt, as well as lower balances of margin loans and lower securities lending revenue due to decreased market demand. 
+
+Average interest-earning assets for the third quarter and first nine months of 2022 were higher by 6% and 15%, respectively, compared to the same periods in 2021. These increases were primarily due to growth in bank deposits and payables to brokerage clients, which resulted from net new client asset inflows as well as transfers of BDA balances to our balance sheet in the third quarter of 2021 and the first nine months of 2022. These year-over-year increases were partially offset by client cash allocation decisions in response to higher short-term market interest rates in the second and third quarters of 2022, as clients moved certain cash balances out of bank deposits and payables to brokerage clients. 
+
+Net interest margin increased to 1.97% and 1.65% during the third quarter and first nine months of 2022, respectively, from 1.45% and 1.46% during the same periods in 2021. These increases were primarily driven by improved yields on substantially all interest-earning assets as a result of higher market interest rates partially offset by higher rates paid on our funding sources driven primarily by bank deposits, payables to brokerage clients, and recent debt issuances and floating-rate long-term debt balances. 
+
+- 9 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Asset Management and Administration Fees 
+
+The following table presents asset management and administration fees, average client assets, and average fee yields: 
+
+Three Months Ended September 30, 2022 2021 Average Client Assets Revenue Average Fee Average Client Assets Revenue Average Fee Schwab money market funds before fee waivers $ 184,834 $ 132 0.28 % $ 149,508 $ 112 0.30 % Fee waivers &#8212; (83) Schwab money market funds $ 184,834 132 0.28 % $ 149,508 29 0.08 % Schwab equity and bond funds, ETFs, and CTFs 422,711 89 0.08 % 441,344 99 0.09 % 
+
+Mutual Fund OneSource &#174; and other non-transaction fee funds 
+
+183,019 139 0.30 % 234,582 188 0.32 % Other third-party mutual funds and ETFs 747,676 160 0.08 % 918,363 187 0.08 % Total mutual funds, ETFs, and CTFs (1) 
+
+$ 1,538,240 520 0.13 % $ 1,743,797 503 0.11 % 
+
+Advice solutions (1) 
+
+Fee-based $ 431,276 452 0.42 % $ 463,827 511 0.44 % Non-fee-based 85,567 &#8212; &#8212; 90,649 &#8212; &#8212; Total advice solutions $ 516,843 452 0.35 % $ 554,476 511 0.37 % 
+
+Other balance-based fees (2) 
+
+537,809 58 0.04 % 632,806 68 0.04 % 
+
+Other (3) 
+
+17 19 Total asset management and administration fees $ 1,047 $ 1,101 
+
+Nine Months Ended September 30, 2022 2021 Average Client Assets Revenue Average Fee Average Client Assets Revenue Average Fee Schwab money market funds before fee waivers $ 158,525 $ 340 0.29 % $ 158,749 $ 348 0.29 % Fee waivers (57) (246) Schwab money market funds $ 158,525 283 0.24 % $ 158,749 102 0.09 % Schwab equity and bond funds, ETFs, and CTFs 436,928 278 0.09 % 411,312 279 0.09 % 
+
+Mutual Fund OneSource &#174; and other non-transaction fee funds 
+
+196,032 453 0.31 % 228,643 540 0.32 % Other third-party mutual funds and ETFs 805,204 510 0.08 % 888,003 533 0.08 % Total mutual funds, ETFs, and CTFs (1) 
+
+$ 1,596,689 1,524 0.13 % $ 1,686,707 1,454 0.12 % 
+
+Advice solutions (1) 
+
+Fee-based $ 446,979 1,409 0.42 % $ 445,521 1,469 0.44 % Non-fee-based 87,528 &#8212; &#8212; 87,758 &#8212; &#8212; Total advice solutions $ 534,507 1,409 0.35 % $ 533,279 1,469 0.37 % 
+
+Other balance-based fees (2) 
+
+573,733 186 0.04 % 604,995 195 0.04 % 
+
+Other (3) 
+
+48 46 Total asset management and administration fees $ 3,167 $ 3,164 
+
+(1) Average client assets for advice solutions may also include the asset balances contained in the mutual fund and/or ETF categories listed above. 
+
+(2) Includes various asset-related fees, such as trust fees, 401(k) recordkeeping fees, and mutual fund clearing fees and other service fees. 
+
+(3) Includes miscellaneous service and transaction fees relating to mutual funds and ETFs that are not balance-based. 
+
+Asset management and administration fees declined by $54 million, or 5%, in the third quarter of 2022 and were essentially flat in the first nine months of 2022, compared to the same periods in 2021. The decrease in the third quarter of 2022 was a result of lower balances in Mutual Fund OneSource &#174; and other third-party mutual funds, as well as advice solutions, relative to the same period in 2021. Balances declined primarily due to equity market weakness during the first nine months of 2022, which negatively impacted client asset valuations. These decreases were partially offset during the third quarter, and fully offset in the year-to-date period, by lower money market fund fee waivers, which were eliminated during the second quarter of 2022 as a result of the Federal Reserve&#8217;s increases to the federal funds target overnight rate. 
+
+- 10 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following table presents a roll forward of client assets for the Schwab money market funds, Schwab equity and bond funds, exchange-traded funds (ETFs), and collective trust funds (CTFs), and Mutual Fund OneSource &#174; and other non-transaction fee (NTF) funds. These funds generated 34% and 32% of the asset management and administration fees earned in the third quarter and first nine months of 2022, respectively, compared with 29% of the asset management and administration fees earned in both the third quarter and first nine months of 2021: 
+
+Schwab Money Market Funds Schwab Equity and Bond Funds, ETFs, and CTFs Mutual Fund OneSource &#174; and Other NTF funds 
+
+Three Months Ended September 30, 2022 2021 2022 2021 2022 2021 Balance at beginning of period $ 159,231 $ 151,943 $ 387,211 $ 411,091 $ 196,578 $ 240,181 Net inflows (outflows) 51,111 (4,203) 10,805 11,067 (9,600) (3,347) Net market gains (losses) and other 737 8 (24,272) (3,187) (5,480) (2,085) Balance at end of period $ 211,079 $ 147,748 $ 373,744 $ 418,971 $ 181,498 $ 234,749 
+
+Schwab Money Market Funds Schwab Equity and Bond Funds, ETFs, and CTFs Mutual Fund OneSource &#174; and Other NTF funds 
+
+Nine Months Ended September 30, 2022 2021 2022 2021 2022 2021 Balance at beginning of period $ 146,509 $ 176,089 $ 454,864 $ 341,689 $ 234,940 $ 223,857 Net inflows (outflows) 63,703 (28,372) 25,950 37,747 (28,363) (9,819) Net market gains (losses) and other 867 31 (107,070) 39,535 (25,079) 20,711 Balance at end of period $ 211,079 $ 147,748 $ 373,744 $ 418,971 $ 181,498 $ 234,749 
+
+Trading Revenue 
+
+Trading revenue includes commissions, order flow revenue, and principal transaction revenues. Commissions and order flow revenue are primarily affected by volume and mix of client trades executed. Principal transaction revenue is recognized primarily as a result of accommodating clients&#8217; fixed income trading activity, and includes adjustments to the fair value of securities positions held to facilitate such client trading activity. 
+
+The following table presents trading revenue and related information: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2022 2021 2022 2021 Trading revenue $ 930 $ 964 (4) % $ 2,778 $ 3,135 (11) % DATs (in thousands) 5,523 5,549 &#8212; 6,103 6,644 (8) % Number of trading days 64.0 64.0 &#8212; 188.0 188.0 &#8212; 
+
+Revenue per trade (1) 
+
+$ 2.63 $ 2.71 (3) % $ 2.42 $ 2.51 (4) % 
+
+(1) Revenue per trade is calculated as trading revenue divided by DATs multiplied by the number of trading days. 
+
+Trading revenue decreased $34 million and $357 million in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021. The decrease in the third quarter of 2022 compared to the third quarter of 2021 was primarily due to changes in the mix of client trading activity toward more ETFs and fewer single stocks, and toward more index options and futures and fewer single stock options, resulting in lower commissions and order flow revenue, which decreased 7% and 10%, respectively, from the third quarter of 2021. The decrease in the first nine months of 2022 compared to the same period in 2021 was primarily due to lower client trading activity during the first quarter of 2022 relative to the extraordinary trading volume experienced during the first quarter of 2021, as well as changes in the mix of client trading activity. These factors drove lower commissions and order flow revenue, which each decreased 13% from the first nine months of 2021. 
+
+- 11 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Bank Deposit Account Fees 
+
+The Company earns bank deposit account fee revenue pursuant to the IDA agreement with TD Bank USA, National Association and TD Bank, National Association (together, the TD Depository Institutions) and arrangements with other third-party banks. 
+
+The following table presents bank deposit account fee revenue, average BDA balances, average net yield, and average balances earning floating- and fixed-rate yields: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2022 2021 2022 2021 Bank deposit account fees $ 413 $ 323 28 % $ 1,059 $ 1,011 5 % Average BDA balances $ 148,142 $ 151,504 (2) % $ 152,698 $ 159,829 (4) % Average net yield 1.09 % 0.83 % 0.92 % 0.84 % Percentage of average BDA balances designated as: Fixed-rate balances 79 % 81 % 78 % 80 % Floating-rate balances 21 % 19 % 22 % 20 % 
+
+Bank deposit account fees increased $90 million, or 28%, and $48 million, or 5%, in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021. These increases were primarily due to higher market interest rates, which helped to increase the average net yield in the third quarter and first nine months of 2022. The Company transferred $20.1 billion and $10.5 billion of BDA balances to its balance sheet during the first nine months of 2022 and 2021, respectively. The transfer of these balances to our balance sheet, as well as client cash allocation decisions in response to higher short-term market interest rates in the second and third quarters of 2022, led to the decrease in average BDA balances in the first nine months of 2022 compared with the first nine months of 2021. 
+
+Transfers of BDA balances to Schwab&#8217;s balance sheet result in lower balances upon which bank deposit account fee revenue is earned but provide a source of funding to invest in interest-earning assets to increase net interest revenue. See also Capital Management and Item 1 &#8211; Note 9 for discussion of the IDA agreement and the potential to move IDA balances to Schwab&#8217;s balance sheet. 
+
+Other Revenue 
+
+Other revenue includes exchange processing fees, certain service fees, software fees, non-recurring gains, and the provision for credit losses on bank loans. 
+
+Other revenue increased $32 million in the third quarter of 2022 compared to the same period in 2021, primarily due to higher exchange processing fees, partially offset by a higher provision for credit losses on bank loans and losses on sales of AFS securities. Exchange processing fees increased as a result of an SEC fee rate increase which became effective in the second quarter of 2022, and the provision for credit losses on bank loans increased as a result of higher loan loss factors driven primarily by higher forecasted interest rates and growth of the loan portfolio. Other revenue decreased $6 million in the first nine months of 2022 compared to the same period in 2021, primarily due to the higher provision for credit losses, certain lower service fees due to lower trading volume, and lower net gains on sales of AFS securities, partially offset by higher exchange processing fees. In addition, other revenue in the first nine months of 2022 included a gain of $46 million on the sale of Schwab Compliance Technologies, Inc. and certain investments. 
+
+- 12 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Total Expenses Excluding Interest 
+
+The following table shows a comparison of expenses excluding interest: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2022 2021 2022 2021 Compensation and benefits Salaries and wages $ 901 $ 769 17 % $ 2,630 $ 2,341 12 % Incentive compensation 348 342 2 % 1,098 1,082 1 % Employee benefits and other 227 192 18 % 720 628 15 % Total compensation and benefits $ 1,476 $ 1,303 13 % $ 4,448 $ 4,051 10 % Professional services 264 250 6 % 766 723 6 % Occupancy and equipment 292 246 19 % 855 722 18 % Advertising and market development 89 119 (25) % 296 363 (18) % Communications 131 144 (9) % 444 457 (3) % Depreciation and amortization 167 140 19 % 476 404 18 % Amortization of acquired intangible assets 152 153 (1) % 460 461 &#8212; Regulatory fees and assessments 65 64 2 % 200 208 (4) % Other 187 140 34 % 530 733 (28) % Total expenses excluding interest $ 2,823 $ 2,559 10 % $ 8,475 $ 8,122 4 % Expenses as a percentage of total net revenues Compensation and benefits 27 % 29 % 29% 29% Advertising and market development 2 % 3 % 2% 3% Full-time equivalent employees (in thousands) At quarter end 35.2 32.4 9 % Average 35.2 32.4 9 % 34.5 32.3 7 % 
+
+Expenses excluding interest increased by $264 million and $353 million in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021. Adjusted total expenses, which excludes acquisition and integration-related costs and amortization of acquired intangible assets, increased 12% and 6% in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021. See Non-GAAP Financial Measures for further details and a reconciliation of such measures to GAAP reported results. 
+
+Total compensation and benefits increased in the third quarter and first nine months of 2022 compared to the same periods in 2021, primarily due to growth in employee headcount to support our expanding client base, annual merit increases, as well as a 5% employee salary increase and other targeted compensation adjustments that went into effect in late 2021. Compensation and benefits included acquisition and integration-related costs of $57 million and $58 million in the third quarter of 2022 and 2021, respectively, and $166 million and $227 million in the first nine months of 2022 and 2021, respectively. 
+
+Professional services expense increased in the third quarter and first nine months of 2022 compared to the same periods in 2021, primarily due to increased utilization of technology-related and other professional services to support overall growth of the business and enhancement to technological infrastructure to support our expanding client base, as well as the integration of TD Ameritrade. Professional services included acquisition and integration-related costs of $36 million and $35 million in the third quarter of 2022 and 2021, respectively, and $102 million and $99 million in the first nine months of 2022 and 2021, respectively. 
+
+Occupancy and equipment expense increased in the third quarter and first nine months of 2022 compared to the same periods in 2021, primarily due to an increase in software maintenance and other agreements as well as other technology equipment costs to support growth of the business and the integration of TD Ameritrade. Occupancy and equipment included acquisition and integration-related costs of $6 million and $7 million in the third quarter of 2022 and 2021, respectively, and $14 million and $30 million in the first nine months of 2022 and 2021, respectively. 
+
+Advertising and market development expense decreased in the third quarter and first nine months of 2022 compared to the same periods in 2021, primarily due to decreases in spending for marketing communications for TD Ameritrade. 
+
+- 13 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Communications expense decreased in the third quarter and first nine months of 2022 compared to the same periods in 2021, primarily due to lower client trading activity. 
+
+Depreciation and amortization expense increased in the third quarter and first nine months of 2022 compared to the same periods in 2021, primarily as a result of higher amortization of purchased and internally developed software and higher depreciation of hardware, driven by capital expenditures in 2021 and the third quarter and first nine months of 2022 to support the TDA integration and enhance our technological infrastructure to support growth of the business. 
+
+Regulatory fees and assessments in the third quarter of 2022 were largely consistent with the third quarter of 2021, and decreased in the first nine months of the year from the first nine months of 2021. The year-to-date decrease in 2022 primarily resulted from lower client trading activity, partially offset by higher FDIC assessments and other regulatory assessments due to asset growth and overall growth of the business. 
+
+Other expense increased in the third quarter of 2022 while decreasing in the first nine months of 2022 compared to the same periods in 2021. The increase in the third quarter of 2022 was primarily due to higher exchange processing fees as a result of fee rate increases beginning in the second quarter of 2022, while the decrease in the first nine months of 2022 was primarily due to the recognition in the second quarter of 2021 of approximately $200 million for a now-settled regulatory matter (see Item 1 &#8211; Note 9). 
+
+Capital expenditures were $193 million and $176 million in the third quarter of 2022 and 2021, respectively, and $741 million and $610 million for the first nine months of 2022 and 2021, respectively. The increases in capital expenditures from the prior year were primarily related to continued work on the TDA integration and enhancement of our technological infrastructure to support greater capacity for our expanding client base. We continue to anticipate capital expenditures for full-year 2022 will be approximately 4-5% of total net revenues. 
+
+Taxes on Income 
+
+Taxes on income were $657 million and $485 million for the third quarters of 2022 and 2021, respectively, resulting in effective income tax rates on income before taxes of 24.5% and 24.1%, respectively. Taxes on income were $1.6 billion and $1.4 billion for the first nine months of 2022 and 2021, respectively, resulting in effective income tax rates on income before taxes of 23.2% and 24.9%, respectively. The increase in the effective tax rate in the third quarter of 2022 compared to the same period in 2021 was primarily related to increased 2022 state tax expense. The decrease in the effective tax rate in the first nine months of 2022 compared to the same period in 2021 was primarily related to the reversal of tax reserves in 2022 due to the resolution of certain state matters and tax benefits recognized on the portion of the regulatory matter charge that was determined upon settlement to be deductible. 
+
+Segment Information 
+
+Financial information for our segments is presented in the following tables: 
+
+Investor Services Advisor Services Total Three Months Ended September 30, Percent Change 2022 2021 Percent Change 2022 2021 Percent Change 2022 2021 Net Revenues &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Net interest revenue 40 % $ 2,143 $ 1,530 57 % $ 783 $ 500 44 % $ 2,926 $ 2,030 Asset management and administration fees (6) % 755 805 (1) % 292 296 (5) % 1,047 1,101 Trading revenue (8) % 800 873 43 % 130 91 (4) % 930 964 Bank deposit account fees 10 % 263 239 79 % 150 84 28 % 413 323 Other 32 % 151 114 (13) % 33 38 21 % 184 152 Total net revenues 15 % 4,112 3,561 38 % 1,388 1,009 20 % 5,500 4,570 Expenses Excluding Interest 8 % 2,117 1,956 17 % 706 603 10 % 2,823 2,559 Income before taxes on income 24 % $ 1,995 $ 1,605 68 % $ 682 $ 406 33 % $ 2,677 $ 2,011 Net New Client Assets (in billions) (5) % $ 55.1 $ 57.9 (27) % $ 59.5 $ 81.1 (18) % $ 114.6 $ 139.0 
+
+- 14 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Investor Services Advisor Services Total Nine Months Ended September 30, Percent Change 2022 2021 Percent Change 2022 2021 Percent Change 2022 2021 Net Revenues &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Net interest revenue 24 % $ 5,551 $ 4,462 47 % $ 2,102 $ 1,426 30 % $ 7,653 $ 5,888 Asset management and administration fees (1) % 2,299 2,316 2 % 868 848 &#8212; 3,167 3,164 Trading revenue (15) % 2,407 2,831 22 % 371 304 (11) % 2,778 3,135 Bank deposit account fees (7) % 690 742 37 % 369 269 5 % 1,059 1,011 Other 1 % 465 462 (6) % 143 152 (1) % 608 614 Total net revenues 6 % 11,412 10,813 28 % 3,853 2,999 11 % 15,265 13,812 Expenses Excluding Interest 2 % 6,359 6,253 13 % 2,116 1,869 4 % 8,475 8,122 Income before taxes on income 11 % $ 5,053 $ 4,560 54 % $ 1,737 $ 1,130 19 % $ 6,790 $ 5,690 
+
+Net New Client Assets (in billions) (1) 
+
+(29) % $ 118.5 $ 167.5 (25) % $ 160.0 $ 214.1 (27) % $ 278.5 $ 381.6 
+
+(1) In the first nine months of 2022, Investor Services includes an outflow of $20.8 billion from a mutual fund clearing services client. In the first nine months of 2021, Investor Services includes an outflow of $14.4 billion from a mutual fund clearing services client. 
+
+Segment Net Revenues 
+
+Investor Services total net revenues increased by 15% and 6% in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021, while Advisor Services total net revenues increased by 38% and 28% in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021. Investor Services growth was primarily driven by increases in net interest revenue as described above, partially offset by decreases in trading revenue due to changes in the mix of client trading activity, resulting in lower commissions and order flow revenue. Advisor Services growth was primarily driven by increases in net interest revenue as described above, as well as increases in trading revenue primarily due to market volatility and bank deposit account fees primarily due to a rising interest rate environment. Asset management and administration fees were essentially flat for Advisor Services for both periods, while declining slightly for Investor Services as equity market weakness during the first nine months of 2022 weighed on client asset valuations, partially offset by the elimination of money market fund fee waivers. Other revenues increased for Investor Services in the third quarter of 2022 from the same period in 2021 due to higher exchange processing fees, partially offset by an increased provision for credit losses on bank loans and losses on sales of AFS securities. 
+
+Segment Expenses Excluding Interest 
+
+Investor Services total expenses excluding interest increased by 8% and 2% in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021, while Advisor Services total expenses excluding interest increased by 17% and 13% in the third quarter and first nine months of 2022, respectively, compared to the same periods in 2021. Both segments saw higher compensation and benefits expenses due to increases in headcount to support our expanding client base, annual merit increases, as well as a 5% employee salary increase and other targeted compensation adjustments that went into effect in late 2021. Occupancy and equipment expenses increased in both segments, primarily due to an increase in software maintenance and other agreements as well as other technology equipment costs to support growth of the business and the integration of TD Ameritrade. In addition, depreciation and amortization increased for both segments primarily due to higher amortization of purchased and internally developed software and higher depreciation of hardware, driven by capital expenditures in 2021 and the first nine months of 2022 to enhance our technological infrastructure to support growth of the business. For Investor Services, these increases in the first nine months of 2022 compared to the same period in 2021 were partially offset by lower other expenses due to a charge of approximately $200 million in the second quarter of 2021 for a now-settled regulatory matter (see Item 1 &#8211; Note 9). In addition, increases in both segments were partially offset by decreases in advertising and market development expense due to reduced spending for marketing communications for TD Ameritrade. 
+
+RISK MANAGEMENT 
+
+Schwab&#8217;s business activities expose it to a variety of risks, including operational, compliance, credit, market, and liquidity risks. The Company has a comprehensive risk management program to identify and manage these risks and their associated potential for financial and reputational impact. 
+
+As part of our ongoing integration of TD Ameritrade, the Company has aligned TD Ameritrade&#8217;s risk management practices with Schwab&#8217;s risk appetite. Our integration work included evaluating new or changed risks impacting the combined company, 
+
+- 15 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+and taking action through various means. Though integration work continues, the Company&#8217;s operations, inclusive of TD Ameritrade, remain consistent with our Enterprise Risk Management (ERM) framework. 
+
+For a discussion of our risk management programs, see Part II &#8211; Item 7 &#8211; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8211; Risk Management in the 2021 Form 10-K. 
+
+Interest Rate Risk Simulations 
+
+Net Interest Revenue Simulation 
+
+For our net interest revenue sensitivity analysis, we use net interest revenue simulation modeling techniques to evaluate and manage the effect of changing interest rates. The simulations include all balance sheet interest rate-sensitive assets and liabilities. Key assumptions include the projection of interest rate scenarios with rate floors, prepayment speeds of mortgage-related investments, repricing of financial instruments, and reinvestment of matured or paid-down securities and loans. 
+
+Net interest revenue is affected by various factors, such as the distribution and composition of interest-earning assets and interest-bearing liabilities, the spread between yields earned on interest-earning assets and rates paid on interest-bearing liabilities, which may reprice at different times or by different amounts, and the spread between short- and long-term interest rates. Interest-earning assets include investment securities, margin loans, bank loans, and cash and cash equivalents. These assets are sensitive to changes in interest rates and changes in prepayment levels that tend to increase in a declining rate environment and decrease in a rising rate environment. Because we establish the rates paid on certain brokerage client cash balances and bank deposits and the rates charged on certain margin and bank loans, and control the composition of our investment securities, we have some ability to manage our net interest spread, depending on competitive factors and market conditions. 
+
+Net interest revenue sensitivity analysis assumes the asset and liability structure of the consolidated balance sheet would not be changed as a result of the simulated changes in interest rates. As we actively manage the consolidated balance sheet and interest rate exposure, in all likelihood we would take steps to manage additional interest rate exposure that could result from changes in the interest rate environment. 
+
+The following table shows the simulated change to net interest revenue over the next 12 months beginning September 30, 2022 and December 31, 2021 of a gradual 100 basis point increase or decrease in market interest rates relative to prevailing market rates at the end of each reporting period: 
+
+September 30, 2022 December 31, 2021 Increase of 100 basis points 5.3 % 14.1 % Decrease of 100 basis points (4.6) % (4.5) % 
+
+The Company&#8217;s simulated increase of 100 basis points in market interest rates had a lower impact on net interest revenue as of September 30, 2022 compared to December 31, 2021 primarily due to increased sensitivity to the Company&#8217;s higher projected client deposit rates and decreased sensitivity to the Company&#8217;s mortgage-backed investment securities. A simulated decrease of 100 basis points in market interest rates had a slightly larger impact on net interest revenue as of September 30, 2022 compared to December 31, 2021 primarily due to increased sensitivity from a higher allocation to cash and short-term investments. This increased sensitivity was partially offset by higher starting client deposit rates which, relative to the December 31, 2021 simulation, provide greater responsiveness to lower simulated interest rates. 
+
+Higher short-term interest rates would positively impact net interest revenue as yields on interest-earning assets are expected to rise faster than the cost of funding sources. A decline in interest rates could negatively impact the yield on the Company&#8217;s investment and loan portfolio to a greater degree than any offsetting reduction in interest expense from funding sources, compressing net interest margin. 
+
+In addition to measuring the effect of a gradual 100 basis point parallel increase or decrease in current interest rates, we regularly simulate the effects of larger parallel- and non-parallel shifts in interest rates on net interest revenue. 
+
+- 16 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Bank Deposit Account Fees Simulation 
+
+Consistent with the presentation on the consolidated statement of income, the sensitivity of bank deposit account fee revenue to interest rate changes is assessed separately from the net interest revenue simulation described above. As of September 30, 2022 and December 31, 2021, simulated changes in bank deposit account fee revenue from gradual 100 basis point changes in market interest rates relative to prevailing market rates did not have a significant impact on the Company&#8217;s total net revenues. 
+
+Economic Value of Equity Simulation 
+
+Management also uses economic value of equity (EVE) simulations to measure interest rate risk. EVE sensitivity measures the long-term impact of interest rate changes on the net present value of assets and liabilities. EVE is calculated by subjecting the balance sheet to hypothetical instantaneous shifts in the level of interest rates. This analysis is highly dependent upon asset and liability assumptions based on historical behaviors as well as our expectations of the economic environment. Key assumptions in our EVE calculation include projection of interest rate scenarios with rate floors, prepayment speeds of mortgage-related investments, term structure models of interest rates, non-maturity deposit behavior, and pricing assumptions. Our net interest revenue, bank deposit account fee revenue, and EVE simulations reflect the assumption of non-negative investment yields. 
+
+Phase-out of LIBOR 
+
+The Company has made significant progress to prepare for the phasing-out of LIBOR, as described in Part II &#8211; Item 7 &#8211; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8211; Risk Management in the 2021 Form 10-K, and additional transition efforts to prepare for the phasing-out of LIBOR are ongoing. 
+
+On March 15, 2022, President Biden signed the Consolidated Appropriations Act of 2022 into law, which includes the Adjustable Interest Rate (LIBOR) Act, containing legislation related to the transition away from LIBOR. This legislation is intended to establish a uniform process for replacing LIBOR in existing contracts and securities that continue after the cessation of LIBOR and do not contain clearly defined or practicable fallback provisions. 
+
+On July 19, 2022, the Federal Reserve Board released a proposal that provides default rules for certain contracts that use LIBOR, which would implement the LIBOR Act with replacement rates based on the Secured Overnight Financing Rate (SOFR). The Company believes the LIBOR Act and the Federal Reserve Board&#8217;s proposed regulation help provide clarity for the transition of our legacy LIBOR contracts, including investment securities, loans, and preferred stock, to alternative reference rates in an orderly manner. 
+
+Liquidity Risk 
+
+Liquidity risk is the potential that Schwab will be unable to sell assets or meet cash flow obligations when they come due without incurring unacceptable losses. We have established liquidity policies to support the successful execution of business strategies, while ensuring ongoing and sufficient liquidity to meet operational needs and satisfy applicable regulatory requirements under both normal and stressed conditions. We employ a variety of methodologies to monitor and manage liquidity, which are described below and in greater detail in Part II &#8211; Item 7 &#8211; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8211; Risk Management &#8211; Liquidity Risk in our 2021 10-K. 
+
+Funding Sources 
+
+Schwab&#8217;s primary source of funds is cash generated by client activity which includes bank deposits and cash balances in client brokerage accounts. These funds are used to purchase investment securities and extend loans to clients. 
+
+Other sources of funds may include cash flows from operations, maturities and sales of investment securities, repayments on loans, securities lending of assets held in client brokerage accounts, repurchase agreements, and cash provided by external financing. 
+
+To meet daily funding needs, we maintain liquidity in the form of overnight cash deposits and short-term investments. For unanticipated liquidity needs, we also maintain a buffer of highly liquid investments, including U.S. Treasury securities. 
+
+- 17 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+In addition to internal sources of liquidity, Schwab has access to external funding. The following table describes external debt facilities available at September 30, 2022: 
+
+Description Borrower Outstanding Available 
+
+Federal Home Loan Bank (FHLB) secured credit facilities (1) 
+
+Banking subsidiaries $ &#8212; $ 82,561 Federal Reserve discount window Banking subsidiaries &#8212; 8,823 Uncommitted, unsecured lines of credit with various external banks CSC, CS&#38;Co &#8212; 1,532 Unsecured commercial paper CSC 500 4,500 
+
+Secured uncommitted lines of credit with various external banks (2) 
+
+TDAC &#8212; &#8212; 
+
+(1) CSC&#8217;s banking subsidiaries must each maintain positive tangible capital, as defined by the FHLB, in order to draw upon these credit facilities. Tangible capital pursuant to the FHLB&#8217;s requirements for our banking subsidiaries is common equity less goodwill and intangible assets. 
+
+(2) Secured borrowing capacity is made available based on TDAC&#8217;s ability to provide acceptable collateral to the lenders as determined by the credit agreements. 
+
+Our banking subsidiaries may also engage with external banks in repurchase agreements collateralized by investment securities as another source of short-term liquidity. CSC&#8217;s ratings for Commercial Paper Notes are P1 by Moody&#8217;s Investor Service (Moody&#8217;s), A1 by Standard &#38; Poor&#8217;s Rating Group (Standard &#38; Poor&#8217;s), and F1 by Fitch Ratings, Ltd (Fitch) at September 30, 2022 and December 31, 2021. CSC also has a universal automatic shelf registration statement on file with the SEC, which enables it to issue debt, equity, and other securities. 
+
+As a result of rapidly increasing short-term interest rates in the second and third quarters of 2022, the Company saw an increase in the pace at which clients moved certain cash balances out of our sweep features and into higher yielding alternatives. As these outflows have continued, they have outpaced excess cash on hand and cash generated by maturities and paydowns on our investment and loan portfolios. In October 2022, our banking subsidiaries began to draw upon the FHLB secured credit facilities to provide temporary supplemental funding. As of October 31, 2022, $9.0 billion was outstanding under these facilities, including both fixed- and floating-rate advances. The current average interest rate on these advances was 4.25%, with the earliest maturity occurring in June 2023. The Company expects to use temporary supplemental funding, including FHLB advances, until the Company&#8217;s primary sources of liquidity are again greater than any outflows associated with client cash allocation decisions. 
+
+See Part II &#8211; Item 7 &#8211; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8211; Risk Management &#8211; Liquidity Risk in the 2021 Form 10-K for additional information on these and other borrowing facilities. 
+
+To support growth in margin loan balances at our broker-dealer subsidiaries while meeting our LCR requirements, the Company may issue commercial paper or draw on secured lines of credit, in addition to capital markets issuances. 
+
+Liquidity Coverage Ratio 
+
+Schwab is subject to the full LCR rule, which requires the Company to hold high quality liquid assets (HQLA) in an amount equal to at least 100% of the Company&#8217;s projected net cash outflows over a prospective 30-calendar-day period of acute liquidity stress, calculated on each business day. See Part I &#8211; Item 1 &#8211; Business &#8211; Regulation in the 2021 Form 10-K for additional information. The Company was in compliance with the LCR rule at September 30, 2022, and the table below presents information about our average daily LCR: 
+
+Average for the Three Months Ended September 30, 2022 Total eligible HQLA $ 110,712 Net cash outflows $ 93,748 LCR 118 % 
+
+Borrowings 
+
+The Company had short-term borrowings outstanding of $500 million and $4.9 billion as of September 30, 2022 and December 31, 2021, respectively. Long-term debt is primarily comprised of Senior Notes and totaled $20.8 billion and $18.9 billion at September 30, 2022 and December 31, 2021, respectively. 
+
+- 18 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following table provides information about our Senior Notes outstanding at September 30, 2022: 
+
+September 30, 2022 Par Outstanding Maturity Weighted Average Interest Rate Moody&#8217;s Standard &#38; Poor&#8217;s Fitch CSC Senior Notes $ 20,512 2023 - 2032 2.44% A2 A A TDA Holding Senior Notes $ 213 2024 - 2029 3.47% A2 A &#8212; 
+
+New Debt Issuances 
+
+The below debt issuances in the first nine months of 2022 were senior unsecured obligations. Interest is payable semi-annually for the fixed-rate Senior Notes and quarterly for the floating-rate Senior Notes. Additional details are as follows: 
+
+Issuance Date Issuance Amount Maturity Date Interest Rate March 3, 2022 $ 500 03/03/2027 SOFR + 1.050% March 3, 2022 $ 1,500 03/03/2027 2.450% March 3, 2022 $ 1,000 03/03/2032 2.900% 
+
+Equity Issuances and Redemptions 
+
+CSC&#8217;s preferred stock issued and net proceeds for the first nine months of 2022 are as follows: 
+
+Date Issued and Sold Net Proceeds Series K March 4, 2022 $ 740 
+
+On November 1, 2022, the Company redeemed all of the outstanding shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A. The Company notified stockholders of its redemption on September 22, 2022, upon which it met the definition of a mandatorily redeemable financial instrument and the criteria for liability classification in accordance with Accounting Standards Codification (ASC) 480, Distinguishing Liabilities from Equity . The Series A preferred stock fair value of $400 million is included in accrued expenses and other liabilities on the condensed consolidated balance sheet as of September 30, 2022. In addition, on October 20, 2022, the Company announced it will redeem on December 1, 2022 all of the outstanding shares of its Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E, and the corresponding depositary shares. 
+
+For further discussion, see Item 1 &#8211; Note 8 for the Company&#8217;s outstanding debt and borrowing facilities and Item 1 &#8211; Note 13 for equity outstanding balances, issuances, and redemptions. 
+
+Schwab additionally enters into guarantees and other similar arrangements in the ordinary course of business. For information on these arrangements, see Item 1 &#8211; Notes 5, 6, 8, 9, and 11. 
+
+CAPITAL MANAGEMENT 
+
+Schwab seeks to manage capital to a level and composition sufficient to support execution of our business strategy, including anticipated balance sheet growth inclusive of migration of IDA balances (see further discussion below), providing financial support to our subsidiaries, and sustained access to the capital markets, while at the same time meeting our regulatory capital requirements and serving as a source of financial strength to our banking subsidiaries. Schwab&#8217;s primary sources of capital are funds generated by the operations of subsidiaries and securities issuances by CSC in the capital markets. To ensure that Schwab has sufficient capital to absorb unanticipated losses or declines in asset values, we have adopted a policy to remain well capitalized even in stressed scenarios. 
+
+- 19 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Regulatory Capital Requirements 
+
+CSC and certain subsidiaries including our banking and broker-dealer subsidiaries are subject to various capital requirements set by regulatory agencies as discussed in further detail in Part II &#8211; Item 7 &#8211; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8211; Capital Management of the 2021 Form 10-K and in Item 1 &#8211; Note 16. As of September 30, 2022, CSC and our banking subsidiaries are considered well capitalized, and CS&#38;Co, TDAC, and TD Ameritrade, Inc. were in compliance with their respective net capital requirements. 
+
+The following table details CSC&#8217;s consolidated and CSB&#8217;s capital ratios as of September 30, 2022 and December 31, 2021: 
+
+September 30, 2022 December 31, 2021 CSC CSB CSC CSB Total stockholders&#8217; equity $ 37,041 $ 10,352 $ 56,261 $ 27,035 Less: Preferred stock 10,297 &#8212; 9,954 &#8212; Common Equity Tier 1 Capital before regulatory adjustments $ 26,744 $ 10,352 $ 46,307 $ 27,035 Less: Goodwill, net of associated deferred tax liabilities $ 11,856 $ 13 $ 11,857 $ 13 Other intangible assets, net of associated deferred tax liabilities 7,180 &#8212; 7,579 &#8212; Deferred tax assets, net of valuation allowances and deferred tax liabilities 31 29 13 12 AOCI adjustment (1) 
+
+(23,151) (20,158) (1,109) (1,004) Common Equity Tier 1 Capital $ 30,828 $ 30,468 $ 27,967 $ 28,014 Tier 1 Capital $ 41,125 $ 30,468 $ 37,921 $ 28,014 Total Capital 41,182 30,519 37,950 28,033 Risk-Weighted Assets 145,418 103,671 141,969 104,409 Total Leverage Exposure 604,741 406,166 614,466 400,532 Common Equity Tier 1 Capital/Risk-Weighted Assets 21.2 % 29.4 % 19.7 % 26.8 % Tier 1 Capital/Risk-Weighted Assets 28.3 % 29.4 % 26.7 % 26.8 % Total Capital/Risk-Weighted Assets 28.3 % 29.4 % 26.7 % 26.8 % Tier 1 Leverage Ratio 6.8 % 7.6 % 6.2 % 7.1 % Supplementary Leverage Ratio 6.8 % 7.5 % 6.2 % 7.0 % 
+
+(1) Changes in market interest rates can result in unrealized gains or losses on AFS securities, which are included in AOCI. As a Category III banking organization, CSC has elected to exclude AOCI from regulatory capital. 
+
+In the third quarter of 2022, the Company lowered its operating objective for the consolidated Tier 1 Leverage Ratio down 25 basis points from 6.75% - 7.00% to 6.50% - 6.75%. Capital operating objectives and limits for our subsidiaries remain unchanged. 
+
+The Company&#8217;s consolidated Tier 1 Leverage Ratio increased to 6.8% at September 30, 2022 from 6.2% at year-end 2021. This increase resulted from strength in earnings in the first nine months of 2022, our March 2022 issuance of preferred stock net of the announced redemption of Series A, and a decrease of $63.7 billion, or 11%, in total bank deposits and payables to brokerage clients due to seasonal tax outflows and client cash allocation decisions resulting from the rising interest rate environment. CSB&#8217;s Tier 1 Leverage Ratio also increased from year-end 2021, ending the third quarter of 2022 at 7.6%. 
+
+IDA Agreement 
+
+Certain brokerage client deposits are swept off-balance sheet to the TD Depository Institutions pursuant to the IDA agreement. During the first nine months of 2022, Schwab moved $14.6 billion of IDA balances to its balance sheet. The Company&#8217;s overall capital management strategy includes supporting migration of IDA balances in future periods as available pursuant to the terms of the IDA agreement. The Company&#8217;s ability to migrate these balances to its balance sheet is dependent upon multiple factors including having sufficient capital levels to sustain these incremental deposits and the availability of IDA balances designated as floating-rate obligations. See Item 1 &#8211; Note 9 for further information on the IDA agreement. 
+
+- 20 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Dividends 
+
+On July 27, 2022, the Board of Directors of CSC declared a two cent, or 10%, increase in the quarterly cash dividend to $.22 per common share. 
+
+Cash dividends paid and per share amounts for the first nine months of 2022 and 2021 are as follows: 
+
+2022 2021 Nine Months Ended September 30, Cash Paid Per Share Amount Cash Paid Per Share Amount Common and Nonvoting Common Stock $ 1,179 $ .62 $ 1,024 $ .54 Preferred Stock: Series A (1) 
+
+25 63.30 28 70.00 Series C (2) 
+
+&#8212; &#8212; 18 30.00 Series D (3) 
+
+33 44.64 33 44.64 Series E (4) 
+
+27 4,544.37 28 4,625.00 Series F (5) 
+
+13 2,500.00 13 2,500.00 Series G (3) 
+
+101 4,031.25 101 4,031.25 Series H (6) 
+
+75 3,000.00 72 2,888.89 Series I (7) 
+
+68 3,000.00 41 1,811.11 Series J (8) 
+
+20 33.39 11 18.67 Series K (9) 
+
+18 2,458.33 N/A N/A 
+
+(1) Subsequent to September 30, 2022, Series A was redeemed on November 1, 2022. Prior to redemption, dividends were paid semi-annually until February 1, 2022 and quarterly thereafter. The final dividend was paid on November 1, 2022. 
+
+(2) Series C was redeemed on June 1, 2021. Prior to redemption, dividends were paid quarterly and the final dividend was paid on June 1, 2021. 
+
+(3) Dividends paid quarterly. 
+
+(4) Dividends paid semi-annually until March 1, 2022 and quarterly thereafter. Subsequent to September 30, 2022, the Company announced the redemption of Series E effective December 1, 2022. 
+
+(5) Dividends paid semi-annually until December 1, 2027 and quarterly thereafter. 
+
+(6) Series H was issued on December 11, 2020. Dividends are paid quarterly, and the first dividend was paid on March 1, 2021. 
+
+(7) Series I was issued on March 18, 2021. Dividends are paid quarterly, and the first dividend was paid on June 1, 2021. 
+
+(8) Series J was issued on March 30, 2021. Dividends are paid quarterly, and the first dividend was paid on June 1, 2021. 
+
+(9) Series K was issued on March 4, 2022. Dividends are paid quarterly, and the first dividend was paid on June 1, 2022. 
+
+N/A Not applicable. 
+
+Share Repurchases 
+
+On July 27, 2022, CSC publicly announced that its Board of Directors terminated the existing share repurchase authorization of up to $4.0 billion of common stock and replaced it with a new authorization to repurchase up to $15.0 billion of common stock. The new share repurchase authorization does not have an expiration date. On August 1, 2022, CSC purchased, directly from an affiliate of TD Bank, 15 million shares of nonvoting common stock for a total of $1.0 billion, or approximately $66.53 per share. The shares of nonvoting common stock automatically converted into common stock and were purchased under CSC&#8217;s new share repurchase authorization. The purchase price paid by CSC was equal to the lowest price per share that the affiliate of TD Bank received in a contemporaneous share sale facilitated by a third-party market maker, which resulted in a purchase price lower than the closing price on August 1, 2022. CSC repurchased an additional $500 million of common stock under the new authorization during the three months ended September 30, 2022. There were no repurchases of CSC&#8217;s common stock under the terminated authorization during the three and nine months ended September 30, 2022 and 2021. As of September 30, 2022, $13.5 billion remained on the new authorization. 
+
+OTHER 
+
+Foreign Exposure 
+
+At September 30, 2022, Schwab had exposure to non-sovereign financial and non-financial institutions in foreign countries, as well as agencies of foreign governments. At September 30, 2022, the fair value of these holdings totaled $18.0 billion, with the top three exposures being to issuers and counterparties domiciled in France at $5.8 billion, the United Kingdom at $4.7 billion, and Canada at $1.7 billion. At December 31, 2021, the fair value of these holdings totaled $12.5 billion, with the top three exposures being to issuers and counterparties domiciled in the United Kingdom at $5.2 billion, France at $3.9 billion, and 
+
+- 21 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Sweden at $754 million. In addition, Schwab had outstanding margin loans to foreign residents of $3.2 billion and $3.3 billion at September 30, 2022 and December 31, 2021, respectively. 
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+Certain of our accounting policies that involve a higher degree of judgment and complexity are discussed in Part II &#8211; Item 7 &#8211; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8211; Critical Accounting Estimates in the 2021 Form 10-K. There have been no changes to critical accounting estimates during the first nine months of 2022. 
+
+NON-GAAP FINANCIAL MEASURES 
+
+In addition to disclosing financial results in accordance with generally accepted accounting principles in the U.S. (GAAP), Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations contain references to the non-GAAP financial measures described below. We believe these non-GAAP financial measures provide useful supplemental information about the financial performance of the Company, and facilitate meaningful comparison of Schwab&#8217;s results in the current period to both historic and future results. These non-GAAP measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may not be comparable to non-GAAP financial measures presented by other companies. 
+
+Schwab&#8217;s use of non-GAAP measures is reflective of certain adjustments made to GAAP financial measures as described below. 
+
+Non-GAAP Adjustment or Measure Definition Usefulness to Investors and Uses by Management Acquisition and integration-related costs and amortization of acquired intangible assets Schwab adjusts certain GAAP financial measures to exclude the impact of acquisition and integration-related costs incurred as a result of the Company&#8217;s acquisitions, amortization of acquired intangible assets, and, where applicable, the income tax effect of these expenses. Adjustments made to exclude amortization of acquired intangible assets are reflective of all acquired intangible assets, which were recorded as part of purchase accounting. These acquired intangible assets contribute to the Company&#8217;s revenue generation. Amortization of acquired intangible assets will continue in future periods over their remaining useful lives. We exclude acquisition and integration-related costs and amortization of acquired intangible assets for the purpose of calculating certain non-GAAP measures because we believe doing so provides additional transparency of Schwab&#8217;s ongoing operations, and is useful in both evaluating the operating performance of the business and facilitating comparison of results with prior and future periods. Acquisition and integration-related costs fluctuate based on the timing of acquisitions and integration activities, thereby limiting comparability of results among periods, and are not representative of the costs of running the Company&#8217;s ongoing business. Amortization of acquired intangible assets is excluded because management does not believe it is indicative of the Company&#8217;s underlying operating performance. Return on tangible common equity Return on tangible common equity represents annualized adjusted net income available to common stockholders as a percentage of average tangible common equity. Tangible common equity represents common equity less goodwill, acquired intangible assets &#8212; net, and related deferred tax liabilities. Acquisitions typically result in the recognition of significant amounts of goodwill and acquired intangible assets. We believe return on tangible common equity may be useful to investors as a supplemental measure to facilitate assessing capital efficiency and returns relative to the composition of Schwab&#8217;s balance sheet. 
+
+The Company also uses adjusted diluted EPS and return on tangible common equity as components of performance criteria for employee bonus and certain executive management incentive compensation arrangements. The Compensation Committee of CSC&#8217;s Board of Directors maintains discretion in evaluating performance against these criteria. 
+
+- 22 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following tables present reconciliations of GAAP measures to non-GAAP measures: 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2022 2021 2022 2021 Total expenses excluding interest (GAAP) $ 2,823 $ 2,559 $ 8,475 $ 8,122 Acquisition and integration-related costs (1) 
+
+(101) (104) (291) (367) Amortization of acquired intangible assets (152) (153) (460) (461) Adjusted total expenses (non-GAAP) $ 2,570 $ 2,302 $ 7,724 $ 7,294 
+
+(1) Acquisition and integration-related costs for the three and nine months ended September 30, 2022 primarily consist of $57 million and $166 million of compensation and benefits, $36 million and $102 million of professional services, and $6 million and $14 million of occupancy and equipment. Acquisition and integration-related costs for the three and nine months ended September 30, 2021 primarily consist of $58 million and $227 million of compensation and benefits, $35 million and $99 million of professional services, and $7 million and $30 million of occupancy and equipment. 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2022 2021 2022 2021 Amount Diluted EPS Amount Diluted EPS Amount Diluted EPS Amount Diluted EPS Net income available to common stockholders (GAAP), Earnings per common share &#8212; diluted (GAAP) $ 1,884 $ .99 $ 1,406 $ .74 $ 4,814 $ 2.53 $ 3,911 $ 2.06 Acquisition and integration-related costs 101 .05 104 .05 291 .15 367 .19 Amortization of acquired intangible assets 152 .08 153 .08 460 .24 461 .24 Income tax effects (1) 
+
+(62) (.02) (61) (.03) (183) (.09) (208) (.10) Adjusted net income available to common stockholders &#160;(non-GAAP), Adjusted diluted EPS (non-GAAP) $ 2,075 $ 1.10 $ 1,602 $ .84 $ 5,382 $ 2.83 $ 4,531 $ 2.39 
+
+(1) The income tax effects of the non-GAAP adjustments are determined using an effective tax rate reflecting the exclusion of non-deductible acquisition costs and are used to present the acquisition and integration-related costs and amortization of acquired intangible assets on an after-tax basis. 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2022 2021 2022 2021 Return on average common stockholders&#8217; equity (GAAP) 25 % 12 % 18 % 11 % Average common stockholders&#8217; equity $ 30,282 $ 47,492 $ 36,526 $ 47,908 Less: Average goodwill (11,951) (11,952) (11,952) (11,952) Less: Average acquired intangible assets &#8212; net (8,999) (9,609) (9,151) (9,762) Plus: Average deferred tax liabilities related to goodwill and acquired intangible assets &#8212; net 1,848 1,895 1,867 1,913 Average tangible common equity $ 11,180 $ 27,826 $ 17,290 $ 28,107 Adjusted net income available to common stockholders (1) 
+
+$ 2,075 $ 1,602 $ 5,382 $ 4,531 Return on tangible common equity (non-GAAP) 74 % 23 % 42 % 21 % 
+
+(1) See table above for the reconciliation of net income available to common stockholders to adjusted net income available to common stockholders (non-GAAP). 
+
+- 23 - 
+
+THE CHARLES SCHWAB CORPORATION 
+

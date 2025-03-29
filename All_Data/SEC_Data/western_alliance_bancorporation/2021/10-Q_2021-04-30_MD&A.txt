@@ -1,0 +1,412 @@
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+
+This discussion is designed to provide insight into management's assessment of significant trends related to the Company's consolidated financial condition, results of operations, liquidity, capital resources, and interest rate sensitivity. This Quarterly Report on Form 10-Q should be read in conjunction with the Company's Annual Report on Form 10-K for the year ended December 31, 2020 and the interim Unaudited Consolidated Financial Statements and Notes to Unaudited Consolidated Financial Statements hereto and financial information appearing elsewhere in this report. Unless the context requires otherwise, the terms "Company," "we," and "our" refer to Western Alliance Bancorporation and its wholly-owned subsidiaries on a consolidated basis. 
+
+Forward-Looking Information 
+
+Certain statements contained in this Quarterly Report on Form 10-Q for the quarter ended March 31, 2021 are &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act. The Company intends such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements. All statements other than statements of historical fact are &#8220;forward-looking statements&#8221; for purposes of federal and state securities laws, including statements that are related to or are dependent on estimates or assumptions relating to expectations, beliefs, projections, future plans and strategies, anticipated events or trends, and similar expressions concerning matters that are not historical facts. 
+
+The forward-looking statements contained in this Form 10-Q reflect the Company's current views about future events and financial performance and involve certain risks, uncertainties, assumptions, and changes in circumstances that may cause the Company's actual results to differ significantly from historical results and those expressed in any forward-looking statement, including those risks discussed under the heading &#8220;Risk Factors&#8221; in this Form 10-Q. Risks and uncertainties include those set forth in the Company's filings with the SEC and the following factors that could cause actual results to differ materially from those presented: 1) ability to successfully integrate and operate AHM; 2) the potential adverse effects of the ongoing COVID-19 pandemic and any governmental or societal responses thereto, including legislative or regulatory changes such as the CARES Act as well as the distribution and effectiveness of COVID-19 vaccines; 3) other financial market and economic conditions adversely effecting financial performance; 4) dependency on real estate and events that negatively impact the real estate market; 5) high concentration of commercial real estate and commercial and industrial loans; 6) the inherent risk associated with accounting estimates, including the impact to the Company's allowance, provision for credit losses, and capital levels under the CECL accounting standard; 7) results of any tax audit findings, challenges to the Company's tax positions, or adverse changes or interpretations of tax laws; 8) the geographic concentrations of the Company's assets increase the risks related to local economic conditions; 9) the Company's ability to compete in a highly competitive market; 10) dependence on low-cost deposits; 11) ability to borrow from the FHLB or the FRB; 12) exposure to environmental liabilities related to the properties to which the Company acquires title; 13) perpetration of fraud; 14) information security breaches; 15) reliance on third parties to provide key components of the Company's infrastructure; 16) a change in the Company's creditworthiness; 17) the Company's ability to implement and improve its controls and processes to keep pace with its growth; 18) expansion strategies may not be successful; 19) risks associated with new lines of businesses or new products and services within existing lines of business; 20) the Company's ability to recruit and retain qualified employees and implement adequate succession planning to mitigate the loss of key members of its senior management team; 21) inadequate or ineffective risk management practices and internal controls and procedures; 22) the Company's ability to adapt to technological change; 23) exposure to natural and man-made disasters in markets that the Company operates; 24) risk of operating in a highly regulated industry and the Company's ability to remain in compliance; 25) failure to comply with state and federal banking agency laws and regulations; 26) exposure of financial instruments to certain market risks may increase the volatility of earnings and AOCI; 27) uncertainty about the future of LIBOR, changes in interest rates, and increased rate competition; and 28) risks related to ownership and price of the Company's common stock. 
+
+For more information regarding risks that may cause the Company's actual results to differ materially from any forward-looking statements, see &#8220;Risk Factors&#8221; in Item 1A of the Company's Annual Report on Form 10-K for the year ended December 31, 2020. 
+
+Recent Developments: Closing of AHM Acquisition 
+
+On April 7, 2021, the Company completed its previously announced acquisition of Aris, the parent company of AHM, pursuant to which, Aris merged with and into an indirect subsidiary of WAB. Based on AHM's closing balance sheet and a $275 million cash premium, total consideration was approximately $1.22 billion. As a result of the Merger, AHM is now a wholly-owned indirect subsidiary of the Company and will continue to operate as AmeriHome Mortgage, a Western Alliance Bank company. AHM is a leading national business to business mortgage acquirer and servicer. The acquisition of AHM is expected to extend the Company&#8217;s national commercial businesses with a complementary national mortgage franchise that will allow the Company to expand mortgage offerings to existing clients. In addition, this acquisition positions the Company for continued growth, increased returns, and diversifies the Company&#8217;s revenue profile by expanding sources of fee revenue. 
+
+Recent Developments: COVID-19 and the CARES Act 
+
+The COVID-19 pandemic and certain provisions of the CARES Act and other recent legislative and regulatory relief efforts have had and are expected to continue to have a material impact on the Company's operations, as further discussed below. 
+
+Financial position and results of operations 
+
+The continued improved outlook for the overall economy from December 31, 2020 resulted in a release of $32.4 million in credit loss provisions during the three months ended March 31, 2021. While the Company has not to date experienced significant write-offs related to the COVID-19 pandemic, the Company is continuing to closely monitor its loans with borrowers in COVID-19 impacted industries. 
+
+The below table details the Company's exposure to borrowers in industries generally considered to be the most impacted by the COVID-19 pandemic: 
+
+March 31, 2021 Loan Balance Percent of Total Loan Portfolio (dollars in millions) Industry (1): Hotel $ 2,282.6 &#160; 7.9 &#160; % Investor dependent 1,141.1 &#160; 4.0 &#160; Retail (2) 697.5 &#160; 2.4 &#160; Gaming 569.9 &#160; 2.0 &#160; Total $ 4,691.1 &#160; 16.3 &#160; % 
+
+(1) Balances capture credit exposures in the business segments that manage the significant majority of industry relationships. 
+
+(2) Consists of real estate secured loan amounts that have significant retail dependency. 
+
+Although the Company has not experienced disproportionate impacts among its business segments to date, borrowers in the industries detailed in the table above could have greater sensitivity to the economic downturn with potentially longer recovery periods than other business lines. 
+
+Lending operations and accommodations to borrowers 
+
+The original PPP terminated on August 8, 2020, but was reopened in January 2021, with $284 billion in additional funding. As part of the resumption of the program, significant clarifications and modifications were made related to the scope of businesses eligible, expansion of the scope of expenses eligible for forgiveness, and simplification of forgiveness mechanisms for loans of $150,000 or less. Eligible businesses were able to apply for and receive PPP loans through May 31, 2021 and certain small businesses that previously received a loan under the original program were eligible to obtain an additional loan. These loans have a five-year term and earn interest at a rate of 1%. During the three months ended, March 31, 2021, the Company funded $560 million in loans under the second round of the PPP and received $478.7 million in loan payoffs on the first round of PPP loans. As of March 31, 2021, the outstanding balance of loans originated under the first and second round of the PPP totaled $1.5 billion. 
+
+The CARES Act permitted financial institutions to suspend requirements under GAAP for loan modifications to borrowers affected by COVID-19 and provided interpretive guidance as to conditions that would constitute a short-term modification that would not meet the definition of a TDR. This included the following (i) the loan modification was made between March 1, 2020 and December 31, 2020 and (ii) the applicable loan was not more than 30 days past due as of December 31, 2019. The Consolidated Appropriations Act, 2021, signed into law on December 27, 2020, extends these provisions through January 1, 2022. The Company is applying this guidance to qualifying loan modifications. The types of loan modifications granted to borrowers included extensions of loan maturity dates, covenant waivers, interest only payments for a specified period of time, 
+
+and loan payment deferrals. As of March 31, 2021, the Company has outstanding modifications on loans that met these conditions with a net balance of $271.4 million, of which, modifications involving loan payment deferrals total $68.5 million. Further, residential mortgage loans in forbearance have a net balance of $65.0 million as of March 31, 2021. 
+
+Included at the end of this section are updates to the Supervision and Regulation discussion disclosed in "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations," in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2020. 
+
+Financial Overview and Highlights 
+
+WAL is a bank holding company headquartered in Phoenix, Arizona, incorporated under the laws of the state of Delaware. WAL provides a full spectrum of deposit, lending, treasury management, international banking, and online banking products and services through its wholly-owned banking subsidiary, WAB. 
+
+WAB operates the following full-service banking divisions: ABA, BON and FIB, Bridge, and TPB. The Company also provides an array of specialized financial services to its business customers across the country. 
+
+Financial Results Highlights for the First Quarter of 2021 
+
+&#8226; Net income of $192.5 million, compared to $83.9 million for the first quarter 2020 
+
+&#8226; Diluted earnings per share of $1.90, compared to $0.83 per share for the first quarter 2020 
+
+&#8226; Total loans of $28.7 billion, up $1.7 billion from December 31, 2020 
+
+&#8226; Total deposits of $38.4 billion, up $6.5 billion from December 31, 2020 
+
+&#8226; Net interest margin of 3.37%, compared to 4.22% in the first quarter 2020 
+
+&#8226; Net revenue of $337.0 million, an increase of 22.9%, or $62.9 million, compared to the first quarter 2020, with non-interest expense increase of 12.0%, or $14.5 million, compared to the first quarter 2020 
+
+&#8226; PPNR of $202.0 million, up 31.5% from $153.6 million in the first quarter 2020 1 
+
+&#8226; Efficiency ratio of 39.1% in the first quarter 2021, compared to 42.9% in the first quarter 2020 1 
+
+&#8226; Nonperforming assets (nonaccrual loans and repossessed assets) decreased to 0.27% of total assets, from 0.33% at March 31, 2020 
+
+&#8226; Annualized net loan charge-offs to average loans outstanding of 0.02%, compared to net loan recoveries to average loans outstanding of (0.06)% for the first quarter 2020 
+
+&#8226; Tangible common equity ratio of 7.9%, compared to 9.4% at March 31, 2020 1 
+
+&#8226; Stockholders' equity of $3.7 billion, an increase of $299.2 million from December 31, 2020 
+
+&#8226; Book value per common share of $35.89, an increase of 21.0% from $29.65 at March 31, 2020 
+
+&#8226; Tangible book value per share, net of tax, of $33.02, an increase of $6.29 from $26.73 at March 31, 2020 1 
+
+The impact to the Company from these items, and others of both a positive and negative nature, are discussed in more detail below as they pertain to the Company&#8217;s overall comparative performance for the three months ended March 31, 2021. 
+
+1 See Non-GAAP Financial Measures section beginning on page 65. 
+
+As a bank holding company, management focuses on key ratios in evaluating the Company's financial condition and results of operations. 
+
+Results of Operations and Financial Condition 
+
+A summary of the Company's results of operations, financial condition, and selected metrics are included in the following tables: 
+
+Three Months Ended March 31, 2021 2020 (in millions, except per share amounts) Net income $ 192.5 &#160; $ 83.9 Earnings per share - basic 1.91 &#160; 0.83 Earnings per share - diluted 1.90 &#160; 0.83 Return on average assets 1.93 &#160; % 1.22 % Return on average tangible common equity (1) 24.2 &#160; 12.2 Net interest margin 3.37 &#160; 4.22 
+
+(1) See Non-GAAP Financial Measures section beginning on page 65. 
+
+March 31, 2021 December 31, 2020 (in millions) Total assets $ 43,397.0 &#160; $ 36,461.0 Total loans, net of deferred loan fees and costs 28,711.0 &#160; 27,053.0 Total deposits 38,393.1 &#160; 31,930.5 
+
+Asset Quality 
+
+For all banks and bank holding companies, asset quality plays a significant role in the overall financial condition of the institution and results of operations. The Company measures asset quality in terms of nonaccrual loans as a percentage of gross loans and net charge-offs as a percentage of average loans. Net charge-offs are calculated as the difference between charged-off loans and recovery payments received on previously charged-off loans. The following table summarizes the Company's key asset quality metrics: 
+
+March 31, 2021 December 31, 2020 (dollars in millions) Nonaccrual loans $ 113.6 &#160; $ 115.2 Non-performing assets 150.6 &#160; 149.8 Nonaccrual loans to funded loans 0.40 &#160; % 0.43 % Net charge-offs to average loans outstanding (1) 0.02 &#160; 0.06 
+
+(1) Annualized on an actual/actual basis for the three months ended March 31, 2021. Actual year-to-date for the year ended December 31, 2020. 
+
+Asset and Deposit Growth 
+
+The Company&#8217;s assets and liabilities are comprised primarily of loans and deposits. Therefore, the ability to originate new loans and attract new deposits is fundamental to the Company&#8217;s growth. 
+
+Total assets increased to $43.4 billion at March 31, 2021 from $36.5 billion at December 31, 2020. The increase in total assets of $6.9 billion, or 19.0%, relates primarily to an increase in cash and investment securities from continued deposit growth in addition to continued loan growth. Total loans increased by $1.7 billion, or 6.1%, to $28.7 billion as of March 31, 2021, compared to $27.1 billion as of December 31, 2020. The increase in loans from December 31, 2020 was driven by increases in commercial and industrial loans of $746.3 million, residential real estate loans of $674.5 million, and construction and land development loans of $336.5 million. These increases were partially offset by a decrease in CRE, owner occupied loans of $104.8 million. 
+
+Total deposits increased $6.5 billion, or 20.2%, to $38.4 billion as of March 31, 2021 from $31.9 billion as of December 31, 2020. The increase in deposits from December 31, 2020 was driven by an increase of $4.1 billion in non-interest bearing demand deposits and $2.9 billion in savings and money market accounts. These increases were offset in part by a decrease in interest bearing demand deposits of $503.0 million. 
+
+RESULTS OF OPERATIONS 
+
+The following table sets forth a summary financial overview for the comparable periods: 
+
+Three Months Ended March 31, Increase 2021 2020 (Decrease) (in millions, except per share amounts) Consolidated Income Statement Data: Interest income $ 334.1 &#160; $ 307.2 $ 26.9 &#160; Interest expense 16.8 &#160; 38.2 (21.4) Net interest income 317.3 &#160; 269.0 48.3 &#160; (Recovery of) provision for credit losses (32.4) 51.2 (83.6) Net interest income after (recovery of) provision for credit losses 349.7 &#160; 217.8 131.9 &#160; Non-interest income 19.7 &#160; 5.1 14.6 &#160; Non-interest expense 135.0 &#160; 120.5 14.5 &#160; Income before provision for income taxes 234.4 &#160; 102.4 132.0 &#160; Income tax expense 41.9 &#160; 18.5 23.4 &#160; Net income $ 192.5 &#160; $ 83.9 $ 108.6 &#160; Earnings per share - basic $ 1.91 &#160; $ 0.83 $ 1.08 &#160; Earnings per share - diluted $ 1.90 &#160; $ 0.83 $ 1.07 &#160; 
+
+Non-GAAP Financial Measures 
+
+The following discussion and analysis contains financial information determined by methods other than those prescribed by GAAP. The Company's management uses these non-GAAP financial measures in their analysis of the Company's performance. Management believes presentation of these non-GAAP financial measures provides useful supplemental information that is essential to a complete understanding of the operating results of the Company. Since the presentation of these non-GAAP performance measures and their impact differ between companies, these non-GAAP disclosures should not be viewed as a substitute for operating results determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. 
+
+Pre-Provision Net Revenue 
+
+PPNR is defined by the Federal Reserve in SR 14-3, which requires companies subject to the rule to project PPNR over the planning horizon for each of the economic scenarios defined annually by the regulators. Banking regulations define PPNR as net interest income plus non-interest income less non-interest expense. Management believes that this is an important metric as it illustrates the underlying performance of the Company, it enables investors and others to assess the Company's ability to generate capital to cover credit losses through the credit cycle, and provides consistent reporting with a key metric used by bank regulatory agencies. 
+
+The following table shows the components of PPNR for the three months ended March 31, 2021 and 2020: 
+
+Three Months Ended March 31, 2021 2020 (in millions) Net interest income $ 317.3 &#160; $ 269.0 Total non-interest income 19.7 &#160; 5.1 Net revenue $ 337.0 &#160; $ 274.1 Total non-interest expense 135.0 &#160; 120.5 Pre-provision net revenue $ 202.0 &#160; $ 153.6 Less: (Recovery of) provision for credit losses (32.4) 51.2 Income tax expense 41.9 &#160; 18.5 Net income $ 192.5 &#160; $ 83.9 
+
+Efficiency Ratio 
+
+The following table shows the components used in the calculation of the efficiency ratio, which management uses as a metric for assessing cost efficiency: 
+
+Three Months Ended March 31, 2021 2020 (dollars in millions) Total non-interest expense $ 135.0 &#160; $ 120.5 Divided by: Total net interest income $ 317.3 &#160; $ 269.0 Plus: Tax equivalent interest adjustment 8.0 &#160; 6.5 Total non-interest income 19.7 &#160; 5.1 $ 345.0 &#160; $ 280.6 Efficiency ratio - tax equivalent basis 39.1 &#160; % 42.9 % 
+
+Tangible Common Equity 
+
+The following table presents financial measures related to tangible common equity. Tangible common equity represents total stockholders' equity, less identifiable intangible assets and goodwill. Management believes that tangible common equity financial measures are useful in evaluating the Company's capital strength, financial condition, and ability to manage potential losses. In addition, management believes that these measures improve comparability to other institutions that have not engaged in acquisitions that resulted in recorded goodwill and other intangible assets. 
+
+March 31, 2021 December 31, 2020 (dollars and shares in millions) Total stockholders' equity $ 3,712.7 &#160; $ 3,413.5 Less: goodwill and intangible assets 298.0 &#160; 298.5 Total tangible stockholders' equity 3,414.7 &#160; 3,115.0 Plus: deferred tax - attributed to intangible assets 1.4 &#160; 1.6 Total tangible common equity, net of tax $ 3,416.1 &#160; $ 3,116.6 Total assets $ 43,397.0 &#160; $ 36,461.0 Less: goodwill and intangible assets, net 298.0 &#160; 298.5 Tangible assets 43,099.0 &#160; 36,162.5 Plus: deferred tax - attributed to intangible assets 1.4 &#160; 1.6 Total tangible assets, net of tax $ 43,100.4 &#160; $ 36,164.1 Tangible common equity ratio 7.9 &#160; % 8.6 % Common shares outstanding 103.4 &#160; 100.8 Book value per share $ 35.89 &#160; $ 33.85 Tangible book value per share, net of tax 33.02 &#160; 30.90 
+
+Regulatory Capital 
+
+The following table presents certain financial measures related to regulatory capital under Basel III, which includes common equity tier 1 and total capital. The FRB and other banking regulators use CET1 and total capital as a basis for assessing a bank's capital adequacy; therefore, management believes it is useful to assess financial condition and capital adequacy using this same basis. Specifically, the total capital ratio takes into consideration the risk levels of assets and off-balance sheet financial instruments. In addition, management believes that the classified assets to CET1 plus allowance measure is an important regulatory metric for assessing asset quality. 
+
+As permitted by the regulatory capital rules, the Company elected to delay the estimated impact of CECL on its regulatory capital over a five-year transition period ending December 31, 2024. As a result, capital ratios and amounts as of March 31, 2021 exclude the impact of the increased allowance for credit losses related to the adoption of ASC 326. 
+
+March 31, 2021 December 31, 2020 (dollars in millions) Common equity tier 1: Common equity $ 3,756.6 &#160; $ 3,465.9 Less: Non-qualifying goodwill and intangibles 296.6 &#160; 296.9 Disallowed deferred tax asset 2.7 &#160; &#8212; AOCI related adjustments 19.7 &#160; 91.8 Unrealized gain on changes in fair value liabilities 0.2 &#160; 0.5 Common equity tier 1 $ 3,437.4 &#160; $ 3,076.7 Divided by: Risk-weighted assets $ 33,326.1 &#160; $ 31,015.4 Common equity tier 1 ratio 10.3 &#160; % 9.9 % Common equity tier 1 $ 3,437.4 &#160; $ 3,076.7 Plus: Trust preferred securities 81.5 &#160; 81.5 Tier 1 capital $ 3,518.9 &#160; $ 3,158.2 Divided by: Tangible average assets $ 40,072.7 &#160; $ 34,349.3 Tier 1 leverage ratio 8.8 &#160; % 9.2 % Total capital: Tier 1 capital $ 3,518.9 &#160; $ 3,158.2 Plus: Subordinated debt 449.3 &#160; 454.8 Adjusted allowances for credit losses 233.3 &#160; 259.0 Tier 2 capital $ 682.6 &#160; $ 713.8 Total capital $ 4,201.5 &#160; $ 3,872.0 Total capital ratio 12.6 &#160; % 12.5 % Classified assets to tier 1 capital plus allowance: Classified assets $ 280.9 &#160; $ 223.7 Divided by: Tier 1 capital 3,518.9 &#160; 3,158.2 Plus: Adjusted allowances for credit losses 233.3 &#160; 259.0 Total Tier 1 capital plus adjusted allowances for credit losses $ 3,752.2 &#160; $ 3,417.2 Classified assets to tier 1 capital plus allowance 7.5 &#160; % 6.5 % 
+
+Net Interest Margin 
+
+The net interest margin is reported on a TEB. A tax equivalent adjustment is added to reflect interest earned on certain securities and loans that are exempt from federal and state income tax. The following tables set forth the average balances, interest income, interest expense, and average yield (on a fully TEB) for the periods indicated: 
+
+Three Months Ended March 31, 2021 2020 Average Balance Interest Average Yield / Cost Average Balance Interest Average Yield / Cost (dollars in millions) Interest earning assets Loans: Commercial and industrial $ 13,951.6 &#160; $ 151.0 &#160; 4.48 &#160; % $ 9,651.1 $ 124.7 5.32 % CRE - non-owner-occupied 5,649.7 &#160; 65.1 &#160; 4.68 &#160; 5,238.0 68.9 5.30 CRE - owner-occupied 2,094.2 &#160; 24.4 &#160; 4.83 &#160; 2,281.3 29.2 5.24 Construction and land development 2,484.8 &#160; 35.6 &#160; 5.81 &#160; 2,006.0 32.2 6.50 Residential real estate 2,507.7 &#160; 21.9 &#160; 3.55 &#160; 2,158.2 20.8 3.88 Consumer 34.5 &#160; 0.4 &#160; 5.39 &#160; 55.4 0.8 5.47 Loans held for sale &#8212; &#160; &#8212; &#160; &#8212; &#160; 21.8 0.3 5.98 Total loans (1), (2), (3) 26,722.5 &#160; 298.4 &#160; 4.59 &#160; 21,411.8 276.9 5.27 Securities: Securities - taxable 4,531.4 &#160; 18.5 &#160; 1.66 &#160; 2,889.2 17.3 2.40 Securities - tax-exempt 1,980.9 &#160; 15.5 &#160; 3.99 &#160; 1,164.3 10.1 4.40 Total securities (1) 6,512.3 &#160; 34.0 &#160; 2.37 &#160; 4,053.5 27.4 2.98 Other 5,864.0 &#160; 1.7 &#160; 0.12 &#160; 802.0 2.9 1.49 Total interest earning assets 39,098.8 &#160; 334.1 &#160; 3.55 &#160; 26,267.3 307.2 4.80 Non-interest earning assets Cash and due from banks 166.1 &#160; 196.0 Allowance for credit losses (289.1) (192.7) Bank owned life insurance 176.6 &#160; 174.4 Other assets 1,271.2 &#160; 1,158.9 Total assets $ 40,423.6 &#160; $ 27,603.9 Interest-bearing liabilities Interest-bearing deposits: Interest-bearing transaction accounts $ 3,905.4 &#160; $ 1.3 &#160; 0.13 &#160; % $ 3,098.5 $ 4.5 0.58 % Savings and money market accounts 13,994.4 &#160; 7.1 &#160; 0.21 &#160; 9,033.4 17.6 0.79 Certificates of deposit 1,681.1 &#160; 2.4 &#160; 0.59 &#160; 2,346.0 10.4 1.78 Total interest-bearing deposits 19,580.9 &#160; 10.8 &#160; 0.22 &#160; 14,477.9 32.5 0.90 Short-term borrowings 24.8 &#160; 0.1 &#160; 1.13 &#160; 148.2 0.4 1.17 Qualifying debt 547.2 &#160; 5.9 &#160; 4.39 &#160; 395.1 5.3 5.34 Total interest-bearing liabilities 20,152.9 &#160; 16.8 &#160; 0.34 &#160; 15,021.2 38.2 1.02 Interest cost of funding earning assets 0.18 &#160; 0.58 Non-interest-bearing liabilities Non-interest-bearing demand deposits 15,972.6 &#160; 8,869.7 Other liabilities 772.3 &#160; 643.0 Stockholders&#8217; equity 3,525.8 &#160; 3,070.0 Total liabilities and stockholders' equity $ 40,423.6 &#160; $ 27,603.9 Net interest income and margin (4) $ 317.3 &#160; 3.37 &#160; % $ 269.0 4.22 % 
+
+(1) Yields on loans and securities have been adjusted to a TEB. The taxable-equivalent adjustment was $8.0 million and $6.5 million for the three months ended March 31, 2021 and 2020, respectively. 
+
+(2) Included in the yield computation are net loan fees of $32.9 million and $15.5 million for the three months ended March 31, 2021 and 2020, respectively. 
+
+(3) Includes non-accrual loans. 
+
+(4) Net interest margin is computed by dividing net interest income by total average earning assets, annualized on an actual/actual basis. 
+
+Three Months Ended March 31, 2021 versus 2020 Increase (Decrease) Due to Changes in (1) Volume Rate Total (in millions) Interest income: Loans: Commercial and industrial $ 46.5 &#160; $ (20.2) $ 26.3 &#160; CRE - non-owner occupied 4.7 &#160; (8.5) (3.8) CRE - owner-occupied (2.2) (2.6) (4.8) Construction and land development 6.9 &#160; (3.5) 3.4 &#160; Residential real estate 3.1 &#160; (2.0) 1.1 &#160; Consumer (0.2) (0.2) (0.4) Loans held for sale &#8212; &#160; (0.3) (0.3) Total loans 58.8 &#160; (37.3) 21.5 &#160; Securities: Securities - taxable 6.7 &#160; (5.5) 1.2 &#160; Securities - tax-exempt 6.4 &#160; (1.0) 5.4 &#160; Total securities 13.1 &#160; (6.5) 6.6 &#160; Other 1.5 &#160; (2.7) (1.2) Total interest income 73.4 &#160; (46.5) 26.9 &#160; Interest expense: Interest-bearing transaction accounts 0.3 &#160; (3.5) (3.2) Savings and money market 2.5 &#160; (13.0) (10.5) Certificates of deposit (0.9) (7.1) (8.0) Short-term borrowings (0.5) 0.2 &#160; (0.3) Qualifying debt 1.6 &#160; (1.0) 0.6 &#160; Total interest expense 3.0 &#160; (24.4) (21.4) Net change $ 70.4 &#160; $ (22.1) $ 48.3 &#160; 
+
+(1) Changes attributable to both volume and rate are designated as volume changes. 
+
+Comparison of interest income, interest expense and net interest margin 
+
+The Company's primary source of revenue is interest income. For the three months ended March 31, 2021, interest income was $334.1 million, an increase of $26.9 million, or 8.8%, compared to $307.2 million for the three months ended March 31, 2020. This increase was primarily the result of a $5.3 billion increase in the average loan balance that drove a $21.5 million increase in interest income from loans from the three months ended March 31, 2020. Interest income from investment securities also increased by $6.6 million for the comparable period due to an increase in the average investment balance of $2.5 billion. These increases were partially offset by a decrease in other interest income from interest bearing cash accounts and federal funds sold of $1.2 million. 
+
+For the three months ended March 31, 2021, interest expense was $16.8 million, a decrease of $21.4 million, or 56.0%, compared to $38.2 million for the three months ended March 31, 2020. Interest expense on deposits decreased $21.7 million for the same period despite an increase in average interest-bearing deposits of $5.1 billion as the Company benefited from repricing efforts in a lower rate environment, resulting in a 68 basis point reduction in average cost of interest-bearing deposits. 
+
+For the three months ended March 31, 2021, net interest income was $317.3 million, an increase of $48.3 million, or 18.0%, compared to $269.0 million for the three months ended March 31, 2020. The increase in net interest income reflects a $12.8 billion increase in average interest-earning assets, partially offset by an increase of $5.1 billion in average interest-bearing liabilities. The decrease in net interest margin of 85 basis points to 3.37% is largely the result of excess liquidity from deposit growth that has outpaced loan growth as well as a decrease in loan yields due to a lower rate environment and lower yields during the three months ended March 31, 2021. These decreases to net interest margin were offset by lower deposit and funding costs for the three months ended March 31, 2021 compared to the same period in 2020. 
+
+Provision for Credit Losses 
+
+The provision for credit losses in each period is reflected as a reduction in earnings for that period and includes amounts related to funded loans, unfunded loan commitments, and investment securities. The provision is equal to the amount required to maintain the allowance for credit losses at a level that is adequate to absorb estimated lifetime credit losses inherent in the loan and investment securities portfolios at the time that the loan is originated or the security is purchased. The Company's CECL models incorporate historical experience, current conditions, and reasonable and supportable forecasts in measuring expected credit losses. For the three months ended March 31, 2021, a release of credit loss provisions of $32.4 million was recognized, compared to a provision for credit losses of $51.2 million for the three months ended March 31, 2020. The significant decrease in the provision for credit losses from the three months ended March 31, 2020 is primarily related to the current improved economic outlook. 
+
+Non-interest Income 
+
+The following table presents a summary of non-interest income for the periods presented: 
+
+Three Months Ended March 31, 2021 2020 Increase (Decrease) (in millions) Income from equity investments $ 7.6 &#160; $ 3.8 $ 3.8 &#160; Service charges and fees 6.7 &#160; 6.4 0.3 &#160; Foreign currency income 2.2 &#160; 1.3 0.9 &#160; Card income 1.6 &#160; 1.7 (0.1) Income from bank owned life insurance 1.0 &#160; 1.0 &#8212; &#160; Lending related income and gains (losses) on sale of loans, net (0.1) 0.6 (0.7) Fair value losses on assets measured at fair value, net (1.5) (11.3) 9.8 &#160; Other income 2.2 &#160; 1.6 0.6 &#160; Total non-interest income $ 19.7 &#160; $ 5.1 $ 14.6 &#160; 
+
+Total non-interest income for the three months ended March 31, 2021 compared to the same period in 2020 increased by $14.6 million. The primary driver of the increase in non-interest income relates to net fair value loss adjustments on assets measured at fair value of $1.5 million for the three months ended March 31, 2021, compared to $11.3 million for the same period in 2020. This change is predominantly related to a decrease in the fair value of equity securities, consisting primarily of preferred stock of other financial institutions. Further contributing to the increase in non-interest income is an increase in income from equity investments. During the three months ended March 31, 2021, income from equity investments increased $3.8 million due to an increase in warrant income from the three months ended March 31, 2020. 
+
+Non-interest Expense 
+
+The following table presents a summary of non-interest expense for the periods presented: 
+
+Three Months Ended March 31, 2021 2020 Increase (Decrease) (in millions) Salaries and employee benefits $ 83.7 &#160; $ 72.1 $ 11.6 &#160; Legal, professional, and directors' fees 10.1 &#160; 10.4 (0.3) Data processing 9.9 &#160; 8.6 1.3 &#160; Occupancy 8.6 &#160; 8.2 0.4 &#160; Deposit costs 6.3 &#160; 7.3 (1.0) Insurance 4.2 &#160; 3.0 1.2 &#160; Loan and repossessed asset expenses 2.2 &#160; 1.5 0.7 &#160; Business development 0.8 &#160; 2.3 (1.5) Marketing 0.6 &#160; 0.9 (0.3) Card expense 0.6 &#160; 0.7 (0.1) Intangible amortization 0.5 &#160; 0.4 0.1 &#160; Net gain on sales / valuations of repossessed and other assets (0.3) (1.4) 1.1 &#160; Acquisition related expense 0.4 &#160; &#8212; 0.4 &#160; Other expense 7.4 &#160; 6.5 0.9 &#160; Total non-interest expense $ 135.0 &#160; $ 120.5 $ 14.5 &#160; 
+
+Total non-interest expense for the three months ended March 31, 2021 increased $14.5 million compared to the same period in 2020. The increase in non-interest expense was driven by an increase in salaries and employee benefits as the Company continues to support its growth, which also increased data processing, insurance, and occupancy expense to a lesser degree. In addition, the Company recognized a $1.4 million gain on the sale of an OREO property during the three months ended March 31, 2020, compared to minimal activity in the current quarter. 
+
+Income Taxes 
+
+The Company's effective tax rate was 17.9% and 18.1% for the three months ended March 31, 2021 and 2020, respectively. There is not a significant difference in the effective tax rate. 
+
+Business Segment Results 
+
+The Company's reportable segments are aggregated with a focus on products and services offered and consist of three reportable segments: 
+
+&#8226; Commercial segment: provides commercial banking and treasury management products and services to small and middle-market businesses, specialized banking services to sophisticated commercial institutions and investors within niche industries, as well as financial services to the real estate industry. 
+
+&#8226; Consumer Related segment: offers both commercial banking services to enterprises in consumer-related sectors and consumer banking services, such as residential mortgage banking. 
+
+&#8226; Corporate &#38; Other segment: consists of the Company's investment portfolio, Corporate borrowings and other related items, income and expense items not allocated to our other reportable segments, and inter-segment eliminations. 
+
+The following tables present selected operating segment information for the periods presented: 
+
+Consolidated Company Commercial Consumer Related Corporate &#38; Other At March 31, 2021 (in millions) Loans, net of deferred loan fees and costs $ 28,711.0 &#160; $ 20,660.4 &#160; $ 8,048.9 &#160; $ 1.7 &#160; Deposits 38,393.1 &#160; 24,126.0 &#160; 13,286.5 &#160; 980.6 &#160; At December 31, 2020 Loans, net of deferred loan fees and costs $ 27,053.0 $ 20,245.8 $ 6,798.2 $ 9.0 Deposits 31,930.5 21,448.0 9,936.8 545.7 
+
+Three Months Ended March 31, 2021 (in millions) Pre-tax income $ 234.4 &#160; $ 220.9 &#160; $ 71.5 &#160; $ (58.0) Three Months Ended March 31, 2020 Pre-tax income $ 102.4 $ 109.6 $ 27.3 $ (34.5) 
+
+BALANCE SHEET ANALYSIS 
+
+Total assets increased $6.9 billion, or 19.0%, to $43.4 billion at March 31, 2021, compared to $36.5 billion at December 31, 2020. The increase in total assets relates primarily to an increase in cash and investment securities from continued deposit growth in addition to continued loan growth. Loans increased $1.7 billion, or 6.1%, to $28.7 billion at March 31, 2021, compared to $27.1 billion at December 31, 2020. The increase in loans from December 31, 2020 was driven by increases in commercial and industrial loans of $746.3 million, residential real estate loans of $674.5 million, and construction and land development loans of $336.5 million. These increases were partially offset by a decrease in CRE, owner occupied loans of $104.8 million. 
+
+Total liabilities increased $6.6 billion, or 20.1%, to $39.7 billion at March 31, 2021, compared to $33.0 billion at December 31, 2020. The increase in liabilities is due primarily to an increase in total deposits of $6.5 billion, or 20.2%, to $38.4 billion. The increase in deposits from December 31, 2020 was driven by an increase of $4.1 billion in non-interest bearing demand deposits and $2.9 billion in savings and money market accounts. These increases were offset in part by a decrease in interest bearing demand deposits of $503.0 million. 
+
+Total stockholders&#8217; equity increased by $299.2 million, or 8.8%, to $3.7 billion at March 31, 2021 from $3.4 billion at December 31, 2020. The increase in stockholders' equity is primarily a function of net income and the sale of 2.3 million shares of common stock in a registered direct offering during the three months ended March 31, 2021, partially offset by share repurchases in 2020 and quarterly dividends to shareholders. 
+
+Investment securities 
+
+Debt securities are classified at the time of acquisition as either HTM, AFS, or trading based upon various factors, including asset/liability management strategies, liquidity and profitability objectives, and regulatory requirements. HTM securities are carried at amortized cost, adjusted for amortization of premiums or accretion of discounts. AFS securities are securities that may be sold prior to maturity based upon asset/liability management decisions. Investment securities classified as AFS are carried at fair value. Unrealized gains or losses on AFS debt securities are recorded as part of AOCI in stockholders&#8217; equity, net of tax. Amortization of premiums or accretion of discounts on MBS is periodically adjusted for estimated prepayments. Trading securities are reported at fair value, with unrealized gains and losses included in current period earnings. 
+
+The Company's investment securities portfolio is utilized as collateral for borrowings, required collateral for public deposits and customer repurchase agreements, and to manage liquidity, capital, and interest rate risk. 
+
+The following table summarizes the carrying value of the investment securities portfolio for each of the periods below: 
+
+March 31, 2021 December 31, 2020 (in millions) Debt securities CLO $ 980.7 &#160; $ 146.9 Commercial MBS issued by GSEs 87.8 &#160; 84.6 Corporate debt securities 285.1 &#160; 270.2 Private label residential MBS 1,900.6 &#160; 1,476.9 Residential MBS issued by GSEs 2,249.6 &#160; 1,486.6 Tax-exempt 2,027.7 &#160; 1,756.2 U.S. treasury securities 50.0 &#160; &#8212; Other 56.4 &#160; 55.9 Total debt securities $ 7,637.9 &#160; $ 5,277.3 Equity securities CRA investments $ 57.4 &#160; $ 53.4 Preferred stock 135.5 &#160; 113.9 Total equity securities $ 192.9 &#160; $ 167.3 
+
+Loans 
+
+The table below summarizes the distribution of the Company&#8217;s held for investment loan portfolio: 
+
+March 31, 2021 December 31, 2020 (in millions) Warehouse lending $ 4,901.8 &#160; $ 4,340.2 Municipal &#38; nonprofit 1,676.9 &#160; 1,728.8 Tech &#38; innovation 2,514.2 &#160; 2,548.3 Other commercial and industrial 6,174.3 &#160; 5,911.2 CRE - owner occupied 1,814.5 &#160; 1,909.3 Hotel franchise finance 2,038.8 &#160; 1,983.9 Other CRE - non-owned occupied 3,613.0 &#160; 3,640.2 Residential 3,055.8 &#160; 2,378.5 Construction and land development 2,767.6 &#160; 2,429.4 Other 154.1 &#160; 183.2 Total loans HFI 28,711.0 &#160; 27,053.0 Allowance for credit losses (247.1) (278.9) Total loans HFI, net of allowance $ 28,463.9 &#160; $ 26,774.1 
+
+Loans that are held for investment are stated at the amount of unpaid principal, adjusted for net deferred fees and costs, premiums and discounts on acquired and purchased loans, and an allowance for credit losses. Net deferred loan fees of $88.6 million and $75.4 million reduced the carrying value of loans as of March 31, 2021 and December 31, 2020, respectively. Net unamortized purchase premiums on acquired and purchased loans of $45.0 million and $26.0 million increased the carrying value of loans as of March 31, 2021 and December 31, 2020, respectively. 
+
+Concentrations of Lending Activities 
+
+The Company monitors concentrations within three broad categories: industry, product, and collateral. The Company&#8217;s loan portfolio includes significant credit exposure to the CRE market. As of each of the periods ended March 31, 2021 and December 31, 2020, CRE related loans accounted for approximately 37% and 38% of total loans, respectively. Substantially all of these loans are secured by first liens with an initial loan to value ratio of generally not more than 75%. Approximately 27% and 28% of these CRE loans, excluding construction and land loans, were owner-occupied at March 31, 2021 and December 31, 2020, respectively. 
+
+Non-performing Assets 
+
+Total non-performing loans decreased by $2.0 million at March 31, 2021 to $146.4 million from $148.4 million at December 31, 2020. 
+
+March 31, 2021 December 31, 2020 (dollars in millions) Total nonaccrual loans (1) $ 113.6 &#160; $ 115.2 Loans past due 90 days or more on accrual status &#8212; &#160; &#8212; Accruing troubled debt restructured loans 32.8 &#160; 33.2 Total nonperforming loans $ 146.4 &#160; $ 148.4 Other assets acquired through foreclosure, net $ 4.2 &#160; $ 1.4 Nonaccrual HFI loans to funded HFI loans 0.40 &#160; % 0.43 % Loans past due 90 days or more on accrual status to funded HFI loans &#8212; &#160; &#8212; 
+
+(1) Includes non-accrual TDR loans of $27.4 million and $28.4 million at March 31, 2021 and December 31, 2020, respectively. 
+
+Interest income that would have been recorded under the original terms of non-accrual loans was $1.5 million and $0.7 million for the three months ended March 31, 2021 and 2020, respectively. 
+
+The composition of nonaccrual HFI loans by loan type and by segment were as follows: 
+
+March 31, 2021 Nonaccrual Balance Percent of Nonaccrual Balance Percent of Total HFI Loans (dollars in millions) Warehouse lending $ &#8212; &#160; &#8212; &#160; % &#8212; &#160; % Municipal &#38; nonprofit &#8212; &#160; &#8212; &#160; &#8212; &#160; Tech &#38; innovation 12.7 &#160; 11.2 &#160; 0.05 &#160; Other commercial and industrial 15.0 &#160; 13.2 &#160; 0.05 &#160; CRE - owner occupied 32.1 &#160; 28.3 &#160; 0.11 &#160; Hotel franchise finance &#8212; &#160; &#8212; &#160; &#8212; &#160; Other CRE - non-owned occupied 41.5 &#160; 36.5 &#160; 0.15 &#160; Residential 9.0 &#160; 7.9 &#160; 0.03 &#160; Construction and land development &#8212; &#160; &#8212; &#160; &#8212; &#160; Other 3.3 &#160; 2.9 &#160; 0.01 &#160; Total non-accrual loans $ 113.6 &#160; 100.0 &#160; % 0.40 &#160; % 
+
+December 31, 2020 Nonaccrual Balance Percent of Nonaccrual Balance Percent of Total HFI Loans (dollars in millions) Warehouse lending $ &#8212; &#8212; % &#8212; % Municipal &#38; nonprofit 1.9 1.7 0.01 Tech &#38; innovation 13.5 11.7 0.05 Other commercial and industrial 17.2 14.9 0.06 CRE - owner occupied 34.5 29.9 0.13 Hotel franchise finance &#8212; &#8212; &#8212; Other CRE - non-owned occupied 36.5 31.7 0.14 Residential 11.4 9.9 0.04 Construction and land development &#8212; &#8212; &#8212; Other 0.2 0.2 &#8212; Total non-accrual loans $ 115.2 100.0 % 0.43 % 
+
+Troubled Debt Restructured Loans 
+
+A TDR loan is a loan on which the Company, for reasons related to a borrower&#8217;s financial difficulties, grants a concession to the borrower that the Company would not otherwise consider. The loan terms that have been modified or restructured due to a borrower&#8217;s financial situation include, but are not limited to, a reduction in the stated interest rate, an extension of the maturity or renewal of the loan at an interest rate below current market, a reduction in the face amount of the debt, a reduction in the accrued interest, or deferral of interest payments. The majority of the Company's modifications are extensions in terms or deferral of payments which result in no lost principal or interest followed by reductions in interest rates or accrued interest. Consistent with regulatory guidance, a TDR loan that is subsequently modified in another restructuring agreement but has shown sustained performance and classification as a TDR, will be removed from TDR status provided that the modified terms were market-based at the time of modification. 
+
+Allowance for Credit Losses 
+
+The allowance for credit losses consists of the allowance for credit losses on loans and an allowance for credit losses on unfunded loan commitments. The following table summarizes the activity in the Company's allowance for credit losses on loans held for investment for the period indicated: 
+
+Three Months Ended March 31, 2021 Balance, December 31, 2020 Provision for (Recovery of) Credit Losses Write-offs Recoveries Balance, March 31, 2021 (1) (1) (in millions) Warehouse lending $ 3.4 &#160; $ 0.2 &#160; $ &#8212; &#160; $ &#8212; &#160; $ 3.6 &#160; Municipal &#38; nonprofit 15.9 &#160; (0.7) &#8212; &#160; &#8212; &#160; 15.2 &#160; Tech &#38; innovation 35.3 &#160; (11.6) &#8212; &#160; (0.2) 23.9 &#160; Other commercial and industrial 94.7 &#160; (16.5) 0.1 &#160; (0.3) 78.4 &#160; CRE - owner occupied 18.6 &#160; (8.9) &#8212; &#160; &#8212; &#160; 9.7 &#160; Hotel franchise finance 43.3 &#160; 6.1 &#160; &#8212; &#160; &#8212; &#160; 49.4 &#160; Other CRE - non-owned occupied 39.9 &#160; (5.4) 2.0 &#160; (0.2) 32.7 &#160; Residential 0.8 &#160; 2.4 &#160; &#8212; &#160; &#8212; &#160; 3.2 &#160; Construction and land development 22.0 &#160; 3.9 &#160; &#8212; &#160; &#8212; &#160; 25.9 &#160; Other 5.0 &#160; 0.1 &#160; &#8212; &#160; &#8212; &#160; 5.1 &#160; Total $ 278.9 &#160; $ (30.4) $ 2.1 &#160; $ (0.7) $ 247.1 &#160; 
+
+Net charge-offs to average loans outstanding 0.02 &#160; % Allowance for credit losses on loans to funded HFI loans 0.86 &#160; 
+
+(1) Includes an estimate of future recoveries. 
+
+Three Months Ended March 31, 2020 Balance, January 1, 2020 Provision for (Recovery of) Credit Losses Write-offs Recoveries Balance, March 31, 2020 (1) (1) (in millions) Warehouse lending $ 0.2 $ 0.2 $ &#8212; $ &#8212; $ 0.4 Municipal &#38; nonprofit 17.4 (1.2) &#8212; &#8212; 16.2 Tech &#38; innovation 22.4 17.4 &#8212; &#8212; 39.8 Other commercial and industrial 95.8 23.3 0.1 (1.3) 120.3 CRE - owner occupied 10.4 0.1 &#8212; &#8212; 10.5 Hotel franchise finance 14.1 4.7 &#8212; &#8212; 18.8 Other CRE - non-owned occupied 10.5 1.7 &#8212; (2.0) 14.2 Residential 3.8 (2.5) &#8212; &#8212; 1.3 Construction and land development 6.2 0.9 &#8212; &#8212; 7.1 Other 6.1 0.6 &#8212; &#8212; 6.7 Total $ 186.9 $ 45.2 $ 0.1 $ (3.3) $ 235.3 
+
+Net recoveries to average loans outstanding (0.06) % Allowance for credit losses on loans to funded HFI loans 1.02 
+
+The following table summarizes the allocation of the allowance for credit losses on loans held for investment by loan type. 
+
+March 31, 2021 Allowance for credit losses Percent of total allowance for credit losses Percent of loan type to total HFI loans (dollars in millions) Warehouse lending $ 3.6 &#160; 1.5 &#160; % 17.1 &#160; % Municipal &#38; nonprofit 15.2 &#160; 6.2 &#160; 5.8 &#160; Tech &#38; innovation 23.9 &#160; 9.6 &#160; 8.8 &#160; Other commercial and industrial 78.4 &#160; 31.7 &#160; 21.5 &#160; CRE - owner occupied 9.7 &#160; 3.9 &#160; 6.4 &#160; Hotel franchise finance 49.4 &#160; 20.0 &#160; 7.1 &#160; Other CRE - non-owned occupied 32.7 &#160; 13.2 &#160; 12.6 &#160; Residential 3.2 &#160; 1.3 &#160; 10.6 &#160; Construction and land development 25.9 &#160; 10.5 &#160; 9.6 &#160; Other 5.1 &#160; 2.1 &#160; 0.5 &#160; Total $ 247.1 &#160; 100.0 &#160; % 100.0 &#160; % 
+
+December 31, 2020 Allowance for credit losses Percent of total allowance for credit losses Percent of loan type to total HFI loans (dollars in millions) Warehouse lending $ 3.4 1.2 % 16.0 % Municipal &#38; nonprofit 15.9 5.7 6.4 Tech &#38; innovation 35.3 12.7 9.4 Other commercial and industrial 94.7 33.9 21.8 CRE - owner occupied 18.6 6.7 7.1 Hotel franchise finance 43.3 15.5 7.3 Other CRE - non-owned occupied 39.9 14.3 13.5 Residential 0.8 0.3 8.8 Construction and land development 22.0 7.9 9.0 Other 5.0 1.8 0.7 Total $ 278.9 100.0 % 100.0 % 
+
+In addition to the allowance for loan losses, the Company maintains a separate allowance for credit losses related to off-balance sheet credit exposures, including unfunded loan commitments. This allowance is included in other liabilities on the consolidated balance sheets. 
+
+The below tables reflect the activity in the allowance for credit losses on unfunded loan commitments: 
+
+Three Months Ended March 31, 2021 2020 (in millions) Balance, beginning of period $ 37.0 &#160; $ 9.0 Beginning balance adjustment from adoption of CECL &#8212; &#160; 15.1 (Recovery of) provision for credit losses (4.4) 5.5 Balance, end of period $ 32.6 &#160; $ 29.6 
+
+Problem Loans 
+
+The Company classifies loans consistent with federal banking regulations using a nine category grading system. These loan grades are described in further detail in "Item 1. Business&#8221; of the Company's Annual Report for the year ended December 31, 2020. The following table presents information regarding potential and actual problem loans, consisting of loans graded Special Mention, Substandard, Doubtful, and Loss, but still performing: 
+
+March 31, 2021 Number of Loans Loan Balance Percent of Loan Balance Percent of Total HFI Loans (dollars in millions) Warehouse lending &#8212; &#160; $ &#8212; &#160; &#8212; &#160; % &#8212; &#160; % Municipal &#38; nonprofit &#8212; &#160; &#8212; &#160; &#8212; &#160; &#8212; &#160; Tech &#38; innovation 5 &#160; 18.3 &#160; 4.4 &#160; 0.06 &#160; Other commercial and industrial 75 &#160; 62.7 &#160; 14.9 &#160; 0.22 &#160; CRE - owner occupied 37 &#160; 80.3 &#160; 19.1 &#160; 0.28 &#160; Hotel franchise finance 10 &#160; 144.9 &#160; 34.4 &#160; 0.50 &#160; Other CRE - non-owned occupied 7 &#160; 12.0 &#160; 2.8 &#160; 0.04 &#160; Residential &#8212; &#160; &#8212; &#160; &#8212; &#160; &#8212; &#160; Construction and land development 8 &#160; 60.0 &#160; 14.3 &#160; 0.21 &#160; Other 16 &#160; 42.4 &#160; 10.1 &#160; 0.15 &#160; Total 158 &#160; $ 420.6 &#160; 100.0 &#160; % 1.46 &#160; % 
+
+&#160; 
+
+December 31, 2020 Number of Loans Loan Balance Percent of Loan Balance Percent of Total HFI Loans (dollars in millions) Tech &#38; innovation 4 $ 15.3 3.6 % 0.06 % Other commercial and industrial 71 74.3 17.6 0.27 CRE - owner occupied 37 79.8 18.9 0.30 Hotel franchise finance 9 116.9 27.6 0.43 Other CRE - non-owned occupied 9 15.8 3.7 0.06 Construction and land development 7 47.3 11.2 0.17 Other 21 73.4 17.4 0.27 Total 158 $ 422.8 100.0 % 1.56 % 
+
+Goodwill and Other Intangible Assets 
+
+Goodwill represents the excess consideration paid for net assets acquired in a business combination over their fair value. Goodwill and other intangible assets acquired in a business combination that are determined to have an indefinite useful life are not subject to amortization, but are subsequently evaluated for impairment at least annually. The Company has goodwill and intangible assets totaling $298.0 million at March 31, 2021. 
+
+The Company performs its annual goodwill and intangibles impairment tests as of October 1 each year, or more often if events or circumstances indicate that the carrying value may not be recoverable. During the three months ended March 31, 2021 and 2020, there were no events or circumstances that indicated an interim impairment test of goodwill or other intangible assets was necessary. 
+
+Deferred Tax Assets 
+
+As of March 31, 2021, the net DTA balance totaled $49.8 million, an increase of $18.5 million from the year end 2020 DTA balance of $31.3 million. This overall increase in the net deferred tax asset was primarily the result of decreases in the fair market value of AFS securities and tax credit carryforwards. These items were not fully offset by decreases in deferred insurance premiums and increases to premises and equipment. 
+
+At March 31, 2021 and December 31, 2020, the Company had no deferred tax valuation allowance. 
+
+Deposits 
+
+Deposits are the primary source for funding the Company's asset growth. Total deposits increased to $38.4 billion at March 31, 2021, from $31.9 billion at December 31, 2020, an increase of $6.5 billion, or 20.2%. The increase in deposits is largely attributable to increases in non-interest bearing demand deposits of $4.1 billion and savings and money market accounts of $2.9 billion. These increases were partially offset by a decrease in interest bearing demand deposits of $503.0 million. 
+
+WAB is a participant in the Promontory Interfinancial Network, a network that offers deposit placement services such as CDARS and ICS, which offer products that qualify large deposits for FDIC insurance. At March 31, 2021 and December 31, 2020, the Company also has $976.2 million and $554.8 million, respectively, of wholesale brokered deposits. In addition, deposits for which the Company provides account holders with earnings credits and referral fees totaled $8.6 billion and $5.9 billion at March 31, 2021 and December 31, 2020, respectively. The Company incurred $5.8 million and $7.0 million in deposit related costs during the three months ended March 31, 2021 and 2020, respectively. 
+
+The average balances and weighted average rates paid on deposits are presented below: 
+
+Three Months Ended March 31, 2021 2020 Average Balance Rate Average Balance Rate (dollars in millions) Interest-bearing transaction accounts $ 3,905.4 &#160; 0.13 &#160; % $ 3,098.5 0.58 % Savings and money market accounts 13,994.4 &#160; 0.21 &#160; 9,033.4 0.79 Certificates of deposit 1,681.1 &#160; 0.59 &#160; 2,346.0 1.78 Total interest-bearing deposits 19,580.9 &#160; 0.22 &#160; 14,477.9 0.90 Non-interest-bearing demand deposits 15,972.6 &#160; &#8212; &#160; 8,869.7 &#8212; Total deposits $ 35,553.5 &#160; 0.12 &#160; % $ 23,347.6 0.56 % 
+
+Other Borrowings 
+
+The Company from time to time utilizes short-term borrowed funds to support short-term liquidity needs generally created by increased loan demand. The majority of these short-term borrowed funds consist of advances from the FHLB and customer repurchase agreements. The Company&#8217;s borrowing capacity with the FHLB is determined based on collateral pledged, generally consisting of securities and loans. In addition, the Company has borrowing capacity from other sources, collateralized by securities, including securities sold under agreements to repurchase, which are reflected at the amount of cash received in connection with the transaction, and may require additional collateral based on the fair value of the underlying securities. At March 31, 2021, total short-term borrowed funds consist of FHLB advances of $5.0 million and customer repurchase agreements of $15.9 million. At December 31, 2020, total short-term borrowed funds consisted of FHLB advances of $5.0 million and customer repurchase agreements of $16.0 million. 
+
+Qualifying Debt 
+
+Qualifying debt consists of subordinated debt and junior subordinated debt, inclusive of issuance costs and fair market value adjustments. At March 31, 2021, the carrying value of qualifying debt was $543.7 million, compared to $548.7 million at December 31, 2020. 
+
+Capital Resources 
+
+The Company and the Bank are subject to various regulatory capital requirements administered by the federal banking agencies. Failure to meet minimum capital requirements could trigger certain mandatory or discretionary actions that, if undertaken, could have a direct material effect on the Company&#8217;s business and financial statements. Under capital adequacy guidelines and the regulatory framework for prompt corrective action, the Company and the Bank must meet specific capital guidelines that involve quantitative measures of their assets, liabilities, and certain off-balance sheet items (discussed in "Note 11. Commitments and Contingencies" to the Unaudited Consolidated Financial Statements) as calculated under regulatory accounting practices. The capital amounts and classification are also subject to qualitative judgments by the regulators about components, risk weightings, and other factors. 
+
+In March 2020, the federal bank regulatory authorities issued an interim final rule that delays the estimated impact on regulatory capital resulting from the adoption of CECL. The interim final rule provides banking organizations that implement CECL before the end of 2020 the option to delay for two years the estimated impact of CECL on regulatory capital relative to regulatory capital determined under the prior incurred loss methodology, followed by a three-year transition period to phase out the aggregate amount of capital benefit provided during the initial two-year delay. The Company has elected the five-year CECL transition option in connection with its adoption of CECL on January 1, 2020. As a result, capital ratios and amounts as of March 31, 2021 exclude the impact of the increased allowance for credit losses related to the adoption of ASC 326. 
+
+As of March 31, 2021 and December 31, 2020, the Company and the Bank exceeded the capital levels necessary to be classified as well-capitalized, as defined by the banking agencies. The actual capital amounts and ratios for the Company and the Bank are presented in the following tables as of the periods indicated: 
+
+Total Capital Tier 1 Capital Risk-Weighted Assets Tangible Average Assets Total Capital Ratio Tier 1 Capital Ratio Tier 1 Leverage Ratio Common Equity Tier 1 (dollars in millions) March 31, 2021 WAL $ 4,201.5 &#160; $ 3,518.9 &#160; $ 33,326.1 &#160; $ 40,072.7 &#160; 12.6 &#160; % 10.6 &#160; % 8.8 &#160; % 10.3 &#160; % WAB 3,938.5 &#160; 3,442.8 &#160; 33,390.1 &#160; 40,171.9 &#160; 11.8 &#160; 10.3 &#160; 8.5 &#160; 10.3 &#160; Well-capitalized ratios 10.0 &#160; 8.0 &#160; 5.0 &#160; 6.5 &#160; Minimum capital ratios 8.0 &#160; 6.0 &#160; 4.0 &#160; 4.5 &#160; December 31, 2020 WAL $ 3,872.0 $ 3,158.2 $ 31,015.4 $ 34,349.3 12.5 % 10.2 % 9.2 % 9.9 % WAB 3,619.4 3,078.2 31,140.6 34,367.0 11.6 9.9 9.0 9.9 Well-capitalized ratios 10.0 8.0 5.0 6.5 Minimum capital ratios 8.0 6.0 4.0 4.5 
+
+Critical Accounting Policies 
+
+Critical accounting policies are defined as those that are reflective of significant judgments and uncertainties and could potentially result in materially different results under different assumptions and conditions. The critical accounting policies upon which the Company's financial condition and results of operations depend, and which involve the most complex subjective decisions or assessments, are included in the discussion entitled "Critical Accounting Policies" in "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations," in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2020, and all amendments thereto, as filed with the SEC. There were no material changes to the critical accounting policies disclosed in the Annual Report on Form 10-K. 
+
+Liquidity 
+
+Liquidity is the ongoing ability to accommodate liability maturities and deposit withdrawals, fund asset growth and business operations, and meet contractual obligations through unconstrained access to funding at reasonable market rates. Liquidity management involves forecasting funding requirements and maintaining sufficient capacity to meet the needs and accommodate fluctuations in asset and liability levels due to changes in the Company's business operations or unanticipated events, including the ongoing COVID-19 pandemic. 
+
+The ability to have readily available funds sufficient to repay fully maturing liabilities is of primary importance to depositors, creditors, and regulators. The Company's liquidity, represented by cash and amounts due from banks, federal funds sold, and non-pledged marketable securities, is a result of the Company's operating, investing, and financing activities and related cash flows. In order to ensure funds are available when necessary, on at least a quarterly basis, the Company projects the amount of funds that will be required over a twelve-month period and it also strives to maintain relationships with a diversified customer base. Liquidity requirements can also be met through short-term borrowings or the disposition of short-term assets. 
+
+The following table presents the available and outstanding balances on the Company's lines of credit: 
+
+March 31, 2021 Available Balance Outstanding Balance (in millions) Unsecured fed funds credit lines at correspondent banks $ 2,452.0 &#160; $ &#8212; &#160; 
+
+In addition to lines of credit, the Company has borrowing capacity with the FHLB and FRB from pledged loans and securities. The borrowing capacity, outstanding borrowings, and available credit as of March 31, 2021 are presented in the following table: 
+
+March 31, 2021 (in millions) FHLB: Borrowing capacity $ 4,220.5 &#160; Outstanding borrowings 5.0 &#160; Letters of credit 21.0 &#160; Total available credit $ 4,194.5 &#160; FRB: Borrowing capacity $ 2,733.5 &#160; Outstanding borrowings &#8212; &#160; Total available credit $ 2,733.5 &#160; 
+
+The Company also has a separate PPP lending facility with the FRB that allows the Company to pledge loans originated under the PPP in return for dollar for dollar funding from the FRB, which would provide up to $1.5 billion in additional credit. The amount of available credit under the PPP lending facility will decline each period as these loans are paid down. 
+
+The Company has a formal liquidity policy and, in the opinion of management, its liquid assets are considered adequate to meet cash flow needs for loan funding and deposit cash withdrawals for the next 90-120 days. At March 31, 2021, there was $11.5 billion in liquid assets, comprised of $5.3 billion in cash and cash equivalents and $6.2 billion in unpledged marketable securities. At December 31, 2020, the Company maintained $6.6 billion in liquid assets, comprised of $2.7 billion of cash and cash equivalents and $3.9 billion of unpledged marketable securities. 
+
+The Parent maintains liquidity that would be sufficient to fund its operations and certain non-bank affiliate operations for an extended period should funding from normal sources be disrupted. Since deposits are taken by WAB and not by the Parent, 
+
+Parent liquidity is not dependent on the Bank's deposit balances. In the Company's analysis of Parent liquidity, it is assumed that the Parent is unable to generate funds from additional debt or equity issuances, receives no dividend income from subsidiaries and does not pay dividends to stockholders, while continuing to make non-discretionary payments needed to maintain operations and repayment of contractual principal and interest payments owed by the Parent and affiliated companies. Under this scenario, the amount of time the Parent and its non-bank subsidiary can operate and meet all obligations before the current liquid assets are exhausted is considered as part of the Parent liquidity analysis. Management believes the Parent maintains adequate liquidity capacity to operate without additional funding from new sources for over twelve months. 
+
+WAB maintains sufficient funding capacity to address large increases in funding requirements, such as deposit outflows. This capacity is comprised of liquidity derived from a reduction in asset levels and various secured funding sources. On a long-term basis, the Company&#8217;s liquidity will be met by changing the relative distribution of its asset portfolios (for example, by reducing investment or loan volumes, or selling or encumbering assets). Further, the Company can increase liquidity by soliciting higher levels of deposit accounts through promotional activities and/or borrowing from correspondent banks, the FHLB of San Francisco, and the FRB. At March 31, 2021, the Company's long-term liquidity needs primarily relate to funds required to support loan originations, commitments, and deposit withdrawals, which can be met by cash flows from investment payments and maturities, and investment sales, if necessary. 
+
+The Company&#8217;s liquidity is comprised of three primary classifications: 1) cash flows provided by operating activities; 2) cash flows used in investing activities; and 3) cash flows provided by financing activities. Net cash provided by or used in operating activities consists primarily of net income, adjusted for changes in certain other asset and liability accounts and certain non-cash income and expense items, such as the provision for credit losses, investment and other amortization and depreciation. For the three months ended March 31, 2021 and 2020, net cash provided by operating activities was $100.1 million and $124.0 million, respectively. 
+
+The Company's primary investing activities are the origination of real estate and commercial loans, the collection of repayments of these loans, and the purchase and sale of securities. The Company's net cash provided by and used in investing activities has been primarily influenced by its loan and securities activities. The Company's cash balance during the three months ended March 31, 2021 and 2020 was reduced by $1.6 billion and $2.0 billion, respectively, as a result of a net increase in loans as well as a net increase in investment securities of $2.4 billion and $353.7 million, respectively. 
+
+Net cash provided by financing activities has been impacted significantly by increased deposit levels. During the three months ended March 31, 2021 and 2020, net deposits increased $6.5 billion and $2.0 billion, respectively. 
+
+Fluctuations in core deposit levels may increase the Company's need for liquidity as certificates of deposit mature or are withdrawn before maturity, and as non-maturity deposits, such as checking and savings account balances, are withdrawn. Additionally, the Company is exposed to the risk that customers with large deposit balances will withdraw all or a portion of such deposits, due in part to the FDIC limitations on the amount of insurance coverage provided to depositors. To mitigate the uninsured deposit risk, the Company participates in the CDARS and ICS programs, which allow an individual customer to invest up to $50.0 million and $150.0 million, respectively, through one participating financial institution or, a combined total of $200.0 million per individual customer, with the entire amount being covered by FDIC insurance. As of March 31, 2021, the Company has $546.0 million of CDARS and $1.5 billion of ICS deposits. 
+
+As of March 31, 2021, the Company has $976.2 million of wholesale brokered deposits outstanding. Brokered deposits are generally considered to be deposits that have been received from a third party who is engaged in the business of placing deposits on behalf of others. A traditional deposit broker will direct deposits to the banking institution offering the highest interest rate available. Federal banking laws and regulations place restrictions on depository institutions regarding brokered deposits because of the general concern that these deposits are not relationship based and are at a greater risk of being withdrawn and placed on deposit at another institution offering a higher interest rate, thus posing liquidity risk for institutions that gather brokered deposits in significant amounts. 
+
+Federal and state banking regulations place certain restrictions on dividends paid. The total amount of dividends which may be paid at any date is generally limited to the retained earnings of the bank. Dividends paid by WAB to the Parent would be prohibited if the effect thereof would cause the Bank&#8217;s capital to be reduced below applicable minimum capital requirements. During the three months ended March 31, 2021, WAB paid dividends to the Parent of $15.0 million. Subsequent to March 31, 2021, WAB paid dividends to the Parent of $35.0 million. 
+
+Recent accounting pronouncements 
+
+See "Note 1. Summary of Significant Accounting Policies," of the Notes to Unaudited Consolidated Financial Statements contained in Item 1. Financial Statements for information on recent and recently adopted accounting pronouncements and their expected impact, if any, on the Company's Consolidated Financial Statements. 
+
+Supervision and Regulation 
+
+The following information is intended to update, and should be read in conjunction with, the information contained under the caption &#8220;Supervision and Regulation&#8221; in the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2020, based on completion of the Company's acquisition of AHM on April 7, 2021. 
+
+Supervision, Regulation and Licensing of AHM 
+
+AHM is a residential mortgage producer and servicer that operates in a heavily regulated industry. In addition to supervision by the federal banking agencies with primary jurisdiction over the Company and WAB, AHM is subject to the rules, regulations and oversight of certain federal, state and local governmental authorities, including the CFPB, HUD, and government-sponsored enterprises in the mortgage industry such as FHLMC, FNMA, and GNMA. 
+
+Further, AHM must comply with a large number of federal consumer protection laws and regulations including, among others: 
+
+&#8226; the Real Estate Settlement Procedures Act and Regulation X, which require lenders, mortgage brokers, or servicers to provide borrowers with pertinent and timely disclosures regarding the nature and costs of the settlement process and prohibit specific practices related thereto; 
+
+&#8226; the Truth In Lending Act and Regulation Z, which require disclosures and timely information on the nature and costs of the residential mortgages and the real estate settlement process; 
+
+&#8226; the Secure and Fair Enforcement for Mortgage Licensing Act, which applies to businesses and individuals engaging in the residential mortgage loan business; 
+
+&#8226; the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Fair Debt Collection Practices Act, the Federal Trade Commission Act, and the rules and regulations of the FTC and CFPB that prohibit unfair, abusive or deceptive acts or practices; 
+
+&#8226; the Fair Credit Reporting Act (as amended by the Fair and Accurate Credit Transactions Act) and Regulation V, which address the accuracy, fairness, and privacy of information in the files of consumer reporting agencies; and 
+
+&#8226; the Equal Credit Opportunity Act and Regulation B, the Fair Housing Act, the Homeowners Protection Act, and the Home Mortgage Disclosure Act and Regulation C, which generally prohibit discrimination and provide applicants and borrowers rights with respect to credit decisioning and the residential mortgage process, and require disclosures and impose obligations on financial businesses conducting residential lending and mortgage servicing. 
+
+The CFPB as well as the FTC have rulemaking authority with respect to many of the federal consumer protection laws applicable to mortgage lenders and servicers, and their rulemaking and regulatory agendas relating to the residential mortgage industry continues to evolve. In particular, as part of its enforcement authority, the CFPB can order, among other things, rescission or reformation of contracts, the refund of moneys or the return of real property, restitution, disgorgement or compensation for unjust enrichment, the payment of damages or other monetary relief, public notifications regarding violations, remediation of practices, external compliance monitoring and civil money penalties. 
+
+AHM is also subject to state and local laws, rules and regulations and oversight by various state agencies that license and oversee consumer protection, loan servicing, origination and collection activities of mortgage industry participants. Despite the fact that AHM is the operating subsidiary of a depository institution, it must comply with certain regulatory and licensing requirements of multiple states in order to conduct its business, and does (and will continue to) incur significant costs to comply with these requirements. These laws, rules and regulations may change as statutes and regulations are enacted, promulgated, amended, interpreted and enforced. 
+

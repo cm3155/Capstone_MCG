@@ -1,0 +1,814 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+MD&#38;A is intended to assist readers in their analysis of the accompanying Consolidated Financial Statements and supplemental financial information. It should be read in conjunction with the Consolidated Financial Statements, the accompanying Notes to the Consolidated Financial Statements in this Form 10-Q, other information contained in this document, as well as with Truist&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. A description of certain factors that may affect our future results and risk factors is set forth in Part I, Item 1A-Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Regulatory and Supervisory Considerations 
+
+We are subject to significant regulatory frameworks that affect the products and services that we may offer and the manner in which we may offer them, the risks that we may take, the ways in which we may operate, and the corporate and financial actions that we may take. We are also subject to direct supervision and periodic examinations by various governmental agencies and self-regulatory organizations that are charged with overseeing the kinds of business activities in which we engage. The regulatory and supervisory framework applicable to banking organizations is intended primarily for the protection of depositors and other customers, the DIF, the broader economy, and the stability of the U.S. financial system, rather than for the protection of shareholders and non-deposit creditors. In addition to banking laws and regulations, Truist is subject to various other laws and regulations, all of which directly or indirectly affect the operations and management of Truist and its ability to make distributions to shareholders. The descriptions below summarize certain updates to significant federal and state laws to which Truist is subject since the filing of the Annual Report on Form 10-K for the year ended December 31, 2023. These descriptions do not summarize all possible or proposed changes in laws or regulations and are not intended to be a substitute for the related statutes or regulatory provisions. Refer to &#8220;Regulatory and Supervisory Considerations&#8221; in Truist&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023 for additional disclosures. 
+
+In November 2023, the FDIC issued a final rule to implement a special assessment to recoup losses to the DIF associated with bank failures in the first half of 2023. The assessment is based on an insured depository institution&#8217;s estimated uninsured deposits reported as of December 31, 2022. The special assessment for Truist is $579 million, with $507 million recognized in the fourth quarter of 2023 and additional adjustments of $72 million recognized for the nine months ended September 30, 2024 due to changes in the estimated relevant losses to the DIF reported by the FDIC. In June 2024, the FDIC provided notification that the collection period will be extended an additional two quarters beyond the initial eight quarterly installments. The special assessment will be paid in ten quarterly installments, which began in the second quarter of 2024. The ultimate amount of expenses associated with the special assessment will also be impacted by the finalization of the losses incurred by the FDIC in the resolutions of Silicon Valley Bank and Signature Bank, which could result in additional expense. 
+
+In June 2024, the FDIC adopted a final rule that significantly modified the required frequency and informational content of resolution plan submissions applicable to insured depository institutions with $50 billion or more in total assets (&#8220;IDI Resolution Plans&#8221;). As a result of the rule, Truist Bank is required to submit to the FDIC a full IDI Resolution Plan every three years and an interim supplement in the years in which a full IDI Resolution Plan is not due. The final rule introduces a new credibility standard for evaluating the adequacy of IDI Resolution Plan submissions, including increased engagement and capabilities testing. The contours of the FDIC&#8217;s application of this new credibility standard remain to be seen and may require the exercise of a meaningful degree of judgment by the FDIC. A failure by Truist Bank to satisfy the credibility standard, or any other provision of the rule, may cause the FDIC to require Truist Bank to reconsider portions of its IDI Resolution Plan or result in an enforcement action by the FDIC. The final rule was effective October 1, 2024. Truist Bank&#8217;s first interim supplement is due July 1, 2025, and its full IDI Resolution Plan submission is due July 1, 2026. 
+
+In August 2024, the FDIC and the FRB issued final joint guidance regarding resolution plans submitted by large bank holding companies (&#8220;165(d) Resolution Plans&#8221;). Truist, as a domestic triennial full filer, is required to submit a 165(d) Resolution Plan every three years alternating between full plans and targeted plans. Truist&#8217;s next full 165(d) Resolution Plan is due October 1, 2025. Truist&#8217;s 165(d) Resolution Plan is required to reflect the firm&#8217;s business operations and interconnectedness and support the goal of substantially mitigating serious adverse effects on the financial stability of the United States in the event of the firm&#8217;s failure. The agencies have proposed a rule requiring large bank holding companies to issue long-term debt that would serve as pre-positioned resolution resources in the event of a firm&#8217;s failure. When finalized and implemented, the long-term debt rule may impact Truist&#8217;s 165(d) Resolution Plan strategy. 
+
+Truist Financial Corporation 51 
+
+In July 2024, the FDIC released a proposed rule to amend its regulations under the Change in Bank Control Act, which generally provides that no person may directly or indirectly acquire control of an insured depository institution unless the person has given the appropriate federal banking agency prior notice of the proposed transaction and the agency has not disapproved it. The FDIC&#8217;s regulations contain a rebuttable presumption that the acquisition of voting securities of a holding company like Truist that directly or indirectly controls an insured state nonmember bank like Truist Bank constitutes such an acquisition of control requiring prior notice to the FDIC if, immediately after the transaction, the acquiring person will own, control, or hold with power to vote 10 percent or more of any class of voting securities of the holding company and other specified conditions are met. The proposed rule removes an explicit exemption for transactions where the FRB reviews a notice under the Change in Bank Control Act. In addition, the FDIC seeks information and comment about its approach in response to these notices, including the role played by asset managers and other institutional investors with FDIC-supervised institutions. We continue to evaluate this proposal and its potential impacts, if adopted as proposed, on the Company and Truist Bank. 
+
+In September 2024, the FDIC adopted a final statement of policy regarding its review of Bank Merger Act applications. The final policy statement addresses, among other things, the scope of transactions subject to FDIC approval, a more rigorous FDIC process for evaluating Bank Merger Act applications, and the FDIC Board's heightened expectations with respect to the Bank Merger Act&#8217;s statutory factors. As a result, Bank Merger Act applications to the FDIC will now require additional information and transactions that would result in a bank with $100 billion or more in total consolidated assets will be subject to heightened scrutiny. As a result, this new policy and heightened scrutiny will impact any merger transaction in which Truist Bank is involved. 
+
+In October 2024, the CFPB finalized a rule under the Dodd-Frank Act, which requires certain entities, including Truist and Truist Bank, to, among other things, make available to a consumer, upon request, information in its control or possession concerning the consumer financial product or service that the consumer obtained from that entity. The rule also requires data providers holding a consumer account, such as Truist Bank, to establish a developer interface satisfying certain data security specifications and other standards, through which the data provider can receive requests for, and provide, specific types of data covered by the rule in electronic, usable form to authorized third parties, including data aggregators. Data providers are prohibited from charging consumers or third parties fees for processing these consumer data requests. The rule also places certain data security, authorization, and other obligations on third parties accessing covered data from data providers, which could include Truist and Truist Bank when acting in certain capacities. The rule requires third parties to limit their collection, use, and retention of the data received to only what is reasonably necessary to provide the consumers' requested product or service, including uses that are reasonably necessary to improve the product or service. The compliance date for a data provider that is a depository institution with over $250 billion in total assets is April 1, 2026; however, the final rule is subject to ongoing litigation that could impact whether and when Truist and Truist Bank are required to comply with the rule. We continue to evaluate the final rule and the potential impacts on the Company. 
+
+Executive Overview 
+
+In the third quarter of 2024, we made considerable progress on driving revenue growth through our core banking business by adding new clients, deepening relationships with existing clients, hiring and developing talented teammates, and investing in technology and risk infrastructure while maintaining strong expense discipline. The Company expects to continue to make substantial investments in teammates, technology, and risk infrastructure while pursuing its strategic objectives, including revenue growth and expense discipline. 
+
+We also returned $1.2 billion of capital to our shareholders through common stock dividends and $500 million of common share repurchases during the third quarter of 2024. We have $4.5 billion remaining under our $5.0 billion repurchase authorization through the end of 2026. 
+
+In July 2024, we successfully completed the sale of Sterling Capital Management LLC, an asset management business. Cash proceeds and the initial gain recognized on the sale were not material. 
+
+Hurricanes Helene and Milton affected teammates and clients in many communities Truist serves. We are working closely with those impacted by these disasters and are committed to help these communities rebuild. Together, we will continue to deliver on our purpose and care for our clients, which fuel our momentum and growth. 
+
+In October 2024, our new CIO joined the Company, leading the enterprise technology team. The new CIO has over 25 years of experience across a range of technology roles, primarily in the financial services industry. Also in October 2024, consistent with heightened and evolving regulatory requirements and supervisory expectations, the Board refocused the responsibilities of the Technology Committee on technology strategy and operations and reassigned responsibility for the oversight of technology risk reporting, mitigation strategies, and initiatives to the Risk Committee. 
+
+52 Truist Financial Corporation 
+
+Financial Results 
+
+Net income available to common shareholders for the third quarter of 2024 of $1.3 billion was up 25% compared with the third quarter of 2023. On a diluted per common share basis, earnings for the third quarter of 2024 were $0.99, an increase of $0.19, or 24%, compared to the third quarter of 2023. Truist&#8217;s results of operations for the third quarter of 2024 produced an annualized return on average assets of 1.10% and an annualized return on average common shareholders&#8217; equity of 9.1% compared to prior year returns of 0.86% and 7.5%, respectively. 
+
+Net income from continuing operations was $1.4 billion for the third quarter of 2024, compared to net income of $1.1 billion for the third quarter of 2023. 
+
+Taxable-equivalent net interest income for the third quarter of 2024 was up $65 million, or 1.8%, compared to the third quarter of 2023 primarily due to the balance sheet repositioning completed during the second quarter of 2024. Net interest margin was 3.12%, up 20 basis points. 
+
+&#8226; The yield on the average total loan portfolio was 6.41%, up 16 basis points and the yield on the average securities portfolio was 2.97%, up 72 basis points, reflecting the balance sheet repositioning and higher average market interest rates. 
+
+&#8226; The average cost of total deposits was 2.08%, up 24 basis points. The average cost of short-term borrowings was 5.41%, down six basis points. The average cost of long-term debt was 5.13%, up 62 basis points. The increase in rates on deposits and other funding sources was largely attributable to the higher rate environment. 
+
+Noninterest income was up $149 million, or 11%, compared to the third quarter of 2023 primarily due to higher investment banking and trading income and service charges on deposits, partially offset by lower other income. 
+
+Noninterest expense was down $133 million, or 4.3%, compared to the third quarter of 2023 due to decreases in other expense, personnel expense, restructuring charges, and the FDIC special assessment (reduction of $16 million in the third quarter of 2024) (regulatory costs), partially offset by an increase in professional services and outside processing expense. Restructuring charges decreased $36 million driven by lower severance charges. Adjusted noninterest expense, which excludes the FDIC special assessment adjustment, restructuring charges, and the amortization of intangibles, decreased $67 million, or 2.3%, compared to the earlier quarter. 
+
+The higher effective tax rate for the third quarter of 2024 compared to the third quarter of 2023 is due to higher full year forecasted effective tax rate in the current year, excluding the pre-tax loss from the balance sheet repositioning of securities. 
+
+Asset quality remained strong during the third quarter of 2024. 
+
+&#8226; Nonperforming loans and leases held for investment were 0.48% of loans and leases held for investment at September 30, 2024, up two basis points compared to June 30, 2024. 
+
+&#8226; Loans 90 days or more past due and still accruing totaled $518 million at September 30, 2024, up one basis point as a percentage of loans and leases compared with June 30, 2024. Excluding government guaranteed loans, the ratio of loans 90 days or more past due and still accruing as a percentage of loans and leases was 0.04% at September 30, 2024, unchanged from June 30, 2024. 
+
+&#8226; The allowance for credit losses was $5.1 billion and includes $4.8 billion for the allowance for loan and lease losses and $298 million for the reserve for unfunded commitments. The ALLL ratio was 1.60%, up three basis points compared with June 30, 2024. 
+
+&#8226; The provision for credit losses was $448 million compared to $497 million for the third quarter of 2023 primarily reflecting a lower allowance build, partially offset by additional reserves related to Hurricane Helene. 
+
+&#8226; The net charge-off ratio was 55 basis points, up 4 basis points compared to the third quarter of 2023 primarily driven by higher net charge-offs in the other consumer and credit card portfolios, partially offset by lower net charge-offs in the CRE portfolio. 
+
+Capital ratios remained strong during the third quarter of 2024. 
+
+&#8226; Truist&#8217;s CET1 ratio was 11.6% as of September 30, 2024, flat compared to June 30, 2024 as current quarter earnings were partially offset by dividends and share repurchases. 
+
+&#8226; Truist declared common dividends of $0.52 per share during the third quarter of 2024 and repurchased $500 million of common stock. For the third quarter of 2024, the dividend payout ratio was 52%, and the total payout ratio was 90%. 
+
+&#8226; Truist&#8217;s average consolidated LCR was 112% for the three months ended September 30, 2024, compared to the regulatory minimum of 100%. 
+
+&#8226; In November 2024, the Company announced the forthcoming redemption of all outstanding shares of its perpetual preferred stock series L and the corresponding depositary shares representing fractional interests in such series for $750 million. 
+
+Truist Financial Corporation 53 
+
+Analysis of Results of Operations 
+
+Net Interest Income and NIM 
+
+Taxable-equivalent net interest income for the third quarter of 2024 was up $65 million, or 1.8%, compared to the third quarter of 2023 primarily due to the balance sheet repositioning. Net interest margin was 3.12%, up 20 basis points. 
+
+&#8226; Average earning assets decreased $22.9 billion, or 4.7%, primarily due to a decrease in average securities of $19.0 billion, or 14%, and a decline in average total loans of $15.3 billion, or 4.8%, partially offset by growth in other earning assets of $10.4 billion, or 36%. The decrease in average securities and increase in average other earning assets primarily reflects the balance sheet repositioning. 
+
+&#8226; The yield on the average total loan portfolio was 6.41%, up 16 basis points and the yield on the average securities portfolio was 2.97%, up 72 basis points, reflecting the balance sheet repositioning and higher average market interest rates. 
+
+&#8226; Average deposits decreased $16.7 billion, or 4.2%, average short-term borrowings decreased $4.1 billion, or 17%, and average long-term debt decreased $8.0 billion, or 19%. 
+
+&#8226; The average cost of total deposits was 2.08%, up 24 basis points. The average cost of short-term borrowings was 5.41%, down six basis points. The average cost of long-term debt was 5.13%, up 62 basis points. The increase in rates on deposits and other funding sources was largely attributable to the higher rate environment. 
+
+Taxable-equivalent net interest income for the nine months ended September 30, 2024 was down $505 million, or 4.5%, compared to the nine months ended September 30, 2023 primarily due to higher funding costs and lower earning assets, partially offset by the balance sheet repositioning. Net interest margin was 3.01%, up two basis points compared to the prior period. 
+
+&#8226; Average earning assets decreased $25.9 billion, or 5.2%, compared to the prior period primarily due to declines in average total loans of $18.0 billion, or 5.5%, and average securities of $15.2 billion, or 11%, partially offset by an increase in other earning assets of $6.8 billion, or 23%. The change in average securities was driven by maturities and the balance sheet repositioning. The change in other earning assets (increase in balances held at the Federal Reserve) was driven by the balance sheet repositioning. 
+
+&#8226; The yield on the average total loan portfolio was 6.41% for 2024, up 37 basis points, compared to the prior period primarily reflecting higher market interest rates. The yield on the average securities portfolio was 2.72% for 2024, up 54 basis points compared to the prior period, reflecting the balance sheet repositioning and higher market interest rates. 
+
+&#8226; Average deposits decreased $15.9 billion, or 4.0%, average short-term borrowings were flat, and average long-term debt decreased $15.1 billion, or 29% due to decreased funding needs. 
+
+&#8226; The average cost of total deposits was 2.07% for 2024, up 57 basis points compared to the prior period. The average cost of short-term borrowings was 5.55% for 2024, up 42 basis points compared to the prior period. The average cost on long-term debt was 4.90% for 2024, up 49 basis points compared to the prior period. The increases in rates on deposits and other funding sources was largely attributable to the higher rate environment. 
+
+The major components of net interest income and the related annualized yields as well as the variances between the periods caused by changes in interest rates versus changes in volumes are summarized below. 
+
+54 Truist Financial Corporation 
+
+Table 1-1: Taxable-Equivalent Net Interest Income and Rate / Volume Analysis Three Months Ended September 30, (Dollars in millions) Average Balances (1) 
+
+Annualized Yield/Rate (2) 
+
+Income/Expense (2) 
+
+Incr. (Decr.) Change due to 2024 2023 2024 2023 2024 2023 Rate Volume Assets &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; AFS and HTM securities at amortized cost: &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; U.S. Treasury $ 12,986 $ 10,886 4.65 % 1.27 % $ 151 $ 34 $ 117 $ 109 $ 8 GSE 377 339 3.41 2.92 4 3 1 1 &#8212; Agency MBS 103,374 120,717 2.75 2.32 711 701 10 119 (109) States and political subdivisions 417 423 4.14 4.12 3 4 (1) &#8212; (1) Non-agency MBS &#8212; 3,781 &#8212; 2.33 &#8212; 22 (22) (11) (11) Other 18 20 5.18 5.55 1 1 &#8212; &#8212; &#8212; Total securities 117,172 136,166 2.97 2.25 870 765 105 218 (113) Interest earning trading assets 5,454 4,380 6.05 6.91 84 76 8 (10) 18 
+
+Other earning assets (3) 
+
+38,933 28,574 5.54 5.74 549 413 136 (14) 150 Loans and leases, net of unearned income: &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Commercial and industrial 154,102 164,022 6.41 6.50 2,482 2,686 (204) (38) (166) CRE 21,481 22,812 6.88 6.85 373 396 (23) 2 (25) Commercial Construction 7,870 6,194 7.79 7.83 152 120 32 (1) 33 Residential mortgage 53,999 56,135 3.89 3.79 525 532 (7) 14 (21) Home equity 9,703 10,243 8.04 7.61 196 196 &#8212; 11 (11) Indirect auto 22,121 24,872 7.18 6.16 399 386 13 59 (46) Other consumer 29,015 28,963 8.26 7.43 603 542 61 60 1 Student &#8212; &#8212; &#8212; &#8212; &#8212; 1 (1) &#8212; (1) Credit card 4,874 4,875 12.20 11.62 150 143 7 7 &#8212; Total loans and leases HFI 303,165 318,116 6.41 6.25 4,880 5,002 (122) 114 (236) LHFS 1,413 1,765 6.49 6.20 24 28 (4) 1 (5) Total loans and leases 304,578 319,881 6.41 6.25 4,904 5,030 (126) 115 (241) Total earning assets 466,137 489,001 5.47 5.11 6,407 6,284 123 309 (186) Nonearning assets 53,278 50,968 &#160; &#160; &#160; &#160; &#160; &#160; Assets of discontinued operations &#8212; 7,735 Total assets $ 519,415 $ 547,704 &#160; &#160; &#160; &#160; &#160; &#160; Liabilities and Shareholders&#8217; Equity &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Interest-bearing deposits: &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Interest-checking $ 103,899 $ 101,252 2.80 2.40 732 611 121 105 16 Money market and savings 136,639 139,961 2.66 2.35 914 829 85 105 (20) Time deposits 37,726 40,920 3.88 4.05 368 418 (50) (17) (33) Total interest-bearing deposits 278,264 282,133 2.88 2.61 2,014 1,858 156 193 (37) Short-term borrowings 20,781 24,894 5.41 5.47 282 343 (61) (4) (57) Long-term debt 35,318 43,353 5.13 4.51 454 491 (37) 62 (99) Total interest-bearing liabilities 334,363 350,380 3.27 3.05 2,750 2,692 58 251 (193) Noninterest-bearing deposits 106,080 118,905 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Other liabilities 13,631 11,699 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Liabilities of discontinued operations &#8212; 3,408 Shareholders&#8217; equity 65,341 63,312 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Total liabilities and shareholders&#8217; equity $ 519,415 $ 547,704 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Average interest-rate spread &#160; &#160; 2.20 % 2.06 % &#160; &#160; &#160; &#160; &#160; NIM/net interest income - taxable equivalent &#160; &#160; 3.12 % 2.92 % $ 3,657 $ 3,592 $ 65 $ 58 $ 7 Taxable-equivalent adjustment &#160; &#160; &#160; &#160; $ 55 $ 57 &#160; &#160; &#160; Memo: Total deposits $ 384,344 $ 401,038 2.08 % 1.84 % $ 2,014 $ 1,858 $ 156 
+
+(1) Represents daily average balances. Unrealized gains and losses on available-for-sale securities are included in nonearning assets. Active hedge basis adjustments for fair value hedges are included in nonearning assets and other liabilities. In the third quarter of 2024, Truist revised its presentation of active hedge basis adjustments for fair value hedges on securities to be included in nonearning assets for all periods presented. 
+
+(2) Yields are stated on a TE basis utilizing a federal tax rate of 21%. Interest income includes certain fees, deferred costs, and dividends. The change in interest not solely due to changes in rate or volume has been allocated based on the pro-rata absolute dollar amount of each. 
+
+(3) Includes cash equivalents, interest-bearing deposits with banks, FHLB stock, and other earning assets. 
+
+Truist Financial Corporation 55 
+
+Table 1-2: Taxable-Equivalent Net Interest Income and Rate / Volume Analysis Nine Months Ended September 30, (Dollars in millions) Average Balances (1) 
+
+Annualized Yield/Rate (2) 
+
+Income/Expense (2) 
+
+Incr. (Decr.) Change due to 2024 2023 2024 2023 2024 2023 Rate Volume Assets &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; AFS and HTM securities at amortized cost: &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; U.S. Treasury $ 11,332 $ 11,039 3.41 % 1.14 % $ 289 $ 94 $ 195 $ 192 $ 3 GSE 383 334 3.36 2.83 10 8 2 1 1 Agency MBS 109,654 123,060 2.63 2.26 2,166 2,085 81 321 (240) States and political subdivisions 419 424 4.14 4.12 12 13 (1) &#8212; (1) Non-agency MBS 1,712 3,846 2.85 2.33 37 67 (30) 13 (43) Other 18 23 5.28 5.34 1 1 &#8212; &#8212; &#8212; Total securities 123,518 138,726 2.72 2.18 2,515 2,268 247 527 (280) Interest earning trading assets 5,272 4,759 6.21 6.54 247 234 13 (12) 25 
+
+Other earning assets (3) 
+
+36,261 29,463 5.58 5.13 1,536 1,143 393 108 285 Loans and leases, net of unearned income: &#160; &#160; &#160; Commercial and industrial 156,501 165,231 6.49 6.26 7,604 7,732 (128) 283 (411) CRE 21,948 22,736 6.92 6.64 1,143 1,135 8 48 (40) Commercial Construction 7,551 5,994 7.82 7.54 436 332 104 13 91 Residential mortgage 54,518 56,291 3.86 3.76 1,578 1,589 (11) 41 (52) Home equity 9,812 10,483 7.99 7.22 587 566 21 59 (38) Indirect auto 22,170 26,381 6.94 5.99 1,152 1,182 (30) 173 (203) Other consumer 28,545 28,242 8.17 7.10 1,745 1,500 245 229 16 Student &#8212; 3,280 &#8212; 6.92 &#8212; 170 (170) (85) (85) Credit card 4,900 4,836 12.10 11.51 444 416 28 22 6 Total loans and leases HFI 305,945 323,474 6.41 6.04 14,689 14,622 67 783 (716) LHFS 1,241 1,727 6.49 6.25 61 81 (20) 3 (23) Total loans and leases 307,186 325,201 6.41 6.04 14,750 14,703 47 786 (739) Total earning assets 472,237 498,149 5.38 4.92 19,048 18,348 700 1,409 (709) Nonearning assets 50,114 51,913 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Assets of discontinued operations 3,396 7,612 Total assets $ 525,747 $ 557,674 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Liabilities and Shareholders&#8217; Equity &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Interest-bearing deposits: &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Interest-checking $ 103,777 $ 104,053 2.73 1.99 2,123 1,549 574 578 (4) Money market and savings 135,537 139,305 2.58 1.91 2,619 1,991 628 683 (55) Time deposits 40,295 35,189 4.15 3.68 1,252 970 282 132 150 Total interest-bearing deposits 279,609 278,547 2.86 2.16 5,994 4,510 1,484 1,393 91 Short-term borrowings 24,329 24,317 5.55 5.13 1,010 932 78 78 &#8212; Long-term debt 37,579 52,663 4.90 4.41 1,382 1,739 (357) 179 (536) Total interest-bearing liabilities 341,517 355,527 3.28 2.70 8,386 7,181 1,205 1,650 (445) Noninterest-bearing deposits 107,529 124,533 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Other liabilities 13,278 11,265 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Liabilities of discontinued operations 1,401 3,181 Shareholders&#8217; equity 62,022 63,168 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Total liabilities and shareholders&#8217; equity $ 525,747 $ 557,674 &#160; &#160; &#160; &#160; &#160; &#160; &#160; Average interest-rate spread &#160; &#160; 2.10 % 2.22 % &#160; &#160; &#160; &#160; &#160; NIM/net interest income - taxable equivalent &#160; &#160; 3.01 % 2.99 % $ 10,662 $ 11,167 $ (505) $ (241) $ (264) Taxable-equivalent adjustment &#160; &#160; &#160; &#160; $ 161 $ 162 &#160; &#160; &#160; Memo: Total deposits $ 387,138 $ 403,080 2.07 % 1.50 % $ 5,994 $ 4,510 $ 1,484 
+
+(1) Represents daily average balances. Unrealized gains and losses on available-for-sale securities are included in nonearning assets. Active hedge basis adjustments for fair value hedges are included in nonearning assets and other liabilities. In the third quarter of 2024, Truist revised its presentation of active hedge basis adjustments for fair value hedges on securities to be included in nonearning assets for all periods presented. 
+
+(2) Yields are stated on a TE basis utilizing a federal tax rate of 21%. Interest income includes certain fees, deferred costs, and dividends. The change in interest not solely due to changes in rate or volume has been allocated based on the pro-rata absolute dollar amount of each. 
+
+(3) Includes cash equivalents, interest-bearing deposits with banks, FHLB stock, and other earning assets. 
+
+56 Truist Financial Corporation 
+
+Provision for Credit Losses 
+
+The provision for credit losses was $448 million compared to $497 million for the third quarter of 2023. The net charge-off ratio for the current quarter of 0.55% was up four basis points compared to the prior quarter. 
+
+&#8226; The decrease in the current quarter provision expense primarily reflects a lower allowance build, partially offset by additional reserves related to Hurricane Helene. 
+
+&#8226; The net charge-off ratio was up compared to the third quarter of 2023 primarily driven by higher net charge-offs in the other consumer and credit card portfolios, partially offset by lower net charge-offs in the CRE portfolio. 
+
+The provision for credit losses was $1.4 billion for the nine months ended September 30, 2024 compared to $1.5 billion for the nine months ended September 30, 2023. The net charge-off ratio for the current period of 0.59% was up 12 basis points compared to the prior period. 
+
+&#8226; The decrease in the current period provision expense primarily reflects a lower allowance build, partially offset by additional reserves related to Hurricane Helene. 
+
+&#8226; The net charge-off ratio was up compared to the prior period driven by higher charge-offs in the CRE, other consumer, credit card, and indirect auto portfolios, partially offset by lower net charge-offs in the commercial and industrial portfolio. Additionally, the prior period included $98 million of charge-offs related to the sale of the student loan portfolio. 
+
+Refer to &#8220;Note 5. Loans and ACL&#8221; for additional discussion of the ACL. 
+
+Noninterest Income 
+
+Noninterest income is a significant contributor to Truist&#8217;s financial results. Management focuses on diversifying its sources of revenue to reduce Truist&#8217;s reliance on traditional spread-based interest income, as certain fee-based activities are a relatively stable revenue source during periods of changing interest rates. The following table provides a breakdown of Truist&#8217;s noninterest income: Table 2: Noninterest Income Three Months Ended September 30, % Change Nine Months Ended September 30, % Change (Dollars in millions) 2024 2023 2024 vs. 2023 2024 2023 2024 vs. 2023 Wealth management income $ 350 $ 343 2.0 % $ 1,067 $ 1,012 5.4 % Investment banking and trading income 332 185 79.5 941 657 43.2 Card and payment related fees 222 238 (6.7) 676 704 (4.0) Service charges on deposits 221 154 43.5 678 644 5.3 Mortgage banking income 106 102 3.9 315 343 (8.2) Lending related fees 88 102 (13.7) 273 294 (7.1) Operating lease income 49 63 (22.2) 158 194 (18.6) Securities gains (losses) &#8212; &#8212; &#8212; (6,650) &#8212; NM Other income 115 147 (21.8) 259 287 (9.8) Total noninterest income $ 1,483 $ 1,334 11.2 $ (2,283) $ 4,135 (155.2) 
+
+Noninterest income was up $149 million, or 11%, compared to the third quarter of 2023 primarily due to higher investment banking and trading income and service charges on deposits, partially offset by lower other income. 
+
+&#8226; Investment banking and trading income increased due to higher bond and equity originations and higher structured real estate income. 
+
+&#8226; Service charges on deposits increased due to a prior period reduction in deposit service charge fees due to client refund accruals resulting from a revision in deposit service fee protocols, partially offset by a decline as a result of continued growth of Truist One Banking. 
+
+&#8226; Other income decreased due to lower equity investment income due to gains in the third quarter of 2023, lower income from investments held for certain post-retirement benefits (which is primarily offset by lower personnel expense), and a valuation decrease for derivatives related to Visa shares, partially offset by the gain on the sale of Sterling Capital Management LLC. 
+
+Truist Financial Corporation 57 
+
+Noninterest income was down $6.4 billion for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 primarily due to $6.7 billion of securities losses resulting from the balance sheet repositioning and lower operating lease income, other income, mortgage banking income, and card and payment related fees, partially offset by higher investment banking and trading income, wealth management income, and service charges on deposits. Excluding securities losses, noninterest income was up $232 million, or 5.6%, compared to the prior period. 
+
+&#8226; Investment banking and trading income increased due to higher bond and equity originations, structured real estate income, loan syndication fees, and merger and acquisition fees, partially offset by lower trading income. 
+
+&#8226; Wealth management income increased due to higher assets under management. 
+
+&#8226; Service charges on deposits increased due to a prior period reduction in deposit service charge fees due to client refund accruals resulting from a revision in deposit service fee protocols, partially offset by a decline as a result of continued growth of Truist One Banking. 
+
+&#8226; Operating lease income decreased due to the runoff of operating lease balances. 
+
+&#8226; Other income decreased due to lower equity investment income due to gains in 2023, and a valuation decrease for derivatives related to Visa shares, partially offset by higher derivative income and the gain on the sale of Sterling Capital Management LLC. 
+
+&#8226; Mortgage banking income decreased due to a gain on the sale of a servicing portfolio in the prior year. 
+
+&#8226; Card and payment related fees decreased due to lower interchange rates, higher rebates, and lower volumes. 
+
+Noninterest Expense 
+
+The following table provides a breakdown of Truist&#8217;s noninterest expense: Table 3: Noninterest Expense Three Months Ended September 30, % Change Nine Months Ended September 30, % Change (Dollars in millions) 2024 2023 2024 vs. 2023 2024 2023 2024 vs. 2023 Personnel expense $ 1,628 $ 1,669 (2.5) % $ 4,919 $ 5,042 (2.4) % Professional fees and outside processing 336 289 16.3 922 887 3.9 Software expense 222 222 &#8212; 664 645 2.9 Net occupancy expense 157 164 (4.3) 477 499 (4.4) Amortization of intangibles 84 98 (14.3) 261 297 (12.1) Equipment expense 84 89 (5.6) 261 278 (6.1) Marketing and customer development 75 70 7.1 194 207 (6.3) Operating lease depreciation 34 43 (20.9) 108 133 (18.8) Regulatory costs 51 77 (33.8) 288 225 28.0 Restructuring charges 25 61 (59.0) 109 165 (33.9) Other expense 231 278 (16.9) 771 743 3.8 Total noninterest expense $ 2,927 $ 3,060 (4.3) $ 8,974 $ 9,121 (1.6) 
+
+Noninterest expense was down $133 million, or 4.3%, compared to the third quarter of 2023 due to decreases in other expense, personnel expense, restructuring charges, and the FDIC special assessment (reduction of $16 million in the third quarter of 2024) (regulatory costs), partially offset by an increase in professional services and outside processing expense. Restructuring charges decreased $36 million driven by lower severance charges. Adjusted noninterest expense, which excludes the FDIC special assessment adjustment, restructuring charges, and the amortization of intangibles, decreased $67 million, or 2.3%, compared to the earlier quarter. 
+
+&#8226; Other expense decreased due to the prior period costs associated with a revision in deposit service fee protocols, the prior period resolution of the USAA remote deposit capture patent infringement lawsuit, and lower pension amortization expense. 
+
+&#8226; Personnel expense decreased due to lower headcount across most lines of business, partially offset by higher incentives. 
+
+&#8226; Professional fees and outside processing expense increased due to higher investments in technology and risk infrastructure. 
+
+Noninterest expense was down $147 million, or 1.6%, for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 primarily due to a decrease in personnel expense and other expense (excluding the charitable contribution), partially offset by a $150 million charitable contribution to the Truist Foundation (other expense) in 2024 and FDIC special assessment adjustments in 2024 of $72 million (regulatory costs). Restructuring charges decreased $56 million; both periods included restructuring charges for severance charges as well as facilities optimization costs. Adjusted noninterest expenses, which exclude the charitable contribution, the amortization of intangibles, the FDIC special assessment adjustment, restructuring charges, and a small loss on the early extinguishment of debt, decreased $273 million, or 3.2%. 
+
+&#8226; Personnel expense decreased due to lower headcount across most lines of business, partially offset by higher incentives. 
+
+58 Truist Financial Corporation 
+
+&#8226; Other expense, excluding the aforementioned charitable contribution to the Truist Foundation, decreased primarily due to lower pension expense, the prior period costs associated with a revision in deposit service fee protocols, and the prior period resolution of the USAA remote deposit capture patent infringement lawsuit. 
+
+&#8226; Professional fees and outside processing expense increased due to higher investments in technology and risk infrastructure. 
+
+Restructuring Charges 
+
+The following table presents a summary of restructuring charges and the related accruals. The 2024 restructuring costs predominately reflect various initiatives, including costs for severance and other benefits and costs related to exiting facilities. Table 4: Restructuring Accrual Activity (Dollars in millions) Accrual at Jul 1, 2024 Expense Utilized Accrual at Sep 30, 2024 Accrual at Jan 1, 2024 Expense Utilized Accrual at Sep 30, 2024 Severance and personnel-related $ 3 $ 15 $ (17) $ 1 $ 8 $ 70 $ (77) $ 1 Occupancy and equipment &#8212; 6 (6) &#8212; &#8212; 31 (31) &#8212; Professional services 3 2 (2) 3 &#8212; 5 (2) 3 Other &#8212; 2 (2) &#8212; &#8212; 3 (3) &#8212; Total $ 6 $ 25 $ (27) $ 4 $ 8 $ 109 $ (113) $ 4 
+
+Segment Results 
+
+Truist operates and measures business activity across two segments: CSBB and WB, with functional activities included in OT&#38;C. The Company&#8217;s business segment structure is based on the manner in which financial information is evaluated by management as well as the products and services provided or the type of client served. 
+
+Effective January 1, 2024, several business activities were realigned reflecting updates to the Company&#8217;s operating structure. First, the CB&#38;W segment was renamed CSBB and the C&#38;CB segment was renamed WB. Second, the Wealth business was realigned into the WB segment from the CSBB segment, representing a separate reporting unit in that segment. Third, the small business banking client segmentation was realigned into the CSBB segment from the WB segment. 
+
+On February 20, 2024, the Company entered into an agreement to sell the remaining stake of the common equity in TIH to an investor group, representing substantially all of the Company&#8217;s IH segment, which represented a material strategic shift for the Company, and as a result, the Company recast results for all periods presented under the discontinued operations basis of presentation. On May 6, 2024, the Company completed the sale of its remaining equity interests in TIH. TIH was the principal legal entity of the IH segment. As the operations of TIH were included in discontinued operations prior to the sale of TIH, the Company no longer presents the IH segment as one of its reportable segments. Refer to &#8220;Note 2. Discontinued Operations&#8221; for additional information related to discontinued operations. 
+
+In the third quarter of 2024, the Company&#8217;s corporate expense allocation methodology was enhanced to allocate certain overhead or functional expenses based on actual OT&#38;C noninterest expense performance. Prior period results have been revised for the CSBB, WB, and OT&#38;C segments to conform to the current allocation methodology. 
+
+As a result of the methodology change, CSBB noninterest expense increased $43 million and $195 million, for the three and nine months ended September 30, 2023, respectively, with an off-setting decrease in OT&#38;C noninterest expense. For the same reason, WB noninterest expense increased $76 million and $234 million for the three and nine months ended September 30, 2023, respectively, with an off-setting decrease in OT&#38;C noninterest expense. 
+
+Table 5: Net Income from Continuing Operations by Reportable Segment &#160; Three Months Ended September 30, % Change Nine Months Ended September 30, % Change (Dollars in millions) 2024 2023 2024 vs. 2023 2024 2023 2024 vs. 2023 Consumer and Small Business Banking $ 865 $ 823 5.1 % $ 2,681 $ 2,701 (0.7) % Wholesale Banking 1,085 815 33.1 3,001 2,538 18.2 Other, Treasury &#38; Corporate (511) (529) (3.4) (7,016) (1,551) NM Truist Financial Corporation $ 1,439 $ 1,109 29.8 $ (1,334) $ 3,688 (136.2) 
+
+Truist Financial Corporation 59 
+
+Consumer and Small Business Banking 
+
+CSBB net income was $865 million for the third quarter of 2024, an increase of $42 million compared to the third quarter of 2023. 
+
+&#8226; Segment net interest income increased $33 million primarily driven by higher funding credit on deposits, partially offset by lower average deposit and loan balances. 
+
+&#8226; The allocated provision for credit losses increased $94 million reflecting an allowance build compared to the earlier period and increased charge-offs in the other consumer and credit card portfolios. 
+
+&#8226; Noninterest income increased $73 million primarily due to increased service charges on deposits related to a prior period reduction in fees due to client refund accruals resulting from a revision in deposit service fee protocols as well as an increase in residential mortgage income. 
+
+&#8226; Noninterest expense decreased $41 million compared to the earlier quarter driven by lower salaries and related benefits due to reduced headcount and lower operational charge offs, partially offset by higher enterprise operations, marketing, and finance support. 
+
+CSBB average loans and leases held for investment decreased $5.6 billion, or 4.3%, for the third quarter of 2024 compared to the third quarter of 2023, primarily driven by lower loan balances within the prime auto, residential mortgage, unsecured, small business, and home equity portfolios, partially offset by growth in the Service Finance, Sheffield, and Mortgage Warehouse Lending portfolios. 
+
+CSBB average total deposits decreased $8.6 billion, or 3.9%, for the third quarter of 2024 compared to the third quarter of 2023, primarily driven by decreases in interest checking, noninterest-bearing deposits, and money market and savings, partially offset by an increase in time deposits. 
+
+Wholesale Banking 
+
+WB net income was $1.1 billion for the third quarter of 2024, an increase of $270 million compared to the third quarter of 2023. 
+
+&#8226; Segment net interest income decreased $63 million primarily due to lower deposit and loan balances combined with higher cost of deposits, partially offset by favorable loan spreads. 
+
+&#8226; The allocated provision for credit losses decreased $147 million which reflects an allowance release in the current quarter compared to an allowance build in the earlier period and lower charge-offs in the CRE portfolio. 
+
+&#8226; Noninterest income increased $150 million compared to the earlier quarter driven by higher income from structured real estate and bond and equity origination fees. 
+
+&#8226; Noninterest expense decreased $117 million compared to the earlier quarter primarily due to lower salaries expense driven by reduced headcount and lower restructuring charges as well as lower marketing and finance support charges. 
+
+WB average loans held for investment decreased $9.4 billion, or 5.0%, for the third quarter of 2024 compared to the third quarter of 2023, primarily due to decreases in commercial and industrial loan balances. 
+
+WB average total deposits decreased $4.8 billion, or 3.3%, for the third quarter of 2024 compared to the third quarter of 2023, primarily due to declines in average noninterest-bearing deposits and money market and savings, partially offset by increases in interest checking balances. 
+
+Other, Treasury &#38; Corporate 
+
+OT&#38;C generated a net loss of $511 million in the third quarter of 2024, compared to a net loss of $529 million in the third quarter of 2023. 
+
+&#8226; Segment net interest income increased $97 million primarily due to lower average long-term debt, balance sheet repositioning, and funding charges primarily on loans to other segments, partially offset by funding credit on deposits to other segments. 
+
+&#8226; Noninterest income decreased $74 million primarily due to an increase in tax gross-up activity offset in the Wholesale Banking segment and lower income from investments held for certain post-retirement benefits (which is primarily offset by lower employee benefits expense). 
+
+&#8226; Noninterest expense increased $25 million compared to the earlier quarter primarily due to increases in professional fees and outside processing and incentive expenses, partially offset by lower operating charge-offs, occupancy, and pension expenses. 
+
+60 Truist Financial Corporation 
+
+Nine Months of 2024 compared to Nine Months of 2023 
+
+Consumer and Small Business Banking 
+
+CSBB net income was $2.7 billion for the nine months ended September 30, 2024, a decrease of $20 million compared to the prior year. 
+
+&#8226; Segment net interest income decreased $56 million primarily driven by lower loan and deposit balances, partially offset by higher funding credit on deposits. 
+
+&#8226; The allocated provision for credit losses increased $209 million primarily reflecting an allowance build in the current period compared to same period last year. 
+
+&#8226; Noninterest income increased $17 million primarily due to increased service charges on deposits, partially offset by lower card and payment related fees and residential mortgage banking income in the current period. 
+
+&#8226; Noninterest expense decreased $227 million primarily driven by lower personnel expenses, technology project costs, operational charge-offs, amortization of intangibles, and pension costs as well as lower restructuring charges, partially offset by higher enterprise operations, marketing, and finance support expenses. 
+
+CSBB average loans and leases held for investment decreased $10.1 billion, or 7.5%, for the nine months ended September 30, 2024 compared to the prior year driven primarily by the sale of the student loan portfolio in the second quarter of 2023 and a decrease in indirect auto loans. 
+
+CSBB average total deposits decreased $7.8 billion, or 3.5%, for the nine months ended September 30, 2024 compared to the prior year primarily due to decreases in average interest-bearing checking, noninterest-bearing deposits, and money market and savings, partially offset by an increase in time deposits. 
+
+Wholesale Banking 
+
+WB net income was $3.0 billion for the nine months ended September 30, 2024, an increase of $463 million compared to the prior year. 
+
+&#8226; Segment net interest income decreased $281 million primarily due to lower deposit and loan balances combined with higher cost of deposits, partially offset by favorable loan spreads. 
+
+&#8226; The allocated provision for credit losses decreased $351 million, which primarily reflects a larger allowance build in the earlier period. 
+
+&#8226; Noninterest income increased $286 million primarily due to increases in investment banking income across all products and income from wealth management, partially offset by lower income from strategic investments. 
+
+&#8226; Noninterest expense decreased $237 million primarily due to lower personnel, restructuring, and pension expenses as well as lower marketing and finance support expenses. 
+
+WB average loans and leases held for investment decreased $7.5 billion, or 4.0%, for the nine months ended September 30, 2024 compared to the prior year driven by decreases in the commercial and industrial portfolio. 
+
+WB average total deposits decreased $9.5 billion, or 6.3%, for the nine months ended September 30, 2024 compared to the prior year primarily due to decreases in average noninterest-bearing deposits and money market and savings, partially offset by an increase in interest-bearing checking balances. 
+
+Other, Treasury, and Corporate 
+
+OT&#38;C generated a net loss of $7.0 billion for the nine months ended September 30, 2024, compared to a net loss of $1.6 billion in the prior year. 
+
+&#8226; Segment net interest income decreased $167 million due to funding credit on deposits to other segments, partially offset by funding charges primarily on loans to other segments, the balance sheet repositioning, and lower average long-term debt. 
+
+&#8226; Noninterest income decreased $6.7 billion primarily due to securities losses resulting from the balance sheet repositioning. 
+
+&#8226; Noninterest expense increased $317 million primarily driven by higher donations and contributions expense due to a charitable contribution to the Truist Foundation, higher incentive expense, lower credit from other segments for technology project support, and increased professional fees and outside processing expense, partially offset by lower occupancy and pension costs. 
+
+Truist Financial Corporation 61 
+
+Analysis of Financial Condition 
+
+Investment Activities 
+
+The securities portfolio totaled $115.6 billion at September 30, 2024, compared to $121.5 billion at December 31, 2023. U.S. Treasury, GSE, and Agency MBS represented 99.6% and 97.2% of the total securities portfolio as of September 30, 2024 and December 31, 2023, respectively. The overwhelming majority of the portfolio is in agency MBS securities. 
+
+&#8226; The decrease in 2024 includes sales of $28.1 billion and maturities and paydowns of $14.0 billion, partially offset by $35.3 billion in purchases. The purchases and sales were primarily related to the balance sheet repositioning. 
+
+&#9702; Following the sale of TIH, which resulted in after-tax cash proceeds to Truist of approximately $10.1 billion, Truist executed a strategic balance sheet repositioning of a portion of its AFS investment securities portfolio by selling $27.7 billion of lower-yielding investment securities, resulting in an after-tax loss of $5.1 billion in the second quarter of 2024. The investment securities that were sold had a book value of $34.4 billion and a weighted average book yield of 2.80% for the remainder of 2024 including the impact of hedges and based on the Federal Funds futures curve at the time. Including the tax benefit, the repositioning generated $29.3 billion available for reinvestment. 
+
+&#9702; Truist invested approximately $18.7 billion of the $39.4 billion available, including the $10.1 billion after-tax proceeds from the sale of TIH, in shorter duration investment securities yielding 5.27%. The remaining $20.7 billion was invested in cash. The blended reinvestment rate on the new investment securities purchased and cash was 5.22% for the remainder of 2024 including the impact of hedges and based on the Federal Funds futures curve at the time. 
+
+&#8226; As of September 30, 2024, 43% of the investment securities portfolio was classified as held-to-maturity based on amortized cost, excluding portfolio level basis adjustments, compared to 41% at December 31, 2023. 
+
+&#8226; As of September 30, 2024, approximately 3.1% of the securities portfolio was variable rate, excluding the impact of swaps, compared to 5.7% as of December 31, 2023. 
+
+&#8226; The effective duration of the AFS securities portfolio was 5.0 years at September 30, 2024 and 6.1 years at December 31, 2023, excluding the impact of swaps, or 3.4 years at September 30, 2024 and 4.0 years at December 31, 2023, including the impact of swaps. The effective duration of the HTM securities portfolio was 7.3 years at September 30, 2024 and December 31, 2023. 
+
+Lending Activities 
+
+The following table presents the composition of average loans and leases: Table 6: Average Loans and Leases Three Months Ended (Dollars in millions) Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Dec 31, 2023 Sep 30, 2023 Commercial: Commercial and industrial $ 154,102 $ 157,043 $ 158,385 $ 160,278 $ 164,022 CRE 21,481 21,969 22,400 22,755 22,812 Commercial construction 7,870 7,645 7,134 6,515 6,194 Consumer: Residential mortgage 53,999 54,490 55,070 55,658 56,135 Home equity 9,703 9,805 9,930 10,104 10,243 Indirect auto 22,121 22,016 22,374 23,368 24,872 Other consumer 29,015 28,326 28,285 28,913 28,963 Credit card 4,874 4,905 4,923 4,996 4,875 Total average loans and leases HFI $ 303,165 $ 306,199 $ 308,501 $ 312,587 $ 318,116 
+
+Average loans held for investment decreased $3.0 billion, or 1.0%, compared to the prior quarter. 
+
+&#8226; Average commercial loans decreased 1.7% due to a decline in the commercial and industrial portfolio. 
+
+&#8226; Average consumer loans increased 0.2% due to growth in the other consumer portfolio, partially offset by a decline in the residential mortgage portfolio. 
+
+At September 30, 2024 and December 31, 2023, 53% of loans and leases HFI were variable rate. 
+
+62 Truist Financial Corporation 
+
+Asset Quality 
+
+The following tables summarize asset quality information: 
+
+Table 7: Asset Quality (Dollars in millions) Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Dec 31, 2023 Sep 30, 2023 NPAs: NPLs: Commercial and industrial $ 575 $ 459 $ 512 $ 470 $ 561 CRE 302 360 261 284 289 Commercial construction 1 &#8212; 23 24 29 Residential mortgage 156 161 151 153 132 Home equity 118 123 130 122 123 Indirect auto 252 244 256 268 266 Other consumer 63 64 61 59 52 Total NPLs HFI 1,467 1,411 1,394 1,380 1,452 Loans held for sale 5 9 22 51 75 Total nonperforming loans and leases 1,472 1,420 1,416 1,431 1,527 Foreclosed real estate 3 5 4 3 3 Other foreclosed property 53 51 56 54 54 Total nonperforming assets $ 1,528 $ 1,476 $ 1,476 $ 1,488 $ 1,584 Loans 90 days or more past due and still accruing: Commercial and industrial $ 5 $ 8 $ 12 $ 7 $ 15 Commercial construction &#8212; 1 &#8212; 1 &#8212; Residential mortgage &#8211; government guaranteed 394 375 408 418 456 Residential mortgage &#8211; nonguaranteed 39 27 33 21 30 Home equity 7 7 10 11 9 Indirect auto &#8212; 1 1 2 1 Other consumer 22 19 18 21 16 Credit card 51 51 56 53 47 Total loans 90 days or more past due and still accruing $ 518 $ 489 $ 538 $ 534 $ 574 Loans 30-89 days past due and still accruing: Commercial and industrial $ 116 $ 109 $ 158 $ 230 $ 98 CRE 10 8 21 5 28 Commercial construction 4 &#8212; &#8212; &#8212; 1 Residential mortgage &#8211; government guaranteed 305 340 286 326 293 Residential mortgage &#8211; nonguaranteed 366 392 352 313 270 Home equity 63 58 59 70 61 Indirect auto 596 592 540 669 598 Other consumer 233 214 226 271 219 Credit card 76 78 74 87 68 Total loans 30-89 days past due and still accruing $ 1,769 $ 1,791 $ 1,716 $ 1,971 $ 1,636 
+
+Nonperforming assets totaled $1.5 billion at September 30, 2024, up $52 million compared to June 30, 2024, due to an increase in the commercial and industrial portfolio, partially offset by a decline in the CRE portfolio. Nonperforming loans and leases held for investment were 0.48% of loans and leases held for investment at September 30, 2024, up two basis points compared to June 30, 2024. 
+
+Loans 90 days or more past due and still accruing totaled $518 million at September 30, 2024, up one basis point as a percentage of loans and leases compared with the prior quarter due primarily to an increase in the government guaranteed residential mortgage portfolio. Excluding government guaranteed loans, the ratio of loans 90 days or more past due and still accruing as a percentage of loans and leases was 0.04% at September 30, 2024, unchanged from June 30, 2024. 
+
+Loans 30-89 days past due and still accruing totaled $1.8 billion at September 30, 2024, down $22 million, or one basis point, as a percentage of loans and leases, compared to the prior quarter primarily due to a decrease in the residential mortgage portfolio, partially offset by an increase in the other consumer portfolio. 
+
+Truist Financial Corporation 63 
+
+Problem loans include NPLs and loans that are 90 days or more past due and still accruing as disclosed in Table 7. In addition, for the commercial portfolio segment, loans that are rated special mention or substandard performing are closely monitored by management as potential problem loans. Refer to &#8220;Note 5. Loans and ACL&#8221; for the amortized cost basis of loans by origination year and credit quality indicator as well as additional disclosures related to NPLs. 
+
+Table 8: Asset Quality Ratios Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Dec 31, 2023 Sep 30, 2023 Loans 30-89 days past due and still accruing as a percentage of loans and leases HFI 
+
+0.58 % 0.59 % 0.56 % 0.63 % 0.52 % Loans 90 days or more past due and still accruing as a percentage of loans and leases HFI 
+
+0.17 0.16 0.18 0.17 0.18 NPLs as a percentage of loans and leases HFI 
+
+0.48 0.46 0.45 0.44 0.46 NPLs as a percentage of total loans and leases (1) 
+
+0.48 0.46 0.46 0.46 0.48 NPAs as a percentage of: 
+
+Total assets (1) 
+
+0.29 0.28 0.28 0.28 0.29 Loans and leases HFI plus foreclosed property 
+
+0.50 0.48 0.47 0.46 0.48 ALLL as a percentage of loans and leases HFI 
+
+1.60 1.57 1.56 1.54 1.49 Ratio of ALLL to NPLs 
+
+3.3x 3.4x 3.4x 3.5x 3.2x Loans 90 days or more past due and still accruing as a percentage of loans and leases HFI, excluding government guaranteed (2) 
+
+0.04 % 0.04 % 0.04 % 0.04 % 0.04 % 
+
+(1) Includes LHFS. 
+
+(2) This asset quality ratio has been adjusted to remove the impact of government guaranteed loans. Management believes the inclusion of such assets in this asset quality ratio results in distortion of this ratio because collection of principal and interest is reasonably assured, or the ratio might not be comparable to other periods presented or to other portfolios that do not have government guarantees. 
+
+Table 9: Asset Quality Ratios (Continued) As of/For the Year-to-Date Three Months Ended Period Ended Sept. 30 Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Dec 31, 2023 Sep 30, 2023 2024 2023 
+
+Net charge-offs as a percentage of average loans and leases HFI: 
+
+Commercial: Commercial and industrial 0.18 % 0.18 % 0.17 % 0.23 % 0.17 % 0.17 % 0.18 % CRE 1.12 1.67 1.73 0.83 1.31 1.51 0.68 Commercial construction (0.01) (0.05) (0.02) 0.22 (0.03) (0.03) (0.03) Consumer: Residential mortgage (0.01) (0.01) &#8212; (0.01) 0.05 (0.01) 0.01 Home equity (0.11) (0.03) (0.08) (0.12) (0.10) (0.07) (0.13) Indirect auto 1.89 1.94 2.26 2.19 1.75 2.03 1.50 Other consumer 1.73 1.60 1.96 1.74 1.37 1.76 1.29 Student &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 4.40 Credit card 5.04 5.33 5.54 4.38 3.78 5.31 3.66 Total 0.55 0.58 0.64 0.57 0.51 0.59 0.47 Ratio of ALLL to net charge-offs 2.9x 2.7x 2.4x 2.7x 2.9x 2.7x 3.1x 
+
+Ratios are annualized, as applicable. 
+
+The following table presents activity related to NPAs: Table 10: Rollforward of NPAs (Dollars in millions) 2024 2023 Balance, January 1 $ 1,488 $ 1,250 New NPAs 2,540 2,365 Advances and principal increases 397 648 Disposals of foreclosed assets (1) 
+
+(458) (449) Disposals of NPLs (2) 
+
+(144) (132) Charge-offs and losses (975) (708) Payments (1,043) (1,022) Transfers to performing status (254) (359) Other, net (23) (9) Ending balance, September 30 $ 1,528 $ 1,584 
+
+(1) Includes charge-offs and losses recorded upon sale of $193 million and $131 million for the nine months ended September 30, 2024 and 2023, respectively. 
+
+(2) Includes charge-offs and losses recorded upon sale of $1 million and $31 million for the nine months ended September 30, 2024 and 2023, respectively. 
+
+64 Truist Financial Corporation 
+
+Commercial Credit Concentrations 
+
+Truist has established the following general practices to manage commercial credit risk: 
+
+&#8226; limiting the amount of credit that Truist may extend to a borrower; 
+
+&#8226; establishing a process for credit approval accountability; 
+
+&#8226; initial underwriting and analysis of borrower, transaction, market, and collateral risks; 
+
+&#8226; evaluating the diversity of the loan portfolio in terms of type, industry, and geographical concentration; 
+
+&#8226; ongoing servicing and monitoring of individual loans and lending relationships; 
+
+&#8226; continuous monitoring of the portfolio, market dynamics, and the economy; and 
+
+&#8226; periodically reevaluating the Company&#8217;s strategy and overall exposure as economic, market, and other relevant conditions change. 
+
+Truist continuously monitors various segments of its credit portfolios to assess potential concentration risks. Management is actively involved in the credit approval and review process, and risk acceptance criteria are adjusted as needed to reflect the Company&#8217;s risk appetite. Consistent with established risk management objectives, the Company utilizes various risk mitigation techniques, including collecting collateral and security interests, obtaining guarantees, and, to a limited extent, through the purchase of credit loss protection via third party insurance or use of credit derivatives such as credit default swaps. 
+
+In the commercial portfolio, risk concentrations are evaluated regularly on both an aggregate portfolio level and on an individual client basis. The Company manages its commercial exposure through portfolio targets, limits, and transactional risk acceptance criteria as well as other techniques, including loan syndications/participations, loan sales, collateral, structure, covenants, and other risk reduction techniques. 
+
+The following tables provide industry distribution by major types of commercial credit exposure and the geographical distribution of commercial exposures. Industry classification for commercial and industrial loans is based on the North American Industry Classification System. CRE loans are classified based on type of property. For the geographic disclosures, amounts are generally assigned to a state based on the physical billing address of the client or physical property address. 
+
+Truist Financial Corporation 65 
+
+Table 11: Commercial and Industrial Portfolio Industry and Geography September 30, 2024 December 31, 2023 (Dollars in millions) LHFI % of Total NPL LHFI % of Total NPL Industry: Finance and insurance $ 18,984 12.3 % $ 29 $ 15,526 9.7 % $ 40 Manufacturing 13,014 8.5 81 14,418 9.0 65 Retail trade 12,597 8.2 82 12,740 7.9 89 Health care and social assistance 12,285 8.0 97 12,997 8.1 46 Real estate and rental and leasing 11,929 7.7 8 12,663 7.9 16 Public administration 9,462 6.1 &#8212; 9,802 6.1 &#8212; Wholesale trade 7,328 4.8 44 8,263 5.1 3 Information 6,783 4.4 96 8,346 5.2 &#8212; Transportation and warehousing 4,666 3.0 46 5,703 3.5 8 Educational services 4,334 2.8 &#8212; 5,151 3.2 31 Professional, scientific, and technical services 3,972 2.6 10 4,445 2.8 26 Utilities 3,628 2.4 &#8212; 4,555 2.8 &#8212; Arts, entertainment, and recreation 3,594 2.3 &#8212; 3,227 2.0 &#8212; Administrative and support and waste management and remediation services 3,079 2.0 1 3,716 2.3 49 Other services (except public administration) 3,070 2.0 5 3,305 2.1 1 Accommodation and food services 2,824 1.8 5 3,067 1.9 13 Other (1) 
+
+12,739 8.3 43 12,159 7.5 41 Subtotal 134,288 87.2 547 140,083 87.1 428 Business owner occupied 
+
+19,637 12.8 28 20,705 12.9 42 Total commercial and industrial $ 153,925 100.0 % $ 575 $ 160,788 100.0 % $ 470 Geography: Florida $ 18,065 11.7 % $ 189 $ 18,947 11.8 % $ 228 Texas 14,891 9.7 67 15,374 9.6 24 North Carolina 12,051 7.8 17 12,959 8.1 11 Georgia 11,924 7.7 8 12,167 7.6 32 New York 11,321 7.4 69 10,336 6.4 3 Virginia 9,116 5.9 8 9,724 6.0 35 California 7,806 5.1 29 9,115 5.7 1 Pennsylvania 7,103 4.6 8 7,423 4.6 4 Maryland 6,545 4.3 5 6,668 4.1 6 Tennessee 5,806 3.8 59 5,852 3.6 43 South Carolina 4,213 2.7 37 4,134 2.6 1 New Jersey 3,902 2.5 2 3,754 2.3 36 Illinois 3,709 2.4 21 3,892 2.4 10 Ohio 3,101 2.0 &#8212; 3,220 2.0 6 Other (2) 
+
+34,372 22.4 56 37,223 23.2 30 Total commercial and industrial 
+
+$ 153,925 100.0 % $ 575 $ 160,788 100.0 % $ 470 
+
+(1) Represents other remaining industries that are deemed to be individually insignificant. 
+
+(2) Includes non-U.S. loans of $4.3 billion and $5.1 billion at September 30, 2024 and December 31, 2023, respectively. The remainder represents other remaining states that are deemed to be individually insignificant. 
+
+Truist has noted that the CRE and commercial construction portfolios have the potential for heightened risk in the current environment. Truist seeks to maintain a high-quality portfolio through disciplined risk management and prudent client selection. 
+
+Truist&#8217;s CRE and commercial construction portfolios totaled $28.9 billion as of September 30, 2024, which includes 35% related to multifamily residential, 19% related to industrial, 15% related to office, 13% related to retail, and the remainder composed of hotel and other commercial real estate. 
+
+Our combined CRE and commercial construction office portfolio is primarily composed of multi-tenant, non-gateway properties located within Truist Bank&#8217;s footprint. As of September 30, 2024, approximately 97% of these properties are multi-tenant. Additionally, as of September 30, 2024, 11% and 32% of these exposures are scheduled to mature in 2024 and 2025, respectively, with the remainder scheduled to mature in 2026 and beyond. 
+
+66 Truist Financial Corporation 
+
+Table 12: CRE Portfolio Property Type and Geography September 30, 2024 December 31, 2023 (Dollars in millions) LHFI % of Total NPL LHFI % of Total NPL Industry: Multifamily $ 5,484 26.2 % $ 1 $ 5,731 25.4 % $ 3 Industrial 4,324 20.7 3 4,054 18.0 3 Retail 3,735 17.9 46 4,172 18.5 9 Office 3,686 17.6 236 4,286 19.0 264 Hotel 2,084 10.0 9 2,445 10.8 &#8212; Other (1) 
+
+1,599 7.6 7 1,882 8.3 5 Total CRE $ 20,912 100.0 % $ 302 $ 22,570 100.0 % $ 284 Geography: Florida $ 2,412 11.5 % $ 2 $ 2,481 11.0 % $ 5 North Carolina 2,272 10.9 8 2,726 12.1 1 Georgia 2,117 10.1 133 2,532 11.2 120 Texas 1,679 8.0 &#8212; 1,611 7.1 &#8212; California 1,651 7.9 &#8212; 1,709 7.6 81 New York 1,512 7.2 2 1,574 7.0 3 Pennsylvania 1,384 6.6 1 1,403 6.2 &#8212; Virginia 1,128 5.4 3 1,276 5.7 &#8212; District of Columbia 871 4.2 &#8212; 1,043 4.6 &#8212; Tennessee 793 3.8 1 810 3.6 1 Maryland 773 3.7 10 956 4.2 16 Other (2) 
+
+4,320 20.7 142 4,449 19.7 57 Total CRE $ 20,912 100.0 % $ 302 $ 22,570 100.0 % $ 284 
+
+(1) Represents other remaining property types that are deemed to be individually insignificant. 
+
+(2) Includes non-U.S. loans of $63 million and $73 million at September 30, 2024 and December 31, 2023, respectively. The remainder represents other remaining states that are deemed to be individually insignificant. 
+
+Table 13: Commercial Construction Portfolio Property Type and Geography September 30, 2024 December 31, 2023 (Dollars in millions) LHFI % of Total NPL LHFI % of Total NPL Industry: Multifamily $ 4,674 58.6 % $ &#8212; $ 3,868 57.9 % $ 23 Industrial 1,322 16.6 &#8212; 877 13.1 &#8212; Single Family - CP 775 9.7 1 819 12.3 &#8212; Office 608 7.6 &#8212; 634 9.5 1 Single Family - AD and CL 174 2.2 &#8212; 196 2.9 &#8212; Other (1) 
+
+427 5.3 &#8212; 289 4.3 &#8212; Total commercial construction $ 7,980 100.0 % $ 1 $ 6,683 100.0 % $ 24 Geography: Georgia $ 1,210 15.2 $ &#8212; $ 1,059 15.8 $ &#8212; Texas 1,120 14.0 &#8212; 956 14.3 23 Florida 1,029 12.9 &#8212; 741 11.1 &#8212; North Carolina 948 11.9 1 777 11.6 &#8212; California 466 5.8 &#8212; 512 7.7 &#8212; Other (2) 
+
+3,207 40.2 &#8212; 2,638 39.5 1 Total commercial construction $ 7,980 100.0 % $ 1 $ 6,683 100.0 % $ 24 
+
+(1) Represents other remaining property types that are deemed to be individually insignificant. 
+
+(2) Includes non-U.S. loans of $39 million and $16 million at September 30, 2024 and December 31, 2023, respectively. The remainder represents other remaining states that are deemed to be individually insignificant. 
+
+See additional information on the commercial portfolios in &#8220;Note 5. Loans and ACL,&#8221; including loans by origination year and credit quality indicator. 
+
+Truist Financial Corporation 67 
+
+ACL 
+
+Activity related to the ACL is presented in the following tables: Table 14: Activity in ACL Three Months Ended Nine Months Ended September 30, 
+
+(Dollars in millions) Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Dec 31, 2023 Sep 30, 2023 2024 2023 
+
+Balance, beginning of period (1) 
+
+$ 5,110 $ 5,100 $ 5,093 $ 4,970 $ 4,879 $ 5,093 $ 4,649 Provision for credit losses 448 451 500 572 497 1,399 1,537 Charge-offs: &#160; &#160; &#160; &#160; &#160; &#160; &#160; Commercial and industrial (96) (83) (97) (110) (98) (276) (280) CRE (65) (97) (103) (48) (77) (265) (118) Commercial construction &#8212; &#8212; &#8212; (5) &#8212; &#8212; &#8212; Residential mortgage &#8212; (1) (1) &#8212; (8) (2) (10) Home equity (1) (3) (3) (2) (4) (7) (8) Indirect auto (143) (136) (154) (154) (135) (433) (377) Other consumer (152) (141) (165) (148) (120) (458) (329) Student &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; (108) Credit card (71) (74) (77) (64) (55) (222) (159) Total charge-offs (528) (535) (600) (531) (497) (1,663) (1,389) Recoveries: &#160; &#160; &#160; &#160; &#160; &#160; &#160; Commercial and industrial 26 14 32 16 28 72 54 CRE 5 5 7 &#8212; 2 17 3 Commercial construction 1 1 &#8212; 2 &#8212; 2 1 Residential mortgage 1 2 1 1 1 4 5 Home equity 4 4 5 5 7 13 18 Indirect auto 38 30 28 25 25 96 82 Other consumer 26 28 28 21 20 82 57 Credit card 9 9 9 8 9 27 27 Total recoveries 110 93 110 78 92 313 247 Net charge-offs (418) (442) (490) (453) (405) (1,350) (1,142) Other (2) 
+
+&#8212; 1 (3) 4 (1) (2) (74) Balance, end of period $ 5,140 $ 5,110 $ 5,100 $ 5,093 $ 4,970 $ 5,140 $ 4,970 
+
+ACL: (1) 
+
+ALLL $ 4,842 $ 4,808 $ 4,803 $ 4,798 $ 4,693 RUFC 298 302 297 295 277 Total ACL $ 5,140 $ 5,110 $ 5,100 $ 5,093 $ 4,970 
+
+(1) Excludes provision for credit losses and allowances related to other financial assets at amortized cost. 
+
+(2) 2023 includes the impact from the adoption of the Troubled Debt Restructurings and Vintage Disclosures accounting standard. 
+
+The allowance for credit losses was $5.1 billion and includes $4.8 billion for the allowance for loan and lease losses and $298 million for the reserve for unfunded commitments. The ALLL ratio was 1.60%, up three basis points compared with June 30, 2024. The ALLL covered nonperforming loans and leases held for investment 3.3X, compared to 3.4x at June 30, 2024. At September 30, 2024, the ALLL was 2.9X annualized net charge-offs, compared to 2.7X at June 30, 2024. 
+
+68 Truist Financial Corporation 
+
+The following table presents an allocation of the ALLL. The entire amount of the allowance is available to absorb losses occurring in any category of loans and leases. Table 15: Allocation of ALLL by Category September 30, 2024 December 31, 2023 (Dollars in millions) Amount % ALLL in Each Category % Loans in Each Category Amount % ALLL in Each Category % Loans in Each Category Commercial and industrial $ 1,317 27.2 % 50.8 % $ 1,404 29.4 % 51.6 % CRE 656 13.5 6.9 616 12.8 7.2 Commercial construction 216 4.5 2.6 174 3.6 2.1 Residential mortgage 196 4.0 17.8 298 6.2 17.8 Home equity 87 1.8 3.2 89 1.9 3.2 Indirect auto 962 19.9 7.4 942 19.6 7.3 Other consumer 986 20.4 9.7 890 18.5 9.2 Credit card 422 8.7 1.6 385 8.0 1.6 Total ALLL 4,842 100.0 % 100.0 % 4,798 100.0 % 100.0 % RUFC 298 &#160; 295 &#160; Total ACL $ 5,140 &#160; $ 5,093 &#160; 
+
+Truist monitors the performance of its home equity loans and lines secured by second liens similarly to other consumer loans and utilizes assumptions specific to these loans in determining the necessary ALLL. Truist also receives notification when the first lien holder, whether Truist or another financial institution, has initiated foreclosure proceedings against the borrower. When notified that the first lien is in the process of foreclosure, Truist obtains valuations to determine if any additional charge-offs or reserves are warranted. These valuations are updated at least annually thereafter. 
+
+Truist has limited ability to monitor the delinquency status of the first lien, unless the first lien is held or serviced by Truist. Truist estimates credit losses on second lien loans where the first lien is delinquent based on historical experience; the increased risk of loss on these credits is reflected in the ALLL. As of September 30, 2024, Truist held or serviced the first lien on 33% of its second lien positions. 
+
+Other Assets 
+
+The components of other assets are presented in the following table: Table 16: Other Assets as of Period End (Dollars in millions) Sep 30, 2024 Dec 31, 2023 Tax credit and other private equity investments $ 8,665 $ 7,898 Bank-owned life insurance 7,786 7,716 Prepaid pension assets 6,707 6,563 Accrued income 2,114 2,085 Accounts receivable 1,600 997 Leased assets and related assets 1,472 1,647 DTAs, net 1,393 3,037 Derivative assets 1,341 951 Prepaid expenses 1,026 1,083 ROU assets 920 1,057 FHLB stock 780 1,198 Other 1,172 765 Total other assets $ 34,976 $ 34,997 
+
+Truist Financial Corporation 69 
+
+Funding Activities 
+
+Deposits 
+
+The following table presents average deposits: Table 17: Average Deposits Three Months Ended (Dollars in millions) Sep 30, 2024 Jun 30, 2024 Mar 31, 2024 Dec 31, 2023 Sep 30, 2023 Noninterest-bearing deposits $ 106,080 $ 107,634 $ 108,888 $ 114,555 $ 118,905 Interest checking 103,899 103,894 103,537 101,722 101,252 Money market and savings 136,639 135,264 134,696 137,464 139,961 Time deposits 37,726 41,250 41,937 41,592 40,920 Total average deposits $ 384,344 $ 388,042 $ 389,058 $ 395,333 $ 401,038 
+
+Average deposits for the third quarter of 2024 were $384.3 billion, a decrease of $3.7 billion, or 1.0%, compared to the prior quarter. 
+
+Average noninterest-bearing deposits decreased 1.4% compared to the prior quarter and represented 27.6% of total deposits for the third quarter of 2024 compared to 27.7% for the second quarter of 2024. Average time deposits decreased 8.5%. Average money market and savings accounts increased 1.0%. 
+
+Borrowings 
+
+At September 30, 2024, short-term borrowings totaled $20.9 billion, a decrease of $4.0 billion compared to December 31, 2023. Average short-term borrowings were $24.3 billion for the nine months ended September 30, 2024 and 2023, representing 5.4% and 5.1% of total funding, respectively. 
+
+Long-term debt provides funding and, to a lesser extent, regulatory capital, and primarily consists of senior and subordinated notes issued by the Parent Company and Truist Bank. Long-term debt totaled $36.8 billion at September 30, 2024, a decrease of $2.1 billion compared to December 31, 2023. During the nine months ended September 30, 2024, the Company had: 
+
+&#8226; Net redemptions of $2.5 billion of floating rate FHLB advances. 
+
+&#8226; Maturities and redemptions of $4.6 billion of senior notes. 
+
+&#8226; Issuances of $4.5 billion of fixed-to-floating rate senior notes with interest rates between 5.15% and 5.71% due from January 24, 2030 to January 24, 2035. 
+
+Shareholders&#8217; Equity 
+
+Truist&#8217;s book value per common share and TBVPS are presented in the following table: Table 18: Book Value per Common Share (Dollars in millions, except per share data, shares in thousands) Sep 30, 2024 Dec 31, 2023 Common equity per common share $ 44.46 $ 39.31 
+
+Non-GAAP capital measure: (1) 
+
+&#160; &#160; Tangible common equity per common share $ 30.64 $ 21.83 
+
+Calculation of tangible common equity: (1) 
+
+&#160; &#160; Total shareholders&#8217; equity $ 65,696 $ 59,253 Less: &#160; &#160; Preferred stock 6,673 6,673 Noncontrolling interests &#8212; 152 Goodwill and intangible assets, net of deferred taxes 18,350 23,306 Tangible common equity $ 40,673 $ 29,122 Common shares outstanding at end of period 1,327,521 1,333,743 
+
+(1) Tangible common equity is a non-GAAP measure that excludes the impact of intangible assets, net of deferred taxes. This measure is useful for evaluating the performance of a business consistently, whether acquired or developed internally. Truist&#8217;s management uses this measure to assess balance sheet risk and shareholder value. 
+
+Total shareholders&#8217; equity was $65.7 billion at September 30, 2024, an increase of $6.4 billion from December 31, 2023. This increase was driven by $5.6 billion in OCI and net income of $3.6 billion, partially offset by $2.4 billion in common and preferred dividends and $503 million in share repurchases, including excise taxes. For the third quarter of 2024, the dividend payout ratio was 52%, and the total payout ratio was 90%. Truist&#8217;s book value per common share at September 30, 2024 was $44.46, compared to $39.31 at December 31, 2023. Truist&#8217;s TBVPS was $30.64 at September 30, 2024, compared to $21.83 at December 31, 2023 with the increase driven by the sale of TIH. 
+
+70 Truist Financial Corporation 
+
+In November 2024, the Company announced the forthcoming redemption of all outstanding shares of its perpetual preferred stock series L and the corresponding depositary shares representing fractional interests in such series for $750 million. 
+
+Risk Management 
+
+Truist seeks to maintain a comprehensive risk management framework supported by people, processes, and systems to identify, measure, monitor, manage, and report significant risks arising from its exposures and business activities. A key objective of the Company&#8217;s risk management framework is to promote the execution of business strategies and objectives in alignment with its risk appetite. 
+
+Truist has developed a risk taxonomy designed to facilitate internal risk measurement and monitoring and help the business lines and enterprise functions assess the level of potential risk generated by their activities. 
+
+Truist is committed to fostering a culture that supports identification and escalation of risks across the organization. All teammates are responsible for upholding the Company&#8217;s purpose, mission, and values, and are encouraged to speak up if there is any activity or behavior that is inconsistent with the Company&#8217;s culture. The Truist code of ethics guides the Company&#8217;s decision making and informs teammates on how to act in the absence of specific guidance. 
+
+Truist seeks an appropriate return for the risk taken in its business operations. Risk-taking activities must be evaluated and prioritized to identify those that present attractive risk-adjusted returns, while preserving asset value and capital. 
+
+Truist&#8217;s compensation plans are designed to consider teammates&#8217; adherence to and successful implementation of Truist&#8217;s risk values and associated policies and procedures. The Company&#8217;s compensation structure is designed to support its core values and sound risk management practices in an effort to promote judicious risk-taking behavior. 
+
+Market Risk 
+
+Market risk is the risk to current or anticipated earnings, capital, or economic value arising from changes in the market value of portfolios, securities, or other financial instruments. Market risk results from changes in the level, volatility, or correlations among financial market risk factors or prices, including interest rates, credit spreads, foreign exchange rates, equity, and commodity prices. 
+
+Truist&#8217;s most significant market risk exposure is to interest rate risk in its balance sheet; however, market risk also results from underlying product liquidity risk, price risk, and volatility risk in Truist&#8217;s business units. Interest rate risk results from differences between the timing of rate changes and the timing of cash flows associated with assets and liabilities (re-pricing risk); from changing rate relationships among different yield curves affecting bank activities (basis risk); from changing rate relationships across the spectrum of maturities (yield curve risk); and from interest-related options inherently embedded in bank products (options risk). 
+
+The primary objectives of market risk management are to minimize adverse effects from changes in market risk factors on net interest income, net income, and capital, and to offset the risk of price changes for certain assets and liabilities recorded at fair value. At Truist, market risk management also includes the enterprise-wide IPV function. 
+
+Interest Rate Market Risk 
+
+As a financial institution, Truist is exposed to interest rate risk from assets, liabilities, and off-balance sheet positions. Truist primarily monitors this risk through two measurement types, (i) NII at risk and (ii) economic value of equity, and manages this risk with securities, derivatives, and broader asset liability management activities. 
+
+IRR measurement is reported monthly through the ALCO. Monthly IRR reporting includes exposure and historical trends relative to risk limit scenarios, impacts to a wide range of rate scenarios, and sensitivity tests of key assumptions. IRR reporting is provided to the BRC monthly and reviews of varying IRR topics are performed quarterly. 
+
+IRR measurement is influenced by data, assumptions, and models. Due to their high sensitivity to market rates, mortgage (loan and security) prepayments leverage an industry model that results in varying prepayment speeds across rate scenarios. Prepayments for non-mortgage loans leverage a mix of dynamic models and static prepayment assumptions based on historical experience. Interest-bearing-deposit rate paid is projected to move at a ratio (deposit beta) of market rates, primarily the Federal Funds Rate, aligned to historical experience. 
+
+Truist uses derivatives to hedge interest income variability of floating rate loans and to hedge valuation changes of long-term debt and investment securities. 
+
+Truist Financial Corporation 71 
+
+NII at risk measures the change in NII under alternate interest rate scenarios relative to Truist&#8217;s baseline scenario, which incorporates Truist&#8217;s current balance sheet and off-balance sheet hedges as well as expectations for new business over the forecast horizon. Truist&#8217;s baseline scenario relies on assumptions including expectations of the economy and interest rates &#8211; which are influenced by market conditions, new business volume, pricing, and customer behavior. In measuring NII at risk, Truist assumes that changes in key factors, such as prepayments and deposit pricing (betas), largely move in line with those it has experienced in prior rate cycles. However, future behavior of key factors may vary from those used in this measurement. NII at risk measurement assumes, when applicable, that U.S. interest rates floor at zero and Truist does not take any balance sheet or hedging actions in response to the rate scenarios. 
+
+Truist evaluates a wide range of alternate scenarios including instantaneous and gradual as well as parallel and non-parallel changes in interest rates. The table below presents the estimated change to NII over the following 12 months for select parallel alternate scenarios, expressed as a percentage change relative to baseline NII. Table 19: Interest Sensitivity Simulation Analysis Sep 30, 2024 Dec 31, 2023 Up 200bps gradual change in interest rates (2.5) % (1.5) % Up 50bps instantaneous change in interest rates (0.6) (0.4) 
+
+Down 50bps instantaneous change in interest rates 
+
+0.3 (0.1) 
+
+Down 200bps gradual change in interest rates 
+
+0.0 (0.3) 
+
+Estimated changes to NII in the table above assume no change in deposit balances or mix relative to the baseline scenario. In increasing interest rate scenarios, rotation from non-interest-bearing into interest bearing deposits would reduce NII. Conversely, in decreasing interest rate scenarios, rotation from higher yielding to lower yielding deposits would benefit net interest income. Truist performs and monitors sensitivity tests of deposit and other key assumptions used in NII risk including: 
+
+&#8226; Asset prepayment speeds 
+
+&#8226; New loan volume pricing spreads 
+
+&#8226; Interest-bearing deposit betas 
+
+&#8226; Non-interest-bearing demand deposit balance runoff, replaced by market funding 
+
+EVE measures changes in the economic value of Truist&#8217;s current balance sheet and off-balance sheet hedges under alternate rate scenarios relative to starting economic value. Truist uses EVE as a longer-term measure of interest rate risk. Truist performs and monitors sensitivity tests of key assumptions used in EVE including: 
+
+&#8226; Asset prepayment speeds 
+
+&#8226; Mortgage spreads (mortgage loan and security valuations) 
+
+&#8226; Interest-bearing deposit beta 
+
+&#8226; Deposit runoff / decay 
+
+Key assumption tests are generally performed by increasing and decreasing the assumption, whether static or dynamically modeled, relative to their respective starting values and then measuring the resulting impact to NII and EVE under baseline and alternate rate scenarios. 
+
+The identification and testing of key assumptions are influenced by market conditions and management views of key risks. The results of key assumption sensitivity tests are reported to ALCO and BRC at least quarterly. The inventory of key assumptions and their associated sensitivity tests are reviewed with ALCO and BRC at least annually. 
+
+Market Risk from Trading Activities 
+
+As a financial intermediary, Truist provides its clients access to derivatives, foreign exchange, and securities markets, which generate market risks. Trading market risk is managed using a multi-faceted risk management approach, which includes measuring risk using VaR, stress testing, and sensitivity analysis. Risk metrics are monitored against a suite of limits on a daily basis at both the trading desk level and at the aggregate portfolio level. 
+
+Truist is also subject to risk-based capital guidelines for market risk under the Market Risk Rule. 
+
+72 Truist Financial Corporation 
+
+Covered Trading Positions 
+
+Covered positions subject to the Market Risk Rule include trading assets and liabilities, specifically those held for the purpose of short-term resale or with the intent of benefiting from actual or expected short-term price movements or to lock in arbitrage profits. Truist&#8217;s trading portfolio of covered positions results primarily from market making and underwriting services for the Company&#8217;s clients, as well as associated risk mitigating hedging activity. The trading portfolio, measured in terms of VaR, consists primarily of four sub-portfolios of covered positions: (i) credit trading, (ii) fixed income securities, (iii) interest rate derivatives, and (iv) equity derivatives. As a market maker across different asset classes, Truist&#8217;s trading portfolio also contains other sub-portfolios, including foreign exchange, loan trading, and commodity derivatives; however, these portfolios do not generate material trading risk exposures. 
+
+Valuation policies and methodologies exist for all trading positions. Additionally, these positions are subject to independent price verification. See &#8220;Note 16. Derivative Financial Instruments,&#8221; &#8220;Note 15. Fair Value Disclosures,&#8221; and &#8220;Critical Accounting Policies&#8221; herein for discussion of valuation policies and methodologies. 
+
+Securitizations 
+
+As of September 30, 2024, the aggregate market value of on-balance sheet securitization positions subject to the Market Risk Rule, which were non-agency asset backed securities positions, was $127 million. Consistent with the Market Risk Rule requirements, the Company performs pre-purchase due diligence on each securitization position to identify the characteristics including deal structure and the asset quality of the underlying assets, that materially affect valuation and performance. Securitization positions are subject to Truist&#8217;s comprehensive risk management framework, which includes daily monitoring against a suite of limits. There were no off-balance sheet securitization positions during the reporting period. 
+
+Correlation Trading Positions 
+
+The trading portfolio of covered positions did not contain any correlation trading positions as of September 30, 2024. 
+
+VaR-Based Measures 
+
+VaR measures the potential loss of a given position or portfolio of positions at a specified confidence level and time horizon. Truist utilizes a historical VaR methodology to measure and aggregate risks across its covered trading positions. For risk management purposes, the VaR calculation is based on a historical simulation approach and measures the potential trading losses using a one-day holding period at a one-tail, 99% confidence level. For Market Risk Rule purposes, the Company calculates VaR using a 10-day holding period and a 99% confidence level. Due to inherent limitations of the VaR methodology, such as the assumption that past market behavior is indicative of future market performance, VaR is only one of several tools used to measure and manage market risk. Other tools used to manage market risk include stress testing, scenario analysis, and stop loss limits. 
+
+The trading portfolio&#8217;s VaR profile is influenced by a variety of factors, including the size and composition of the portfolio, market volatility, and the correlation between different positions. A portfolio of trading positions is typically less risky than the sum of the risk from each of the individual sub-portfolios, because, under normal market conditions, risk within each category partially offsets the exposure to other risk categories. The following table summarizes certain VaR-based measures for the three and nine months ended September 30, 2024 and 2023. 
+
+Table 20: VaR-based Measures Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (Dollars in millions) 10-Day Holding Period 1-Day Holding Period 10-Day Holding Period 1-Day Holding Period 10-Day Holding Period 1-Day Holding Period 10-Day Holding Period 1-Day Holding Period VaR-based Measures: Maximum $ 28 $ 10 $ 22 $ 9 $ 28 $ 12 $ 24 $ 9 Average 21 6 18 7 21 7 17 6 Minimum 12 4 15 5 12 4 10 4 Period-end 22 6 17 7 22 6 17 7 VaR by Risk Class: Interest Rate Risk 7 6 7 6 Credit Spread Risk 9 6 9 6 Equity Price Risk 4 4 4 4 Foreign Exchange Risk 1 &#8212; 1 &#8212; Portfolio Diversification (15) (10) (15) (10) Period-end 6 6 6 6 
+
+Truist Financial Corporation 73 
+
+Stressed VaR-based measures 
+
+Stressed VaR, another component of market risk capital, is calculated using the same internal models as used for the VaR-based measure. Stressed VaR is calculated over a ten-day holding period at a one-tail, 99% confidence level and employs a historical simulation approach based on a continuous twelve-month historical window selected to reflect a period of significant financial stress for the Company&#8217;s trading portfolio. The following table summarizes Stressed VaR-based measures: Table 21: Stressed VaR-based Measures - 10 Day Holding Period Three Months Ended September 30, Nine Months Ended September 30, (Dollars in millions) 2024 2023 2024 2023 Maximum $ 198 $ 130 $ 209 $ 130 Average 151 85 137 61 Minimum 114 44 69 25 Period-end 173 119 173 119 
+
+Compared to the same period of prior year, Stressed VaR measures were higher, primarily due to higher market making inventory. 
+
+Specific Risk Measures 
+
+Specific risk is a measure of idiosyncratic risk that could result from risk factors other than broad market movements (e.g., default or event risks). The Market Risk Rule provides fixed risk weights under a standardized measurement method while also allowing a model-based approach, subject to regulatory approval. Truist utilizes the standardized measurement method to calculate the specific risk component of market risk regulatory capital. As such, incremental risk capital requirements do not apply. 
+
+VaR Model Backtesting 
+
+In accordance with the Market Risk Rule, the Company evaluates the accuracy of its VaR model through daily backtesting by comparing aggregate daily trading gains and losses (excluding fees, commissions, reserves, net interest income, and intraday trading) from covered positions with the corresponding daily VaR-based measures generated by the model. As illustrated in the following graph, there were no Company-wide VaR backtesting exceptions during the twelve months ended September 30, 2024. The total number of Company-wide VaR backtesting exceptions over the preceding twelve months is used to determine the multiplication factor for the VaR-based capital requirement under the Market Risk Rule. The capital multiplication factor increases from a minimum of three to a maximum of four, depending on the number of exceptions. All Company-wide VaR backtesting exceptions are thoroughly reviewed in the context of VaR model use and performance. There was no change in the capital multiplication factor over the preceding twelve months. 
+
+74 Truist Financial Corporation 
+
+Model Risk Oversight 
+
+MRO is responsible for the independent model validation of all decision models including trading market risk models. As part of ongoing monitoring efforts, the performance of all trading risk models is reviewed regularly to evaluate model performance with emerging developments in financial markets, assess evolving modeling approaches, and identify potential model enhancement. 
+
+Stress Testing 
+
+The Company uses a range of stress testing techniques to help monitor risks across trading desks and to augment standard daily VaR and other risk limits reporting. The stress testing framework is designed to quantify the impact of extreme, but plausible, stress scenarios that could lead to large, unexpected losses. Stress tests include simulations for risk factor sensitivities, historical repeats, and hypothetical scenarios with varying liquidity horizons of key risk factors. All trading positions within each applicable market risk category (interest rate risk, equity risk, foreign exchange rate risk, credit spread risk, and commodity price risk) are included in the Company&#8217;s stress testing framework. Management reviews stress testing scenarios and makes updates on an ongoing basis. Management also utilizes stress analyses to support the Company&#8217;s capital adequacy assessment standards. See the &#8220;Capital&#8221; section of MD&#38;A for additional discussion of capital adequacy. 
+
+Liquidity 
+
+Liquidity represents the continuing ability to meet funding needs, including deposit withdrawals, repayment of borrowings and other liabilities, and funding of loan commitments. In addition to the level of liquid assets, such as cash, cash equivalents, and highly liquid unencumbered securities, other factors affect the ability to meet liquidity needs, including access to a variety of funding sources, maintaining borrowing capacity, growing core deposits, loan repayment, and the ability to securitize or package loans for sale. 
+
+Truist monitors the ability to meet client and counterparty demand for funds and collateral under both normal and stressed market conditions. In considering its liquidity position, management evaluates Truist&#8217;s funding mix based on client core funding, client rate-sensitive funding, and national markets funding. In addition, management evaluates exposure to rate-sensitive funding sources that mature in one year or less. Management also measures liquidity needs for up to one-year of stressed cash outflows for Truist and Truist Bank. Management maintains a liquid asset buffer of cash on hand and highly liquid unencumbered securities that is designed to meet projected 30 days of stressed cash outflows. 
+
+Internal Liquidity Stress Testing 
+
+Liquidity stress testing is conducted for Truist and Truist Bank using a variety of institution-specific and market-wide adverse scenarios. Each liquidity stress test scenario applies defined assumptions to execute sources and uses of liquidity over varying planning horizons. The types of expected liquidity uses during a stressed event may include deposit attrition, contractual maturities, reductions in unsecured and secured funding, and increased draws on unfunded commitments. To mitigate liquidity outflows, Truist has identified sources of liquidity; however, access to these sources of liquidity could be affected within a stressed environment. 
+
+Truist maintains a liquidity buffer of cash on hand and highly liquid unencumbered securities that is designed to meet the projected 30-day net stressed cash-flow needs. Truist&#8217;s liquidity buffer is substantially the same in composition to what qualifies as HQLA under the LCR Rule. 
+
+Contingency Funding Plan 
+
+Truist has a contingency funding plan designed to address ongoing obligations and commitments, particularly in the event of a liquidity contraction. This plan is designed to examine and quantify the organization&#8217;s liquidity under the various internal liquidity stress scenarios and is periodically tested to assess the plan&#8217;s reliability. Additionally, the plan provides a framework for management and other teammates to follow in the event of a liquidity contraction or in anticipation of such an event. The plan addresses authority for activation and decision making, liquidity options, and the responsibilities of key departments in the event of a liquidity contraction. 
+
+LCR, NSFR, and HQLA 
+
+The LCR rule requires that Truist and Truist Bank maintain an amount of eligible HQLA that is sufficient within the parameters of the rule to meet their estimated total net cash outflows over a prospective 30 calendar-day period of stress. Eligible HQLA, for purposes of calculating the LCR, is the amount of unencumbered HQLA that satisfy operational requirements of the LCR rule. Truist and Truist Bank are subject to the Category III reduced LCR requirements. Truist held average weighted eligible HQLA of $84.4 billion and Truist&#8217;s average LCR was 112% for the three months ended September 30, 2024. 
+
+Truist Financial Corporation 75 
+
+The NSFR rule defines a minimum amount of stable, long-term funding that Truist and Truist Bank maintain in relation to their asset composition and off-balance sheet activities. Truist and Truist Bank are subject to the Category III reduced NSFR requirements. At September 30, 2024, Truist was compliant with this requirement. 
+
+Sources of Funds 
+
+Management believes current sources of liquidity are sufficient to meet Truist&#8217;s on- and off-balance sheet obligations. Truist funds its balance sheet through diverse sources of funding including client deposits, secured and unsecured capital markets funding, and shareholders&#8217; equity. Truist Bank&#8217;s primary source of funding is client deposits. Continued access to client deposits is highly dependent on public confidence in the stability of Truist Bank and its ability to return funds to clients when requested. 
+
+Truist Bank maintains a number of diverse funding sources to meet its liquidity requirements. These sources include unsecured borrowings from the capital markets through the issuance of senior or subordinated bank notes, institutional CDs, overnight and term Federal funds markets, and retail brokered CDs. Truist Bank also maintains access to secured borrowing sources including FHLB advances, repurchase agreements, and the FRB discount window. Available investment securities could be pledged to create additional secured borrowing capacity. The following table presents a summary of Truist Bank&#8217;s available secured borrowing capacity and eligible cash at the FRB: 
+
+Table 22: Selected Liquidity Sources (Dollars in millions) Sep 30, 2024 Dec 31, 2023 Unused borrowing capacity: FRB $ 73,663 $ 55,252 FHLB 36,689 24,712 Available investment securities (after haircuts) 
+
+72,300 74,717 Available secured borrowing capacity 182,652 154,681 Eligible cash at the FRB 34,222 25,085 Total $ 216,874 $ 179,766 
+
+At September 30, 2024, Truist Bank&#8217;s available secured borrowing capacity represented approximately 5.7 times the amount of wholesale funding maturities in one-year or less. 
+
+Parent Company 
+
+The Parent Company serves as the primary source of capital for the operating subsidiaries. The Parent Company&#8217;s assets consist primarily of cash on deposit with Truist Bank, equity investments in subsidiaries, advances to subsidiaries, and notes receivable from subsidiaries. The principal obligations of the Parent Company are payments on long-term debt. The main sources of funds for the Parent Company are dividends and management fees from subsidiaries, repayments of advances to subsidiaries, and proceeds from the issuance of equity and long-term debt. The primary uses of funds by the Parent Company are investments in subsidiaries, advances to subsidiaries, dividend payments to common and preferred shareholders, repurchases of common stock, and payments on and, from time-to-time, potential repurchases or redemptions of a portion of an outstanding tranche of the long-term debt of the Parent Company (as may be permitted by the terms of each respective series). See &#8220;Note 22. Parent Company Financial Information&#8221; in Truist&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023 for additional information regarding dividends from subsidiaries and debt transactions. 
+
+Access to funding at the Parent Company is more sensitive to market disruptions. Therefore, Truist seeks to manage cash levels at the Parent Company to cover a minimum of one year of projected cash outflows which includes unfunded external commitments, debt service, common and preferred dividends, and scheduled debt maturities, without the benefit of any new cash inflows from subsidiary dividends to the Parent or capital market activity. Truist seeks to maintain a significant buffer above the projected one year of cash outflows. In determining the buffer, Truist considers cash requirements for common and preferred dividends, unfunded commitments to affiliates, serving as a source of strength to Truist Bank, and being able to withstand sustained market disruptions that could limit access to the capital markets. At September 30, 2024 and December 31, 2023, the Parent Company had 56 months and 48 months, respectively, of cash on hand to satisfy projected cash outflows, and 33 months and 30 months, respectively, when including the payment of common stock dividends. 
+
+76 Truist Financial Corporation 
+
+Credit Ratings 
+
+Credit ratings are forward-looking opinions of rating agencies as to the Company&#8217;s ability to meet its financial commitments and repay its securities and obligations in accordance with their terms of issuance. Credit ratings influence both borrowing costs and access to the capital markets. The Company&#8217;s credit ratings are continuously monitored by the rating agencies and are subject to change at any time. As Truist seeks to maintain high-quality credit ratings, management meets with the major rating agencies on a regular basis to provide financial and business updates and to discuss current outlooks and trends. See Item 1A, &#8220;Risk Factors&#8221; in Truist&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023 for additional information regarding factors that influence credit ratings and potential risks that could materialize in the event of downgrade in the Company&#8217;s credit ratings. Changes in the Company&#8217;s credit ratings and outlooks during 2024 include: 
+
+&#8226; On May 8, 2024, Moody&#8217;s Ratings downgraded the Parent Company&#8217;s long-term senior unsecured rating to Baa1 from A3 and Truist Bank&#8217;s baseline credit assessment to a3 from a2 and long-term deposits rating to A1 from Aa3. In addition, Truist Bank&#8217;s short-term deposit rating was affirmed at Prime-1. Ratings outlooks for both the Parent Company and Truist Bank were changed to stable. 
+
+Capital 
+
+The maintenance of appropriate levels of capital is a management priority and is monitored on a regular basis. Truist&#8217;s principal goals related to the maintenance of capital are to provide adequate capital to support Truist&#8217;s risk profile consistent with the Board-approved risk appetite, provide financial flexibility to support future growth and client needs, comply with relevant laws, regulations, and supervisory guidance, achieve optimal credit ratings for Truist, for the Parent Company to remain a source of strength for the Parent Company&#8217;s subsidiaries, and provide a competitive return to shareholders. Risk-based capital ratios, which include CET1 capital, Tier 1 capital, and Total capital are calculated based on regulatory guidance related to the measurement of capital and risk-weighted assets. 
+
+Management regularly monitors the capital position of Truist on both a consolidated and bank-level basis. In this regard, management&#8217;s objective is to maintain capital at levels that are in excess of internal capital limits, which are above the regulatory &#8220;well-capitalized&#8221; minimums. Truist also regularly performs stress testing on its capital levels and is required to periodically submit the Company&#8217;s capital plans and stress testing results to the banking regulators. Management has implemented internal stress capital ratio minimums that serve as limits which are measured under internally-developed stress testing scenarios to evaluate whether capital ratios calculated under hypothetical stress, and after the effect of alternative capital actions, are likely to remain above internal stressed minimums. Breaches of internal capital limits or projected breaches of internal stress capital ratio minimums under hypothetical stress result in activation of Truist&#8217;s capital contingency plan. Table 23: Capital Requirements &#160; Minimum Capital Well-Capitalized Minimum Capital Plus Stress Capital Buffer (1) 
+
+&#160; Truist Truist Bank CET1 
+
+4.5 % NA 6.5 % 7.4 % Tier 1 capital 6.0 6.0 % 8.0 8.9 Total capital 8.0 10.0 10.0 10.9 Leverage ratio 4.0 NA 5.0 NA Supplementary leverage ratio 3.0 NA NA NA 
+
+(1) Reflects Truist&#8217;s SCB requirement, received in the 2023 CCAR process, of 2.9% applicable from October 1, 2023 through September 30, 2024. Beginning on October 1, 2024, through September 30, 2025, Truist will be subject to a 2.8% SCB received in the 2024 CCAR process. 
+
+Truist completed the 2024 CCAR process and received a SCB requirement of 2.8% for the period October 1, 2024 to September 30, 2025, down 10 basis points from the SCB requirement for the period October 1, 2023 to September 30, 2024. 
+
+The FRB&#8217;s capital plan rule provides that a BHC must update and resubmit its capital plan if the BHC determines there has been or will be a material change in its risk profile, financial condition, or corporate structure since it last submitted the capital plan. Truist determined that the sale of our remaining equity interests in TIH constituted such a material change and, therefore, addressed the material change in our capital plan submitted in April 2024. The capital plan rule further provides that, upon the occurrence of an event requiring resubmission, a BHC may not make any capital distribution unless it has received prior approval of the FRB pending the FRB's consideration of the capital plan resubmission and stress capital buffer requirement. In July 2024, the FRB notified Truist that Truist is no longer required to receive the FRB&#8217;s prior approval to make capital distributions in connection with the April 2024 capital plan submission. 
+
+Truist Financial Corporation 77 
+
+Truist&#8217;s capital ratios are presented in the following table: Table 24: Capital Ratios - Truist Financial Corporation (Dollars in millions) Sep 30, 2024 Dec 31, 2023 Risk-based: (preliminary) &#160; CET1 11.6 % 10.1 % Tier 1 capital 13.2 11.6 Total capital 15.3 13.7 Leverage ratio 10.8 9.3 Supplementary leverage ratio 9.1 7.9 Risk-weighted assets $ 415,188 $ 423,705 
+
+Capital ratios remained strong compared to the regulatory requirements for well capitalized banks. Truist&#8217;s CET1 ratio was 11.6% as of September 30, 2024, flat compared to June 30, 2024 as current quarter earnings were partially offset by dividends and share repurchases. 
+
+Truist declared common dividends of $0.52 per share during the third quarter of 2024 and repurchased $500 million of common stock. For the third quarter of 2024, the dividend payout ratio was 52%, and the total payout ratio was 90%. 
+
+Share Repurchase Activity 
+
+Table 25: Share Repurchase Activity (Dollars in millions, except per share data, shares in thousands) Total Number of Shares Purchased (1) 
+
+Average Price Paid Per Share (2)(3) 
+
+Total Number of Shares Purchased as part of Publicly Announced Plans Approximate Dollar Value of Shares that may yet be Purchased Under the Plans (3)(4) 
+
+July 1, 2024 to July 31, 2024 &#8212; $ &#8212; &#8212; $ 5,000 August 1, 2024 to August 31, 2024 9,121 42.49 9,121 4,613 September 1, 2024 to September 30, 2024 2,564 43.88 2,564 4,500 Total 11,685 $ 42.79 11,685 
+
+(1) Includes shares exchanged or surrendered in connection with the exercise of equity-based awards under equity-based compensation plans. 
+
+(2) Excludes commissions. 
+
+(3) Excludes excise taxes on share repurchases. 
+
+(4) In June 2024, Truist announced that the Board had authorized the repurchase of up to $5.0 billion of common stock beginning in the third quarter of 2024 through 2026 as part of Truist&#8217;s overall capital distribution strategy. Repurchased shares revert to the status of authorized and unissued shares upon repurchase. The share-repurchase program enables Truist to acquire shares through open-market purchases or privately negotiated transactions, including through Rule 10b5-1 plans and other programs, at the discretion of management and on terms (including quantity, timing, and price) that management determines to be advisable. Actions in connection with the share-repurchase program will be subject to various factors, including Truist's capital and liquidity positions and related internal frameworks, accounting and regulatory considerations (including any restrictions that may be imposed by the FRB and any changes to capital, liquidity, and other regulatory requirements that may be proposed or adopted by the U.S. banking agencies), Truist's financial and operational performance, alternative uses of capital, the trading price of Truist's common stock, and general market conditions. The share-repurchase program does not obligate Truist to acquire a specific dollar amount or number of shares and may be extended, modified, or discontinued at any time. At September 30, 2024, Truist had remaining authorization to repurchase up to $4.5 billion of common stock under the Board approved repurchase plan. 
+
+Critical Accounting Policies 
+
+The accounting and reporting policies of Truist are in accordance with GAAP and conform to the accounting and reporting guidelines prescribed by bank regulatory authorities. Truist&#8217;s financial position and results of operations are affected by management&#8217;s application of accounting policies, including estimates, assumptions, and judgments made to arrive at the carrying value of assets and liabilities, and amounts reported for revenues and expenses. Different assumptions in the application of these policies could result in material changes in the consolidated financial position or consolidated results of operations, and related disclosures. Material estimates that are particularly susceptible to significant change include the determination of the ACL; determination of fair value for securities, MSRs, LHFS, trading loans, and derivative assets and liabilities; goodwill and other intangible assets; income taxes; and pension and postretirement benefit obligations. Understanding Truist&#8217;s accounting policies is fundamental to understanding the consolidated financial position and consolidated results of operations. The critical accounting policies are discussed in MD&#38;A in Truist&#8217;s Annual Report on Form 10-K for the year ended December 31, 2023. Significant accounting policies and changes in accounting principles and effects of new accounting pronouncements are discussed in &#8220;Note 1. Basis of Presentation&#8221; in Form 10-K for the year ended December 31, 2023. Disclosures regarding the effects of new accounting pronouncements are included in &#8220;Note 1. Basis of Presentation&#8221; in this report. There have been no other changes to the critical accounting policies during 2024. 
+
+78 Truist Financial Corporation 
+
+Goodwill and Other Intangible Assets 
+
+Effective January 1, 2024, several business activities were realigned reflecting updates to the Company&#8217;s operating structure. First, the CB&#38;W segment was renamed CSBB and the C&#38;CB segment was renamed WB. Second, the Wealth business was realigned into the WB segment from the CSBB segment, representing a separate reporting unit in that segment. Third, the small business banking client segmentation was realigned into the CSBB segment from the WB segment. Further, TIH was the principal legal entity of the IH segment. As the operations of TIH were included in discontinued operations prior to the sale of TIH, the Company no longer presents the IH segment as one of its reportable segments. Following these realignments, the Company&#8217;s three reporting units with goodwill balances were CSBB, WB, and Wealth. Also in conjunction with these realignments, goodwill of $1.7 billion was realigned to WB from CSBB based on the relative fair value of CSBB and Wealth, and goodwill of $220 million was realigned to CSBB from WB based on the relative fair value of WB and the realigned small business banking client segmentation. In addition, the Company completed an assessment of any potential goodwill impairment for all impacted reporting units immediately prior and subsequent to the reassignments and determined that no impairment existed. 
+
+The quantitative valuations of these reporting units for purposes of realigning goodwill use the income approach and a market-based approach, each weighted at 50%. The inputs and assumptions specific to each reporting unit are incorporated in the valuations, including projections of future cash flows, discount rates, and applicable valuation multiples based on the comparable public company information. The income approach utilizes a discounted cash flow analysis of multi-year financial forecasts developed for each reporting unit by considering several inputs and assumptions such as net interest margin, expected credit losses, noninterest income, noninterest expense, and required capital. The market-based approach utilizes comparable public company information, key valuation multiples, and considers a market control premium associated with cost synergies and other cash flow benefits that arise from obtaining control over a reporting unit, and guideline transactions, when applicable. 
+
+Truist also assesses the reasonableness of the aggregate estimated fair value of the reporting units by comparison to its market capitalization over a reasonable period of time, including consideration of expected acquirer expense synergies, historic bank control premiums, and the current market. 
+
+The projection of net interest margin and noninterest expense are the most significant inputs to the financial projections of the CSBB, WB, and Wealth reporting units. The long-term growth rate used in determining the terminal value of each reporting unit was 3% as of January 1, 2024, based on management&#8217;s assessment of the minimum expected terminal growth rate of each reporting unit. Discount rates are estimated based on the Capital Asset Pricing Model, which considers the risk-free interest rate, market risk premium, beta, and unsystematic risk adjustments specific to a particular reporting unit. The discount rates are also calibrated based on risks related to the projected cash flows of each reporting unit. The discount rates utilized for the CSBB, WB and Wealth reporting units as of January 1, 2024 were 13.0%, 11.5%, and 12.5%, respectively. 
+
+The quantitative valuation of WB performed in conjunction with the goodwill realignments indicated that as of January 1, 2024, the fair value of the WB reporting unit exceeded its carrying value by less than 10%, indicating that the goodwill of the WB reporting unit may be at risk of impairment. Circumstances that could negatively impact the fair value for the WB reporting unit in the future include a sustained decrease in Truist&#8217;s stock price, a decline in industry peer multiples, an increase in the applicable discount rate, and deterioration in the reporting unit&#8217;s forecast. 
+
+The estimated fair value of a reporting unit is highly sensitive to changes in management&#8217;s estimates and assumptions; therefore, in some instances, changes in these assumptions could impact whether the fair value of a reporting unit is greater than its carrying value. The valuation of the WB reporting unit as of January 1, 2024 indicated that if the discount rate were increased less than 50 basis points, the reporting unit&#8217;s fair value would be less than its carrying value, resulting in a goodwill impairment. Ultimately, future potential changes in management&#8217;s assumptions may impact the estimated fair value of a reporting unit and cause the fair value of the reporting unit to be below its carrying value. Additionally, a reporting unit&#8217;s carrying value could change based on market conditions, change in the underlying makeup of the reporting unit, or the risk profile of those reporting units, which could impact whether the fair value of a reporting unit is less than carrying value. 
+
+The Company monitored events and circumstances during the period from January 1, 2024 to September 30, 2024, including macroeconomic and market factors, industry and banking sector events, Truist specific performance indicators, a comparison of management&#8217;s forecast and assumptions to those used in its January 1, 2024 quantitative valuations associated with the realignments of goodwill, and the sensitivity of the January 1, 2024 quantitative results to changes in assumptions as of September 30, 2024. Based on these considerations, Truist concluded that it was not more-likely-than-not that the fair value of one or more of its reporting units is below its respective carrying amount as of September 30, 2024. 
+
+Truist Financial Corporation 79 
+
+Pension and Postretirement Benefit Obligations 
+
+Following the sale of TIH, Truist retained the postretirement benefit obligation for TIH employees and changed the status of TIH employees by eliminating their eligibility to earn future service credits. Changes in pension plan obligations associated with the disposal of operating segments such as TIH require the remeasurement of postretirement benefit obligations prior to the disposal, updates to pension plan assumptions inherent in valuations, and identification and recognition of valuation changes specific to the sale, including the establishment of a new periodic service cost using assumptions as of the remeasurement date. The remeasurement process of impacted pension plans included a reduction in pension benefit obligations of $783 million and a loss on plan assets of $834 million, primarily driven by an increase in the weighted average assumed discount rate from 5.12% to 5.78%, and a decrease in the value of plan assets by $508 million, primarily driven by market prices. The impact of the sale on Truist pension plans resulted in a reduction of pension benefit obligations by $97 million which was recorded as a reduction of AOCI. 
+
+Refer to &#8220;Note 15. Benefit Plans&#8221; in Form 10-K for the year ended December 31, 2023 and &#8220;Note 13. Benefit Plans&#8221; for disclosures related to the benefit plans. 
+

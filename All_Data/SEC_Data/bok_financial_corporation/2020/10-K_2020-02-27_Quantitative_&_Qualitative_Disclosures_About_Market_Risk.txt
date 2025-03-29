@@ -1,0 +1,534 @@
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Market Risk 
+
+Market risk is a broad term for the risk of economic loss due to adverse changes in the fair value of a financial instrument. These changes may be the result of various factors, including interest rates, foreign exchange rates, commodity prices or equity prices. Financial instruments that are subject to market risk can be classified either as held for trading or held for purposes other than trading. Market risk excludes changes in fair value due to credit of the individual issuers of financial instruments. 
+
+BOK Financial is subject to market risk primarily through the effect of changes in interest rates on both its assets held for purposes other than trading and trading assets. The effects of other changes, such as foreign exchange rates, commodity prices or equity prices do not pose significant market risk to BOK Financial. BOK Financial has no material investments in assets that are affected by changes in foreign exchange rates or equity prices. Energy and agricultural product derivative contracts, which are affected by changes in commodity prices, are matched against offsetting contracts as previously discussed. 
+
+The Asset/Liability Committee is responsible for managing market risk in accordance with policy limits established by the Board of Directors. The Committee monitors projected variation in net interest revenue, net income and economic value of equity due to specified changes in interest rates. These limits also set maximum levels for short-term borrowings, short-term assets, public funds and brokered deposits and establish minimum levels for un-pledged assets, among other things. Further, the Board approved market risk limits for fixed income trading, mortgage pipeline and mortgage servicing assets inclusive of economic hedge benefits. Exposure is measured daily and compliance is reviewed monthly. Deviations from the Board approved limits, which periodically occur throughout the reporting period, may require management to develop and execute plans to reduce exposure. These plans are subject to escalation to and approval by the Board. 
+
+The simulations used to manage market risk are based on numerous assumptions regarding the effects of changes in interest rates on the timing and extent of repricing characteristics, future cash flows and customer behavior. These assumptions are inherently uncertain and, as a result, models cannot precisely estimate or precisely predict the impact of higher or lower interest rates. Actual results will differ from simulated results due to timing, magnitude and frequency of interest rate changes, market conditions and management strategies, among other factors. 
+
+Interest Rate Risk &#8211; Other than Trading 
+
+&#160; 
+
+As previously noted in the Net Interest Revenue section of this report, management has implemented strategies to manage the Company&#8217;s balance sheet to have relatively limited exposure to changes in interest rates over a twelve-month period. The effectiveness of these strategies in managing the overall interest rate risk is evaluated through the use of an asset/liability model. BOK Financial performs a sensitivity analysis to identify more dynamic interest rate risk exposures, including embedded option positions, on net interest revenue. A simulation model is used to estimate the effect of changes in interest rates on our performance across multiple interest rate scenarios. Our current internal policy limit for net interest revenue variation due to a 200 basis point parallel change in market interest rates over twelve months is a maximum decline of 5%. The results of a 200 basis point decrease in interest rates in the current low-rate environment are not meaningful. Until such time as it becomes meaningful, we will instead report the effect of a 100 basis point decrease in interest rates. 
+
+The Company&#8217;s primary interest rate exposures include the Federal Funds rate, which affects short-term borrowings, and the prime lending rate and LIBOR, which are the basis for much of the variable rate loan pricing. Additionally, residential mortgage rates directly affect the prepayment speeds for residential mortgage-backed securities and mortgage servicing rights. Derivative financial instruments and other financial instruments used for purposes other than trading are included in this simulation. In addition, the impact on the level and composition of demand deposit accounts and other core deposit balances resulting from a significant increase in short-term market interest rates and the overall interest rate environment is likely to be material. The simulation incorporates assumptions regarding the effects of such changes based on a combination of historical analysis and expected behavior. The impact of planned growth and new business activities is factored into the simulation model. 
+
+Table 36 &#8211; Interest Rate Sensitivity 
+
+(Dollars in thousands) 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+200 bp Increase 
+
+&#160; 
+
+100 bp Decrease 1 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Anticipated impact over the next twelve months on net interest revenue 
+
+&#160; 
+
+$ 
+
+(16,328 
+
+) 
+
+&#160; 
+
+$ 
+
+(4,248 
+
+) 
+
+&#160; 
+
+$ 
+
+(31,629 
+
+) 
+
+&#160; 
+
+$ 
+
+(42,483 
+
+) 
+
+&#160; 
+
+&#160; 
+
+(1.50 
+
+)% 
+
+&#160; 
+
+(0.36 
+
+)% 
+
+&#160; 
+
+(2.91 
+
+)% 
+
+&#160; 
+
+(3.57 
+
+)% 
+
+##TABLE_END
+
+##TABLE_START 1 &#160; 
+
+The results of a 200 basis point decrease in interest rates in the low-rate environment are not meaningful, therefore we will instead report the effect of a 100 basis point decrease in interest rates. 
+
+##TABLE_END 
+
+BOK Financial is also subjected to market risk through changes in the fair value of mortgage servicing rights. Changes in the fair value of mortgage servicing rights are highly dependent on changes in primary mortgage rates offered to borrowers, intermediate-term interest rates that affect the value of custodial funds, and assumptions about servicing revenues, servicing costs and discount rates. As primary mortgage rates increase, prepayment speeds slow and the value of our mortgage servicing rights increases. As primary mortgage rates fall, prepayment speeds increase and the value of our mortgage servicing rights decreases. 
+
+We maintain a portfolio of financial instruments, which may include debt securities issued by the U.S. government or its agencies and interest rate derivative contracts held as an economic hedge of the changes in the fair value of our mortgage servicing rights. Composition of this portfolio will change based on our assessment of market risk. Changes in the fair value of residential mortgage-backed securities are highly dependent on changes in secondary mortgage rates required by investors, and interest rate derivative contracts are highly dependent on changes in other market interest rates. While primary and secondary mortgage rates generally move in the same direction, the spread between them may widen and narrow due to market conditions and government intervention. Changes in the forward-looking spread between the primary and secondary rates can cause significant earnings volatility. 
+
+Management performs a stress test to measure market risk due to changes in interest rates inherent in its MSR portfolio and hedges. The stress test shocks applicable interest rates up and down 50 basis points and calculates an estimated change in fair value, net of economic hedging activity, that may result. The Board has approved a $20 million market risk limit for mortgage servicing rights, net of economic hedges. 
+
+Table 37 - MSR Asset and Hedge Sensitivity Analysis 
+
+(In thousands) 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+December 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Up 50 bp 
+
+&#160; 
+
+Down 50 bp 
+
+&#160; 
+
+Up 50 bp 
+
+&#160; 
+
+Down 50 bp 
+
+MSR Asset 
+
+&#160; 
+
+$ 
+
+30,369 
+
+&#160; 
+
+$ 
+
+(41,779 
+
+) 
+
+&#160; 
+
+$ 
+
+18,619 
+
+&#160; 
+
+$ 
+
+(27,154 
+
+) 
+
+MSR Hedge 
+
+&#160; 
+
+(40,727 
+
+) 
+
+&#160; 
+
+33,454 
+
+&#160; 
+
+(21,838 
+
+) 
+
+&#160; 
+
+21,922 
+
+Net Exposure 
+
+&#160; 
+
+(10,358 
+
+) 
+
+&#160; 
+
+(8,325 
+
+) 
+
+&#160; 
+
+(3,219 
+
+) 
+
+&#160; 
+
+(5,232 
+
+) 
+
+##TABLE_END
+
+Trading Activities 
+
+The Company bears market risk by originating residential mortgages held for sale ("RMHFS"). RMHFS are generally outstanding for 60 to 90 days, which represents the typical period from commitment to originate a loan to sale of the closed loan to an investor. Primary mortgage interest rate changes during this period affect the value of RMHFS commitments and loans. We use forward sale contracts to mitigate market risk on all closed mortgage loans held for sale and on an estimate of mortgage loan commitments that are expected to result in closed loans. 
+
+A variety of methods are used to monitor market risk of mortgage origination activities. These methods include daily marking of all positions to market value, independent verification of inventory pricing, and revenue sensitivity limits. 
+
+Management performs a stress test to measure market risk due to changes in interest rates inherent in the mortgage production pipeline. The stress test shocks applicable interest rates up and down 50 basis points and calculates an estimated change in fair value, net of economic hedging activity that may result. The Board has approved a $7 million market risk limit for the mortgage production pipeline, net of forward sale contracts. 
+
+Table 38 - Mortgage Pipeline Sensitivity Analysis 
+
+(In thousands) 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Year Ended December 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Up 50 bp 
+
+&#160; 
+
+Down 50 bp 
+
+&#160; 
+
+Up 50 bp 
+
+&#160; 
+
+Down 50 bp 
+
+Average 1 
+
+&#160; 
+
+$ 
+
+(143 
+
+) 
+
+&#160; 
+
+$ 
+
+(191 
+
+) 
+
+&#160; 
+
+$ 
+
+&#160; 
+
+$ 
+
+(697 
+
+) 
+
+Low 2 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+2,077 
+
+&#160; 
+
+High 3 
+
+&#160; 
+
+(498 
+
+) 
+
+&#160; 
+
+(538 
+
+) 
+
+&#160; 
+
+(1,015 
+
+) 
+
+&#160; 
+
+(2,447 
+
+) 
+
+Period End 
+
+&#160; 
+
+(112 
+
+) 
+
+&#160; 
+
+(98 
+
+) 
+
+&#160; 
+
+(16 
+
+) 
+
+&#160; 
+
+(420 
+
+) 
+
+##TABLE_END
+
+##TABLE_START 1 &#160; 
+
+Average represents the simple average of each daily value observed during the reporting period. 
+
+##TABLE_END##TABLE_START 2 &#160; 
+
+Low represents least risk of loss in fair value measured as the smallest negative value or the largest positive value observed daily during the reporting period. 
+
+##TABLE_END##TABLE_START 3 &#160; 
+
+High represents the greatest risk of loss in fair value measured as the largest negative value or the smallest positive value observed daily during the reporting period. 
+
+##TABLE_END 
+
+BOK Financial enters into trading activities both as an intermediary for customers and for its own account. As an intermediary, we take positions in securities, generally residential mortgage-backed securities, government agency securities and municipal bonds. These securities are purchased for resale to customers, which include individuals, corporations, foundations and financial institutions. On a limited basis, we may also take trading positions in U.S. Treasury securities, residential mortgage-backed securities, and municipal bonds to enhance returns on securities portfolios. Both of these activities involve interest rate, liquidity and price risk. BOK Financial has an insignificant exposure to foreign exchange risk and does not take positions in commodity derivatives. 
+
+A variety of methods are used to monitor the interest rate risk of trading activities. These methods include daily marking of all positions to market value, independent verification of inventory pricing, and position limits for each trading activity. Economic hedges in either the futures or cash markets may be used to reduce the risk associated with some trading programs. 
+
+Management performs a stress test to measure market risk from changes in interest rates on its trading portfolio. The stress test shocks applicable interest rates up and down 50 basis points and calculates an estimated change in fair value, net of economic hedging activity that may result. The Board has approved an $8 million market risk limit for the trading portfolio, net of economic hedges. 
+
+Table 39 &#8211; Trading Securities Sensitivity Analysis 
+
+(In thousands) 
+
+##TABLE_START &#160; 
+
+&#160; 
+
+Year Ended December 31, 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+&#160; 
+
+Up 50 bp 
+
+&#160; 
+
+Down 50 bp 
+
+&#160; 
+
+Up 50 bp 
+
+&#160; 
+
+Down 50 bp 
+
+Average 1 
+
+&#160; 
+
+$ 
+
+(1,803 
+
+) 
+
+&#160; 
+
+$ 
+
+2,602 
+
+&#160; 
+
+$ 
+
+(1,133 
+
+) 
+
+&#160; 
+
+$ 
+
+Low 2 
+
+&#160; 
+
+2,049 
+
+&#160; 
+
+7,106 
+
+&#160; 
+
+2,041 
+
+&#160; 
+
+4,423 
+
+High 3 
+
+&#160; 
+
+(5,345 
+
+) 
+
+&#160; 
+
+(1,376 
+
+) 
+
+&#160; 
+
+(4,534 
+
+) 
+
+&#160; 
+
+(3,463 
+
+) 
+
+Period End 
+
+&#160; 
+
+(1,702 
+
+) 
+
+&#160; 
+
+2,710 
+
+&#160; 
+
+1,470 
+
+&#160; 
+
+(1,081 
+
+) 
+
+##TABLE_END
+
+##TABLE_START 1 &#160; 
+
+Average represents the simple average of each daily value observed during the reporting period. 
+
+##TABLE_END##TABLE_START 2 &#160; 
+
+Low represents least risk of loss in fair value measured as the smallest negative value or the largest positive value observed daily during the reporting period. 
+
+##TABLE_END##TABLE_START 3 &#160; 
+
+High represents the greatest risk of loss in fair value measured as the largest negative value or the smallest positive value observed daily during the reporting period. 
+
+##TABLE_END 
+

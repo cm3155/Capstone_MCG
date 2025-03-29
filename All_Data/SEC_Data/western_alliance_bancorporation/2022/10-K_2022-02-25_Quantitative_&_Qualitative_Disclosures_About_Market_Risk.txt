@@ -1,0 +1,40 @@
+ Item 7A. Quantitative and Qualitative Disclosures about Market Risk. 
+
+Market risk is the risk of loss in a financial instrument arising from adverse changes in market prices and rates, foreign currency exchange rates, commodity prices, and equity prices. The Company's market risk arises primarily from interest rate risk inherent in its lending, investing, and deposit taking activities. To that end, management actively monitors and manages the Company's interest rate risk exposure. The Company generally manages its interest rate sensitivity by evaluating re-pricing opportunities on its earning assets to those on its funding liabilities. 
+
+Management uses various asset/liability strategies to manage the re-pricing characteristics of the Company's assets and liabilities, all of which are designed to ensure that exposure to interest rate fluctuations is limited to within the Company's guidelines of acceptable levels of risk-taking. Hedging strategies, including the terms and pricing of loans and deposits and management of the deployment of its securities, are used to reduce mismatches in interest rate re-pricing opportunities of portfolio assets and their funding sources. 
+
+Interest rate risk is addressed by ALCO, which includes members of executive management, finance, and operations. ALCO monitors interest rate risk by analyzing the potential impact on the net EVE and net interest income from potential changes in interest rates and considers the impact of alternative strategies or changes in balance sheet structure. The Company manages its balance sheet in part to maintain the potential impact on EVE and net interest income within acceptable ranges despite changes in interest rates. 
+
+The Company's exposure to interest rate risk is reviewed at least quarterly by ALCO. Interest rate risk exposure is measured using interest rate sensitivity analysis to determine its change in both EVE and net interest income in the event of hypothetical changes in interest rates. If potential changes to EVE and net interest income resulting from hypothetical interest rate changes are not within the limits established by the BOD, the BOD may direct management to adjust the asset and liability mix to bring interest rate risk within Board-approved limits. 
+
+Net Interest Income Simulation. In order to measure interest rate risk at December 31, 2021, the Company used a simulation model to project changes in net interest income that result from forecasted changes in interest rates. This analysis calculates the difference between a baseline net interest income forecast using current yield curves that do not take into consideration any future anticipated rate hikes, compared to forecasted net income resulting from an immediate parallel shift in rates upward or downward, along with other scenarios directed by ALCO. The income simulation model includes various assumptions regarding re-pricing relationships for each of the Company's products. Many of the Company's assets are variable rate loans, which are assumed to re-price immediately and, proportional to the change in market rates, depending on their contracted index, including the impact of caps or floors. Some loans and investments contain contractual prepayment features (embedded options) and, accordingly, the simulation model incorporates prepayment assumptions. The Company's non-term deposit products re-price concurrently with interest rate changes taken by the FOMC. 
+
+This analysis indicates the impact of changes in net interest income for the given set of rate changes and assumptions. It assumes the balance sheet remains static and that its structure does not change over the course of the year. It does not account for all factors that could impact the Company's results, including changes by management to mitigate interest rate changes or secondary factors, such as changes to the Company's credit risk profile as interest rates change. 
+
+Furthermore, loan prepayment rate estimates and spread relationships change regularly. Interest rate changes create changes in actual loan prepayment speeds that will differ from the market estimates incorporated in this analysis. Changes that vary significantly from the modeled assumptions may have a significant effect on the Company's actual net interest income. 
+
+This simulation model assesses the changes in net interest income that would occur in response to an instantaneous and sustained increase or decrease (shock) in market interest rates. At December 31, 2021, our net interest income exposure for the next twelve months related to these hypothetical changes in market interest rates was within our current guidelines. 
+
+Sensitivity of Net Interest Income 
+
+##TABLE_START Parallel Shift Rate Scenario (change in basis points from Base) Down 100 Base Up 100 Up 200 (in millions) Interest Income $ 1,664.5 $ 1,731.5 $ 1,928.3 $ 2,183.0 Interest Expense 119.6 137.8 261.9 387.7 Net Interest Income 1,544.9 &#160; 1,593.7 &#160; 1,666.4 &#160; 1,795.3 &#160; % Change (3.1) % 4.6 % 12.6 % ##TABLE_END
+
+##TABLE_START Interest Rate Ramp Scenario (change in basis points from Base) Down 100 Base Up 100 Up 200 (in millions) Interest Income $ 1,700.8 $ 1,731.5 $ 1,806.2 $ 1,900.6 Interest Expense 120.5 137.8 168.4 198.8 Net Interest Income 1,580.3 &#160; 1,593.7 &#160; 1,637.8 &#160; 1,701.8 &#160; % Change (0.8) % 2.8 % 6.8 % ##TABLE_END
+
+Economic Value of Equity. The Company measures the impact of market interest rate changes on the NPV of estimated cash flows from its assets, liabilities, and off-balance sheet items, defined as EVE, using a simulation model. This simulation model assesses the changes in the market value of interest rate sensitive financial instruments that would occur in response to an instantaneous and sustained increase or decrease (shock) in market interest rates. 
+
+At December 31, 2021, the Company's EVE exposure related to these hypothetical changes in market interest rates was within the Company's current guidelines. The following table shows the Company's projected change in EVE for this set of rate shocks at December 31, 2021: 
+
+Economic Value of Equity &#160; 
+
+##TABLE_START Interest Rate Scenario (change in basis points from Base) Down 200 Down 100 Base Up 100 Up 200 Up 300 (in millions) Assets $ 58,978.5 $ 57,876.4 $ 56,360.6 $ 54,954.3 $ 53,688.8 $ 52,556.0 Liabilities 51,057.1 49,151.4 47,485.0 46,027.9 44,726.7 43,555.8 Net Present Value 7,921.4 &#160; 8,725.0 &#160; 8,875.6 &#160; 8,926.4 &#160; 8,962.1 &#160; 9,000.2 &#160; % Change (10.8) % (1.7) % 0.6 % 1.0 % 1.4 % ##TABLE_END
+
+The computation of prospective effects of hypothetical interest rate changes are based on numerous assumptions, including relative levels of market interest rates, asset prepayments, and deposit decay, and should not be relied upon as indicative of actual results. Further, the computations do not contemplate any actions the Company may undertake in response to changes in interest rates. Actual amounts may differ from the projections set forth above should market conditions vary from the underlying assumptions. 
+
+Derivative Contracts. In the normal course of business, the Company uses derivative instruments to meet the needs of its customers and manage exposure to fluctuations in interest rates. The following table summarizes the aggregate notional amounts, market values, and terms of the Company&#8217;s derivative positions as of December 31, 2021 and 2020: 
+
+Outstanding Derivatives Positions 
+
+##TABLE_START December 31, 2021 2020 Notional NPV Weighted Average Term (Years) Notional NPV Weighted Average Term (Years) (dollars in millions) $ 480,765.9 &#160; $ (49.6) 1.5 &#160; $ 1,812.6 $ (83.3) 16.0 ##TABLE_END
+

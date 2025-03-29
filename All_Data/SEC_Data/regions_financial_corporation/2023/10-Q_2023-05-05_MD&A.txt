@@ -1,0 +1,842 @@
+ Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+INTRODUCTION 
+
+The following discussion and analysis is part of Regions Financial Corporation&#8217;s (&#8220;Regions&#8221; or the &#8220;Company&#8221;) Quarterly Report on Form 10-Q filed with the SEC and updates Regions&#8217; Annual Report on Form 10-K for the year ended December 31, 2022, which was previously filed with the SEC. This financial information is presented to aid in understanding Regions&#8217; financial position and results of operations and should be read together with the financial information contained in Regions&#8217; Annual Report on Form 10-K. See Note 1 "Basis of Presentation" and Note 12 "Recent Accounting Pronouncements" to the consolidated financial statements for further detail. The emphasis of this discussion will be on the three months ended March 31, 2023 compared to the three months ended March 31, 2022 for the consolidated statements of income. For the consolidated balance sheets, the emphasis of this discussion will be the balances as of March 31, 2023 compared to December 31, 2022. 
+
+This discussion and analysis contains statements that may be considered &#8220;forward-looking statements&#8221; as defined in the Private Securities Litigation Reform Act of 1995. See pages 6 through 8 for additional information regarding forward-looking statements. 
+
+CORPORATE PROFILE 
+
+Regions is a financial holding company headquartered in Birmingham, Alabama, that operates in the South, Midwest and Texas. In addition, Regions operates several offices delivering specialty capabilities in New York, Washington D.C., Chicago and other locations nationwide. Regions provides financial solutions for a wide range of clients including retail and mortgage banking services, commercial banking services and wealth and investment services. Further, Regions and its subsidiaries deliver specialty capabilities including merger and acquisition advisory services, capital market solutions, home improvement lending and others. 
+
+Regions conducts its banking operations through Regions Bank, an Alabama state-chartered commercial bank that is a member of the Federal Reserve System. At March 31, 2023, Regions operated 1,285 total branch outlets. Regions carries out its strategies and derives its profitability from three reportable business segments: Corporate Bank, Consumer Bank, and Wealth Management, with the remainder in Other. See Note 10 "Business Segment Information" to the consolidated financial statements for more information regarding Regions&#8217; segment reporting structure. 
+
+Regions&#8217; business strategy is focused on providing a competitive mix of products and services, delivering quality customer service, and continuing to develop and optimize distribution channels that include a branch distribution network with offices in convenient locations, as well as electronic and mobile banking. 
+
+Regions&#8217; profitability, like that of many other financial institutions, is dependent on its ability to generate revenue from net interest income as well as non-interest income sources. Net interest income is primarily the difference between the interest income Regions receives on interest-earning assets, such as loans and securities, and the interest expense Regions pays on interest-bearing liabilities, principally deposits and borrowings. Regions&#8217; net interest income is impacted by the size and mix of its balance sheet components and the interest rate spread between interest earned on its assets and interest paid on its liabilities. Non-interest income includes fees from service charges on deposit accounts, card and ATM fees, mortgage servicing and secondary marketing, investment management and trust activities, capital markets and other customer services which Regions provides. Results of operations are also affected by the provision for credit losses and non-interest expenses such as salaries and employee benefits, occupancy, professional, legal and regulatory expenses, FDIC insurance assessments, and other operating expenses, as well as income taxes. 
+
+Economic conditions, competition, new legislation and related rules impacting regulation of the financial services industry and the monetary and fiscal policies of the Federal government significantly affect most, if not all, financial institutions, including Regions. Lending and deposit activities and fee income generation are influenced by levels of business spending and investment, consumer income, consumer spending and savings, capital market activities, and competition among financial institutions, as well as customer preferences, interest rate conditions and prevailing market rates on competing products in Regions&#8217; market areas. 
+
+FIRST QUARTER OVERVIEW 
+
+First Quarter Operating Environment 
+
+In the first quarter of 2023, the banking industry was impacted by the failure of two U.S depository institutions. Outside of the U.S, an international bank also suffered a crisis in confidence. The circumstances surrounding these events were largely driven by a sudden decline in deposits and lack of available liquidity to replace the deposit declines at the institutions. In March 2023, the BTFP was created by the Federal Reserve to support American businesses and households by making additional funding available to eligible depository institutions to help assure banks have the ability to meet the needs of all their depositors, as an additional source of liquidity against high-quality securities, eliminating an institution&#8217;s need to quickly sell those securities in times of stress. In addition to the uncertainty brought by these events, the Federal Reserve delivered two 
+
+additional 25 basis-point rate hikes as inflation continued to stay above target levels. Accordingly, there is now heightened focus on the banking industry as a whole. Regions believes that its deposits are diversified across stable categories and are granular in nature which lessens the probability of sudden declines in deposits. Additionally, Regions maintains a variety of liquidity sources to fund its obligations and performs various evaluations to determine appropriate levels of available liquidity. See the discussion below and within the "Debt Securities", "Deposits", "Market Risk-Interest Rate Risk" and "Liquidity" sections for further information. 
+
+Economic Environment in Regions' Banking Markets 
+
+After full-year 2022 real GDP growth of 2.1 percent, the March 2023 baseline forecast anticipates real GDP growth of 1.4 percent in 2023. The pace of economic activity remains restrained by elevated inflation and higher interest rates. Spending in interest-sensitive sectors of the economy, most notably housing, has slowed, and while there are indications that supply chain and logistics constraints have eased, they have not entirely subsided. Though there are signs that the demand for labor is cooling, the labor market remains tight and firms in many industry groups continue to struggle to fill job vacancies. Though the pace of inflation has slowed, it remains considerably above the FOMC&#8217;s target rate and one or more further hikes in the Fed funds rate in 2023 cannot be ruled out. The economic data and the financial markets remain quite volatile, and recent stresses in the banking system have raised concerns that credit conditions could tighten to the point the economy slips into recession. These factors are contributing to considerable uncertainty around the near-term economic outlook. 
+
+Real GDP growth grew at an annual rate of only 1.1 percent in the first quarter, but a modest draw in nonfarm business inventories deducted 2.3 percentage points from top-line real GDP growth. Real private domestic demand, or, combined business and household spending, grew at an annual rate of 2.9 percent in the first quarter. Much of that growth, however, reflects an outsized increase in real consumer spending in January, when inflation-adjusted consumer spending increased by 1.4 percent before falling by 0.2 percent in February and into March. Though consumer deposit balances remain above pre-pandemic levels, they have declined as expected. While growth in labor earnings has helped support growth in personal income, the cumulative effects of rapid inflation have posed an increasing burden on household finances. At the same time, higher interest rates have made it more costly to finance purchases of consumer durable goods. As such, meaningfully slower growth in consumer spending is expected over the months ahead. 
+
+The housing market continues to feel effects of higher mortgage interest rates, which are expected to remain a drag on construction and sales of single family homes in 2023. House prices have begun to decline in many markets, and Regions' forecast anticipates a mid-single digit decline nationally in 2023 with larger declines in those markets which saw significantly above-average rates of price appreciation in 2021 and the first half of 2022. That said, applications for purchase mortgage loans have responded to dips in interest rates, which reflects remaining pent-up demand for home purchases stemming from the market having been undersupplied over the past several years. Lower house prices should have much the same impact, with improvements in affordability leading to modestly increasing home sales over the back half of 2023. 
+
+Facing an uncertain outlook for demand, many firms have begun to scale back capital spending plans, which is apparent in the data showing sharply slowing growth giving way to outright declines in orders for core capital goods. That said, businesses continue to invest in technology and automation to counter persistent labor supply constraints, and business spending on structures has seen signs of life of late, in part reflecting onshoring of production activity, such as the semiconductor chip plants springing up across the U.S. This should sustain at least moderate growth in business investment over coming quarters. 
+
+Recent data show the number of job vacancies falling to the lowest level since May 2021, but the number of job vacancies remains well above the number of potential workers and the rate at which workers are voluntarily quitting jobs remains above pre-pandemic norms. Reflecting the sharp slowdown in real GDP growth, the number of job vacancies are expected to fall further and the pace of job growth is expected to slow sharply in the months ahead, to the point that the unemployment rate rises, pushing over 4.0 percent. Despite a pronounced slowdown in the pace of job growth, firms in most industry groups will likely be hesitant to let large numbers of workers go in response to a slowdown in demand they expect will be short-lived. This is a reflection of how hard it has been for firms to attract and retain labor since the onset of the pandemic, and if this does prove to be the case it would limit the extent of any increase in the unemployment rate. One exception has been the tech sector, in which significant numbers of layoffs have followed a period of notably aggressive hiring. Additionally, the ongoing contraction in manufacturing could bring layoffs in that sector if expectations of recovery are pushed further out into the future. 
+
+While inflation is past its peak, progress continues to come at a pace too slow for the FOMC&#8217;s comfort, and inflation is expected to remain above the Committee&#8217;s 2.0 percent target rate through most of 2024. Moreover, recent increases in energy prices, if sustained, pose upside risk to forecasts of headline inflation. To the extent the demand for labor is cooling, that will give the FOMC comfort that services price inflation will begin to moderate, and if further softening in consumer spending on discretionary services occurs, that would further blunt inflation pressures. While another 25-basis point Fed funds rate hike seems the most likely outcome, the FOMC must balance concerns over inflation against concerns over financial stability in light of recent stresses in the banking system. Either way, once the FOMC reaches a stopping point, expectations are that they will hold the funds rate steady at the terminal rate for some time to come. 
+
+Patterns of economic activity within the Regions footprint are expected to be broadly similar to those seen in the U.S. as a whole. A number of states within the footprint have seen heightened flows of domestic in-migration since the onset of the pandemic, which has resulted in more rapid rates of job growth and more rapid growth in housing costs. It is likely that migration patterns will shift in 2023 as the broader economy and the labor market slow. That said, job growth for the Company's footprint as a whole is expected to be faster than that for the U.S. as a whole. That Regions' footprint has an above-average exposure to manufacturing means the contraction in the manufacturing sector could be felt more acutely, but the larger, more industrially diverse areas of the footprint are expected to continue to outperform. Some of the metro areas which over the past two years saw the largest increases in house prices could experience price declines in excess of the national average, but continued robust population growth in these markets will help stem significant declines in house prices. 
+
+The continued economic uncertainty, as described above, impacted Regions' forecast utilized in calculating the ACL as of March 31, 2023. See the "Allowance" section for further information. 
+
+First Quarter Results 
+
+Regions reported net income available to common shareholders of $588 million or $0.62 per diluted share in the first quarter of 2023 compared to net income available to common shareholders of $524 million or $0.55 per diluted share in the first quarter of 2022.The primary driver of the increase in net income from the prior year period was higher net interest income. 
+
+Net interest income (taxable-equivalent basis) totaled $1.4 billion in the first quarter of 2023 compared to $1.0 billion in the first quarter of 2022. The net interest margin (taxable-equivalent basis) was 4.22 percent in the first quarter of 2023, reflecting a 137 basis point increase from the same period in 2022. The increase in net interest income and net interest margin was primarily driven by a significant increase in market interest rates, average loan growth, and a larger average securities portfolio year-over-year. A decline in average cash balances also supported the increase in net interest margin. Higher interest expense on deposits and overall funding costs, as expected in a rising rate environment, partially offset the increases in interest income. 
+
+The provision for credit losses totaled $135 million in the first quarter of 2023 compared to a benefit from credit losses of $36 million in 2022. The current quarter provision reflects deteriorating economic conditions and continued normalization of asset quality. Net charge-offs totaled $83 million, or 0.35 percent of average loans, in the first quarter of 2023, compared to $46 million, or 0.21 percent in 2022, reflecting increased net charge-offs in the commercial and industrial loan portfolio. While net charge-offs increased, the allowance remained stable at 1.63 percent of total loans, net of unearned income at March 31, 2023, unchanged from December 31, 2022. Refer to the "Allowance for Credit Losses" section for further detail. 
+
+Non-interest income was $534 million in the first quarter of 2023 compared to $584 million in 2022. The decrease was primarily driven by lower capital markets income, mortgage income and service charges on deposit accounts. The declines were partially offset by improvement in investment service fee income and market valuation adjustments on employee benefit assets. See Table 22 "Non-Interest Income" for further details. 
+
+Non-interest expense was $1.0 billion in the first quarter of 2023 compared to $933 million in 2022. The increase was driven by several expense categories, primarily salaries and employee benefits expense. These increases were partially offset by lower credit and checkcard expenses. See Table 23 "Non-Interest Expense" for further details. 
+
+Regions' effective tax rate was 22.4 percent in 2023 compared to 21.9 percent in 2022. See the "Income Taxes" section for further details. 
+
+Capital 
+
+Regions and Regions Bank are required to comply with regulatory capital requirements established by Federal and State banking agencies, which include quantitative requirements including the CET1 ratio. At March 31, 2023, Regions&#8217; CET1 ratio was estimated to be 9.88 percent. For additional information on Regions' regulatory capital requirements see the "Regulatory Requirements" section. 
+
+Regions participates in supervisory stress testing conducted by the Federal Reserve and its SCB is currently floored at 2.5 percent. See Note 5 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" to the consolidated financial statements for further details. 
+
+The Board authorized, on April 20, 2022, the repurchase of up to $2.5 billion of the Company's common stock, permitting purchases from the second quarter of 2022 through the fourth quarter of 2024. The Company did not repurchase any shares in the first quarter of 2023. 
+
+Expectations 
+
+2023 Expectations (1) 
+
+Category Expectation Total Adjusted Revenue (2)(3) 
+
+Up 6-8% 
+
+Adjusted Non-Interest Expense (4) 
+
+Up ~6.5%; expect the first half of 2023 to be higher than the second half of 2023 Adjusted Operating Leverage (4) 
+
+~1% Ending Loans Up ~4% 
+
+Ending Deposits Down $3-$5 billion in the first half of 2023; trending towards higher end of the range; stable to modest growth in the second half of 2023 Net Charge-Offs / Average Loans (5) 
+
+~35 bps 
+
+Effective Tax Rate 22-23% 
+
+______ 
+
+(1) Expectation for CET1 is to manage at or modestly above 10 percent over the near term. 
+
+(2) Expectation includes a net interest income expectation of a decline of 1.5-3.5 percent in the second quarter of 2023 compared to the first quarter, but expect full-year 2023 net interest income growth of 12-14 percent. The net interest income expectation utilizes the March 31, 2023 forward interest rate curve which includes 75bps of rate cuts in 2023. A stable Fed funds level would push full-year 2023 net interest income to the upper end of the full-year net interest income range. 
+
+(3) Expectation includes expectations with regard to select non-interest revenue categories. Overdraft policy changes to be implemented in mid-2023 are expected to result in full-year service charges of approximately $550 million. Capital markets revenue is expected to range between $60 million to $80 million excluding valuation adjustments on customer derivatives in the second quarter of 2023. Mortgage income is expected to be lower in 2023 compared to 2022, but remain a key component of fee revenue. 
+
+(4) Expectation reflects an estimated increase in second quarter 2023 operational losses resulting from check fraud, which has been an industry-wide issue. 
+
+(5) Normalized through-the-cycle net charge-offs range is expected to be 35-45 bps. 
+
+The reconciliation with respect to these forward-looking non-GAAP measures is expected to be consistent with the actual non-GAAP reconciliations within Management's Discussion and Analysis of this Form 10-Q. For more information related to the Company's 2023 expectations, refer to the related sub-sections discussed in more detail within Management's Discussion and Analysis of this Form 10-Q. 
+
+BALANCE SHEET ANALYSIS 
+
+The following sections provide expanded discussion of significant changes in certain line items in asset, liability, and shareholders' equity categories. 
+
+CASH AND CASH EQUIVALENTS 
+
+Cash and cash equivalents decreased approximately $2.4 billion from year-end 2022 to March 31, 2023, due primarily to a decrease in cash on deposit with the FRB partially offset by an increase in cash due from other banks. In the first quarter 2023, the net decline in cash was driven by an expected decline in deposits and growth in loans, partially offset by an increase in short-term borrowings. See the "Loans", "Liquidity", "Deposits", and "Borrowed Funds" sections for more information. 
+
+DEBT SECURITIES 
+
+The following table details the carrying values of debt securities, including both available for sale and held to maturity: 
+
+Table 1&#8212;Debt Securities 
+
+March 31, 2023 December 31, 2022 &#160; (In millions) U.S. Treasury securities $ 1,205 $ 1,187 Federal agency securities 946 836 Obligations of states and political subdivisions 2 2 Mortgage-backed securities: Residential agency 17,434 17,233 Residential non-agency &#8212; 1 Commercial agency 8,178 8,135 Commercial non-agency 123 186 Corporate and other debt securities 1,132 1,154 $ 29,020 $ 28,734 
+
+Debt securities available for sale, comprising 21 percent of earning assets, constitute approximately 97 percent of the securities portfolio. They are an important tool used to manage interest rate sensitivity and provide a primary source of liquidity for the Company, as much of the portfolio is highly liquid. Additionally, some of the securities portfolio is eligible to be used as collateral for funding of various types of borrowings. See the "Liquidity" section for more information on these arrangements. Regions maintains a highly-rated securities portfolio consisting primarily of agency MBS. See Note 2 "Debt Securities" to the 
+
+consolidated financial statements for additional information. Also see the "Market Risk-Interest Rate Risk" section for more information. 
+
+The average life of the debt securities portfolio at March 31, 2023 was estimated to be 5.7 years, with a duration of approximately 4.8 years. These metrics compare with an estimated average life of 5.8 years and a duration of approximately 4.8 years for the portfolio at December 31, 2022. 
+
+Debt securities increased $286 million from December 31, 2022 to March 31, 2023 primarily driven by increases in federal agency securities and residential agency securities. During the first quarter of 2023, Regions made no purchases of debt securities available for sale outside of normal reinvestment of maturities and paydowns. 
+
+LOANS HELD FOR SALE 
+
+Loans held for sale totaled $564 million at March 31, 2023, consisting of $203 million of residential real estate mortgage loans, $316 million of commercial loans, $44 million of consumer and other performing loans, and $1 million of non-performing loans. At December 31, 2022, loans held for sale totaled $354 million, consisting of $160 million of residential real estate mortgage loans, $153 million of commercial loans, $38 million of consumer and other performing loans, and $3 million of non-performing loans. The levels of residential real estate mortgage loans held for sale that are part of the Company's mortgage originations fluctuate depending on the timing of origination and sale to third parties. Commercial loans held for sale include commercial mortgage loans originated for sale to third parties and commercial loans originally recorded as held for investment when management has the intent to sell. Levels of commercial loans held for sale fluctuate based on timing of sale to third parties. 
+
+LOANS 
+
+Loans, net of unearned income, represented 72 percent of interest-earning assets as of March 31, 2023. The following table presents the distribution of Regions&#8217; loan portfolio by portfolio segment and class, net of unearned income: 
+
+Table 2&#8212;Loan Portfolio 
+
+March 31, 2023 December 31, 2022 &#160; (In millions, net of unearned income) Commercial and industrial $ 51,811 $ 50,905 Commercial real estate mortgage&#8212;owner-occupied 4,938 5,103 Commercial real estate construction&#8212;owner-occupied 306 298 Total commercial 57,055 56,306 Commercial investor real estate mortgage 6,392 6,393 Commercial investor real estate construction 2,040 1,986 Total investor real estate 8,432 8,379 Residential first mortgage 19,172 18,810 Home equity lines 3,397 3,510 Home equity loans 2,446 2,489 Consumer credit card 1,219 1,248 Other consumer&#8212;exit portfolios 488 570 Other consumer 5,848 5,697 Total consumer 32,570 32,324 $ 98,057 $ 97,009 
+
+PORTFOLIO CHARACTERISTICS 
+
+The following sections describe the composition of the portfolio segments and classes disclosed in Table 2 , explain changes in balances from year-end 2022 and highlight the related risk characteristics. Regions believes that its loan portfolio is well diversified by product, client, and geography throughout its footprint. However, the loan portfolio may be exposed to certain concentrations of credit risk which exist in relation to individual borrowers or groups of borrowers, certain types of collateral, certain types of industries, certain loan products, or certain regions of the country. See Note 3 "Loans and the Allowance for Credit Losses" to the consolidated financial statements for additional discussion. 
+
+Commercial 
+
+The commercial portfolio segment includes commercial and industrial loans to commercial customers for use in normal business operations to finance working capital needs, equipment purchases and other expansion projects. Commercial and industrial loans increased $749 million since year-end 2022, driven by a continued increase in line utilization and expansion of existing lines. In the first quarter of 2023, commercial and industrial loan growth was broad-based, primarily driven by increases in the utilities and retail trade industries. 
+
+The commercial portfolio also includes owner-occupied commercial real estate mortgage loans to operating businesses, which are loans for long-term financing on land and buildings, and are repaid by cash generated by business operations. Owner- 
+
+occupied commercial real estate construction loans are made to commercial businesses for the development of land or construction of a building where the repayment is derived from revenues generated from the business of the borrower. 
+
+Over half of the Company&#8217;s total loans are included in the commercial portfolio segment. These balances are spread across numerous industries, as noted in the table below. The Company manages the related risks to this portfolio by setting certain lending limits for each significant industry. 
+
+The following tables provide detail of Regions' commercial lending balances in selected industries. 
+
+Table 3&#8212;Commercial Industry Exposure 
+
+March 31, 2023 Loans Unfunded Commitments Total Exposure (In millions) Administrative, support, waste and repair $ 1,582 $ 995 $ 2,577 Agriculture 329 236 565 Educational services 3,282 1,008 4,290 Energy 1,652 3,299 4,951 Financial services 6,923 8,258 15,181 Government and public sector 3,196 435 3,631 Healthcare 3,440 2,345 5,785 Information 2,665 1,495 4,160 Manufacturing 5,292 4,775 10,067 Professional, scientific and technical services 2,672 1,610 4,282 
+
+Real estate (1) 
+
+9,080 8,943 18,023 Religious, leisure, personal and non-profit services 1,610 690 2,300 Restaurant, accommodation and lodging 1,382 312 1,694 Retail trade 2,860 2,037 4,897 Transportation and warehousing 3,335 1,880 5,215 Utilities 3,082 2,638 5,720 Wholesale goods 4,310 3,667 7,977 
+
+Other (2) 
+
+363 1,917 2,280 Total commercial $ 57,055 $ 46,540 $ 103,595 
+
+December 31, 2022 (3) 
+
+Loans Unfunded Commitments Total Exposure (In millions) Administrative, support, waste and repair $ 1,531 $ 930 $ 2,461 Agriculture 332 251 583 Educational services 3,311 978 4,289 Energy 1,559 3,132 4,691 Financial services 6,923 7,681 14,604 Government and public sector 3,196 456 3,652 Healthcare 3,650 2,359 6,009 Information 2,767 1,470 4,237 Manufacturing 5,323 4,941 10,264 
+
+Professional, scientific and technical services 
+
+2,604 1,626 4,230 
+
+Real estate (1) 
+
+9,097 8,809 17,906 Religious, leisure, personal and non-profit services 1,611 648 2,259 Restaurant, accommodation and lodging 1,360 356 1,716 Retail trade 2,501 2,297 4,798 
+
+Transportation and warehousing 
+
+3,303 1,832 5,135 Utilities 2,510 2,793 5,303 Wholesale goods 4,394 3,876 8,270 
+
+Other (2) 
+
+334 2,201 2,535 Total commercial $ 56,306 $ 46,636 $ 102,942 
+
+_______ 
+
+(1) "Real estate" includes REITs, which are unsecured commercial and industrial products that are real estate related. 
+
+(2) "Other" contains balances related to non-classifiable and invalid business industry codes offset by payments in process and fee accounts that are not available at the loan level. 
+
+(3) As customers' businesses evolve (e.g. up or down the vertical manufacturing chain), Regions may need to change the assigned business industry code used to define the customer relationship. When these changes occur, Regions does not recast the customer history for prior periods into the new classification because the business industry code used in the prior period was deemed appropriate. As a result, year over year changes may be impacted. 
+
+Investor Real Estate 
+
+Loans for real estate development are repaid through cash flows related to the operation, sale or refinance of the property. This portfolio segment includes extensions of credit to real estate developers or investors where repayment is dependent on the sale of real estate or income generated from the real estate collateral. A portion of Regions&#8217; investor real estate portfolio segment consists of loans secured by residential product types (land, single-family and condominium loans) within Regions&#8217; markets. Additionally, this category includes loans made to finance income-producing properties such as apartment buildings, office and industrial buildings, and retail shopping centers. Total investor real estate loans increased $53 million in comparison to 2022 year-end balances. 
+
+The Company's total non-owner-occupied commercial real estate lending consists of both unsecured commercial and industrial loans that are real estate related (including REITs) and investor real estate loans and are considered to be well diversified across property types. The following table provides detail of these loans: 
+
+Table 4&#8212; Unsecured Commercial Real Estate and Investor Real Estate Exposure 
+
+March 31, 2023 Loan Balance Percent of Total (2) 
+
+(In millions) Residential homebuilders $ 1,115 7.4 % Apartments 3,674 24.3 % Industrial 2,281 15.0 % Condominium 8 0.1 % Diversified 2,057 13.6 % Business offices 1,792 11.8 % Residential land 73 0.5 % Retail 1,516 10.0 % Healthcare 1,173 7.7 % Hotel 739 4.9 % Other 697 4.6 % Commercial land 20 0.1 % 
+
+Total (1) 
+
+$ 15,145 100 % 
+
+_______ 
+
+(1) Owner-occupied commercial real estate is not included as the principal source of repayment is individual businesses, which more closely aligns with the commercial portfolio credit performance. 
+
+(2) Amounts calculated based on whole dollar values. 
+
+Residential First Mortgage 
+
+Residential first mortgage loans represent loans to consumers to finance a residence. These loans are typically financed over a 15 to 30 year term and, in most cases, are extended to borrowers to finance their primary residence. These loans increased $362 million in comparison to 2022 year-end balances, driven by approximately $580 million in new loan originations retained on the balance sheet, including ARM production, through the first three months of 2023. Existing balances were supported by slightly lower prepayment rates. 
+
+Home Equity Lines 
+
+Home equity lines are secured by a first or second mortgage on the borrower's residence and allow customers to borrow against the equity in their homes. Home equity lines decreased $113 million in comparison to 2022 year-end balances, as payoffs and paydowns continue to outpace production. Substantially all of this portfolio was originated through Regions&#8217; branch network. 
+
+Beginning in December 2016, new home equity lines of credit have a 10-year draw period and a 20-year repayment term. During the 10-year draw period customers do not have an interest-only payment option, except on a very limited basis. From May 2009 to December 2016, home equity lines of credit had a 10-year draw period and a 10-year repayment term. Prior to May 2009, the predominant structure was a 20-year draw period with a balloon payment upon maturity. The term &#8220;balloon payment&#8221; means there are no principal payments required until the balloon payment is due for interest-only lines of credit. 
+
+The following table presents information regarding the future principal payment reset dates for the Company's home equity lines of credit as of March 31, 2023. The balances presented are based on maturity date for lines with a balloon payment and draw period expiration date for lines that convert to a repayment period. 
+
+Table 5&#8212;Home Equity Lines of Credit - Future Principal Payment Resets 
+
+First Lien % of Total Second Lien % of Total Total (Dollars in millions) 2023 $ 51 1.51 % $ 39 1.15 % $ 90 2024 105 3.11 % 68 2.00 % 173 2025 98 2.88 % 102 3.01 % 200 2026 135 3.96 % 142 4.18 % 277 2027 338 9.94 % 283 8.34 % 621 2028-2033 961 28.29 % 912 26.85 % 1,873 2033-2037 27 0.79 % 47 1.37 % 74 Thereafter 4 0.13 % 4 0.10 % 8 Revolving Loans Converted to Amortizing 47 1.39 % 34 1.00 % 81 Total $ 1,766 52.00 % $ 1,631 48.00 % $ 3,397 
+
+Home Equity Loans 
+
+Home equity loans are also secured by a first or second mortgage on the borrower's residence, are primarily originated as amortizing loans, and allow customers to borrow against the equity in their homes. Substantially all of this portfolio was originated through Regions&#8217; branch network. 
+
+Consumer Credit Quality Data 
+
+The Company calculates an estimate of the current value of property secured as collateral for both residential first mortgage and home equity lending products (&#8220;current LTV&#8221;). The estimate is based on home price indices compiled by a third party. The third party data indicates trends for MSAs. Regions uses the third party valuation trends from the MSAs in the Company's footprint in its estimate. The trend data is applied to the loan portfolios taking into account the age of the most recent valuation and geographic area. 
+
+The following table presents current LTV data for components of the residential first mortgage, home equity lines and home equity loans classes of the consumer portfolio segment. Current LTV data for some loans in the portfolio is not available due to mergers and systems integrations. The amounts in the table represent the entire loan balance. For purposes of the table below, if the loan balance exceeds the current estimated collateral the entire balance is included in the &#8220;Above 100%&#8221; category, regardless of the amount of collateral available to partially offset the shortfall. 
+
+Table 6&#8212;Estimated Current Loan to Value Ranges 
+
+&#160; March 31, 2023 Residential First Mortgage Home Equity Lines of Credit Home Equity Loans &#160; 1st Lien 2nd Lien 1st Lien 2nd Lien &#160; (In millions) Estimated current LTV: Above 100% $ 158 $ &#8212; $ &#8212; $ 2 $ &#8212; Above 80% - 100% 1,710 3 14 10 14 80% and below 17,020 1,726 1,558 2,142 246 Data not available 284 37 59 26 6 $ 19,172 $ 1,766 $ 1,631 $ 2,180 $ 266 
+
+&#160; December 31, 2022 Residential First Mortgage Home Equity Lines of Credit Home Equity Loans &#160; 1st Lien 2nd Lien 1st Lien 2nd Lien &#160; (In millions) Estimated current LTV: ` Above 100% $ 64 $ 2 $ &#8212; $ 2 $ 1 Above 80% - 100% 1,456 3 3 9 8 80% and below 17,015 1,830 1,627 2,205 233 Data not available 275 20 25 28 3 $ 18,810 $ 1,855 $ 1,655 $ 2,244 $ 245 
+
+Consumer Credit Card 
+
+Consumer credit card lending represents primarily open-ended variable interest rate consumer credit card loans. 
+
+Other Consumer&#8212;Exit Portfolios 
+
+Other consumer &#8212; exit portfolios includes lending initiatives through third parties consisting of loans made through automotive dealerships and other point of sale lending. Regions ceased originating new loans related to these businesses prior to 2020 and therefore the portfolio balance has decreased $82 million from year-end 2022. 
+
+Other Consumer 
+
+Other consumer loans primarily include indirect and direct consumer loans, overdrafts and other revolving loans. Other consumer loans increased $151 million from year-end 2022 primarily driven by increases in consumer home improvement loans. 
+
+Regions considers factors such as periodic updates of FICO scores, unemployment, home prices, and geography as credit quality indicators for consumer loans. FICO scores are obtained at origination and refreshed FICO scores are obtained by the Company quarterly for most consumer loans. For more information on credit quality indicators refer to Note 3 "Loans and the Allowance for Credit Losses". 
+
+ALLOWANCE 
+
+The allowance consists of two components: the allowance for loan losses and the reserve for unfunded credit commitments. Unfunded credit commitments includes items such as letters of credit, financial guarantees and binding unfunded loan commitments. 
+
+The allowance totaled $1.6 billion at both March 31,2023 and December 31, 2022, which represents management's best estimate of expected losses over the life of the loan and credit commitment portfolios. Key drivers of the change in the 
+
+allowance are presented in Table 7 below. While many of these items overlap regarding impact, they are included in the category most relevant. 
+
+Table 7&#8212; Allowance Changes 
+
+Allowance for Credit Losses (In millions) Allowance for credit losses, December 31, 2022 $ 1,582 
+
+Cumulative change in accounting guidance (1) 
+
+(38) Allowance for credit losses, January 1, 2023 $ 1,544 Net charge-offs (83) Provision over (less than) net charge-offs: Economic/Qualitative 19 Other portfolio changes (2) 
+
+116 Total provision over (less than) net charge-offs 52 
+
+Allowance for credit losses, March 31, 2023 
+
+$ 1,596 
+
+_______ 
+
+(1) See Note 1 for additional information. 
+
+(2) This line item includes the net impact of portfolio growth, portfolio run-off, pay-downs, changes in the mix of total outstanding loans, and credit quality changes. 
+
+The table below reflects a range of macroeconomic factors utilized in the Base forecast over the two-year R&#38;S forecast period as of March 31, 2023. The unemployment rate is the most significant macroeconomic factor among the allowance models and continues to be at normalized level with forecasted periods expected to remain relatively consistent. 
+
+Table 8&#8212; Macroeconomic Factors in the Forecast 
+
+Pre-R&#38;S Period Base R&#38;S Forecast March 31, 2023 1Q2023 2Q2023 3Q2023 4Q2023 1Q2024 2Q2024 3Q2024 4Q2024 1Q2025 Real GDP, annualized % change 1.4 % 0.2 % 0.8 % 0.9 % 1.2 % 1.4 % 1.6 % 1.9 % 2.0 % Unemployment rate 3.6 % 3.8 % 3.9 % 4.2 % 4.2 % 4.3 % 4.3 % 4.3 % 4.2 % HPI, year-over-year % change 1.3 % (4.6) % (5.6) % (6.4) % (5.1) % (1.8) % 0.5 % 1.7 % 2.5 % CPI, year-over-year % change 5.9 % 4.5 % 4.0 % 3.7 % 3.2 % 2.8 % 2.4 % 2.2 % 2.1 % 
+
+In deriving any forecast, Regions benchmarks its internal forecast with external forecasts and external data available. Regions' March 2023 baseline forecast weakened compared to the December 2022 forecast driven by several factors. Weak growth in real GDP is expected in 2023, with the key driver of growth in overall business investment being intellectual property products. A pronounced slowdown in job growth is anticipated, as well as a low labor force participation rate that will limit any increase in the unemployment rate over the forecast horizon. As measured by CPI, inflation is expected to slow further but remain above the FOMC's 2.0 percent target through 2024. Renewed disruptions in global supply chains and shipping networks, excessive monetary policy tightening, and heightened financial volatility provide significant downside uncertainty over the near-term forecast. See the Economic Environment in Regions' Banking Markets discussion in the "First Quarter Overview" section for additional information. 
+
+Credit metrics are monitored throughout each quarter in order to understand external macro-views, trends and industry outlooks, as well as Regions' internal specific views of credit metrics and trends. In the first quarter of 2023, asset quality continued to normalize, as expected, within certain select sectors of the commercial and consumer portfolios. Total net charge-offs increased $14 million. Commercial and investor real estate criticized balances increased approximately $576 million, which included an increase in classified balances of $182 million compared to the fourth quarter of 2022. Non-performing loans, excluding held for sale, and non performing assets increased approximately $54 million compared to the fourth quarter of 2022. This continued normalization resulted in a modest increase to the modeled results in the allowance for credit losses. 
+
+While Regions' quantitative allowance methodologies strive to reflect all risk factors, any estimate involves assumptions and uncertainties resulting in some level of imprecision. The qualitative framework has a general imprecision component which is meant to acknowledge that model and forecast errors are inherent in any modeling estimate. The March 31, 2023 general imprecision allowance increased slightly compared to the fourth quarter of 2022 due to uncertainty in the economic forecast. 
+
+Based on the overall analysis performed, management deemed an allowance of $1.6 billion to be appropriate to absorb expected credit losses in the loan and credit commitment portfolios as of March 31, 2023. 
+
+Details regarding the allowance and net charge-offs, including an analysis of activity from previous years' totals, are included in Table 9 "Allowance for Credit Losses". Net charge-offs increased $37 million year-over-year, primarily driven by 
+
+an increase in commercial and industrial and other consumer net charge-offs. As noted, economic trends such as interest rates, unemployment, volatility in commodity prices, collateral valuations and inflationary pressure will impact the future levels of net charge-offs and may result in volatility of certain credit metrics during the remainder of 2023 and beyond. See the "First Quarter Overview" section for details on expectations for net charge-offs in 2023. 
+
+Table 9&#8212;Allowance for Credit Losses Three Months Ended March 31 2023 2022 &#160; (Dollars in millions) Allowance for loan losses at January 1 $ 1,464 $ 1,479 
+
+Cumulative effect from change in accounting guidance (1) 
+
+(38) &#8212; 
+
+Allowance for loan losses, January 1 (as adjusted for change in accounting guidance) (1) 
+
+1,426 1,479 Loans charged-off: Commercial and industrial 49 23 Commercial real estate mortgage&#8212;owner-occupied &#8212; 3 Residential first mortgage &#8212; &#8212; Home equity lines 1 1 Home equity loans &#8212; 1 Consumer credit card 12 10 Other consumer&#8212;exit portfolios 5 6 Other consumer 38 33 105 77 Recoveries of loans previously charged-off: Commercial and industrial 10 13 Commercial real estate mortgage&#8212;owner-occupied &#8212; &#8212; Residential first mortgage &#8212; 2 Home equity lines 3 3 Home equity loans &#8212; 1 Consumer credit card 2 2 Other consumer&#8212;exit portfolios 1 2 Other consumer 6 8 22 31 Net charge-offs (recoveries): Commercial and industrial 39 10 Commercial real estate mortgage&#8212;owner-occupied &#8212; 3 Residential first mortgage &#8212; (2) Home equity lines (2) (2) Home equity loans &#8212; &#8212; Consumer credit card 10 8 Other consumer&#8212;exit portfolios 4 4 Other consumer 32 25 83 46 Provision for (benefit from) loan losses 129 (17) Allowance for loan losses at March 31 1,472 1,416 Reserve for unfunded credit commitments at January 1 118 95 Provision for (benefit from) unfunded credit losses 6 (19) Reserve for unfunded credit commitments at March 31 124 76 Allowance for credit losses at March 31 $ 1,596 $ 1,492 Loans, net of unearned income, outstanding at end of period $ 98,057 $ 89,335 Average loans, net of unearned income, outstanding for the period $ 97,277 $ 87,814 
+
+Three Months Ended March 31 2023 2022 
+
+Net loan charge-offs (recoveries) as a % of average loans, annualized (2) : 
+
+Commercial and industrial 0.31 % 0.09 % Commercial real estate mortgage&#8212;owner-occupied (0.02) % 0.20 % Commercial real estate construction&#8212;owner-occupied (0.05) % (0.03) % Total commercial 0.28 % 0.10 % Commercial investor real estate mortgage &#8212; % (0.01) % Total investor real estate &#8212; % (0.01) % Residential first mortgage &#8212; % (0.05) % Home equity- lines of credit (0.22) % (0.17) % Home equity - closed - end (0.03) % (0.07) % Consumer credit card 3.47 % 2.83 % Other consumer&#8212;exit portfolios 2.69 % 1.83 % Other consumer 2.26 % 1.89 % Total Consumer 0.55 % 0.44 % Total 0.35 % 0.21 % 
+
+Ratios (2) : 
+
+Allowance for credit losses at end of period to loans, net of unearned income 1.63 % 1.67 % Allowance for loan losses to loans, net of unearned income 1.50 % 1.59 % Allowance for credit losses at end of period to non-performing loans, excluding loans held for sale 288 % 446 % Allowance for loan losses to non-performing loans, excluding loans held for sale 266 % 423 % 
+
+_______ 
+
+(1) See Note 1 for additional information. 
+
+(2) Amounts have been calculated using whole dollar values. 
+
+Allocation of the allowance for credit losses by portfolio segment and class is summarized as follows: 
+
+Table 10&#8212;Allowance Allocation 
+
+&#160; March 31, 2023 December 31, 2022 &#160; Loan Balance Allowance Allocation Allowance to Loans % (1) 
+
+Loan Balance Allowance Allocation Allowance to Loans % (1) 
+
+&#160; (Dollars in millions) Commercial and industrial $ 51,811 $ 660 1.3 % $ 50,905 $ 628 1.2 % Commercial real estate mortgage&#8212;owner-occupied 4,938 103 2.1 5,103 102 2.0 Commercial real estate construction&#8212;owner-occupied 306 7 2.2 298 7 2.3 Total commercial 57,055 770 1.4 56,306 737 1.3 Commercial investor real estate mortgage 6,392 115 1.8 6,393 114 1.8 Commercial investor real estate construction 2,040 38 1.9 1,986 28 1.4 Total investor real estate 8,432 153 1.8 8,379 142 1.7 Residential first mortgage 19,172 103 0.5 18,810 124 0.7 Home equity lines 3,397 81 2.4 3,510 77 2.2 Home equity loans 2,446 25 1.0 2,489 29 1.2 Consumer credit card 1,219 131 10.7 1,248 134 10.7 Other consumer&#8212;exit portfolios 488 33 6.7 570 39 6.8 Other consumer 5,848 300 5.1 5,697 300 5.3 Total consumer 32,570 673 2.1 32,324 703 2.2 Total $ 98,057 $ 1,596 1.6 % $ 97,009 $ 1,582 1.6 % 
+
+_____ 
+
+(1) Amounts have been calculated using whole dollar values. 
+
+NON-PERFORMING ASSETS 
+
+The following table presents non-performing assets as of March 31, 2023 and December 31, 2022: 
+
+Table 11&#8212;Non-Performing Assets 
+
+&#160; March 31, 2023 December 31, 2022 &#160; (Dollars in millions) Non-performing loans: Commercial and industrial $ 385 $ 347 Commercial real estate mortgage&#8212;owner-occupied 34 29 Commercial real estate construction&#8212;owner-occupied 6 6 Total commercial 425 382 Commercial investor real estate mortgage 67 53 Total investor real estate 67 53 Residential first mortgage 26 31 Home equity lines 30 28 Home equity loans 6 6 Total consumer 62 65 Total non-performing loans, excluding loans held for sale 554 500 Non-performing loans held for sale 1 3 Total non-performing loans (1) 
+
+555 503 Foreclosed properties 15 13 Total non-performing assets (1) 
+
+$ 570 $ 516 Accruing loans 90 days past due: Commercial and industrial $ 23 $ 30 Commercial real estate mortgage&#8212;owner-occupied &#8212; 1 Total commercial 23 31 Commercial investor real estate mortgage &#8212; 40 Total investor real estate &#8212; 40 Residential first mortgage (2) 
+
+47 47 Home equity lines 17 15 Home equity loans 8 8 Consumer credit card 15 15 Other consumer&#8212;exit portfolios 1 1 Other consumer 17 17 Total consumer 105 103 $ 128 $ 174 
+
+Non-performing loans (1) to loans and non-performing loans held for sale 
+
+0.57 % 0.52 % 
+
+Non-performing loans, excluding loans held for sale (1) to loans 
+
+0.56 % 0.52 % 
+
+Non-performing assets (1) to loans, foreclosed properties, non-marketable investments, and non-performing loans held for sale 
+
+0.58 % 0.53 % 
+
+_________ 
+
+(1) Excludes accruing loans 90 days past due. 
+
+(2) Excludes residential first mortgage loans that are 100% guaranteed by the FHA and all guaranteed loans sold to Ginnie Mae where Regions has the right but not the obligation to repurchase. Total 90 days or more past due guaranteed loans excluded were $30 million at March 31, 2023 and $34 million at December 31, 2022. 
+
+Non-performing loans at March 31, 2023 increased $52 million as compared to year-end levels as a result of continued asset quality normalization. There were increases in several industry sectors, with no overarching industry sector being the driver. Economic trends such as interest rates, unemployment, volatility in commodity prices, and collateral valuations will impact the future level of non-performing assets. Circumstances related to individually large credits could also result in volatility. 
+
+The following table provides an analysis of non-accrual loans (excluding loans held for sale) by portfolio segment: 
+
+Table 12&#8212; Analysis of Non-Accrual Loans &#160; Non-Accrual Loans, Excluding Loans Held for Sale for the Three Months Ended March 31, 2023 
+
+&#160; Commercial Investor Real Estate Consumer (1) 
+
+Total &#160; (In millions) Balance at beginning of period $ 382 $ 53 $ 65 $ 500 Additions 109 17 &#8212; 126 Net payments/other activity &#8212; (3) (3) (6) Return to accrual (18) &#8212; &#8212; (18) Charge-offs on non-accrual loans (2) 
+
+(47) &#8212; &#8212; (47) Transfers to held for sale (3) 
+
+(1) &#8212; &#8212; (1) Balance at end of period $ 425 $ 67 $ 62 $ 554 &#160; Non-Accrual Loans, Excluding Loans Held for Sale for the Three Months Ended March 31, 2022 
+
+&#160; Commercial Investor Real Estate Consumer (1) 
+
+Total &#160; (In millions) Balance at beginning of period $ 368 $ 3 $ 80 $ 451 Additions 50 &#8212; &#8212; 50 Net payments/other activity (54) (1) (5) (60) Return to accrual (76) &#8212; &#8212; (76) Charge-offs on non-accrual loans (2) 
+
+(23) &#8212; &#8212; (23) Transfers to held for sale (3) 
+
+(7) &#8212; &#8212; (7) Balance at end of period $ 258 $ 2 $ 75 $ 335 
+
+________ 
+
+(1) All net activity within the consumer portfolio segment other than sales and transfers to held for sale (including related charge-offs) is included as a single net number within the net payments/other activity line. 
+
+(2) Includes charge-offs on loans on non-accrual status and charge-offs taken upon sale and transfer of non-accrual loans to held for sale. 
+
+(3) Transfers to held for sale are shown net of charge-offs recorded upon transfer. 
+
+GOODWILL 
+
+Goodwill totaled $5.7 billion at both March 31, 2023 and December 31, 2022. Refer to Note 1 "Summary of Significant Accounting Policies" and Note 9 "Intangible Assets" to the consolidated financial statements included in the Annual Report on Form 10-K for the year ended December 31, 2022 for the methodologies and assumptions used in the goodwill impairment analysis. 
+
+DEPOSITS 
+
+Regions competes with other banking and financial services companies for a share of the deposit market. Regions&#8217; ability to compete in the deposit market depends heavily on the pricing of its deposits and how effectively the Company meets customers&#8217; needs. Regions employs various means to meet those needs and enhance competitiveness, such as providing a high level of customer service, competitive pricing and convenient branch locations for its customers. Regions also serves customers through providing centralized, high-quality banking services through the Company's digital channels and contact center. 
+
+The following table summarizes deposits by category and by segment: 
+
+Table 13&#8212;Deposits by Category and by Segment 
+
+March 31, 2023 December 31, 2022 &#160; (In millions) Non-interest-bearing demand $ 49,647 $ 51,348 Interest-bearing checking 24,066 25,676 Savings 15,286 15,662 Money market&#8212;domestic 31,688 33,285 Time deposits 7,773 5,772 $ 128,460 $ 131,743 Consumer Bank segment $ 83,296 $ 83,487 Corporate Bank segment 35,185 37,145 Wealth Management segment 7,941 9,111 
+
+Other (1) 
+
+2,038 2,000 $ 128,460 $ 131,743 
+
+____ 
+
+(1) Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, Eurodollar trade deposits, selected deposits and brokered time deposits). 
+
+Total deposits at March 31, 2023 decreased approximately $3.3 billion compared to year-end 2022 levels, largely in line with expectations. In the first quarter, corporate deposits declined approximately $2.0 billion, primarily in non-interest-bearing demand and interest-bearing checking, reflecting normal seasonal activity. Declines of approximately $1.4 billion in wealth management and higher-balance consumer deposits, primarily in interest-bearing checking and money market, reflect continued rate-seeking behavior. However, the liquidity concerns in the banking industry in the month of March 2023 did not have a significant impact on Regions' deposit levels. The deposit outflows primarily occurred prior to early March 2023. The deposit declines were partially offset by an increase in time deposits as interest rates have increased. 
+
+Regions believes that its deposits are diversified across stable categories and include insured and collateralized deposits, with consumer deposits making up more than 60 percent of the total deposit base. Furthermore, corporate deposits include those that are operational in nature (where the primary use is certain operational services such as clearing, custody, payments or other cash management activities). A significant amount of the Company's deposit base is insured by the FDIC or collateralized,with approximately $9.6 billion in deposits collateralized in public funds or in trusts at March 31, 2023. The amount of estimated uninsured deposits totaled $46.8 billion at March 31, 2023, therefore over 60 percent of total deposits are insured by the FDIC. The Company's deposits are also granular in nature as evidenced by an average deposit account balance of approximately $18 thousand at March 31, 2023. The estimates of uninsured deposits and average account size were based on methodologies used in the Company's Call Report, which is prepared on an unconsolidated bank basis. 
+
+See the "First Quarter Overview" section for details on expectations for deposits in 2023. See also the "Liquidity" and "Market Risk-Interest Rate Risk" sections for further discussion. 
+
+BORROWED FUNDS 
+
+Short-Term Borrowings 
+
+Short-term borrowings, which consist of FHLB advances, were $2 billion at March 31, 2023 as compared to none at December 31, 2022. These borrowings were drawn upon in the first quarter of 2023 due to the liquidity concerns in the banking industry that began in the month of March. The levels of these borrowings can fluctuate depending on the Company's funding needs and the sources utilized. 
+
+Short and long-term funding from the FHLB or FRB are secured by pledged assets, primarily certain loan portfolios which are also subject to blanket lien arrangements with the FHLB and FRB. As of March 31, 2023, Regions' blanket lien arrangements with these entities covered a total loan balance of approximately $83.8 billion and included loans from various loan portfolios. However, borrowing capacity with the FHLB or FRB is contingent on the subset of the blanket lien portfolios which are eligible and pledged according to the parameters for each counterparty. 
+
+Short-term secured borrowings, such as securities sold under agreements to repurchase and FHLB advances, are a portion of Regions' funding strategy. See the "Liquidity" section for further detail of Regions' borrowing capacity with the FHLB. 
+
+Table 14&#8212;Long-Term Borrowings 
+
+March 31, 2023 December 31, 2022 (In millions) Regions Financial Corporation (Parent): 2.25% senior notes due May 2025 $ 747 $ 747 1.80% senior notes due August 2028 646 646 7.75% subordinated notes due September 2024 100 100 6.75% subordinated debentures due November 2025 153 153 7.375% subordinated notes due December 2037 298 298 Valuation adjustments on hedged long-term debt (135) (158) 1,809 1,786 Regions Bank: 6.45% subordinated notes due June 2037 496 496 Other long-term debt 2 2 498 498 Total consolidated $ 2,307 $ 2,284 
+
+Long-term borrowings increased by approximately $23 million since year-end 2022 due to valuation adjustments. 
+
+REGULATORY REQUIREMENTS 
+
+CAPITAL RULES 
+
+Regions and Regions Bank are required to comply with regulatory capital requirements established by Federal and State banking agencies. These regulatory capital requirements involve quantitative measures of the Company's assets, liabilities and selected off-balance sheet items, and also qualitative judgments by the regulators. Failure to meet minimum capital requirements can subject the Company to a series of increasingly restrictive regulatory actions. Under the Basel III Rules, Regions is designated as a standardized approach bank. Regions is a "Category IV" institution under the FRB's rules for tailoring enhanced prudential standards. 
+
+Federal banking agencies allowed a phase-in of the impact of CECL on regulatory capital. At December 31, 2021, the add-back to regulatory capital was calculated as the impact of initial adoption, adjusted for 25 percent of subsequent changes in the allowance. The amount is phased-in over a three-year period beginning in 2022. At March 31, 2023, the net impact of the addback on CET1 was approximately $204 million or approximately 16 basis points. The add-back amount will decrease by approximately $100 million each year, or approximately 8 basis points, in the first quarters of 2024 and 2025. 
+
+Regions participates in supervisory stress testing conducted by the Federal Reserve and its SCB is currently floored at 2.5 percent. See Note 5 "Shareholders' Equity and Accumulated Other Comprehensive Income" to the consolidated financial statements for further details regarding CCAR results. 
+
+The following table summarizes the applicable holding company and bank regulatory requirements: 
+
+Table 15&#8212;Regulatory Capital Requirements 
+
+March 31, 2023 Ratio (1) 
+
+December 31, 2022 Ratio Minimum Requirement Minimum Requirement plus SCB (2) 
+
+To Be Well Capitalized Common equity Tier 1 capital: Regions Financial Corporation 9.88 % 9.60 % 4.50 % 7.00 % N/A Regions Bank 10.67 10.77 4.50 7.00 6.50 % Tier 1 capital: Regions Financial Corporation 11.20 % 10.91 % 6.00 % 8.50 % 6.00 % Regions Bank 10.67 10.77 6.00 8.50 8.00 Total capital: Regions Financial Corporation 12.94 % 12.54 % 8.00 % 10.50 % 10.00 % Regions Bank 12.12 12.10 8.00 10.50 10.00 Leverage capital: Regions Financial Corporation 9.32 % 8.90 % 4.00 % 4.00 % N/A Regions Bank 8.92 8.80 4.00 4.00 5.00 ___ 
+
+(1) The current quarter Basel III CET1 capital, Tier 1 capital, Total capital, and Leverage capital ratios are estimated. 
+
+(2) Reflects Regions' SCB of 2.50 percent. SCB does not apply to leverage capital ratios. 
+
+See the "First Quarter Overview" section for details on expectations for CET1. 
+
+Additional discussion of the Basel III Rules, their applicability to Regions, recent proposals and final rules issued by the federal banking agencies and recent laws enacted that impact regulatory requirements is included in the "Supervision and Regulation" subsection of the "Business" section in the 2022 Annual Report on Form 10-K and the "Regulatory Requirements" section of Management's Discussion and Analysis in the 2022 Annual Report on Form 10-K. Additional discussion and is also included in Note 12 "Regulatory Capital Requirements and Restrictions" to the consolidated financial statements in the 2022 Annual Report on Form 10-K. 
+
+LIQUIDITY 
+
+Regions maintains a robust liquidity management framework designed to effectively manage liquidity risk in accordance with sound risk management principals and regulatory expectations. The framework establishes sustainable processes and tools to effectively identify, measure, mitigate, monitor, and report liquidity risks beginning with Regions&#8217; Liquidity Management Policy and the Liquidity Risk Appetite Statements approved by the Board. Processes within the liquidity management framework include, but are not limited to, liquidity risk governance, cash management, liquidity stress testing, liquidity risk limits, contingency funding plans, and collateral management. While the framework is designed to comply with liquidity regulations, the processes are further tailored to be commensurate with Regions&#8217; operating model and risk profile. 
+
+See the "Liquidity" section for more information. Also, see the &#8220;Supervision and Regulation&#8212;Liquidity Requirements&#8221; subsection of the &#8220;Business&#8221; section, the "Risk Factors" section and the "Liquidity" section in the 2022 Annual Report on Form 10-K for additional information. 
+
+SHAREHOLDERS' AND TOTAL EQUITY 
+
+Shareholders&#8217; equity was $16.9 billion at March 31, 2023 as compared to $15.9 billion at December 31, 2022. During the first three months of 2023, net income increased shareholders' equity by $612 million, cash dividends on common stock reduced shareholders' equity by $187 million, and cash dividends on preferred stock reduced shareholders' equity by $24 million. Changes in AOCI increased shareholders' equity by $499 million, primarily due to the net change in unrealized gains (losses) on securities available for sale and derivative instruments as a result of changes in market interest rates during the three months ended March 31, 2023. The cumulative effect from the adoption of new accounting guidance that eliminated TDRs and created modifications to troubled borrowers increased shareholders' equity by $28 million. 
+
+Total equity includes noncontrolling interest of $19 million and $4 million at March 31, 2023 and December 31, 2022, respectively. The noncontrolling interest represents the unowned portion of a low income housing tax credit fund syndication, of which Regions held the majority interest at March 31, 2023 and December 31, 2022. 
+
+See Note 5 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" section for additional information. 
+
+NON-GAAP MEASURES 
+
+The table below presents computations of earnings and certain other financial measures, which excludes certain adjustments that are included in the financial results presented in accordance with GAAP. These non-GAAP financial measures include "adjusted non-interest expense", "adjusted non-interest income", "adjusted total revenue", "adjusted total revenue, taxable-equivalent basis", and "adjusted operating leverage ratio". Regions believes that excluding certain items provides a meaningful base for period-to-period comparison, which management believes will assist investors in analyzing the operating results of the Company and predicting future performance. These non-GAAP financial measures are also used by management to assess the performance of Regions&#8217; business because management does not consider the activities related to the adjustments to be indications of ongoing operations. Regions believes that presentation of these non-GAAP financial measures will permit investors to assess the performance of the Company on the same basis as that applied by management. Management and the Board utilize these non-GAAP financial measures as follows: 
+
+&#8226; Preparation of Regions&#8217; operating budgets 
+
+&#8226; Monthly financial performance reporting 
+
+&#8226; Monthly close-out reporting of consolidated results 
+
+&#8226; Presentations to investors of Company performance 
+
+&#8226; Metrics for incentive compensation 
+
+Non-interest expense (GAAP) is presented excluding adjustments to arrive at adjusted non-interest expense (non-GAAP). Net interest income (GAAP) is presented with taxable-equivalent adjustments to arrive at net interest income on a taxable-equivalent basis (GAAP). Non-interest income (GAAP) is presented excluding adjustments to arrive at adjusted non-interest income (non-GAAP). Net interest income (GAAP) and adjusted non-interest income (non-GAAP) are added together to arrive at adjusted total revenue (non-GAAP). Net interest income on a taxable-equivalent basis (GAAP) and adjusted non-interest income (non-GAAP) are added together to arrive at adjusted total revenue on a taxable-equivalent basis (non-GAAP). The adjusted operating leverage ratio (non-GAAP), which is a measure of productivity, is calculated as the year over year 
+
+percentage change in adjusted total revenue on a taxable-equivalent basis (non-GAAP) less the year over year percentage change in adjusted total non-interest expense (non-GAAP). Management uses this ratio to monitor performance and believes it provides meaningful information to investors. 
+
+Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied and are not audited. Although these non-GAAP financial measures are frequently used by stakeholders in the evaluation of a company, they have limitations as analytical tools, and should not be considered in isolation, or as a substitute for analyses of results as reported under GAAP. In particular, a measure of earnings that excludes selected items does not represent the amount that effectively accrues directly to shareholders. 
+
+The following table provides: 1) a reconciliation of non-interest expense (GAAP) to adjusted non-interest expense (non-GAAP), 2) a reconciliation of non-interest income (GAAP) to adjusted non-interest income (non-GAAP), 3) a computation of adjusted total revenue (non-GAAP), 4) a computation of adjusted total revenue on a taxable-equivalent basis (non-GAAP) and 5) presentation of the operating leverage ratio (GAAP) and the adjusted operating leverage ratio (non-GAAP). 
+
+Table 16&#8212;GAAP to Non-GAAP Reconciliations 
+
+&#160; &#160; Three Months Ended March 31 &#160; &#160; 2023 2022 &#160; &#160; (Dollars in millions) ADJUSTED OPERATING LEVERAGE RATIOS Non-interest expense (GAAP) A $ 1,027 $ 933 Adjustments: Branch consolidation, property and equipment charges (2) (1) Adjusted non-interest expense (non-GAAP) B $ 1,025 $ 932 Net interest income (GAAP) C $ 1,417 $ 1,015 Taxable-equivalent adjustment (GAAP) 13 11 Net interest income, taxable-equivalent basis (GAAP) D $ 1,430 $ 1,026 Non-interest income (GAAP) E $ 534 $ 584 Adjustments: Securities (gains) losses, net 2 &#8212; Leveraged lease termination gains (1) (1) Adjusted non-interest income (non-GAAP) F $ 535 $ 583 Total revenue (GAAP) C+E=G $ 1,951 $ 1,599 Adjusted total revenue (non-GAAP) C+F=H $ 1,952 $ 1,598 Total revenue, taxable-equivalent basis (GAAP) D+E=I $ 1,964 $ 1,610 Adjusted total revenue, taxable-equivalent basis (non-GAAP) D+F=J $ 1,965 $ 1,609 
+
+Operating leverage ratio (GAAP) (1) 
+
+11.89 % (1.08) % 
+
+Adjusted operating leverage ratio (non-GAAP) (1) 
+
+12.10 % (1.86) % _________ 
+
+(1) Amounts have been calculated using whole dollar values. 
+
+Table 17 "Consolidated Average Daily Balances and Yield/Rate Analysis" presents a detail of net interest income (on a taxable-equivalent basis), the net interest margin, and the net interest spread. 
+
+Table 17&#8212;Consolidated Average Daily Balances and Yield/Rate Analysis 
+
+&#160; Three Months Ended March 31 &#160; 2023 2022 &#160; Average Balance Income/ Expense Yield/ 
+
+Rate (1) 
+
+Average Balance Income/ Expense Yield/ 
+
+Rate (1) 
+
+&#160; (Dollars in millions; yields on taxable-equivalent basis) Assets Earning assets: Federal funds sold and securities purchased under agreements to resell $ &#8212; $ &#8212; &#8212; % $ 2 $ &#8212; 0.18 % Debt securities (2) 
+
+32,044 187 2.33 29,342 138 1.88 Loans held for sale 389 7 7.23 782 9 4.89 Loans, net of unearned income (3)(4) 
+
+97,277 1,373 5.68 87,814 887 4.07 Interest bearing deposits in other banks 6,508 72 4.49 26,606 13 0.20 Other earning assets 1,340 15 4.70 1,306 16 5.02 Total earning assets 137,558 1,654 4.84 145,852 1,063 2.93 
+
+Unrealized gains/(losses) on securities available for sale, net (2) 
+
+(3,081) (549) Allowance for loan losses (1,427) (1,472) Cash and due from banks 2,360 2,200 Other non-earning assets 17,672 15,697 $ 153,082 $ 161,728 Liabilities and Shareholders&#8217; Equity Interest-bearing liabilities: Savings $ 15,418 4 0.11 $ 15,539 5 0.13 Interest-bearing checking 24,697 54 0.89 27,771 2 0.03 Money market 32,521 91 1.13 31,402 2 0.02 Time deposits 6,813 30 1.80 5,905 26 0.47 Other deposits 1 &#8212; 4.66 &#8212; &#8212; &#8212; Total interest-bearing deposits (5) 
+
+79,450 179 0.91 80,617 13 0.07 Short-term borrowings 400 5 4.92 9 &#8212; 0.16 Long-term borrowings 2,286 40 6.91 2,390 24 4.06 Total interest-bearing liabilities 82,136 224 1.10 83,016 37 0.18 Non-interest-bearing deposits (5) 
+
+49,592 &#8212; &#8212; 58,117 &#8212; &#8212; Total funding sources 131,728 224 0.69 141,133 37 0.11 Net interest spread (2) 
+
+3.73 2.75 Other liabilities 4,891 2,878 Shareholders&#8217; equity 16,457 17,717 Noncontrolling Interest 6 &#8212; $ 153,082 $ 161,728 
+
+Net interest income/margin on a taxable-equivalent basis (6) 
+
+$ 1,430 4.22 % $ 1,026 2.85 % 
+
+_______ 
+
+(1) Amounts have been calculated using whole dollar values. 
+
+(2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly. 
+
+(3) Loans, net of unearned income include non-accrual loans for all periods presented. 
+
+(4) Interest income on loans, net of unearned income, includes hedging expense of $15 million and hedging income $110 million for the three months ended March 31, 2023 and 2022, respectively. Interest income on loans, net of unearned income, also includes net loan fees of $29 million and $22 million for the three months ended March 31, 2023 and 2022, respectively. 
+
+(5) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest-bearing deposits. The rates for total deposit costs equal 0.56% and 0.04% for the three months ended March 31, 2023 and 2022, respectively. 
+
+(6) The computation of taxable-equivalent net interest income is based on the statutory federal income tax rate of 21%, adjusted for applicable state income taxes net of the related federal tax benefit. 
+
+Net interest income is Regions&#8217; principal source of income and is one of the most important elements of Regions&#8217; ability to meet its overall performance goals. Both net interest income and net interest margin are influenced by market interest rates and in the first quarter of 2023, the FOMC increased the Fed funds rate by 50 basis points. 
+
+Net interest income (taxable-equivalent basis) increased by $404 million in first quarter 2023 compared to the same period in 2022, and net interest margin increased by 137 basis points to 4.22 percent in first quarter 2023 compared to the same period in 2022. The increases in net interest income and net interest margin were driven primarily by significantly higher short-term and long-term interest rates and higher average loan balances. A decline in average cash balances, as a result of normalizing pandemic deposits, combined with higher interest rates also contributed to the increase in net interest margin. Higher deposit 
+
+and funding costs, due to the rising rate environment, partially offset the increases in net interest income and net interest margin. 
+
+MARKET RISK&#8212;INTEREST RATE RISK 
+
+Regions&#8217; primary market risk is interest rate risk. This includes uncertainty with respect to absolute interest rate levels as well as relative interest rate levels, which are impacted by both the shape and the slope of the various yield curves that affect the financial products and services that the Company offers. As its primary tool to analyze this risk, Regions measures the change in its net interest income in various interest rate scenarios compared to a base case scenario. Net interest income sensitivity to market rate movements is a useful short-term indicator of Regions&#8217; interest rate risk. 
+
+In addition to net interest income simulations, Regions also utilizes an EVE analysis as a measurement tool to estimate risk exposure over a longer-term horizon. EVE measures the extent to which the economic value of assets, liabilities and off-balance sheet instruments may change in response to fluctuations in interest rates. Importantly, EVE values only the current balance sheet, does not incorporate the balance sheet growth assumptions used in the net interest income sensitivity analyses, and results are highly dependent on imprecise assumptions for products with embedded prepay optionality and indeterminate maturities. The imprecise assumptions in preparing an EVE analysis limit its efficacy. 
+
+Sensitivity Measurement&#8212;Financial simulation models are Regions&#8217; primary tools used to measure interest rate exposure. Using a wide range of sophisticated simulation techniques provides management with extensive information on the potential impact to net interest income caused by changes in interest rates. Models are structured to simulate cash flows and accrual characteristics of Regions&#8217; balance sheet. Assumptions are made about the direction and magnitude of interest rate movements, the slope of the yield curve, and the changing composition of the balance sheet that results from both strategic plans and customer behavior. Among the assumptions are expectations of balance sheet growth and composition, the pricing and maturity characteristics of existing business and the characteristics of future business. Interest rate-related risks are expressly considered, such as pricing spreads, the pricing of deposit accounts, prepayments and other option risks. Regions considers these factors, as well as the degree of certainty or uncertainty surrounding their future behavior. 
+
+The primary objective of asset/liability management at Regions is to coordinate balance sheet composition with interest rate risk management to sustain reasonable and stable net interest income throughout various interest rate cycles. In computing interest rate sensitivity, Regions compares a set of alternative interest rate scenarios to the results of a base case scenario derived using &#8220;market forward rates.&#8221; See the "First Quarter Overview" section for details on expectations for net interest income in 2023. The set of alternative interest rate scenarios includes instantaneous parallel rate shifts of various magnitudes. In addition to parallel rate shifts, multiple curve steepening and flattening scenarios are contemplated. Regions includes simulations of gradual interest rate movements phased in over a six-month period that may more realistically mimic the speed of potential interest rate movements. 
+
+Exposure to Interest Rate Movements&#8212;Regions' balance sheet is naturally asset sensitive, with net interest income increasing with higher interest rates, and decreasing with lower interest rates. This is the result of approximately half of the loan portfolio floating contractually with market rate indices, and funding from a large, mostly stable retail deposit portfolio. Importantly, the stability and rate sensitivity of Regions' deposit portfolio has been proven over multiple interest rate cycles. With this natural balance sheet profile, the ability to utilize discretionary asset duration strategies within the investment portfolio and through cash flow hedges is critical for interest rate risk management. As of March 31, 2023, Regions evidenced a mostly balanced asset/liability position, with an asset duration of approximately 2.7 years and a liability duration of approximately 3.4 years, using historically-informed approximations. The securities portfolio duration is approximately 4.8 years and is appropriate for Regions' risk profile in order to offset the long-duration deposit liabilities. While the available for sale securities and cash flow hedging portfolios are recorded on the balance sheet including current unrealized losses, deposit value increases have more than offset these losses through the rising rate environment. The additional value of deposits in a higher rate environment will be realized in the form of lower-cost funding when compared with wholesale sources, which will increase realized net interest income over time. Deposits are recorded on the balance sheet at carrying value and, for certain financial statement footnote disclosures, the estimated fair value of deposits with no stated maturity is equal to their carrying value, consistent with industry practices. However, in the sensitivity analysis of the balance sheet management does contemplate a fair value of deposits with no stated maturity. See Note 9 "Fair Value Measurements" to the consolidated financial statements for additional information. 
+
+As of March 31, 2023, Regions was asset sensitive to both gradual and instantaneous parallel yield curve shifts as compared to the base case for the 12-month measurement horizon ending March 2024. The estimated exposure associated with the rising and falling rate scenarios in Table 18 below reflects the combined impacts of movements in short-term and long-term interest rates. An increase or reduction in short-term interest rates (such as the Fed Funds rate, the rate of Interest on Excess Reserves, 1 month LIBOR, SOFR and BSBY) will drive the yield on assets and liabilities contractually tied to such rates higher or lower. Under either environment, it is expected that changes in funding costs and balance sheet hedging income will only somewhat offset the change in asset yields. 
+
+Net interest income remains exposed to intermediate and long-term yield curve tenors. While this was a headwind to net interest income during a low rate environment, it represents a tailwind to net interest income growth as the yield curve rises. An increase in intermediate and long-term interest rates (such as intermediate to longer-term U.S. Treasuries, swaps and mortgage rates) will drive yields higher on certain fixed-rate, newly originated or renewed loans, increase prospective yields on certain investment portfolio purchases, and reduce amortization of premium expense on existing securities in the investment portfolio. The opposite is true in an environment where intermediate and long-term interest rates fall. 
+
+The interest rate sensitivity analysis presented below in Table 18 is informed by a variety of assumptions and estimates regarding the progression of the balance sheet in both the baseline scenario as well as the scenarios of instantaneous and gradual shifts in the yield curve. Though there are many assumptions which affect the estimates for net interest income, those pertaining to deposit pricing, deposit mix and overall balance sheet composition are particularly impactful. Given the uncertainties associated with tightening monetary policy on industry liquidity levels and the cost of that liquidity, management evaluates the impacts from these key assumptions through sensitivity analysis. Sensitivity calculations are hypothetical and should not be considered to be predictive of future results. 
+
+The Company&#8217;s baseline balance sheet assumptions include management's best estimate for balance sheet changes in the coming 12 months. In the first quarter of 2023, Regions experienced a decline in low-cost deposit balances, both from the normalization of balances acquired from stimulative policies, as well as from late-cycle rate seeking behavior by higher-balance customers. The baseline projects between $2 billion and $3 billion of additional deposit runoff over the coming quarters, before balances stabilize and begin to modestly expand. Assuming runoff mimics the expected total deposit mix, an additional deposit outflow of $1 billion would reduce net interest income by $24 million over 12 months in the parallel +100 basis point scenario in Table 18. Conversely, if an additional $1 billion are retained a positive benefit of $24 million would be expected over 12 months in the parallel +100 basis point scenario in Table 18. 
+
+In rising rate scenarios only, management assumes that the mix of legacy deposits will change versus the base case as informed by analyses of prior rate cycles. Management assumes that in rising rate scenarios, some remixing shift from non-interest-bearing to interest-bearing products will occur. The magnitude of the remixing shift is rate dependent and equates to approximately $4 billion over 12 months in the parallel +100 basis point scenario in Table 18. Furthermore, over the 12 month horizon, an increase of $1 billion in deposit remixing would decrease net interest income by approximately $25 million, and a decrease of $1 billion in deposit remixing would increase net interest income by $25 million. 
+
+The deposit beta is calibrated using the experience from prior rate cycles and is dynamic across both interest rate level and time. In the base case scenario, management expects an approximate 35 percent full cycle beta by year-end 2023. The parallel +100 basis point shock scenario in Table 18 also incorporates an incremental beta of approximately 40 percent above the base case scenario. Incremental deposit pricing outperformance or underperformance of 5 percent in the parallel +100 basis point shock would increase or decrease net interest income by approximately $40 million. 
+
+The table below summarizes Regions' positioning over the next 12 months in various parallel yield curve shifts (i.e., including all yield curve tenors). The scenarios are inclusive of all interest rate hedging activities. More information regarding hedges is disclosed in Table 19 and its accompanying description. 
+
+Table 18&#8212;Interest Rate Sensitivity 
+
+Estimated Annual % Change 
+
+in Net Interest Income 
+
+March 31, 2023 (1)(2) 
+
+&#160; (in millions) Gradual Change in Interest Rates + 200 basis points $ 88 + 100 basis points 54 &#160;- 100 basis points (116) &#160;- 200 basis points 
+
+(241) Instantaneous Change in Interest Rates + 200 basis points $ 80 + 100 basis points 62 - 100 basis points (176) &#160;- 200 basis points 
+
+(374) 
+
+________ 
+
+(1) Disclosed interest rate sensitivity levels represent the 12-month forward looking net interest income changes as compared to market forward rate cases and include expected balance sheet growth and remixing. 
+
+(2) All active cash flow hedges, including forward starting hedges, are reflected within the measurement horizon..See Table 20 for additional information regarding hedge start and maturity dates. 
+
+Regions' comprehensive interest rate risk management approach uses derivatives, as discussed further below, and debt securities to manage its interest rate risk position. 
+
+During the first quarter of 2023, as part of its dynamic balance sheet management strategy, the Company executed transactions to opportunistically terminate short-term swaps, extend incremental downside rate protection over a longer horizon and reduce exposure to large falling rate movements where deposit pricing is less likely to provide meaningful interest rate protection. 
+
+The Company terminated $2.25 billion of receive-fixed swaps with a weighted-average maturity of September 2023 and a weighted-average receive-fixed rate of 3.65 percent at opportunistic rate levels. Also during the quarter, $1.75 billion of 3-year maturity, forward starting receive-fixed swaps that become active in January 2026, were added with a weighted-average receive-fixed rate of 3.04 percent. Finally, the Company added $1.5 billion of forward starting interest rate options. These options were constructed with purchased interest rate floors at a weighted-average strike of 1.81 percent. To completely offset the cost of these floors, the strategy includes sold interest rate caps with a weighted-average strike of 6.23 percent. 
+
+Interest rate movements may also have an impact on the value of Regions&#8217; securities portfolio, which can directly impact the carrying value of shareholders&#8217; equity. 
+
+Derivatives &#8212;Regions uses financial derivative instruments for management of interest rate sensitivity. ALCO, which consists of members of Regions&#8217; senior management team, in its oversight role for the management of interest rate sensitivity, approves the use of derivatives in balance sheet hedging strategies. Derivatives are also used to offset the risks associated with customer derivatives, which include interest rate, credit, and foreign exchange risks. The most common derivatives Regions employs are forward rate contracts, forward sale commitments, futures contracts, interest rate swaps, interest rate options (caps, floors and collars), and contracts with a combination of these instruments. 
+
+Forward rate contracts are commitments to buy or sell financial instruments at a future date at a specified price or yield. Futures contracts subject Regions to market risk associated with changes in interest rates. Because futures contracts are cash settled daily, there is minimal credit risk associated with futures. Interest rate swaps are contractual agreements typically entered into to exchange fixed for variable (or vice versa) streams of interest payments. The notional principal is not exchanged but is used as a reference for the size of interest settlements. Interest rate options are contracts that allow the buyer to purchase or sell a financial instrument at a predetermined price and time. Forward sale commitments are contractual obligations to sell market instruments at a future date for an already agreed-upon price. Foreign currency contracts involve the exchange of one currency for another on a specified date and at a specified rate. These contracts are executed on behalf of the Company's customers and are used by customers to manage fluctuations in foreign exchange rates. The Company is subject to the credit risk that another party will fail to perform. 
+
+Regions has made use of interest rate swaps and options in balance sheet hedging strategies to effectively convert a portion of its fixed-rate funding position to a variable-rate position, to effectively convert a portion of its fixed-rate debt securities available for sale portfolio to a variable-rate position, and to effectively convert a portion of its floating-rate loan portfolios to fixed-rate. Regions also uses derivatives to economically manage interest rate and pricing risk associated with its mortgage origination business. In the period of time that elapses between the origination and sale of mortgage loans, changes in interest rates have the potential to cause a decline in the value of the loans in this held-for-sale portfolio. Futures contracts and forward sale commitments are used to protect the value of the loan pipeline and loans held for sale from changes in interest rates and pricing. 
+
+The following table presents additional information about hedging interest rate derivatives used by Regions to manage interest rate risk: 
+
+Table 19&#8212;Hedging Derivatives by Interest Rate Risk Management Strategy 
+
+March 31, 2023 Notional Amount Weighted-Average Maturity (Years) Receive Rate Pay Rate (Dollars in millions) Derivatives in fair value hedging relationships: Receive variable/pay fixed swaps - debt securities available for sale (1)(2) 
+
+$ 23 8.8 2.8 % 2.7 % Receive fixed/pay variable swaps - borrowed funds 1,400 3.5 0.6 % 4.8 % Derivatives in cash flow hedging relationships: Receive fixed/pay variable swaps - floating-rate loans (1)(2) 
+
+$ 27,800 3.7 3.0 % 4.3 % Interest rate options (3) 
+
+1,500 5.1 Total derivatives designated as hedging instruments $ 30,723 
+
+_________ 
+
+(1) Floating rates represent the most recent fixing for active derivatives and the first forward fixing for future starting derivatives. 
+
+(2) Includes forward starting notional. For more information on notional by year, see Table 20. 
+
+(3) Interest rate options have a cap strike of 6.23% and a floor of 1.81%. 
+
+The following table presents the average asset hedge notional amounts that are active during each of the remaining annual periods. Asset hedge notional amounts mature prior to the end of 2031, with an immaterial amount of notional maturing in early 2032. 
+
+Table 20&#8212;Schedule of Notional for Asset Hedging Derivatives 
+
+Average Active Notional Amount Quarters Ended Years Ended 6/30/2023 9/30/2023 12/31/2023 2024 2025 2026 2027 2028 2029 2030 2031 (in millions) Asset Hedging Relationships: Receive fixed/pay variable swaps $ 8,600 $ 14,959 $ 18,018 $ 20,411 $ 18,989 $ 15,529 $ 10,708 $ 4,862 $ 8 $ &#8212; $ &#8212; Receive variable/pay fixed swaps &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 15 23 23 23 23 Net receive fixed/pay variable swaps $ 8,600 $ 14,959 $ 18,018 $ 20,411 $ 18,989 $ 15,529 $ 10,693 $ 4,839 $ (15) $ (23) $ (23) Interest rate options $ &#8212; $ &#8212; $ &#8212; $ 1,001 $ 1,500 $ 1,500 $ 1,500 $ 499 $ &#8212; $ &#8212; $ &#8212; 
+
+_________ 
+
+(1) All cash flow hedges are reflected within the 12-month measurement horizon and included in income sensitivity levels as disclosed in Table 18. 
+
+Regions manages the credit risk of these instruments in much the same way as it manages credit risk of the loan portfolios by establishing credit limits for each counterparty and through collateral agreements for dealer transactions. For non-dealer transactions, the need for collateral is evaluated on an individual transaction basis and is primarily dependent on the financial strength of the counterparty. Credit risk is also reduced significantly by entering into legally enforceable master netting agreements. When there is more than one transaction with a counterparty and there is a legally enforceable master netting agreement in place, the exposure represents the net of the gain and loss positions with and collateral received from and/or posted to that counterparty. Most hedging interest rate swap derivatives traded by Regions are subject to mandatory clearing. The counterparty risk for cleared trades effectively moves from the executing broker to the clearinghouse allowing Regions to benefit from the risk mitigation controls in place at the respective clearinghouse. The &#8220;Credit Risk&#8221; section in this report contains more information on the management of credit risk. 
+
+Regions also uses derivatives to meet the needs of its customers. Interest rate swaps, interest rate options and foreign exchange forwards are the most common derivatives sold to customers. Other derivative instruments with similar characteristics are used to hedge market risk and minimize volatility associated with this portfolio. Instruments used to service customers are held in the trading account, with changes in value recorded in the consolidated statements of income. 
+
+The primary objective of Regions&#8217; hedging strategies is to mitigate the impact of interest rate changes, from an economic perspective, on net interest income and other financing income and the net present value of its balance sheet. The overall effectiveness of these hedging strategies is subject to market conditions, the quality of Regions&#8217; execution, the accuracy of its valuation assumptions, counterparty credit risk and changes in interest rates. 
+
+See Note 8 "Derivative Financial Instruments and Hedging Activities" to the consolidated financial statements for a tabular summary of Regions&#8217; year-end derivatives positions and further discussion. 
+
+Regions accounts for residential MSRs at fair market value with any changes to fair value being recorded within mortgage income. Regions enters into derivative transactions to economically mitigate the impact of market value fluctuations related to residential MSRs. Derivative instruments entered into in the future could be materially different from the current risk profile of Regions&#8217; current portfolio. 
+
+LIBOR TRANSITION 
+
+On March 5, 2021, the FCA announced that LIBOR would not be available for use after December 31, 2021 and would not be published after June 30, 2023. Regions ceased origination of all new LIBOR-based lending on December 31, 2021. Existing contracts referencing USD LIBOR settings must be remediated no later than June 30, 2023. Regions holds instruments that may be impacted by the discontinuance of LIBOR, including loans, investments, derivative products, floating-rate obligations, and other financial instruments that use LIBOR as a benchmark rate. The Company has established a LIBOR Transition Program, which includes dedicated leadership and staff, with all relevant business lines and support groups engaged. As part of this program, the Company continues to identify, assess, and monitor risks associated with the discontinuation of LIBOR. Steps to mitigate risks associated with the transition are being overseen by Regions&#8217; Executive LIBOR Steering Committee. Regions is following industry efforts to develop alternative reference rates and has been offering new benchmarks as they are adopted by regulatory agencies and industry groups. 
+
+Regions has taken proactive steps to facilitate the transition on behalf of customers, which include: 
+
+&#8226; The adoption and ongoing implementation of fallback provisions that provide for the determination of replacement rates for LIBOR-linked financial products. 
+
+&#8226; The adoption of new products linked to alternative reference rates, such as adjustable-rate mortgages, consistent with guidance provided by the U.S. regulators, ARRC, and GSEs . 
+
+&#8226; The discontinuation of LIBOR-based commercial lending on December 31, 2021, consistent with regulatory guidelines. 
+
+Regions continues to evaluate its financial and operational infrastructure in its effort to transition all financial and strategic processes, systems, and models to reference rates other than LIBOR. Regions has also implemented processes to educate all client-facing associates and coordinate communications with customers regarding the transition. 
+
+Regions has exposure to LIBOR-based products throughout several lines of business. As of March 31, 2023, Regions had the following exposures that reference LIBOR: 
+
+&#8226; Approximately $7.9 billion of total commercial and investor real estate loans, of which approximately $7.1 billion mature after June 30, 2023; 
+
+&#8226; Approximately $689.5 million of total consumer loans, all of which mature after June 30, 2023; 
+
+&#8226; Securities within the investment portfolio of approximately $232 million, all of which mature after June 30, 2023; 
+
+&#8226; Notional amount of interest rate derivatives totaling approximately $75.6 billion, of which approximately $73.1 billion mature after June 30, 2023; 
+
+&#8226; Series B and C preferred stock with total carrying values of $433 million and $490 million, respectively, that reference LIBOR when their dividend rate begins to float after LIBOR is no longer published. The Company expects to transition Series B and C preferred stock to SOFR pursuant to the Adjustable Interest Rate Act prior to the transition deadline. 
+
+On March 15, 2022, the Adjustable Interest Rate Act was signed into law with the purpose of establishing a clear and uniform process for replacing LIBOR in existing contracts. Among the provisions of this legislation, contracts may be transitioned to SOFR to gain a legal safe harbor. The Company has assessed the impact of this legislation and expects to allow certain clients to fallback to SOFR upon the cessation of LIBOR, consistent with the guidelines in the legislation. 
+
+In the third quarter of 2020, Regions adopted temporary accounting relief for affected transactions that reference LIBOR. See Note 1 &#8220;Summary of Significant Accounting Policies&#8221; in Regions' Annual Report on Form 10-K for the year ended December 31, 2020 for details. 
+
+LIQUIDITY 
+
+Liquidity is an important factor in the financial condition of Regions and affects Regions&#8217; ability to meet the needs of the Company and its customers. Regions&#8217; goal in liquidity management is to maintain diverse liquidity sources and reserves sufficient to satisfy the cash flow requirements of depositors and borrowers, under normal and stressed conditions. Accordingly, Regions maintains a variety of liquidity sources to fund its obligations, as further described below. See also Note 11 "Commitments, Contingencies and Guarantees" to the consolidated financial statements for additional discussion of the Company&#8217;s funding requirements. Furthermore, Regions performs specific procedures, including scenario analyses and stress testing to evaluate and maintain appropriate levels of available liquidity in alignment with liquidity risk. 
+
+Regions' operation of its business provides a generally balanced liquidity base which is comprised of customer assets, consisting principally of loans, and funding provided by customer deposits and borrowed funds. Maturities in the loan portfolio provide a steady flow of funds, and are supplemented by Regions' deposit base. 
+
+Cash reserves, liquid assets and secured borrowing capabilities aid in the management of liquidity in normal and stressed conditions, and/or meeting the need of contingent events such as obligations related to potential litigation. As part of its normal management practice, Regions maintains collateral and operational readiness to utilize secured funding sources such as FHLB (in accordance with applicable daily limits), FRB or BTFP on a same-day basis. While the securities portfolio is a primary source of liquidity, the secured borrowing capabilities, in addition to cash reserves on hand, assist in alleviating the Company's need to sell securities for funding purposes. Liquidity needs can also be met by borrowing funds in national money markets, though Regions does maintain limits on short-term unsecured funding due to the volatility that can affect such markets. 
+
+The following table summarizes the Company's available sources of liquidity as of March 31, 2023: 
+
+Table 21&#8212;Liquidity Sources 
+
+Availability as of March 31, 2023 (in billions) 
+
+Cash at the FRB (1) 
+
+$ 6.4 
+
+Liquid securities free to use, including at BTFP (2) 
+
+20.7 Liquid corporate bonds 0.6 Other unencumbered securities 0.1 FHLB borrowing availability 13.2 FRB borrowing availability through the discount window 12.8 Total liquidity sources $ 53.8 
+
+____ 
+
+(1) Includes small in transit items that may not yet be reflected in the Fed master account closing balance. 
+
+(2) Securities pledged under the BTFP are measured at par value, as provided in the program, resulting in additional collateral of approximately $1.7 billion at March 31, 2023. 
+
+The balance with the FRB is the primary component of the balance sheet line item &#8220;interest-bearing deposits in other banks.&#8221; At March 31, 2023, Regions had approximately $6.4 billion in cash on deposit with the FRB and other depository institutions, a decrease from approximately $9.2 billion at December 31, 2022, driven by the expected decline in deposits during the period. Refer to the "Cash and Cash Equivalents" and "Deposits" sections for more information. 
+
+The securities portfolio also serves as a primary source and storehouse of liquidity. Proceeds from maturities and principal and interest payments of securities provide a continual flow of funds available for cash needs (see Note 2 "Debt Securities" to the consolidated financial statements). Furthermore, the highly liquid nature of the available for sale securities portfolio (for example, the agency guaranteed MBS portfolio) can be readily used as a source of cash through various secured borrowing arrangements, including the BTFP. In March 2023, the Federal Reserve created the BTFP as an additional liquidity source, under which securities may be pledged at their par value for a lending arrangement up to one year in length. Regions' securities portfolio consists of U.S. Treasury securities, federal agency securities, MBS and corporate and other debt. In evaluating the liquidity within the securities portfolio, "liquid securities free to use" are primarily comprised of U.S Treasury securities and agency MBS. These highly liquid securities include free to pledge securities as well as the incremental borrowing availability under the BTFP, which is based on collateral values being measured at par value under the program. Additionally, certain corporate bonds are considered to be highly liquid. Additionally, other unencumbered securities, primarily non-agency commercial MBS, serve as a source of liquidity. 
+
+Regions&#8217; financing arrangement with the FHLB adds additional flexibility in managing the Company's liquidity position. As of March 31, 2023, Regions had $2.0 billion in short-term FHLB borrowings and had additional borrowing capacity from the FHLB, as shown in Table 21. FHLB borrowing capacity is determined based on eligible securities and loan amounts that can be used in collateral for future borrowing capacity. Additionally, investment in FHLB stock is required in relation to the level of outstanding borrowings. The FHLB has been and is expected to continue to be a reliable and economical source of funding. 
+
+Regions has additional borrowing availability with the FRB through the discount window as shown in Table 21. FRB borrowing capacity is determined based on eligible loan amounts that can be used as collateral for future borrowing capacity. 
+
+Regions maintains a shelf registration statement with the SEC that can be utilized by Regions to issue various debt and/or equity securities. Additionally, Regions' Board has authorized Regions Bank to issue up to $10 billion in aggregate principal amount of bank notes outstanding at any one time. Refer to Note 11 "Borrowed Funds" to the consolidated financial statements in the 2022 Annual Report on Form 10-K for additional information. 
+
+Regions may, from time to time, consider opportunistically retiring outstanding issued securities, including subordinated debt in privately negotiated or open market transactions for cash or common shares. Regulatory approval would be required for 
+
+retirement of some instruments. See Note 5 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" to the consolidated financial statements for additional information. 
+
+Regions' liquidity policy requires the holding company to maintain cash sufficient to cover the greater of (1) 18 months of debt service and other cash needs or (2) a minimum cash balance of $500 million. Cash and cash equivalents at the holding company totaled $2.1 billion at March 31, 2023. Overall liquidity risk limits are established by the Board through its Risk Appetite Statement and Liquidity Policy. The Company's Board, LROC and ALCO regularly review compliance with the established limits. 
+
+CREDIT RISK 
+
+Regions&#8217; objective regarding credit risk is to maintain a credit portfolio that provides for stable credit costs with acceptable volatility through an economic cycle. Regions has various processes to manage credit risk as described below. In order to assess the risk profile of the loan portfolio, Regions considers risk factors within the loan portfolio segments and classes, the current U.S. economic environment and that of its primary banking markets, as well as counterparty risk. See the "Portfolio Characteristics" section found earlier in this report for further information regarding the risk characteristics of each loan type. See further discussion of the current U.S. economic environment in the "Economic Environment in Regions' Banking Markets" section and counterparty risk below. 
+
+INFORMATION SECURITY RISK 
+
+Regions faces information security risks, such as evolving and adaptive cyber-attacks that are conducted regularly against financial institutions in attempts to compromise or disable information systems. Such attempts have increased in recent years, and the trend is expected to continue for a number of reasons, including increases in technology-based products and services used by us and our customers, the growing use of mobile, cloud, and other emerging technologies, and the increasing sophistication and activities of organized crime, hackers, terrorists, nation-states, activists and other external parties or fraud on the part of employees. 
+
+Even when Regions successfully prevents cyber-attacks to its own network, the Company may still incur losses that result from customers' account information being obtained through breaches of retailers' networks that enable customer transactions. The related fraud losses, as well as the costs of re-issuing new cards, may impact Regions' financial results. In addition, Regions also relies on some vendors to provide certain business infrastructure components, and although Regions actively assesses and monitors the information security capabilities of these vendors, Regions' reliance on them may also increase exposure to information security risk. 
+
+In the event of a cyber-attack or other data breach, Regions may be required to incur significant expenses, including with respect to remediation costs, costs of implementing additional preventative measures, addressing any reputational harm and addressing any related regulatory inquiries or civil litigation arising from the event. Refer to the "Information Security Risk" section in Management's Discussion and Analysis included in the Annual Report on Form 10-K for the year ended December 31, 2022 for further discussion of Regions' information security risk. 
+
+PROVISION FOR (BENEFIT FROM) CREDIT LOSSES 
+
+The provision for (benefit from) credit losses is used to maintain the allowance for loan losses and the reserve for unfunded credit losses at a level that in management's judgment is appropriate to absorb expected credit losses over the contractual life of the loan and credit commitment portfolio at the balance sheet date. The provision for credit losses totaled $135 million during the first quarter of 2023 compared to a benefit from credit losses of $36 million during the first quarter of 2022. Refer to the "Allowance" section for further detail. 
+
+NON-INTEREST INCOME 
+
+Table 22&#8212;Non-Interest Income 
+
+&#160; Three Months Ended March 31 Quarter-to-Date Change 3/31/2023 vs. 3/31/2022 &#160; 2023 2022 Amount Percent &#160; (Dollars in millions) Service charges on deposit accounts $ 155 $ 168 $ (13) (7.7) % Card and ATM fees 121 124 (3) (2.4) % Capital markets income 42 73 (31) (42.5) % Investment management and trust fee income 76 75 1 1.3 % Mortgage income 24 48 (24) (50.0) % Investment services fee income 36 26 10 38.5 % Commercial credit fee income 26 22 4 18.2 % Bank-owned life insurance 17 14 3 21.4 % Market valuation adjustments on employee benefit assets - other (1) (14) 13 (92.9) % Securities gains (losses), net (2) &#8212; (2) NM Other miscellaneous income 40 48 (8) (16.7) % $ 534 $ 584 $ (50) (8.6) % 
+
+_______ 
+
+NM - Not Meaningful 
+
+Service Charges on Deposit Accounts 
+
+Service charges on deposit accounts include overdraft fees, corporate analysis service charges, non-sufficient fund fees, and other customer transaction-related service charges. During the three months ended March 31, 2023, service charges decreased compared to the same period in 2022, primarily as a result of overdraft-related policy enhancements that eliminated non-sufficient fund fees in mid-June 2022. An increase in fees from treasury management partially offset the overall decline in service charges. 
+
+Capital Markets Income 
+
+Capital markets income primarily relates to capital raising activities that include securities underwriting and placement, loan syndication, as well as foreign exchange, derivatives, merger and acquisition and other advisory services. Capital markets income decreased in the three months ended March 31, 2023 compared to the same period in 2022, driven primarily by negative credit/debit valuation adjustments due to rate and spread movements. Partially offsetting the negative valuation adjustments was an increase in M&#38;A advisory fees in the first three months of 2023 compared to the same period in 2022 due to timing of transactions. 
+
+Mortgage Income 
+
+Mortgage income is generated through the origination and servicing of residential mortgage loans for long-term investors and sales of residential mortgage loans in the secondary market. The decrease in mortgage income in the three months ended March 31, 2023 compared to the same period in 2022 was due primarily to lower mortgage production and sales as a result of higher market interest rates. Additionally, mortgage income for the three months ended March 31, 2022 included approximately $12 million in gains associated with the re-securitization and sale of Ginnie Mae loans previously repurchased from their pools. Partially offsetting these declines in mortgage income was an increase in mortgage servicing income, which overcame a decline in mortgage servicing rights valuation and net hedges. 
+
+Investment Services Fee Income 
+
+Investment services fee income represents income earned from investment advisory services. Investment services fee income increased during the three months ended March 31, 2023 compared to the same period in 2022 due primarily to the rising interest rate environment, which has driven increases in fixed annuity rates and the related investment income. Also contributing was an increase in assets under management due to an increase in financial advisors. 
+
+Market Value Adjustments on Employee Benefit Assets 
+
+Market value adjustments on employee benefit assets are the reflection of market value variations related to assets held for certain employee benefits. Market value adjustments on employee benefit assets decreased in the three months ended March 31, 2023 compared to the same period in 2022 due to market volatility. The adjustments are offset in salaries and benefits and other non-interest expense. 
+
+Securities Gains (Losses), net 
+
+Net securities gains (losses) primarily result from the Company's asset/liability management process. See Table 1 "Debt Securities" section and Note 2 "Debt Securities" to the consolidated financial statements for more information. 
+
+Other Miscellaneous Income 
+
+Other miscellaneous income includes net revenue from affordable housing, valuation adjustments to equity investments (other than the item listed separately in Table 22 above), fees from safe deposit boxes, check fees and other miscellaneous income. Net revenue from affordable housing includes actual gains and losses resulting from the sale of affordable housing investments, cash distributions from the investments and any related impairment charges. Other miscellaneous income decreased in the three months ended March 31, 2023 compared to the same period in 2022 primarily due to a decline in commercial loan and leasing related fee income, a decrease in SBIC income, and a decline in other miscellaneous income. 
+
+NON-INTEREST EXPENSE 
+
+Table 23&#8212;Non-Interest Expense &#160; Three Months Ended March 31 Quarter-to-Date Change 3/31/23 versus 3/31/22 &#160; 2023 2022 Amount Percent &#160; (Dollars in millions) Salaries and employee benefits $ 616 $ 546 $ 70 12.8 % Equipment and software expense 102 95 7 7.4 % Net occupancy expense 73 75 (2) (2.7) % Outside services 39 38 1 2.6 % Marketing 27 24 3 12.5 % Professional, legal and regulatory expenses 19 17 2 11.8 % Credit/checkcard expenses 14 26 (12) (46.2) % FDIC insurance assessments 25 14 11 78.6 % Visa class B shares expense 8 5 3 60.0 % Branch consolidation, property and equipment charges 2 1 1 100.0 % Other miscellaneous expenses 102 92 10 10.9 % $ 1,027 $ 933 $ 94 10.1 % 
+
+Salaries and Employee Benefits 
+
+Salaries and employee benefits consist of salaries, incentive compensation, long-term incentives, payroll taxes, and other employee benefits such as 401(k), pension, and medical, life and disability insurance, as well as, expenses from liabilities held for employee benefit purposes. Salaries and employee benefits increased during the first three months of 2023 compared to the same period in 2022 primarily due to an increase in base salaries resulting from annual merit increases in the first quarter of 2023 compared to the second quarter of 2022, higher benefit expenses and higher incentive compensation. Full-time equivalent headcount increased from 19,723 at March 31, 2022 to 20,113 at March 31, 2023 further contributing to the increase in salaries and employee benefits. 
+
+Credit/checkcard Expenses 
+
+Credit/checkcard expenses include credit and checkcard fraud and expenses. Credit/checkcard expenses decreased in the first three months of 2023 compared to the same period in 2022 primarily due to a debit card accrual in the first quarter 2022 related to a previous matter that did not repeat. 
+
+FDIC Insurance Assessments 
+
+FDIC insurance assessments increased during in the first three months of 2023 compared to the same period in 2022 due to higher FDIC premium expenses primarily resulting from a two basis point increase in the quarterly assessment rate schedules charged to all financial institutions effective for the first quarter of 2023 and, to a lesser degree, as a result of loan growth and declining cash balances. 
+
+The FDIC has estimated losses resulting from recent large regional institution failures, including the portion attributable to protection of uninsured depositors under the Systemic Risk Exception. Federal law requires that any losses to the FDIC&#8217;s Deposit Insurance Fund related to this action be repaid by a special assessment on banks. While previous special assessments have been allocated to larger institutions based on size, the FDIC has wide discretion on how to levy the special assessments. Regions is unable to reasonably estimate the impact or timing of recognition at this time. 
+
+Other Miscellaneous Expenses 
+
+Other miscellaneous expenses include expenses related to communications, postage, supplies, certain credit-related costs, foreclosed property expenses, mortgage repurchase costs, operational losses and other costs (benefits) related to employee benefit plans. Other miscellaneous expenses increased in the first quarter of 2023 compared to the same period in 2022 primarily due to higher non-service based pension-related expenses. 
+
+INCOME TAXES 
+
+The Company&#8217;s income tax expense for the three months ended March 31, 2023 was $177 million compared to $154 million for the three months ended March 31, 2022, resulting in effective tax rates of 22.4 percent and 21.9 percent, respectively. See the "First Quarter Overview" for the Company's near-term expectations for future tax rates. 
+
+The effective tax rate is affected by many factors including, but not limited to, the level of pre-tax income, the mix of income between various tax jurisdictions with differing tax rates, enacted tax legislation, net tax benefits related to affordable housing investments, bank-owned life insurance income, tax-exempt interest and nondeductible expenses. In addition, the effective tax rate is affected by items that may occur in any given period but are not consistent from period-to-period, such as the termination of certain leveraged leases, share-based payments, valuation allowance changes and changes to unrecognized tax benefits. Accordingly, the comparability of the effective tax rate between periods may be impacted. 
+
+At March 31, 2023, the Company reported a net deferred tax asset of $720 million compared to $943 million at December 31, 2022. The change in the net deferred tax was due primarily to the deferred tax impact of decreases in unrealized losses on securities available for sale and derivative instruments arising during the period. 
+

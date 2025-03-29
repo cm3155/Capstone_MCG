@@ -1,0 +1,732 @@
+ Item 2. &#160; Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward-Looking Statements 
+
+&#160; 
+
+This Quarterly Report in Form 10-Q contains certain forward-looking statements, within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, which are intended to be covered by the safe harbor for "forward-looking statements" provided by the Private Securities Litigation Reform Act of 1995. These statements may include statements that expressly or implicitly predict future results, performance or events. Statements other than statements of historical fact are forward-looking statements. You can find many of these statements by looking for words such as "anticipates," "expects," "believes," "estimates," "intends" and "forecast," and words or phrases of similar meaning. 
+
+We make forward-looking statements including, but not limited to, statements made about the combined company&#8217;s prospects and results following the merger with Umpqua Holdings Corporation and the merger of Columbia State Bank into Umpqua Bank (collectively, the &#8220;Mergers&#8221;), completed in the first quarter 2023; LIBOR; derivatives and hedging; the results and performance of models and economic forecasts used in our calculation of the ACL; projected sources of funds and the Company's liquidity position and deposit level and types; our securities portfolio; loan sales; adequacy of our ACL, including the reserve for unfunded commitments; provision for credit losses; non-performing loans and future losses; our commercial real estate portfolio, its collectability and subsequent charge-offs; resolution of non-accrual loans; mortgage volumes and the impact of rate changes; the economic environment; inflation and interest rates generally; litigation; dividends; junior subordinated debentures; fair values of certain assets and liabilities, including MSR values and sensitivity analyses; tax rates; deposit pricing; and the effect of accounting pronouncements and changes in accounting methodology. 
+
+Forward-looking statements involve substantial risks and uncertainties, many of which are difficult to predict and are generally beyond our control. There are many factors that could cause actual results to differ materially from those contemplated by these forward-looking statements. Risks and uncertainties include those set forth in our filings with the Securities and Exchange Commission and the following factors that might cause actual results to differ materially from those presented: 
+
+&#8226; changes in general economic, political, or industry conditions, and in conditions impacting the banking industry specifically; 
+
+&#8226; deterioration in economic conditions that could result in increased loan and lease losses, especially those risks associated with concentrations in real estate related loans; 
+
+&#8226; uncertainty in U.S. fiscal and monetary policy, including the interest rate policies of the Federal Reserve or the effects of any declines in housing and commercial real estate prices, high or increasing unemployment rates, continued inflation, or any recession or slowdown in economic growth particularly in the western United States; 
+
+&#8226; volatility and disruptions in global capital and credit markets; 
+
+&#8226; the impact of bank failures or adverse developments at other banks on general investor sentiment regarding the stability and liquidity of banks; 
+
+&#8226; changes in interest rates that could significantly reduce net interest income and negatively affect asset yields and valuations and funding sources, including impacts on prepayment speeds; 
+
+&#8226; the impact of transition of LIBOR to other indexes including SOFR; 
+
+&#8226; competitive pressures among financial institutions and nontraditional providers of financial services, including on product pricing and services; 
+
+&#8226; continued consolidation in the financial services industry resulting in the creation of larger financial institutions that have greater resources; 
+
+&#8226; our ability to successfully, including on time and on budget, implement and sustain information technology product and system enhancements and operational initiatives; 
+
+&#8226; our ability to attract new deposits and loans and leases; 
+
+&#8226; our ability to retain deposits, especially during branch consolidations and integration activities related to the Merger; 
+
+&#8226; our ability to achieve the efficiencies and enhanced financial and operating performance we expect to realize from investments in personnel, acquisitions, and infrastructure; 
+
+&#8226; the possibility that our recorded goodwill could become impaired, which may have an adverse impact on our earnings and capital; 
+
+&#8226; demand for financial services in our market areas; 
+
+&#8226; stability, cost, and continued availability of borrowings and other funding sources, such as brokered and public deposits; 
+
+Table of Contents 
+
+&#8226; changes in legal or regulatory requirements or the results of regulatory examinations that could increase expenses or restrict growth; 
+
+&#8226; changes in the scope and cost of FDIC insurance and other coverage; 
+
+&#8226; our ability to manage climate change concerns, related regulations, and potential impacts on the creditworthiness of our customers; 
+
+&#8226; our ability to recruit and retain key management and staff; 
+
+&#8226; our ability to raise capital or incur debt on reasonable terms; 
+
+&#8226; regulatory limits on the Bank's ability to pay dividends to the Company and that could impact the timing and amount of dividends to shareholders; 
+
+&#8226; financial services reform and the impact of legislation and implementing regulations on our business operations, including our compliance costs, interest expense, and revenue; 
+
+&#8226; a breach or failure of our operational or security systems, or those of our third-party vendors, including as a result of cyber-attacks; 
+
+&#8226; success, impact, and timing of Columbia's business strategies, including market acceptance of any new products or services; 
+
+&#8226; the outcome of legal proceedings; 
+
+&#8226; our ability to effectively manage credit risk, interest rate risk, market risk, operational risk, legal risk, liquidity risk and regulatory and compliance risk; 
+
+&#8226; the possibility that the anticipated benefits of the Merger are not realized when expected or at all, including as a result of the impact of, or problems arising from, the integration of the two companies or as a result of the strength of the economy and competitive factors in the areas where Columbia does business; 
+
+&#8226; potential adverse reactions or changes to business or employee relationships, including those resulting from the integration of the two companies and banks; 
+
+&#8226; economic forecast variables that are either materially worse or better than end of quarter projections and deterioration in the economy that exceeds current consensus estimates; 
+
+&#8226; the effect of geopolitical instability, including wars, conflicts, and terrorist attacks; 
+
+&#8226; natural disasters, including earthquakes, tsunamis, flooding, fires, pandemics, and other similar unexpected events outside of our control; 
+
+&#8226; our ability to effectively manage problem credits; 
+
+&#8226; our ability to successfully negotiate with landlords or reconfigure facilities; and 
+
+&#8226; the effects of any damage to our reputation resulting from developments related to any of the items identified above. 
+
+There are many factors that could cause actual results to differ materially from those contemplated by these forward-looking statements. Forward-looking statements are made as of the date of this Quarterly Report on Form 10-Q. We do not intend to update these forward-looking statements. Readers should consider any forward-looking statements in light of this explanation, and we caution readers about relying on forward-looking statements. 
+
+&#160; 
+
+General 
+
+Columbia Banking System, Inc. (referred to in this report as &#8220;we,&#8221; &#8220;our,&#8221; &#8220;the Company&#8221; and &#8220;Columbia&#8221;) is a registered financial holding company. Columbia completed its previously-announced merger with Umpqua Holdings Corporation on February 28, 2023. This combined two premier banks in the Northwest to create one of the largest banks headquartered in the West. Columbia completed its core systems conversion on March 20, 2023, and branch consolidations occurred through the second quarter of 2023. 
+
+Through our wholly-owned banking subsidiary Umpqua Bank (&#8220;the Bank&#8221;), we provide a broad range of banking, private banking, mortgage and other financial services to corporate, institutional, small business, and individual customers. FinPac, a commercial equipment leasing company, is a Bank subsidiary. The Company&#8217;s subsidiary Columbia Trust Company (&#8220;Columbia Trust&#8221;) is an Oregon trust company that provides agency, fiduciary and other related trust services with offices in Washington, Oregon, and Idaho. Along with its subsidiaries, the Company is subject to the regulations of state and federal agencies and undergoes regular examinations by these regulatory agencies. 
+
+Table of Contents 
+
+The vast majority of the Bank&#8217;s loans and deposits are within its service areas in Oregon, Washington, California, Idaho, Nevada, Arizona, Colorado, and Utah. Umpqua Bank is an Oregon state-chartered commercial bank, the deposits of which are insured in whole or in part by the FDIC. 
+
+Executive Overview 
+
+The following is a discussion of our results for the three and six months ended June 30, 2023, as compared to the applicable prior periods. 
+
+Financial Performance 
+
+Comparison of current quarter to prior quarter 
+
+&#160; 
+
+&#8226; Earnings per diluted common share was $0.64 for the three months ended June 30, 2023, as compared to $(0.09) for the three months ended March 31, 2023. The increase for the three months ended June 30, 2023, as compared to the prior period, was primarily driven by an increase in interest income on loans and leases due to the prior quarter only including one month as a combined company, a decrease in merger-related expenses and a decrease in provision expense due to the prior quarter including the initial provision for non-PCD loans added with the Merger. These favorable changes were partially offset by an increase in interest expense as a result of higher funding costs related to deposit and liability mix shifting and rising interest rates. 
+
+&#160; 
+
+&#8226; Net interest margin, on a tax-equivalent basis, was 3.93% for the three months ended June 30, 2023, as compared to 4.08% for the three months ended March 31, 2023. The decrease for the three months ended June 30, 2023 was due to higher average yield on interest-bearing liabilities in addition to a lower mix of loans as a percentage of earning assets, due in part to the full-quarter of the combined company balance sheet. The net interest margin was also impacted by lower accretion as higher interest rates have slowed prepayment speeds, which has delayed the realization of the discount on acquired loans and securities into income. 
+
+&#8226; Non-interest income was $39.7 million for the three months ended June 30, 2023, as compared to $54.7 million for the three months ended March 31, 2023. The decrease was primarily driven by a $24.3 million unfavorable change in cumulative fair value adjustments and MSR hedging activity, partially offset by increases in financial services and trust revenue, service charges on deposits, and card-based fees. 
+
+&#8226; Non-interest expense was $328.6 million for the three months ended June 30, 2023, as compared to $342.8 million for the three months ended March 31, 2023. The decrease reflects an $86.2 million decrease in merger-related expenses, partially offset by the full quarter run rate of the combined organization. 
+
+Comparison of current year-to-date to prior year period 
+
+&#8226; Earnings per diluted common share was $0.65 for the six months ended June 30, 2023, as compared to $1.31 for the six months ended June 30, 2022. The decrease for the six months ended June 30, 2023, as compared to the prior period, was primarily driven by an increase in interest expense as a result of higher funding costs related to deposit and liability mix shifting and rising interest rates and higher merger-related expense associated with the Merger, partially offset by higher interest income on loans and leases as a result of additional loans acquired through the Merger. An increase in average diluted shares to 182.9 million for the six months ended June 30, 2023, as compared to 129.7 million for the six months ended June 30, 2022, also contributed to the decline in earnings per diluted common share between periods. The increase in average diluted shares reflects shares issued on February 28, 2023, in connection with the Merger. 
+
+&#160; 
+
+&#8226; Net interest margin, on a tax-equivalent basis, was 3.99% for the six months ended June 30, 2023, as compared to 3.28% for the six months ended June 30, 2022. The increase for the six months ended June 30, 2023 was due to an increase in interest earning asset average balances and yields given upward interest rate movements, with the largest average rate increase in the loan category, as well as four months of purchase accounting accretion and amortization. These effects were partially offset by higher funding costs. Trends affecting net interest margin had a similar impact on net interest income, which increased to $858.7 million for the six months ended June 30, 2023, compared to $476.9 million for the six months ended June 30, 2022, partly reflecting a larger balance sheet for the six months ended June 30, 2023, as a result of the Merger. 
+
+Table of Contents 
+
+&#8226; Non-interest income was $94.4 million for the six months ended June 30, 2023, as compared to $135.2 million for the six months ended June 30, 2022. The decrease was primarily driven by a $32.6 million unfavorable change in cumulative fair value adjustments and MSR hedging activity and a $25.3 million decrease in revenue related to origination and sales of residential mortgages, partially offset by increases in financial services and trust revenue, service charges on deposits, and card-based fees due to four months of the higher run rate for the combined organization. 
+
+&#8226; Non-interest expense was $671.4 million for the six months ended June 30, 2023, as compared to $362.0 million for the six months ended June 30, 2022. The increase for the six months ended June 30, 2023 reflects an increase in merger-related expenses of $140.6 million in addition to four months of the higher expense run rate for the combined organization. 
+
+Comparison of current period to prior year end period 
+
+&#8226; Total loans and leases were $37.0 billion as of June 30, 2023, an increase of $10.9 billion, as compared to December 31, 2022. The increase in total loans was primarily due to $10.9 billion in loans acquired through the Merger. 
+
+&#160; 
+
+&#8226; Total deposits were $40.8 billion as of June 30, 2023, an increase of $13.8 billion, as compared to December 31, 2022. The increase was primarily due to $15.2 billion in deposits assumed through the Merger, partially offset by declining existing customer balances due primarily to the impact of inflation and market liquidity tightening. 
+
+&#160; 
+
+&#8226; Total consolidated assets were $53.6 billion and $31.8 billion as of June 30, 2023 and December 31, 2022, respectively. The increase was primarily due to $19.2 billion in acquired assets as a result of the Merger, with the bulk of the increase being attributable to loans and investment securities and an increase in goodwill of $1.0 billion during the period. 
+
+Credit Quality 
+
+&#8226; Non-performing assets increased to $80.3 million, or 0.15% of total assets, as of June 30, 2023, compared to $58.8 million, or 0.18% of total assets, as of December 31, 2022. Non-performing loans and leases were $80.0 million, or 0.22% of total loans and leases, as of June 30, 2023, compared to $58.6 million, or 0.22% of total loans and leases, as of December 31, 2022. The increases in non-performing assets and non-performing loans primarily reflect assets acquired as a result of the Merger. 
+
+&#8226; The allowance for credit losses was $424.4 million as of June 30, 2023, an increase of $109.1 million compared to December 31, 2022. The increase in the allowance for credit losses was due to the growth of the loan portfolio, largely due to loans acquired through the Merger, and changes in the economic forecasts used in the credit models. The allowance also includes a $26.5 million upward adjustment related to PCD loans acquired through the Merger. 
+
+&#8226; The Company had a provision for credit losses of $16.0 million and $121.6 million for the three and six months ended June 30, 2023, respectively. This compares to a provision for credit losses of $105.5 million for the three months ended March 31, 2023 and $23.5 million for the six months ended June 30, 2022. The decrease for the three months ended June 30, 2023 compared to the prior quarter was mainly due to the prior quarter including an $88.4 million initial provision for historical Columbia non-PCD loans related to the Merger. This initial provision, in addition to changes in the economic forecast, contributed to the increase for the six month period ended June 30, 2023 when compared to the same period in the prior year. 
+
+Liquidity 
+
+&#8226; Total cash and cash equivalents were $3.4 billion as of June 30, 2023, an increase of $2.1 billion from December 31, 2022. The increase in cash and cash equivalents is mainly due to a strategic decision to increase on-balance sheet liquidity. 
+
+&#8226; Including secured off-balance sheet lines of credit, total available liquidity was $18.1 billion as of June 30, 2023, representing 34% of total assets, 44% of total deposits, and 134% of uninsured deposits. 
+
+Table of Contents 
+
+Capital and Growth Initiatives 
+
+&#8226; Columbia completed the planned consolidation of 47 branches during the latter half of the second quarter of 2023. 
+
+&#8226; The Company remains on track to realize $135 million in annualized cost-savings expectations by the end of the third quarter, inclusive of $105 million in annualized savings achieved through June 30, 2023. 
+
+&#8226; The Company's total risk-based capital ratio was 11.3% and its common equity tier 1 ("CET1") capital ratio was 9.2% as of June 30, 2023. As of December 31, 2022, the Company's total risk-based capital ratio was 13.7% and its CET1 capital ratio was 11.0%. The decline in regulatory capital ratios was primarily driven by initial fair value marks related to historical Columbia asset and liability balances as a result of the Merger. 
+
+&#8226; Columbia paid a quarterly cash dividend of $0.36 per common share to shareholders on June 15, 2023. 
+
+FDIC Special Assessment 
+
+&#8226; In May 2023, the FDIC released a proposed rule that would impose a special assessment to recover the losses to the deposit insurance fund resulting from the closures of Silicon Valley Bank and Signature Bank. Under the proposed rule, the assessment base would be the estimated uninsured deposits, as reported in Umpqua Bank and Columbia State Bank's December 31, 2022 Call Reports, excluding the first $5 billion in estimated uninsured deposits, allocated in proportion to each Bank's estimated uninsured deposits. The special assessments would be collected over eight quarters in 2024 and 2025, with the first assessment period beginning January 1, 2024. A final rule is not expected until later in 2023, after a public comment period and the FDIC's final deliberations have concluded. The ultimate impact and timing of recognition will depend on the final outcome of the ongoing FDIC deliberations. 
+
+Critical Accounting Estimates 
+
+In preparing the condensed consolidated financial statements, management is required to make estimates and assumptions that affect the reported amounts of assets and liabilities as of the date of the balance sheet and revenues and expenses for the period. Actual results could differ significantly from those estimates. 
+
+The condensed consolidated financial statements are prepared in conformity with GAAP and follow general practices within the financial services industry, in which the Company operates. This preparation requires management to make estimates, assumptions, and judgments that affect the amounts reported in the financial statements and accompanying notes. These estimates, assumptions, and judgments are based on information available as of the date of the financial statements; accordingly, as this information changes, actual results could differ from the estimates, assumptions, and judgments reflected in the financial statements. Certain estimates inherently have a greater reliance on the use of assumptions and judgments and, as such, have a greater possibility of producing results that could be materially different than originally reported. 
+
+As a result of the Merger, the Company has updated our critical accounting estimates. Management believes the ACL, business combinations and goodwill estimates are important to the portrayal of the Company's financial condition and results of operations and requires difficult, subjective, or complex judgments and, therefore, management considers the following to be critical accounting estimates. 
+
+Allowance for Credit Losses 
+
+The Bank has established an Allowance for Credit Losses Committee, which is responsible for, among other things, regularly reviewing the ACL methodology, including allowance levels, and ensuring that it is designed and applied in accordance with generally accepted accounting principles. 
+
+CECL is not prescriptive in the methodology used to determine the expected credit loss estimate. Therefore, management has flexibility in selecting the methodology. However, the expected credit losses must be estimated over a financial asset's contractual term, adjusted for prepayments, utilizing quantitative and qualitative factors. 
+
+Table of Contents 
+
+The Company utilizes complex models to obtain reasonable and supportable forecasts of future economic conditions dependent upon specific macroeconomic variables related to each of the Company's loan and lease portfolios. Loans and leases deemed to be collateral dependent are individually evaluated for loss based on the value of the underlying collateral or a discounted cash flow analysis. 
+
+The adequacy of the ACL is monitored on a regular basis and is based on management's evaluation of numerous factors, including: the CECL model outputs; quality of the current loan portfolio; the trend in the loan portfolio's risk ratings; current economic conditions; loan concentrations; loan growth rates; past-due and non-performing trends; evaluation of specific loss estimates for all significant problem loans; historical charge-off and recovery experience; and other pertinent information. As of June 30, 2023, the Bank used Moody's Analytics May 2023 Baseline scenario to estimate the ACL. To assess the sensitivity in the ACL results and, when necessary, to inform qualitative adjustments, the Bank used a second scenario, Moody's Analytics May 2023 S2 scenario, that differs in terms of severity within the variables, both favorable and unfavorable. For additional information related to the Company's ACL, see Note 5 in the Notes to Condensed Consolidated Financial Statements in Item 1 of this Quarterly Report on Form 10-Q. 
+
+Because current economic conditions and forecasts can change and future events are inherently difficult to predict, the anticipated amount of estimated credit losses on loans, and therefore the appropriateness of the ACL, could change significantly. It is difficult to estimate how potential changes in any one economic factor or input might affect the overall allowance because a wide variety of factors and inputs are considered in estimating the allowance and changes in those factors and inputs considered may not occur at the same rate and may not be consistent across all product types. Additionally, changes in factors and inputs may be directionally inconsistent, such that improvement in one factor may offset deterioration in others. Management believes that the ACL was adequate as of June 30, 2023. 
+
+Business Combinations and Goodwill 
+
+The Company accounts for business combinations using the acquisition method of accounting. Under this accounting method, the acquired company&#8217;s assets and liabilities are recorded at fair value at the date of the acquisition, except as provided for by the applicable accounting guidance, and the results of operations of the acquired company are combined with the acquiree&#8217;s results from the date of the acquisition forward. The difference between the purchase price and the fair value of the net assets acquired (including identifiable intangible assets) is recorded as goodwill. Management uses significant estimates and assumptions to value such items, including projected cash flows, repayment rates, default rates and losses assuming default, discount rates, and realizable collateral values. The allowance for credit losses for PCD loans is recognized within acquisition accounting. The allowance for credit losses for non-PCD assets is recognized as provision for credit losses in the same reporting period as the acquisition. Fair value adjustments are amortized or accreted into the statement of operations over the estimated life of the acquired assets or assumed liabilities. The purchase date valuations and any subsequent adjustments determine the amount of goodwill recognized in connection with the acquisition. The use of different assumptions could produce significantly different valuation results, which could have material positive or negative effects on our results of operations. The carrying value of goodwill recorded must be reviewed for impairment on an annual basis, as well as on an interim basis if events or changes indicate that the asset might be impaired. An impairment loss must be recognized for any excess of carrying value over fair value of the goodwill. 
+
+The determination of fair values is based on valuations using management&#8217;s assumptions of future growth rates, future attrition, discount rates, multiples of earnings or other relevant factors. In addition, the Company engages third-party specialists to assist in the development of fair values. Preliminary estimates of fair values may be adjusted for a period of time subsequent to the effective time of the acquisition if new information is obtained about facts and circumstances that existed as of the effective time of the acquisition that, if known, would have affected the measurement of the amounts recognized as of that date. Adjustments recorded during this period are recognized in the current reporting period. Management uses various valuation methodologies to estimate the fair value of these assets and liabilities and often involves a significant degree of judgment, particularly when liquid markets do not exist for the particular item being valued. Examples of such items include loans, deposits, identifiable intangible assets, and certain other assets and liabilities. 
+
+Changes in these factors, as well as downturns in economic or business conditions, could have a significant adverse impact on the carrying value of assets, including goodwill and liabilities, which could result in impairment losses affecting our financial statements as a whole and our banking subsidiary in which the goodwill is recorded. 
+
+Table of Contents 
+
+Results of Operations 
+
+As of June 30, 2023, Columbia's financial results for any periods ended prior to February 28, 2023 reflect UHC results only on a standalone basis. In addition, Columbia's reported financial results for the first quarter of 2023 reflect UHC financial results only until the closing of the Merger after the close of business on February 28, 2023. As a result of these two factors, Columbia's financial results for the first and second quarters of 2023 and the six months ended June 30, 2023, may not be directly comparable to prior or future reported periods. 
+
+Comparison of current quarter to prior quarter 
+
+The Company had net income of $133.4 million for the three months ended June 30, 2023, compared to net loss of $14.0 million for the three months ended March 31, 2023. The increase in net income is mainly attributable to an increase in net interest income, a decrease in provision for credit loss and a decrease in non-interest expense, partially offset by a decrease in non-interest income. The increase in net interest income is mainly due to this being the first full quarter of income as a combined company after the Merger, in addition to the favorable impact of higher interest rates as well as the impact of purchase accounting accretion and amortization that was $74.4 million for the quarter, as compared to $31.7 million in the first quarter. At June 30, 2023, the remaining discount on acquired loans and securities was $1.3 billion, the discount is expected to accrete into income over time, providing a steady build to capital. The change in the provision was mainly driven by the prior quarter including the $88.4 million in initial provision for historical Columbia non-PCD loans. The decrease in non-interest expense is mainly due to a reduction in merger-related expenses, partially offset by increases in salaries and benefits, intangible amortization and occupancy and equipment, net, all of which were impacted by the Merger due to this being the first full quarter as a combined company. Intangible amortization was $35.6 million for the quarter, as compared to $12.7 million in the first quarter. At June 30, 2023, the remaining balance of core deposit intangible assets was $666.8 million, being amortized over 10 years using the sum-of-years-digits, based upon the period over which estimated economic benefits are estimated to be received. The decrease in non-interest income was primarily due to a decrease in residential mortgage banking revenue driven by a loss in the MSR hedges and a decrease in other income, which included an unfavorable change in the fair value of certain loans held for investment. 
+
+Comparison of current year-to-date to prior year period 
+
+For the six months ended June 30, 2023, the Company had net income of $119.3 million, compared to net income of $169.7 million for the same period in the prior year. The decrease was mainly attributable to an increase in non-interest expense, an increase in provision for credit losses and a decrease in non-interest income, partially offset by an increase in net interest income. The increase in non-interest expense was mainly driven by higher merger-related expenses, salaries and employee benefits and intangible amortization, all of which were impacted by the Merger. The change in the provision was primarily due to the initial provision for historical Columbia non-PCD loans, in addition to changes in the economic forecast. The decrease in non-interest income is primarily due to a decrease in residential mortgage banking revenue as compared to the prior year, driven by an unfavorable change in valuation inputs or assumptions and lower revenue from the origination and sale of residential mortgages given lower volumes due to rising interest rates. This unfavorable change was partially offset by a favorable change in the fair value of certain loans held for investment. The increase in net interest income was due primarily to higher loan interest income from increasing rates and higher average loan and lease balances, as well as the addition of historical Columbia portfolios, partially offset by higher funding costs. 
+
+Table of Contents 
+
+The following table presents the return on average assets, average common shareholders' equity and average tangible common shareholders' equity for the periods indicated. For each period presented, the table includes the calculated ratios based on reported net income. To the extent return on average common shareholders' equity is used to compare our performance with other financial institutions that do not have merger and acquisition-related intangible assets, we believe it is beneficial to also consider the return on average tangible common shareholders' equity. The return on average tangible common shareholders' equity is calculated by dividing net income by average shareholders' common equity less average goodwill and other intangible assets, net (excluding MSR). The return on average tangible common shareholders' equity is considered a non-GAAP financial measure and should be viewed in conjunction with the return on average common shareholders' equity. 
+
+Return on Average Assets, Common Shareholders' Equity and Tangible Common Shareholders' Equity 
+
+&#160; Three Months Ended Six Months Ended &#160;(dollars in thousands) June 30, 2023 March 31, 2023 June 30, 2023 June 30, 2022 Return on average assets 1.00 % (0.14) % 0.52 % 1.12 % Return on average common shareholders' equity 10.84 % (1.70) % 5.80 % 12.92 % Return on average tangible common shareholders' equity 16.63 % (2.09) % 8.09 % 12.96 % Calculation of average common tangible shareholders' equity: &#160; &#160; &#160; &#160; Average common shareholders' equity $ 4,935,239 $ 3,349,761 $ 4,146,880 $ 2,649,406 Less: average goodwill and other intangible assets, net 1,718,705 623,042 1,173,900 7,890 Average tangible common shareholders' equity $ 3,216,534 $ 2,726,719 $ 2,972,980 $ 2,641,516 
+
+Additionally, management believes tangible common equity and the tangible common equity ratio are meaningful measures of capital adequacy. Columbia believes the exclusion of certain intangible assets in the computation of tangible common equity and tangible common equity ratio provides a meaningful base for period-to-period and company-to-company comparisons, which management believes will assist investors in analyzing the operating results and capital of the Company. Tangible common equity is calculated as total shareholders' equity less goodwill and other intangible assets, net (excluding MSR). In addition, tangible assets are total assets less goodwill and other intangible assets, net (excluding MSR). The tangible common equity ratio is calculated as tangible common shareholders' equity divided by tangible assets. Tangible common equity and the tangible common equity ratio are considered non-GAAP financial measures and should be viewed in conjunction with total shareholders' equity and the total shareholders' equity ratio. 
+
+The following table provides a reconciliation of ending shareholders' equity (GAAP) to ending tangible common equity (non-GAAP), and ending assets (GAAP) to ending tangible assets (non-GAAP) as of the dates presented: 
+
+&#160; (dollars in thousands) 
+
+June 30, 2023 December 31, 2022 Total shareholders' equity $ 4,828,188 $ 2,479,826 Subtract: &#160; &#160; Goodwill 1,029,234 &#8212; Other intangible assets, net 666,762 4,745 Tangible common shareholders' equity $ 3,132,192 $ 2,475,081 Total assets $ 53,592,096 $ 31,848,639 Subtract: Goodwill 1,029,234 &#8212; Other intangible assets, net 666,762 4,745 Tangible assets $ 51,896,100 $ 31,843,894 Total shareholders' equity to total assets ratio 9.01 % 7.79 % Tangible common equity ratio 6.04 % 7.77 % 
+
+&#160; 
+
+Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied, and are not reviewed or audited. Although we believe these non-GAAP financial measures are frequently used by stakeholders in the evaluation of a company, they have limitations as analytical tools, and should not be considered in isolation or as a substitute for analyses of results as reported under GAAP. 
+
+Table of Contents 
+
+Net Interest Income 
+
+Comparison of current quarter to prior quarter 
+
+Net interest income for the three months ended June 30, 2023 was $484.0 million, an increase of $109.3 million compared to the three months ended March 31, 2023. The increase was driven by a $139.2 million increase in the total interest and fees on loans and leases and a $39.3 million increase in interest on taxable investments, mainly due to higher coupon interest rates and higher average balances, primarily due to the addition of historical Columbia portfolios as a result of the Merger and three months of purchase accounting accretion and amortization as compared to one month in the previous quarter. Higher interest income was partially offset by an increase of $90.5 million in interest expense due to higher average rates and higher average balances as a result of increased term borrowings and this being the first full quarter as a combined company with the addition of historical Columbia balances. 
+
+The net interest margin (net interest income as a percentage of average interest-earning assets) on a fully tax-equivalent basis was 3.93% for the three months ended June 30, 2023, as compared to 4.08% for the three months ended March 31, 2023. The decrease in net interest margin resulted from the higher average cost of interest-bearing liabilities in addition to a lower mix of loans as a percentage of earning assets. The net interest margin was also impacted by lower accretion as higher interest rates have slowed prepayment speeds, which has delayed the realization of the discount on acquired loans and securities into income. 
+
+The yield on loans and leases for the three months ended June 30, 2023 increased by 40 basis points as compared to the three months ended March 31, 2023, primarily attributable to the impact of the higher interest rate environment increasing yields on floating and adjustable rate loans, as well as a full quarter of purchase accounting accretion and amortization related to the Merger. 
+
+The cost of interest-bearing liabilities for the three months ended June 30, 2023 increased by 63 basis points compared to the three months ended March 31, 2023, due primarily to rising interest rates and an increase in outstanding term borrowings. 
+
+Comparison of current year-to-date to prior year period 
+
+&#160; 
+
+Net interest income for the six months ended June 30, 2023 was $858.7 million, an increase of $381.7 million compared to the six months ended June 30, 2022. The increase was due primarily to higher loan interest income from increasing rates and higher average loan and lease balances, attributable to the addition of historical Columbia portfolios and organic growth over the past year, as well as four months of purchase accounting accretion and amortization, partially offset by higher interest expense as a result of the higher rate environment and higher average balances in deposits and term borrowings. 
+
+The net interest margin on a fully tax-equivalent basis was 3.99% for the six months ended June 30, 2023, as compared to 3.28% for the six months ended June 30, 2022. The increase in net interest margin primarily resulted from an increase in the average yields on interest-earning assets due to the higher rate environment, which more than offset correspondingly higher funding costs. 
+
+The yield on loans and leases for the six months ended June 30, 2023, increased by 191 basis points as compared to the same period in 2022, primarily attributable to the rising interest rate environment and purchase accounting accretion and amortization related to the Merger. 
+
+The cost of interest-bearing liabilities increased by 200 basis points for the six months ended June 30, 2023, as compared to the same period in 2022, due to a higher mix of higher-cost time and money market deposits and term borrowings. Our net interest income is affected by changes in the amount and mix of interest-earning assets and interest-bearing liabilities, as well as changes in the yields earned on interest-earning assets and rates paid on deposits and borrowed funds. 
+
+Table of Contents 
+
+The following table presents condensed average balance sheet information, together with interest income and yields on average interest-earning assets, and interest expense and rates paid on average interest-bearing liabilities for periods presented: 
+
+Three Months Ended &#160; June 30, 2023 March 31, 2023 &#160;(dollars in thousands) Average Balance Interest Income or Expense Average Yields or Rates Average Balance Interest Income or Expense Average Yields or Rates INTEREST-EARNING ASSETS: &#160; &#160; &#160; Loans held for sale $ 46,794 $ 682 5.83 % $ 54,008 $ 799 5.92 % 
+
+Loans and leases (1) 
+
+37,169,315 551,997 5.95 % 29,998,630 412,726 5.55 % Taxable securities 8,656,147 81,617 3.77 % 4,960,966 40,448 3.26 % 
+
+Non-taxable securities (2) 
+
+865,278 8,010 3.70 % 437,020 4,068 3.72 % Temporary investments and interest-bearing cash 2,704,984 34,616 5.13 % 1,605,081 18,581 4.69 % Total interest-earning assets (1), (2) 
+
+49,442,518 $ 676,922 5.48 % 37,055,705 $ 476,622 5.19 % Goodwill and other intangible assets 1,718,705 623,042 Other assets 2,379,351 1,747,228 Total assets $ 53,540,574 $ 39,425,975 INTEREST-BEARING LIABILITIES: Interest-bearing demand deposits $ 6,131,117 $ 17,277 1.15 % $ 4,759,251 $ 9,815 0.84 % Money market deposits 10,362,495 41,703 1.60 % 8,845,784 32,238 1.48 % Savings deposits 3,297,138 877 0.11 % 2,686,388 556 0.08 % Time deposits 4,703,967 40,551 3.46 % 3,205,128 21,004 2.66 % Total interest-bearing deposits 24,494,717 100,408 1.64 % 19,496,551 63,613 1.32 % Repurchase agreements and federal funds purchased 284,347 1,071 1.51 % 281,032 406 0.59 % Borrowings 6,187,363 81,004 5.25 % 2,352,715 28,764 4.96 % Junior and other subordinated debentures 405,989 9,271 9.16 % 417,966 8,470 8.22 % Total interest-bearing liabilities 31,372,416 $ 191,754 2.45 % 22,548,264 $ 101,253 1.82 % Non-interest-bearing deposits 16,361,541 12,755,080 Other liabilities 871,378 772,870 Total liabilities 48,605,335 36,076,214 Common equity 4,935,239 3,349,761 Total liabilities and shareholders' equity $ 53,540,574 $ 39,425,975 
+
+NET INTEREST INCOME (2) 
+
+$ 485,168 $ 375,369 
+
+NET INTEREST SPREAD (2) 
+
+3.03 % 3.37 % 
+
+NET INTEREST INCOME TO EARNING ASSETS OR NET INTEREST MARGIN (1), (2) 
+
+3.93 % 4.08 % (1) Non-accrual loans and leases are included in the average balance. 
+
+(2) Tax-exempt investment security income has been adjusted to a tax-equivalent basis at a 21% tax rate. The amount of such adjustment was an addition to recorded income of approximately $1.2 million for the three months ended June 30, 2023, as compared to approximately $671,000 for the three months ended March 31, 2023. 
+
+Table of Contents 
+
+Six Months Ended June 30, 2023 June 30, 2022 (dollars in thousands) Average Balance Interest Income or Expense Average Yields or Rates Average Balance Interest Income or Expense Average Yields or Rates INTEREST-EARNING ASSETS: Loans held for sale $ 50,381 $ 1,481 5.88 % $ 275,253 $ 5,004 3.64 % 
+
+Loans and leases (1) 
+
+33,603,781 964,723 5.77 % 23,061,173 444,074 3.86 % Taxable securities 6,818,764 122,065 3.58 % 3,533,930 36,151 2.05 % 
+
+Non-taxable securities (2) 
+
+652,332 12,078 3.70 % 227,218 3,447 3.03 % Temporary investments and interest bearing cash 2,158,071 53,197 4.97 % 2,138,352 4,272 0.40 % Total interest-earning assets (1), (2) 
+
+43,283,329 $ 1,153,544 5.35 % 29,235,926 $ 492,948 3.38 % Goodwill and other intangible assets 1,173,900 7,890 Other assets 2,065,036 1,232,496 Total assets $ 46,522,265 $ 30,476,312 INTEREST-BEARING LIABILITIES: Interest-bearing demand deposits $ 5,448,974 $ 27,092 1.00 % $ 3,854,596 $ 1,108 0.06 % Money market deposits 9,657,738 73,941 1.54 % 7,503,142 3,125 0.08 % Savings deposits 2,993,450 1,433 0.10 % 2,416,096 404 0.03 % Time deposits 3,958,688 61,555 3.14 % 1,685,763 3,294 0.39 % Total interest-bearing deposits 22,058,850 164,021 1.50 % 15,459,597 7,931 0.10 % Repurchase agreements and federal funds purchased 282,699 1,477 1.05 % 499,664 129 0.05 % Borrowings 4,280,632 109,768 5.17 % 6,293 99 3.18 % Junior subordinated debentures 411,944 17,741 8.68 % 387,510 7,150 3.72 % Total interest-bearing liabilities 27,034,125 $ 293,007 2.19 % 16,353,064 $ 15,309 0.19 % Non-interest-bearing deposits 14,518,864 11,046,925 Other liabilities 822,396 426,917 Total liabilities 42,375,385 27,826,906 Common equity 4,146,880 2,649,406 Total liabilities and shareholders' equity $ 46,522,265 $ 30,476,312 
+
+NET INTEREST INCOME (2) 
+
+$ 860,537 $ 477,639 
+
+NET INTEREST SPREAD (2) 
+
+3.16 % 3.19 % 
+
+NET INTEREST INCOME TO EARNING ASSETS OR NET INTEREST MARGIN (1), (2) 
+
+3.99 % 3.28 % (1) Non-accrual loans and leases are included in the average balance. 
+
+(2) Tax-exempt investment security income has been adjusted to a tax equivalent basis at a 21% tax rate. The amount of such adjustment was an addition to recorded income of approximately $1.9 million for the six months ended June 30, 2023, as compared to approximately $706,000 for the same period in 2022. 
+
+Table of Contents 
+
+The following table sets forth a summary of the changes in tax equivalent net interest income due to changes in average asset and liability balances (volume) and changes in average rates (rate) for the periods presented. Changes in tax equivalent interest income and expense, which are not attributable specifically to either volume or rate, are allocated proportionately between both variances. 
+
+Three Months Ended Six Months Ended &#160; June 30, 2023 compared to March 31, 2023 
+
+June 30, 2023 compared to June 30, 2022 
+
+&#160; Increase (decrease) in interest income and expense due to changes in Increase (decrease) in interest income and expense due to changes in 
+
+&#160; &#160; (in thousands) 
+
+Volume Rate Total Volume Rate Total INTEREST-EARNING ASSETS: &#160; &#160; &#160; Loans held for sale $ (105) $ (12) $ (117) $ (5,495) $ 1,972 $ (3,523) Loans and leases 107,458 31,813 139,271 250,337 270,312 520,649 Taxable securities 34,030 7,139 41,169 47,541 38,373 85,914 
+
+Non-taxable securities (1) 
+
+3,965 (22) 3,943 7,721 910 8,631 Temporary investments and interest-bearing cash 14,113 1,922 16,035 39 48,886 48,925 
+
+Total interest-earning assets (1) 
+
+159,461 40,840 200,301 300,143 360,453 660,596 INTEREST-BEARING LIABILITIES: Interest bearing demand deposits 3,036 4,426 7,462 643 25,341 25,984 Money market deposits 6,139 3,326 9,465 1,150 69,666 70,816 Savings deposits 146 175 321 118 911 1,029 Time deposits 11,893 7,654 19,547 9,459 48,802 58,261 Repurchase agreements and federal funds purchased 1 664 665 (72) 1,420 1,348 Borrowings 50,413 1,827 52,240 109,568 101 109,669 Junior and other subordinated debentures (228) 1,029 801 477 10,114 10,591 Total interest-bearing liabilities 71,400 19,101 90,501 121,343 156,355 277,698 
+
+Net increase in net interest income (1) 
+
+$ 88,061 $ 21,739 $ 109,800 $ 178,800 $ 204,098 $ 382,898 (1) Tax exempt investment security income has been adjusted to a tax-equivalent basis at a 21% tax rate. 
+
+Provision for Credit Losses 
+
+&#160; 
+
+Comparison of current quarter to prior quarter 
+
+The Company had a $16.0 million provision for credit losses for the three months ended June 30, 2023, as compared to a $105.5 million provision for the three months ended March 31, 2023. The decrease is primarily due to the March 31, 2023 provision reflecting an initial provision of $88.4 million for historical Columbia non-PCD loans. As an annualized percentage of average outstanding loans and leases, the provision for credit losses recorded for the three months ended June 30, 2023 was 0.17%, as compared to 1.43% for the three months ended March 31, 2023. 
+
+For the three months ended June 30, 2023, net charge-offs were $28.1 million, as compared to $16.7 million for the three months ended March 31, 2023. As an annualized percentage of average outstanding loans and leases, net charge-offs for the three months ended June 30, 2023 were 0.30%, as compared to 0.23% for the three months ended March 31, 2023. The majority of net charge-offs related to leases and equipment finance loans included within the commercial loan portfolio. 
+
+Table of Contents 
+
+Comparison of current year-to-date to prior year period 
+
+The Company had a $121.6 million provision for credit losses for the six months ended June 30, 2023, as compared to $23.5 million for the six months ended June 30, 2022. The increase is primarily driven by the initial provision for historical Columbia non-PCD loans, changes in the economic forecast and organic growth in the loan and lease portfolio. As an annualized percentage of average outstanding loans and leases, the provision for credit losses recorded for the six months ended June 30, 2023 was 0.73%, as compared to 0.21% for the six months ended June 30, 2022. 
+
+For the six months ended June 30, 2023, net charge-offs were $44.7 million, as compared to $11.8 million for the six months ended June 30, 2022. As an annualized percentage of average outstanding loans and leases, net charge-offs for the six months ended June 30, 2023 were 0.27%, as compared to 0.10% for the six months ended June 30, 2022. The majority of net charge-offs relate to leases and equipment finance loans included within the commercial loan portfolio. 
+
+Typically, loans in a non-accrual status will not have an allowance for credit loss as they will be written down to their net realizable value or charged-off. However, the net realizable value for homogeneous leases and equipment finance agreements are determined by the loss given default calculated by the CECL model, and therefore homogeneous leases and equipment finance agreements on non-accrual will have an allowance for credit loss amount until they become 181 days past due, at which time they are charged-off. The non-accrual leases and equipment finance agreements of $26.0 million as of June 30, 2023 have a related allowance for credit losses of $23.2 million, with the remaining loans written-down to the estimated fair value of the collateral, less estimated costs to sell, and are expected to be resolved with no additional material loss, absent further decline in market prices. 
+
+Non-Interest Income 
+
+&#160; 
+
+The following table presents the key components of non-interest income and the related dollar and percentage change from period to period: Three Months Ended Six Months Ended (in thousands) June 30, 2023 March 31, 2023 Change Amount Change Percent June 30, 2023 June 30, 2022 Change Amount Change Percent Service charges on deposits $ 16,454 $ 14,312 $ 2,142 15 % $ 30,766 $ 23,594 $ 7,172 30 % Card-based fees 13,435 11,561 1,874 16 % 24,996 19,238 5,758 30 % Financial services and trust revenue 4,512 1,297 3,215 248 % 5,809 38 5,771 nm Residential mortgage banking revenue, net (2,342) 7,816 (10,158) (130) % 5,474 91,330 (85,856) (94) % Gain on sale of debt securities, net &#8212; &#8212; &#8212; nm &#8212; 2 (2) (100) % (Loss) gain on equity securities, net (697) 2,416 (3,113) (129) % 1,719 (4,736) 6,455 (136) % Gain on loan and lease sales, net 442 940 (498) (53) % 1,382 3,640 (2,258) (62) % Bank owned life insurance income 4,063 2,790 1,273 46 % 6,853 4,197 2,656 63 % Other income (losses) 3,811 13,603 (9,792) (72) % 17,414 (2,099) 19,513 nm Total non-interest income $ 39,678 $ 54,735 $ (15,057) (28) % $ 94,413 $ 135,204 $ (40,791) (30) % 
+
+Comparison of current quarter to prior quarter 
+
+Residential mortgage banking revenue decreased $10.2 million as compared to the three months ended March 31, 2023. The variance for the three months ended June 30, 2023, as compared to the three months ended March 31, 2023, was driven by a planned sale of approximately $4.5 billion of the MSR portfolio in the latter half of 2023, which were marked to the sales price as of June 30, 2023, as well as a $7.6 million loss on MSR hedges compared to a gain of $2.7 million for the three months ended March 31, 2023. 
+
+Table of Contents 
+
+Other income for the three months ended June 30, 2023, as compared to the three months ended March 31, 2023, decreased primarily due to a loss on the fair value of certain loans held for investment of $7.0 million, as compared to a gain of $9.5 million, respectively. The decrease was partially offset by swap derivatives with a gain in the current quarter and a loss in the prior quarter, resulting in a favorable change of $4.8 million. 
+
+Comparison of current year-to-date to prior year period 
+
+Residential mortgage banking revenue decreased $85.9 million compared to the six months ended June 30, 2022. The variance for the six months ended June 30, 2023, as compared to the six months ended June 30, 2022, was driven by a loss of $5.2 million on the fair value of the MSR asset due to valuation inputs or assumptions compared to a fair value gain of $51.0 million for the six months ended June 30, 2022. The decrease was due in part to a planned sale of approximately $4.5 billion of the MSR portfolio in the latter half of 2023, which were marked to the sales price as of June 30, 2023. In addition, revenue from origination and sale of mortgages decreased by $25.2 million compared to the six months ended June 30, 2022 due to an 80% decline in closed loan volume of for-sale mortgages. 
+
+Origination volume is generally linked to the level of interest rates. When rates fall, origination volume would be expected to be elevated relative to historical levels. When rates rise, origination volume would be expected to decline. The MSR asset value is also sensitive to interest rates, and generally falls with lower rates and rises with higher rates, resulting in fair value losses and gains, respectively, due to changes in valuation inputs or assumptions, where applicable. 
+
+In the latter part of 2022, Management made a number of structural changes within the mortgage banking segment intended to reduce expenses, limit the impact of fair value changes to the income statement, and moderate portfolio mortgage growth. Included in these actions, which were undertaken to improve profitability and enhance strategic balance sheet management, was the initiation of MSR hedges. In August 2022, MSR hedges were put in place with the intention of minimizing the interest rate risk of MSRs and reducing net income volatility related to changes in fair value of MSR assets due to valuation inputs or assumptions. Management notes that mortgages remain an important product for the bank and for our customers, though we expect a smaller impact on the financial statements in the future as we downsized the scale of mortgage operations. 
+
+Other income for the six months ended June 30, 2023 increased as compared to the six months ended June 30, 2022, due mainly to a gain on the fair value of certain loans held for investment of $2.5 million for the six months ended June 30, 2023 as compared to a fair value loss of $36.3 million for the six months ended June 30, 2022. The favorable change between periods was partially offset by a decrease in swap derivatives with a loss for the six months ended June 30, 2023 and a gain in the prior year period, resulting in an unfavorable change $16.6 million. 
+
+The following table presents our residential mortgage banking revenue for the periods presented: 
+
+Three Months Ended Six Months Ended 
+
+(in thousands) 
+
+June 30, 2023 March 31, 2023 June 30, 2023 June 30, 2022 Origination and sale $ 3,166 $ 3,587 $ 6,753 $ 31,945 Servicing 9,167 9,397 18,564 18,645 Change in fair value of MSR asset: Changes due to collection/realization of expected cash flows over time (4,797) (4,881) (9,678) (10,308) Changes in valuation inputs or assumptions (1) 
+
+(2,242) (2,937) (5,179) 51,048 
+
+MSR hedges gain (loss) (2) 
+
+(7,636) 2,650 (4,986) &#8212; Residential mortgage banking revenue, net $ (2,342) $ 7,816 $ 5,474 $ 91,330 Loans Held for Sale Production Statistics: Closed loan volume for-sale $ 119,476 $ 131,726 $ 251,202 $ 1,225,654 Gain on sale margin 2.65 % 2.72 % 2.69 % 2.61 % 
+
+(1) The changes in valuation inputs and assumptions principally reflect changes in discount rates and prepayment speeds, which are primarily affected by changes in interest rates. 
+
+(2) MSR hedges were put in place during the three months ended September 30, 2022. 
+
+Table of Contents 
+
+Non-Interest Expense 
+
+&#160; 
+
+The following table presents the key elements of non-interest expense and the related dollar and percentage change from period to period: Three Months Ended Six Months Ended &#160;(in thousands) June 30, 2023 March 31, 2023 Change Amount Change Percent June 30, 2023 June 30, 2022 Change Amount Change Percent Salaries and employee benefits $ 163,398 $ 136,092 $ 27,306 20 % $ 299,490 $ 224,080 $ 75,410 34 % Occupancy and equipment, net 50,550 41,700 8,850 21 % 92,250 69,388 22,862 33 % Communications 4,357 3,026 1,331 44 % 7,383 5,339 2,044 38 % Marketing 1,937 1,059 878 83 % 2,996 4,047 (1,051) (26) % Services 14,094 12,843 1,251 10 % 26,937 25,739 1,198 5 % FDIC assessments 11,579 6,113 5,466 89 % 17,692 7,470 10,222 137 % Intangible amortization 35,553 12,660 22,893 181 % 48,213 2,051 46,162 nm Merger-related expenses 29,649 115,898 (86,249) (74) % 145,547 4,950 140,597 nm Other expenses 17,442 13,427 4,015 30 % 30,869 18,940 11,929 63 % Total non-interest expense $ 328,559 $ 342,818 $ (14,259) (4) % $ 671,377 $ 362,004 $ 309,373 85 % 
+
+Comparison of current quarter to prior quarter 
+
+Salaries and employee benefits increased during the three months ended June 30, 2023 as compared to the three months ended March 31, 2023, primarily due to additional expenses associated with the larger employee base as a result of the Merger since the first quarter only included one month as a combined organization. 
+
+Occupancy and equipment, net increased during the three months ended June 30, 2023 as compared to the three months ended March 31, 2023, due mainly to an increase in branch locations due to the Merger. The Company completed its core systems conversion on March 20, 2023, and its planned consolidation of 47 branches during the latter half of the second quarter of 2023. 
+
+Intangible amortization increased during the three months ended June 30, 2023 as compared to the three months ended March 31, 2023, primarily due to the first quarter only including one month of amortization associated with the core deposit intangible added as a result of the Merger. 
+
+Merger-related expenses decreased $86.2 million during the three months ended June 30, 2023, as compared to the three months ended March 31, 2023, with the largest driver being legal and professional fees related to the Merger, that were primarily accrued in the first quarter. 
+
+Other expenses increased as compared to the three months ended March 31, 2023, primarily due to an increase of $1.5 million related to state and local taxes due to locations added with the Merger, as well as other miscellaneous fluctuations in expenses. 
+
+Comparison of current year-to-date to prior year period 
+
+Salaries and employee benefits increased for the six months ended June 30, 2023, compared to the six months ended June 30, 2022, primarily due to the current year including four months of expenses as a combined company with a larger employee base. 
+
+Occupancy and equipment, net increased for the six months ended June 30, 2023, compared to the six months ended June 30, 2022, due mainly to an increase in branch locations and software costs related to the Merger. 
+
+Intangible amortization increased during the six months ended June 30, 2023 as compared to the six months ended June 30, 2022, primarily due to amortization associated with the core deposit intangible added as a result of the Merger. 
+
+Merger-related expenses were $145.5 million for the six months ended June 30, 2023 compared to $5.0 million for the six months ended June 30, 2022, with the largest driver being legal and professional fees, which were primarily accrued in the first quarter. Refer to Note 2 - Business Combination for the breakout of Merger expenses. 
+
+Other expense increased as compared to the six months ended June 30, 2022, due mainly to an increase of $5.8 million related to state and local taxes due to locations added with the Merger, as well as other miscellaneous fluctuations in other expenses. 
+
+Table of Contents 
+
+Income Taxes 
+
+&#160; 
+
+The Company's effective tax rate was 25.5% for both the three and six month periods ended June 30, 2023, as compared to 25.8% for the three months ended March 31, 2023, and 25.1% for the six months ended June 30, 2022. The effective tax rate differed from the statutory rate principally because of state taxes and income on tax-exempt investment securities. 
+
+Table of Contents 
+
+FINANCIAL CONDITION 
+
+&#160; 
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents were $3.4 billion as of June 30, 2023, compared to $1.3 billion as of December 31, 2022. The increase of interest-bearing cash and temporary investments reflects funding by short-term borrowings to maintain a higher on-balance sheet level of liquidity. 
+
+Investment Securities 
+
+&#160; 
+
+Investment debt securities available for sale were $9.0 billion as of June 30, 2023, compared to $3.2 billion at December 31, 2022. The increase was primarily due to the addition of $6.2 billion in securities acquired at fair value through the Merger, which were categorized as available for sale. Following the close of the Merger, we restructured a portion of the historical Columbia securities portfolio during the first week of March by selling $1.2 billion of securities and purchasing $919.2 million of securities with the proceeds. The restructure transactions resulted in no gain or loss on the statement of operations. Purchases included agencies, mortgage-backed securities, and collateralized mortgage obligation. The restructuring reduced the potential adverse impact to net interest income in a declining interest rate environment. 
+
+The following tables present the par value, amortized cost, unrealized gains, unrealized losses and approximate fair values of debt securities as available for sale and held to maturity investment debt securities portfolio by major type as of the dates presented: 
+
+June 30, 2023 &#160;(dollars in thousands) Current Par Amortized Cost Unrealized Gains Unrealized Losses Fair Value % of Portfolio Available for sale: &#160; &#160; &#160; &#160; U.S. Treasury and agencies $ 1,583,487 $ 1,585,683 $ 2,020 $ (98,153) $ 1,489,550 17 % Obligations of states and political subdivisions 1,145,471 1,082,310 7,467 (26,044) 1,063,733 12 % 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+7,375,498 6,872,855 3,503 (431,213) 6,445,145 71 % Total available for sale securities $ 10,104,456 $ 9,540,848 $ 12,990 $ (555,410) $ 8,998,428 100 % Held to maturity: 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+$ 3,725 $ 2,388 $ 734 $ &#8212; $ 3,122 100 % Total held to maturity securities $ 3,725 $ 2,388 $ 734 $ &#8212; $ 3,122 100 % 
+
+December 31, 2022 
+
+(dollars in thousands) &#160; 
+
+Current Par Amortized Cost Unrealized Gains Unrealized Losses Fair Value % of Portfolio Available for sale: &#160; &#160; &#160; &#160; U.S. Treasury and agencies $ 1,007,753 $ 1,035,532 $ &#8212; $ (99,358) $ 936,174 29 % Obligations of states and political subdivisions 289,590 297,610 231 (28,041) 269,800 8 % 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+2,371,329 2,405,139 3 (414,950) 1,990,192 63 % Total available for sale securities $ 3,668,672 $ 3,738,281 $ 234 $ (542,349) $ 3,196,166 100 % Held to maturity: 
+
+Mortgage-backed securities and collateralized mortgage obligations 
+
+$ 3,873 $ 2,476 $ 721 $ &#8212; $ 3,197 100 % Total held to maturity securities $ 3,873 $ 2,476 $ 721 $ &#8212; $ 3,197 100 % 
+
+Table of Contents 
+
+We review investment securities on an ongoing basis for the presence of impairment, taking into consideration current market conditions, fair value in relationship to cost, extent and nature of the change in fair value, issuer rating changes and trends, whether we intend to sell a security or if it is likely that we will be required to sell the security before recovery of our amortized cost basis of the investment, which may be maturity, and other factors. 
+
+&#160; 
+
+The net unrealized loss on historical Columbia securities was eliminated as of February 28, 2023 as part of the reverse merger method of accounting; however, historical Umpqua Bank balances were not marked as part of the Merger. As of June 30, 2023, the available for sale investment portfolio had a net unrealized loss of $542.4 million, which reflects gross unrealized gains of $13.0 million and gross unrealized losses of $555.4 million. Gross unrealized losses consisted primarily of unrealized losses on mortgage-backed securities and collateralized mortgage obligations of $431.2 million. The unrealized losses were attributable to changes in market interest rates or the widening of market spreads subsequent to the initial purchase of these securities and are not attributable to changes in credit quality. In the opinion of management, no ACL was considered necessary on these debt securities as of June 30, 2023. 
+
+Loans and Leases 
+
+&#160; 
+
+Total loans and leases outstanding as of June 30, 2023 were $37.0 billion, an increase of $10.9 billion as compared to December 31, 2022. The increase is primarily attributable to the addition of $10.9 billion in loans acquired through the Merger, noting that net organic growth during the period was offset by the sale of $372.8 million in loans and transfer of an additional $118.1 million into loans held for sale during the second quarter. The loan to deposit ratio as of June 30, 2023 was 91%, as compared to 97% as of December 31, 2022. 
+
+The following table presents the concentration distribution of the loan and lease portfolio, net of deferred fees and costs, as of the dates presented: 
+
+June 30, 2023 December 31, 2022 
+
+&#160; (dollars in thousands) 
+
+Amount % Amount % Commercial real estate &#160; &#160; &#160; &#160; Non-owner occupied term, net $ 6,434,673 17 % $ 3,894,840 15 % Owner occupied term, net 5,254,401 14 % 2,567,761 10 % Multifamily, net 5,622,875 15 % 5,285,791 20 % Construction &#38; development, net 1,528,924 4 % 1,077,346 4 % Residential development, net 388,641 1 % 200,838 1 % Commercial &#160; &#160; Term, net 5,449,787 15 % 3,029,547 12 % Lines of credit &#38; other, net 2,268,790 6 % 960,054 4 % Leases &#38; equipment finance, net 1,740,037 5 % 1,706,172 6 % Residential &#160; &#160; Mortgage, net 6,272,898 17 % 5,647,035 21 % Home equity loans &#38; lines, net 1,898,958 5 % 1,631,965 6 % Consumer &#38; other, net 189,315 1 % 154,632 1 % Total, net of deferred fees and costs $ 37,049,299 100 % $ 26,155,981 100 % 
+
+Table of Contents 
+
+Asset Quality and Non-Performing Assets 
+
+The following table summarizes our non-performing assets, the ACL and asset quality ratios as of the dates presented: 
+
+&#160; (dollars in thousands) 
+
+June 30, 2023 December 31, 2022 Loans and leases on non-accrual status Commercial real estate, net $ 10,994 $ 5,011 Commercial, net 39,316 25,691 Residential, net &#8212; &#8212; Consumer &#38; other, net &#8212; &#8212; Total loans and leases on non-accrual status 50,310 30,702 
+
+Loans and leases past due 90 days or more and accruing 
+
+Commercial real estate, net 184 1 Commercial, net 7,720 7,909 Residential, net (1) 
+
+21,370 19,894 Consumer &#38; other, net 399 134 
+
+Total loans and leases past due 90 days or more and accruing (1) 
+
+29,673 27,938 Total non-performing loans and leases 79,983 58,640 Other real estate owned 278 203 Total non-performing assets $ 80,261 $ 58,843 Allowance for credit losses on loans and leases $ 404,603 $ 301,135 Reserve for unfunded commitments 19,827 14,221 Allowance for credit losses $ 424,430 $ 315,356 Asset quality ratios: &#160; &#160; Non-performing assets to total assets 0.15 % 0.18 % Non-performing loans and leases to total loans and leases 0.22 % 0.22 % Allowance for credit losses on loans and leases to total loans and leases 1.09 % 1.15 % Allowance for credit losses to total loans and leases 1.15 % 1.21 % Allowance for credit losses to total non-performing loans and leases 531 % 538 % 
+
+(1) Excludes government guaranteed GNMA mortgage loans that Columbia has the right but not the obligation to repurchase that are past due 90 days or more totaling $1.6 million at June 30, 2023 and $6.6 million at December 31, 2022. 
+
+&#160; 
+
+As of June 30, 2023, there were approximately $30.6 million or 0.08% of total loans, modified due to borrowers experiencing financial difficulties. 
+
+A decline in the economic conditions and other factors could adversely impact individual borrowers or the loan portfolio in general. Accordingly, there can be no assurance that loans will not become 90 days or more past due, placed on non-accrual status, restructured, or transferred to other real estate owned in the future. 
+
+Table of Contents 
+
+Allowance for Credit Losses 
+
+&#160; 
+
+The ACL totaled $424.4 million at June 30, 2023, an increase of $109.1 million from December 31, 2022. The following table shows the activity in the ACL for the periods indicated: 
+
+Three Months Ended Six Months Ended 
+
+(dollars in thousands) 
+
+June 30, 2023 March 31, 2023 June 30, 2023 June 30, 2022 Allowance for credit losses on loans and leases Balance, beginning of period $ 417,464 $ 301,135 $ 301,135 $ 248,412 Initial ACL recorded for PCD loans acquired during the period &#8212; 26,492 26,492 &#8212; 
+
+Provision for credit losses on loans and leases (1) 
+
+15,216 106,498 121,714 24,483 Charge-offs Commercial real estate, net (174) &#8212; (174) (8) Commercial, net (32,036) (19,248) (51,284) (16,893) Residential, net (4) (248) (252) (167) Consumer &#38; other, net (1,264) (773) (2,037) (1,721) Total charge-offs (33,478) (20,269) (53,747) (18,789) Recoveries Commercial real estate, net 209 58 267 98 Commercial, net 4,511 3,058 7,569 5,479 Residential, net 63 123 186 389 Consumer &#38; other, net 618 369 987 1,039 Total recoveries 5,401 3,608 9,009 7,005 Net recoveries (charge-offs) Commercial real estate, net 35 58 93 90 Commercial, net (27,525) (16,190) (43,715) (11,414) Residential, net 59 (125) (66) 222 Consumer &#38; other, net (646) (404) (1,050) (682) Total net charge-offs (28,077) (16,661) (44,738) (11,784) Balance, end of period $ 404,603 $ 417,464 $ 404,603 $ 261,111 Reserve for unfunded commitments Balance, beginning of period $ 19,029 $ 14,221 $ 14,221 $ 12,767 Initial ACL recorded for unfunded commitments acquired during the period &#8212; 5,767 5,767 &#8212; Provision (recapture) for credit losses on unfunded commitments 798 (959) (161) 56 Balance, end of period 19,827 19,029 19,827 12,823 Total allowance for credit losses $ 424,430 $ 436,493 $ 424,430 $ 273,934 As a percentage of average loans and leases (annualized): Net charge-offs 0.30 % 0.23 % 0.27 % 0.10 % Provision for credit losses 
+
+0.17 % 1.43 % 0.73 % 0.21 % Recoveries as a percentage of charge-offs 16.13 % 17.80 % 16.76 % 37.28 % 
+
+(1) Includes $88.4 million initial provision related to non-PCD loans acquired during the first quarter of 2023. 
+
+Table of Contents 
+
+The provision for credit losses includes the provision for loan and lease losses and the provision for unfunded commitments. The decrease in the three months ended June 30, 2023, as compared to the three months ended March 31, 2023, is due to the $88.4 million initial provision in the first quarter for historical Columbia non-PCD loans. The increase in the provision for the six months ended June 30, 2023, as compared to the six months ended June 30, 2022, is due to the initial provision for historical Columbia non-PCD loans, organic growth in the loan and lease portfolios, as well as updates to the economic forecasts used in credit models. 
+
+The following table sets forth the allocation of the allowance for credit losses on loans and leases and percent of loans in each category to total loans and leases as of the dates presented: 
+
+June 30, 2023 December 31, 2022 &#160;(dollars in thousands) Amount % loans to total loans Amount % loans to total loans Commercial real estate $ 118,954 51 % $ 77,813 50 % Commercial 211,651 26 % 167,135 22 % Residential 65,941 22 % 50,329 27 % Consumer &#38; other 8,057 1 % 5,858 1 % Allowance for credit losses on loans and leases $ 404,603 &#160; $ 301,135 &#160; 
+
+The following table shows the change in the allowance for credit losses from March 31, 2023 to June 30, 2023: (dollars in thousands) March 31, 2023 Q2 2023 net recoveries 
+
+(charge-offs) 
+
+Reserve build June 30, 2023 % of loan and leases outstanding Commercial real estate $ 119,495 $ 35 $ 9,424 $ 128,954 0.67 % Commercial 245,527 (27,525) (530) 217,472 2.30 % Residential 63,933 59 4,967 68,959 0.84 % Consumer &#38; Other 7,538 (646) 2,153 9,045 4.78 % Total allowance for credit losses $ 436,493 $ (28,077) $ 16,014 $ 424,430 1.15 % % of loans and leases outstanding 1.18 % 1.15 % 
+
+To calculate the ACL, the CECL models use a forecast of future economic conditions and are dependent upon specific macroeconomic variables that are relevant to each of the Bank's loan and lease portfolios. For the second quarter of 2023, the Bank used Moody's Analytics' May 2023 baseline economic forecast, which shows a worsening economic situation from the forecast used in the prior quarter. Refer to Note 5 - Allowance for Credit Losses for further information on key components of the forecast. The models for calculating the ACL are sensitive to changes to economic variables, which could result in volatility as these assumptions change over time. 
+
+We believe that the ACL as of June 30, 2023 is sufficient to absorb losses inherent in the loan and lease portfolio and in credit commitments outstanding as of that date based on the information available. If the economic conditions decline, the Bank may need additional provisions for credit losses in future periods. 
+
+Table of Contents 
+
+Residential Mortgage Servicing Rights 
+
+&#160; 
+
+The following table presents the changes in our residential MSR portfolio for the periods indicated: 
+
+Three Months Ended Six Months Ended 
+
+&#160; &#160; (in thousands) 
+
+June 30, 2023 March 31, 2023 June 30, 2023 June 30, 2022 Balance, beginning of period $ 178,800 $ 185,017 $ 185,017 $ 123,615 Additions for new MSR capitalized 1,168 1,601 2,769 15,203 Changes in fair value: Changes due to collection/realization of expected cash flows over time (4,797) (4,881) (9,678) (10,308) Changes due to valuation inputs or assumptions (1) 
+
+(2,242) (2,937) (5,179) 51,048 Balance, end of period $ 172,929 $ 178,800 $ 172,929 $ 179,558 
+
+(1) The changes in valuation inputs and assumptions principally reflect changes in discount rates and prepayment speeds, which are primarily affected by changes in interest rates. 
+
+The following table presents information related to our residential serviced loan portfolio as of the dates presented: 
+
+(dollars in thousands) June 30, 2023 December 31, 2022 Balance of loans serviced for others $ 12,726,615 $ 13,020,189 MSR as a percentage of serviced loans 1.36 % 1.42 % 
+
+Residential MSR are adjusted to fair value quarterly with the change recorded in residential mortgage banking revenue. The value of servicing rights can fluctuate based on changes in interest rates and other factors. Generally, as interest rates decline and borrowers are able to take advantage of a refinance incentive, prepayments increase, and the total value of existing servicing rights declines as expectations of future servicing fee collections decline. Historically, the fair value of our residential MSR will increase as market rates for mortgage loans rise and decrease if market rates fall. 
+
+Due to changes to inputs in the valuation model including changes in discount rates and prepayment speeds, the fair value of the MSR asset decreased by $2.2 million for the three months ended June 30, 2023 as compared to a decrease of $2.9 million for the three months ended March 31, 2023 and decreased $5.2 million for the six months ended June 30, 2023 as compared to an increase of $51.0 million for the six months ended June 30, 2022. In July 2023, the Company entered in an agreement to sell approximately $4.5 billion of our mortgage loans serviced for others. As of June 30, 2023, the MSR assets were marked to the sale price, which resulted in a loss even as mortgage rates increased during the period. 
+
+The fair value of the MSR asset decreased by $4.8 million for the three months ended June 30, 2023 as compared to a decrease of $4.9 million for the three months ended March 31, 2023 due to the passage of time, including the impact of regularly scheduled repayments, paydowns and payoffs and decreased by $9.7 million compared to a decrease of $10.3 million for the six months ended June 30, 2023 and June 30, 2022, respectively. 
+
+Goodwill and Other Intangible Assets 
+
+On February 28, 2023, the Company completed the Merger which resulted in $1.0 billion in goodwill, as compared to no goodwill at December 31, 2022. Goodwill is recorded in connection with business combinations and represents the excess of the purchase price over the estimated fair value of the net assets acquired. 
+
+At June 30, 2023, we had other intangible assets of $666.8 million, as compared to $4.7 million at December 31, 2022. As part of a business acquisition, the fair value of identifiable intangible assets such as core deposits, which includes all deposits except certificates of deposit, was recognized at the Merger Date. Intangible assets with definite useful lives are amortized to their estimated residual values over their respective estimated useful lives and are also reviewed for impairment. The core deposit intangible assets recorded are amortized on an accelerated basis over a period of 10 years using the sum-of-the-years-digits method. 
+
+Table of Contents 
+
+Deposits 
+
+Total deposits were $40.8 billion at June 30, 2023, an increase of $13.8 billion, as compared to December 31, 2022. The increase is attributable to the addition of $15.2 billion in deposits related to the Merger, offset by declining existing customer balances due primarily to the impact of inflation and market liquidity tightening. 
+
+&#160; 
+
+The following table presents the deposit balances by category as of the dates presented: 
+
+June 30, 2023 December 31, 2022 &#160;(dollars in thousands) Amount % Amount % Non-interest bearing demand $ 16,019,408 39 % $ 10,288,849 38 % Interest bearing demand 6,300,082 15 % 4,080,469 15 % Money market 10,115,908 25 % 7,721,011 29 % Savings 3,171,714 8 % 2,265,052 8 % Time, greater than $250,000 849,439 2 % 582,838 2 % Time, $250,000 or less 4,378,366 11 % 2,127,393 8 % Total deposits $ 40,834,917 100 % $ 27,065,612 100 % 
+
+&#160; 
+
+The Company's total core deposits, which are deposits less time deposits greater than $250,000 and all brokered deposits, were $37.6 billion at June 30, 2023, compared to $25.6 billion at December 31, 2022. The increase in total core deposits between periods was driven by the same factors that contributed to the change in total deposits. The Company's brokered deposits totaled $2.3 billion at June 30, 2023, compared to $866.9 million at December 31, 2022. 
+
+Uninsured deposits at June 30, 2023 totaled $13.5 billion, as compared to $10.1 billion at December 31, 2022. The increase was primarily driven by balances added with the Merger. Uninsured deposits are an estimated amount based on the methodologies and assumptions used for the Bank's regulatory requirements. We reviewed our methodologies and assumptions following the industry events that brought the level of uninsured deposits into focus during the first half of 2023, which resulted in the reclassification of select balances. At June 30, 2023, total available liquidity was $18.1 billion, or 134% of uninsured deposits. 
+
+Borrowings 
+
+&#160; 
+
+At June 30, 2023, the Bank had outstanding securities sold under agreements to repurchase of $294.9 million, a decrease of $13.9 million from December 31, 2022. The Bank had outstanding borrowings consisting of advances from the FHLB of $6.2 billion at June 30, 2023 and $906.2 million at December 31, 2022. The increase was due mainly to the addition of $2.3 billion in FHLB advances from the Merger and an additional $3.0 billion in net short-term advances borrowed during the six months ended June 30, 2023. These borrowing were used to fund liquidity for the period. FHLB advances have fixed rates ranging from 4.97% to 5.38% and are set to mature before the end of 2023. Advances from the FHLB are secured by investment securities and loans secured by real estate. 
+
+Columbia has a $50.0 million short-term credit facility with an unaffiliated bank. As of June 30, 2023, $50.0 million was outstanding at a variable rate of 7.65%, with a maturity date of August 25, 2023. The credit agreement requires the Company to comply with certain covenants, including those related to asset quality and capital levels. The Company was in compliance with all covenants associated with this facility at June 30, 2023. 
+
+Junior and Other Subordinated Debentures 
+
+&#160; 
+
+We had junior and other subordinated debentures with carrying values of $420.9 million and $411.5 million at June 30, 2023 and December 31, 2022, respectively. The increase is mainly due to the addition of $10.0 million in subordinated debt and $10.3 million in junior subordinated debt due to the Merger, partially offset by an $11.2 million decline in fair value for the junior subordinated debentures elected to be carried at fair value. The change in fair value was due to fluctuations in the discount rate, which increased in the first quarter due to credit spreads that were elevated due to bank failures late in the quarter but declined in the second quarter. As of June 30, 2023, substantially all of the junior subordinated debentures had interest rates that are adjustable on a quarterly basis based on a spread over three-month LIBOR. These instruments are covered under federal legislation, and the Federal Reserve&#8217;s regulations implementing that legislation, which allowed us to replace the LIBOR index with forward term SOFR, plus the statutorily prescribed tenor spread adjustment. Accordingly, these instruments transitioned from LIBOR to SOFR as of July 1, 2023. 
+
+Table of Contents 
+
+Liquidity and Cash Flow 
+
+&#160; 
+
+The principal objective of our liquidity management program is to maintain the Bank's ability to meet the day-to-day cash flow requirements of our customers who either wish to withdraw funds or to draw upon credit facilities to meet their cash needs. The Bank's liquidity strategy includes maintaining a sufficient on-balance sheet liquidity position to provide flexibility, to grow deposit balances and fund growth in lending and investment portfolios, as well as to deleverage non-deposit liabilities as economic conditions permit. As a result, the Company believes that it has sufficient cash and access to borrowings to effectively manage through the current economic conditions, as well as meet its working capital and other needs. The Company will continue to prudently evaluate and maintain liquidity sources, including the ability to fund future loan growth and manage our borrowing sources. 
+
+We monitor the sources and uses of funds on a daily basis to maintain an acceptable liquidity position. One source of funds includes public deposits. Individual state laws require banks to collateralize public deposits, typically as a percentage of their public deposit balance in excess of FDIC insurance. Public deposits represented 6% and 7% of total deposits at June 30, 2023 and December 31, 2022, respectively. The amount of collateral required varies by state and may also vary by institution within each state, depending on the individual state's risk assessment of depository institutions. Changes in the pledging requirements for uninsured public deposits may require pledging additional collateral to secure these deposits, drawing on other sources of funds to finance the purchase of assets that would be available to be pledged to satisfy a pledging requirement, or could lead to the withdrawal of certain public deposits from the Bank. The Company&#8217;s diversified deposit base provides a sizeable source of relatively stable and low-cost funding, while reducing the Company&#8217;s reliance on the wholesale markets. Total deposits were $40.8 billion at June 30, 2023, compared with $27.1 billion at December 31, 2022. The Bank also has liquidity from excess bond collateral of $4.7 billion. 
+
+In addition to liquidity from core deposits and the repayments and maturities of loans and investment securities, the Bank can sell securities under agreements to repurchase, issue brokered certificates of deposit, or utilize off-balance sheet funding sources. 
+
+The Bank maintains a substantial level of total available liquidity in the form of off-balance sheet funding sources. These liquidity sources include capacity to borrow from the FHLB, the Federal Reserve Bank&#8217;s Discount Window, the new Bank Term Funding Program, created in 2023, as well as uncommitted lines of credit. Availability of these lines is subject to federal funds balances available for loan and continued borrower eligibility. These lines are intended to support short-term liquidity needs, and the agreements may restrict consecutive day usage. 
+
+The following table presents total off-balance sheet liquidity as of the date presented: 
+
+June 30, 2023 (dollars in thousands) Gross Availability Utilization Net Availability FHLB lines $ 12,120,232 $ 6,219,833 $ 5,900,398 Federal Reserve Discount Window 1,591,996 &#8212; 1,591,996 Federal Reserve Term Funding Program 2,250,045 &#8212; 2,250,045 Uncommitted lines of credit 600,000 &#8212; 600,000 Total off-balance sheet liquidity $ 16,562,273 $ 6,219,833 $ 10,342,439 
+
+The following table presents total available liquidity as of the date presented: 
+
+(dollars in thousands) June 30, 2023 Total off-balance sheet liquidity $ 10,342,439 Cash and cash equivalents, less reserve requirements 3,100,180 Excess bond collateral 4,682,836 Total available liquidity $ 18,125,455 
+
+&#160; 
+
+Table of Contents 
+
+The Company is a separate entity from the Bank and must provide for its own liquidity. Substantially all of the Company's revenues are obtained from dividends declared and paid by the Bank. There were $138.0 million of dividends paid by the Bank to the Company in the six months ended June 30, 2023. There are statutory and regulatory provisions that limit the ability of the Bank to pay dividends to the Company. FDIC and Oregon Division of Financial Regulation approval is required for quarterly dividends from Umpqua Bank to the Company. As of June 30, 2023, the Company also has a $50.0 million short-term credit facility with an unaffiliated Bank that was fully utilized to provide the Company additional liquidity. 
+
+&#160; 
+
+Although we expect the Bank's and the Company's liquidity positions to remain satisfactory during 2023, it is possible that our deposit balances may not be maintained at previous levels due to pricing pressure or customers' behavior in the current economic environment. In addition, in order to generate deposit growth, our pricing may need to be adjusted in a manner that results in increased interest expense on deposits. We may utilize borrowings or other funding sources, which are generally more costly than deposit funding, to support our liquidity levels. 
+
+Commitments and Other Contractual Obligations- The Company participates in many different contractual arrangements which may or may not be recorded on its balance sheet, under which the Company has an obligation to pay certain amounts, provide credit or liquidity enhancements or provide market risk support. Our material contractual obligations are primarily for time deposits and borrowings. As of June 30, 2023, time deposits totaled $5.2 billion, of which $4.9 billion matures in a year or less. Total borrowings as of June 30, 2023 were $6.3 billion all of which matures within 1 year. These arrangements also include off-balance sheet commitments to extend credit, letters of credit and various forms of guarantees. At June 30, 2023, our loan commitments were $11.7 billion. A portion of the commitments will eventually result in funded loans and increase our profitability through net interest income when drawn and unused commitment fees prior to being drawn. Refer to Note 9 - Commitments and Contingencies for further information. Financing commitments, letters of credit and deferred purchase commitments are presented at contractual amounts and do not necessarily reflect future cash outflows as many are expected to expire unused or partially used. 
+
+&#160; 
+
+Off-balance-Sheet Arrangements 
+
+&#160; 
+
+Information regarding Off-Balance-Sheet Arrangements is included in Note 9 of the Notes to Condensed Consolidated Financial Statements. 
+
+&#160; 
+
+Concentrations of Credit Risk 
+
+Information regarding Concentrations of Credit Risk is included in Note 9 of the Notes to Condensed Consolidated Financial Statements. 
+
+Capital Resources 
+
+&#160; 
+
+Shareholders' equity at June 30, 2023 was $4.8 billion. The increase in shareholders' equity during the six months ended June 30, 2023 was principally due to the increase in common stock of $2.3 billion as a result of the Merger and net income of $119.3 million during the period, partially offset by cash dividends paid of $121.4 million. 
+
+The Company's dividend policy considers, among other things, earnings, regulatory capital levels, the overall payout ratio and expected asset growth to determine the amount of dividends declared, if any, on a quarterly basis. There is no assurance that future cash dividends on common shares will be declared or increased. We cannot predict the extent of the economic decline that could result in inadequate earnings, regulatory restrictions and limitations, changes to our capital requirements, or a decision to increase capital by retention of earnings, that may result in the inability to pay dividends at previous levels, or at all. 
+
+On May 15, 2023, Columbia declared a cash dividend in the amount of $0.36 per common share based on first quarter 2023 performance, which was paid on June 15, 2023. 
+
+The following table presents cash dividends declared and dividend payout ratios (dividends declared per common share divided by basic earnings per common share) for the periods indicated: &#160; Three Months Ended Six Months Ended &#160; June 30, 2023 March 31, 2023 June 30, 2023 June 30, 2022 
+
+Dividend declared per common share (1) 
+
+$ 0.36 $ 0.35 $ 0.71 $ 0.70 Dividend payout ratio 56 % nm 109 % 53 % 
+
+(1) Periods prior to February 28, 2023, have been restated as a result of the adjustment to common shares outstanding based on the exchange ratio from the Merger of 0.5958. 
+
+Table of Contents 
+
+The Company is committed to managing capital to maintain strong protection for depositors and creditors and for maximum shareholder benefit. The Company also manages its capital to exceed regulatory capital requirements for banking organizations. The regulatory capital requirements effective for the Company follow Basel III, with the Company being subject to calculating its capital adequacy as a percentage of risk-weighted assets under the standardized approach. 
+
+In 2020, the federal bank regulatory authorities finalized a rule to provide banking organizations that implemented CECL in 2020 the option to delay the estimated impact on regulatory capital by up to two years, with a three-year transition period to phase out the cumulative benefit to regulatory capital provided during the two-year delay. The Company elected this capital relief to delay the estimated regulatory capital impact of adopting CECL, relative to the incurred loss methodology's effect on regulatory capital. Currently, the Company is phasing out the cumulative adjustment as calculated at the end of 2021, by adjusting it by 75% in 2022, 50% through 2023, and 25% in 2024, culminating with a fully phased in regulatory capital calculation beginning in 2025. All regulatory ratios exceeded regulatory &#8220;well-capitalized&#8221; requirements. 
+
+The following table shows the Company's consolidated and the Bank's capital adequacy ratios compared to the regulatory minimum capital ratio and the regulatory minimum capital ratio needed to qualify as a "well-capitalized" institution, as calculated under regulatory guidelines of the Basel III at the dates presented: 
+
+&#160; 
+
+Actual For Capital Adequacy purposes To be Well Capitalized 
+
+&#160; (dollars in thousands) &#160; 
+
+Amount Ratio Amount Ratio Amount Ratio June 30, 2023 &#160; &#160; &#160; &#160; &#160; &#160; Total Capital (to Risk Weighted Assets) &#160; &#160; &#160; &#160; Consolidated $ 4,584,315 11.31 % $ 3,242,360 8.00 % $ 4,052,950 10.00 % Umpqua Bank $ 4,515,854 11.14 % $ 3,241,975 8.00 % $ 4,052,469 10.00 % Tier I Capital (to Risk Weighted Assets) &#160; &#160; &#160; &#160; &#160; Consolidated $ 3,738,784 9.22 % $ 2,431,770 6.00 % $ 3,242,360 8.00 % Umpqua Bank $ 4,141,323 10.22 % $ 2,431,481 6.00 % $ 3,241,975 8.00 % Tier I Common (to Risk Weighted Assets) Consolidated $ 3,738,784 9.22 % $ 1,823,828 4.50 % $ 2,634,418 6.50 % Umpqua Bank $ 4,141,323 10.22 % $ 1,823,611 4.50 % $ 2,634,105 6.50 % Tier I Capital (to Average Assets) &#160; &#160; &#160; &#160; &#160; &#160; Consolidated $ 3,738,784 7.14 % $ 2,093,627 4.00 % $ 2,617,034 5.00 % Umpqua Bank $ 4,141,323 7.91 % $ 2,094,064 4.00 % $ 2,617,580 5.00 % December 31, 2022 &#160; &#160; &#160; &#160; &#160; &#160; Total Capital (to Risk Weighted Assets) &#160; &#160; &#160; &#160; Consolidated $ 3,651,382 13.71 % $ 2,130,565 8.00 % $ 2,663,207 10.00 % Umpqua Bank $ 3,440,574 12.92 % $ 2,130,240 8.00 % $ 2,662,799 10.00 % Tier I Capital (to Risk Weighted Assets) &#160; &#160; &#160; &#160; &#160; Consolidated $ 2,934,708 11.02 % $ 1,597,924 6.00 % $ 2,130,565 8.00 % Umpqua Bank $ 3,174,899 11.92 % $ 1,597,680 6.00 % $ 2,130,240 8.00 % Tier I Common (to Risk Weighted Assets) Consolidated $ 2,934,708 11.02 % $ 1,198,443 4.50 % $ 1,731,084 6.50 % Umpqua Bank $ 3,174,899 11.92 % $ 1,198,260 4.50 % $ 1,730,820 6.50 % Tier I Capital (to Average Assets) &#160; &#160; &#160; &#160; &#160; &#160; Consolidated $ 2,934,708 9.14 % $ 1,283,669 4.00 % $ 1,604,586 5.00 % Umpqua Bank $ 3,174,899 9.89 % $ 1,283,610 4.00 % $ 1,604,513 5.00 % 
+
+Table of Contents 
+
