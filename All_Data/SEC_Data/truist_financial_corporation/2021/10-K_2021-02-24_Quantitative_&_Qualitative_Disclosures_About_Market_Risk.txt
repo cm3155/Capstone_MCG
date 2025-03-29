@@ -1,0 +1,404 @@
+Market Risk
+Market risk is the risk to current or anticipated earnings, capital or economic value arising from changes in the market value of portfolios,
+securities, or other financial instruments. Market risk results from changes in the level, volatility or correlations among financial market risk
+factors or prices, including interest rates, credit spreads, foreign exchange rates, equity, and commodity prices.
+Effective management of market risk is essential to achieving Truist's strategic financial objectives. Truist's most significant market risk
+exposure is to interest rate risk in its balance sheet; however, market risk also results from underlying product liquidity risk, price risk and
+volatility risk in Truist's BUs. Interest rate risk results from differences between the timing of rate changes and the timing of cash flows
+associated with assets and liabilities (re-pricing risk); from changing rate relationships among different yield curves affecting bank activities
+(basis risk); from changing rate relationships across the spectrum of maturities (yield curve risk); and from interest-related options inherently
+embedded in bank products (options risk).
+The primary objectives of effective market risk management are to minimize adverse effects from changes in market risk factors on net
+interest income, net income and capital and to offset the risk of price changes for certain assets and liabilities recorded at fair value. At Truist,
+market risk management also includes the enterprise-wide IPV function.
+66 Truist Financial Corporation
+Interest Rate Market Risk
+As a financial institution, Truist is exposed to interest rate risk both on its assets and on its liabilities. Since interest rate changes are out of
+the control of any private sector institution, Truist actively manages its interest rate risk exposure through the strategic repricing of its assets
+and liabilities, taking into account the volumes, maturities and mix, with the goal of keeping net interest margin as stable as possible. Truist
+primarily uses three methods to measure and monitor its interest rate risk: (i) simulations of possible changes to net interest income over the
+next two years based on gradual changes in interest rates; (ii) analysis of interest rate shock scenarios; and (iii) analysis of economic value
+of equity based on changes in interest rates.
+The Company’s simulation model takes into account assumptions related to prepayment trends, using a combination of market data and
+internal historical experiences for deposits and loans, as well as scheduled maturities and payments and the expected outlook for the
+economy and interest rates. These assumptions are reviewed and adjusted monthly to reflect changes in current interest rates compared to
+the rates applicable to Truist’s assets and liabilities. The model also considers Truist's current and prospective liquidity position, current
+balance sheet volumes and projected growth and/or contractions, accessibility of funds for short-term needs and capital maintenance.
+Deposit betas are an important assumption in the interest rate risk modeling process. Truist applies an average deposit beta (the sensitivity
+of deposit rate changes relative to market rate changes) of approximately 50% to its non-maturity interest-bearing deposit accounts when
+determining its interest rate sensitivity. Non-maturity, interest-bearing deposit accounts include interest checking accounts, savings accounts
+and money market accounts that do not have a contractual maturity. Truist also regularly conducts sensitivity analyses on other key
+variables, including noninterest-bearing deposits, to determine the impact these variables could have on the Company’s interest rate risk
+position. The predictive value of the simulation model depends upon the accuracy of the assumptions, but management believes that it
+provides helpful information for the management of interest rate risk.
+The following table shows the effect that the indicated changes in interest rates would have on net interest income as projected for the next
+12 months assuming a gradual change in interest rates as described below.
+Table 34: Interest Sensitivity Simulation Analysis
+Interest Rate Scenario Annualized Hypothetical Percentage Change in Net
+Interest Income Linear Change in
+Prime Rate (bps)
+Prime Rate
+Dec 31, 2020 Dec 31, 2019 Dec 31, 2020 Dec 31, 2019
+Up 100 4.25 % 5.75 % 4.18 % 0.95 %
+Up 50 3.75 5.25 3.24 0.75
+No Change 3.25 4.75 — —
+Down 25 (1) 3.00 4.50 (1.82) NA
+Down 50 (1) 2.75 4.25 (2.09) (1.18)
+(1) The Down 25 and 50 rates are floored at one basis point and may not reflect Down 25 and 50 basis points for all rate indices.
+Truist has established parameters related to interest rate sensitivity measures that prescribe a maximum impact on net interest income under
+different interest rate scenarios that would result in an escalation to the Board. The following parameters and interest rate scenarios are
+considered Truist's primary measures of interest rate risk:
+• Maximum impact on net interest income of 7.5% for the next 12 months assuming a 25 basis point change in interest rates each
+quarter for four quarters; and a
+• Maximum impact on net interest income of 10% for an immediate 100 basis point parallel change in rates.
+This interest rate shock analysis is designed to create an outer bound of acceptable interest rate risk.
+Management considers how the interest rate risk position could be impacted by changes in balance sheet mix. Liquidity in the banking
+industry has been very strong during the current economic cycle. Much of this liquidity increase has resulted in growth in noninterest-bearing
+demand deposits. Consistent with the industry, Truist has seen a significant increase in this funding source. The behavior of these deposits is
+one of the most important assumptions used in determining the interest rate risk position of Truist. A decrease in the amount of these
+deposits in the future would reduce the asset sensitivity of Truist’s balance sheet because the Company would increase interest-bearing
+funds to offset the loss of this advantageous funding source.
+The following table shows the results of Truist's interest-rate sensitivity position assuming the loss of demand deposits and an associated
+increase in managed rate deposits under various scenarios. For purposes of this analysis, Truist modeled the incremental beta of managed
+rate deposits for the replacement of the demand deposits at 100%.
+Truist Financial Corporation 67
+Table 35: Deposit Mix Sensitivity Analysis
+Linear Change in Rates
+(bps)
+Base Scenario at December
+31, 2020 (1)
+Results Assuming a Decrease in Noninterest-Bearing
+Demand Deposits
+$20 Billion $40 Billion
+Up 100 4.18 % 3.36 % 2.54 %
+Up 50 3.24 2.64 2.04
+(1) The base scenario is equal to the annualized hypothetical percentage change in net interest income at December 31, 2020 as presented
+in the preceding table.
+Truist also uses an EVE analysis to focus on longer-term projected changes in asset and liability values given potential changes in interest
+rates. This measure allows Truist to analyze interest rate risk that falls outside the net interest income simulation period. The EVE model is a
+discounted cash flow of the portfolio of assets, liabilities and derivative instruments. The difference in the present value of assets minus the
+present value of liabilities is defined as EVE.
+The following table shows the effect that the indicated changes in interest rates would have on EVE:
+Table 36: EVE Simulation Analysis
+Change in Interest Rates (bps)
+Hypothetical Percentage Change in EVE
+Dec 31, 2020 Dec 31, 2019
+Up 100 3.9 % (2.9)%
+No Change — —
+Down 100 (7.6) (3.0)
+Truist uses financial instruments including derivatives to manage interest rate risk related to securities, commercial loans, MSRs and
+mortgage banking operations, long-term debt and other funding sources. During October 2020, Truist initiated a new investment securities
+fair value hedging program, using fixed interest rate swaps to hedge prepayable securities. Truist also uses derivatives to facilitate
+transactions on behalf of its clients and as part of associated hedging activities. As of December 31, 2020, Truist had derivative financial
+instruments outstanding with notional amounts totaling $322.9 billion, with an associated net fair value of $3.3 billion. See "Note 19.
+Derivative Financial Instruments" for additional disclosures.
+LIBOR in its current form was anticipated to no longer be available after 2021. For most tenors of U.S. dollar LIBOR, subject to the results of
+a consultation period ending January 2021, the administrator of LIBOR is considering extending publication until June 30, 2023. Tenors used
+infrequently by Truist, including one week and two month U.S. dollar LIBOR, are still anticipated to cease publication at December 31, 2021,
+based on this new guidance. Truist has U.S. dollar LIBOR-based contracts that extend beyond June 30, 2023. To prepare for the transition to
+an alternative reference rate, management has formed a cross-functional project team to address the LIBOR transition. The project team has
+performed an assessment to identify the potential risks related to the transition from LIBOR to a new index. The project team provides
+updates to Executive Leadership and the Board.
+Contract fallback language for existing loans and leases is under review and certain contracts will need updated provisions for the transition.
+Current fallback language used for new, renewed, and modified contracts is generally consistent with ARRC recommendations. Updates to
+current fallback language will be evaluated according to new regulatory guidance for the extension of timelines for the transition and
+expectations for production of U.S. dollar LIBOR contracts during 2021. Truist continues to manage the impact of these contracts and other
+financial instruments, systems implications, hedging strategies, and related operational and market risks on established project plans for
+business and operational readiness for the transition. Market risks associated with this change are dependent on the alternative reference
+rates available and market conditions at transition. For a further discussion of the various risks associated with the potential cessation of
+LIBOR and the transition to alternative reference rates, refer to the section titled "Item1A. Risk Factors." In 2020, Truist began offering SOFRbased lending solutions to wholesale and consumer clients, and entered into SOFR-based derivative contracts. Truist expects SOFR to
+become a more commonly-used pricing benchmark across the industry. Truist continues to evaluate SOFR for additional product offerings
+and other alternative reference rates as replacements for LIBOR.
+Market risk from trading activities
+As a financial intermediary, Truist provides its clients access to derivatives, foreign exchange and securities markets, which generate market
+risks. Trading market risk is managed using a comprehensive risk management approach, which includes measuring risk using VaR, stress
+testing and sensitivity analysis. Risk metrics are monitored against a suite of limits on a daily basis at both the trading desk level and at the
+aggregate portfolio level, which is intended to ensure that exposures are in line with Truist's risk appetite.
+Truist is also subject to risk-based capital guidelines for market risk under the Market Risk Rule.
+68 Truist Financial Corporation
+Covered Trading Positions
+Covered positions subject to the Market Risk Rule include trading assets and liabilities, specifically those held for the purpose of short-term
+resale or with the intent of benefiting from actual or expected short-term price movements, or to lock in arbitrage profits. Truist’s trading
+portfolio of covered positions results primarily from market making and underwriting services for the Company’s clients, as well as associated
+risk mitigating hedging activity. The trading portfolio, measured in terms of VaR, consists primarily of four sub-portfolios of covered positions:
+(i) credit trading, (ii) fixed income securities, (iii) interest rate derivatives and (iv) equity derivatives. As a market maker across different asset
+classes, Truist’s trading portfolio also contains other sub-portfolios, including foreign exchange, loan trading, and commodity derivatives;
+however, these portfolios do not generate material trading risk exposures.
+Valuation policies, procedures, and methodologies exist for all covered positions. Additionally, trading positions are subject to independent
+price verification. See "Note 19. Derivative Financial Instruments," "Note 18. Fair Value Disclosures," and "Critical Accounting Policies" herein
+for discussion of valuation policies, procedures and methodologies.
+Securitizations
+As of December 31, 2020, the aggregate market value of on-balance sheet securitization positions subject to the Market Risk Rule was not
+material. Consistent with the Market Risk Rule requirements, the Company performs pre-purchase due diligence on each securitization
+position to identify the characteristics including, but not limited to, deal structure and the asset quality of the underlying assets, that materially
+affect valuation and performance. Securitization positions are subject to Truist’s comprehensive risk management framework, which includes
+daily monitoring against a suite of limits. There were no off-balance sheet securitization positions during the reporting period.
+Correlation Trading Positions
+The trading portfolio of covered positions did not contain any correlation trading positions as of December 31, 2020.
+VaR-Based Measures
+VaR measures the potential loss of a given position or portfolio of positions at a specified confidence level and time horizon. Truist utilizes a
+historical VaR methodology to measure and aggregate risks across its covered trading positions. Prior to the integration of the two
+institutional broker dealer businesses to form Truist Securities in the third quarter of 2020, Truist operated two historical VaR models and the
+aggregate company-wide VaR across the systems was determined additively with no benefit of diversification. The heritage BB&T VaR model
+was retired following the formation of Truist Securities. Following the formation of Truist Securities, VaR is calculated on a consolidated basis
+using the Truist VaR engine. For risk management purposes, the VaR calculation is based on a historical simulation approach and measures
+the potential trading losses using a one-day holding period at a one-tail, 99% confidence level. For Market Risk Rule purposes, the Company
+calculates VaR using a 10-day holding period and a 99% confidence level. Due to inherent limitations of the VaR methodology, such as the
+assumption that past market behavior is indicative of future market performance, VaR is only one of several tools used to measure and
+manage market risk. Other tools used to actively manage market risk include stress testing, profit and loss attribution, and stop loss limits.
+The trading portfolio’s VaR profile is influenced by a variety of factors, including the size and composition of the portfolio, market volatility and
+the correlation between different positions. A portfolio of trading positions is typically less risky than the sum of the risk from each of the
+individual sub-portfolios, because, under normal market conditions, risk within each category partially offsets the exposure to other risk
+categories. The following table summarizes certain VaR-based measures for both the three and twelve months ended December 31, 2020
+and 2019. The increase from the prior year was mainly due to the integration of the heritage SunTrust trading business and the market
+volatility due to the COVID-19 pandemic. As illustrated in the tables below, the inclusion of volatility levels observed in March 2020 in the 12-
+month VaR historic look-back window led to a convergence between VaR and Stressed VaR measures.
+Truist Financial Corporation 69
+Table 37: VaR-based Measures
+Year Ended December 31, 2020 2019
+(Dollars in millions) 10-Day Holding Period 1-Day Holding Period 10-Day Holding Period 1-Day Holding Period
+VaR-based Measures:
+Maximum $ 65 $ 11 $ 9 $ 2
+Average 27 6 1 1
+Minimum 3 1 — —
+Period-end 28 7 7 2
+VaR by Risk Class:
+Interest Rate Risk 2 2
+Credit Spread Risk 9 3
+Equity Price Risk 2 2
+Foreign Exchange Risk — —
+Portfolio Diversification (5) (5)
+Period-end 7 2
+Stressed VaR-based measures
+Stressed VaR, another component of market risk capital, is calculated using the same internal models as used for the VaR-based measure.
+Stressed VaR is calculated over a ten-day holding period at a one-tail, 99% confidence level and employs a historical simulation approach
+based on a continuous twelve-month historical window selected to reflect a period of significant financial stress for the Company’s trading
+portfolio. The following table summarizes Stressed VaR-based measures:
+Table 38: Stressed VaR-based Measures - 10 Day Holding Period
+Year Ended December 31,
+(Dollars in millions) 2020 2019
+Maximum $ 65 $ 33
+Average 33 5
+Minimum 13 2
+Period-end 28 28
+The increase from the prior year in stressed VaR-based measures was due to the integration of heritage SunTrust trading business after the
+Merger and the market volatility due to the COVID-19 pandemic.
+Specific Risk Measures
+Specific risk is a measure of idiosyncratic risk that could result from risk factors other than broad market movements (e.g. default, event
+risks). The Market Risk Rule provides fixed risk weights under a standardized measurement method while also allowing a model-based
+approach, subject to regulatory approval. Truist utilizes the standardized measurement method to calculate the specific risk component of
+market risk regulatory capital. As such, incremental risk capital requirements do not apply.
+VaR Model Backtesting
+In accordance with the Market Risk Rule, the Company evaluates the accuracy of its VaR model through daily backtesting by comparing
+aggregate daily trading gains and losses (excluding fees, commissions, reserves, net interest income, and intraday trading) from covered
+positions with the corresponding daily VaR-based measures generated by the model.
+There were seven company-wide VaR backtesting exceptions during the twelve months ended December 31, 2020, primarily driven by the
+COVID-19 pandemic, which led to a sudden and significant repricing of instruments in financial markets during the first and second quarters
+of 2020, as well as an increase in market volatility and deterioration in overall market liquidity. In accordance with established policy and
+procedure, all company-wide VaR backtesting exceptions are thoroughly reviewed in the context of VaR model use and performance.
+Following such reviews, Truist determined that the VaR model performed in line with expectations and that the significant moves in
+underlying market risk factors caused by the COVID-19 pandemic would not typically have been captured within the 1-day VaR measure.
+70 Truist Financial Corporation
+Model Risk Management
+MRM is responsible for the independent model validation of all decision tools and models including trading market risk models. The validation
+activities are conducted in accordance with MRM policy, which incorporates regulatory guidance related to the evaluation of model
+conceptual soundness, ongoing monitoring and outcomes analysis. As part of ongoing monitoring efforts, the performance of all trading risk
+models are reviewed regularly to preemptively address emerging developments in financial markets, assess evolving modeling approaches,
+and to identify potential model enhancement.
+Stress Testing
+The Company uses a comprehensive range of stress testing techniques to help monitor risks across trading desks and to augment standard
+daily VaR and other risk limits reporting. The stress testing framework is designed to quantify the impact of extreme, but plausible, stress
+scenarios that could lead to large unexpected losses. Stress tests include simulations for historical repeats and hypothetical risk factor
+shocks. All trading positions within each applicable market risk category (interest rate risk, equity risk, foreign exchange rate risk, credit
+spread risk, and commodity price risk) are included in the Company's comprehensive stress testing framework. Management reviews stress
+testing scenarios on an ongoing basis and makes updates, as necessary, which is intended to ensure that both current and emerging risks
+are captured appropriately. Management also utilizes stress analyses to support the Company’s capital adequacy assessment standards.
+See the "Capital" section of this MD&A for additional discussion of capital adequacy.
+Credit Risk
+Credit risk is the risk to current or anticipated earnings or capital arising from the default, inability or unwillingness of a borrower, obligor, or
+counterparty to meet the terms of any financial obligation to Truist or otherwise perform as agreed. Credit risk exists in all activities where
+success depends on the performance of a borrower, obligor, or counterparty. Credit risk arises when Truist funds are extended, committed,
+invested, or otherwise exposed through actual or implied contractual agreements, whether on or off-balance sheet. Credit risk increases
+when the credit quality of an issuer whose securities or other instruments the bank holds deteriorates.
+Truist has established the following general practices to manage credit risk:
+• limiting the amount of credit that individual lenders may extend to a borrower;
+• establishing a process for credit approval accountability;
+• careful initial underwriting and analysis of borrower, transaction, market and collateral risks;
+• ongoing servicing and monitoring of individual loans and lending relationships;
+• continuous monitoring of the portfolio, market dynamics and the economy; and
+• periodically reevaluating the Company's strategy and overall exposure as economic, market and other relevant conditions change.
+Truist Financial Corporation 71
+The following discussion describes the underwriting procedures and overall risk management of Truist's lending function.
+Underwriting Approach
+The loan portfolio is a primary source of profitability and risk; therefore, proper loan underwriting is critical to Truist's long-term financial
+success. Truist's underwriting approach is designed to define acceptable combinations of specific risk-mitigating features that promote credit
+relationships that conform to Truist's risk philosophy. Provided below is a summary of the most significant underwriting criteria used to
+evaluate new loans and loan renewals:
+• Cash flow and debt service coverage - cash flow adequacy is a necessary condition of creditworthiness, meaning that loans must
+either be clearly supported by a borrower's cash flow or, if not, must be justified by secondary repayment sources.
+• Secondary sources of repayment - alternative repayment funds are a significant risk-mitigating factor as long as they are liquid, can
+be easily accessed, and provide adequate resources to supplement the primary cash flow source.
+• Value of any underlying collateral - loans are generally secured by the asset being financed. Because an analysis of the primary and
+secondary sources of repayment is the most important factor, collateral, unless it is liquid, does not justify loans that cannot be
+serviced by the borrower's normal cash flows.
+• Overall creditworthiness of the client, taking into account the client's relationships, both past and current, with Truist and other
+lenders - Truist's success depends on building lasting and mutually beneficial relationships with clients, which involves assessing
+their financial position and background.
+• Level of equity invested in the transaction - in general, borrowers are required to contribute or invest a portion of their own funds prior
+to any loan advances.
+Refer to the "Lending Activities" section in this MD&A for a discussion of each loan and lease portfolio.
+Liquidity Risk
+Liquidity risk is the risk that (i) Truist will be unable to meet its obligations as they come due because of an inability to obtain adequate
+funding (funding liquidity risk), or (ii) Truist cannot easily unwind or offset specific exposures without significantly lowering market prices
+because of inadequate market depth or market disruptions (market liquidity risk).
+Compliance Risk
+Compliance risk is the risk to current or anticipated earnings or capital arising from violations of laws, rules or regulations, or from nonconformance with prescribed practices, internal policies and procedures or ethical standards. This risk exposes Truist to fines, civil monetary
+penalties, payment of damages and the voiding of contracts. Compliance risk can result in diminished reputation, reduced franchise or
+enterprise value, limited business opportunities and lessened expansion potential.
+Strategic Risk
+Strategic risk is the risk of financial loss, diminished stakeholder confidence, or negative impact to human capital resulting from ineffective
+strategy setting and execution, adverse business decisions, or lack of responsiveness to changes in the banking industry and operating
+environment. Truist is committed to fulfilling its overall strategic objectives by selecting business strategies and operating businesses in a
+manner consistent with achieving profitability/earnings growth and maintaining strong confidence and trust with its key stakeholder
+constituencies.
+Reputation Risk
+Reputation risk is the risk to current or anticipated earnings, capital, enterprise value, the Truist brand, and public confidence arising from
+negative publicity or public opinion, whether real or perceived, regarding Truist's business practices, products, services, transactions, or other
+activities undertaken by Truist, its representatives, or its partners. A negative reputation may impair Truist's relationship with clients,
+teammates, communities or shareholders, and it is often a residual risk that arises when other risks are not managed properly.
+Operational Risk
+Operational risk is the risk to current or anticipated earnings or capital arising from inadequate or failed internal processes, people and
+systems or from external events. It includes legal risk, which is the risk of loss arising from defective transactions, litigation or claims made, or
+the failure to adequately protect company-owned assets. An operational loss occurs when an event results in a loss or reserve originating
+from operational risk.
+72 Truist Financial Corporation
+Model Risk
+Model risk is the risk to current or anticipated earnings or capital from decisions based on incorrect or misused model outputs. Truist uses
+models for many purposes, including the valuation of financial positions, estimation of credit losses, and the measurement of risk. Valuation
+models are used to value certain financial instruments for which quoted prices may not be readily available. Valuation models are also used
+as inputs for VaR, the estimation of VaR itself, regulatory capital, stress testing and the ACL. Models are owned by the applicable BUs, who
+are responsible for the development, implementation and use of their models. Oversight of these functions is performed by the MRM, which
+is a component of the RMO. Once models have been approved, model owners are responsible for the maintenance of an appropriate
+operating environment and must monitor and evaluate the performance of the models on a recurring basis. Models are updated in response
+to changes in portfolio composition, industry and economic conditions, technological capabilities and other developments.
+MRM manages model risk in a holistic manner through a suite of model governance and model validation activities. The risk of each model is
+assessed and classified into various risk tiers. Additionally, MRM maintains an enterprise-wide model inventory containing relevant model
+information. Regarding model validation, MRM utilizes internal validation analysts and managers with skill sets in predictive modeling to
+perform detailed reviews of model development, implementation and conceptual soundness. On certain occasions, the MRM will also engage
+external parties to assist with validation efforts. Once in a production environment, MRM assesses a model’s performance on a periodic basis
+through ongoing monitoring reviews. MRM tracks issues that have been identified during model validation or through ongoing monitoring, and
+engages with model owners to ensure their timely remediation. MRM gauges model risk utilizing a collection of key risk indicators, which are
+periodically reported to relevant committees, including but not limited to, the Model Risk Management Committee as well as the Board Risk
+Committee. MRM will also present model risk topics to the Board Risk Committee as necessary.
+Merger Integration Risk
+The Truist Merger Program was designed to ensure successful integration following the Merger through strong governance practices and
+controls, with processes, metrics and reporting exemplifying a strong risk culture. The core Truist Merger Program structure consists of key
+stakeholders from each line of business. Integration activities and risk mitigation are monitored through established workgroups and Truist
+Merger Program leadership, with oversight and escalation into the Merger Oversight Committee (as the primary committee), TMC and Board
+Technology Committee.
+Technology Risk
+Technology risk is the business risk associated with the use, ownership, operation, involvement, influence and adoption of information
+technology across the Company. Truist has defined and adopted a technology risk framework that provides the foundation for technology risk
+strategy, program and oversight and defines key objectives, operating model components, risk domains and capabilities to manage this risk.
+Digital technology is constantly evolving, and new and unforeseen threats and actions by others may disrupt operations or result in losses
+beyond Truist’s risk control thresholds. Truist maintains a comprehensive risk-based information security / cybersecurity framework
+implemented through people, processes, and technology whereby Truist actively monitors and evaluates threats, events, and the
+performance of its business operations and continually adapts its risk mitigation activities accordingly.
+Truist's framework aligns with those of the National Institute of Standards and Technology, the International Standards Organization 27000
+series, the IT Governance Institute, and the Control Objectives for Information and Related Technology, as well as conforms with the
+requirements and guidance from applicable regulatory authorities, including the Federal Financial Institutions Examination Council. In
+addition, Truist’s framework, which includes internally and externally focused capabilities, drives the development and implementation of
+Truist’s holistic data security strategy that is designed to reduce risk while enabling Truist’s corporate business objectives.
+Truist has built an organization with dedicated, skilled talent to operationalize Truist’s cybersecurity strategy. The cybersecurity strategy is
+enabled by continuous enhancement of Truist’s multilayered defenses including advanced capabilities for early and rapid cyber threat
+identification, detection, protection, response, and recovery. Truist participates in the federally recognized financial sector information sharing
+organization structure, known as the Financial Services Information Sharing and Analysis Center as a key part of the Company’s cyber threat
+intelligence and response programs, as well as other industry organizations and initiatives that promote industry best practices such as
+harmonized cybersecurity standards, cyber readiness, and secure consumer financial data sharing.
+To further mitigate the risks presented by an evolving cyber threat landscape, Truist provides data protection guidance to clients and
+promotes data protection awareness and accountability through mandatory teammate training. Truist conducts scenario-driven test exercises
+simulating impacts and consequences developed through analysis of real-world technology incidents as well as known and anticipated cyber
+threats. These exercises are designed to assess the viability of Truist’s crisis response and management programs and provide the basis for
+continuous improvement.
+Truist Financial Corporation 73
+Truist’s cybersecurity risk program is overseen by Executive Leadership and the Board. Regular updates on the status of the cybersecurity
+risk program, including information security risks and incidents, emerging threats, and control environment, are aggregated and escalated to
+Executive Leadership and the Board. Additionally, Truist has a Cyber Incident Response Team that manages significant cyber-specific events
+with escalation up to Executive Leadership and the Board. Truist’s framework requires annual exercises at a minimum to test Truist’s
+preparedness. The Board devotes significant time and attention to its oversight of cyber security risk and approves related information
+security policies. Although Truist has invested substantial resources to manage and reduce cybersecurity risk, it is not possible to completely
+eliminate this risk. Truist obtains insurance that protects against certain losses, expenses, and damages associated with cybersecurity risk.
+See Item 1A, "Risk Factors," for additional information regarding cybersecurity risk.
+Liquidity
+Liquidity represents the continuing ability to meet funding needs, including deposit withdrawals, repayment of borrowings and other liabilities,
+and funding of loan commitments. In addition to the level of liquid assets, such as cash, cash equivalents and AFS securities, other factors
+affect the ability to meet liquidity needs, including access to a variety of funding sources, maintaining borrowing capacity, growing core
+deposits, loan repayment and the ability to securitize or package loans for sale.
+Truist monitors the ability to meet client demand for funds under both normal and stressed market conditions. In considering its liquidity
+position, management evaluates Truist's funding mix based on client core funding, client rate-sensitive funding and national markets funding.
+In addition, management evaluates exposure to rate-sensitive funding sources that mature in one year or less. Management also measures
+liquidity needs against 30 days of stressed cash outflows for Truist and Truist Bank. To ensure a strong liquidity position and compliance with
+regulatory requirements, management maintains a liquid asset buffer of cash on hand and highly liquid unencumbered securities. As of
+December 31, 2020 and December 31, 2019, Truist's liquid asset buffer, as a percent of total assets, was 20.2% and 16.5%, respectively.
+The LCR rule directs large U.S. banking organizations to hold unencumbered high-quality liquid assets sufficient to withstand projected 30-
+day total net cash outflows, each as defined under the LCR rule. As of January 1, 2020, Truist is subject to the Category III reduced LCR
+requirements. Truist's average LCR was 113% for the three months ended December 31, 2020, well above the regulatory minimum of 100%.
+Parent Company
+The Parent Company serves as the primary source of capital for the operating subsidiaries. The Parent Company's assets consist primarily
+of cash on deposit with Truist Bank, equity investments in subsidiaries, advances to subsidiaries, and notes receivable from subsidiaries. The
+principal obligations of the Parent Company are payments on long-term debt. The main sources of funds for the Parent Company are
+dividends and management fees from subsidiaries, repayments of advances to subsidiaries, and proceeds from the issuance of equity and
+long-term debt. The primary uses of funds by the Parent Company are investments in subsidiaries, advances to subsidiaries, dividend
+payments to common and preferred shareholders, retirement of common stock, and payments on long-term debt.
+See "Note 22. Parent Company Financial Information" for additional information regarding dividends from subsidiaries and debt transactions.
+Access to funding at the Parent Company is more sensitive to market disruptions. Therefore, Truist prudently manages cash levels at the
+Parent Company to cover a minimum of one year of projected cash outflows which includes unfunded external commitments, debt service,
+common and preferred dividends and scheduled debt maturities, without the benefit of any new cash inflows. Truist maintains a significant
+buffer above the projected one year of cash outflows. In determining the buffer, Truist considers cash requirements for common and
+preferred dividends, unfunded commitments to affiliates, serving as a source of strength to Truist Bank, and being able to withstand
+sustained market disruptions that could limit access to the capital markets. At December 31, 2020 and December 31, 2019, the Parent
+Company had 43 months and 29 months, respectively, of cash on hand to satisfy projected cash outflows, and 22 months and 20 months,
+respectively, when including the payment of common stock dividends.
+Truist Bank
+Truist carefully manages liquidity risk at Truist Bank. Truist Bank's primary source of funding is client deposits. Continued access to client
+deposits is highly dependent on public confidence in the stability of Truist Bank and its ability to return funds to clients when requested.
+Truist Bank maintains a number of diverse funding sources to meet its liquidity requirements. These sources include unsecured borrowings
+from the capital markets through the issuance of senior or subordinated bank notes, institutional CDs, overnight and term Federal funds
+markets, and retail brokered CDs. Truist Bank also maintains access to secured borrowing sources including FHLB advances, repurchase
+agreements, and the FRB discount window. At December 31, 2020, Truist Bank had approximately $198.7 billion of available secured
+borrowing capacity, which represents approximately 9.4 times the amount of wholesale funding maturities in one-year or less. In addition to
+secured borrowing sources, Truist had excess eligible cash at the Federal Reserve Bank of $13.4 billion at December 31, 2020.
+74 Truist Financial Corporation
+The ability to raise funding at competitive prices is affected by the rating agencies' views of the Parent Company's and Truist Bank's credit
+quality, liquidity, capital and earnings. Management meets with the rating agencies on a regular basis to discuss current outlooks. In April
+2020, DBRS revised its outlook for Truist and Truist Bank from "positive" to "stable," citing economic deterioration related to COVID-19.
+DBRS affirmed all other ratings for Truist and Truist Bank. Additionally, Fitch revised its outlook for Truist and Truist Bank from "stable" to
+"negative," also citing pandemic-related economic deterioration. Fitch downgraded Truist’s subordinated debt to A-, and upgraded Truist’s
+preferred stock to BBB, in order to align these ratings to its recently revised bank rating methodology.
+In July 2020, Fitch completed the implementation of its revised bank rating methodology. As a result, Fitch downgraded Truist’s senior
+unsecured debt to A and affirmed Truist Bank’s senior unsecured and subordinated debt ratings. This rating action taken by Fitch was solely
+a function of implementing its revised bank rating methodology and did not reflect a change in Fitch’s current or expected view of Truist’s or
+Truist Bank’s credit fundamentals.
+The ratings for Truist and Truist Bank by the major rating agencies are detailed in the table below:
+Table 39: Credit Ratings of Truist Financial Corporation and Truist Bank
+S&P Moody's Fitch DBRS Morningstar
+Truist Financial Corporation:
+Issuer A- / A-2 A3 A+ / F1 AH / R-1L
+Senior unsecured A- A3 A AH
+Subordinated BBB+ A3 A- A
+Preferred stock BBB- Baa2(hyb) BBB BBBH
+Truist Bank:
+Issuer A / A-1 A2 A+ / F1 AAL / R-1M
+Senior unsecured A A2 A+ AAL
+Deposits NA Aa2 / P-1 AA- / F1+ AAL / R-1M
+Subordinated A- (P) A3 A AH
+Ratings outlook:
+Credit trend Stable Stable Negative Stable
+Truist has a contingency funding plan designed to ensure that liquidity sources are sufficient to meet ongoing obligations and commitments,
+particularly in the event of a liquidity contraction. This plan is designed to examine and quantify the organization's liquidity under various
+"stress" scenarios. Additionally, the plan provides a framework for management and other critical personnel to follow in the event of a liquidity
+contraction or in anticipation of such an event. The plan addresses authority for activation and decision making, liquidity options, and the
+responsibilities of key departments in the event of a liquidity contraction.
+Management believes current sources of liquidity are adequate to meet Truist's current requirements and plans for continued growth. See
+"Note 9. Other Assets and Liabilities," "Note 11. Borrowings" and "Note 16. Commitments and Contingencies" for additional information
+regarding outstanding balances of sources of liquidity and contractual commitments and obligations.

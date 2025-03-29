@@ -1,0 +1,558 @@
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes included elsewhere in this quarterly report. This quarterly report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements, which speak to our expected business and financial performance, among other matters, contain words such as "believe," "expect," "anticipate," "intend," "plan," "aim," "will," "may," "should," "could," "would," "likely," "forecast," and similar expressions. Such statements are based on the current beliefs and expectations of our management and are subject to significant risks and uncertainties. Actual results may differ materially from those set forth in the forward-looking statements. These forward-looking statements speak only as of the date of this quarterly report and there is no undertaking to update or revise them as more information becomes available. 
+
+The following factors, among others, could cause actual results to differ materially from those set forth in the forward-looking statements: changes in economic variables, such as the availability of consumer credit, the housing market, energy costs, the number and size of personal bankruptcy filings, the rate of unemployment, the levels of consumer confidence and consumer debt and investor sentiment; the impact of current, pending and future legislation, regulation, supervisory guidance and regulatory and legal actions, including, but not limited to, those related to accounting guidance, tax reform, financial regulatory reform, consumer financial services practices, anti-corruption and funding, capital and liquidity; the actions and initiatives of current and potential competitors; our ability to manage our expenses; our ability to successfully achieve card acceptance across our networks and maintain relationships with network participants and merchants; our ability to sustain and grow our private student loan, personal loan and home loan products; difficulty obtaining regulatory approval for, financing, closing, transitioning, integrating or managing the expenses of acquisitions of or investments in new businesses, products or technologies; our ability to manage our credit risk, market risk, liquidity risk, operational risk, legal and compliance risk and strategic risk; the availability and cost of funding and capital; access to deposit, securitization, equity, debt and credit markets; the impact of rating agency actions; the level and volatility of equity prices, commodity prices and interest rates, currency values, investments, other market fluctuations and other market indices; losses in our investment portfolio; limits on our ability to pay dividends and repurchase our common stock; limits on our ability to receive payments from our subsidiaries; fraudulent activities or material security breaches of our or others' key systems; our ability to remain organizationally effective; our ability to increase or sustain Discover card usage or attract new customers; our ability to maintain relationships with merchants; the effect of political, economic and market conditions, geopolitical events, climate change, pandemics and unforeseen or catastrophic events; our ability to introduce new products and services; our ability to manage our relationships with third-party vendors, as well as those with which we have no direct relationship such as our employees' internet service providers; our ability to maintain current technology and integrate new and acquired systems and technology; our ability to collect amounts for disputed transactions from merchants and merchant acquirers; our ability to attract and retain employees; our ability to protect our reputation and our intellectual property; our ability to comply with regulatory requirements; and new lawsuits, investigations or similar matters or unanticipated developments related to current matters. We routinely evaluate and may pursue acquisitions of or investments in businesses, products, technologies, loan portfolios or deposits, which may involve payment in cash or our debt or equity securities. 
+
+Additional factors that could cause our results to differ materially from those described below can be found in this section of this quarterly report and in "Risk Factors," "Business," and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our annual report on Form 10-K for the year ended December 31, 2022, which is filed with the Securities and Exchange Commission ("SEC") and available at the SEC's internet site (https://www.sec.gov). 
+
+Introduction and Overview 
+
+Discover Financial Services ("DFS") is a digital banking and payment services company. We provide digital banking products and services and payment services through our subsidiaries. We offer our customers credit card loans, private student loans, personal loans, home loans and deposit products. We also operate the Discover Network, the PULSE network ("PULSE") and Diners Club International ("Diners Club"), collectively known as the Discover Global Network. The Discover Network processes transactions for Discover-branded credit and debit cards and provides payment transaction processing and settlement services. PULSE operates an electronic funds transfer network, providing financial institutions issuing debit cards on the PULSE network with access to ATMs domestically and internationally and merchant acceptance throughout the United States of America ("U.S.") for debit card transactions. Diners Club is a global payments network of licensees, which are generally financial institutions, that issue Diners Club branded credit and charge cards and/or provide card acceptance services. 
+
+Our primary revenues consist of interest income earned on loan receivables and fees earned from customers, financial institutions, merchants and issuers. The primary expenses required to operate our business include funding costs (interest expense), credit loss provisions, customer rewards and expenses incurred to grow, manage and service our loan receivables and networks. Our business activities are funded primarily through consumer deposits, securitization of loan receivables and the issuance of unsecured debt. 
+
+Quarter Highlights 
+
+The highlights below compare results as of and for the three months ended September 30, 2023, against results for the same period in the prior year. 
+
+&#8226; Net income was $683 million, or $2.59 per diluted share, compared to net income of $1.0 billion, or $3.56 per diluted share, in the prior year. 
+
+&#8226; Total loans grew $17.8 billion, or 17%, to $122.7 billion. 
+
+&#8226; Credit card loans grew $13.8 billion, or 16%, to $97.4 billion. 
+
+&#8226; The net charge-off rate for credit card loans increased 211 basis points to 4.03% and the delinquency rate for credit card loans over 30 days past due increased 130 basis points to 3.41%. 
+
+&#8226; Direct-to-consumer deposits grew $15.0 billion, or 23%, to $81.2 billion. 
+
+&#8226; Payment Services transaction volume for the segment was $91.8 billion, up 9%. 
+
+Outlook 
+
+The outlook below provides our current expectations for our financial results based on market conditions, the regulatory and legal environment and our business strategies. 
+
+&#8226; We expect continued loan growth driven by moderation in the payment rate, recent account growth and our current expectation of sales trends. 
+
+&#8226; Based on the current interest rate environment, net interest margin is expected to be relatively flat in comparison to 2022. 
+
+&#8226; We expect the total net charge-off rate to increase, in comparison to the prior year, driven by the seasoning of recent vintages with higher delinquencies. 
+
+&#8226; Total expenses are expected to increase, driven by investments in acquisition and brand, compliance and risk management capabilities, technology and analytics. We remain committed to managing expenses while continuing to make investments in profitable long-term growth. 
+
+Regulatory Environment and Developments 
+
+Banking 
+
+Capital Standards and Stress Testing 
+
+As a bank holding company, DFS is subject to mandatory supervisory stress tests every other year and is required to submit annual capital plans to the Federal Reserve based on forward-looking internal analysis of income and capital levels under baseline and stressful conditions. DFS is also subject to capital buffer requirements, including the Stress Capital Buffer ("SCB"), which requires maintaining regulatory capital levels above a threshold based on the results of supervisory stress tests after accounting for planned dividend payments. 
+
+In January 2021, the Federal Reserve finalized regulatory amendments that made targeted changes to the capital planning, regulatory reporting and SCB requirements for firms subject to Category IV standards, including DFS, to be consistent with the Federal Reserve&#8217;s regulatory tailoring framework. The final rules generally align to instructions the Federal Reserve previously provided to Category IV firms regarding their respective capital plan submissions. The amended rules also provide Category IV firms with the option to submit to supervisory stress tests during off years if they wish for the Federal Reserve to reset the stress test portion of their SCB requirement. The Federal Reserve also revised the scope of application of its existing regulatory guidance for capital planning to align with the tailoring framework. However, the timing and substance of any additional changes to existing guidance or new guidance are uncertain. Moreover, following the failure of two domestic banks during March 2023, members of Congress, the President of the United States and various bank regulatory authorities have made public statements indicating a desire for additional prudential regulation for Category IV firms like DFS. 
+
+In July 2023, the Federal Reserve, the Office of the Comptroller of the Currency ("OCC") and the Federal Deposit Insurance Corporation ("FDIC") issued a proposal to amend the risk-based capital framework, which includes replacing the current "advanced approach" with a new expanded risk-based approach. In addition, the proposal introduces new standardized approaches for credit risk, operational risk and credit valuation adjustment risk, and would significantly revise risk-based capital requirements for all banking institutions with assets of $100 billion or more, including DFS. If adopted, the new requirements would be effective July 1, 2025 with a three-year transition period. 
+
+In August 2023, the Federal Reserve, the FDIC and the OCC (the &#8220;Agencies&#8221;) issued a proposal that would require banking institutions in Categories II through IV of the tailoring framework, including DFS, and their insured depository institution subsidiaries with $100 billion or more in assets such as Discover Bank, to have minimum levels of outstanding long-term debt. Under the proposed rule, a covered banking institution would be required to have a minimum outstanding amount of eligible long-term debt that is at least 6% of the institution&#8217;s total risk-weighted assets, 2.5% of its total leverage exposure (if it is required to maintain a minimum supplementary leverage ratio) and 3.5% of its average total consolidated assets, whichever is greater. If adopted, banking institutions would have three years to comply with the new requirements, though the Agencies would retain the authority to accelerate or extend the transition period. 
+
+While we cannot currently predict the timing or substance of the finalization of these proposals or other regulatory changes, if any such change were adopted, it could present changes to some or all of the regulatory tailoring currently applicable to DFS, otherwise tighten the prudential regulatory requirements that would apply to DFS and increase our expenses. 
+
+In June 2022, the Federal Reserve released results of the 2022 Comprehensive Capital Analysis and Review ("CCAR") exercise. Our capital levels demonstrated resiliency under stress, staying well above regulatory minimums. Based on these results, in August 2022, our new SCB was set at 2.5%, the lowest possible requirement. This new SCB was effective October 1, 2022, through September 30, 2023. In accordance with the capital plan rule amendments, we elected not to participate in the 2023 supervisory stress tests. Nevertheless, on April 5, 2023, we submitted to the Federal Reserve a capital plan based on a forward-looking internal assessment of income and capital under baseline and stressful conditions. On July 27, 2023, the Federal Reserve disclosed that our SCB was unchanged at 2.5%, effective beginning October 1, 2023 through September 30, 2024. 
+
+London Interbank Offered Rate Transition 
+
+In March 2021, the United Kingdom's Financial Conduct Authority ("FCA") announced that it would no longer encourage or compel banks to continue to contribute quotes and maintain the London Interbank Offered Rate ("LIBOR") after December 31, 2021, and the most commonly used U.S. dollar ("USD") LIBOR settings ceased to be published on a representative basis in July 2023. 
+
+On December 16, 2022, the Federal Reserve adopted a final rule, which became effective on February 27, 2023, implementing the Adjustable Interest Rate (LIBOR) Act ("LIBOR Act"), which provides a statutory framework to replace LIBOR with a benchmark rate based on the Secured Overnight Financing Rate ("SOFR") for contracts governed by U.S. law that do not have fallback provisions or that have fallback provisions resulting in a replacement rate based on LIBOR. 
+
+In connection with the transition, $1.8 billion of our LIBOR-based capital markets securities transitioned to the corresponding tenor for Chicago Mercantile Exchange ("CME") Term SOFR Reference Rate plus the applicable tenor spread adjustment in a manner consistent with the LIBOR Act and the regulation implementing the LIBOR Act. Additionally, approximately $500 million of Discover Bank's subordinated notes not covered under the LIBOR Act reset in August 2023 consistent with their fallback provisions. 
+
+As of September 30, 2023, LIBOR-indexed variable-rate loans comprised approximately 33% of our private student loan portfolio and approximately 3% of our aggregate loan portfolio. These outstanding private student loans converted to a SOFR index in October 2023. As of November 2021, we no longer originate new variable-rate student loans indexed to LIBOR. Instead, new originations of such loans are indexed solely to 3-month term SOFR, as published by the CME. 
+
+For additional information regarding the replacement of LIBOR and other benchmark rates, see "Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations &#8212; Regulatory Environment and Developments &#8212; Banking &#8212; London Interbank Offered Rate" in our annual report on Form 10-K for the year ended December 31, 2022. 
+
+Consumer Financial Services 
+
+The CFPB regulates consumer financial products and services and examines certain providers of consumer financial products and services, including Discover. The CFPB's authority includes rulemaking, supervisory and enforcement powers with respect to federal consumer protection laws; preventing "unfair, deceptive or abusive acts or practices" ("UDAAP") and ensuring that consumers have access to fair and transparent financial products and services. Historically, the CFPB's policy priorities focused on several financial products of the type we offer (e.g., credit cards and other consumer lending products). In addition, the CFPB is required by statute to undertake certain actions including its biennial review of the consumer credit card market. 
+
+The CFPB&#8217;s priorities have continued to focus on, among other things, increased enforcement of existing consumer protection laws, with a particular focus on fees charged to consumers, UDAAP, fair lending, student lending and servicing, debt collection and credit reporting. Additionally, detection of repeat offenders, such as companies that violate a formal court or agency order, has also become a priority for the CFPB. Director Chopra, in March 2022, identified, as repeat offenders, several companies that have had multiple enforcement actions, including Discover. The CFPB has recently taken action against financial institutions for violating prior enforcement actions. In December 2020, certain of our subsidiaries entered into a consent order with the CFPB regarding identified private student loan servicing practices. See Note 13: Litigation and Regulatory Matters to our condensed consolidated financial statements for more information. 
+
+On February 1, 2023, the CFPB proposed a rule to alter Regulation Z&#8217;s late fee standards that includes caps on fees for late payments, which could result in increased cardholder delinquencies and credit losses. 
+
+Enhanced regulatory requirements, potential supervisory findings, or enforcement actions and ratings could negatively impact our ability to implement certain consumer-focused enhancements to product features and functionality and business strategies, limit or change our business practices, limit our consumer product offerings, cause us to invest more management time and resources in compliance efforts or limit our ability to obtain related required regulatory approvals. The additional expense, time and resources needed to comply with ongoing or new regulatory requirements may adversely impact the cost of and access to credit for consumers and results of business operations. 
+
+Data Security and Privacy 
+
+Policymakers at the federal and state levels remain focused on enhancing data security and data breach incident response requirements. Furthermore, regulations and legislation at various levels of government continue to be proposed and enacted to augment consumer data privacy standards and require companies to assess and/or disclose cybersecurity metrics, risks, opportunities, policies and practice. At the federal level, Discover is subject to the Gramm-Leach-Bliley Act ("GLBA") and its implementing regulations and guidance, which regulate Discover's use and disclosure of our consumers' nonpublic personal information ("NPI"). At the state level, the California Consumer Privacy Act ("CCPA"), which became effective in 2020, created a broad set of privacy rights and remedies. The California Privacy Rights Act ("CPRA"), which became effective on January 1, 2023, amends the CCPA, enhancing consumer privacy protections and creating a new California Privacy Protection Agency ("CPPA"). A California court recently issued an order delaying enforcement of the CPRA regulations from July 1, 2023, until March 29, 2024, although the CPPA may still decide to enforce the provisions of the CCPA, as amended. By the end of 2023, thirteen U.S. states will have passed comprehensive privacy laws, with five of those laws effective in California, Colorado, Connecticut, Utah and Virginia. These laws exempt either NPI or financial institutions subject to the GLBA from their scope, so the impact of these state privacy laws on several Discover businesses is limited. We continue to evaluate the impact of the CCPA, as well as other federal and state laws, on our businesses and other providers of consumer financial services, including laws regulating the capture and use of consumer biometrics. For more information on the impact to Discover of data security and privacy laws on regulation, see "Supervision and Regulation" and "Risk Factors" to our consolidated financial statements in our annual report on Form 10-K for the year ended December 31, 2022. 
+
+Environmental, Social and Governance Matters 
+
+Environmental, social and governance ("ESG") issues, including climate change, human capital and governance practices, are a significant area of focus by U.S. federal, state and international lawmakers and regulatory agencies, as well as shareholders and other stakeholders. In recent months, there have been substantial legislative and regulatory developments on such issues, including proposed, issued or implemented legislation and rulemakings that would require companies to assess and/or disclose climate and other ESG metrics, risks, opportunities, policies and practice. For example, in March 2022, the Securities and Exchange Commission proposed climate-related disclosure requirements. The potential impact to us of these legislative and regulatory developments is uncertain at this time, although we expect that the emerging legal and regulatory requirements on ESG issues will result in additional compliance and reporting costs to us. 
+
+We continue to monitor and assess the potential impact of these legislative and regulatory developments. 
+
+Segments 
+
+We manage our business activities in two segments, Digital Banking and Payment Services, based on the products and services provided. For a detailed description of the operations of each segment, as well as the allocation conventions used in our business segment reporting, see Note 16: Segment Disclosures to our condensed consolidated financial statements. 
+
+The following table presents segment data (dollars in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, 
+
+&#160; 
+
+2023 2022 2023 2022 Digital Banking Interest income Credit card loans $ 3,726 $ 2,783 $ 10,513 $ 7,475 Private student loans 261 211 768 597 Personal loans 305 221 831 633 Other loans 87 44 224 113 Other interest income 231 98 641 190 Total interest income 4,610 3,357 12,977 9,008 Interest expense 1,288 514 3,346 1,076 Net interest income 3,322 2,843 9,631 7,932 Provision for credit losses 1,702 773 4,109 1,476 Other income 592 530 1,700 1,551 Other expense 1,409 1,326 4,110 3,604 Income before income taxes 803 1,274 3,112 4,403 Payment Services Other income (loss) 130 95 333 89 Other expense 45 42 131 117 Income (loss) before income taxes 85 53 202 (28) Total income before income taxes $ 888 $ 1,327 $ 3,314 $ 4,375 
+
+The following table presents information on transaction volume (dollars in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, &#160; 2023 2022 2023 2022 Network Transaction Volume PULSE Network $ 72,146 $ 63,437 $ 206,422 $ 186,265 Network Partners 9,899 11,894 30,935 34,109 
+
+Diners Club (1) 
+
+9,723 8,793 28,831 24,350 Total Payment Services 91,768 84,124 266,188 244,724 
+
+Discover Network &#8212; Proprietary (2) 
+
+57,228 56,633 166,153 160,600 Total Network Transaction Volume $ 148,996 $ 140,757 $ 432,341 $ 405,324 Transactions Processed on Networks Discover Network $ 964 $ 924 $ 2,754 $ 2,671 PULSE Network 2,011 1,611 5,397 4,534 Total Transaction Processed on Networks $ 2,975 $ 2,535 $ 8,151 $ 7,205 Credit Card Volume 
+
+Discover Card Volume (3) 
+
+$ 58,965 $ 58,561 $ 171,868 $ 165,324 
+
+Discover Card Sales Volume (4) 
+
+$ 54,952 $ 54,793 $ 160,769 $ 154,982 
+
+(1) Diners Club volume is derived from data provided by licensees for Diners Club branded cards issued outside North America and is subject to subsequent revision or amendment. 
+
+(2) Represents gross Discover card sales volume on the Discover Network. 
+
+(3) Represents Discover card activity related to sales net of returns, balance transfers, cash advances and other activity. 
+
+(4) Represents Discover card activity related to sales net of returns. 
+
+Digital Banking 
+
+Our Digital Banking segment reported pretax income of $803 million and $3.1 billion, respectively, for the three and nine months ended September 30, 2023, as compared to $1.3 billion and $4.4 billion, respectively, for the three and nine months ended September 30, 2022. 
+
+Net interest income increased for the three and nine months ended September 30, 2023, as compared to the same periods in 2022, primarily driven by a higher yield on loans and a higher average level of loan receivables, partially offset by higher funding costs. Interest income increased for the three and nine months ended September 30, 2023, as compared to the same periods in 2022, primarily due to higher market rates and a higher average level of loan receivables. Interest expense increased for the three and nine months ended September 30, 2023, as compared to the same periods in 2022, primarily due to higher funding costs driven by higher market rates and a larger funding base. 
+
+For the three and nine months ended September 30, 2023, the provision for credit losses increased as compared to the same periods in 2022, primarily driven by loan growth, increasing delinquencies, and macroeconomic variables impacting household cash flows. For a detailed discussion on provision for credit losses, see "&#8212; Loan Quality &#8212; Provision and Allowance for Credit Losses." 
+
+Total other income for the Digital Banking segment increased for the three months ended September 30, 2023, as compared to the same periods in 2022, primarily due to increases in net discount and interchange revenue and loan fee income. The increase in net discount and interchange revenue was primarily driven by lower rewards due to lower promotional rewards. Loan fee income increased primarily due to a higher volume of late payments. Total other income increased for the nine months ended September 30, 2023, as compared to the same period in 2022, primarily due to increases in loan fee income and net discount and interchange revenue. Loan fee income increased primarily due to a higher volume of late payments. The increase in net discount and interchange revenue was partially offset by an increase in rewards, both of which were driven by higher sales volume. 
+
+Total other expense increased for the three months ended September 30, 2023, as compared to the same period in 2022, primarily due to increases in professional fees, information processing and communications and employee compensation and benefits. Professional fees increased primarily due to increased consulting supporting consumer compliance initiatives. The increase in information processing and communications was driven primarily from investments in technology. The increase in employee compensation and benefits was driven primarily by higher headcount. 
+
+Total other expense increased for the nine months ended September 30, 2023, as compared to the same period in 2022, primarily due to increases in employee compensation and benefits, professional fees, marketing and business development and information processing and communications. The increase in employee compensation and benefits was driven primarily by higher headcount. Professional fees increased primarily due to increased consulting supporting consumer compliance initiatives. The marketing and business development increase was due primarily from growth investments in consumer banking products. The increase in information processing and communications was driven primarily from software write-downs and investments in technology. 
+
+Discover card sales volume was $55.0 billion and $160.8 billion, respectively, for the three and nine months ended September 30, 2023, which was an increase of 0.3% and 3.7%, respectively, as compared to the same periods in 2022. Volume was relatively flat for the three months ended September 30, 2023. For the nine months ended September 30, 2023, the volume growth was primarily driven by higher consumer spending. 
+
+Payment Services 
+
+Our Payment Services segment reported pretax income of $85 million and $202 million, respectively, for the three and nine months ended September 30, 2023, as compared to pretax income of $53 million and a pretax loss of $28 million, respectively, for the same periods in 2022. The increase in segment pretax income for the three months ended September 30, 2023, was driven primarily from an increase in transaction processing revenue in the current period and losses on equity investments in the prior period. Transaction processing revenue increased primarily from higher volume. The losses on equity investments in the prior period were the result of larger mark-to-market adjustments for equity investments measured at fair value. 
+
+The increase in segment pretax income for the nine months ended September 30, 2023, was primarily due to losses on equity investments in the prior period, which were the result of larger mark-to-market adjustments for equity investments measured at fair value. 
+
+Critical Accounting Estimates 
+
+In preparing our consolidated financial statements in conformity with accounting principles generally accepted in the U.S. ("GAAP"), management must make judgments and use estimates and assumptions about the effects of matters that are uncertain. For estimates that involve a high degree of judgment and subjectivity, it is possible that different estimates could reasonably be derived for the same period. For estimates that are particularly sensitive to changes in economic or market conditions, significant changes to the estimated amount from period to period are also possible. Management believes the current assumptions and other considerations used to estimate amounts reflected in our consolidated financial statements are appropriate. However, if actual experience differs from the assumptions and other considerations used in estimating amounts in our consolidated financial statements, the resulting changes could have a material effect on our consolidated results of operations and, in certain cases, could have a material effect on our consolidated financial condition. Management has identified the estimates related to our allowance for credit losses as a critical accounting estimate. 
+
+Allowance for Credit Losses 
+
+The allowance for credit losses was $8.7 billion at September 30, 2023, which reflects a $601 million build from the amount of the allowance for credit losses at June 30, 2023. The allowance for credit losses represents management&#8217;s estimate of expected credit losses over the remaining expected life of our financial assets measured at amortized cost. Changes in the allowance for credit losses, and in the related provision for credit losses, can materially affect net income. 
+
+In estimating the expected credit losses, we use a combination of statistical models and qualitative analysis. There is a significant amount of judgment applied in selecting inputs and analyzing the results produced to estimate the allowance for credit losses. For more information on these judgments and our accounting policies and methodologies used to determine the allowance for credit losses, see "Management's Discussion and Analysis of Financial Condition and Results of Operations &#8212; Loan Quality," Note 4: Loan Receivables and Note 2: Summary of Significant Accounting Policies to our consolidated financial statements in our annual report on Form 10-K for the year ended December 31, 2022. 
+
+One of the key assumptions requiring significant judgment in estimating the current expected credit losses ("CECL") on a quarterly basis is the determination of the macroeconomic forecasts used in the loss forecast models. For the reasonable and supportable loss forecast period, we consider forecasts of multiple economic scenarios that generally include a base scenario with one or more optimistic (upside) or pessimistic (downside) scenarios. These scenarios comprise a variety of macroeconomic variables, including annualized gross domestic product growth and unemployment rate. The scenarios that are chosen each quarter and the amount of weighting given to each scenario depend on a variety of factors including recent economic events, leading economic indicators, views of internal and third-party economists and industry trends. Assumptions about the macroeconomic environment are inherently uncertain and, as a result, actual changes in the allowance for credit losses may be different from the simulated scenario presented below. 
+
+To demonstrate the sensitivity of the estimated credit losses to the macroeconomic scenarios, we measured the impact of altering the weighting of macroeconomic scenarios used in our loss forecast. Our allowance for credit losses would increase by approximately $587 million at September 30, 2023 if we applied 100% weight to the most adverse scenario in our sensitivity analysis to reflect continued inflationary pressures, including persistent supply-chain disruptions and the influence of geopolitical events, as well as high interest rates and reduced credit availability. 
+
+The sensitivity disclosed above is hypothetical. It is difficult to estimate how potential changes in any one factor or input, such as the weighting of macroeconomic forecasts, might affect the overall allowance for credit losses because we consider a variety of factors and inputs in estimating the allowance for credit losses. The macroeconomic scenarios used are constructed with interrelated projections of multiple economic variables and loss estimates are produced that consider the historical correlation of those economic variables with credit losses. The inputs in the macroeconomic scenarios may not change at the same rate and may not be consistent across all geographies or product types, and changes in factors and inputs may be directionally inconsistent, such that improvement in one factor or input may offset deterioration in others. As a result, the sensitivity analysis above does not necessarily reflect the nature and extent of future changes in the allowance for credit losses. It is intended to provide insights into the impact of different judgments about the economy on our modeled loss estimates for the loan portfolio and does not imply any expectation of future losses. Furthermore, the hypothetical increase in our allowance for credit losses for loans does not incorporate the impact of management judgment for qualitative factors applied in the current allowance for credit losses, which may have a positive or negative effect on our actual financial condition and results of operations. 
+
+The overall economic environment directly impacts the macroeconomic variables that are used in the loss forecast models. If management used different assumptions about the economic environment in estimating expected credit losses, the impact to the allowance for credit losses could have a material effect on our consolidated financial condition and results of operations. In addition, if we experience significant instability in the economic environment, the uncertainty around the credit loss forecasts may increase, both due to the uncertainty of the economic forecasts and the challenges our models may have in incorporating them. 
+
+Earnings Summary 
+
+The following table outlines changes in our condensed consolidated statements of income (dollars in millions): &#160; For the Three Months Ended September 30, 2023 vs. 2022 Increase (Decrease) For the Nine Months Ended September 30, 2023 vs. 2022 Increase (Decrease) &#160; 2023 2022 $ % 2023 2022 $ % Interest income $ 4,610 $ 3,357 $ 1,253 37 % $ 12,977 $ 9,008 $ 3,969 44 % Interest expense 1,288 514 774 151 % 3,346 1,076 2,270 211 % Net interest income 3,322 2,843 479 17 % 9,631 7,932 1,699 21 % Provision for credit losses 1,702 773 929 120 % 4,109 1,476 2,633 178 % Net interest income after provision for credit losses 1,620 2,070 (450) (22) % 5,522 6,456 (934) (14) % Other income 722 625 97 16 % 2,033 1,640 393 24 % Other expense 1,454 1,368 86 6 % 4,241 3,721 520 14 % Income before income taxes 888 1,327 (439) (33) % 3,314 4,375 (1,061) (24) % Income tax expense 205 314 (109) (35) % 762 1,026 (264) (26) % Net income $ 683 $ 1,013 $ (330) (33) % $ 2,552 $ 3,349 $ (797) (24) % Net income allocated to common stockholders $ 647 $ 975 $ (328) (34) % $ 2,473 $ 3,267 $ (794) (24) % 
+
+Net Interest Income 
+
+The tables that follow this section have been provided to supplement the discussion below and provide further analysis of net interest income, net interest margin and the impact of rate and volume changes on net interest income. Net interest income represents the difference between interest income earned on our interest-earning assets and the interest expense incurred to finance those assets. We analyze net interest income in total by calculating net interest margin (net interest income as a percentage of average total loan receivables) and net yield on interest-earning assets (net interest income as a percentage of average total interest-earning assets). We also separately consider the impact of the level of loan receivables and the related interest yield and the impact of the cost of funds related to each of our funding sources, along with the income generated by our liquidity portfolio, on net interest income. 
+
+Our interest-earning assets consist of: (i) cash and cash equivalents primarily related to amounts on deposit with the Federal Reserve Bank of Philadelphia, (ii) restricted cash, (iii) other short-term investments, (iv) investment securities and (v) loan receivables. Our interest-bearing liabilities consist primarily of deposits, both direct-to-consumer and brokered, and long-term borrowings, including amounts owed to securitization investors. The following factors influence net interest income: 
+
+&#8226; The level and composition of loan receivables, including the proportion of credit card loans to other loans, as well as the proportion of loan receivables bearing interest at promotional rates as compared to standard rates; 
+
+&#8226; The credit performance of our loans, particularly with regard to charge-offs of finance charges, which reduce interest income; 
+
+&#8226; The terms of long-term borrowings and certificates of deposit upon initial offering, including maturity and interest rate; 
+
+&#8226; The interest rates necessary to attract and maintain direct-to-consumer deposits; 
+
+&#8226; The level and composition of other interest-earning assets, including our liquidity portfolio, and interest-bearing liabilities; 
+
+&#8226; Changes in the interest rate environment, including the levels of interest rates and the relationships among interest rate indices, such as the prime rate, the federal funds rate, the interest rate on reserve balances, LIBOR and SOFR; and 
+
+&#8226; The effectiveness of interest rate swaps in our interest rate risk management program. 
+
+Net interest income increased for the three and nine months ended September 30, 2023, as compared to the same periods in 2022, primarily driven by a higher yield on loans and a higher average level of loan receivables, partially offset by higher funding costs. Interest income increased for the three and nine months ended September 30, 2023, as compared to the same periods in 2022, primarily due to higher market rates and a higher average level of loan receivables. Interest expense increased for the three and nine months ended September 30, 2023, as compared to the same periods in 2022, primarily due to higher funding costs driven by higher market rates and a larger funding base. 
+
+Average Balance Sheet Analysis 
+
+(dollars in millions) For the Three Months Ended September 30, &#160; 2023 2022 &#160; Average Balance Yield/Rate Interest Average Balance Yield/Rate Interest Assets Interest-earning assets Cash and cash equivalents $ 7,711 5.36 % $ 104 $ 10,057 2.29 % $ 58 Restricted cash 238 10.65 % 7 853 2.25 % 5 Investment securities 13,499 3.51 % 120 6,000 2.32 % 35 Loan receivables (1) 
+
+Credit card loans (2)(3) 
+
+95,796 15.43 % 3,726 81,445 13.56 % 2,783 Private student loans 10,274 10.11 % 261 10,132 8.26 % 211 Personal loans 9,368 12.94 % 305 7,408 11.83 % 221 Other 4,942 6.95 % 87 3,050 5.70 % 44 Total loan receivables 120,380 14.44 % 4,379 102,035 12.67 % 3,259 Total interest-earning assets 141,828 12.90 % 4,610 118,945 11.20 % 3,357 Allowance for credit losses (8,063) (6,758) Other assets 7,116 5,923 
+
+Total assets (4) 
+
+$ 140,881 $ 118,110 Liabilities and Stockholders' Equity Interest-bearing liabilities Interest-bearing deposits Time deposits $ 39,795 4.09 % 410 $ 25,279 1.97 % 125 Money market deposits 8,067 4.41 % 90 8,432 1.92 % 41 Other interest-bearing savings deposits 51,744 4.31 % 561 44,372 1.60 % 179 Total interest-bearing deposits 99,606 4.23 % 1,061 78,083 1.76 % 345 Borrowings Short-term borrowings 171 5.32 % 2 98 1.62 % 1 Securitized borrowings (5)(6)(7) 
+
+11,161 4.60 % 129 10,246 2.79 % 72 Other long-term borrowings (6)(7)(8) 
+
+8,702 4.32 % 96 9,087 4.20 % 96 Total borrowings 20,034 4.49 % 227 19,431 3.45 % 169 Total interest-bearing liabilities 119,640 4.27 % 1,288 97,514 2.09 % 514 
+
+Other liabilities and stockholders' equity (9) 
+
+21,241 20,596 Total liabilities and stockholders' equity $ 140,881 $ 118,110 Net interest income $ 3,322 $ 2,843 
+
+Net interest margin (10) 
+
+10.95 % 11.05 % 
+
+Net yield on interest-earning assets (11) 
+
+9.29 % 9.48 % 
+
+Interest rate spread (12) 
+
+8.63 % 9.11 % 
+
+For the Nine Months Ended September 30, &#160; 2023 2022 &#160; Average Balance Yield/Rate Interest Average Balance Yield/Rate Interest Assets Interest-earning assets Cash and cash equivalents $ 7,907 5.06 % $ 299 $ 9,074 1.20 % $ 81 Restricted cash 299 6.76 % 15 556 1.19 % 5 Investment securities 12,779 3.42 % 327 6,094 2.28 % 104 Loan receivables (1) 
+
+Credit card loans (2)(3) 
+
+92,383 15.21 % 10,513 76,832 13.01 % 7,475 Private student loans 10,387 9.88 % 768 10,225 7.81 % 597 Personal loans 8,760 12.69 % 831 7,101 11.92 % 633 Other 4,396 6.82 % 224 2,697 5.60 % 113 Total loan receivables 115,926 14.23 % 12,336 96,855 12.17 % 8,818 Total interest-earning assets 136,911 12.67 % 12,977 112,579 10.70 % 9,008 Allowance for credit losses (7,690) (6,740) Other assets 6,762 6,014 
+
+Total assets (4) 
+
+$ 135,983 $ 111,853 Liabilities and Stockholders&#8217; Equity Interest-bearing liabilities Interest-bearing deposits Time deposits $ 36,828 3.68 % 1,014 $ 21,772 1.73 % 281 Money market deposits 8,370 4.08 % 255 8,322 1.14 % 71 Other interest-bearing savings deposits 50,238 3.87 % 1,453 43,476 0.94 % 306 Total interest-bearing deposits 95,436 3.81 % 2,722 73,570 1.20 % 658 Borrowings Short-term borrowings 58 5.32 % 2 300 0.69 % 2 Securitized borrowings (5)(6)(7) 
+
+10,353 4.20 % 325 8,758 2.06 % 135 Other long-term borrowings (6)(7)(8) 
+
+9,045 4.39 % 297 9,233 4.07 % 281 Total borrowings 19,456 4.29 % 624 18,291 3.05 % 418 Total interest-bearing liabilities 114,892 3.89 % 3,346 91,861 1.57 % 1,076 
+
+Other liabilities and stockholders&#8217; equity (9) 
+
+21,091 19,992 Total liabilities and stockholders&#8217; equity $ 135,983 $ 111,853 Net interest income $ 9,631 $ 7,932 
+
+Net interest margin (10) 
+
+11.11 % 10.95 % 
+
+Net yield on interest-earning assets (11) 
+
+9.40 % 9.42 % 
+
+Interest rate spread (12) 
+
+8.78 % 9.13 % 
+
+(1) Average balances of loan receivables and yield calculations include non-accruing loans. If the non-accruing loan balances were excluded, there would not be a material impact on the amounts reported above. 
+
+(2) Interest income on credit card loans includes $121 million and $99 million of amortization of balance transfer fees for the three months ended September 30, 2023 and 2022, respectively, and $335 million and $261 million for the nine months ended September 30, 2023 and 2022, respectively. 
+
+(3) Includes the impact of interest rate swap agreements used to change a portion of floating-rate assets to fixed-rate assets for the three and nine months ended September 30, 2023 and 2022. 
+
+(4) The return on average assets, based on net income, was 0.48% and 0.85% for the three months ended September 30, 2023 and 2022, respectively, and 1.88% and 3.00% for the nine months ended September 30, 2023 and 2022, respectively. 
+
+(5) Includes the impact of one terminated derivative formerly designated as a cash flow hedge for the three and nine months ended September 30, 2023 and 2022. 
+
+(6) Includes the impact of interest rate swap agreements used to change a portion of fixed-rate funding to floating-rate funding for the three and nine months ended September 30, 2023 and 2022. 
+
+(7) Includes the impact of terminated derivatives formerly designated as fair value hedges for the three and nine months ended September 30, 2023 and 2022. 
+
+(8) Includes the impact of interest rate swap agreements used to change a portion of floating-rate funding to fixed-rate funding for the three and nine months ended September 30, 2023 and 2022. 
+
+(9) The return on average stockholders' equity, based on net income, was 19% and 29% for the three months ended September 30, 2023 and 2022, respectively, and 24% and 33% for the nine months ended September 30, 2023 and 2022, respectively. 
+
+(10) Net interest margin represents net interest income as a percentage of average total loan receivables. 
+
+(11) Net yield on interest-earning assets represents net interest income as a percentage of average total interest-earning assets. 
+
+(12) Interest rate spread represents the difference between the rate on total interest-earning assets and the rate on total interest-bearing liabilities. 
+
+Loan Quality 
+
+Loan receivables consist of the following (dollars in millions): September 30, 2023 December 31, 2022 Credit card loans $ 97,389 $ 90,113 Other loans Private student loans 10,448 10,308 Personal loans 9,559 7,998 Other loans 5,280 3,701 Total other loans 25,287 22,007 Total loan receivables 122,676 112,120 Allowance for credit losses (8,665) (7,374) Net loan receivables $ 114,011 $ 104,746 
+
+Provision and Allowance for Credit Losses 
+
+Provision for credit losses is the expense related to maintaining the allowance for credit losses at an appropriate level to absorb the estimate of credit losses anticipated over the remaining expected life of loan receivables at each period end date. In deriving the estimate of expected credit losses, we consider the collectability of principal, interest and fees associated with our loan receivables. We also consider expected recoveries of amounts that were either previously charged-off or are expected to be charged-off. Establishing the estimate for expected credit losses requires significant management judgment. The factors that influence the provision for credit losses include: 
+
+&#8226; Increases or decreases in outstanding loan balances, including: 
+
+&#8226; Changes in consumer spending, payment and credit utilization behaviors; 
+
+&#8226; The level of new account and loan originations and loan maturities; and 
+
+&#8226; Changes in the overall mix of accounts and products within the portfolio; 
+
+&#8226; The credit quality of the loan portfolio, which reflects our credit granting practices and the effectiveness of collection efforts, among other factors; 
+
+&#8226; The impact of general economic conditions on the consumer, including national and regional conditions, unemployment levels, bankruptcy trends and interest rate movements; 
+
+&#8226; The level and direction of historical losses; and 
+
+&#8226; Regulatory changes or new regulatory guidance. 
+
+Refer to "Management's Discussion and Analysis of Financial Condition and Results of Operations &#8212; Critical Accounting Estimates &#8212; Allowance for Credit Losses" and Note 3: Loan Receivables to our condensed consolidated financial statements for more details on how we estimate the allowance for credit losses. 
+
+The following tables provide changes in our allowance for credit losses (dollars in millions): For the Three Months Ended September 30, 2023 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans Balance at June 30, 2023 $ 6,525 $ 849 $ 622 $ 68 $ 8,064 Additions Provision for credit losses (1) 
+
+1,518 52 93 8 1,671 Deductions Charge-offs (1,171) (40) (76) &#8212; (1,287) Recoveries 198 5 14 &#8212; 217 Net charge-offs (973) (35) (62) &#8212; (1,070) Balance at September 30, 2023 $ 7,070 $ 866 $ 653 $ 76 $ 8,665 For the Three Months Ended September 30, 2022 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans Balance at June 30, 2022 $ 5,307 $ 832 $ 572 $ 46 $ 6,757 Additions Provision for credit losses (1) 
+
+649 20 69 5 743 Deductions Charge-offs (592) (29) (38) &#8212; (659) Recoveries 197 6 17 &#8212; 220 Net charge-offs (395) (23) (21) &#8212; (439) Balance at September 30, 2022 $ 5,561 $ 829 $ 620 $ 51 $ 7,061 For the Nine Months Ended September 30, 2023 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans 
+
+Balance at December 31, 2022 
+
+$ 5,883 $ 839 $ 595 $ 57 $ 7,374 
+
+Cumulative effect of ASU No. 2022-02 adoption (2) 
+
+(66) &#8212; (2) &#8212; (68) Balance at January 1, 2023 5,817 839 593 57 7,306 Additions Provision for credit losses (1) 
+
+3,752 121 211 19 4,103 Deductions Charge-offs (3,101) (111) (194) &#8212; (3,406) Recoveries 602 17 43 &#8212; 662 Net charge-offs (2,499) (94) (151) &#8212; (2,744) Balance at September 30, 2023 $ 7,070 $ 866 $ 653 $ 76 $ 8,665 For the Nine Months Ended September 30, 2022 &#160; Credit Card Loans Private Student Loans Personal Loans Other Loans Total Loans 
+
+Balance at December 31, 2021 
+
+$ 5,273 $ 843 $ 662 $ 44 $ 6,822 Additions Provision for credit losses (1) 
+
+1,395 54 19 7 1,475 Deductions Charge-offs (1,720) (86) (115) &#8212; (1,921) Recoveries 613 18 54 &#8212; 685 Net charge-offs (1,107) (68) (61) &#8212; (1,236) 
+
+Balance at September 30, 2022 
+
+$ 5,561 $ 829 $ 620 $ 51 $ 7,061 
+
+(1) Excludes a $31 million and $30 million adjustment of the liability for expected credit losses on unfunded commitments for the three months ended September 30, 2023 and 2022, respectively, and $6 million and $1 million for the nine months ended September 30, 2023 and 2022, respectively, as the liability is recorded in accrued expenses and other liabilities in our condensed consolidated statements of financial condition. 
+
+(2) Represents the adjustment to the allowance for credit losses as a result of the adoption of ASU No. 2022-02 on January 1, 2023. 
+
+The allowance for credit losses was approximately $8.7 billion at September 30, 2023, which reflects a $601 million build over June 30, 2023, and a $1.3 billion build from December 31, 2022. The build in the allowance for credit losses for the three and nine months ended September 30, 2023 was primarily driven by loan growth, increasing delinquencies, and macroeconomic variables impacting household cash flows. 
+
+The allowance estimation process begins with a loss forecast that uses certain macroeconomic variables and multiple macroeconomic scenarios among its inputs. In estimating the allowance at September 30, 2023, we used a macroeconomic forecast that projected the following weighted average amounts: (i) unemployment rate ending 2023 at 3.8% and peaking at 4.2% in the fourth quarter of 2024 and (ii) 2.02% growth rate in real gross domestic product in 2023. 
+
+In estimating expected credit losses, we considered the uncertainties associated with borrower behavior and payment trends, as well as recent and expected macroeconomic conditions, such as high consumer price inflation and the fiscal and monetary policy responses to that inflation. The Federal Reserve raised its federal funds rate target range substantially during 2022 and the first three quarters of 2023 in an effort to slow economic growth and reduce inflation. Although real GDP growth and labor market conditions have exceeded most economists&#8217; expectations this year, restrictive monetary policy, as manifested in relatively high interest rates, typically precedes weaker consumer credit conditions caused by rising unemployment as economic growth slows. Credit performance in our lending portfolios has evolved in line with our expectations this year, but may weaken if the economy fails to avert a recession in response to tighter credit conditions or other factors. We assessed the prospects for various macroeconomic outcomes in setting our allowance for credit losses. 
+
+The forecast period we deemed to be reasonable and supportable was 18 months for all periods presented. The 18 months reasonable and supportable forecast period was deemed appropriate given the current economic conditions. For all periods presented, we determined that a reversion period of 12 months was appropriate for the same reason. We applied a weighted reversion method to provide a more reasonable transition to historical losses for all loan products for all periods presented. 
+
+The provision for credit losses is the amount of expense realized after considering the level of net charge-offs in the period and the required amount of allowance for credit losses at the balance sheet date. For the three and nine months ended September 30, 2023, the provision for credit losses increased by $928 million and $2.6 billion compared to the same periods in 2022, primarily driven by loan growth, increasing delinquencies, and macroeconomic variables impacting household cash flows. 
+
+Net Charge-offs 
+
+Our net charge-offs include the principal amount of losses charged off less principal recoveries and exclude charged-off and recovered interest and fees and fraud losses. Charged-off and recovered interest and fees are recorded in interest income and loan fee income, respectively, which is effectively a reclassification of the provision for credit losses, while fraud losses are recorded in other expense. 
+
+The following table presents amounts and rates of net charge-offs of key loan products (dollars in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, &#160; 2023 2022 2023 2022 &#160; $ % $ % $ % $ % Credit card loans $ 973 4.03 % $ 395 1.92 % $ 2,499 3.62 % $ 1,107 1.93 % Private student loans $ 35 1.32 % $ 23 0.91 % $ 94 1.21 % $ 68 0.89 % Personal loans $ 62 2.63 % $ 21 1.14 % $ 151 2.30 % $ 61 1.16 % 
+
+The net charge-offs and net charge-off rate for credit card loans, private student loans and personal loans increased for the three and nine months ended September 30, 2023, when compared to the same periods in 2022, primarily due to portfolio seasoning. 
+
+Delinquencies 
+
+Delinquencies are an indicator of credit quality at a point in time. A loan balance is considered delinquent when contractual payments on the loan become 30 days past due. 
+
+The following table presents the amounts and delinquency rates of key loan products that are 30 and 90 days or more delinquent, and loan receivables that are not accruing interest regardless of delinquency (dollars in millions): &#160; September 30, 2023 December 31, 2022 &#160; $ % $ % Loans 30 or more days delinquent Credit card loans $ 3,324 3.41 % $ 2,278 2.53 % Private student loans $ 273 2.62 % $ 212 2.05 % Personal loans $ 119 1.24 % $ 63 0.80 % Total loan receivables $ 3,756 3.06 % $ 2,578 2.30 % Loans 90 or more days delinquent Credit card loans $ 1,527 1.57 % $ 1,028 1.14 % Private student loans $ 65 0.63 % $ 45 0.43 % Personal loans $ 30 0.32 % $ 16 0.21 % Total loan receivables $ 1,637 1.34 % $ 1,101 0.98 % Loans not accruing interest $ 268 0.22 % $ 214 0.19 % 
+
+The 30-day and 90-day delinquency rates for credit card loans, private student loans and personal loans at September 30, 2023, increased compared to December 31, 2022, primarily driven by portfolio seasoning. 
+
+Modified and Restructured Loans 
+
+For information regarding modified and restructured loans, see Note 3: Loan Receivables to our condensed consolidated financial statements. 
+
+Other Income 
+
+The following table presents the components of other income (dollars in millions): &#160; For the Three Months Ended September 30, 2023 vs 2022 Increase For the Nine Months Ended September 30, 2023 vs. 2022 Increase 2023 2022 $ % 2023 2022 $ % 
+
+Discount and interchange revenue, net (1) 
+
+$ 377 $ 335 $ 42 13 % $ 1,077 $ 1,023 $ 54 5 % Protection products revenue 42 42 &#8212; &#8212; % 129 128 1 1 % Loan fee income 194 168 26 15 % 546 450 96 21 % Transaction processing revenue 82 65 17 26 % 221 183 38 21 % Gains (losses) on equity investments 6 (4) 10 (250) % (11) (208) 197 (95) % Other income 21 19 2 11 % 71 64 7 11 % Total other income $ 722 $ 625 $ 97 16 % $ 2,033 $ 1,640 $ 393 24 % 
+
+(1) Net of rewards, including Cashback Bonus rewards, of $787 million and $811 million for the three months ended September 30, 2023 and 2022, respectively, and $2.3 billion and $2.2 billion for the nine months ended September 30, 2023 and 2022, respectively. 
+
+Total other income increased for the three months ended September 30, 2023, as compared to the same period in 2022, primarily due to increases in net discount and interchange revenue and loan fee income. The increase in net discount and interchange revenue was primarily driven by lower rewards due to lower promotional rewards. Loan fee income increased primarily due to a higher volume of late payments. 
+
+Total other income increased for the nine months ended September 30, 2023, as compared to the same period in 2022, primarily due to smaller losses on equity investments and increases in loan fee income and net discount and interchange revenue. The smaller losses on equity investments were the result of smaller mark-to-market adjustments for equity investments measured at fair value. Loan fee income increased primarily due to a higher volume of late payments. The increase in net discount and interchange revenue was partially offset by an increase in rewards, both of which were driven by higher sales volume. 
+
+Other Expense 
+
+The following table represents the components of other expense (dollars in millions): &#160; For the Three Months Ended September 30, 2023 vs. 2022 Increase (Decrease) For the Nine Months Ended September 30, 2023 vs. 2022 Increase (Decrease) &#160; 2023 2022 $ % 2023 2022 $ % Employee compensation and benefits $ 575 $ 551 $ 24 4 % $ 1,788 $ 1,566 $ 222 14 % Marketing and business development 283 276 7 3 % 792 722 70 10 % Information processing and communications 149 124 25 20 % 438 370 68 18 % Professional fees 281 241 40 17 % 729 607 122 20 % Premises and equipment 22 22 &#8212; &#8212; % 64 70 (6) (9) % Other expense 144 154 (10) (6) % 430 386 44 11 % Total other expense $ 1,454 $ 1,368 $ 86 6 % $ 4,241 $ 3,721 $ 520 14 % 
+
+Total other expense increased for the three months ended September 30, 2023, as compared to the same period in 2022, primarily due to increases in professional fees, information processing and communications and employee compensation and benefits. Professional fees increased primarily due to increased consulting supporting consumer compliance initiatives. The increase in information processing and communications was driven primarily from investments in technology. The increase in employee compensation and benefits was driven primarily by higher headcount. 
+
+Total other expense increased for the nine months ended September 30, 2023, as compared to the same period in 2022, primarily due to increases in employee compensation and benefits, professional fees, marketing and business development and information processing and communications. The increase in employee compensation and benefits was driven primarily by higher headcount. Professional fees increased primarily due to increased consulting supporting consumer compliance initiatives. The marketing and business development increase was due primarily from growth investments in consumer banking products. The increase in information processing and communications was driven primarily from software write-downs and investments in technology. 
+
+Income Tax Expense 
+
+The following table presents the calculation of the effective income tax rate (dollars in millions): &#160; For the Three Months Ended September 30, For the Nine Months Ended September 30, &#160; 2023 2022 2023 2022 Income before income taxes $ 888 $ 1,327 $ 3,314 $ 4,375 Income tax expense $ 205 $ 314 $ 762 $ 1,026 Effective income tax rate 23.1 % 23.7 % 23.0 % 23.5 % 
+
+Liquidity and Capital Resources 
+
+Funding and Liquidity 
+
+We seek to maintain stable, diversified and cost-effective funding sources and a strong liquidity profile to fund our business and repay or refinance our maturing obligations under normal operating conditions and periods of economic or financial stress. In managing our liquidity risk, we seek to maintain a prudent liability maturity profile and ready access to an ample store of primary and contingency liquidity sources. Our primary funding sources include direct-to-consumer and brokered deposits, public term asset-backed securitizations and other short-term and long-term borrowings. Our primary liquidity sources include a portfolio composed of highly liquid, unencumbered assets, including cash and cash equivalents and investment securities, as well as secured borrowing capacity through private term asset-backed securitizations and Federal Home Loan Bank ("FHLB") advances. In addition, we have unused borrowing capacity at the Federal Reserve discount window, which provides another source of contingency liquidity. 
+
+Funding Sources 
+
+Deposits 
+
+We obtain deposits from consumers directly or through affinity relationships ("direct-to-consumer deposits"). Additionally, we obtain deposits through third-party securities brokerage firms that offer our deposits to their customers ("brokered deposits"). Direct-to-consumer deposit products include savings accounts, certificates of deposit, money market accounts, IRA savings accounts, IRA certificates of deposit and checking accounts. We gather these deposits from retail customers of our bank, many of whom have more than one Discover product. These deposits originate from a large and diverse customer base, and therefore, the majority of these deposit account balances are insured according to the FDIC's insurance limits. Our cost of insuring these deposits is likely to rise as the FDIC recently stated it plans, as required by law, to charge banks a special assessment to cover the cost of losses to the Deposit Insurance Fund incurred after the failure of two domestic banks in March 2023. Brokered deposit products include certificates of deposit and sweep accounts. In accordance with the FDIC final rule on revisions to its brokered deposits regulation, we no longer categorize certain retail deposit products such as affinity deposits and deposits generated through certain sweep deposit relationships as brokered for regulatory reporting purposes. At September 30, 2023, we had $81.2 billion of direct-to-consumer deposits and $22.8 billion of brokered deposits, of which there are $82.7 billion of deposit balances due in less than one year and $21.3 billion of deposit balances due in one year or thereafter. 
+
+Credit Card Securitization Financing 
+
+We securitize credit card receivables as a source of funding. We access the asset-backed securitization market using the Discover Card Master Trust I ("DCMT") and the Discover Card Execution Note Trust ("DCENT"). In connection with our securitization transactions, credit card receivables are transferred to DCMT. DCMT has issued a certificate representing the beneficial interest in its credit card receivables to DCENT. We issue DCENT DiscoverSeries notes in public and private transactions, which are collateralized by the beneficial interest certificate held by DCENT. From time to time, we may add credit card receivables to DCMT to create sufficient funding capacity for future securitizations while managing seller's interest. We retain significant exposure to the performance of the securitized credit card receivables through holding the seller's interest and subordinated classes of DCENT DiscoverSeries notes. At September 30, 2023, we had $11.0 billion of outstanding public asset-backed securities and $2.9 billion of outstanding subordinated asset-backed securities that had been issued to our wholly-owned subsidiaries. 
+
+The securitization structures include certain features designed to protect investors. The primary feature relates to the availability and adequacy of cash flows in the securitized pool of receivables to meet contractual requirements, the insufficiency of which triggers early repayment of the securities. We refer to this as "economic early amortization," which is based on excess spread levels. Excess spread is the amount by which income received with respect to the securitized credit card receivables during a collection period including interest collections, fees and interchange, exceeds the fees and expenses of DCENT during such collection period, including interest expense, servicing fees and charged-off receivables. In the event of an economic early amortization, which would occur if the excess spread fell below 0% on a three-month rolling average basis, we would be required to repay all outstanding securitized borrowings using available collections received with respect to the securitized credit card receivables. For the three months ended September 30, 2023, the DiscoverSeries three-month rolling average excess spread was 14.42%. The period of ultimate repayment would be determined by the amount and timing of collections received. 
+
+Through our wholly-owned indirect subsidiary, Discover Funding LLC, we are required to maintain an interest in a contractual minimum level of receivables in DCMT in excess of the face value of outstanding investors' interests. This minimum interest is referred to as the minimum seller's interest. The required minimum seller's interest in the pool of trust receivables is approximately 7% in excess of the total investors' interests, which includes interests held by third parties as well as those interests held by us. If the level of receivables in DCMT were to fall below the required minimum, we would be required to add receivables from the unrestricted pool of receivables, which would increase the amount of credit card receivables restricted for securitization investors. A decline in the amount of the excess seller's interest could occur if balance repayments and charge-offs exceeded new lending on the securitized accounts or as a result of changes in total outstanding investors' interests. Seller's interest exhibits seasonality as higher receivable balance repayments tend to occur in the first calendar year quarter. If we could not add enough receivables to satisfy the minimum seller's interest requirement, an early amortization (or repayment) of investors' interests would be triggered. 
+
+An early amortization event would impair our liquidity and may require us to utilize our available non-securitization-related contingent liquidity or rely on alternative funding sources, which may or may not be available at the time. We have several strategies we can deploy to prevent an early amortization event. For instance, we could add receivables to DCMT, which would reduce our available borrowing capacity at the Federal Reserve discount window. As of September 30, 2023, there were $24.8 billion of credit card receivables in the trust and no accounts were added to those restricted for securitization investors for the three and nine months ended September 30, 2023. Alternatively, we could employ structured discounting, which was used effectively in 2009 to bolster excess spread and mitigate early amortization risk. 
+
+The following table summarizes expected contractual maturities of the investors' interests in credit card securitizations, excluding those that have been issued to our wholly-owned subsidiaries (dollars in millions): At September 30, 2023 Total Less Than One Year One Year and Thereafter Scheduled maturities of borrowings - owed to credit card securitization investors $ 10,820 $ 2,475 $ 8,345 
+
+The "AAA(sf)" and "Aaa(sf)" ratings of the DCENT DiscoverSeries Class A Notes issued to date have been based, in part, on an FDIC rule, which created a safe harbor that provides that the FDIC, as conservator or receiver, will not use its power to disaffirm or repudiate contracts, seek to reclaim or recover assets transferred in connection with a securitization, or recharacterize assets transferred in connection with a securitization as assets of the insured depository institution, provided such transfer satisfies the conditions for sale accounting treatment under previous GAAP. Although the implementation of Financial Accounting Standards Board Accounting Standards Codification Topic 860, Transfers and Servicing , no longer qualified certain transfers of assets for sale accounting treatment, the FDIC approved a final rule that preserved the safe-harbor treatment applicable to revolving trusts and master trusts, including DCMT, so long as those trusts would have satisfied the original FDIC safe harbor if evaluated under GAAP pertaining to transfers of financial assets in effect prior to December 2009. However, other legislative and regulatory developments may impact our ability or desire to issue asset-backed securities in the future. 
+
+Federal Home Loan Bank Advances 
+
+Discover Bank is a member bank of the FHLB of Chicago, one of 11 FHLBs that, along with the Office of Finance, compose the FHLB System. The FHLBs are government-sponsored enterprises of the U.S. ("U.S. GSEs") chartered to improve the availability of funds to support home ownership. As such, senior debt obligations of the FHLBs feature the same credit ratings as U.S. Treasury securities and are considered high-quality liquid assets for bank regulatory purposes. Consequently, the FHLBs benefit from consistent capital market access during nearly all macroeconomic and financial market conditions and low funding costs, which they pass on to their member banks when they borrow advances. Thus, we consider FHLB advances a stable and reliable funding source for Discover Bank for short-term contingency liquidity and long-term asset-liability management. 
+
+As a member of the FHLB of Chicago, Discover Bank has access to short- and long-term advance structures with maturities ranging from overnight to 30 years. At September 30, 2023, we had total committed borrowing capacity of $3.3 billion based on the amount and type of assets pledged, of which $1.0 billion of long-term advances were outstanding with the FHLB of Chicago. Under certain stressed conditions, we could pledge our liquidity portfolio securities and borrow against them at a modest reduction to their value. 
+
+Other Long-Term Borrowings&#8212;Corporate and Bank Debt 
+
+The following table provides a summary of Discover Financial Services (Parent Company) and Discover Bank outstanding fixed-rate debt (dollars in millions): At September 30, 2023 Principal Amount Outstanding Discover Financial Services (Parent Company) fixed-rate senior notes, maturing 2024-2032 $ 3,350 Discover Financial Services (Parent Company) fixed-rate retail notes, maturing 2023-2031 $ 148 Discover Bank fixed-rate senior bank notes, maturing 2024-2030 $ 3,550 Discover Bank fixed-rate subordinated bank notes, maturing 2028 $ 500 
+
+At September 30, 2023, $657 million of interest on our fixed-rate debt is due in less than one year and $1.5 billion of interest is due in one year and thereafter. See Note 6: Long-Term Borrowings to our condensed consolidated financial statements for more information on the maturities of our long-term borrowings. 
+
+Short-Term Borrowings 
+
+As part of our regular funding strategy, we may, from time to time, borrow short-term funds in the federal funds market or the repurchase ("repo") market through repurchase agreements. Federal funds are short-term, unsecured loans between banks or other financial entities with a Federal Reserve account. Funds borrowed in the repo market are short-term, collateralized loans, usually secured with highly rated investment securities such as U.S. Treasury bills or notes, or mortgage bonds or debentures issued by government agencies or U.S. GSEs. At September 30, 2023, there were no outstanding balances in the federal funds market or under repurchase agreements. 
+
+Additional Funding Sources 
+
+Private Asset-Backed Securitizations 
+
+We have access to committed borrowing capacity through privately placed asset-backed securitizations. While we may utilize funding from these private securitizations from time to time for normal business operations, their committed nature also makes them a reliable contingency funding source. Therefore, we reserve some undrawn capacity, informed by our liquidity stress test results, for any contingency funding needs. At September 30, 2023, we had a total committed capacity of $3.5 billion, none of which was drawn. We seek to ensure the stability and reliability of these securitizations by staggering their maturity dates, renewing them well ahead of their scheduled maturity dates and periodically drawing them for operational tests and seasonal funding needs. 
+
+Federal Reserve 
+
+Discover Bank has access to the Federal Reserve Bank of Philadelphia's discount window. As of September 30, 2023, Discover Bank had $48.7 billion of available borrowing capacity through the discount window based on the amount and type of assets pledged, primarily consumer loans. We also have access to, and have tested our ability to borrow from, the Federal Reserve's Bank Term Funding Program ("BTFP"), which offers loans up to one year in length collateralized by U.S. Treasuries, U.S. agency securities and U.S. agency mortgage-backed securities. As of September 30, 2023, we have no borrowings outstanding under the discount window or the BTFP and reserve this capacity as a source of contingency liquidity. 
+
+Funding Uses 
+
+Our primary uses of funds include the extensions of loans and credit to customers, primarily through Discover Bank; the maintenance of sufficient working capital for routine operations; the service of our debt and capital obligations, including interest, principal and dividend payments; and the purchase of investment securities for our liquidity portfolio. 
+
+In addition to originating consumer loans to new customers, we also extend credit to existing customers, which primarily arises from agreements for unused lines of credit on certain credit cards and certain other loan products, provided there is no violation of conditions established in the related agreement. At September 30, 2023, our unused credit arrangements were approximately $231.8 billion. These arrangements, substantially all of which we can terminate at any time and which do not necessarily represent future cash requirements, are periodically reviewed based on account usage, customer creditworthiness, loan qualification and the cost of capital. 
+
+In the normal course of business, we enter into various contracts for goods and services, such as consulting, outsourcing, data, sponsorships, software licenses, telecommunications and global merchant acceptance, among other things. These contracts are legally binding and specify all significant terms, including any applicable fixed future cash payments. 
+
+As of September 30, 2023, we have debt obligations, common stock and preferred stock outstanding, for which we incur servicing costs. Refer to &#8220;&#8212; Funding Sources&#8221; and &#8220;&#8212; Capital&#8221; for more information related to our debt obligations and capital service, respectively, and the timing of expected payments. 
+
+We assess funding uses and liquidity needs under stressed and normal operating conditions, considering primary uses of funding, such as on-balance sheet loans and contingency uses of funding, such as the need to post additional collateral for derivatives positions. To anticipate funding needs under stress, we conduct liquidity stress tests to assess the impact of idiosyncratic, systemic and hybrid (i.e., idiosyncratic and systemic) scenarios with varying levels of liquidity risk reflecting a range of stress severity. If we determine we have excess cash and cash equivalents above what is required for daily operations, we may invest in highly liquid, unencumbered assets that we expect to be able to convert to cash quickly and with little loss of value using the repo market or other secured borrowing or outright sales. 
+
+Guarantees 
+
+Guarantees are contracts or indemnification agreements that may require us to make payments to a guaranteed party based on changes in an underlying asset, liability, or equity security of a guaranteed party, rate or index. Also included in guarantees are contracts that may require the guarantor to make payments to a guaranteed party based on another entity&#8217;s failure to perform under an agreement. Our guarantees relate to transactions processed on the Discover Network and certain transactions processed by PULSE and Diners Club. In the ordinary course of business, we guarantee payment on behalf of subsidiaries relating to contractual obligations with external parties. The activities of the subsidiaries covered by any such guarantees are included in our consolidated financial statements. See Note 12: Commitments, Contingencies and Guarantees to our consolidated financial statements for further discussion regarding our guarantees. 
+
+Credit Ratings 
+
+Our borrowing costs and capacity in certain funding markets, including those for securitizations and unsecured senior and subordinated debt, may be affected by the credit ratings of DFS, Discover Bank and the securitization trusts. Downgrades in these credit ratings could result in higher interest expense on our unsecured debt and asset securitizations, as well as higher credit enhancement requirements for both our public and private asset securitizations. In addition to increased funding costs, deterioration in our credit ratings could reduce our borrowing capacity in the unsecured debt and asset securitization capital markets. 
+
+During the third quarter of 2023, Moody's affirmed our credit ratings, but changed the rating outlook on our senior unsecured debt from "stable" to "negative" following our disclosure of the card product misclassification and the reaching of a consent order with the FDIC on matters related to our compliance management system. The table below reflects our current credit ratings and outlooks: Moody&#8217;s Investors Service Standard &#38; Poor's Fitch Ratings Discover Financial Services Senior unsecured debt Baa2 BBB- BBB+ Outlook for Discover Financial Services senior unsecured debt Negative Stable Stable Discover Bank Senior unsecured debt Baa1 BBB BBB+ Outlook for Discover Bank senior unsecured debt Negative Stable Stable Subordinated debt Baa1 BBB- BBB Discover Card Execution Note Trust (DCENT) 
+
+Class A (1) 
+
+Aaa(sf) AAA(sf) AAA(sf) 
+
+(1) An "sf" in the rating denotes rating agency identification for structured finance product ratings. 
+
+A credit rating is not a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time by the assigning rating organization. Each rating should be evaluated independently of any other rating. A credit rating outlook reflects an agency's opinion regarding the likely rating direction over the medium term, often a period of about a year, and indicates the agency's belief that the issuer's credit profile is consistent with its current rating level at that point in time. 
+
+Liquidity 
+
+We seek to ensure that we have adequate liquidity to sustain business operations, fund asset growth and satisfy debt obligations under stressed and normal operating conditions. In addition to the funding sources discussed in the previous section, we also maintain highly liquid, unencumbered assets in our liquidity portfolio that we expect to be able to convert to cash quickly and with little loss of value using either the repo market or other secured borrowing or outright sales. 
+
+We maintain a liquidity risk and funding management policy, which outlines the overall framework and general principles we follow in managing liquidity risk across our business. The Board of Directors approves the policy and the Asset and Liability Management Committee (the "ALCO") is responsible for its implementation. Additionally, we maintain a liquidity management framework document that outlines the general strategies, objectives and principles we utilize to manage our liquidity position and the various liquidity risks inherent in our business model. We seek to balance the trade-offs between maintaining too much liquidity, which may be costly, with having too little liquidity, which could cause financial distress. The ALCO, chaired by our Treasurer, has cross-functional membership and manages liquidity risk centrally. The ALCO monitors the liquidity risk profiles of DFS and Discover Bank and oversees any actions Corporate Treasury may take to ensure that we maintain ready access to our funding sources and sufficient liquidity to meet current and projected needs. In addition, the ALCO and our Board of Directors regularly review our compliance with our liquidity limits at DFS and Discover Bank, which are established in accordance with the liquidity risk appetite set by our Board of Directors. 
+
+We employ a variety of metrics to monitor and manage liquidity. We utilize early warning indicators ("EWIs") to detect emerging liquidity stress events and a reporting and escalation process designed to be consistent with regulatory guidance. The EWIs include both idiosyncratic and systemic measures and are monitored daily and reported to the ALCO regularly. A warning from one or more of these indicators triggers prompt review and decision-making by our senior management team and, in certain instances, may lead to the convening of a senior-level response team and activation of our contingency funding plan. 
+
+In addition, we conduct liquidity stress tests regularly and ensure contingency funding is in place to address potential liquidity shortfalls. We evaluate a range of stress scenarios that are designed to follow regulatory requirements, including idiosyncratic, systemic and a combination of such events that could impact funding sources and our ability to meet liquidity needs. These scenarios measure the projected liquidity position at DFS and Discover Bank across a range of periods by comparing estimated contingency funding needs to available contingency liquidity. 
+
+Our primary contingency liquidity sources include our liquidity portfolio securities, which we could sell, repo or borrow against, and private securitizations with unused borrowing capacity. In addition, we could borrow FHLB advances by pledging securities to the FHLB of Chicago. Moreover, we have unused borrowing capacity with the Federal Reserve discount window and BTFP, which provide additional sources of contingency liquidity. We seek to maintain sufficient liquidity to satisfy all maturing obligations and fund business operations for at least 12 months in a severe stress environment. In such an environment, we may also take actions to curtail the size of our balance sheet, which would reduce the need for funding and liquidity. 
+
+At September 30, 2023, our liquidity portfolio was composed of highly liquid, unencumbered assets, including cash and cash equivalents and investment securities. Cash and cash equivalents were primarily deposits with the Federal Reserve. Investment securities primarily included debt obligations of the U.S. Treasury and U.S. GSEs and residential mortgage-backed securities issued by U.S. government agencies or U.S. GSEs. These investments, nearly all of which are classified as available-for-sale, are considered highly liquid and we expect to have the ability to raise cash by selling them, utilizing repurchase agreements or pledging certain of these investments to access secured funding. The size and composition of our liquidity portfolio may fluctuate based on the size of our balance sheet as well as operational requirements, market conditions and interest rate risk management objectives. 
+
+At September 30, 2023, our liquidity portfolio and undrawn credit facilities were $75.5 billion, which was $8.3 billion higher than the balance at December 31, 2022. Our liquidity portfolio and undrawn credit facilities grew primarily as a result of the additional borrowing capacity with the Federal Reserve. During the three and nine months ended September 30, 2023, the average balance of our liquidity portfolio was $20.9 billion and $20.6 billion, respectively. Our liquidity portfolio and undrawn facilities consist of the following (dollars in millions): 
+
+September 30, 2023 December 31, 2022 Liquidity portfolio Cash and cash equivalents (1) 
+
+$ 7,917 $ 7,585 Investment securities (2) 
+
+13,269 12,213 Total liquidity portfolio 21,186 19,798 
+
+Private asset-backed securitizations (3) 
+
+3,500 3,500 Federal Home Loan Bank of Chicago 2,202 1,712 Primary liquidity sources 26,888 25,010 
+
+Federal Reserve discount window (3) 
+
+48,658 42,268 Total liquidity portfolio and undrawn credit facilities $ 75,546 $ 67,278 
+
+(1) Cash in the process of settlement and restricted cash are excluded from cash and cash equivalents for liquidity purposes. 
+
+(2) Excludes $285 million and $97 million of U.S. Treasury securities that have been pledged as swap collateral in lieu of cash as of September 30, 2023 and December 31, 2022, respectively. 
+
+(3) See "&#8212; Additional Funding Sources" for additional information. 
+
+Bank Holding Company Liquidity 
+
+The primary uses of funds at the unconsolidated DFS level include debt service obligations (interest payments and return of principal) and capital service and management activities, including dividend payments on capital instruments and the periodic repurchase of shares of our common stock. Our primary sources of funds at the bank holding company level include the proceeds from the issuance of unsecured debt and capital securities, as well as dividends from our subsidiaries, notably Discover Bank. Under periods of idiosyncratic or systemic stress, the bank holding company could lose or experience impaired access to the capital markets. In addition, our regulators have the discretion to restrict dividend payments from Discover Bank to the bank holding company. 
+
+We utilize a measure referred to as Number of Months of Pre-Funding to determine the length of time DFS can meet upcoming funding obligations, including common and preferred stock dividend payments and debt service obligations using existing cash resources. In managing this metric, we structure our debt maturity schedule to manage prudently the amount of debt maturing within a short period. See Note 6: Long-Term Borrowings to our condensed consolidated financial statements for further information regarding our debt. 
+
+Capital 
+
+Our primary sources of capital are the earnings generated by our businesses and the proceeds from issuances of capital securities. We seek to manage capital to a level and composition sufficient to support our businesses' growth, account for their risks, and meet regulatory requirements, rating agency targets and debt investor expectations. Within these constraints, we are focused on deploying capital in a manner that provides attractive returns to our stockholders. The level, composition and utilization of capital are influenced by changes in the economic environment, strategic initiatives and legislative and regulatory developments. 
+
+Under regulatory capital requirements adopted by the Federal Reserve and the FDIC, DFS, along with Discover Bank, must maintain minimum capital levels. Failure to meet minimum capital requirements can result in the initiation of certain mandatory and possibly additional discretionary actions by regulators that, if undertaken, could limit our business activities and have a direct material effect on our financial condition and operating results. We must meet specific capital requirements that involve quantitative measures of assets, liabilities and certain off-balance sheet items, as calculated under regulatory guidance and regulations. Current or future legislative or regulatory reforms, such as those related to the adoption of the CECL accounting model or those related to the proposed revisions to the Basel Committee's December 2010 framework ("Basel III rules"), may require us to hold more capital and/or adversely impact our capital level. We consider the potential impacts of these reforms in managing our capital position. 
+
+DFS and Discover Bank are subject to regulatory capital rules issued by the Federal Reserve and the FDIC, respectively, under the Basel III rules. Under these rules, DFS and Discover Bank are classified as "standardized approach" entities as they are U.S. banking organizations with consolidated total assets over $50 billion but not exceeding $250 billion and consolidated total on-balance sheet foreign exposures less than $10 billion. The Basel III rules require DFS and Discover Bank to maintain minimum risk-based capital and leverage ratios and define what constitutes capital for purposes of calculating those ratios. 
+
+In accordance with the final rule on the impact of CECL on regulatory capital, we have elected to phase in the impact over three years, beginning in 2022. By electing this option, our Common Equity Tier 1 ("CET1") capital ratios are higher than they otherwise would have been. The phase-in of the CECL accounting model decreased CET1 by $1.1 billion as of January 1, 2023. For additional information regarding the risk-based capital and leverage ratios, see Note 11: Capital Adequacy to our condensed consolidated financial statements. 
+
+On March 4, 2020, the Federal Reserve announced the SCB final rule, which imposes limitations on DFS' capital distributions if we do not maintain our risk-based capital ratios above stated regulatory minimum ratios based on the results of supervisory stress tests. Under this rule, DFS is required to assess whether our planned capital actions are consistent with the effective capital distribution limitations that will apply on a pro-forma basis throughout the planning horizon. 
+
+The SCB requirement is institution-specific and is calculated as the greater of (i) 2.5% and (ii) the sum of (a) the difference between DFS' actual CET1 ratio at the beginning of the forecast and the projected minimum CET1 ratio based on the Federal Reserve's models in its nine-quarter Severely Adverse stress scenario, plus (b) the sum of the dollar amount of DFS' planned common stock dividend distributions for each of the fourth through seventh quarters of its nine-quarter capital planning horizon, expressed as a percentage of risk-weighted assets. For Category IV firms, including DFS, the Federal Reserve calculates each firm's SCB biennially in even-numbered calendar years, and did so in 2022. Based on the results of the 2022 CCAR exercise released by the Federal Reserve, our new SCB was set at 2.5%, the lowest possible requirement, effective October 1, 2022, through September 30, 2023. In odd-numbered years, each firm subject to Category IV standards that did not opt-in to such year's supervisory stress tests as part of the Federal Reserve's CCAR process receives an adjusted SCB requirement that is updated to reflect its planned common stock dividends per the firm's annual capital plan. On July 27, 2023, the Federal Reserve disclosed SCB requirements to firms subject to Category IV standards that did not opt-in to this year's stress test. Our SCB remains unchanged at 2.5%, effective beginning October 1, 2023 through September 30, 2024. See "&#8212; Regulatory Environment and Developments &#8212; Banking &#8212; Capital Standards and Stress Testing" for additional information. 
+
+At September 30, 2023, DFS and Discover Bank met the requirements for "well-capitalized" status under the Federal Reserve's Regulation Y and the prompt corrective action rules and corresponding FDIC requirements, respectively, exceeding the regulatory minimums to which they were subject under the applicable rules. 
+
+Basel III rules also require disclosures relating to market discipline. This series of disclosures is commonly referred to as "Pillar 3." The objective is to increase the transparency of capital requirements for banking organizations. We are required to make prescribed regulatory disclosures quarterly regarding our capital structure, capital adequacy, risk exposures and risk-weighted assets. We make the Pillar 3 disclosures publicly available on our website in a report called "Basel III Regulatory Capital Disclosures." 
+
+We disclose tangible common equity, which represents common equity less goodwill and intangibles. Management believes that common stockholders' equity excluding goodwill and intangibles is meaningful to investors as a measure of our true net asset value. At September 30, 2023, tangible common equity is considered to be a non-GAAP financial measure as it is not formally defined by GAAP or codified in the federal banking regulations. Other financial services companies may also disclose this measure and definitions may vary. We advise users of this information to exercise caution in comparing this measure among different companies. 
+
+The following table reconciles total common stockholders' equity (a GAAP financial measure) to tangible common equity (dollars in millions): September 30, 2023 December 31, 2022 
+
+Total common stockholders' equity (1) 
+
+$ 13,180 $ 13,288 Less: goodwill (255) (255) Tangible common equity $ 12,925 $ 13,033 
+
+(1) Total common stockholders' equity is calculated as total stockholders' equity less preferred stock. 
+
+Our Board of Directors declared the following common stock dividends during 2023 and 2022: Declaration Date Record Date Payment Date Dividend per Share 2023 October 16, 2023 November 22, 2023 December 07, 2023 $ 0.70 July 17, 2023 August 24, 2023 September 07, 2023 0.70 April 17, 2023 May 25, 2023 June 08, 2023 0.70 January 17, 2023 February 23, 2023 March 09, 2023 0.60 Total common stock dividends $ 2.70 2022 October 18, 2022 November 23, 2022 December 08, 2022 $ 0.60 July 20, 2022 August 25, 2022 September 08, 2022 0.60 April 27, 2022 May 26, 2022 June 09, 2022 0.60 January 18, 2022 February 17, 2022 March 03, 2022 0.50 Total common stock dividends $ 2.30 
+
+Our Board of Directors declared the following Series C preferred stock dividends during 2023 and 2022: Declaration Date Record Date Payment Date Dividend per Depositary Share 2023 July 17, 2023 October 13, 2023 October 30, 2023 $ 27.50 January 17, 2023 April 14, 2023 May 01, 2023 27.50 Total Series C preferred stock dividends $ 55.00 2022 July 20, 2022 October 14, 2022 October 31, 2022 $ 27.50 January 18, 2022 April 15, 2022 May 02, 2022 27.50 Total Series C preferred stock dividends $ 55.00 
+
+Our Board of Directors declared the following Series D preferred stock dividends during 2023 and 2022: Declaration Date Record Date Payment Date Dividend per Depositary Share 2023 July 17, 2023 September 08, 2023 September 25, 2023 $ 30.625 January 17, 2023 March 08, 2023 March 23, 2023 30.625 Total Series D preferred stock dividends $ 61.250 2022 July 20, 2022 September 08, 2022 September 23, 2022 $ 30.625 
+
+January 18, 2022 
+
+March 08, 2022 March 23, 2022 30.625 Total Series D preferred stock dividends $ 61.250 
+
+Our Board of Directors approved a new share repurchase program in April 2023. The new program authorized up to $2.7 billion of share repurchases through June 30, 2024, and replaced the prior $4.2 billion share repurchase program. If and when we repurchase our shares under the program, we may use various methods, including open market purchases, privately negotiated transactions or other purchases, including block trades, accelerated share repurchase transactions, or any combination of such methods. During the three months ended September 30, 2023, we did not repurchase any shares. During the nine months ended September 30, 2023, we repurchased approximately 18.1 million shares for approximately $1.9 billion. 
+
+The amount and size of any future dividends and share repurchases will depend on our results of operations, financial condition, capital levels, cash requirements, future prospects, regulatory review and other factors. As reported in the second quarter of 2023, we have decided to pause share repurchases while an internal review of compliance, risk management and corporate governance is ongoing. See Note 13: Litigation and Regulatory Matters for additional information on the card product misclassification. The declaration and payment of future dividends and the amount thereof are subject to the discretion of our Board of Directors. Holders of our shares of common stock are subject to the prior dividend rights of holders of our preferred stock or the depositary shares representing such preferred stock outstanding. No dividend may be declared or paid or set aside for payment on our common stock if full dividends have not been declared and paid on all outstanding shares of preferred stock in any dividend period. In addition, as noted above, banking laws and regulations and our banking regulators may limit our ability to pay dividends and make share repurchases, including limitations on the extent our banking subsidiary (Discover Bank) can provide funds to us through dividends, loans or otherwise. Further, current or future regulatory reforms, such as those that propose to alter the Basel III standards, may require us to hold more capital or could adversely impact our capital level. As a result, there can be no assurance that we will declare and pay any dividends or repurchase any shares of our common stock in the future. 
+

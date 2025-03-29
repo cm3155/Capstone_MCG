@@ -1,0 +1,946 @@
+ ITEM 2. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+MD&#38;A represents an overview of and highlights material changes to our financial condition and consolidated results of operations at and for the three- and six-month periods ended June 30, 2022 and 2021. This MD&#38;A should be read in conjunction with the Consolidated Financial Statements and Notes thereto contained herein and our 2021 Annual Report on Form 10-K filed with the SEC on February 24, 2022. Our results of operations for the six months ended June 30, 2022 are not necessarily indicative of results expected for the full year. 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+
+This Report may contain statements regarding our outlook for earnings, revenues, expenses, tax rates, capital and liquidity levels and ratios, asset quality levels, financial position and other matters regarding or affecting our current or future business and operations. These statements can be considered &#8220;forward-looking statements&#8221; within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements involve various assumptions, risks and uncertainties which can change over time. Actual results or future events may be different from those anticipated in our forward-looking statements and may not align with historical performance and events. As forward-looking statements involve significant risks and uncertainties, caution should be exercised against placing undue reliance upon such statements. Forward-looking statements are typically identified by words such as "believe," "plan," "expect," "anticipate," "intend," "outlook," "estimate," "forecast," "will," "should," "project," "goal," and other similar words and expressions. We do not assume any duty to update forward-looking statements, except as required by federal securities laws. 
+
+Our forward-looking statements are subject to the following principal risks and uncertainties: 
+
+&#8226; Our business, financial results and balance sheet values are affected by business, economic and political circumstances, including, but not limited to: (i) developments with respect to the U.S. and global financial markets; (ii) actions by the FRB, FDIC, UST, OCC and other governmental agencies, especially those that impact money supply, market interest rates or otherwise affect business activities of the financial services industry; (iii) a slowing of the U.S. economy in general and regional and local economies within our market area; (iv) inflation concerns; (v) the impacts of tariffs or other trade policies of the U.S. or its global trading partners; and (vi) the sociopolitical environment in the U.S. 
+
+&#8226; Business and operating results affected by our ability to identify and effectively manage risks inherent in our businesses, including, where appropriate, through effective use of systems and controls, third-party insurance, derivatives, and capital management techniques, and to meet evolving regulatory capital and liquidity standards. 
+
+&#8226; Competition can have an impact on customer acquisition, growth and retention, and on credit spreads, deposit gathering and product pricing, which can affect market share, loans, deposits and revenues. Our ability to anticipate, react quickly and continue to respond to technological changes and COVID-19 challenges can also impact our ability to respond to customer needs and meet competitive demands. 
+
+&#8226; Business and operating results can also be affected by widespread natural and other disasters, pandemics, including the impact of the COVID-19 pandemic crisis and post-pandemic return to normalcy, global events, including the Ukraine-Russia conflict, dislocations, including shortages of labor, supply chain disruptions and shipping delays, terrorist activities, system failures, security breaches, significant political events, cyber-attacks or international hostilities through impacts on the economy and financial markets generally, or on us or our counterparties specifically. 
+
+&#8226; Legal, regulatory and accounting developments could have an impact on our ability to operate and grow our businesses, financial condition, results of operations, competitive position, and reputation. Reputational impacts could affect matters such as business generation and retention, liquidity, funding, and the ability to attract and retain talent. These developments could include: 
+
+&#9702; Changes resulting from the current U.S. presidential administration, including legislative and regulatory reforms, different approaches to supervisory or enforcement priorities, changes affecting oversight of the financial services industry, regulatory obligations or restrictions, consumer protection, taxes, employee benefits, compensation practices, pension, bankruptcy and other industry aspects, and changes in accounting policies and principles. 
+
+&#9702; Changes to regulations or accounting standards governing bank capital requirements, loan loss reserves and liquidity standards. 
+
+&#9702; Changes in monetary and fiscal policies, including interest rate policies and strategies of the Federal Open Market Committee (FOMC). 
+
+&#9702; Unfavorable resolution of legal proceedings or other claims and regulatory and other governmental investigations or other inquiries. These matters may result in monetary judgments or settlements or other remedies, including fines, penalties, restitution or alterations in our business practices, and in additional expenses and collateral costs, and may cause reputational harm to FNB. 
+
+&#9702; Results of the regulatory examination and supervision process, including our failure to satisfy requirements imposed by the federal bank regulatory agencies or other governmental agencies. 
+
+&#9702; Business and operating results are affected by our ability to effectively identify and manage risks inherent in our businesses, including, where appropriate, through effective use of policies, processes, systems and controls, third-party insurance, derivatives, and capital and liquidity management techniques. 
+
+&#9702; The impact on our financial condition, results of operations, financial disclosures and future business strategies related to the impact on the ACL due to changes in forecasted macroeconomic conditions as a result of applying the &#8220;current expected credit loss&#8221; accounting standard, or CECL. 
+
+&#9702; A failure or disruption in or breach of our operational or security systems or infrastructure, or those of third parties, including as a result of cyber-attacks or campaigns. 
+
+&#8226; The COVID-19 pandemic and the federal, state, and local regulatory and governmental actions implemented in response to COVID-19 have resulted in increased volatility of the financial markets and national and local economic conditions, supply chain challenges, rising inflationary pressures, increased levels of unemployment and business failures, and the potential to have a material impact on, among other things, our business, financial condition, results of operations, liquidity, or on our management, employees, customers and critical vendors and suppliers. In view of the many unknowns associated with the COVID-19 pandemic, our forward-looking statements continue to be subject to various conditions that may be substantially different in the future than what we are currently experiencing or expecting, including, but not limited to, challenging headwinds for the U.S. economy and labor market and the possible change in commercial and consumer customer fundamentals, expectations and sentiments. As a result of the COVID-19 impact, including uncertainty regarding the potential impact of continuing variant mutations of the virus, U.S. government responsive measures to manage it or provide financial relief, the uncertainty regarding its duration and the success of vaccination efforts, it is possible the pandemic may have a material adverse impact on our business, operations and financial performance. 
+
+&#8226; We grow our business, in part, through acquisitions and new strategic initiatives. Risks and uncertainties include those presented by the nature of the business acquired and strategic initiative, including in some cases those associated with our entry into new businesses or new geographic or other markets and risks resulting from our unfamiliarity with those new areas, as well as risks and various uncertainties related to the acquisition transactions themselves, regulatory issues, and the integration of the acquired businesses into FNB after closing. Such risks attendant to the pending FNB-UB Bancorp merger include, but are not limited to: 
+
+&#8226; The possibility that the anticipated benefits of the transaction, including anticipated cost savings and strategic gains, are not realized when expected or at all, including as a result of the impact of, or problems arising from, the integration of the two companies or as a result of the strength of the economy, competitive factors in the areas where FNB and UB Bancorp do business, or as a result of other unexpected factors or events; 
+
+&#8226; Completion of the transaction is dependent on the satisfaction of customary closing conditions, including approval by UB Bancorp stockholders, which cannot be assured, and the timing and completion of the transaction is dependent on various factors that cannot be predicted with precision at this point; 
+
+&#8226; The occurrence of any event, change or other circumstances that could give rise to the right of one or both of the parties to terminate the merger agreement; 
+
+&#8226; Completion of the transaction is subject to bank regulatory approvals and such approvals may not be obtained in a timely manner or at all or may be subject to conditions which may cause additional significant expense or delay the consummation of the merger transaction; 
+
+&#8226; Potential adverse reactions or changes to business or employee relationships, including those resulting from the announcement or completion of the transaction; 
+
+&#8226; The outcome of any legal proceedings that may be instituted against FNB or UB Bancorp; 
+
+&#8226; Subsequent federal legislative and regulatory actions and reforms affecting the financial institutions&#8217; industry may substantially impact the economic benefits of the proposed merger; 
+
+&#8226; Unanticipated challenges or delays in the integration of UB Bancorp&#8217;s business into FNB&#8217;s and the conversion of UB Bancorp&#8217;s technology systems and customer data may significantly increase the expense associated with the transaction; and 
+
+&#8226; Other factors that may affect future results of FNB and UB Bancorp, including changes in asset quality and credit risk; the inability to sustain revenue and earnings growth; changes in interest rates and capital markets; inflation; customer borrowing, repayment, investment and deposit practices; the impact, extent and timing of technological changes; capital management activities; and other actions of the Federal Reserve Board and legislative and regulatory actions and reforms. 
+
+The risks identified here are not exclusive or the types of risks we may confront and actual results may differ materially from those expressed or implied as a result of these risks and uncertainties, including, but not limited to, the risk factors and other uncertainties described under Item 1A. Risk Factors and the Risk Management sections of our 2021 Annual Report on Form 10-K , our subsequent 2022 Quarterly Reports on Form 10-Q (including the risk factors and risk management discussions) and our other 2022 filings with the SEC, which are available on our corporate website at https://www.fnb-online.com/about-us/investor-information/reports-and-filings or the SEC's website at www.sec.gov. More specifically, our forward-looking statements may be subject to the evolving risks and uncertainties related to the COVID-19 pandemic and its macro-economic impact and the resulting governmental, business and societal responses to it. We have included our web address as an inactive textual reference only. Information on our website is not part of our SEC filings. 
+
+APPLICATION OF CRITICAL ACCOUNTING POLICIES 
+
+A description of our critical accounting policies is included in the MD&#38;A section of our 2021 Annual Report on Form 10-K filed with the SEC on February 24, 2022 under the heading &#8220;Application of Critical Accounting Policies&#8221;. There have been no significant changes in critical accounting policies or the assumptions and judgments utilized in applying these policies since December 31, 2021. 
+
+USE OF NON-GAAP FINANCIAL MEASURES AND KEY PERFORMANCE INDICATORS 
+
+To supplement our Consolidated Financial Statements presented in accordance with GAAP, we use certain non-GAAP financial measures, such as operating net income available to common stockholders, operating earnings per diluted common share, return on average tangible common equity, return on average tangible assets, tangible book value per common share, the ratio of tangible equity to tangible assets, the ratio of tangible common equity to tangible assets, provision for credit losses, excluding the initial provision for non-PCD loans associated with the Howard acquisition, average deposits, excluding Howard average deposits, loans and leases, excluding PPP loans and Howard loans as of the acquisition date, loans and leases, excluding PPP loans (average), loans and leases, excluding PPP loans, pre-provision net revenue to average tangible common equity, efficiency ratio and net interest margin (FTE) to provide information useful to investors in understanding our operating performance and trends, and to facilitate comparisons with the performance of our peers. Management uses these measures internally to assess and better understand our underlying business performance and trends related to core business activities. The non-GAAP financial measures and key performance indicators we use may differ from the non-GAAP financial measures and key performance indicators other financial institutions use to assess their performance and trends. 
+
+These non-GAAP financial measures should be viewed as supplemental in nature, and not as a substitute for, or superior to, our reported results prepared in accordance with GAAP. When non-GAAP financial measures are disclosed, the SEC's Regulation G requires: (i) the presentation of the most directly comparable financial measure calculated and presented in accordance with GAAP and (ii) a reconciliation of the differences between the non-GAAP financial measure presented and the most directly comparable financial measure calculated and presented in accordance with GAAP. Reconciliations of non-GAAP operating measures to the most directly comparable GAAP financial measures are included later in this report under the heading &#8220;Reconciliations of Non-GAAP Financial Measures and Key Performance Indicators to GAAP&#8221;. 
+
+Management believes items such as merger expenses, initial provision for non-PCD loans acquired and branch consolidation costs are not organic to run our operations and facilities. These items are considered significant items impacting earnings as they are deemed to be outside of ordinary banking activities. The merger expenses and branch consolidation costs principally represent expenses to satisfy contractual obligations of the acquired entity or closed branch without any useful ongoing benefit 
+
+to us. These costs are specific to each individual transaction and may vary significantly based on the size and complexity of the transaction. 
+
+To facilitate peer comparisons of net interest margin and efficiency ratio, we use net interest income on a taxable-equivalent basis in calculating net interest margin by increasing the interest income earned on tax-exempt assets (loans and investments) to make it fully equivalent to interest income earned on taxable investments (this adjustment is not permitted under GAAP). Taxable-equivalent amounts for the 2022 and 2021 periods were calculated using a federal statutory income tax rate of 21%. 
+
+FINANCIAL SUMMARY 
+
+Net income available to common stockholders for the second quarter of 2022 was $107.1 million or $0.30 per diluted common share, compared to net income available to common stockholders for the second quarter of 2021 of $99.4 million or $0.31 per diluted common share. On an operating basis, earnings per diluted common share (non-GAAP) was $0.31 for the second quarter of 2022, excluding $2.0 million (pre-tax) in merger-related significant items, while the second quarter of 2021 was $0.31, excluding $2.6 million of significant items (pre-tax). 
+
+During the second quarter, we grew revenue by 7.5% to a record of $335.8 million, primarily due to an expansion in net interest income driven by benefits from the higher interest rate environment and by overall growth in securities and loans while maintaining solid asset quality. Excluding PPP, average loans and leases (non-GAAP) increased $1.1 billion, or 17.5% annualized, on a linked-quarter basis. Asset quality remains a key focus with proactive risk management and a conservatively underwritten balance sheet producing our solid reserve coverage and net recoveries this quarter of 0.01%. 
+
+On June 1, 2022, the Company announced the signing of a definitive merger agreement to acquire Greenville, North Carolina-based UB Bancorp with total assets of $1.2 billion at March 31, 2022, including its wholly owned banking subsidiary, Union Bank, in an all-stock transaction valued at $19.56 per share, or a fully diluted market value of approximately $117 million, based upon the closing stock price of FNB as of Tuesday, May 31, 2022. This merger will further strengthen FNB's North Carolina presence while enhancing its low-cost deposit base. 
+
+Income Statement Highlights (Second quarter of 2022 compared to second quarter of 2021, except as noted) 
+
+&#8226; Net interest income increased $25.8 million, or 11.3%, to $253.7 million primarily due to the benefit of growth in earning assets as well as the rising interest rate environment. 
+
+&#8226; On a linked-quarter basis net interest income totaled $253.7 million, an increase of $19.6 million, or 8.4%, from the prior quarter total of $234.1 million, primarily due to growth in average earning assets and benefits from the higher interest rate environment, partially offset by decreased contribution from PPP. 
+
+&#8226; The net interest margin (FTE) (non-GAAP) increased 6 basis points to 2.76%, as the yield on earning assets increased 5 basis points to 3.05%, primarily reflecting the higher yields on variable-rate loans and investment securities partially offset by significant reductions in PPP contributions as the PPP loan portfolio winds down. 
+
+&#8226; On a linked-quarter basis, the net interest margin (FTE) (non-GAAP) increased 15 basis points to 2.76% as the earning asset yield increased 22 basis points and the cost of funds increased 8 basis points. The total impact of PPP, purchase accounting accretion and higher cash balances on net interest margin was a reduction of 12 basis points, compared to a reduction of 13 basis points in the prior quarter. 
+
+&#8226; The annualized net charge-offs/(recoveries) to total average loans ratio was (0.01)%, compared to 0.06%, with continued favorable asset quality trends across the loan portfolio. 
+
+&#8226; The provision for credit losses was $6.4 million, compared to a net benefit of $1.2 million in the prior quarter when excluding $19.1 million of initial provision for non-PCD loans associated with the Howard acquisition (non-GAAP). 
+
+&#8226; Non-interest income was $82.2 million, an increase of $2.4 million, or 3.0%, driven by strong contributions from capital markets fee income and higher service charges reflecting increased customer activity, partially offset by reduced contributions from mortgage banking due to lower refinance volumes given significantly higher interest rates. 
+
+&#8226; The effective tax rate was 20.1%, compared to 19.7%, with the increase driven by higher pre-tax income and state income taxes. 
+
+&#8226; The efficiency ratio (non-GAAP) improved to 55.2%, compared to 56.8%. 
+
+Balance Sheet Highlights (period-end balances, June 30, 2022 compared to December 31, 2021, unless otherwise indicated) 
+
+&#8226; Period-end total loans and leases, excluding PPP loans and Howard acquired loans as of the January 22, 2022 acquisition date (non-GAAP), increased $2.6 billion, or 11.2%, as commercial loans and leases increased $1.3 billion, or 8.4%, and consumer loans increased $1.3 billion, or 16.4%, as compared to June 30, 2021. PPP loans totaled $85.8 million at June 30, 2022, compared to $1.6 billion as of June 30, 2021. 
+
+&#8226; Excluding PPP, period-end loans and leases (non-GAAP) increased $1.3 billion, or 19.5% annualized, on a linked-quarter basis, including an increase of $795.0 million in consumer loans and $503.9 million in commercial loans and leases. 
+
+&#8226; Total average deposits grew $3.2 billion, or 10.5%, from the same prior-year period, led by increases in average non-interest-bearing deposits of $1.7 billion, or 16.9%, and average interest-bearing demand deposits of $1.2 billion, or 8.8%, partially offset by a decrease in average time deposits of $284.4 million, or 8.7%. Average deposit growth reflected organic growth in new and existing customer relationships and inflows from the January 2022 Howard acquisition. Excluding Howard, average deposits (non-GAAP) grew $1.6 billion, or 5.1%, from the same prior-year period. 
+
+&#8226; The ratio of loans to deposits was 83.8%, compared to 78.7%, as loan growth outpaced deposit growth. Additionally, the funding mix continued to improve with non-interest-bearing deposits growing to 35% of total deposits, compared to 34%. 
+
+&#8226; Total assets were $41.7 billion, compared to $39.5 billion, an increase of $2.2 billion, or 5.5%, primarily due to organic growth in loans and the Howard acquisition. 
+
+&#8226; The dividend payout ratio for the second quarter of 2022 was 39.7%, compared to 39.1% for the second quarter of 2021 due to merger-related expenses in the second quarter of 2022. 
+
+&#8226; The ratio of the ACL to total loans and leases was 1.35%, compared to 1.38% directionally consistent with improved credit metrics. The ACL on loans and leases totaled $378 million at June 30, 2022, compared to $344 million with the increase driven by the growth in total loans outstanding, lower prepayment speed assumptions and the initial ACL related to the Howard acquisition. 
+
+&#8226; Tangible book value per share (non-GAAP) of $8.10, decreased $0.49, or 5.7%. AOCI reduced the tangible book value per common share by $0.72 as of June 30, 2022, primarily due to the impact of higher interest rates on the fair value of AFS securities, compared to a $0.19 reduction. 
+
+&#8226; The CET1 regulatory capital ratio decreased to 9.7% from 9.9% with the decline primarily due to an increase in risk-weighted assets from the strong loan growth as cash was deployed to fund new loans. 
+
+&#8226; During the second quarter of 2022, the Company repurchased 1.1 million shares of common stock at a weighted average share price of $11.77 for a total of $13.0 million. In April 2022, our Board of Directors approved an additional $150 million for the repurchase of our common stock to be added to our existing share repurchase program, bringing the total authorization to $300 million. Since inception, we repurchased 11.0 million shares at a weighted average share price of $11.33 for $124.4 million under this repurchase program. 
+
+TABLE 1 
+
+Three Months Ended June 30, Quarterly Results Summary 2022 2021 Reported results Net income available to common stockholders (millions) $ 107.1 &#160; $ 99.4 Net income per diluted common share 0.30 &#160; 0.31 Book value per common share (period-end) 15.19 &#160; 15.43 Pre-provision net revenue (millions) 143.1 &#160; 125.1 Common equity tier 1 capital ratio 9.7 &#160; % 9.9 % Operating results (non-GAAP) Operating net income available to common stockholders (millions) $ 108.7 &#160; $ 101.5 Operating net income per diluted common share 0.31 &#160; 0.31 Pre-provision net revenue (millions) 145.1 &#160; 127.8 Average diluted common shares outstanding (thousands) 354,687 &#160; 323,328 
+
+Significant items impacting earnings (1) (millions) 
+
+Pre-tax merger-related expenses $ (2.0) $ &#8212; After-tax impact of merger-related expenses (1.6) &#8212; Pre-tax branch consolidation costs &#8212; &#160; (2.6) After-tax impact of branch consolidation costs &#8212; &#160; (2.1) Total significant items pre-tax $ (2.0) $ (2.6) Total significant items after-tax $ (1.6) $ (2.1) Capital measures (non-GAAP) Tangible common equity to tangible assets (period-end) 7.25 &#160; % 7.26 % Tangible book value per common share (period-end) $ 8.10 &#160; $ 8.20 Six Months Ended June 30, Year-to-Date Results Summary 2022 2021 Reported results Net income available to common stockholders (millions) $ 158.1 &#160; $ 190.6 Net income per diluted common share 0.45 &#160; 0.59 Pre-provision net revenue (millions) 228.0 &#160; 246.0 Operating results (non-GAAP) Operating net income available to common stockholders (millions) 200.7 &#160; 192.7 Operating net income per diluted common share 0.57 &#160; 0.59 Pre-provision net revenue (millions) 262.9 &#160; 248.7 Average diluted common shares outstanding (thousands) 351,835 &#160; 324,028 
+
+Significant items impacting earnings (1) (millions) 
+
+Pre-tax merger-related expenses $ (30.7) $ &#8212; After-tax impact of merger-related expenses (24.2) &#8212; Pre-tax provision expense related to acquisition (19.1) &#8212; After-tax impact of provision expense related to acquisition (15.1) &#8212; Pre-tax branch consolidation costs (4.2) (2.6) After-tax impact of branch consolidation costs (3.3) (2.1) Total significant items pre-tax $ (54.0) $ (2.6) Total significant items after-tax $ (42.6) $ (2.1) 
+
+(1) Favorable (unfavorable) impact on earnings 
+
+Industry Developments 
+
+LIBOR and SOFR 
+
+The United Kingdom&#8217;s Financial Conduct Authority (FCA), who is the regulator of LIBOR, announced on March 5, 2021 that they will no longer require any panel bank to continue to submit LIBOR after December 31, 2021. As it pertains to U.S. dollar LIBOR, the FCA announced that certain LIBOR tenors will continue to be published through June 30, 2023. Bank regulators, in a joint statement have urged banks to stop using LIBOR altogether on new transactions by the end of 2021 to avoid the possible creation of safety and soundness risk. The FRB of New York has created a working group called the Alternative Reference Rate Committee (ARRC) to assist U.S. institutions in transitioning away from LIBOR as a benchmark interest rate. The ARRC has recommended the use of SOFR as a replacement index for LIBOR. 
+
+Similarly, we created an internal transition team that is managing our transition away from LIBOR. This transition team is a cross-functional team composed of representatives from the commercial, retail and mortgage banking lines of business, as well as representatives of loan operations, information technology, legal, finance and other support functions. The transition team has completed an assessment of tasks needed for the transition, identified contracts that contain LIBOR language, reviewed existing contract language for the presence of appropriate fallback rate language, developed and implemented loan fallback rate language for when LIBOR is retired and identified risks associated with the transition. The transition team has chosen SOFR as the primary replacement index for LIBOR but other credit-sensitive indices are available for the benefit of our customers. 
+
+Beginning in September 2020, adjustable rate mortgage loans have been originated with SOFR as the underlying index. Their balance as of June 30, 2022 is approximately $650 million, an increase of $210 million compared to December 31, 2021. We started originating commercial loans utilizing SOFR and other indices in the fourth quarter of 2021. During the first six months of 2022, we originated in excess of $1.6 billion in SOFR indexed loans, including LIBOR loans that transitioned to SOFR during the period. The current balance of commercial loans indexed to SOFR is approximately $1.7 billion. 
+
+Our transition team continues to work within the guidelines established by the FCA and ARRC to provide for a smooth transition away from LIBOR. As of June 30, 2022, approximately $9 billion of our loan portfolio consisted of loans whose variable rate index is LIBOR, a decline of $1.4 billion from March 31, 2022. 
+
+Lastly, we have approximately $220 million of outstanding FNB issued and acquired debt that uses LIBOR as its base index. 
+
+RESULTS OF OPERATIONS 
+
+Three Months Ended June 30, 2022 Compared to the Three Months Ended June 30, 2021 
+
+Net income available to common stockholders for the three months ended June 30, 2022 was $107.1 million or $0.30 per diluted common share, compared to net income available to common stockholders for the three months ended June 30, 2021 of $99.4 million or $0.31 per diluted common share. The results for the second quarter of 2022 reflect revenue of $335.8 million, an increase of $28.2 million, or 9.2%. Additionally, the provision for credit losses was $6.4 million with the increase primarily due to significant loan growth and CECL-related model impacts from lower prepayment speed assumptions in the second quarter of 2022. This compares to a provision benefit of $1.1 million for the second quarter of 2021. Non-interest income for the second quarter of 2022 included increases in service charges and capital markets income of $5.0 million, or 16.7% and $1.5 million, or 21.9%, respectively. Non-interest expense for the second quarter of 2022 increased $10.3 million primarily due to salaries and employee benefits, occupancy and equipment, marketing expense and merger-related costs of $2.0 million. 
+
+Financial highlights are summarized below: 
+
+TABLE 2 
+
+Three Months Ended June 30, $ % (in thousands, except per share data) 2022 2021 Change Change Net interest income $ 253,690 &#160; $ 227,871 $ 25,819 11.3 % Provision for credit losses 6,422 &#160; (1,126) 7,548 &#8212; Non-interest income 82,154 &#160; 79,772 2,382 3.0 Non-interest expense 192,774 &#160; 182,500 10,274 5.6 Income taxes 27,506 &#160; 24,882 2,624 10.5 Net income 109,142 &#160; 101,387 7,755 7.6 Less: Preferred stock dividends 2,010 &#160; 2,010 &#8212; &#8212; Net income available to common stockholders $ 107,132 &#160; $ 99,377 $ 7,755 7.8 % Earnings per common share &#8211; Basic $ 0.30 &#160; $ 0.31 $ (0.01) (3.2) % Earnings per common share &#8211; Diluted 0.30 &#160; 0.31 (0.01) (3.2) Cash dividends per common share 0.12 &#160; 0.12 &#8212; &#8212; 
+
+The following table presents selected financial ratios and other relevant data used to analyze our performance: 
+
+TABLE 3 
+
+&#160; Three Months Ended June 30, &#160; 2022 2021 Return on average equity 8.05 &#160; % 8.14 % 
+
+Return on average tangible common equity (2) 
+
+15.53 &#160; 15.85 Return on average assets 1.05 &#160; 1.06 
+
+Return on average tangible assets (2) 
+
+1.14 &#160; 1.15 
+
+Book value per common share (1) 
+
+$ 15.19 &#160; $ 15.43 
+
+Tangible book value per common share (1) (2) 
+
+8.10 &#160; 8.20 
+
+Equity to assets (1) 
+
+13.04 &#160; % 13.12 % Average equity to average assets 12.98 &#160; 12.96 
+
+Common equity to assets (1) 
+
+12.79 &#160; 12.84 
+
+Tangible equity to tangible assets (1) (2) 
+
+7.52 &#160; 7.55 
+
+Tangible common equity to tangible assets (1) (2) 
+
+7.25 &#160; 7.26 
+
+Common equity tier 1 capital ratio (1) 
+
+9.7 &#160; 9.9 Dividend payout ratio 39.74 &#160; 39.09 
+
+(1) Period-end 
+
+(2) Non-GAAP 
+
+The following table provides information regarding the average balances and yields earned on interest-earning assets (non-GAAP) and the average balances and rates paid on interest-bearing liabilities: 
+
+TABLE 4 
+
+&#160; Three Months Ended June 30, &#160; 2022 2021 (dollars in thousands) Average Balance Interest Income/ Expense Yield/ Rate Average Balance Interest Income/ Expense Yield/ Rate Assets Interest-earning assets: Interest-bearing deposits with banks $ 2,738,581 &#160; $ 5,033 &#160; 0.74 &#160; % $ 2,436,958 $ 659 0.11 % 
+
+Taxable investment securities (1) 
+
+6,069,239 &#160; 26,912 &#160; 1.77 &#160; 5,071,781 21,295 1.68 
+
+Tax-exempt investment securities (1)(2) 
+
+1,000,593 &#160; 8,524 &#160; 3.41 &#160; 1,094,787 9,386 3.43 Loans held for sale 209,544 &#160; 2,065 &#160; 3.94 &#160; 196,455 1,865 3.80 
+
+Loans and leases (2)(3) 
+
+27,245,122 &#160; 240,900 &#160; 3.54 &#160; 25,397,396 222,383 3.51 Total interest-earning assets (2) 
+
+37,263,079 &#160; 283,434 &#160; 3.05 &#160; 34,197,377 255,588 3.00 Cash and due from banks 435,111 &#160; 369,086 Allowance for credit losses (374,750) (368,243) Premises and equipment 400,652 &#160; 335,294 Other assets 4,163,546 &#160; 3,992,672 Total assets $ 41,887,638 &#160; $ 38,526,186 Liabilities Interest-bearing liabilities: Deposits: Interest-bearing demand $ 15,013,195 &#160; 10,455 &#160; 0.28 &#160; $ 13,798,324 4,900 0.14 Savings 3,957,969 &#160; 597 &#160; 0.06 &#160; 3,391,989 175 0.02 Certificates and other time 2,974,360 &#160; 4,038 &#160; 0.55 &#160; 3,258,747 7,090 0.88 Total interest-bearing deposits 21,945,524 &#160; 15,090 &#160; 0.28 &#160; 20,449,060 12,165 0.24 Short-term borrowings 1,421,706 &#160; 5,760 &#160; 1.62 &#160; 1,700,795 6,676 1.57 Long-term borrowings 712,313 &#160; 6,238 &#160; 3.51 &#160; 954,402 6,134 2.58 Total interest-bearing liabilities 24,079,543 &#160; 27,088 &#160; 0.45 &#160; 23,104,257 24,975 0.43 Non-interest-bearing demand 11,761,183 &#160; 10,058,181 Total deposits and borrowings 35,840,726 &#160; 0.30 &#160; 33,162,438 0.30 Other liabilities 608,999 &#160; 369,249 Total liabilities 36,449,725 &#160; 33,531,687 Stockholders&#8217; equity 5,437,913 &#160; 4,994,499 Total liabilities and stockholders&#8217; equity $ 41,887,638 &#160; $ 38,526,186 Net interest-earning assets $ 13,183,536 &#160; $ 11,093,120 
+
+Net interest income (FTE) (2) 
+
+256,346 &#160; 230,613 Tax-equivalent adjustment (2,656) (2,742) Net interest income $ 253,690 &#160; $ 227,871 Net interest spread 2.60 &#160; % 2.57 % 
+
+Net interest margin (2) 
+
+2.76 &#160; % 2.70 % 
+
+(1) The average balances and yields earned on securities are based on historical cost. 
+
+(2) The interest income amounts are reflected on an FTE basis (non-GAAP), which adjusts for the tax benefit of income on certain tax-exempt loans and investments using the federal statutory tax rate of 21%. The yield on earning assets and the net interest margin are presented on an FTE basis. We believe this measure to be the preferred industry measurement of net interest income and provides relevant comparison between taxable and non-taxable amounts. 
+
+(3) Average balances include non-accrual loans. Loans and leases consist of average total loans less average unearned income. 
+
+Net Interest Income 
+
+Net interest income on an FTE basis (non-GAAP) increased $25.7 million, or 11.2%, from $230.6 million for the second quarter of 2021 to $256.3 million for the second quarter of 2022. Average earning assets of $37.3 billion increased $3.1 billion, or 9.0%, from 2021. In addition to the growth in average earning assets, net interest income benefited from the repricing impact of the higher interest rate environment, which was partially offset by the higher cost of interest-bearing deposit accounts. Average interest-bearing liabilities of $24.1 billion increased $1.0 billion, or 4.2%, from 2021, driven by an increase of $1.5 billion in average interest-bearing deposits which included organic growth in new and existing customer relationships, and inflows from the Howard acquisition, partially offset by a decrease in average borrowings of $521.2 million. Our net interest margin FTE (non-GAAP) increased 6 basis points to 2.76%, as the yield on earning assets increased 5 basis points even with a reduced PPP contribution. The total cost of funds was stable at 0.30%, with a 4 basis point increase in interest-bearing deposit costs. 
+
+The following table provides certain information regarding changes in net interest income on an FTE basis (non-GAAP) attributable to changes in the average volumes and yields earned on interest-earning assets and the average volume and rates paid for interest-bearing liabilities for the three months ended June 30, 2022, compared to the three months ended June 30, 2021: 
+
+TABLE 5 
+
+(in thousands) Volume Rate Net 
+
+Interest Income (1) 
+
+Interest-bearing deposits with banks $ 91 $ 4,283 $ 4,374 
+
+Securities (2) 
+
+3,490 1,265 4,755 Loans held for sale 243 (43) 200 
+
+Loans and leases (2) 
+
+12,190 6,327 18,517 
+
+Total interest income (2) 
+
+16,014 11,832 27,846 
+
+Interest Expense (1) 
+
+Deposits: Interest-bearing demand 275 5,280 5,555 Savings 23 399 422 Certificates and other time (418) (2,634) (3,052) Short-term borrowings (1,035) 119 (916) Long-term borrowings (1,557) 1,661 104 Total interest expense (2,712) 4,825 2,113 
+
+Net change (2) 
+
+$ 18,726 $ 7,007 $ 25,733 
+
+&#160; 
+
+(1) The amount of change not solely due to rate or volume changes was allocated between the change due to rate and the change due to volume based on the net size of the rate and volume changes. 
+
+(2) Interest income amounts are reflected on an FTE basis (non-GAAP) which adjusts for the tax benefit of income on certain tax-exempt loans and investments using the federal statutory tax rate of 21%. We believe this measure to be the preferred industry measurement of net interest income and provides relevant comparison between taxable and non-taxable amounts. 
+
+Interest income on an FTE basis (non-GAAP) of $283.4 million for the second quarter of 2022, increased $27.8 million, or 10.9%, from the same quarter of 2021, primarily due to the impact of higher short-term interest rates on cash balances and an increase in earning assets of $3.1 billion. The increase in earning assets was primarily driven by a $1.8 billion, or 7.3%, increase in average loans and leases, an increase in average securities of $903.3 million, and a $301.6 million increase in average cash and cash equivalents balances. Excluding PPP loans (non-GAAP), average total loans and leases increased $3.8 billion, or 16.5%, including growth of $2.2 billion in commercial loans and leases ($1.1 billion from Howard) and $1.7 billion in consumer loans ($0.5 billion from Howard). The increase in average commercial loans and leases, excluding PPP (non-GAAP), included $1.4 billion, or 28.3%, in commercial and industrial loans and $723.1 million, or 7.3%, in commercial real estate balances driven by a combination of organic loan origination activity and the Howard acquisition. Commercial loan origination activity was led by the Pittsburgh, Cleveland and North Carolina markets. Average consumer loans increased $1.7 billion, or 21.1%, with a $981.9 million increase in residential mortgages and a $585.5 million increase in direct installment loans driven by strong organic loan origination activity and the Howard acquisition. Additionally, the net increase in the 
+
+securities portfolio was a result of management's strategy to deploy excess liquidity into higher yielding securities, as average securities increased 14.6%. The yield on average earning assets (non-GAAP) increased 5 basis points from 3.00% for the second quarter of 2021 to 3.05% for the second quarter of 2022, primarily reflecting the higher yields on variable-rate loans and investment securities offset by significant reductions in PPP contributions as the PPP loan portfolio winds down. 
+
+Interest expense of $27.1 million for the second quarter of 2022 increased $2.1 million, or 8.5%, from the same quarter of 2021, due to an increase in rates paid on average interest-bearing liabilities and growth in average interest-bearing deposits over the same quarter of 2021. Average non-interest-bearing deposits increased $1.7 billion, or 16.9%, and average interest-bearing deposits increased $1.5 billion, or 7.3%. The growth in average deposits reflected organic growth in new and existing customer relationships and inflows from the Howard acquisition. Average short-term borrowings decreased $279.1 million, or 16.4%, primarily reflecting decreases of $200.0 million and $86.2 million in short-term FHLB advances and repurchase agreements, respectively. Average long-term borrowings decreased $242.1 million, or 25.4%, primarily reflecting a decrease of $263.7 million in long-term FHLB advances, partially offset by the addition of Howard's $25.0 million of subordinated debt. The rate paid on interest-bearing liabilities increased 2 basis points from 0.43% to 0.45% for the second quarter of 2022, primarily due to the interest rate actions made by the FOMC and partially offset by management's actions taken to reduce the cost of interest-bearing liabilities. 
+
+Provision for Credit Losses 
+
+Provision for credit losses is determined based on management&#8217;s estimates of the appropriate level of ACL needed to absorb probable life-of-loan losses in the loan and lease portfolio, after giving consideration to charge-offs and recoveries for the period. The following table presents information regarding the provision for credit loss expense and net charge-offs: 
+
+TABLE 6 
+
+Three Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Provision for credit losses (on loans and leases) $ 6,989 &#160; $ (1,706) $ 8,695 509.7 % 
+
+Provision for unfunded loan commitments 
+
+(579) 580 (1,159) (199.8) Provision for credit losses $ 6,410 &#160; $ (1,126) $ 7,536 669.3 % Net loan charge-offs (recoveries) (381) 3,822 (4,203) (110.0) Net loan charge-offs (recoveries) (annualized) / total average loans and leases (0.01) % 0.06 % 
+
+Provision for credit losses was $6.4 million during the second quarter of 2022, an increase of $7.5 million, from the same period of 2021. The second quarter of 2022 is comprised of a $7.0 million provision for loans and leases outstanding and a $0.6 million provision benefit for unfunded loan commitments. The net increase reflects significant loan growth and CECL-related model impacts from lower prepayment speed assumptions in the second quarter of 2022. The second quarter of 2022 also reflected net recoveries of $0.4 million, or 0.01% annualized of total average loans, compared to net charge-offs of $3.8 million, or 0.06% annualized, in the second quarter of 2021. For additional information relating to the allowance and provision for credit losses, refer to the Allowance for Credit Losses on Loans and Leases section of this Management&#8217;s Discussion and Analysis. 
+
+Non-Interest Income 
+
+The breakdown of non-interest income for the three months ended June 30, 2022 and 2021 is presented in the following table: 
+
+TABLE 7 
+
+Three Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Service charges $ 34,693 &#160; $ 29,726 $ 4,967 16.7 % Trust services 9,713 &#160; 9,282 431 4.6 Insurance commissions and fees 6,352 &#160; 6,227 125 2.0 Securities commissions and fees 6,052 &#160; 5,747 305 5.3 Capital markets income 8,547 &#160; 7,012 1,535 21.9 Mortgage banking operations 6,120 &#160; 7,422 (1,302) (17.5) Dividends on non-marketable equity securities 2,770 &#160; 2,383 387 16.2 Bank owned life insurance 4,043 &#160; 4,766 (723) (15.2) Net securities gains 48 &#160; 87 (39) (44.8) Other 3,816 &#160; 7,120 (3,304) (46.4) Total non-interest income $ 82,154 &#160; $ 79,772 $ 2,382 3.0 % 
+
+Total non-interest income increased $2.4 million, or 3.0%, to $82.2 million for the second quarter of 2022, compared to $79.8 million for the second quarter of 2021. The variances in the individual non-interest income items are explained in the following paragraphs. 
+
+Service charges of $34.7 million for the second quarter of 2022 increased $5.0 million, or 16.7%, from the same period of 2021, driven by interchange fees, treasury management services and higher customer activity. 
+
+Capital markets increased $1.5 million, or 21.9%, with solid contributions from swap fees, international banking, and debt capital markets. 
+
+Mortgage banking operations income of $6.1 million for the second quarter of 2022 decreased $1.3 million, or 17.5%, from the same period of 2021, as secondary market revenue and mortgage held-for-sale pipelines declined from higher levels given the sharp increase in mortgage rates in 2022. During the second quarter of 2022, we sold $328.4 million of residential mortgage loans, compared to $526.5 million for the same period of 2021, a decrease of 37.6%. 
+
+Bank owned life insurance decreased $0.7 million, or 15.2%, due to higher life insurance claims in the second quarter of 2021 as compared to the second quarter of 2022. 
+
+Other non-interest income was $3.8 million and $7.1 million for the second quarter of 2022 and 2021, respectively, with the decline primarily due to strong SBA premium income levels in 2021. 
+
+Non-Interest Expense 
+
+The breakdown of non-interest expense for the three months ended June 30, 2022 and 2021 is presented in the following table: 
+
+TABLE 8 
+
+Three Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Salaries and employee benefits $ 103,870 &#160; $ 102,073 $ 1,797 1.8 % Net occupancy 15,768 &#160; 16,296 (528) (3.2) Equipment 18,687 &#160; 17,160 1,527 8.9 Amortization of intangibles 3,549 &#160; 3,024 525 17.4 Outside services 17,265 &#160; 18,695 (1,430) (7.6) Marketing 4,628 &#160; 3,392 1,236 36.4 FDIC insurance 5,295 &#160; 4,208 1,087 25.8 Bank shares and franchise taxes 3,905 &#160; 3,576 329 9.2 Merger-related 2,027 &#160; &#8212; 2,027 &#8212; Other 17,780 &#160; 14,076 3,704 26.3 Total non-interest expense $ 192,774 &#160; $ 182,500 $ 10,274 5.6 % 
+
+Total non-interest expense of $192.8 million for the second quarter of 2022 increased $10.3 million, or 5.6%, from the same period of 2021. Non-interest expense increased $10.9 million, or 6.1%, when excluding significant items of $2.0 million of merger-related expenses in the second quarter of 2022 and $2.6 million of branch consolidation costs in the second quarter of 2021. The variances in the individual non-interest expense items are further explained in the following paragraphs. 
+
+Salaries and employee benefits of $103.9 million for the second quarter of 2022 increased $1.8 million, or 1.8%, from the same period of 2021, due primarily to annual merit increases and the acquired Howard expense base. 
+
+Net occupancy and equipment of $34.5 million for the second quarter of 2022 increased $1.0 million, or 3.0% from the same period of 2021. On an operating basis, net occupancy and equipment increased $3.1 million, or 10.0%, primarily from technology-related investments and the acquired Howard expense base. 
+
+Amortization of intangibles of $3.5 million increased $0.5 million, or 17.4%, primarily due to the amortization of core deposit intangibles from the Howard acquisition. 
+
+Marketing expense increased $1.2 million over the same prior-year period due to increased spending on digital advertising and campaigns related to our Physician's First Program. 
+
+FDIC insurance of $5.3 million increased $1.1 million, or 25.8%, primarily due to loan growth and balance sheet mix shift. 
+
+We recorded $2.0 million in merger-related costs in the second quarter of 2022 relating to the Howard acquisition and the pending UB Bancorp merger. 
+
+Other non-interest expense was $17.8 million and $14.1 million for the second quarter of 2022 and 2021, respectively. In the second quarter of 2021, we recorded over $0.5 million in branch consolidation costs and had an increase in business development expense and other operational costs during the current period in other non-interest expense. 
+
+The following table presents non-interest expense excluding significant items for the three months ended June 30, 2022 and 2021: 
+
+TABLE 9 
+
+Three Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Total non-interest expense, as reported $ 192,774 $ 182,500 $ 10,274 5.6 % Significant items: Branch consolidations &#8212; (2,644) 2,644 Merger-related (2,027) &#8212; (2,027) 
+
+Total non-interest expense, excluding significant items (1) 
+
+$ 190,747 $ 179,856 $ 10,891 6.1 % 
+
+(1) Non-GAAP 
+
+Income Taxes 
+
+The following table presents information regarding income tax expense and certain tax rates: 
+
+TABLE 10 
+
+&#160; Three Months Ended June 30, (dollars in thousands) 2022 2021 Income tax expense $ 27,506 &#160; $ 24,882 Effective tax rate 20.1 &#160; % 19.7 % Statutory federal tax rate 21.0 &#160; 21.0 
+
+Both periods&#8217; tax rates are lower than the federal statutory tax rates of 21% due to tax benefits primarily resulting from tax-exempt income on investments and loans, tax credits and income from BOLI. Income tax expense was higher in 2022 due to higher pre-tax earnings and state income taxes. 
+
+Six Months Ended June 30, 2022 Compared to the Six Months Ended June 30, 2021 
+
+Net income available to common stockholders for the first six months of 2022 was $158.1 million or $0.45 per diluted common share, compared to net income available to common stockholders for the first six months of 2021 of $190.6 million or $0.59 per diluted common share. The provision for credit losses for the first six months of 2022 totaled $24.4 million including $19.1 million of initial provision for non-PCD loans associated with the Howard acquisition. This compares to $4.8 million in the first six months of 2021. Non-interest income totaled $160.5 million, a decrease of $2.1 million, or 1.3%, reflecting reduced contributions from mortgage banking due to the increasing interest rate environment, partially offset by strong contributions from wealth management, capital markets and insurance commissions and fees, as well as higher service charges reflecting increased customer activity. Non-interest expense of $420.2 million, increased $52.8 million, or 14.4%, as the first six months of 2022 included merger-related costs of $30.7 million and branch consolidation costs of $4.2 million. The first six months of 2021 included the impact of branch consolidation costs of $2.6 million. On an operating basis, earnings per diluted common share (non-GAAP) was $0.57, compared to $0.59. 
+
+Financial highlights are summarized below: 
+
+TABLE 11 
+
+Six Months Ended June 30, $ % (in thousands, except per share data) 2022 2021 Change Change Net interest income $ 487,766 &#160; $ 450,794 $ 36,972 8.2 % Provision for credit losses 24,381 &#160; 4,785 19,596 409.5 Non-interest income 160,476 &#160; 162,577 (2,101) (1.3) Non-interest expense 420,200 &#160; 367,362 52,838 14.4 Income taxes 41,521 &#160; 46,602 (5,081) (10.9) Net income 162,140 &#160; 194,622 (32,482) (16.7) Less: Preferred stock dividends 4,020 &#160; 4,020 &#8212; &#8212; Net income available to common stockholders $ 158,120 &#160; $ 190,602 $ (32,482) (17.0) % Earnings per common share &#8211; Basic $ 0.45 &#160; $ 0.60 $ (0.15) (25.0) % Earnings per common share &#8211; Diluted 0.45 &#160; 0.59 (0.14) (23.7) Cash dividends per common share 0.24 &#160; 0.24 &#8212; &#8212; 
+
+The following table presents selected financial ratios and other relevant data used to analyze our performance: 
+
+TABLE 12 
+
+&#160; Six Months Ended June 30, 2022 2021 Return on average equity 6.01 &#160; % 7.88 % 
+
+Return on average tangible common equity (2) 
+
+11.49 &#160; 15.41 Return on average assets 0.79 &#160; 1.03 
+
+Return on average tangible assets (2) 
+
+0.87 &#160; 1.12 
+
+Book value per common share (1) 
+
+$ 15.19 &#160; $ 15.43 
+
+Tangible book value per common share (1) (2) 
+
+8.10 &#160; 8.20 
+
+Equity to assets (1) 
+
+13.04 &#160; % 13.12 % Average equity to average assets 13.11 &#160; 13.07 
+
+Common equity to assets (1) 
+
+12.79 &#160; 12.84 
+
+Tangible equity to tangible assets (1) (2) 
+
+7.52 &#160; 7.55 
+
+Tangible common equity to tangible assets (1) (2) 
+
+7.25 &#160; 7.26 
+
+Common equity tier 1 capital ratio (1) 
+
+9.7 &#160; 9.9 Dividend payout ratio 53.93 &#160; 40.86 
+
+(1) Period-end 
+
+(2) Non-GAAP 
+
+The following table provides information regarding the average balances and yields earned on interest-earning assets (non-GAAP) and the average balances and rates paid on interest-bearing liabilities: 
+
+TABLE 13 
+
+&#160; Six Months Ended June 30, &#160; 2022 2021 (dollars in thousands) Average Balance Interest Income/ Expense Yield/ Rate Average Balance Interest Income/ Expense Yield/ Rate Assets Interest-earning assets: Interest-bearing deposits with banks $ 2,921,076 &#160; $ 6,540 &#160; 0.45 &#160; % $ 1,999,580 $ 1,082 0.11 % 
+
+Taxable investment securities (1) 
+
+6,000,476 &#160; 50,697 &#160; 1.69 &#160; 4,994,705 43,212 1.73 
+
+Tax-exempt investment securities (1)(2) 
+
+1,012,870 &#160; 17,256 &#160; 3.41 &#160; 1,110,902 19,107 3.44 Loans held for sale 234,316 &#160; 4,457 &#160; 3.81 &#160; 180,503 3,358 3.72 
+
+Loans and leases (2) (3) 
+
+26,744,743 &#160; 460,662 &#160; 3.47 &#160; 25,424,960 443,160 3.51 Total interest-earning assets (2) 
+
+36,913,481 &#160; 539,612 &#160; 2.94 &#160; 33,710,650 509,919 3.04 Cash and due from banks 422,981 &#160; 369,474 Allowance for credit losses (367,611) (369,013) Premises and equipment 389,433 &#160; 334,310 Other assets 4,148,188 &#160; 4,033,514 Total assets $ 41,506,472 &#160; $ 38,078,935 Liabilities Interest-bearing liabilities: Deposits: Interest-bearing demand $ 14,966,600 &#160; 13,871 &#160; 0.19 &#160; $ 13,578,936 10,439 0.16 Savings 3,916,724 &#160; 740 &#160; 0.04 &#160; 3,336,465 347 0.02 Certificates and other time 2,959,451 &#160; 8,164 &#160; 0.56 &#160; 3,386,928 16,624 0.99 Total interest-bearing deposits 21,842,775 &#160; 22,775 &#160; 0.21 &#160; 20,302,329 27,410 0.27 Short-term borrowings 1,465,595 &#160; 11,562 &#160; 1.59 &#160; 1,759,979 13,716 1.57 Long-term borrowings 711,072 &#160; 12,255 &#160; 3.48 &#160; 1,023,337 12,398 2.44 Total interest-bearing liabilities 24,019,442 &#160; 46,592 &#160; 0.39 &#160; 23,085,645 53,524 0.47 Non-interest-bearing demand 11,509,946 &#160; 9,638,015 Total deposits and borrowings 35,529,388 &#160; 0.26 &#160; 32,723,660 0.33 Other liabilities 533,711 &#160; 377,089 Total liabilities 36,063,099 &#160; 33,100,749 Stockholders&#8217; equity 5,443,373 &#160; 4,978,186 Total liabilities and stockholders&#8217; equity $ 41,506,472 &#160; $ 38,078,935 Net interest-earning assets $ 12,894,039 &#160; $ 10,625,005 
+
+Net interest income (FTE) (2) 
+
+493,020 &#160; 456,395 Tax-equivalent adjustment (5,254) (5,601) Net interest income $ 487,766 &#160; $ 450,794 Net interest spread 2.55 &#160; % 2.57 % 
+
+Net interest margin (2) 
+
+2.69 &#160; % 2.72 % 
+
+(1) The average balances and yields earned on securities are based on historical cost. 
+
+(2) The interest income amounts are reflected on an FTE basis (non-GAAP), which adjusts for the tax benefit of income on certain tax-exempt loans and investments using the federal statutory tax rate of 21%. The yield on earning assets and the net interest margin are presented on an FTE basis. We believe this measure to be the preferred industry measurement of net interest income and provides relevant comparison between taxable and non-taxable amounts. 
+
+(3) Average balances include non-accrual loans. Loans and leases consist of average total loans less average unearned income. 
+
+Net Interest Income 
+
+Net interest income on an FTE basis (non-GAAP) totaled $493.0 million, increasing $36.6 million, or 8.0%, as the higher interest rate environment impacted earning asset yields. There was growth in earning assets of $3.2 billion or 9.5%, partially offset by a reduced net interest margin. The net interest margin (FTE) (non-GAAP) declined 3 basis points to 2.69%, primarily reflecting lower yields on commercial loans due to significantly lower PPP accretion and investment securities, combined with the effect of higher average cash balances on the mix of earning assets. 
+
+The following table provides certain information regarding changes in net interest income on an FTE basis (non-GAAP) attributable to changes in the average volumes and yields earned on interest-earning assets and the average volume and rates paid for interest-bearing liabilities for the six months ended June 30, 2022, compared to the six months ended June 30, 2021: 
+
+TABLE 14 
+
+(in thousands) Volume Rate Net 
+
+Interest Income (1) 
+
+Interest-bearing deposits with banks $ 699 $ 4,759 $ 5,458 
+
+Securities (2) 
+
+6,853 (1,219) 5,634 Loans held for sale 1,181 (82) 1,099 
+
+Loans and leases (2) 
+
+13,655 3,847 17,502 
+
+Total interest income (2) 
+
+22,388 7,305 29,693 
+
+Interest Expense (1) 
+
+Deposits: Interest-bearing demand 684 2,748 3,432 Savings 41 352 393 Certificates and other time (1,335) (7,125) (8,460) Short-term borrowings (2,587) 433 (2,154) Long-term borrowings (3,766) 3,623 (143) Total interest expense (6,963) 31 (6,932) 
+
+Net change (2) 
+
+$ 29,351 $ 7,274 $ 36,625 
+
+(1) The amount of change not solely due to rate or volume changes was allocated between the change due to rate and the change due to volume based on the net size of the rate and volume changes. 
+
+(2) Interest income amounts are reflected on an FTE basis (non-GAAP) which adjusts for the tax benefit of income on certain tax-exempt loans and investments using the federal statutory tax rate of 21%. We believe this measure to be the preferred industry measurement of net interest income and provides relevant comparison between taxable and non-taxable amounts. 
+
+Interest income on an FTE basis (non-GAAP) of $539.6 million for the first six months of 2022, increased $29.7 million, or 5.8%, from the same period of 2021, resulting from the impact of higher short-term interest rates on interest-bearing deposits with banks and an increase in earning assets of $3.2 billion. The increase in earning assets was primarily driven by a $1.3 billion, or 5.2%, increase in average loans, a $921.5 million increase in average cash and cash equivalents and an increase in average securities of $907.7 million. Excluding PPP loans, average total loans and leases increased $3.3 billion, or 14.4%, including growth of $1.9 billion in commercial loans and leases ($1.0 billion from Howard) and $1.4 billion in consumer loans ($0.5 billion from Howard). The increase in average commercial loans and leases, excluding PPP, included $1.2 billion, or 24.5%, in commercial and industrial loans and $686.4 million, or 6.9%, in commercial real estate balances, driven by a combination of the Howard acquisition and organic loan origination activity. Commercial origination activity was led by the Pittsburgh, Cleveland and North and South Carolina markets. Average consumer loans increased $1.4 billion, or 17.6%, with an increase in residential mortgage loans of $819.7 million, or 24.3%, direct home equity installment loans of $527.1 million, or 25.8%, and indirect installment loans of $47.5 million, or 3.9%, driven by a combination of the Howard acquisition and organic loan origination activity. Additionally, the net increase in the securities portfolio was a result of management's strategy to deploy excess liquidity into higher yielding securities, as average securities increased 14.9%. For the first six months of 2022, the yield on average earning assets (non-GAAP) decreased 10 basis points to 2.94%, compared to the first six months of 2021, primarily from reduced PPP contribution. 
+
+Interest expense of $46.6 million for the first six months of 2022 decreased $6.9 million, or 13.0%, from the same period of 2021, primarily due to a decrease in rates paid, partially offset by an increase in average interest-bearing deposits. The growth 
+
+in average deposits reflected inflows from the Howard acquisition and organic growth in new and existing customer relationships, as well as customer preferences to maintain larger balances in their deposit accounts and shift balances into more liquid accounts. Average interest-bearing deposits increased $1.5 billion, or 7.6%, which reflects the benefit of solid organic growth in customer relationships, the addition of Howard, as well as deposits from PPP funding and government stimulus activities. Average time deposits declined $427.5 million, or 12.6%, as customer preferences had shifted away from higher rate certificates of deposit to lower yielding, more liquid products, however, customers' preferences are beginning to shift back to certificates of deposits as interest rates increase. Average long-term borrowings decreased $312.3 million, or 30.5%, primarily due to a decrease of $329.3 million in long-term FHLB borrowings, partially offset by the addition of Howard's $25.0 million of subordinated debt. The rate paid on interest-bearing liabilities decreased 8 basis points to 0.39% for the first six months of 2022, compared to the first six months of 2021. Similarly, the cost of interest-bearing deposits declined 6 basis points from 0.27% to 0.21%. These declines were a result of management actions taken to reduce the cost of interest-bearing liabilities given the low interest rate environment in 2021 and strong growth in non-interest-bearing deposits. 
+
+Provision for Credit Losses 
+
+The following table presents information regarding the provision for credit loss expense and net charge-offs: 
+
+TABLE 15 
+
+Six Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Provision for credit losses (on loans and leases) $ 25,225 &#160; $ 4,359 $ 20,866 478.7 % Provision for unfunded loan commitments (919) 428 (1,347) (314.7) Provision for credit losses $ 24,306 &#160; $ 4,787 $ 19,519 407.8 % Net loan charge-offs 1,507 &#160; 10,957 (9,450) (86.2) Net loan charge-offs (annualized) / total average loans and leases 0.01 &#160; % 0.09 % 
+
+Provision for credit losses was $24.3 million for the six months ended June 30, 2022, an increase of $19.5 million, from the same period of 2021. The year-to-date amount for 2022 is comprised of a $25.2 million provision for loans and leases outstanding and a $0.9 million benefit for unfunded loan commitments. The increase reflects $19.1 million of initial provision for non-PCD loans associated with the Howard acquisition and growth in loans outstanding, partially offset by favorable asset quality trends across all loan portfolio credit metrics in 2022. Net loan charge-offs were $1.5 million during the six months ended June 30, 2022, compared to $11.0 million during the six months ended June 30, 2021. 
+
+Non-Interest Income 
+
+The breakdown of non-interest income for the six months ended June 30, 2022 and 2021 is presented in the following table: 
+
+TABLE 16 
+
+Six Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Service charges $ 66,208 &#160; $ 57,557 $ 8,651 15.0 % Trust services 20,062 &#160; 18,365 1,697 9.2 Insurance commissions and fees 13,957 &#160; 13,412 545 4.1 Securities commissions and fees 11,743 &#160; 11,365 378 3.3 Capital markets income 15,674 &#160; 14,724 950 6.5 Mortgage banking operations 12,787 &#160; 23,155 (10,368) (44.8) Dividends on non-marketable equity securities 4,920 &#160; 4,659 261 5.6 Bank owned life insurance 6,685 &#160; 7,714 (1,029) (13.3) Net securities gains 48 &#160; 128 (80) (62.5) Other 8,392 &#160; 11,498 (3,106) (27.0) Total non-interest income $ 160,476 &#160; $ 162,577 $ (2,101) (1.3) % 
+
+Total non-interest income decreased $2.1 million, to $160.5 million for the first six months of 2022, a 1.3% decrease from the same period of 2021. The variances in significant individual non-interest income items are explained in the following paragraphs. 
+
+Service charges of $66.2 million for the first six months of 2022 increased $8.7 million, or 15.0%, driven by interchange fees, treasury management services and higher customer activity. 
+
+Trust services of $20.1 million for the first six months of 2022 increased $1.7 million, or 9.2%, from the same period of 2021, primarily driven by contributions across the geographic footprint, partially offset by the market value of assets under management decreasing $191.1 million, or 2.5%, to $7.4 billion at June 30, 2022. 
+
+Capital markets income of $15.7 million for the first six months of 2022 increased $1.0 million, or 6.5%, from the same period of 2021, with contributions from swap fees, international banking and debt capital markets. 
+
+Mortgage banking operations income of $12.8 million for the first six months of 2022 decreased $10.4 million, or 44.8%, from the same period of, 2021 as secondary market revenue and mortgage held-for-sale pipelines declined from elevated levels in 2021 due to the significant increase in interest rates. During the first six months of 2022, we sold $695.4 million of residential mortgage loans, a 33.3% decrease compared to $1.0 billion for the same period of 2021. 
+
+Bank owned life insurance of $6.7 million for the first six months of 2022 decreased $1.0 million, or 13.3%, from the same period of 2021, due to higher life insurance claims in the 2021 period. 
+
+Other non-interest income was $8.4 million and $11.5 million for the first six months of 2022 and 2021, respectively, with the decline primarily due to strong SBA premium income levels in 2021. 
+
+Non-Interest Expense 
+
+The breakdown of non-interest expense for the six months ended June 30, 2022 and 2021 is presented in the following table: 
+
+TABLE 17 
+
+Six Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Salaries and employee benefits $ 216,059 &#160; $ 209,376 $ 6,683 3.2 % Net occupancy 33,957 &#160; 32,459 1,498 4.6 Equipment 36,692 &#160; 34,190 2,502 7.3 Amortization of intangibles 6,776 &#160; 6,074 702 11.6 Outside services 34,298 &#160; 35,624 (1,326) (3.7) Marketing 7,884 &#160; 6,833 1,051 15.4 FDIC insurance 9,869 &#160; 9,052 817 9.0 Bank shares and franchise taxes 7,932 &#160; 7,355 577 7.8 Merger-related 30,656 &#160; &#8212; 30,656 &#8212; Other 36,077 &#160; 26,399 9,678 36.7 Total non-interest expense $ 420,200 &#160; $ 367,362 $ 52,838 14.4 % 
+
+Total non-interest expense of $420.2 million for the first six months of 2022 increased $52.8 million, a 14.4% increase from the same period of 2021. On an operating basis, non-interest expense (non-GAAP) increased $20.6 million, or 5.7%, when excluding significant items of $30.7 million in merger-related costs and $4.2 million in branch consolidation costs in the first six months of 2022, compared to $2.6 million in branch consolidation costs in the first six months of 2021. The variances in the individual non-interest expense items are further explained in the following paragraphs. 
+
+Salaries and employee benefits of $216.1 million for the first six months of 2022 increased $6.7 million, or 3.2%, from the same period of 2021, due to normal merit increases, higher production-related commissions and incentives and the acquired Howard expense base. 
+
+Net occupancy and equipment expense of $70.6 million for the first six months of 2022 increased $4.0 million, or 6.0%, from the same period of 2021, primarily from technology-related investments and the acquired Howard expense base. Additionally, there were branch consolidation costs of $1.9 million in the first six months of 2022, compared to $2.1 million in the first six months of 2021. 
+
+Amortization of intangibles of $6.8 million for the first six months of 2022 increased $0.7 million, or 11.6%, from the same period of 2021, primarily due to additional core deposit intangibles added as a result of the Howard acquisition. 
+
+Marketing expense of $7.9 million for the first six months of 2022 increased $1.1 million, or 15.4%, from the same period of 2021, primarily due to increased digital advertising spending and campaigns related to our Physician's First Program. 
+
+FDIC insurance of $9.9 million for the first six months of 2022 increased $0.8 million, or 9.0%, from the same period of 2021, as a result of loan growth and a shift in the balance sheet mix. 
+
+Bank shares and franchise taxes of $7.9 million for the first six months of 2022 increased $0.6 million, or 7.8%, from the same period of 2021, primarily due to an increase in the bank's capital tax base. 
+
+We recorded $30.7 million in merger-related costs for the first six months of 2022 related to the Howard acquisition which closed on January 22, 2022 and the pending UB Bancorp acquisition. 
+
+Other non-interest expense was $36.1 million and $26.4 million for the first six months of 2022 and 2021, respectively. There was $2.2 million in branch consolidation costs and an increase in business development expense and other operational costs in the first six months of 2022. Comparatively, we had $0.5 million in branch consolidation costs and a $2.2 million mortgage recourse reserve release in the first six months of 2021. 
+
+The following table presents non-interest expense excluding significant items for the six months ended June 30, 2022 and 2021: 
+
+TABLE 18 
+
+Six Months Ended June 30, $ % (dollars in thousands) 2022 2021 Change Change Total non-interest expense, as reported $ 420,200 $ 367,362 $ 52,838 14.4 % Significant items: Branch consolidations (4,178) (2,644) (1,534) Merger-related (30,656) &#8212; (30,656) 
+
+Total non-interest expense, excluding significant items (1) 
+
+$ 385,366 $ 364,718 $ 20,648 5.7 % 
+
+(1) Non-GAAP 
+
+Income Taxes 
+
+The following table presents information regarding income tax expense and certain tax rates: 
+
+TABLE 19 
+
+&#160; Six Months Ended June 30, (dollars in thousands) 2022 2021 Income tax expense $ 41,521 &#160; $ 46,602 Effective tax rate 20.4 &#160; % 19.3 % Statutory federal tax rate 21.0 &#160; 21.0 
+
+Both periods&#8217; tax rates are lower than the federal statutory tax rates of 21% due to tax benefits primarily resulting from tax-exempt income on investments and loans, tax credits and income from BOLI. Income tax expense was lower in 2022 due to lower pretax earnings resulting from merger-related expenses from the Howard acquisition. The effective tax rate is higher in 2022 primarily driven by higher state income taxes and nondeductible merger-related expenses resulting from the Howard acquisition. 
+
+FINANCIAL CONDITION 
+
+The following table presents our condensed Consolidated Balance Sheets: 
+
+TABLE 20 
+
+(dollars in millions) June 30, 2022 December 31, 2021 $ Change % Change Assets Cash and cash equivalents $ 2,029 &#160; $ 3,493 $ (1,464) (41.9) % Securities 7,306 &#160; 6,889 417 6.1 Loans held for sale 164 &#160; 295 (131) (44.4) Loans and leases, net 27,666 &#160; 24,624 3,042 12.4 Goodwill and other intangibles 2,489 &#160; 2,304 185 8.0 Other assets 2,027 &#160; 1,908 119 6.2 Total Assets $ 41,681 &#160; $ 39,513 $ 2,168 5.5 % Liabilities and Stockholders&#8217; Equity Deposits $ 33,480 &#160; $ 31,726 $ 1,754 5.5 % Borrowings 2,103 &#160; 2,218 (115) (5.2) Other liabilities 662 &#160; 419 243 58.0 Total Liabilities 36,245 &#160; 34,363 1,882 5.5 Stockholders&#8217; Equity 5,436 &#160; 5,150 286 5.6 Total Liabilities and Stockholders&#8217; Equity $ 41,681 &#160; $ 39,513 $ 2,168 5.5 % 
+
+The increase in assets, liabilities and stockholders' equity is primarily due to the Howard acquisition. 
+
+Lending Activity 
+
+The loan and lease portfolio consists principally of loans and leases to individuals and small- and medium-sized businesses within our primary markets in seven states and the District of Columbia. Our market coverage spans several major metropolitan areas including: Pittsburgh, Pennsylvania; Baltimore, Maryland; Cleveland, Ohio; Charlotte, Raleigh, Durham and the Piedmont Triad (Winston-Salem, Greensboro and High Point) in North Carolina; and Charleston, South Carolina. 
+
+Following is a summary of loans and leases: 
+
+TABLE 21 
+
+June 30, 2022 December 31, 2021 $ Change % Change (in millions) Commercial real estate $ 10,787 &#160; $ 9,899 $ 888 9.0 % Commercial and industrial 6,564 &#160; 5,977 587 9.8 Commercial leases 504 &#160; 495 9 1.8 Other 136 &#160; 94 42 44.7 Total commercial loans and leases 17,991 &#160; 16,465 1,526 9.3 Direct installment 2,769 &#160; 2,376 393 16.5 Residential mortgages 4,595 &#160; 3,654 941 25.8 Indirect installment 1,384 &#160; 1,227 157 12.8 Consumer lines of credit 1,305 &#160; 1,246 59 4.7 Total consumer loans 10,053 &#160; 8,503 1,550 18.2 Total loans and leases $ 28,044 &#160; $ 24,968 $ 3,076 12.3 % 
+
+The commercial and industrial category includes PPP loans totaling $85.8 million, net of unamortized net deferred fees of $2.2 million at June 30, 2022, compared to $336.6 million at December 31, 2021. 
+
+Non-Performing Assets 
+
+Following is a summary of non-performing assets: 
+
+TABLE 22 
+
+(in millions) June 30, 2022 December 31, 2021 $ Change % Change Commercial real estate $ 49 &#160; $ 48 $ 1 2.1 % Commercial and industrial 10 &#160; 15 (5) (33.3) Commercial leases 1 &#160; 1 &#8212; &#8212; Other &#8212; &#160; &#8212; &#8212; &#8212; Total commercial loans and leases 60 &#160; 64 (4) (6.3) Direct installment 7 &#160; 7 &#8212; &#8212; Residential mortgages 17 &#160; 10 7 70.0 Indirect installment 2 &#160; 2 &#8212; &#8212; Consumer lines of credit 6 &#160; 5 1 20.0 Total consumer loans 32 &#160; 24 8 33.3 Total non-performing loans and leases 92 &#160; 88 4 4.5 Other real estate owned 10 &#160; 8 2 25.0 Non-performing assets $ 102 &#160; $ 96 $ 6 6.3 % 
+
+Non-performing assets increased $5.8 million, from $96.2 million at December 31, 2021 to $101.9 million at June 30, 2022. This reflects an increase of $4.6 million in non-performing loans and leases and an increase of $1.2 million in OREO. The increase in non-performing loans was driven by the acquisition of the Howard Bank portfolio. 
+
+Troubled Debt Restructured Loans 
+
+Following is a summary of accruing and non-accrual TDRs, by class: 
+
+TABLE 23 
+
+(in millions) Accruing Non- Accrual Total June 30, 2022 Commercial real estate $ 5 &#160; $ 24 &#160; $ 29 &#160; Commercial and industrial 1 &#160; 1 &#160; 2 &#160; Total commercial loans 6 &#160; 25 &#160; 31 &#160; Direct installment 20 &#160; 3 &#160; 23 &#160; Residential mortgages 31 &#160; 4 &#160; 35 &#160; Consumer lines of credit 5 &#160; 1 &#160; 6 &#160; Total consumer loans 56 &#160; 8 &#160; 64 &#160; Total TDRs $ 62 &#160; $ 33 &#160; $ 95 &#160; December 31, 2021 Commercial real estate $ 6 $ 21 $ 27 Commercial and industrial &#8212; 1 1 Total commercial loans 6 22 28 Direct installment 21 4 25 Residential mortgages 27 5 32 Consumer lines of credit 6 1 7 Total consumer loans 54 10 64 Total TDRs $ 60 $ 32 $ 92 
+
+Allowance for Credit Losses on Loans and Leases 
+
+The model used to calculate the ACL is dependent on the portfolio composition and credit quality, as well as historical experience, current conditions and forecasts of economic conditions and interest rates. Specifically, the following considerations are incorporated into the ACL calculation: 
+
+&#8226; a third-party macroeconomic forecast scenario; 
+
+&#8226; a 24-month R&#38;S forecast period for macroeconomic factors with a reversion to the historical mean on a straight-line basis over a 12-month period; and 
+
+&#8226; the historical through the cycle default mean calculated using an expanded period to include a prior recessionary period. 
+
+At June 30, 2022 and December 31, 2021, we utilized a third-party consensus macroeconomic forecast reflecting the current and projected macroeconomic environment. For our ACL calculation at June 30, 2022, the macroeconomic variables that we utilized included, but were not limited to: (i) the purchase only Housing Price Index, which reflects growth of 6.0% over our R&#38;S forecast period, (ii) a Commercial Real Estate Price Index, which reflects growth of 11.4% over our R&#38;S forecast period, (iii) S&#38;P Volatility, which increases 2.3% in 2022 and decreases 8.6% in 2023 and (iv) bankruptcies, which increase steadily over the R&#38;S forecast period but average below historic levels. Macroeconomic variables that we utilized for our ACL calculation as of December 31, 2021 included, but were not limited to: (i) the purchase only Housing Price Index, which reflected growth of 6.3% over our R&#38;S forecast period, (ii) a Commercial Real Estate Price Index, which reflected growth of 13.0% over our R&#38;S forecast period, (iii) S&#38;P Volatility, which increases 15.2% in 2022 and 1.9% in 2023 and (iv) bankruptcies, which increase steadily over the R&#38;S forecast period but average below historical levels. 
+
+Following is a summary of certain ratios related to the ACL and loans and leases: 
+
+TABLE 24 
+
+Six Months Ended June 30, 2022 2021 Net loan charge-offs (annualized) by category to average loans: Commercial real estate &#8212; &#160; % 0.02 % Commercial and industrial &#8212; &#160; 0.05 Other commercial &#8212; &#160; 0.01 Indirect installment 0.01 &#160; 0.01 Net loan charge-offs (annualized)/average loans 0.01 &#160; % 0.09 % Allowance for credit losses/total loans and leases 1.35 &#160; % 1.42 % Allowance for credit losses/non-performing loans 408.92 &#160; % 278.20 % 
+
+The ACL on loans and leases of $378.0 million at June 30, 2022 increased $33.7 million, or 9.8%, from December 31, 2021 with the increase primarily driven by the initial ACL related to the Howard acquisition. Our ending ACL coverage ratio at June 30, 2022 was 1.35%, compared to 1.38% at December 31, 2021. Total provision for credit losses for the six months ended June 30, 2022 was $24.4 million, compared to $4.8 million for the first six months ended June 30, 2021 reflecting $19.1 million of initial provision for non-PCD loans associated with the Howard acquisition in the first quarter of 2022. Net charge-offs were $1.5 million for the six months ended June 30, 2022, compared to $11.0 million for the six months ended June 30, 2021, with both periods well below historical levels. The ACL as a percentage of non-performing loans for the total portfolio increased from 392% as of December 31, 2021 to 409% as of June 30, 2022. 
+
+Deposits 
+
+Our primary source of funds is deposits. These deposits are provided by business, consumer and municipal customers who we serve within our footprint. 
+
+Following is a summary of deposits: 
+
+TABLE 25 
+
+(in millions) June 30, 2022 December 31, 2021 $ Change % Change Non-interest-bearing demand $ 11,716 &#160; $ 10,789 $ 927 8.6 % Interest-bearing demand 14,739 &#160; 14,409 330 2.3 Savings 3,982 &#160; 3,669 313 8.5 Certificates and other time deposits 3,043 &#160; 2,859 184 6.4 Total deposits $ 33,480 &#160; $ 31,726 $ 1,754 5.5 % 
+
+Total deposits increased $1.8 billion, or 5.5%, from December 31, 2021, primarily as a result of growth in non-interest-bearing and interest-bearing demand balances due to the Howard acquisition as well as an expansion of customer relationships and higher customer balances. Customer preferences had shifted to more liquid accounts, however, customers' preferences are beginning to shift back to certificates of deposits as interest rates increase. The deposit growth helped us eliminate overnight borrowings and reduce higher-cost short-term FHLB borrowings and their related swaps and provide cash to be used for funding loan growth. 
+
+Capital Resources and Regulatory Matters 
+
+The access to, and cost of, funding for new business initiatives, the ability to engage in expanded business activities, the ability to pay dividends and the level and nature of regulatory oversight depend, in part, on our capital position. 
+
+The assessment of capital adequacy depends on a number of factors such as expected organic growth in the Consolidated Balance Sheet, asset quality, liquidity, earnings performance and sustainability, changing competitive conditions, regulatory 
+
+changes or actions, and economic forces. We seek to maintain a strong capital base to support our growth and expansion activities, to provide stability to current operations and to promote public confidence. 
+
+We have an effective shelf registration statement filed with the SEC. Pursuant to this registration statement, we may, from time to time, issue and sell in one or more offerings any combination of common stock, preferred stock, debt securities, depositary shares, warrants, stock purchase contracts or units. 
+
+On April 18, 2022, we announced that our Board of Directors approved an additional $150 million for the repurchase of our common stock through our existing share repurchase program bringing the total authorization to $300 million. Since inception, we repurchased 11.0 million shares at a weighted average share price of $11.33 for $124.4 million under this repurchase program, with $175.6 million remaining for repurchase. The repurchases will be made from time to time on the open market at prevailing market prices or in privately negotiated transactions. The purchases will be funded from available working capital. There is no guarantee as to the exact number of shares that will be repurchased and we may discontinue purchases at any time. 
+
+Capital management is a continuous process, with capital plans and stress testing for FNB and FNBPA updated at least annually. These capital plans include assessing the adequacy of expected capital levels assuming various scenarios by projecting capital needs for a forecast period of 2-3 years beyond the current year. From time to time, we issue shares initially acquired by us as treasury stock under our various benefit plans. We may issue additional preferred or common stock to maintain our well-capitalized status. 
+
+FNB and FNBPA are subject to various regulatory capital requirements administered by the federal banking agencies (see discussion under &#8220;Enhanced Regulatory Capital Standards&#8221;). Quantitative measures established by regulators to ensure capital adequacy require FNB and FNBPA to maintain minimum amounts and ratios of total, tier 1 and CET1 capital (as defined in the regulations) to risk-weighted assets (as defined) and a minimum leverage ratio (as defined). Failure to meet minimum capital requirements could lead to initiation of certain mandatory, and possibly additional discretionary actions, by regulators that, if undertaken, could have a direct material effect on our Consolidated Financial Statements, dividends and future business and corporate strategies. Under capital adequacy guidelines and the regulatory framework for prompt corrective action, FNB and FNBPA must meet specific capital guidelines that involve quantitative measures of assets, liabilities and certain off-balance sheet items as calculated under regulatory accounting practices. FNB&#8217;s and FNBPA&#8217;s capital amounts and classifications are also subject to qualitative judgments by the regulators about components, risk weightings and other factors. 
+
+At June 30, 2022, the capital levels of both FNB and FNBPA exceeded all regulatory capital requirements and their regulatory capital ratios were above the minimum levels required to be considered &#8220;well-capitalized&#8221; for regulatory purposes. 
+
+In December 2018, the FRB and other U.S. banking agencies approved a rule to address the impact of CECL on regulatory capital by allowing BHCs and banks, including FNB, the option to phase in the day-one impact of CECL over a three-year period. In March 2020, the FRB and other U.S. banking agencies issued a final rule that became effective on March 31, 2020, and provides BHCs and banks with an alternative option to temporarily delay the impact of CECL, relative to the incurred loss methodology for the ACL, on regulatory capital. We have elected this alternative option instead of the one described in the December 2018 rule. As a result, under the final rule, we delayed recognizing the estimated impact of CECL on regulatory capital until after a two-year deferral period, which for us extended through December 31, 2021. Beginning on January 1, 2022, we will be required to phase in 25% of the previously deferred capital impact of CECL, with an additional 25% to be phased in at the beginning of each subsequent year until fully phased in by the first quarter of 2025. Under the final rule, the estimated impact of CECL on regulatory capital that we will defer and later phase in is calculated as the entire day-one impact at adoption plus 25% of the subsequent change in the ACL during the two-year deferral period. As of June 30, 2022, the total deferred impact on CET1 capital related to our adoption of CECL was approximately $51.6 million, or 16 basis points, which will continue to be reduced by approximately $17.2 million annually. 
+
+In this unprecedented economic and uncertain environment, we frequently run stress tests for a variety of economic situations, including severely adverse scenarios that have economic conditions like the current conditions. Under these scenarios, the results of these stress tests indicate that our regulatory capital ratios would remain above the regulatory requirements and we would be able to maintain appropriate liquidity levels, demonstrating our expected ability to continue to support our constituencies under stressful financial conditions. 
+
+Following are the capital amounts and related ratios for FNB and FNBPA: 
+
+TABLE 26 
+
+&#160; Actual Well-Capitalized 
+
+Requirements (1) 
+
+Minimum Capital Requirements plus Capital Conservation Buffer (dollars in millions) Amount Ratio Amount Ratio Amount Ratio As of June 30, 2022 F.N.B. Corporation Total capital $ 3,892 &#160; 12.00 &#160; % $ 3,242 &#160; 10.00 &#160; % $ 3,404 &#160; 10.50 &#160; % Tier 1 capital 3,259 &#160; 10.05 &#160; 1,945 &#160; 6.00 &#160; 2,756 &#160; 8.50 &#160; Common equity tier 1 3,152 &#160; 9.72 &#160; n/a n/a 2,270 &#160; 7.00 &#160; Leverage 3,259 &#160; 8.22 &#160; n/a n/a 1,587 &#160; 4.00 &#160; Risk-weighted assets 32,422 &#160; FNBPA Total capital 4,081 &#160; 12.62 &#160; % 3,234 &#160; 10.00 &#160; % 3,396 &#160; 10.50 &#160; % Tier 1 capital 3,430 &#160; 10.61 &#160; 2,587 &#160; 8.00 &#160; 2,749 &#160; 8.50 &#160; Common equity tier 1 3,350 &#160; 10.36 &#160; 2,102 &#160; 6.50 &#160; 2,264 &#160; 7.00 &#160; Leverage 3,430 &#160; 8.66 &#160; 1,980 &#160; 5.00 &#160; 1,584 &#160; 4.00 &#160; Risk-weighted assets 32,343 &#160; As of December 31, 2021 F.N.B. Corporation Total capital $ 3,531 12.18 % $ 2,899 10.00 % $ 3,044 10.50 % Tier 1 capital 2,984 10.29 1,739 6.00 2,464 8.50 Common equity tier 1 2,877 9.92 n/a n/a 2,029 7.00 Leverage 2,984 7.99 n/a n/a 1,493 4.00 Risk-weighted assets 28,991 FNBPA Total capital 3,695 12.77 % 2,893 10.00 % 3,038 10.50 % Tier 1 capital 3,098 10.71 2,314 8.00 2,459 8.50 Common equity tier 1 3,018 10.43 1,880 6.50 2,025 7.00 Leverage 3,098 8.31 1,864 5.00 1,491 4.00 Risk-weighted assets 28,930 
+
+(1) Reflects the well-capitalized standard under Regulation Y for F.N.B. Corporation and the prompt corrective action framework for FNBPA. 
+
+In accordance with Basel III Capital Rules, the minimum capital requirements plus capital conservation buffer, which are presented for each period above, represent the minimum requirements needed to avoid limitations on distributions of dividends and certain discretionary bonus payments. 
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act) 
+
+The Dodd-Frank Act broadly affects the financial services industry by establishing a framework for systemic risk oversight, creating a resolution authority for institutions determined to be systemically important, mandating higher capital and liquidity requirements, requiring banks to pay increased fees to regulatory agencies and containing numerous other provisions aimed at strengthening the sound operation of the financial services sector that significantly change the system of regulatory oversight as described in more detail under Part I, Item 1, &#8220;Business - Government Supervision and Regulation&#8221; included in our 2021 Annual Report on Form 10-K as filed with the SEC on February 24, 2022. 
+
+LIQUIDITY 
+
+Our goal in liquidity management is to satisfy the cash flow requirements of customers and the operating cash needs of FNB with cost-effective funding. Our Board of Directors has established an Asset/Liability Management Policy to guide management in achieving and maintaining earnings performance consistent with long-term goals, while maintaining acceptable levels of interest rate risk, a &#8220;well-capitalized&#8221; Balance Sheet and adequate levels of liquidity. Our Board of Directors has also established Liquidity and Contingency Funding Policies to guide management in addressing the ability to identify, measure, monitor and control both normal and stressed liquidity conditions. These policies designate our ALCO as the body responsible for meeting these objectives. The ALCO, which is comprised of members of executive management, reviews liquidity on a continuous basis and approves significant changes in strategies that affect Balance Sheet or cash flow positions. Liquidity is centrally managed daily by our Treasury Department. 
+
+FNBPA generates liquidity from its normal business operations. Liquidity sources from assets include payments from loans and investments, as well as the ability to securitize, pledge or sell loans, investment securities and other assets. Liquidity sources from liabilities are generated primarily through the banking offices of FNBPA in the form of deposits and customer repurchase agreements. FNB also has access to reliable and cost-effective wholesale sources of liquidity. Short- and long-term funds are available for use to help fund normal business operations, and unused credit availability can be utilized to serve as contingency funding if we would be faced with a liquidity crisis. 
+
+The principal sources of the parent company&#8217;s liquidity are its strong existing cash resources plus dividends it receives from its subsidiaries. These dividends may be impacted by the parent&#8217;s or its subsidiaries&#8217; capital needs, statutory laws and regulations, corporate policies, contractual restrictions, profitability and other factors. In addition, through one of our subsidiaries, we regularly issue subordinated notes, which are guaranteed by FNB. The cash position at June 30, 2022 was $257.7 million, down $37.7 million from year-end, due primarily to $42.8 million in share repurchases. Management has utilized various strategies to ensure sufficient cash on hand is available to meet the parent's funding needs. 
+
+Two metrics that are used to gauge the adequacy of the parent company&#8217;s cash position are the Liquidity Coverage Ratio (LCR) and Months of Cash on Hand (MCH). The LCR is defined as the sum of cash on hand plus projected cash inflows over the next 12 months divided by projected cash outflows over the next 12 months. The MCH is defined as the number of months of corporate expenses and dividends that can be covered by the cash on hand. 
+
+The LCR and MCH ratios are presented in the following table: 
+
+TABLE 27 
+
+June 30, 2022 December 31, 2021 Internal Limit Liquidity coverage ratio 2.6 times 2.4 times &#62; 1 time Months of cash on hand 13.5 months 16.9 months &#62; 12 months 
+
+Management has concluded that our cash levels remain appropriate given the current market environment. 
+
+Our liquidity position has been positively impacted by our ability to generate growth in relationship-based accounts. Organic growth in low-cost transaction deposits was complemented by management&#8217;s strategy of deposit gathering efforts focused on attracting new customer relationships and deepening relationships with existing customers, in part through internal lead generation efforts leveraging data analytics capabilities. We have also increased customer deposit relationships due to the success of the PPP. This past quarter we also commenced the roll-out of the new digital eStore kiosks in all FNB branches. Total deposits increased $1.8 billion, or 5.5%, from December 31, 2021, primarily as a result of growth in non-interest-bearing and interest-bearing demand balances due to the Howard acquisition, as well as an expansion of customer relationships. Customer preferences continued to shift away from higher rate certificates of deposit to lower yielding, more liquid products, however, customers' preferences are beginning to shift back to time deposits as interest rates increase. Our liquidity position enabled us to eliminate Howard's overnight borrowings and retire $200 million of higher-cost FHLB borrowings. We continue to have success growing total non-interest-bearing demand deposit accounts as they rose $926.5 million, or 8.6%, and now represent 35.0% of total deposits, up from 34.0% as December 31, 2021. Further, interest-bearing demand deposits increased $330.3 million, or 2.3% and savings account balances increased $313.4 million, or 8.5%. Time deposits increased $184.2 million, or 6.4% as a result of the Howard acquisition and customers' preferences beginning to shift back to time deposits as interest rates increase. 
+
+Our cash balances held at the FRB decreased $1.5 billion from December 31, 2021 to $1.5 billion at June 30, 2022 as cash was deployed primarily to fund loans and investments. 
+
+FNBPA has significant unused wholesale credit availability sources that include the availability to borrow from the FHLB, the FRB, correspondent bank lines, access to brokered deposits and other channels. In addition to credit availability, FNBPA also possesses salable unpledged government and agency securities that could be utilized to meet funding needs. We currently also have excess cash to meet our pledging requirements. At June 30, 2022, we have $2.5 billion of cash and salable unpledged government and agency securities to total assets, or 6.1%. This compares to a policy minimum of 3.0%. 
+
+The following table presents certain information relating to FNBPA&#8217;s credit availability and salable unpledged securities: 
+
+TABLE 28 
+
+(dollars in millions) June 30, 2022 December 31, 2021 Unused wholesale credit availability $ 15,717 &#160; $ 14,681 Unused wholesale credit availability as a % of FNBPA assets 37.8 &#160; % 37.2 % Salable unpledged government and agency securities $ 996 &#160; $ 836 Salable unpledged government and agency securities as a % of FNBPA assets 2.4 &#160; % 2.1 % Cash and salable unpledged government and agency securities as a % of FNBPA assets 6.1 &#160; % 9.8 % 
+
+The increase in unused wholesale credit availability was due to increased borrowing capacity with the FHLB. 
+
+Another metric for measuring liquidity risk is the liquidity gap analysis. The following liquidity gap analysis as of June 30, 2022 compares the difference between our cash flows from existing earning assets and interest-bearing liabilities over future time intervals. Management monitors the size of the liquidity gaps so that sources and uses of funds are reasonably matched in the normal course of business and in relation to implied forward rate expectations. A reasonably matched position lays a better foundation for dealing with additional funding needs during a potential liquidity crisis. A positive gap position means that more assets are repricing over the next 12 months than liabilities, and net interest income would benefit if interest rates were to rise. The twelve-month cumulative gap to total assets ratio was 7.1% as of June 30, 2022, compared to 11.3% as of December 31, 2021. Management calculates this ratio at least quarterly and it is reviewed monthly by ALCO. The change in the twelve-month cumulative gap to total assets is primarily related to the deployment of cash into loans and securities. 
+
+TABLE 29 
+
+(dollars in millions) Within 1 Month 2-3 Months 4-6 Months 7-12 Months Total 1 Year Assets Loans $ 809 $ 1,450 $ 1,727 $ 3,175 $ 7,161 Investments 1,660 155 213 438 2,466 2,469 1,605 1,940 3,613 9,627 Liabilities Non-maturity deposits 305 610 917 1,831 3,663 Time deposits 233 426 588 1,019 2,266 Borrowings 110 18 25 578 731 648 1,054 1,530 3,428 6,660 Period Gap (Assets - Liabilities) $ 1,821 $ 551 $ 410 $ 185 $ 2,967 Cumulative Gap $ 1,821 $ 2,372 $ 2,782 $ 2,967 Cumulative Gap to Total Assets 4.4 % 5.7 % 6.7 % 7.1 % 
+
+In addition, the ALCO regularly monitors various liquidity ratios and stress scenarios of our liquidity position. The stress scenarios forecast that adequate funding will be available even under severe conditions. Management believes we have sufficient liquidity available to meet our normal operating and contingency funding cash needs. 
+
+MARKET RISK 
+
+Market risk refers to potential losses arising predominately from changes in interest rates, foreign exchange rates, equity prices and commodity prices. We are primarily exposed to interest rate risk inherent in our lending and deposit-taking activities as a financial intermediary. To succeed in this capacity, we offer an extensive variety of financial products to meet the diverse needs of our customers. These products sometimes contribute to interest rate risk for us when product groups do not complement one another. For example, depositors may want short-term deposits, while borrowers may desire long-term loans. 
+
+Changes in market interest rates may result in changes in the fair value of our financial instruments, cash flows and net interest income. Subject to its ongoing oversight, the Board of Directors has given ALCO the responsibility for market risk management, which involves devising policy guidelines, risk measures and limits, and managing the amount of interest rate risk and its effect on net interest income and capital. We use derivative financial instruments for interest rate risk management purposes and not for trading or speculative purposes. 
+
+Interest rate risk is comprised of repricing risk, basis risk, yield curve risk and options risk. Repricing risk arises from differences in the cash flow or repricing between asset and liability portfolios. Basis risk arises when asset and liability portfolios are related to different market rate indices, which do not always change by the same amount. Yield curve risk arises when asset and liability portfolios are related to different maturities on a given yield curve; when the yield curve changes shape, the risk position is altered. Options risk arises from &#8220;embedded options&#8221; within asset and liability products as certain borrowers have the option to prepay their loans, which may be with or without penalty, when rates fall, while certain depositors can redeem their certificates of deposit early, which may be with or without penalty, when rates rise. 
+
+We use an asset/liability model to measure our interest rate risk. Interest rate risk measures we utilize include earnings simulation, EVE and gap analysis. Gap analysis and EVE are static measures that do not incorporate assumptions regarding future business. Gap analysis, while a helpful diagnostic tool, displays cash flows for only a single rate environment. EVE&#8217;s long-term horizon helps identify changes in optionality and longer-term positions. However, EVE&#8217;s liquidation perspective does not translate into the earnings-based measures that are the focus of managing and valuing a going concern. Net interest income simulations explicitly measure the exposure to earnings from changes in market rates of interest. In these simulations, our current financial position is combined with assumptions regarding future business to calculate net interest income under various hypothetical rate scenarios. The ALCO reviews earnings simulations over multiple years under various interest rate scenarios on a periodic basis. Reviewing these various measures provides us with a comprehensive view of our interest rate risk profile, which provides the basis for balance sheet management strategies. 
+
+The following repricing gap analysis as of June 30, 2022 compares the difference between the amount of interest-earning assets and interest-bearing liabilities subject to repricing over a period of time. Management utilizes the repricing gap analysis as a diagnostic tool in managing net interest income and EVE risk measures. 
+
+TABLE 30 
+
+(dollars in millions) Within 1 Month 2-3 Months 4-6 Months 7-12 Months Total 1 Year Assets Loans $ 12,662 $ 1,042 $ 991 $ 1,831 $ 16,526 Investments 1,670 163 325 426 2,584 14,332 1,205 1,316 2,257 19,110 Liabilities Non-maturity deposits 9,993 &#8212; &#8212; &#8212; 9,993 Time deposits 362 425 586 1,014 2,387 Borrowings 412 611 6 308 1,337 10,767 1,036 592 1,322 13,717 Off-balance sheet (650) 530 &#8212; (230) (350) Period Gap (assets &#8211; liabilities + off-balance sheet) $ 2,915 $ 699 $ 724 $ 705 $ 5,043 Cumulative Gap $ 2,915 $ 3,614 $ 4,338 $ 5,043 Cumulative Gap to Assets 7.9 % 9.7 % 11.7 % 13.6 % 
+
+The twelve-month cumulative repricing gap to total assets was 13.6% and 21.6% as of June 30, 2022 and December 31, 2021, respectively. The positive cumulative gap positions indicate that we have a greater amount of repricing earning assets than repricing interest-bearing liabilities over the subsequent twelve months. If interest rates increase as modeled, net interest income will increase and, conversely, if interest rates decrease as modeled, net interest income will decrease. The change in the cumulative repricing gap at June 30, 2022, compared to December 31, 2021, is primarily related to the deployment of cash into loans and investment securities. 
+
+The allocation of non-maturity deposits and customer repurchase agreements to the one-month maturity category above is based on the estimated sensitivity of each product to changes in market rates. For example, if a product&#8217;s rate is estimated to increase by 50% as much as the market rates, then 50% of the account balance was placed in this category. 
+
+Utilizing net interest income simulations, the following net interest income metrics were calculated using rate shocks which move market rates in an immediate and parallel fashion. The variance percentages represent the change between the net interest income and EVE calculated under the particular rate scenario compared to the net interest income and EVE that was calculated assuming market rates as of June 30, 2022. Using a static Balance Sheet structure, the measures do not reflect management's potential counteractions. 
+
+The following table presents an analysis of the potential sensitivity of our net interest income and EVE to changes in interest rates using rate shocks: 
+
+TABLE 31 
+
+June 30, 2022 December 31, 2021 ALCO Limits Net interest income change (12 months): + 300 basis points 14.0 &#160; % 21.6 % n/a + 200 basis points 9.4 &#160; 14.4 (5.0) % + 100 basis points 4.8 &#160; 7.0 (5.0) - 100 basis points (4.0) (2.4) (5.0) Economic value of equity: + 300 basis points (0.2) 6.6 (25.0) + 200 basis points 0.4 &#160; 5.8 (15.0) + 100 basis points 0.5 &#160; 3.8 (10.0) - 100 basis points (5.4) (9.5) (10.0) 
+
+We also model rate scenarios which move all rates gradually over twelve months (Rate Ramps) and model scenarios that gradually change the shape of the yield curve. Assuming a static Balance Sheet, a +100 basis point Rate Ramp increases net interest income (12 months) by 2.7% at June 30, 2022 and 3.6% at December 31, 2021. For a +200 basis point Rate Ramp, net interest income (12 months) increases by 5.3% at June 30, 2022 and 7.6% at December 31, 2021. The corresponding metrics for a minus 100 basis point Rate Ramp are (0.3)% and (0.5)% at June 30, 2022 and December 31, 2021, respectively. Deposit rate assumptions are floored at zero in the negative scenarios. 
+
+Forty-eight percent of our net loans and leases are indexed to short-term LIBOR, SOFR and Prime that reprice within the next three months. Our cash position related to increased deposits has also been a significant factor in our asset sensitivity metrics. The deployment of cash into loans and investments, as well as a higher base net income due to the increase in the loan indices, are the primary factors of the change in the percentage sensitivity since December. Our balance sheet is positioned to benefit from the FOMC increases of the Federal Funds rate on June 16, 2022 and July 27, 2022 and the future increases currently priced into the market. 
+
+There are multiple factors that influence our interest rate risk position and impact net interest income. These include external factors such as the shape of the yield curve and expectations regarding future interest rates, as well as internal factors regarding product offerings, product mix and pricing of loans and deposits. 
+
+Management utilizes various tactics to achieve our desired interest rate risk (IRR) position. In response to the change in interest rates, management was proactive in managing our IRR position. As mentioned earlier, we were successful in growing our transaction deposits which provides funding that is less interest rate-sensitive than short-term time deposits and wholesale borrowings. Also, we were able to control rates on deposit products focusing on operational accounts and to opportunistically 
+
+deploy cash into higher yielding customer loans. Furthermore, we regularly sell long-term fixed-rate residential mortgages in the secondary market and have been successful in the origination of consumer and commercial loans with short-term repricing characteristics. In particular, we have made use of interest rate swaps to commercial borrowers (commercial swaps) to manage our IRR position as the commercial swaps effectively increase adjustable-rate loans. Total variable and adjustable-rate loans were 59.2% of total net loans and leases as of June 30, 2022 and 61.3% as of December 31, 2021. The acquisition of Howard was the primary driver of the decline of this metric. As of June 30, 2022, the commercial swaps totaled $5.3 billion of notional principal, with $613.0 million in original notional swap principal originated during the first six months of 2022. In 2021, we executed $1.0 billion in receive fixed/pay floating 1-month LIBOR interest rate swaps with a remaining average life of 2.8 years as a hedge to additional asset sensitivity. For additional information regarding interest rate swaps, see Note 11, "Derivative Instruments and Hedging Activities" in the Notes to the Consolidated Financial Statements in this Report. The investment portfolio is also used, in part, to manage our IRR position. 
+
+We recognize that all asset/liability models have some inherent shortcomings. Asset/liability models require certain assumptions to be made, such as prepayment rates on interest-earning assets and repricing impact on non-maturity deposits, which may differ from actual experience. These business assumptions are based upon our experience, business plans, economic and market trends and available industry data. While management believes that its methodology for developing such assumptions is reasonable, there can be no assurance that modeled results will be achieved. Furthermore, the metrics are based upon the Balance Sheet structure as of the valuation date and do not reflect the planned growth or management actions that could be taken. 
+
+RISK MANAGEMENT 
+
+As a financial institution, we take on a certain amount of risk in every business decision, transaction and activity. Our Board of Directors and senior management have identified seven major categories of risk: credit risk, market risk, liquidity risk, reputational risk, operational risk, legal and compliance risk and strategic risk. In its oversight role of our risk management function, the Board of Directors focuses on the strategies, analyses and conclusions of management relating to identifying, understanding and managing risks to optimize total shareholder value, while balancing prudent business and safety and soundness considerations. 
+
+The Board of Directors adopted a risk appetite statement that defines acceptable risk levels and limits under which we seek to operate in order to optimize returns. As such, the board monitors a series of KRIs, or Key Risk Indicators, for various business lines, operational units, and risk categories, providing insight into how our performance aligns with our stated risk appetite. These results are reviewed periodically by the Board of Directors and senior management to ensure adherence to our risk appetite statement, and where appropriate, adjustments are made to applicable business strategies and tactics where risks are approaching stated tolerances or for emerging risks. 
+
+We support our risk management process through a governance structure involving our Board of Directors and senior management. The joint Risk Committee of our Board of Directors and the FNBPA Board of Directors helps ensure that business decisions are executed within appropriate risk tolerances. The Risk Committee has oversight responsibilities with respect to the following: 
+
+&#8226; identification, measurement, assessment and monitoring of enterprise-wide risk; 
+
+&#8226; development of appropriate and meaningful risk metrics to use in connection with the oversight of our businesses and strategies; 
+
+&#8226; review and assessment of our policies and practices to manage our credit, market, liquidity, legal, regulatory and operating risk (including technology, operational, compliance and fiduciary risks); and 
+
+&#8226; identification and implementation of risk management best practices. 
+
+The Risk Committee serves as the primary point of contact between our Board of Directors and the Risk Management Council, which is the senior management level committee responsible for risk management. Risk appetite is an integral element of our business and capital planning processes through our Board Risk Committee and Risk Management Council. We use our risk appetite processes to promote appropriate alignment of risk, capital and performance tactics, while also considering risk capacity and appetite constraints from both financial and non-financial risks. Our top-down risk appetite process serves as a limit for undue risk-taking for bottom-up planning from our various business functions. Our Board Risk Committee, in collaboration with our Risk Management Council, approves our risk appetite on an annual basis, or more frequently, as needed to reflect changes in the risk, regulatory, economic and strategic plan environments, with the goal of ensuring that our risk appetite remains consistent with our strategic plans and business operations, regulatory environment and our shareholders' 
+
+expectations. Reports relating to our risk appetite and strategic plans, and our ongoing monitoring thereof, are regularly presented to our various management level risk oversight and planning committees and periodically reported up through our Board Risk Committee. 
+
+As noted above, we have a Risk Management Council comprised of senior management. The purpose of this committee is to provide regular oversight of specific areas of risk with respect to the level of risk and risk management structure. Management has also established an Operational Risk Committee that is responsible for identifying, evaluating and monitoring operational risks across FNB, evaluating and approving appropriate remediation efforts to address identified operational risks and providing periodic reports concerning operational risks to the Risk Management Council. The Risk Management Council reports on a regular basis to the Risk Committee of our Board of Directors regarding our enterprise-wide risk profile and other significant risk management issues. Our Chief Risk Officer is responsible for the design and implementation of our enterprise-wide risk management strategy and framework through the multiple second line of defense areas, including the following departments, which all report to the Chief Risk Officer to ensure the coordinated and consistent implementation of risk management initiatives and strategies on a day-to-day basis: 
+
+&#8226; Enterprise-Wide Risk Management Department - conducts risk and control assessments across all our business and operational areas to ensure the appropriate risk identification, risk management and reporting of risks enterprise-wide. 
+
+&#8226; Fraud Risk Department - monitors for internal and external fraud risk across all our business and operational units. 
+
+&#8226; Loan Review Department - conducts independent testing of our loan risk ratings to ensure their accuracy, which is instrumental to calculating our ACL. 
+
+&#8226; Model Risk Management Department - oversees validation and testing of all models used in managing risk across our company. 
+
+&#8226; Third-Party Risk Management Department - ensures effective risk management and oversight of third-party relationships throughout the vendor life cycle. 
+
+&#8226; Anti-Money Laundering and Bank Secrecy Act Department - monitors for compliance with money laundering risk and associated regulatory compliance requirements. 
+
+&#8226; Appraisal Review Department - facilitates independent ordering and review of real estate appraisals obtained for determining the value of real estate pledged as collateral for loans to customers. 
+
+&#8226; Compliance Department - develops policies and procedures and monitors compliance with applicable laws and regulations which govern our business operations. 
+
+&#8226; Information and Cyber Security Department - maintains a risk assessment of our information and cybersecurity risks and ensures appropriate controls are in place to manage and control such risks, using the National Institute of Standards and Technology framework for improving critical infrastructure by measuring and evaluating the effectiveness of information and cybersecurity controls. This department also oversees our disaster recovery planning and testing efforts to allow us to be capable and ready for business resumption in the event of a disaster. 
+
+As discussed in more detail under the COVID-19 section of this Report, we have in place various business and emergency continuity plans to respond to different crises and circumstances which include rapid deployment of our Crisis Management Team, Incident Management Team and Business Continuity Coordinators to activate our plans for various types of emergency circumstance. Further, our audit function performs an independent assessment of our internal controls environment and plays an integral role in testing the operation of the internal controls systems and reporting findings to management and our Audit Committee. Each of the Risk, Audit, Credit Risk and CRA Committees of our Board of Directors regularly report on risk-related matters to the full Board of Directors. In addition, both the Risk Committee of our Board of Directors and our Risk Management Council regularly assess our enterprise-wide risk profile and provide guidance on actions needed to address key and emerging risk issues. 
+
+The Board of Directors believes that our enterprise-wide risk management process is effective and enables the Board of Directors to: 
+
+&#8226; assess the quality of the information they receive; 
+
+&#8226; understand the businesses, investments and financial, accounting, legal, regulatory and strategic considerations and the risks that FNB faces; 
+
+&#8226; oversee and assess how senior management evaluates risk; and 
+
+&#8226; assess appropriately the quality of our enterprise-wide risk management process. 
+
+RECONCILIATIONS OF NON-GAAP FINANCIAL MEASURES AND KEY PERFORMANCE INDICATORS TO GAAP 
+
+Reconciliations of non-GAAP operating measures and key performance indicators discussed in this Report to the most directly comparable GAAP financial measures are included in the following tables. 
+
+TABLE 32 
+
+Operating net income available to common stockholders 
+
+Three Months Ended June 30, Six Months Ended June 30, (in thousands) 2022 2021 2022 2021 Net income available to common stockholders $ 107,132 $ 99,377 $ 158,120 $ 190,602 Merger-related expense 2,027 &#8212; 30,656 &#8212; Tax benefit of merger-related expense (426) &#8212; (6,438) &#8212; Provision expense related to acquisition &#8212; &#8212; 19,127 &#8212; Tax benefit of provision expense related to acquisition &#8212; &#8212; (4,017) &#8212; Branch consolidation costs &#8212; 2,644 4,178 2,644 Tax benefit of branch consolidation costs &#8212; (555) (877) (555) Operating net income available to common stockholders (non-GAAP) $ 108,733 $ 101,466 $ 200,749 $ 192,691 
+
+The table above shows how operating net income available to common stockholders (non-GAAP) is derived from amounts reported in our financial statements. We believe certain charges, such as merger expenses, initial provision for non-PCD loans acquired and branch consolidation costs are not organic costs to run our operations and facilities. The merger expenses and branch consolidation costs principally represent expenses to satisfy contractual obligations of the acquired entity or closed branches without any useful ongoing benefit to us. These costs are specific to each individual transaction, and may vary significantly based on the size and complexity of the transaction. 
+
+TABLE 33 
+
+Operating earnings per diluted common share 
+
+Three Months Ended June 30, Six Months Ended June 30, &#160; 2022 2021 2022 2021 Net income per diluted common share $ 0.30 $ 0.31 $ 0.45 $ 0.59 Merger-related expense 0.01 &#8212; 0.09 &#8212; Tax benefit of merger-related expense &#8212; &#8212; (0.02) &#8212; Provision expense related to acquisition &#8212; &#8212; 0.05 &#8212; Tax benefit of provision expense related to acquisition &#8212; &#8212; (0.01) &#8212; Branch consolidation costs &#8212; 0.01 0.01 0.01 Tax benefit of branch consolidation costs &#8212; &#8212; &#8212; &#8212; Operating earnings per diluted common share (non-GAAP) $ 0.31 $ 0.31 $ 0.57 $ 0.59 
+
+TABLE 34 
+
+Return on average tangible common equity 
+
+&#160; Three Months Ended June 30, Six Months Ended June 30, (dollars in thousands) 2022 2021 2022 2021 Net income available to common stockholders (annualized) $ 429,704 $ 398,600 $ 318,861 $ 384,364 Amortization of intangibles, net of tax (annualized) 11,247 9,581 10,795 9,677 Tangible net income available to common stockholders (annualized) (non-GAAP) $ 440,951 $ 408,181 $ 329,656 $ 394,041 Average total stockholders&#8217; equity $ 5,437,913 $ 4,994,499 $ 5,443,373 $ 4,978,186 Less: Average preferred stockholders' equity (106,882) (106,882) (106,882) (106,882) 
+
+Less: Average intangible assets (1) 
+
+(2,490,899) (2,311,953) (2,467,776) (2,313,474) Average tangible common equity (non-GAAP) $ 2,840,132 $ 2,575,664 $ 2,868,715 $ 2,557,830 Return on average tangible common equity (non-GAAP) 15.53 % 15.85 % 11.49 % 15.41 % 
+
+(1) Excludes loan servicing rights. 
+
+TABLE 35 
+
+Return on average tangible assets 
+
+&#160; Three Months Ended June 30, Six Months Ended June 30, (dollars in thousands) 2022 2021 2022 2021 Net income (annualized) $ 437,767 $ 406,663 $ 326,967 $ 392,469 Amortization of intangibles, net of tax (annualized) 11,247 9,581 10,795 9,677 Tangible net income (annualized) (non-GAAP) $ 449,014 $ 416,244 $ 337,762 $ 402,146 Average total assets $ 41,887,638 $ 38,526,186 $ 41,506,472 $ 38,078,935 
+
+Less: Average intangible assets (1) 
+
+(2,490,899) (2,311,953) (2,467,776) (2,313,474) Average tangible assets (non-GAAP) $ 39,396,739 $ 36,214,233 $ 39,038,696 $ 35,765,461 Return on average tangible assets (non-GAAP) 1.14 % 1.15 % 0.87 % 1.12 % 
+
+(1) Excludes loan servicing rights. 
+
+TABLE 36 
+
+Tangible book value per common share 
+
+June 30, 2022 June 30, 2021 (dollars in thousands, except per share data) Total stockholders&#8217; equity $ 5,436,067 $ 5,036,410 Less: Preferred stockholders&#8217; equity (106,882) (106,882) 
+
+Less: Intangible assets (1) 
+
+(2,489,244) (2,310,453) Tangible common equity (non-GAAP) $ 2,839,941 $ 2,619,075 Ending common shares outstanding 350,725,378 319,465,156 Tangible book value per common share (non-GAAP) $ 8.10 $ 8.20 
+
+(1) Excludes loan servicing rights. 
+
+TABLE 37 
+
+Tangible equity to tangible assets (period-end) 
+
+June 30, 2022 June 30, 2021 (dollars in thousands) Total stockholders' equity $ 5,436,067 $ 5,036,410 
+
+Less: Intangible assets (1) 
+
+(2,489,244) (2,310,453) Tangible equity (non-GAAP) $ 2,946,823 $ 2,725,957 Total assets $ 41,680,903 $ 38,405,693 
+
+Less: Intangible assets (1) 
+
+(2,489,244) (2,310,453) Tangible assets (non-GAAP) $ 39,191,659 $ 36,095,240 Tangible equity / tangible assets (period-end) (non-GAAP) 7.52 % 7.55 % 
+
+(1) Excludes loan servicing rights. 
+
+TABLE 38 
+
+Tangible common equity / tangible assets (period-end) 
+
+June 30, 2022 June 30, 2021 (dollars in thousands) Total stockholders' equity $ 5,436,067 $ 5,036,410 Less: Preferred stockholders' equity (106,882) (106,882) 
+
+Less: Intangible assets (1) 
+
+(2,489,244) (2,310,453) Tangible common equity (non-GAAP) $ 2,839,941 $ 2,619,075 Total assets $ 41,680,903 $ 38,405,693 
+
+Less: Intangible assets (1) 
+
+(2,489,244) (2,310,453) Tangible assets (non-GAAP) $ 39,191,659 $ 36,095,240 Tangible common equity / tangible assets (period-end) (non-GAAP) 7.25 % 7.26 % 
+
+(1) Excludes loan servicing rights. 
+
+TABLE 39 
+
+Loans and leases, excluding PPP loans (period-end) (dollars in thousands) June 30, 2022 March 31, 2022 June 30, 2021 Loans and leases $ 28,044,139 $ 26,839,069 $ 25,110,528 Less: PPP loans outstanding (85,837) (179,644) (1,551,284) Loans and leases, excluding PPP loans outstanding (non-GAAP) $ 27,958,302 $ 26,659,425 $ 23,559,244 
+
+TABLE 40 Provision for credit losses, excluding the initial provision for non-PCD loans associated with the Howard acquisition Three Months Ended March 31, 2022 (dollars in thousands) Provision for credit losses $ 17,959 Less: Initial provision for non-PCD loans associated with the Howard acquisition (19,127) Provision for credit losses, excluding the initial provision for non-PCD loans associated with the Howard acquisition (non-GAAP) $ (1,168) 
+
+TABLE 41 Deposits, excluding Howard deposits (average) Three Months Ended June 30, (Dollars in thousands) 2022 2021 Deposits $ 33,706,707 $ 30,507,241 Less: Howard deposits (1,630,100) &#8212; Deposits, excluding Howard deposits (non-GAAP) $ 32,076,607 $ 30,507,241 
+
+TABLE 42 Loans and leases, excluding PPP loans and Howard loans as of the acquisition date (period-end) (Dollars in thousands) June 30, 2022 June 30, 2021 Loans and leases $ 28,044,139 $ 25,110,528 Less: PPP loans outstanding (85,837) (1,551,284) Less: Howard loans as of the acquisition date, excluding PPP loans outstanding (1,767,564) &#8212; Loans and leases, excluding PPP loans and Howard loans as of the acquisition date (non-GAAP) $ 26,190,738 $ 23,559,244 
+
+TABLE 43 Loans and leases, excluding PPP loans (average) Three Months Ended June 30, Six Months Ended June 30, 2022 2021 2022 2021 (Dollars in thousands) Loans and leases $ 27,245,122 $ 25,397,396 $ 26,744,743 $25,424,960 Less: PPP loans outstanding (126,391) (2,125,609) (189,017) (2,205,629) Loans and leases, excluding PPP loans (non-GAAP) $ 27,118,731 $ 23,271,787 $ 26,555,726 $23,219,331 
+
+Key Performance Indicator s 
+
+TABLE 44 
+
+Pre-provision net revenue to average tangible common equity Three Months Ended June 30, Six Months Ended June 30, (dollars in thousands) 2022 2021 2022 2021 Net interest income $ 253,690 $ 227,871 $ 487,766 $ 450,794 Non-interest income 82,154 79,772 160,476 162,577 Less: Non-interest expense (192,774) (182,500) (420,200) (367,362) Pre-provision net revenue (as reported) $ 143,070 $ 125,143 $ 228,042 $ 246,009 Pre-provision net revenue (as reported) (annualized) $ 573,852 $ 501,947 $ 459,863 $ 496,095 Adjustments: Add: Merger-related expense (non-interest expense) 2,027 &#8212; 30,656 &#8212; Add: Branch consolidation costs (non-interest expense) &#8212; 2,644 4,178 2,644 Pre-provision net revenue (operating) (non-GAAP) $ 145,097 $ 127,787 $ 262,876 $ 248,653 Pre-provision net revenue (operating) (annualized) (non-GAAP) $ 581,982 $ 512,552 $ 530,108 $ 501,427 Average total shareholders&#8217; equity $ 5,437,913 $ 4,994,499 $ 5,443,373 $ 4,978,186 Less: Average preferred shareholders&#8217; equity (106,882) (106,882) (106,882) (106,882) 
+
+Less: Average intangible assets (1) 
+
+(2,490,899) (2,311,953) (2,467,776) (2,313,474) Average tangible common equity (non-GAAP) $ 2,840,132 $ 2,575,664 $ 2,868,715 $ 2,557,830 Pre-provision net revenue (reported) / average tangible common equity (non-GAAP) 20.21 % 19.49 % 16.03 % 19.40 % Pre-provision net revenue (operating) / average tangible common equity (non-GAAP) 20.49 % 19.90 % 18.48 % 19.60 % 
+
+(1) Excludes loan servicing rights. 
+
+TABLE 45 
+
+Efficiency ratio 
+
+&#160; Three Months Ended June 30, Six Months Ended June 30, (dollars in thousands) 2022 2021 2022 2021 Non-interest expense $ 192,774 $ 182,500 $ 420,200 $ 367,362 Less: Amortization of intangibles (3,549) (3,024) (6,776) (6,074) Less: OREO expense (433) (499) (748) (1,285) Less: Merger-related expense (2,027) &#8212; (30,656) &#8212; Less: Branch consolidation costs &#8212; (2,644) (4,178) (2,644) Adjusted non-interest expense $ 186,765 $ 176,333 $ 377,842 $ 357,359 Net interest income $ 253,690 $ 227,871 $ 487,766 $ 450,794 Taxable equivalent adjustment 2,656 2,742 5,254 5,601 Non-interest income 82,154 79,772 160,476 162,577 Less: Net securities gains (48) (87) (48) (128) Adjusted net interest income (FTE) + non-interest income $ 338,452 $ 310,298 $ 653,448 $ 618,844 Efficiency ratio (FTE) (non-GAAP) 55.18 % 56.83 % 57.82 % 57.75 % 
+

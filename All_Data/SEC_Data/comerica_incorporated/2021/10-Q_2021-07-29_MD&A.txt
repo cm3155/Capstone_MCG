@@ -1,0 +1,582 @@
+ ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+FORWARD-LOOKING STATEMENTS 
+
+This report includes forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. In addition, the Corporation may make other written and oral communications from time to time that contain such statements. All statements regarding the Corporation's expected financial position, strategies and growth prospects and general economic conditions expected to exist in the future are forward-looking statements. The words, "anticipates," "believes," "contemplates," "feels," "expects," "estimates," "seeks," "strives," "plans," "intends," "outlook," "forecast," "position," "target," "mission," "assume," "achievable," "potential," "strategy," "goal," "aspiration," "opportunity," "initiative," "outcome," "continue," "remain," "maintain," "on track," "trend," "objective," "looks forward," "projects," "models," and variations of such words and similar expressions, or future or conditional verbs such as "will," "would," "should," "could," "might," "can," "may" or similar expressions, as they relate to the Corporation or its management, are intended to identify forward-looking statements. These forward-looking statements are predicated on the beliefs and assumptions of the Corporation's management based on information known to the Corporation's management as of the date of this report and do not purport to speak as of any other date. Forward-looking statements may include descriptions of plans and objectives of the Corporation's management for future or past operations, products or services and forecasts of the Corporation's revenue, earnings or other measures of economic performance, including statements of profitability, business segments and subsidiaries as well as estimates of credit trends and global stability. Such statements reflect the view of the Corporation's management as of this date with respect to future events and are subject to risks and uncertainties. Should one or more of these risks materialize or should underlying beliefs or assumptions prove incorrect, the Corporation's actual results could differ materially from those discussed. Factors that could cause or contribute to such differences include credit risks (unfavorable developments concerning credit quality; declines or other changes in the businesses or industries of the Corporation's customers, in particular the energy industry; and changes in customer behavior); market risks (changes in monetary and fiscal policies; fluctuations in interest rates and their impact on deposit pricing; and transitions away from LIBOR towards new interest rate benchmarks); liquidity risks (the Corporation's ability to maintain adequate sources of funding and liquidity; reductions in the Corporation's credit rating; and the interdependence of financial service companies); technology risks (cybersecurity risks and heightened legislative and regulatory focus on cybersecurity and data privacy); operational risks (operational, systems or infrastructure failures; reliance on other companies to provide certain key components of business infrastructure; the impact of legal and regulatory proceedings or determinations; losses due to fraud; and controls and procedures failures); compliance risks (changes in regulation or oversight; the effects of stringent capital requirements; and the impacts of future legislative, administrative or judicial changes to tax regulations); strategic risks (damage to the Corporation's reputation; the Corporation's ability to utilize technology to efficiently and effectively develop, market and deliver new products and services; competitive product and pricing pressures among financial institutions within the Corporation's markets; the implementation of the Corporation's strategies and business initiatives; management's ability to maintain and expand customer relationships; management's ability to retain key officers and employees; and any future strategic acquisitions or divestitures); and other general risks (impacts from the COVID-19 global pandemic; changes in general economic, political or industry conditions; the effectiveness of methods of reducing risk exposures; the effects of catastrophic events; changes in accounting standards and the critical nature of the Corporation's accounting policies; and the volatility of the Corporation's stock price). The Corporation cautions that the foregoing list of factors is not all-inclusive. For discussion of factors that may cause actual results to differ from expectations, please refer to our filings with the Securities and Exchange Commission. In particular, please refer to &#8220;Item 1A. Risk Factors&#8221; beginning on page 13 of the Corporation's Annual Report on Form 10-K for the year ended December 31, 2020. Forward-looking statements speak only as of the date they are made. The Corporation does not undertake to update forward-looking statements to reflect facts, circumstances, assumptions or events that occur after the date the forward-looking statements are made. For any forward-looking statements made in this report or in any documents, the Corporation claims the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. 
+
+RESULTS OF OPERATIONS 
+
+Three Months Ended June 30, 2021 compared to Three Months Ended June 30, 2020 
+
+Net income for the three months ended June 30, 2021 was $328 million, compared to $118 million for the three months ended June 30, 2020. The $210 million increase in net income was driven by lower provision for credit losses, which reflected the economy re-opening as well as improvements in the economic forecast and in the Energy portfolio since the onset of the pandemic last year, as well as a decline in criticized loans. Higher noninterest expenses and lower net interest income were partially offset by an increase in noninterest income. Net income per diluted common share was $2.32 and $0.84 for the three months ended June 30, 2021 and 2020, respectively, an increase of $1.48 per diluted common share. 
+
+Effective January 1, 2021, the Corporation elected to change the accounting methodology for determining market-related value of plan assets (MRVA) for certain classes of assets in the qualified defined benefit pension plan. The impact of the change for the three months ended June 30, 2021 was an increase to the pension benefit reduction to noninterest expenses of $5 million and a corresponding increase to net income of $4 million. The change in accounting methodology is applied retrospectively to all prior periods presented in the consolidated financial statements. Discussion of results of operations is based on recast results. See Note 1 to the consolidated financial statements for further information and impacts of the change in accounting policy. 
+
+Analysis of Net Interest Income 
+
+Three Months Ended June 30, 2021 June 30, 2020 (dollar amounts in millions) Average Balance Interest Average Rate Average Balance Interest Average Rate Commercial loans (a) $ 30,042 $ 255 3.38 % $ 33,944 $ 271 3.22 % Real estate construction loans 4,191 34 3.30 3,887 35 3.60 Commercial mortgage loans 10,093 72 2.87 9,800 76 3.12 Lease financing 578 4 2.82 592 5 3.34 International loans 1,034 8 3.21 1,137 10 3.51 Residential mortgage loans 1,817 14 3.09 1,895 17 3.49 Consumer loans 2,073 17 3.37 2,243 20 3.62 Total loans (b) 49,828 404 3.25 53,498 434 3.26 Mortgage-backed securities (c) 11,053 53 1.94 9,785 57 2.39 U.S. Treasury securities (d) 4,350 17 1.53 2,857 17 2.47 Total investment securities 15,403 70 1.82 12,642 74 2.41 Interest-bearing deposits with banks 16,126 5 0.11 9,709 2 0.11 Other short-term investments 176 &#8212; 0.20 140 1 0.48 Total earning assets 81,533 479 2.36 75,989 511 2.71 Cash and due from banks 982 848 Allowance for loan losses (755) (932) Accrued income and other assets 6,100 5,739 Total assets $ 87,860 $ 81,644 Money market and interest-bearing checking deposits $ 29,993 4 0.06 $ 26,320 12 0.18 Savings deposits 3,021 &#8212; 0.01 2,394 &#8212; 0.02 Customer certificates of deposit 2,126 1 0.22 2,801 8 1.21 Foreign office time deposits 40 &#8212; 0.10 81 &#8212; 0.34 Total interest-bearing deposits 35,180 5 0.06 31,596 20 0.26 Short-term borrowings 2 &#8212; &#8212; 882 1 0.25 Medium- and long-term debt 2,858 9 1.18 7,206 19 1.09 Total interest-bearing sources 38,040 14 0.15 39,684 40 0.41 Noninterest-bearing deposits 40,340 32,686 Accrued expenses and other liabilities 1,523 1,682 Shareholders&#8217; equity 7,957 7,592 Total liabilities and shareholders&#8217; equity $ 87,860 $ 81,644 Net interest income/rate spread $ 465 2.21 $ 471 2.30 Impact of net noninterest-bearing sources of funds &#160; 0.08 0.20 Net interest margin (as a percentage of average earning assets) &#160; &#160; 2.29 % &#160; &#160; 2.50 % 
+
+(a) Included Paycheck Protection Program (PPP) loans with average balances of $3.5 billion and $2.6 billion, interest income of $32 million and $14 million and average yields of 3.66% and 2.21% for the three months ended June 30, 2021 and 2020, respectively. Period-end net deferred fees totaled $53 million and $83 million at June 30, 2021 and June 30, 2020, respectively. 
+
+(b) Nonaccrual loans are included in average balances reported and in the calculation of average rates. 
+
+(c) Average balances included $91 million and $278 million of unrealized gains and losses for the three months ended June 30, 2021 and 2020, respectively; yields calculated gross of these unrealized gains and losses. 
+
+(d) Average balances included $33 million and $111 million of unrealized gains and losses for the three months ended June 30, 2021 and 2020, respectively; yields calculated gross of these unrealized gains and losses. 
+
+Rate/Volume Analysis 
+
+Three Months Ended June 30, 2021/June 30, 2020 (in millions) (Decrease) Increase Due to Rate (Decrease) Increase Due to Volume (a) Net (Decrease) Increase Interest Income: Loans $ (2) $ (28) $ (30) Investment securities (17) 13 (4) Interest-bearing deposits with banks &#8212; 3 3 Other short-term investments (1) &#8212; (1) Total interest income (20) (12) (32) Interest Expense: Interest-bearing deposits (16) 1 (15) Short-term borrowings (1) &#8212; (1) Medium- and long-term debt 2 (12) (10) Total interest expense (15) (11) (26) Net interest income $ (5) $ (1) $ (6) 
+
+(a) Rate/volume variances are allocated to variances due to volume. 
+
+Net interest income was $465 million for the three months ended June 30, 2021, a decrease of $6 million compared to $471 million for the three months ended June 30, 2020. The decrease in net interest income was driven by lower loan volume and the impact of an increase in lower-yielding investment securities, partially offset by lower rates paid on interest-bearing deposits and reduced borrowing volume. Net interest margin was 2.29 percent for the three months ended June 30, 2021, a decline of 21 basis points from 2.50 percent for the three months ended June 30, 2020. Average earning assets increased $5.5 billion, due to increases of $6.4 billion in interest-bearing deposits with banks and $2.8 billion in investment securities, partially offset by a $3.7 billion decrease in loans. Average interest-bearing funding sources decreased $1.6 billion, reflecting a $4.3 billion decrease in medium- and long-term debt and an $880 million decrease in short-term borrowings, partially offset by a $3.6 billion increase in interest-bearing deposits. 
+
+Provision for Credit Losses 
+
+The provision for credit losses, which includes the provision for loan losses and the provision for credit losses on lending-related commitments, was a benefit of $135 million for the three months ended June 30, 2021, compared to an expense of $138 million for the three months ended June 30, 2020. The change in the provision for credit losses reflected the economy re-opening as well as improvements in the economic forecast and in the Energy portfolio since the onset of the pandemic last year, as well as a decline in criticized loans. Net loan recoveries were $11 million for the three months ended June 30, 2021, compared to net loan charge-offs of $50 million, or 37 basis points of average total loans for the three months ended June 30, 2020, primarily driven by a decrease in Energy net charge-offs of $57 million to a net recovery of $12 million for the three months ended June 30, 2021. 
+
+An analysis of the allowance for credit losses and a summary of nonperforming assets are presented under the "Credit Risk" subheading in the "Risk Management" section of this financial review. 
+
+Noninterest Income 
+
+Three Months Ended June 30, (in millions) 2021 2020 Card fees $ 84 $ 68 Fiduciary income 60 52 Service charges on deposit accounts 47 42 Commercial lending fees 27 17 Derivative income (a) 22 19 Letter of credit fees 10 9 Bank-owned life insurance 9 9 Brokerage fees 4 5 Net securities gains &#8212; 1 Other noninterest income (a)(b) 21 25 Total noninterest income $ 284 $ 247 
+
+(a) Beginning with the first quarter 2021, the Corporation reported customer derivative income, previously a component of other noninterest income, and foreign exchange income as a combined item captioned by derivative income on the Consolidated Statements of Comprehensive Income. Prior periods have been adjusted to conform to this presentation and the changes in presentation do not impact total noninterest income. 
+
+(b) The table below provides further details on certain categories included in other noninterest income. 
+
+&#160; Noninterest income increased $37 million to $284 million for the three months ended June 30, 2021, reflecting an increase in card fees as a result of higher activity including from stimulus payments, as well as increases in fiduciary income, syndication agent fees (component of commercial lending fees), service charges on deposit accounts and derivative income. Noninterest income was also impacted by a decrease in other noninterest income, as detailed below, driven by lower securities trading income, partially offset by higher deferred compensation asset returns (offset in other noninterest expenses). 
+
+The following table presents certain categories included in other noninterest income on the Consolidated Statements of Comprehensive Income. 
+
+Three Months Ended June 30, (in millions) 2021 2020 Deferred compensation asset returns (a) $ 6 $ 2 Income from principal investing and warrants 2 &#8212; Investment banking fees 2 4 Securities trading income 2 10 All other noninterest income 9 9 Other noninterest income $ 21 $ 25 
+
+(a) Compensation deferred by the Corporation's officers and directors is invested based on investment selections of the officers and directors. Income earned on these assets is reported in other noninterest income and the offsetting change in deferred compensation plan liabilities is reported in salaries and benefits expense. 
+
+Noninterest Expenses 
+
+Three Months Ended June 30, (in millions) 2021 2020 Salaries and benefits expense $ 277 $ 249 Outside processing fee expense 71 62 Occupancy expense 38 37 Software expense 38 39 Equipment expense 13 12 Advertising expense 9 8 FDIC insurance expense 7 8 Other noninterest expenses (a) 10 19 Total noninterest expenses (a) $ 463 $ 434 
+
+(a) The three months ended June 30, 2020 have been recast to reflect the retrospective application of the Corporation's election to change the accounting method for certain components of expense related to the defined pension plan, resulting in a decrease of $6 million from the previously reported balances. See Note 1 to the consolidated financial statements for further information and impacts of the change in accounting policy. 
+
+Noninterest expenses increased $29 million to $463 million, primarily reflecting increases in salaries and benefits expense and outside processing fee expense, partially offset by a decrease in other noninterest expenses. The increase in salaries and benefits expense was mostly a result of lower performance-related compensation in 2020 due to the expected impact to performance from the COVID-19 pandemic, as well as the impact of annual merit increases. Higher technology-related labor costs (related to contract labor), staff insurance (from elevated claims) and deferred compensation expense (offset in other 
+
+noninterest income) also contributed to the increase in salaries and benefits expense. The increase in outside processing fee expense was primarily due to higher volumes of government card transactions (tied to card fee revenue) and data processing support for PPP loans, while the decrease in other noninterest expense was driven by lower non-salary pension expense and operational losses, partially offset by higher litigation-related expenses. 
+
+Six Months Ended June 30, 2021 compared to Six Months Ended June 30, 2020 
+
+Net income for the six months ended June 30, 2021 was $678 million, an increase of $619 million compared to $59 million for the six months ended June 30, 2020. The increase was driven by lower provision for credit losses and higher noninterest income, partially offset by a decrease in net interest income and higher noninterest expenses. For the six months ended June 30, 2021, net income per diluted common share was $4.76, an increase of $4.34 compared to $0.42 for the six months ended June 30, 2020. 
+
+Effective January 1, 2021, the Corporation elected to change the accounting methodology for determining MRVA for certain classes of assets in the qualified defined benefit pension plan. The impact of the change for the six months ended June 30, 2021 was an increase to the pension benefit reduction to noninterest expenses of $9 million and a corresponding increase to net income of $7 million. The change in accounting methodology is applied retrospectively to all prior periods presented in the consolidated financial statements. Discussion of results of operations is based on recast results. See Note 1 to the consolidated financial statements for further information and impacts of the change in accounting policy. 
+
+Analysis of Net Interest Income 
+
+Six Months Ended June 30, 2021 June 30, 2020 (dollar amounts in millions) Average Balance Interest Average Rate Average Balance Interest Average Rate Commercial loans (a) $ 30,502 $ 507 3.36 % $ 32,321 $ 585 3.64 % Real estate construction loans 4,164 69 3.34 3,725 78 4.19 Commercial mortgage loans 10,022 142 2.86 9,719 177 3.66 Lease financing (b) 585 (8) (2.87) 587 10 3.49 International loans 999 16 3.19 1,071 21 3.96 Residential mortgage loans 1,813 28 3.11 1,875 34 3.58 Consumer loans 2,121 36 3.39 2,253 46 4.12 Total loans (c) 50,206 790 3.17 51,551 951 3.71 Mortgage-backed securities (d) 10,657 105 1.98 9,649 114 2.40 U.S. Treasury securities (e) 4,493 34 1.56 2,837 34 2.47 Total investment securities 15,150 139 1.86 12,486 148 2.42 Interest-bearing deposits with banks 14,507 9 0.11 7,558 20 0.55 Other short-term investments 173 &#8212; 0.24 147 1 0.80 Total earning assets 80,036 938 2.36 71,742 1,120 3.15 Cash and due from banks 976 843 Allowance for loan losses (835) (812) Accrued income and other assets 6,041 5,681 Total assets $ 86,218 $ 77,454 Money market and interest-bearing checking deposits $ 29,505 10 0.07 $ 25,486 57 0.45 Savings deposits 2,911 &#8212; 0.02 2,298 &#8212; 0.04 Customer certificates of deposit 2,141 2 0.23 2,900 19 1.32 Other time deposits &#8212; &#8212; &#8212; 35 &#8212; 2.00 Foreign office time deposits 52 &#8212; 0.09 82 &#8212; 0.82 Total interest-bearing deposits 34,609 12 0.07 30,801 76 0.50 Short-term borrowings 2 &#8212; &#8212; 519 1 0.34 Medium- and long-term debt 3,232 18 1.07 7,266 59 1.63 Total interest-bearing sources 37,843 30 0.15 38,586 136 0.71 Noninterest-bearing deposits 38,858 29,723 Accrued expenses and other liabilities 1,469 1,630 Shareholders&#8217; equity 8,048 7,515 Total liabilities and shareholders&#8217; equity $ 86,218 $ 77,454 Net interest income/rate spread $ 908 2.21 $ 984 2.44 Impact of net noninterest-bearing sources of funds &#160; 0.08 0.33 Net interest margin (as a percentage of average earning assets) &#160; &#160; 2.29 % &#160; &#160; 2.77 % 
+
+(a) Included PPP loans with average balances of $3.5 billion and $1.3 billion, interest income of $62 million and $14 million and average yields of 3.57% and 2.21% for the six months ended June 30, 2021 and 2020, respectively. Period-end net deferred fees totaled $53 million and $83 million at June 30, 2021 and June 30, 2020, respectively. 
+
+(b) The six months ended June 30, 2021 included residual value adjustments totaling $17 million, which impacted the average yield on loans by 7 basis points. 
+
+(c) Nonaccrual loans are included in average balances reported and in the calculation of average rates. 
+
+(d) Average balances included $124 million and $191 million of unrealized gains and losses for the six months ended June 30, 2021 and 2020, respectively; yields calculated gross of these unrealized gains and losses. 
+
+(e) Average balances included $45 million and $91 million of unrealized gains and losses for the six months ended June 30, 2021 and 2020, respectively; yields calculated gross of these unrealized gains and losses. 
+
+Rate/Volume Analysis 
+
+Six Months Ended June 30, 2021/June 30, 2020 (in millions) Decrease Due to Rate (Decrease) Increase Due to Volume (a) Net Decrease Interest Income: Loans $ (141) $ (20) $ (161) Investment securities (33) 24 (9) Interest-bearing deposits with banks (16) 5 (11) Other short-term investments (1) &#8212; (1) Total interest income (191) 9 (182) Interest Expense: Interest-bearing deposits (65) 1 (64) Short-term borrowings (1) &#8212; (1) Medium- and long-term debt (19) (22) (41) Total interest expense (85) (21) (106) Net interest income $ (106) $ 30 $ (76) 
+
+(a) Rate/volume variances are allocated to variances due to volume. 
+
+Net interest income was $908 million for the six months ended June 30, 2021, a decrease of $76 million compared to $984 million for the six months ended June 30, 2020. The decrease in net interest income reflected lower yields on earning assets, partially offset by lower rates paid on deposits and debt. Net interest margin was 2.29 percent for the six months ended June 30, 2021, a decrease of 48 basis points compared to 2.77 percent for the comparable period in 2020. The decrease in net interest margin reflected the decline in the average 30-day LIBOR, from 0.88 percent for the six months ended June 30, 2020 to 0.11 percent for the six months ended June 30, 2021. Average earning assets increased $8.3 billion, due to increases of $6.9 billion in interest-bearing deposits with banks and $2.7 billion in investment securities, partially offset by a small decrease in loans. Average interest-bearing funding sources decreased $743 million, reflecting a $4.0 billion decrease in medium- and long-term debt and a $517 million decrease in short-term borrowings, partially offset by a $3.8 billion increase in interest-bearing deposits. 
+
+For further discussion of the effects of market rates on net interest income, refer to the "Market and Liquidity Risk" section of this financial review. 
+
+Provision for Credit Losses 
+
+The provision for credit losses was a benefit of $317 million for the six months ended June 30, 2021, compared to an expense of $549 million for the six months ended June 30, 2020. The change in provision for credit losses reflected the economy re-opening as well as improvements in the economic forecast and in the Energy portfolio since the onset of the pandemic last year. Net loan recoveries were $8 million for the six months ended June 30, 2021, compared to net loan charge-offs of $134 million for the six months ended June 30, 2020, largely driven by a decrease of $125 million in Energy net charge-offs. 
+
+An analysis of the allowance for credit losses and nonperforming assets is presented under the "Credit Risk" subheading in the "Risk Management" section of this financial review. 
+
+Noninterest Income 
+
+Six Months Ended June 30, (in millions) 2021 2020 Card fees $ 155 $ 127 Fiduciary income 113 106 Service charges on deposit accounts 95 91 Commercial lending fees 45 34 Derivative income (a) 52 39 Letter of credit fees 20 18 Bank-owned life insurance 20 21 Brokerage fees 8 12 Net securities losses &#8212; &#8212; Other noninterest income (a)(b) 46 36 Total noninterest income $ 554 $ 484 
+
+(a) Beginning with the first quarter 2021, the Corporation reported customer derivative income, previously a component of other noninterest income, and foreign exchange income as a combined item captioned by derivative income on the Consolidated Statements of Comprehensive Income. Prior periods have been adjusted to conform to this presentation and the changes in presentation do not impact total noninterest income. 
+
+(b) The table below provides further details on certain categories included in other noninterest income. 
+
+&#160; Noninterest income increased $70 million to $554 million, including increases in card fees, derivative income and fiduciary income, as well as increases in syndication agent fees and loan commitment fees (both components of commercial lending fees). The increase in card fees resulted from higher activity mostly related to stimulus payments, while the increase in derivative income was primarily due to favorable valuation adjustments, partially offset by a decrease in interest rate swap activity. Noninterest income was also impacted by an increase in other noninterest income, as detailed below, driven by increases in deferred compensation asset returns (offset in noninterest expenses) and income from principal investing and warrants, partially offset by lower securities trading income. 
+
+The following table presents certain categories included in other noninterest income on the Consolidated Statements of Comprehensive Income. 
+
+Six Months Ended June 30, (in millions) 2021 2020 Deferred compensation asset returns (a) $ 9 $ (1) Income from principal investing and warrants 8 &#8212; Investment banking fees 6 7 Securities trading income 4 12 All other noninterest income 19 18 Other noninterest income $ 46 $ 36 
+
+(a) Compensation deferred by the Corporation's officers and directors is invested based on investment selections of the officers and directors. Income earned on these assets is reported in other noninterest income and the offsetting change in deferred compensation plan liabilities is reported in salaries and benefits expense. 
+
+Noninterest Expenses 
+
+Six Months Ended June 30, (in millions) 2021 2020 Salaries and benefits expense $ 559 $ 491 Outside processing fee expense 135 119 Occupancy expense 77 74 Software expense 77 76 Equipment expense 25 24 Advertising expense 15 15 FDIC insurance expense 13 16 Other noninterest expenses (a) 9 36 Total noninterest expenses (a) $ 910 $ 851 
+
+(a) The six months ended June 30, 2020 has been recast to reflect the retrospective application of the Corporation's election to change the accounting method for certain components of expense related to the defined pension plan, resulting in a decrease of $14 million from the previously reported balances. See Note 1 to the consolidated financial statements for further information and impacts of the change in accounting policy. 
+
+Noninterest expenses increased $59 million to $910 million, due to increases in salaries and benefits expense and outside processing fee expense, partially offset by a decrease in other noninterest expenses. The increase in salaries and benefits 
+
+expense reflected lower performance-related compensation in 2020, including stock-based compensation, due to the expected impact to performance from the COVID-19 pandemic. Higher deferred compensation expense (offset in other noninterest income), technology-related labor costs (related to contract labor) and staff insurance (from elevated claims) also contributed to the increase in salaries and benefits expense. The increase in outside processing fee expense was primarily due to higher volumes of government card transactions (tied to card fee revenue), while the decrease in other noninterest expense was driven by lower non-salary pension expense and operational losses, partially offset by higher litigation-related expenses. 
+
+OUTLOOK 
+
+This outlook is based on management expectations for continued improvement in economic conditions. 
+
+Trends for Second Half of 2021 Relative to Second Quarter 2021 Average loans &#8226; Solid loan growth in nearly all business lines (excluding PPP), more than offset by forgiveness of the bulk of PPP loans. 
+
+Average deposits &#8226; Deposits to remain strong. 
+
+Net interest income &#8226; Net interest income reflects benefit of higher loan volume (excluding PPP loans) and additional days, more than offset by the impact from lower PPP loans. 
+
+Credit quality &#8226; Strong credit quality continues. 
+
+Noninterest income &#8226; Growth in customer-related fees due to rebounding economic activity, more than offset by lower card fees (decrease in stimulus activity), fiduciary (annual tax preparation fees in second quarter) and deferred compensation from elevated levels. 
+
+Noninterest expenses &#8226; Increases in seasonal expenses and technology investments, more than offset by lower litigation-related expenses and deferred compensation from elevated levels. 
+
+Tax rate &#8226; Income tax expense for full-year 2021 to be between 22 and 23 percent of pre-tax income, excluding discrete items. 
+
+Capital &#8226; Continue share repurchases; CET1 target of approximately 10 percent. 
+
+STRATEGIC LINES OF BUSINESS AND MARKETS 
+
+The Corporation has strategically aligned its operations into three major business segments: the Commercial Bank, the Retail Bank and Wealth Management. These business segments are differentiated based on the type of customer and the related products and services provided. In addition to the three major business segments, the Finance Division is also reported as a segment. The Other category includes items not directly associated with the business segments or the Finance segment. The performance of the business segments is not comparable with the Corporation's consolidated results and is not necessarily comparable with similar information for any other financial institution. Additionally, because of the interrelationships of the various segments, the information presented is not indicative of how the segments would perform if they operated as independent entities. Market segment results are also provided for the Corporation's three primary geographic markets: Michigan, California and Texas. In addition to the three primary geographic markets, Other Markets is also reported as a market segment. Note 13 to the consolidated financial statements describes the business activities of each business segment and presents financial results of the business and market segments for the three- and six-month periods ended June 30, 2021 and 2020. 
+
+The Corporation's management accounting system assigns balance sheet and income statement items to each segment using certain methodologies, which are regularly reviewed and refined. These methodologies may be modified as the management accounting system is enhanced and changes occur in the organizational structure and/or product lines. Note 22 to the consolidated financial statements in the Corporation's 2020 Annual Report describes the Corporation's segment reporting methodology. 
+
+Net interest income for each segment reflects the interest income generated by earning assets less interest expense on interest-bearing liabilities plus the net impact from associated internal funds transfer pricing (FTP). The FTP methodology allocates credits to each business segment for deposits and other funds provided as well as charges for loans and other assets being funded. FTP crediting rates on deposits and other funds provided reflect the long-term value of deposits and other funding sources based on their implied maturities. Due to the longer-term nature of implied maturities, FTP crediting rates are generally 
+
+less volatile than changes in interest rates observed in the market. FTP charge rates for funding loans and other assets reflect a matched cost of funds based on the pricing and duration characteristics of the assets. As a result of applying matched funding, interest revenue for each segment resulting from loans and other assets is generally not impacted by changes in interest rates. Therefore, net interest income for each segment primarily reflects the volume of loans and other earning assets at the spread over the matched cost of funds, as well as the volume of deposits at the associated FTP crediting rates. Due to the impact of lower interest rates, business segments, particularly those focused on generating deposits, were impacted by lower FTP crediting rates on deposits in the six months ended June 30, 2021 compared to the same period in the prior year. Similarly, FTP charges for funding loans decreased in the six months ended June 30, 2021, compared to the same period in the prior year. 
+
+Business Segments 
+
+The following sections present a summary of the performance of each of the Corporation's business segments for the six months ended June 30, 2021 compared to the same period in the prior year. The six months ended June 30, 2021 has been recast to reflect the retrospective application of the Corporation's election to change the accounting method for certain components of expense related to the defined pension plan. Further information about the change in accounting methodology is presented in Note 1 to the consolidated financial statements. 
+
+Commercial Bank 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest income $ 784 $ 782 $ 2 &#8212; % Provision for credit losses (300) 513 (813) n/m Noninterest income 326 271 55 21 Noninterest expenses 419 395 24 6 Provision for income taxes 224 28 196 n/m Net income $ 767 $ 117 $ 650 n/m Net credit-related (recoveries) charge-offs $ (10) $ 131 $ (141) n/m Selected average balances: Loans (a) $ 42,625 $ 44,253 $ (1,628) (4) % Deposits 42,399 33,274 9,125 27 
+
+(a) Included PPP loans with average balances of $2.7 billion and $1.0 billion for the six months ended June 30, 2021 and 2020, respectively. 
+
+n/m - not meaningful 
+
+Average loans decreased $1.6 billion, primarily due to decreases in National Dealer Services and Energy, partially offset by increases in Mortgage Banker Finance and Commercial Real Estate. Average deposits increased $9.1 billion, reflecting increases in all deposit categories with the exception of time deposits. The Commercial Bank's net income increased $650 million. Net interest income was stable, while the provision for credit losses decreased $813 million to a benefit of $300 million, reflecting benefits from the economy re-opening as well as sustained improvements in the economic forecasts and in the Energy portfolio since the onset of the pandemic last year. Net credit-related charge-offs decreased $141 million to a $10 million recovery, primarily due to a reduction in Energy net charge-offs. Noninterest income increased $55 million with increases in card fees, derivative income and commercial lending fees, partially offset by a decrease in investment banking fees. Noninterest expenses increased $24 million, primarily reflecting increases in salaries and benefits expense, corporate overhead and outside processing fee expense, which were partially offset by a decrease in litigation-related expenses. 
+
+Retail Bank 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest income $ 278 $ 245 $ 33 14 % Provision for credit losses (1) 8 (9) n/m Noninterest income 58 52 6 10 Noninterest expenses 322 298 24 8 Provision (benefit) for income taxes 1 (2) 3 n/m Net income (loss) $ 14 $ (7) $ 21 n/m Net credit-related charge-offs $ 2 $ 2 $ &#8212; &#8212; Selected average balances: Loans (a) $ 2,576 $ 2,277 $ 299 13 % Deposits 24,951 21,921 3,030 14 
+
+(a) Included PPP loans with average balances of $625 million and $182 million for the six months ended June 30, 2021 and 2020, respectively. 
+
+n/m - not meaningful 
+
+Average loans increased $299 million due to loans to small businesses, driven by PPP loans. Average deposits increased $3.0 billion, including increases in all deposit categories with the exception of time deposits. The Retail Bank's net income increased $21 million from a net loss of $7 million. Net interest income increased $33 million, primarily due to higher deposit volumes earning FTP crediting rates. Provision for credit losses decreased $9 million to a benefit of $1 million. Noninterest income increased $6 million, driven by an increase in card fees. Noninterest expenses increased $24 million, primarily due to increases in litigation-related expenses, corporate overhead and salaries and benefits expense, which were partially offset by a decrease in operational losses. 
+
+Wealth Management 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest income $ 85 $ 81 $ 4 5 % Provision for credit losses (16) 28 (44) n/m Noninterest income 138 136 2 2 
+
+Noninterest expenses 
+
+153 143 10 7 Provision for income taxes 19 9 10 90 Net income $ 67 $ 37 $ 30 83 Net credit-related charge-offs $ &#8212; $ 1 $ (1) n/m Selected average balances: Loans (a) $ 4,998 $ 5,007 $ (9) &#8212; % Deposits 4,965 4,120 845 20 
+
+(a) Included PPP loans with average balances of $188 million and $70 million for the six months ended June 30, 2021 and 2020, respectively. 
+
+n/m - not meaningful 
+
+Average loans were stable at $5.0 billion, while average deposits increased $845 million, reflecting increases in all deposit categories with the exception of time deposits. Wealth Management's net income increased $30 million to $67 million. Net interest income increased $4 million and provision for credit losses decreased $44 million to a benefit of $16 million due to the improving economic outlook. Noninterest income was relatively stable, while noninterest expenses increased $10 million, primarily reflecting increases in corporate overhead and salaries and benefits expense. 
+
+Market Segments 
+
+The following sections present a summary of the performance of each of the Corporation's market segments for the six months ended June 30, 2021 compared to the same period in the prior year. The six months ended June 30, 2021 has been recast to reflect the retrospective application of the Corporation's election to change the accounting method for certain components of expense related to the defined pension plan. Further information about the change in accounting methodology is presented in Note 1 to the consolidated financial statements. 
+
+Michigan 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest income $ 333 $ 324 $ 9 3 % Provision for credit losses (54) 65 (119) n/m Noninterest income 138 136 2 1 Noninterest expenses 272 275 (3) (1) Provision for income taxes 51 24 27 n/m Net income $ 202 $ 96 $ 106 n/m Net credit-related charge-offs $ 1 $ 4 $ (3) (62) Selected average balances: Loans (a) $ 12,279 $ 12,665 $ (386) (3) % Deposits 26,191 22,037 4,154 19 
+
+(a) Included PPP loans with average balances of $1.4 billion and $487 million for the six months ended June 30, 2021 and 2020, respectively. 
+
+n/m - not meaningful 
+
+Average loans were relatively stable, while average deposits increased $4.2 billion, reflecting increases in all deposit categories with the exception of time deposits. The Michigan market's net income increased $106 million. Net interest income increased $9 million, while noninterest income and noninterest expenses were stable. Provision for credit losses decreased $119 million to a benefit of $54 million, primarily due to decreases in general Middle Market, Business Banking and Corporate Banking. 
+
+California 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest income $ 346 $ 345 $ 1 &#8212; % Provision for credit losses (78) 93 (171) n/m Noninterest income 89 67 22 34 Noninterest expenses 220 191 29 15 Provision for income taxes 69 30 39 n/m Net income $ 224 $ 98 $ 126 n/m Net credit-related charge-offs $ 1 $ 7 $ (6) (83) % Selected average balances: Loans (a) $ 17,702 $ 17,978 $ (276) (2) % Deposits 20,221 16,985 3,236 19 
+
+(a) Included PPP loans with average balances of $1.2 billion and $444 million for the six months ended June 30, 2021 and 2020, respectively. 
+
+n/m - not meaningful 
+
+Average loans were relatively stable, while average deposits increased $3.2 billion, including increases in all deposit categories with the exception of time deposits. The California market's net income increased $126 million. Net interest income was stable, while the provision for credit losses decreased $171 million to a benefit of $78 million, primarily reflecting decreases in general Middle Market and Commercial Real Estate. Net credit-related charge-offs decreased $6 million, mainly due to a decrease in Technology and Life Sciences. Noninterest income increased $22 million, mostly from derivative and warrant income. Noninterest expenses increased $29 million, including increases in litigation-related expenses, corporate overhead and salaries and benefits expense. 
+
+Texas 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest income $ 227 $ 230 $ (3) (2) % Provision for credit losses (163) 321 (484) n/m Noninterest income 71 60 11 17 Noninterest expenses 179 172 7 4 Provision (benefit) for income taxes 60 (45) 105 n/m Net income (loss) $ 222 $ (158) $ 380 n/m Net credit-related (recoveries) charge-offs $ (10) $ 116 $ (126) n/m Selected average balances: Loans (a) $ 10,078 $ 10,858 $ (780) (7) % Deposits 10,965 9,697 1,268 13 
+
+(a) Included PPP loans with average balances of $669 million and $256 million for the six months ended June 30, 2021 and 2020, respectively. 
+
+n/m - not meaningful 
+
+Average loans decreased $780 million, primarily due to a decrease in Energy. Average deposits increased $1.3 billion, reflecting increases in all deposit categories with the exception of time deposits. The Texas market's net income increased $380 million from a net loss of $158 million. Net interest income decreased $3 million, while the provision for credit losses decreased $484 million to a benefit of $163 million and net credit-related charge-offs decreased $126 million to a recovery of $10 million, both reflecting decreases in Energy. Noninterest income increased $11 million, reflecting increased derivative income and investment banking fees. Noninterest expenses increased $7 million, mainly due to increases in corporate overhead and salaries and benefits expense, partially offset by a decrease in operational losses. 
+
+Other Markets 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest income $ 241 $ 209 $ 32 16 % Provision for credit losses (22) 70 (92) n/m Noninterest income 224 196 28 14 Noninterest expenses 223 198 25 13 Provision for income taxes 64 26 38 n/m Net income $ 200 $ 111 $ 89 81 Net credit-related charge-offs $ &#8212; $ 7 $ (7) n/m Selected average balances: Loans (a) $ 10,139 $ 10,051 $ 88 1 % Deposits 14,938 10,596 4,342 41 
+
+(a) Included PPP loans with average balances of $311 million and $124 million for the six months ended June 30, 2021 and 2020, respectively. 
+
+n/m - not meaningful 
+
+Average loans were stable at $10.1 billion, while average deposits increased $4.3 billion, including increases in all deposit categories with the exception of time deposits. Other Markets' net income increased $89 million. Net interest income increased $32 million, primarily due to higher deposit volumes earning FTP crediting rates, while the provision for credit losses decreased $92 million to a benefit of $22 million, primarily reflecting decreases in Technology and Life Sciences and Corporate Banking. Net credit-related charge-offs decreased $7 million, mainly due to a decrease in Technology and Life Sciences. Noninterest income increased $28 million, mostly from increases in card fees and fiduciary income. Noninterest expenses increased $25 million, primarily reflecting increases in outside processing fees, salaries and benefits expense and corporate overhead, partially offset by lower operational losses. 
+
+Finance &#38; Other 
+
+Six Months Ended Percent Change (dollar amounts in millions) June 30, 2021 June 30, 2020 Change Earnings summary: Net interest expense $ (239) $ (124) $ (115) 92 % Noninterest income 32 25 7 26 Noninterest expenses 16 15 1 5 Benefit for income taxes (53) (26) (27) n/m Net loss $ (170) $ (88) $ (82) 93 % Selected average balances: Loans $ 8 $ (1) $ 9 n/m Deposits 1,152 1,209 (57) (5) % 
+
+n/m - not meaningful 
+
+Net loss for the Finance &#38; Other category increased $82 million to $170 million. Net interest expense increased $115 million, primarily reflecting a decrease in net FTP revenue as a result of lower rates charged to the business segments under the Corporation's internal FTP methodology. Noninterest income increased $7 million, primarily driven by an increase in securities trading income, while noninterest expenses were stable. 
+
+The following table lists the Corporation's banking centers by geographic market segment. 
+
+June 30, 2021 2020 Michigan 188 190 Texas 123 123 California 95 96 Other Markets 25 25 Total 431 434 
+
+FINANCIAL CONDITION 
+
+Second Quarter 2021 Compared to Fourth Quarter 2020 
+
+Period-End Balances 
+
+Total assets increased $226 million to $88.4 billion, driven by increases of $809 million in investment securities to deploy excess liquidity and $757 million in interest-bearing deposits with banks, partially offset by a decrease of $1.8 billion in net loans. The decline in loans includes a $1.5 billion decline in National Dealer Services as a result of low inventories as well as a $677 million decline in Mortgage Banker Finance from elevated activity in 2020. PPP loans decreased $663 million to $2.8 billion, reflecting repayments of $1.7 billion, primarily through the forgiveness process. 
+
+Total liabilities increased $345 million to $80.4 billion, primarily reflecting a decrease of $2.9 billion in medium- and long-term debt, which was more than offset by increases of $2.1 billion in interest-bearing deposits and $1.1 billion in noninterest-bearing deposits. The decrease in medium- and long-term was driven by the repayment of $2.8 billion in floating-rate Federal Home Loan Bank (FHLB) advances during the first quarter. The deposit growth reflected increases in nearly every business line as commercial customers generated increased cash, while consumer customers continued to conserve cash from government stimulus payments. 
+
+Average Balances 
+
+Total assets increased $2.5 billion to $87.9 billion due to increases of $3.0 billion in interest-bearing deposits with banks and $517 million in investment securities, as well as smaller increases in other assets, partially offset by a $1.6 billion decrease in loans. The following table provides information about the change in the Corporation's average loan portfolio by loan type and geographic market. 
+
+Three Months Ended Percent Change (dollar amounts in millions) June 30, 2021 December 31, 2020 Change By Loan Type: Commercial loans (a) $ 30,042 $ 31,713 $ (1,671) (5 %) Real estate construction loans 4,191 4,157 34 1 Commercial mortgage loans 10,093 9,938 155 2 Lease financing 578 600 (22) (4) International loans 1,034 918 116 13 Residential mortgage loans 1,817 1,908 (91) (5) Consumer loans 2,073 2,171 (98) (5) Total loans $ 49,828 $ 51,405 $ (1,577) (3 %) Loans By Geographic Market: Michigan $ 12,245 $ 12,225 $ 20 &#8212; % California 17,515 18,030 (515) (3) Texas 10,008 10,583 (575) (5) Other Markets and Finance 10,060 10,567 (507) (5) Total loans $ 49,828 $ 51,405 $ (1,577) (3 %) 
+
+(a) Included PPP loans of $3.5 billion and $3.7 billion for the three months ended June 30, 2021 and December 31, 2020, respectively. 
+
+The decrease in loans was primarily driven by declines in National Dealer Services and Mortgage Banker Finance, partially offset by increases in Equity Fund Services, Environmental Services, Entertainment Lending, Corporate Banking and general Middle Market. National Dealer Services continues to be impacted by supply chain issues resulting in low inventory levels combined with strong demand. PPP loans decreased $254 million to $3.5 billion, as average forgiven balances outpaced average newly originated balances. 
+
+Total liabilities increased $2.5 billion to $79.9 billion, reflecting a decrease of $2.9 billion in medium- and long-term debt due to the repayment of $2.8 billion in floating-rate FHLB advances during the first quarter, partially offset by increases of $3.6 billion and $1.7 billion in noninterest-bearing and interest-bearing deposits, respectively. The deposit growth reflected increases in nearly every business line as customers continue to conserve cash. 
+
+Capital 
+
+The following table presents a summary of changes in total shareholders' equity for the six months ended June 30, 2021. 
+
+(in millions) 
+
+&#160; &#160; 
+
+Balance at January 1, 2021 
+
+$ 8,050 Net income 678 Cash dividends declared on common stock (187) Cash dividends declared on preferred stock (11) Purchase of common stock (453) Other comprehensive loss: Investment securities $ (141) Cash flow hedges (49) Defined benefit and other postretirement plans 6 Total other comprehensive loss (184) Issuance of common stock under employee stock plans 9 Share-based compensation 29 Balance at June 30, 2021 &#160; $ 7,931 
+
+The following table summarizes the Corporation's repurchase activity during the six months ended June 30, 2021. 
+
+(shares in thousands) Total Number of Shares Purchased as Part of Publicly Announced Repurchase Plans or Programs Remaining Share Repurchase Authorization (a) Total Number of Shares Purchased (b) Average Price Paid Per Share Total first quarter 2021 &#8212; 4,870 55 $ 61.39 April 2021 4,461 10,409 4,463 77.10 May 2021 &#8212; 10,409 &#8212; &#8212; June 2021 1,421 8,988 1,421 74.65 Total second quarter 2021 5,882 8,988 5,884 76.51 Total 2021 year-to-date 5,882 8,988 5,939 76.36 
+
+(a) Maximum number of shares that may be repurchased under the publicly announced plans or programs. 
+
+(b) Includes approximately 57,000 shares purchased pursuant to deferred compensation plans and shares purchased from employees to pay for taxes related to restricted stock vesting under the terms of an employee share-based compensation plan during the six months ended June 30, 2021. These transactions are not considered part of the Corporation's repurchase program. 
+
+The Corporation resumed share repurchases under the share repurchase program during the second quarter of 2021, including a previously announced Accelerated Share Repurchase transaction (ASR). On April 27, 2021 the Corporation's Board of Directors approved the authorization to repurchase up to an additional 10 million shares of its outstanding common stock, including the ASR. Since the inception of the share repurchase program in 2010, a total of 97.2 million shares have been authorized for repurchase. There is no expiration date for the share repurchase program. The timing and actual amount of additional share repurchases are subject to various factors, including the Corporation's earnings generation, capital needs to fund future loan growth and market conditions. 
+
+The Corporation continues to target a common equity Tier 1 capital ratio of approximately 10 percent with continued active capital management. At June 30, 2021, the Corporation's estimated CET1 capital ratio was 10.39 percent. In 2020, the Corporation elected regulatory relief to defer the impact of adopting the CECL model for measuring credit losses on regulatory capital. The estimated deferral amount at June 30, 2021 was reduced to zero due to a $309 million decline in the allowance for credit losses from December 31, 2020, resulting from sustained improvements in the economy and in the Corporation's credit quality. 
+
+The following table presents the minimum ratios required. 
+
+Common equity tier 1 capital to risk-weighted assets 4.5 % Tier 1 capital to risk-weighted assets 6.0 Total capital to risk-weighted assets 8.0 Capital conservation buffer (a) 2.5 Tier 1 capital to adjusted average assets (leverage ratio) 4.0 
+
+(a) In addition to the minimum risk-based capital requirements, the Corporation is required to maintain a minimum capital conservation buffer, in the form of common equity, in order to avoid restrictions on capital distributions and discretionary bonuses. 
+
+The Corporation's capital ratios exceeded minimum regulatory requirements as follows: 
+
+June 30, 2021 December 31, 2020 (dollar amounts in millions) Capital/Assets Ratio Capital/Assets Ratio Common equity tier 1 (a), (b) $ 7,004 10.39 % $ 6,919 10.34 % Tier 1 risk-based (a), (b) 7,398 10.97 7,313 10.93 Total risk-based (a) 8,763 13.00 8,833 13.20 Leverage (a) 7,398 8.45 7,313 8.63 Common shareholders' equity 7,537 8.53 7,656 8.69 Tangible common equity (b) 6,888 7.85 7,020 8.02 Risk-weighted assets (a) 67,410 66,931 
+
+(a) June 30, 2021 capital, risk-weighted assets and ratios are estimated. Ratios reflect deferral of CECL model impact as calculated per regulatory guidance. 
+
+(b) See Supplemental Financial Data section for reconciliations of non-GAAP financial measures and regulatory ratios. 
+
+RISK MANAGEMENT 
+
+The following updated information should be read in conjunction with the "Risk Management" section on pages F-22 through F-38 in the Corporation's 2020 Annual Report. 
+
+Credit Risk 
+
+Allowance for Credit Losses 
+
+The allowance for credit losses includes both the allowance for loan losses and the allowance for credit losses on lending-related commitments. As a percentage of total loans, the allowance for credit losses was 1.36 percent at June 30, 2021, compared to 1.90 percent at December 31, 2020. Excluding $2.8 billion in PPP loans, which are guaranteed by the Small Business Administration, the allowance for credit losses was 1.44 percent of total loans at June 30, 2021, compared to 2.03 percent at December 31, 2020. The allowance for credit losses covered 2.1 times and 2.8 times total nonperforming loans at June 30, 2021 and December 31, 2020, respectively. 
+
+The allowance for credit losses decreased $309 million to $683 million at June 30, 2021, primarily reflecting a sustained recovery by the U.S. economy from the COVID-19 pandemic and benefits of mitigating actions by the U.S. government. In addition to $2.8 trillion of stimulus spending approved by Congress between December 2020 and March 2021, the positive progress of the vaccine rollout and associated opening of the broader economy contributed to an improved economic outlook. Despite these favorable developments, there continues to be uncertainty related to emerging COVID-19 variants, supply chain and labor constraints, future monetary and fiscal actions and inflationary pressures. 
+
+These factors shaped the 2-year reasonable and supportable forecasts used by the Corporation in its CECL estimate at June 30, 2021. The U.S. economy is expected to continue to grow at an accelerated pace through 2021 before normalizing into historical growth rates in 2022. F orecasts for other key economic variables, including the unemployment rate and oil prices, are generally in line with GDP projections. Interest rates remain low, reflecting the Federal Reserve's expectati on that rates will remain at current levels in the near-to mid-term, while corporate bond rates reflect normalizing default risk. The following table summarizes select economic variables representative of the economic forecasts used to develop the allowance for credit losses estimate at June 30, 2021. 
+
+Economic Variable Base Forecast Real Gross Domestic Product (GDP) growth Growth decreases to 5 percent by fourth quarter 2021, normalizing into a long-term growth rate of between 2 to 3 percent by the beginning of 2022. Unemployment rate Current levels gradually decrease to below 4 percent by third quarter 2022. Corporate BBB bond to 10-year Treasury bond spreads Spreads gradually increase from current levels to 1.7 percent by the end of the forecast period. Oil Prices Prices stable at around $60 per barrel throughout the forecast period. 
+
+Due to the high level of uncertainty regarding significant assumptions, such as the ultimate impact of the global pandemic, the Corporation evaluated a range of economic scenarios, including more benign and more severe economic forecasts. In the more severe scenario, real GDP is expected to contract through first quarter 2022, gradually improving to 4 percent by the end of the forecast period. Other key economic variables follow a similar pattern of a lagged recovery. Selecting the more severe forecast would result in an increase in the quantitative calculation of allowance for credit losses by approximately $181 million as of June 30, 2021. However, factoring in model overlays and qualitative adjustments could result in a materially different estimate under a more severe scenario. 
+
+Allowance for Loan Losses 
+
+The allowance for loan losses represents management&#8217;s estimates of current expected credit losses in the Corporation&#8217;s loan portfolio. Pools of loans with similar risk characteristics are collectively evaluated, while loans that no longer share risk characteristics with loan pools are evaluated individually. 
+
+Collective loss estimates are determined by applying reserve factors, designed to estimate current expected credit losses, to amortized cost balances over the remaining contractual life of the collectively evaluated portfolio. Loans with similar risk characteristics are aggregated into homogeneous pools. The allowance for loan losses also includes qualitative adjustments to bring the allowance to the level management believes is appropriate based on factors that have not otherwise been fully accounted for, including adjustments for foresight risk, input imprecisions and model imprecision. Credit losses for loans that no longer share risk characteristics with the loan pools are estimated on an individual basis. Individual credit loss estimates are typically performed for nonaccrual loans and modified loans classified as troubled debt restructurings (TDRs) and are based on one of several methods, including the estimated fair value of the underlying collateral, observable market value of similar debt or the present value of expected cash flows. 
+
+As a percentage of total loans, the allowance for loan losses was 1.30 percent at June 30, 2021, compared to 1.81 percent at December 31, 2020. Excluding PPP loans, the allowance for loan losses was 1.37 percent of total loans at June 30, 2021, compared to 1.94% at December 31, 2020. Nonperforming loans were 0.64 percent of total loans at June 30, 2021, compared to 0.67 percent at December 31, 2020, and the allowance for loan losses covered 2.0 times and 2.7 times total nonperforming loans at June 30, 2021 and December 31, 2020, respectively. 
+
+Allowance for Credit Losses on Lending-Related Commitments 
+
+The allowance for credit losses on lending-related commitments estimates current expected credit losses on collective pools of letters of credit and unused commitments to extend credit based on reserve factors, determined in a manner similar to business loans, multiplied by a probability of draw estimate based on historical experience and credit risk, applied to commitment amounts. The allowance for credit losses on lending-related commitments totaled $31 million and $44 million at June 30, 2021 and December 31, 2020, respectively. 
+
+For additional information regarding the allowance for credit losses, refer to the "Critical Accounting Policies" section and pages F-57 through F-59 in Note 1 to the consolidated financial statements of the Corporation's 2020 Annual Report. 
+
+Nonperforming Assets 
+
+Nonperforming assets include loans on nonaccrual status, TDRs which have been renegotiated to less than the original contractual rates (reduced-rate loans) and foreclosed assets. TDRs include performing and nonperforming loans, with nonperforming TDRs on either nonaccrual or reduced-rate status. In accordance with the provisions of the CARES Act, the Corporation elected not to consider qualifying COVID-19-related modifications, primarily deferrals, as TDRs and does not designate such loans as past due or nonaccrual. For additional information regarding the Corporation's accounting policies for the CARES Act, refer to page F-56 in Note 1 to the consolidated financial statements of the Corporation's 2020 Annual Report. 
+
+The following table presents a summary of nonperforming assets and past due loans. 
+
+(dollar amounts in millions) June 30, 2021 December 31, 2020 Nonaccrual loans: Business loans: Commercial $ 221 $ 252 Real estate construction 4 1 Commercial mortgage 31 29 Lease financing &#8212; 1 Total nonaccrual business loans 256 283 Retail loans: Residential mortgage 41 47 Consumer: Home equity 14 17 Total nonaccrual retail loans 55 64 Total nonaccrual loans 311 347 Reduced-rate loans 8 3 Total nonperforming loans 319 350 Foreclosed property &#8212; 8 Other repossessed assets 1 1 Total nonperforming assets $ 320 $ 359 Nonperforming loans as a percentage of total loans 0.64 % 0.67 % Nonperforming assets as a percentage of total loans and foreclosed property 
+
+0.64 0.69 Allowance for credit losses as a multiple of total nonperforming loans 2.1x 2.8x Loans past due 90 days or more and still accruing $ 27 $ 45 
+
+Nonperforming assets decreased $39 million to $320 million at June 30, 2021, from $359 million at December 31, 2020. The decrease in nonperforming assets primarily reflected a $62 million decrease in nonperforming Energy loans, which are a component of commercial loans. 
+
+As of June 30, 2021, COVID-19-related payment deferrals, which consisted of residential mortgages, totaled $45 million, or 0.09 percent of total loans. Initial deferrals have expired and new requests have been nominal as customers continue to adjust to the new environment, resulting in a $42 million decrease in deferrals since first quarter 2021. Loans with COVID-19-related deferred payments on a third or later deferral, primarily residential mortgages, totaled $ 42 million at June 30, 2021 and would generally be considered TDRs if not for the provisions in the CARES Act. 
+
+The following table presents a summary of TDRs at June 30, 2021 and December 31, 2020. 
+
+(in millions) June 30, 2021 December 31, 2020 Nonperforming TDRs: Nonaccrual TDRs $ 24 $ 33 Reduced-rate TDRs 8 3 Total nonperforming TDRs 32 36 Performing TDRs (a) 40 41 Total TDRs $ 72 $ 77 
+
+(a) TDRs that do not include a reduction in the original contractual interest rate which are performing in accordance with their modified terms. 
+
+The following table presents a summary of changes in nonaccrual loans. 
+
+Three Months Ended (in millions) June 30, 2021 March 31, 2021 December 31, 2020 Balance at beginning of period $ 314 $ 347 $ 322 Loans transferred to nonaccrual (a) 62 61 88 Nonaccrual loan gross charge-offs (8) (16) (39) Loans transferred to accrual status (a) &#8212; (17) (3) Nonaccrual loans sold &#8212; (25) &#8212; Payments/other (b) (57) (36) (21) Balance at end of period $ 311 $ 314 $ 347 
+
+(a) Based on an analysis of nonaccrual loans with book balances greater than $2 million. 
+
+(b) Includes net changes related to nonaccrual loans with balances less than or equal to $2 million, payments on nonaccrual loans with book balances greater than $2 million and transfers of nonaccrual loans to foreclosed property. 
+
+There were seven borrowers with a balance greater than $2 million, totaling $62 million, transferred to nonaccrual status in second quarter 2021, compared to three borrowers totaling $61 million in first quarter 2021 and seven borrowers totaling $88 million in fourth quarter 2020. For further information about the composition of loans transferred to nonaccrual during the current period, refer to the nonaccrual information by industry category table below. 
+
+The following table presents the composition of nonaccrual loans by balance and the related number of borrowers at June 30, 2021 and December 31, 2020. 
+
+June 30, 2021 December 31, 2020 (dollar amounts in millions) Number of Borrowers Balance Number of Borrowers Balance Under $2 million 638 $ 79 682 $ 83 $2 million - $5 million 14 39 20 61 $5 million - $10 million 9 68 9 73 $10 million - $25 million 6 92 7 94 Greater than $25 million 1 33 1 36 Total 668 $ 311 719 $ 347 
+
+The following table presents a summary of nonaccrual loans at June 30, 2021 as well as loans transferred to nonaccrual and net loan charge-offs (recoveries) for the three months ended June 30, 2021, based on North American Industry Classification System (NAICS) categories. 
+
+June 30, 2021 Three Months Ended June 30, 2021 (dollar amounts in millions) Nonaccrual Loans Loans Transferred to Nonaccrual (a) Net Loan Charge-Offs (Recoveries) Industry Category Transportation &#38; Warehousing $ 57 18 % $ 24 38 % $ 1 (6) % Mining, Quarrying and Oil &#38; Gas Extraction 52 17 &#8212; &#8212; (12) 111 Manufacturing 50 16 26 42 1 (11) Residential Mortgage 41 13 12 20 &#8212; &#8212; Wholesale Trade 27 9 &#8212; &#8212; &#8212; &#8212; Services 17 5 &#8212; &#8212; (1) 6 Information &#38; Communication 14 4 &#8212; &#8212; &#8212; &#8212; Real Estate &#38; Home Builders 11 4 &#8212; &#8212; &#8212; &#8212; Arts, Entertainment &#38; Recreation 9 3 &#8212; &#8212; &#8212; &#8212; Retail Trade 3 1 &#8212; &#8212; 1 (7) Health Care &#38; Social Assistance 3 1 &#8212; &#8212; (2) 17 Contractors 2 1 &#8212; &#8212; 1 (10) Other (b) 25 8 &#8212; &#8212; &#8212; &#8212; Total $ 311 100 % $ 62 100 % $ (11) 100 % 
+
+(a) Based on an analysis of nonaccrual loans with book balances greater than $2 million. 
+
+(b) Consumer, excluding residential mortgage and certain personal purpose nonaccrual loans and net charge-offs, are included in the Other category. 
+
+Loans past due 90 days or more and still accruing interest generally represent loans that are well collateralized and in the process of collection. Loans past due 90 days or more decreased $18 million to $27 million at June 30, 2021, compared to $45 million at December 31, 2020. Loans past due 30-89 days decreased $209 million to $195 million at June 30, 2021, compared to $404 million at December 31, 2020. Loans past due 30 days or more and still accruing interest as a percentage of total loans were 0.44 percent and 0.86 percent at June 30, 2021 and December 31, 2020, respectively. An aging analysis of loans included in Note 4 to the consolidated financial statements provides further information about the balances comprising past due loans. 
+
+The following table presents a summary of total criticized loans. The Corporation's criticized list is consistent with the Special Mention, Substandard and Doubtful categories defined by regulatory authorities. Criticized loans with balances of $2 million or more on nonaccrual status or loans with balances of $1 million or more whose terms have been modified in a TDR are individually subjected to quarterly credit quality reviews, and the Corporation may establish specific allowances for such loans. A table of loans by credit quality indicator included in Note 4 to the consolidated financial statements provides further information about the balances comprising total criticized loans. 
+
+(dollar amounts in millions) June 30, 2021 March 31, 2021 December 31, 2020 Total criticized loans $ 2,176 $ 2,581 $ 2,947 As a percentage of total loans 4.3 % 5.1 % 5.6 % 
+
+The $771 million decrease in criticized loans during the six months ended June 30, 2021 included decreases of $373 million in Energy and $259 million in general Middle Market. 
+
+Concentrations of Credit Risk 
+
+Concentrations of credit risk may exist when a number of borrowers are engaged in similar activities, or activities in the same geographic region, and have similar economic characteristics that would cause them to be similarly impacted by changes in economic or other conditions. The Corporation has concentrations of credit risk with the commercial real estate and automotive industries. All other industry concentrations, as defined by management, individually represented less than 10 percent of total loans at June 30, 2021. 
+
+Commercial Real Estate Lending 
+
+The following table summarizes the Corporation's commercial real estate loan portfolio by loan category. 
+
+June 30, 2021 December 31, 2020 (in millions) Commercial Real Estate business line (a) Other (b) Total Commercial Real Estate business line (a) Other (b) Total Real estate construction loans $ 2,707 $ 465 $ 3,172 $ 3,657 $ 425 $ 4,082 Commercial mortgage loans 3,560 7,774 11,334 2,273 7,639 9,912 Total commercial real estate $ 6,267 $ 8,239 $ 14,506 $ 5,930 $ 8,064 $ 13,994 
+
+(a) Primarily loans to real estate developers. 
+
+(b) Primarily loans secured by owner-occupied real estate. 
+
+The Corporation limits risk inherent in its commercial real estate lending activities by monitoring borrowers directly involved in the commercial real estate markets and adhering to conservative policies on loan-to-value ratios for such loans. Commercial real estate loans, consisting of real estate construction and commercial mortgage loans, totaled $14.5 billion at June 30, 2021. Of the total, $6.3 billion, or 43 percent, were to borrowers in the Commercial Real Estate business line, which includes loans to real estate developers, an increase of $337 million compared to December 31, 2020. Commercial real estate loans in other business lines totaled $8.2 billion, or 57 percent, at June 30, 2021. These loans consisted primarily of owner-occupied commercial mortgages, which bear credit characteristics similar to non-commercial real estate business loans. Generally, loans previously reported as real estate construction are classified as commercial mortgage loans upon receipt of a certificate of occupancy. During the second quarter 2021, the Corporation performed an in-depth review of the status of these loans which resulted in $1.1 billion of loans previously reported as real estate construction to be classified as commercial mortgage loans as of June 30, 2021. 
+
+The real estate construction loan portfolio primarily contains loans made to long-tenured customers with satisfactory completion experience. Criticized real estate construction loans in the Commercial Real Estate business line totaled $30 million and $27 million at June 30, 2021 and December 31, 2020, respectively. In other business lines, criticized real estate construction loans totaled $40 million at June 30, 2021, compared to $20 million at December 31, 2020. There were no real estate construction loan charge-offs in either of the six-month periods ended June 30, 2021 and 2020. 
+
+Commercial mortgage loans are loans where the primary collateral is a lien on any real property and are primarily loans secured by owner-occupied real estate. Real property is generally considered primary collateral if the value of that 
+
+collateral represents more than 50 percent of the commitment at loan approval. Loans in the commercial mortgage portfolio generally mature within three to five years. Criticized commercial mortgage loans in the Commercial Real Estate business line totaled $69 million and $73 million at June 30, 2021 and December 31, 2020, respectively. In other business lines, $338 million and $440 million of commercial mortgage loans were criticized at June 30, 2021 and December 31, 2020, respectively. Commercial mortgage loan net charge-offs were zero for the six months ended June 30, 2021, compared to net recoveries of $2 million for the same period in 2020. 
+
+Automotive Lending - Dealer 
+
+The following table presents a summary of dealer loans. 
+
+June 30, 2021 December 31, 2020 (in millions) Loans Outstanding Percent of Total Loans Loans Outstanding Percent of Total Loans Dealer: Floor plan $ 891 $ 2,344 Other 3,295 3,348 Total dealer $ 4,186 8.3 % $ 5,692 10.9 % 
+
+Substantially all dealer loans are in the National Dealer Services business line and primarily include floor plan financing and other loans to automotive dealerships. Floor plan loans, included in commercial loans in the Consolidated Balance Sheets, totaled $891 million at June 30, 2021, a decrease of $1.5 billion compared to $2.3 billion at December 31, 2020 due to an imbalance in supply and demand impacted by a shortage in microchips used in automotive production. Other loans to automotive dealers in the National Dealer Services business line totaled $3.3 billion, including $2.0 billion of owner-occupied commercial real estate mortgage loans at both June 30, 2021 and December 31, 2020. 
+
+There were no nonaccrual dealer loans at both June 30, 2021 and December 31, 2020. Additionally, there were no net charge-offs of dealer loans in the six months ended June 30, 2021, compared to $1 million in the six months ended June 30, 2020. 
+
+Automotive Lending- Production 
+
+The following table presents a summary of loans to borrowers involved with automotive production. 
+
+June 30, 2021 December 31, 2020 (in millions) Loans Outstanding (a) Percent of Total Loans Loans Outstanding (a) Percent of Total Loans Production: Domestic $ 756 $ 791 Foreign 328 302 Total production $ 1,084 2.2 % $ 1,093 2.1 % 
+
+(a) Excludes PPP loans. 
+
+Loans to borrowers involved with automotive production, primarily Tier 1 and Tier 2 suppliers, totaled $1.1 billion at both June 30, 2021 and December 31, 2020. These borrowers have faced, and could face in the future, financial difficulties due to disruptions in auto production as well as their supply chains and logistics operations as a result of the COVID-19 pandemic. As such, management continued to monitor this portfolio and allocated reserves for this portfolio at June 30, 2021 were relatively stable. 
+
+Nonaccrual loans to borrowers involved with automotive production totaled $21 million at June 30, 2021 and $7 million at December 31, 2020. Criticized automotive production loans were 19 percent of the automotive production portfolio at June 30, 2021, compared to 24 percent at December 31, 2020. Automotive production loan net charge-offs totaled $1 million in the six months ended June 30, 2021, compared to $2 million in the six months ended June 30, 2020. 
+
+Residential Real Estate Lending 
+
+At June 30, 2021, residential real estate loans represented 7 percent of total loans. The following table summarizes the Corporation's residential mortgage and home equity loan portfolios by geographic market. 
+
+June 30, 2021 December 31, 2020 (dollar amounts in millions) Residential Mortgage Loans % of Total Home Equity Loans % of Total Residential Mortgage Loans % of Total Home Equity Loans % of Total Geographic market: Michigan $ 448 25 % $ 503 33 % $ 428 23 % $ 540 34 % California 905 50 654 42 927 51 655 41 Texas 247 14 331 21 254 14 328 21 Other Markets 207 11 60 4 221 12 65 4 Total $ 1,807 100 % $ 1,548 100 % $ 1,830 100 % $ 1,588 100 % 
+
+Residential real estate loans, which consist of traditional residential mortgages and home equity loans and lines of credit, totaled $3.4 billion at June 30, 2021. The residential real estate portfolio is principally located within the Corporation's primary geographic markets. Substantially all residential real estate loans past due 90 days or more are placed on nonaccrual status, and substantially all junior lien home equity loans that are current or less than 90 days past due are placed on nonaccrual status if full collection of the senior position is in doubt. At no later than 180 days past due, such loans are charged off to current appraised values less costs to sell. 
+
+Residential mortgages totaled $1.8 billion at June 30, 2021, and were primarily larger, variable-rate mortgages originated and retained for certain private banking relationship customers. Of the $1.8 billion of residential mortgage loans outstanding, $41 million were on nonaccrual status at June 30, 2021. The home equity portfolio totaled $1.5 billion at June 30, 2021, of which 95 percent was outstanding under primarily variable-rate, interest-only home equity lines of credit, 4 percent were in amortizing status and 1 percent were closed-end home equity loans. Of the $1.5 billion of home equity loans outstanding, $14 million were on nonaccrual status at June 30, 2021. A majority of the home equity portfolio was secured by junior liens at June 30, 2021. 
+
+Energy Lending 
+
+The Corporation has a portfolio of Energy loans that are included entirely in commercial loans in the Consolidated Balance Sheets. Customers in the Corporation's Energy business line (approximately 120 relationships) are engaged in three segments of the oil and gas business: exploration and production (E&#38;P), midstream and energy services. E&#38;P generally includes such activities as searching for potential oil and gas fields, drilling exploratory wells and operating active wells. Commitments to E&#38;P borrowers are generally subject to semi-annual borrowing base re-determinations based on a variety of factors including updated prices (reflecting market and competitive conditions), energy reserve levels and the impact of hedging. The midstream sector is generally involved in the transportation, storage and marketing of crude and/or refined oil and gas products. The Corporation's energy services customers provide products and services primarily to the E&#38;P segment. 
+
+The following table summarizes information about loans in the Corporation's Energy business line. 
+
+June 30, 2021 December 31, 2020 (dollar amounts in millions) Outstandings Nonaccrual Criticized (a) Outstandings Nonaccrual Criticized (a) Exploration and production (E&#38;P) $ 1,025 78 % $ 52 $ 184 $ 1,295 81 % $ 114 $ 527 Midstream 277 21 &#8212; 27 261 16 &#8212; 56 Services 18 1 &#8212; 12 44 3 &#8212; 13 Total Energy business line $ 1,320 100 % $ 52 $ 223 $ 1,600 100 % $ 114 $ 596 As a percentage of total Energy loans 
+
+4 % 17 % 7 % 37 % 
+
+(a) Includes nonaccrual loans. 
+
+Loans in the Energy business line totaled $1.3 billion, or 3 percent of total loans, at June 30, 2021, a decrease of $280 million compared to December 31, 2020. Total exposure, including unused commitments to extend credit and letters of credit, was $2.9 billion (a utilization rate of 45 percent) and $3.1 billion at June 30, 2021 and December 31, 2020, respectively. 
+
+Net credit-related Energy recoveries were $12 million and $13 million for the three- and six-month periods ended June 30, 2021, respectively, compared to net charge-offs of $45 million and $112 million for comparable periods in 2020. Nonaccrual Energy loans decreased $62 million to $52 million at June 30, 2021, compared to December 31, 2020. Criticized Energy loans decreased $373 million to $223 million, or 10 percent of total criticized loans, at June 30, 2021 compared to December 31, 2020. 
+
+Leveraged Loans 
+
+Certain loans in the Corporation's commercial portfolio are considered leveraged transactions. These loans are typically used for mergers, acquisitions, business recapitalizations, refinancing and equity buyouts. To help mitigate the risk associated with these loans, the Corporation focuses on middle market companies with highly capable management teams, strong sponsors and solid track records of financial performance. Industries prone to cyclical downturns and acquisitions with a high degree of integration risk are generally avoided. Other considerations include the sufficiency of collateral, the level of balance sheet leverage and the adequacy of financial covenants. During the underwriting process, cash flows are stress-tested to evaluate the borrowers' abilities to handle economic downturns and an increase in interest rates. 
+
+The FDIC defines higher-risk commercial and industrial (HR C&#38;I) loans for assessment purposes as loans generally with leverage of four times total debt to earnings before interest, taxes and depreciation (EBITDA) as well as three times senior debt to EBITDA, excluding certain collateralized loans. 
+
+The following table summarizes information about HR C&#38;I loans, which represented 5 percent of total loans at both June 30, 2021 and December 31, 2020. 
+
+(in millions) June 30, 2021 December 31, 2020 Outstandings $ 2,537 $ 2,441 Criticized 
+
+304 418 Net loan charge-offs 2021 2020 Three Months Ended June 30, $ 3 $ 5 Six Months Ended June 30, 4 13 
+
+Other Sectors Most at Risk due to Economic Stress Resulting from COVID-19 Impacts 
+
+As the economy recovers, aided by additional stimulus packages and positive momentum in the vaccine rollout, the Corporation has continued to monitor the lingering impacts of the pandemic on its customers. In addition to the energy, automotive production and leveraged loan portfolios, the Corporation considers the following sectors of its loan portfolio to be most vulnerable to financial risks from business disruptions caused by the pandemic spread mitigation efforts. For further discussion, see Item 1.A "Risk Factors" on page 13 of the Corporation's 2020 Annual Report. 
+
+June 30, 2021 
+
+Sector based on NAICS category (dollar amounts in millions) 
+
+Loans (a) Percent of Total Loans Percent Criticized (b) Percent Nonaccrual (c) Retail Commercial Real Estate (d) $ 876 1.7 % 4.6 % &#8212; % Hotels 564 1.1 11.0 1.6 Arts/Recreation 230 0.5 28.3 4.7 Retail Goods and Services 218 0.5 9.8 0.1 All other impacted sectors (e) 1,022 2.0 10.4 3.3 Total $ 2,910 5.8 % 10.1 % 1.8 % 
+
+(a) Excludes PPP loans. 
+
+(b) Sector criticized loans as a percentage of sector total loans. 
+
+(c) Sector nonaccrual loans as a percentage of sector total loans. 
+
+(d) Loans in the retail commercial real estate sector are primarily included in the Corporation's commercial real estate portfolio. 
+
+(e) Includes airlines, restaurants and bars, childcare, coffee shops, cruise lines, education, gasoline and convenience stores, religious organizations, senior living, freight, as well as travel arrangements. 
+
+Market and Liquidity Risk 
+
+Market risk represents the risk of loss due to adverse movement in prices, including interest rates, foreign exchange rates, commodity prices and equity prices. Liquidity risk represents the risk that the Corporation does not have sufficient access to funds to maintain its normal operations at all times, or does not have the ability to raise or borrow funds at a reasonable cost at all times. 
+
+The Asset and Liability Policy Committee (ALCO) of the Corporation establishes and monitors compliance with the policies and risk limits pertaining to market and liquidity risk management activities. ALCO meets regularly to discuss and review market and liquidity risk management strategies and consists of executive and senior management from various areas of the Corporation, including treasury, finance, economics, lending, deposit gathering and risk management. Corporate Treasury mitigates market and liquidity risk under the direction of ALCO through the actions it takes to manage the Corporation's market, liquidity and capital positions. 
+
+In addition to assessing liquidity risk on a consolidated basis, Corporate Treasury also monitors the parent company's liquidity and has established limits for the minimum number of months into the future in which the parent company can meet existing and forecasted obligations without the support of additional dividends from subsidiaries. ALCO's liquidity policy requires the parent company to maintain sufficient liquidity to meet expected capital and debt obligations with a target of 24 months but no less than 18 months. 
+
+Corporate Treasury and the Enterprise Risk Division support ALCO in measuring, monitoring and managing interest rate risk as well as all other market risks. Key activities encompass: (i) providing information and analyses of the Corporation's balance sheet structure and measurement of interest rate and all other market risks; (ii) monitoring and reporting of the Corporation's positions relative to established policy limits and guidelines; (iii) developing and presenting analyses and strategies to adjust risk positions; (iv) reviewing and presenting policies and authorizations for approval; and (v) monitoring of industry trends and analytical tools to be used in the management of interest rate and all other market and liquidity risks. 
+
+Interest Rate Risk 
+
+Net interest income is the primary source of revenue for the Corporation. Interest rate risk arises in the normal course of business due to differences in the repricing and cash flow characteristics of assets and liabilities, primarily through the Corporation's core business activities of extending loans and acquiring deposits. The Corporation's balance sheet is predominantly characterized by floating-rate loans funded by core deposits. Including the impact of interest rate swaps converting floating-rate loans to fixed, the Corporation's loan composition at June 30, 2021 was 57 percent 30-day LIBOR, 5 percent other LIBOR (primarily 60-and 90-day), 12 percent prime and 26 percent fixed rate. Additionally, 29 percent of loans had non-zero interest rate floors protecting against future rate declines. The composition of the loan portfolio creates sensitivity to interest rate movements due to the imbalance between the faster repricing of the floating-rate loan portfolio versus deposit products. In addition, the growth and/or contraction in the Corporation's loans and deposits may lead to changes in sensitivity to interest rate movements in the absence of mitigating actions. Examples of such actions are purchasing fixed-rate investment securities, which provide liquidity to the balance sheet and act to mitigate the inherent interest sensitivity, as well as hedging with interest rate swaps and options. Other mitigating factors include interest rate floors on a portion of the loan portfolio. The Corporation actively manages its exposure to interest rate risk with the principal objective of optimizing net interest income and the economic value of equity while operating within acceptable limits established for interest rate risk and maintaining adequate levels of funding and liquidity. 
+
+Since no single measurement system satisfies all management objectives, a combination of techniques is used to manage interest rate risk. These techniques examine the impact of interest rate risk on net interest income and the economic value of equity under a variety of alternative scenarios, including changes in the level, slope and shape of the yield curve utilizing multiple simulation analyses. Simulation analyses produce only estimates of net interest income as the assumptions used are inherently uncertain. Actual results may differ from simulated results due to many factors, including, but not limited to, the timing, magnitude and frequency of changes in interest rates, market conditions, regulatory impacts and management strategies. 
+
+Sensitivity of Net Interest Income to Changes in Interest Rates 
+
+The analysis of the impact of changes in interest rates on net interest income under various interest rate scenarios is management's principal risk management technique. Management models a base-case net interest income under an unchanged interest rate environment. Existing derivative instruments entered into for risk management purposes as of the balance sheet dates are included in the analysis, but no additional hedging is forecasted. At June 30, 2021, these derivative instruments comprise interest rate swaps that convert $2.7 billion of fixed-rate medium- and long-term debt to variable rates through fair value hedges and convert $5.3 billion of variable-rate loans to fixed rates through cash flow hedges. Additionally, included in this analysis are $14.5 billion of loans that were subject to an average interest rate floor of 0.8 percent at June 30, 2021. This base-case net interest income is then compared against interest rate scenarios in which short-term rates rise or decline 100 basis points (with a floor of zero percent) in a linear, non-parallel fashion from the base case over 12 months, resulting in an average change of 50 basis points over the period while long-term rates increase or decrease to a lesser degree. 
+
+Each scenario includes assumptions such as loan growth, investment security prepayment levels, depositor behavior, yield curve changes, loan and deposit pricing, and overall balance sheet mix and growth which are in line with historical patterns. However, in this low rate environment, depositors have maintained a higher level of liquidity and their historical behavior may be less indicative of future trends. As a result, the rising rate scenario reflects a greater decrease in deposits than we have experienced historically as rates rise. Changes in actual economic activity may result in a materially different interest rate environment as well as a balance sheet structure that is different from the changes management included in its simulation analysis. 
+
+The table below, as of June 30, 2021 and December 31, 2020, displays the estimated impact on net interest income during the next 12 months by relating the base case scenario results to those from the rising and declining rate scenarios described above. 
+
+Estimated Annual Change June 30, 2021 December 31, 2020 (dollar amounts in millions) Amount % Amount % Change in Interest Rates: Change in Interest Rates: Rising 100 basis points $ 173 10 % Rising 100 basis points 
+
+$ 161 9 % Declining to zero percent (38) (2) Declining to zero percent 
+
+(34) (2) 
+
+Sensitivity to declining interest rates remained steady from December 31, 2020 to June 30, 2021 due to increased securities portfolio balances and growth of loan floors, partially offset by higher non-maturity deposit balances as well as limited remaining downward movement in rates before hitting zero percent floors. Sensitivity to rising interest rates increased slightly due to growth of non-maturity deposits, partially offset by an increase in investment securities. 
+
+Sensitivity of Economic Value of Equity to Changes in Interest Rates 
+
+In addition to the simulation analysis on net interest income, an economic value of equity analysis provides an alternative view of the interest rate risk position. The economic value of equity is the difference between the estimate of the economic value of the Corporation's financial assets, liabilities and off-balance sheet instruments, derived through discounting cash flows based on actual rates at the end of the period, and the estimated economic value after applying the estimated impact of rate movements. The Corporation primarily monitors the percentage change on the base-case economic value of equity. The economic value of equity analysis is based on an immediate parallel 100 basis point shock with a floor of zero percent. 
+
+The table below, as of June 30, 2021 and December 31, 2020, displays the estimated impact on the economic value of equity from the interest rate scenario described above. 
+
+June 30, 2021 December 31, 2020 (dollar amounts in millions) Amount % Amount % Change in Interest Rates: Change in Interest Rates: Rising 100 basis points $ 1,415 10 % Rising 100 basis points $ 1,793 18 % Declining to zero percent (418) (3) Declining to zero percent (551) (6) 
+
+The sensitivity of the economic value of equity to rising rates decreased from December 31, 2020 to June 30, 2021 due primarily to duration extension and balance growth in the securities portfolio. Sensitivity to declining rates decreased due to changes in the securities portfolio and is limited by the assumption of a zero percent rate floor. 
+
+LIBOR Transition 
+
+On July 27, 2017, the United Kingdom&#8217;s Financial Conduct Authority (FCA), which regulates LIBOR, publicly announced that it intends to stop persuading or compelling banks to submit LIBOR rates after 2021. Effective March 2021, the FCA confirmed that certain LIBOR tenors will no longer be supported after December 31, 2021 and that the remaining tenors, including those most commonly used by the Corporation, will cease to be supported after June 30, 2023. The Corporation has substantial exposure to LIBOR-based products, including loans, securities, derivatives and hedges, and is preparing for a transition from LIBOR toward alternative rates. As of July 1, 2021, the Corporation was operationally ready to issue new Secured Overnight Financing Rate (SOFR)-based cash and derivative products. The Corporation is prepared for the cessation of the LIBOR tenors as announced by the FCA and will cease originating LIBOR-based products in the fourth quarter of 2021. Communications and learning activities to support customers and colleagues are ongoing. The Corporation&#8217;s enterprise transition milestones are closely aligned with recommendations from the Alternative Reference Rates Committee for both best practices and recommended objectives. The Corporation will continue to align with industry and regulatory guidelines regarding the cessation of LIBOR as well as monitor market developments for transitioning to alternative reference rates. For a discussion of the various risks facing the Corporation in relation to the transition away from LIBOR, see the market risk discussion within &#8220;Item 1A. Risk Factors&#8221; beginning on page 13 of the Corporation's Annual Report on Form 10-K for the year ended December 31, 2020. 
+
+Wholesale Funding 
+
+The Corporation may access the purchased funds market when necessary, which includes a variety of funding sources. Capacity for incremental purchased funds at June 30, 2021 included short-term FHLB advances, the ability to purchase federal funds, sell securities under agreements to repurchase as well as issue deposits through brokers. Purchased funds decreased to $23 million at June 30, 2021 compared to $66 million at December 31, 2020. 
+
+At June 30, 2021, the Bank had pledged loans totaling $19.8 billion which provided up to $15.8 billion of available collateralized borrowing with the Federal Reserve Bank (FRB). 
+
+The Bank is a member of the FHLB of Dallas, Texas, which provides short- and long-term funding to its members through advances collateralized by real estate-related assets. Actual borrowing capacity is contingent on the amount of collateral available to be pledged to the FHLB. At June 30, 2021, $ 18.5 billion of real estate-related loans and $ 3.2 billion of investment securities were pledged to the FHLB as collateral for potential future borrowings. The Corporation had capacity for potential future borrowings of approximately $ 11.9 billion. 
+
+In April 2021, the Bank terminated a $15.0 billion note program, under which the Bank had the ability to issue up to $13.5 billion of debt at the time of termination. Outstanding notes issued under the program were unaffected by the termination. 
+
+The Corporation maintains a shelf registration statement with the Securities and Exchange Commission from which it may issue debt and/or equity securities. 
+
+The ability of the Corporation and the Bank to raise funds at competitive rates may be impacted by rating agencies' views of the credit quality, liquidity, capital and earnings of the Corporation and the Bank. As of June 30, 2021, the three major rating agencies had assigned the ratings below to long-term senior unsecured obligations of the Corporation and the Bank. A security rating is not a recommendation to buy, sell, or hold securities and may be subject to revision or withdrawal at any time by the assigning rating agency. Each rating should be evaluated independently of any other rating. 
+
+Comerica Incorporated Comerica Bank June 30, 2021 Rating Outlook Rating Outlook Moody&#8217;s Investors Service A3 Stable A3 Stable Fitch Ratings A- Stable A- Stable Standard and Poor&#8217;s BBB+ Stable A- Stable 
+
+The Corporation satisfies liquidity needs with either liquid assets or various funding sources. Liquid assets totaled $28.5 billion and $25.9 billion at June 30, 2021 and December 31, 2020, respectively. Liquid assets include cash and due from banks, federal funds sold, interest-bearing deposits with banks, other short-term investments and unencumbered investment securities. 
+
+The Corporation performs monthly liquidity stress testing to evaluate its ability to meet funding needs in hypothetical stressed environments. Such environments cover a series of broad events, distinguished in terms of duration and severity. The evaluation as of June 30, 2021 projected sufficient sources of liquidity were available under each series of events. 
+
+Total liquidity sources, comprised of liquid assets and remaining borrowing capacity with the FRB and the FHLB, totaled $56.2 billion at June 30, 2021. On a stand-alone basis, the Corporation had liquid assets of $1.0 billion on an unconsolidated basis at June 30, 2021. 
+
+CRITICAL ACCOUNTING POLICIES 
+
+The Corporation&#8217;s consolidated financial statements are prepared based on the application of accounting policies, the most significant of which are described in Note 1 to the consolidated financial statements included in the Corporation's 2020 Annual Report. These policies require numerous estimates and strategic or economic assumptions, which may prove inaccurate or subject to variations. Changes in underlying factors, assumptions or estimates could have a material impact on the Corporation&#8217;s future financial condition and results of operations. At December 31, 2020, the most critical of these significant accounting policies were the policies related to the allowance for credit losses, fair value measurement, goodwill, pension plan accounting and income taxes. These policies were reviewed with the Audit Committee of the Corporation&#8217;s Board of Directors and are discussed more fully on pages F-39 through F-43 in the Corporation's 2020 Annual Report. As of the date of this report, there have been no significant changes to the Corporation's critical accounting policies or estimates, except for the MRVA methodology change described in Results of Operations and Note 1 to the consolidated financial statements. 
+
+SUPPLEMENTAL FINANCIAL DATA 
+
+The Corporation believes non-GAAP measures are meaningful because they reflect adjustments commonly made by management, investors, regulators and analysts to evaluate the adequacy of common equity and our performance trends. Tangible common equity is used by the Corporation to measure the quality of capital and the return relative to balance sheet risk. 
+
+Common equity tier 1 capital ratio removes preferred stock from the Tier 1 capital ratio as defined by and calculated in conformity with bank regulations. The tangible common equity ratio removes the effect of intangible assets from capital and total assets. Tangible common equity per share of common stock removes the effect of intangible assets from common shareholders' equity per share of common stock. 
+
+The following table provides a reconciliation of non-GAAP financial measures and regulatory ratios used in this financial review with financial measures defined by GAAP. 
+
+(dollar amounts in millions) June 30, 2021 December 31, 2020 Common Equity Tier 1 Capital (a): Tier 1 capital $ 7,398 $ 7,313 Less: Fixed-rate reset non-cumulative perpetual preferred stock 394 &#160; 394 Common equity tier 1 capital $ 7,004 $ 6,919 Risk-weighted assets $ 67,410 $ 66,931 Tier 1 capital ratio 10.97 % 10.93 % Common equity tier 1 capital ratio 10.39 10.34 Tangible Common Equity Ratio: Total shareholders' equity $ 7,931 $ 8,050 Less: Fixed-rate reset non-cumulative perpetual preferred stock 394 394 Common shareholders' equity $ 7,537 $ 7,656 Less: Goodwill 635 635 Other intangible assets (b) 14 1 Tangible common equity $ 6,888 $ 7,020 Total assets $ 88,355 $ 88,129 Less: Goodwill 635 635 Other intangible assets (b) 14 1 Tangible assets $ 87,706 $ 87,493 Common equity ratio 8.53 % 8.69 % Tangible common equity ratio 7.85 8.02 Tangible Common Equity per Share of Common Stock: Common shareholders' equity $ 7,537 $ 7,656 Tangible common equity 6,888 7,020 Shares of common stock outstanding (in millions) 134 139 Common shareholders' equity per share of common stock $ 56.28 $ 55.01 Tangible common equity per share of common stock 51.43 50.43 
+
+(a) June 30, 2021 ratios are estimated. Ratios reflect deferral of CECL model impact as calculated per regulatory guidance. The estimated deferred amount was zero at June 30, 2021 and $72 million at December 31, 2020. 
+
+(b) In first quarter 2021, the Corporation acquired an intangible asset of $13 million to be amortized over a period of 10 years. 
+

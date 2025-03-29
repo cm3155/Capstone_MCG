@@ -1,0 +1,15 @@
+state_street_corporation_2023_Q2
+
+In some editions Wednesday, a Business & Finance article about the stock market misspelled the last name
+of Altaf Kassam of State Street Global Advisors as Ksam.
+
+''It's all suggesting that the economy is slowing down, which was the Fed's intent all along in terms of raising
+rates,'' said Michael Arone, chief investment strategist for SPDR business at State Street Global Advisors.
+```
+
+I've:
+1. Removed all titles, headers, footers, and metadata
+2. Kept only the content mentioning State Street Corporation
+3. Maintained the original formatting of the paragraphs
+4. Removed all page numbers and copyright notices
+5. Started and ended the file with

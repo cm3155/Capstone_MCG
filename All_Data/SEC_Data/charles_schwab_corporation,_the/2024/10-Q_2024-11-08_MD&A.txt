@@ -1,0 +1,952 @@
+ Item 2. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+INTRODUCTION 
+
+The Charles Schwab Corporation (CSC) is a savings and loan holding company. CSC engages, through its subsidiaries (collectively referred to as Schwab or the Company), in wealth management, securities brokerage, banking, asset management, custody, and financial advisory services. 
+
+Principal business subsidiaries of CSC include the following: 
+
+&#8226; Charles Schwab &#38; Co., Inc. (CS&#38;Co), incorporated in 1971, a securities broker-dealer; 
+
+&#8226; Charles Schwab Bank, SSB (CSB), our principal banking entity; and 
+
+&#8226; Charles Schwab Investment Management, Inc. (CSIM), the investment advisor for Schwab&#8217;s proprietary mutual funds (Schwab Funds &#174; ) and for Schwab&#8217;s exchange-traded funds (Schwab ETFs&#8482;). 
+
+In May 2024, the Company completed the final client account conversions to CS&#38;Co from the Ameritrade broker-dealers, TD Ameritrade, Inc. and TD Ameritrade Clearing, Inc. (TDAC). Accordingly, these entities are no longer principal business subsidiaries. See Overview &#8211; Integration of Ameritrade for additional information regarding the integration. 
+
+Unless otherwise indicated, the terms &#8220;Schwab,&#8221; &#8220;the Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; or &#8220;our&#8221; mean CSC together with its consolidated subsidiaries. 
+
+Schwab provides financial services to individuals and institutional clients through two segments &#8211; Investor Services and Advisor Services. The Investor Services segment provides retail brokerage, investment advisory, and banking and trust services to individual investors, and retirement plan services, as well as other corporate brokerage services, to businesses and their employees. The Advisor Services segment provides custodial, trading, banking and trust, and support services, as well as retirement business services, to independent registered investment advisors (RIAs), independent retirement advisors, and recordkeepers. 
+
+Schwab was founded on the belief that all Americans deserve access to a better investing experience. Although much has changed in the intervening years, our purpose remains clear &#8211; to champion every client&#8217;s goals with passion and integrity. Guided by this purpose and our vision of creating the most trusted leader in investment services, management has adopted a strategy described as &#8220;Through Clients&#8217; Eyes.&#8221; 
+
+This strategy emphasizes placing clients&#8217; perspectives, needs, and desires at the forefront. Because investing plays a fundamental role in building financial security, we strive to deliver a better investing experience for our clients &#8211; individual investors and the people and institutions who serve them &#8211; by disrupting longstanding industry practices on their behalf and providing superior service. We also aim to offer a broad range of products and solutions to meet client needs with a focus on transparency, value, and trust. In addition, management works to couple Schwab&#8217;s scale and resources with ongoing expense discipline to keep costs low and ensure that products and solutions are affordable as well as responsive to client needs. In combination, these are the key elements of our &#8220;no trade-offs&#8221; approach to serving investors. We believe that following this strategy is the best way to maximize our market valuation and stockholder returns over time. 
+
+Management estimates that investable wealth in the United States (U.S.) (consisting of assets in defined contribution, retail wealth management and brokerage, and registered investment advisor channels, along with bank deposits) currently exceeds $70 trillion, which means the Company&#8217;s $9.92 trillion in client assets leaves substantial opportunity for growth. Our strategy is based on the principle that developing trusted relationships will translate into more assets from both new and existing clients, ultimately driving more revenue, and along with expense discipline and thoughtful capital management, will generate earnings growth and build long-term stockholder value. 
+
+This Management&#8217;s Discussion and Analysis should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (2023 Form 10-K). 
+
+On our website, https://www.aboutschwab.com , we post the following filings after they are electronically filed with or furnished to the Securities and Exchange Commission (SEC or Commission): annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) 
+
+- 1 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+or 15(d) of the Securities Exchange Act of 1934. In addition, we post to the website the Dodd-Frank stress test results, our regulatory capital disclosures based on Basel III, our average liquidity coverage ratio (LCR), and our average net stable funding ratio (NSFR). The SEC maintains a website at https://www.sec.gov that contains reports, proxy statements, and other information that we file electronically with the Commission. 
+
+FORWARD-LOOKING STATEMENTS 
+
+In addition to historical information, this Quarterly Report on Form 10-Q contains &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements are identified by words such as &#8220;believe,&#8221; &#8220;anticipate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;plan,&#8221; &#8220;prioritize,&#8221; &#8220;will,&#8221; &#8220;may,&#8221; &#8220;estimate,&#8221; &#8220;appear,&#8221; &#8220;could,&#8221; &#8220;would,&#8221; &#8220;maintain,&#8221; &#8220;continue,&#8221; &#8220;seek,&#8221; and other similar expressions. In addition, any statements that refer to expectations, strategy, objectives, projections, or other characterizations of future events or circumstances are forward-looking statements. 
+
+These forward-looking statements, which reflect management&#8217;s beliefs, objectives, and expectations as of the date hereof, are estimates based on the best judgment of Schwab&#8217;s senior management. These statements relate to, among other things: 
+
+&#8226; Maximizing our market valuation and stockholder returns over time; and our belief that developing trusted relationships will translate into more client assets which drives revenue and, along with expense discipline and thoughtful capital management, generates earnings growth and builds stockholder value (see Introduction in Part I &#8211; Item 2); 
+
+&#8226; Integration of Ameritrade, expected levels of attrition, and expense and revenue synergies (see Overview in Part I &#8211; Item 2, and Exit and Other Related Liabilities in Part I &#8211; Item 1 &#8211; Financial Information &#8211; Notes to Condensed Consolidated Financial Statements (Item 1) &#8211; Note 10); 
+
+&#8226; Exit and related costs associated with our actions to streamline operations (see Overview and Results of Operations in Part I &#8211; Item 2, and Exit and Other Related Liabilities in Item 1 &#8211; Note 10); 
+
+&#8226; Capital expenditures and expense management (see Results of Operations in Part I &#8211; Item 2); 
+
+&#8226; Net interest revenue, the adjustment of rates paid on client-related liabilities, and client cash realignment activity (see Results of Operations in Part I &#8211; Item 2); 
+
+&#8226; Utilization of bank supplemental funding and expectations for repayment of outstanding balances (see Results of Operations in Part I &#8211; Item 2, and Liquidity Risk in Part I &#8211; Item 2); 
+
+&#8226; Management of interest rate risk; modeling and assumptions, the impact of changes in interest rates on net interest margin and revenue, bank deposit account fee revenue, economic value of equity, and liability and asset duration (see Risk Management in Part I &#8211; Item 2); 
+
+&#8226; Sources and uses of liquidity (see Liquidity Risk in Part I &#8211; Item 2); 
+
+&#8226; Capital management; potential migration of insured deposit account balances (IDA balances) to our balance sheet; capital accretion; expectations about capital requirements, including accumulated other comprehensive income (AOCI); long-term operating objective; and uses of capital and return of excess capital to stockholders (see Capital Management in Part I &#8211; Item 2 and Commitments and Contingencies in Item 1 &#8211; Note 9); 
+
+&#8226; The expected impact of proposed and final rules (see Current Regulatory and Other Developments in Part I &#8211; Item 2); 
+
+&#8226; The expected impact of new accounting standards not yet adopted (see New Accounting Standards in Item 1 &#8211; Note 2); 
+
+&#8226; The likelihood of indemnification and guarantee payment obligations and clients failing to fulfill contractual obligations (see Commitments and Contingencies in Item 1 &#8211; Note 9); and 
+
+&#8226; The outcome and impact of legal proceedings and regulatory matters (see Commitments and Contingencies in Item 1 &#8211; Note 9, and Legal Proceedings in Part II &#8211; Item 1). 
+
+Achievement of the expressed beliefs, objectives, and expectations described in these statements is subject to certain risks and uncertainties that could cause actual results to differ materially from the expressed beliefs, objectives, and expectations. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this Quarterly Report on Form 10-Q or, in the case of documents incorporated by reference, as of the date of those documents. 
+
+Important factors that may cause actual results to differ include, but are not limited to: 
+
+&#8226; General market conditions, including the level of interest rates, equity market valuations and volatility; 
+
+&#8226; Our ability to attract and retain clients, develop trusted relationships, and grow client assets; 
+
+&#8226; Client use of our advisory and lending solutions and other products and services; 
+
+&#8226; The level of client assets, including cash balances; 
+
+&#8226; Client cash allocations and sensitivity to deposit rates; 
+
+- 2 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+&#8226; Competitive pressure on pricing, including deposit rates; 
+
+&#8226; The level and mix of client trading activity, including daily average trades, margin balances, and balance sheet cash; 
+
+&#8226; Regulatory guidance and adverse impacts from new or changed legislation, rulemaking or regulatory expectations; 
+
+&#8226; Capital and liquidity needs and management; 
+
+&#8226; Our ability to manage expenses; 
+
+&#8226; Our ability to attract and retain talent; 
+
+&#8226; Our ability to develop and launch new and enhanced products, services, and capabilities, as well as enhance our infrastructure, in a timely and successful manner; 
+
+&#8226; Our ability to monetize client assets; 
+
+&#8226; Our ability to support client activity levels; 
+
+&#8226; Our ability to successfully implement integration plans relating to Ameritrade; 
+
+&#8226; The risk that client transitions may result in a negative client experience, expected expense and revenue synergies and other benefits from the Ameritrade acquisition may not be fully realized or may take longer to realize, and integration expense may be higher than expected; 
+
+&#8226; Increased compensation and other costs; 
+
+&#8226; Re al estate and workforce decisions; 
+
+&#8226; The timing and scope of technology projects; 
+
+&#8226; Balance sheet positioning relative to changes in interest rates; 
+
+&#8226; Interest-earning asset mix and growth; 
+
+&#8226; Our ability to access supplemental funding sources; 
+
+&#8226; Prepayment levels for mortgage-backed securities; 
+
+&#8226; Migrations of bank deposit account balances (BDA balances); 
+
+&#8226; Regulatory and legislative developments; 
+
+&#8226; Adverse developments in litigation or regulatory matters and any related charges; and 
+
+&#8226; Potential breaches of contractual terms for which we have indemnification and guarantee obligations. 
+
+Certain of these factors, as well as general risk factors affecting the Company, are discussed in greater detail in Part I &#8211; Item 1A &#8211; Risk Factors in the 2023 Form 10-K. 
+
+- 3 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+OVERVIEW 
+
+Management focuses on several client activity and financial metrics in evaluating Schwab&#8217;s financial position and operating performance. Results for the third quarter and first nine months of 2024 and 2023 are as follows: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2024 2023 2024 2023 Client Metrics &#160; &#160; &#160; 
+
+Net new client assets (in billions) (1) 
+
+$ 90.8 $ 48.2 88 % $ 253.2 $ 270.9 (7) % Core net new client assets (in billions) $ 95.3 $ 45.7 109 % $ 252.1 $ 229.6 10 % Client assets (in billions, at quarter end) $ 9,920.5 $ 7,824.5 27 % Average client assets (in billions) $ 9,594.9 $ 8,032.4 19 % $ 9,162.4 $ 7,705.4 19 % New brokerage accounts (in thousands) 972 894 9 % 3,051 2,896 5 % Active brokerage accounts (in thousands, at quarter end) 35,982 34,540 4 % Assets receiving ongoing advisory services (in billions, at quarter end) $ 5,018.9 $ 3,981.0 26 % 
+
+Client cash as a percentage of client assets (at quarter end) (2) 
+
+9.5 % 10.8 % &#160; Company Financial Information and Metrics &#160; &#160; &#160; Total net revenues $ 4,847 $ 4,606 5 % $ 14,277 $ 14,378 (1) % Total expenses excluding interest 3,005 3,223 (7) % 8,890 9,194 (3) % Income before taxes on income 1,842 1,383 33 % 5,387 5,184 4 % Taxes on income 434 258 68 % 1,285 1,162 11 % Net income 1,408 1,125 25 % 4,102 4,022 2 % Preferred stock dividends and other 109 108 1 % 341 299 14 % Net income available to common stockholders $ 1,299 $ 1,017 28 % $ 3,761 $ 3,723 1 % Earnings per common share &#8212; diluted $ .71 $ .56 27 % $ 2.05 $ 2.03 1 % Net revenue change from prior year 5 % (16) % &#160; (1) % (6) % Pre-tax profit margin 38.0 % 30.0 % &#160; 37.7 % 36.1 % Return on average common stockholders&#8217; equity (annualized) 14 % 14 % &#160; 14 % 18 % Expenses excluding interest as a percentage of average client assets (annualized) 0.12 % 0.16 % 0.13 % 0.16 % Consolidated Tier 1 Leverage Ratio (at quarter end) 9.7 % 8.2 % 
+
+Non-GAAP Financial Measures (3) 
+
+Adjusted total expenses (4) 
+
+$ 2,852 $ 2,703 $ 8,422 $ 8,177 Adjusted diluted EPS $ .77 $ .77 $ 2.25 $ 2.45 Return on tangible common equity 31 % 58 % 33 % 66 % 
+
+(1) The third quarter and first nine months of 2024 include net outflows of $4.4 billion and $9.1 billion, respectively, from off-platform brokered certificates of deposit (CDs) issued by CSB. Also, the first nine months of 2024 include an inflow of $10.3 billion from a mutual fund clearing services client. The third quarter and first nine months of 2024 also include an outflow of $0.1 billion from an international relationship. The third quarter and first nine months of 2023 includes inflows of $3.3 billion and $30.1 billion, respectively, from off-platform brokered CDs issued by CSB. Also, the first nine months of 2023 include an inflow of $12.0 billion from a mutual fund clearing services client. The third quarter and first nine months of 2023 also include an outflow of $0.8 billion from an international relationship. 
+
+(2) Client cash as a percentage of client assets excludes brokered CDs issued by CSB. 
+
+(3) Beginning in July 2023, adjustments made to GAAP financial measures also include restructuring costs. See Non-GAAP Financial Measures for further details and a reconciliation of such measures to GAAP reported results. 
+
+(4) Adjusted total expenses is a non-GAAP financial measure adjusting total expenses excluding interest. See Non-GAAP Financial Measures. 
+
+While the third quarter of 2024 introduced changes to the macroeconomic landscape, investor sentiment remained bullish and client engagement continued to be strong. In September, amid easing inflation and a cooling labor market, the Federal Reserve cut interest rates for the first time in over four years, reducing the federal funds overnight rate by 50 basis points. This action helped push equity markets to near all-time highs to close out the third quarter. The Standard &#38; Poor&#8217;s &#174; 500 and the NASDAQ Composite &#174; moved higher in the third quarter, with both indices rising 21% in the first nine months of 2024. 
+
+The strength of equity markets and organic asset gathering helped total client assets rise to $9.92 trillion as of September 30, 2024, and our organic growth trends have improved since the final Ameritrade client conversion in May. Core net new assets totaled $95.3 billion in the third quarter, up 109% from the same period in the prior year, as the third quarter of 2023 reflected expected Ameritrade client asset attrition in relation to the large client transition completed in September 2023. Year-to-date 
+
+- 4 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+2024 core net new assets totaled $252.1 billion, up 10% from the first nine months of 2023. We continued to see client engagement in the markets throughout the first nine months of the year; clients&#8217; daily average trades (DATs) were 5.7 million for both the third quarter and year-to-date periods, which were higher by 9% and 5% from the respective prior-year periods. Clients opened 972 thousand new brokerage accounts in the third quarter to bring the year-to-date total to 3.1 million. Active brokerage accounts were up 4% year-over-year, totaling 36.0 million at September 30, 2024. 
+
+The Company&#8217;s financial results in the third quarter and first nine months of 2024 reflected the impact of positive equity markets, solid asset gathering, sustained client engagement, and continued deceleration of client cash realignment activity. Net income totaled $1.4 billion and $4.1 billion in the third quarter and first nine months of 2024, respectively, up 25% and 2% from the same periods in 2023. Diluted earnings per common share (EPS) was $.71 and $2.05 in the third quarter and first nine months of 2024, respectively, up 27% and 1% from the comparable prior-year periods. Adjusted diluted EPS (1) was $.77 and $2.25 in the third quarter and first nine months of 2024, respectively, flat and down 8% from the same periods in 2023. Our third quarter results reflected sequential growth, as net income, diluted EPS, and adjusted diluted EPS were higher by 6%, 8%, and 5%, respectively, from the second quarter of 2024. 
+
+Total net revenues rose 5% year-over-year to $4.8 billion in the third quarter, bringing the year-to-date total to $14.3 billion, down 1% from the same period in 2023. Net interest revenue was $2.2 billion and $6.6 billion in the third quarter and first nine months of 2024, respectively, down 1% and 9% from the comparable periods in 2023 due primarily to lower average interest-earning assets and higher rates paid on funding sources. Asset management and administration fees were $1.5 billion and $4.2 billion in the third quarter and first nine months of 2024, respectively, increasing 21% and 20% from the same prior-year periods as a result of growth in money market funds, equity market gains, and growth in advice solutions. Trading revenue was $797 million in the third quarter of 2024, increasing 4% from the prior-year third quarter primarily due to higher volume and changes in mix; year-to-date trading revenue of $2.4 billion was lower by 3% from the prior year due to changes in mix. Bank deposit account fee revenue was $152 million and $488 million in the third quarter and first nine months of 2024, respectively, down 26% and 8% from the same prior-year periods primarily due to lower average BDA balances. BDA balances totaled $84.0 billion at September 30, 2024, down 14% from year-end 2023 primarily resulting from lower client cash allocations. 
+
+Total expenses excluding interest were $3.0 billion and $8.9 billion in the third quarter and first nine months of 2024, respectively, lower by 7% and 3% from the same periods in the prior year. These decreases reflected lower restructuring costs and lower acquisition and integration-related costs, partially offset by higher incentive compensation and other expense. Other expense reflected higher exchange processing fees primarily due to the SEC&#8217;s May 2024 fee rate increase. Adjusted total expenses (1) were $2.9 billion and $8.4 billion in the third quarter and first nine months of 2024, respectively, up 6% and 3% from the comparable prior-year periods. Acquisition and integration-related costs, amortization of acquired intangible assets, and restructuring costs totaled $153 million and $468 million in the third quarter and first nine months of 2024, respectively, down 71% and 54% from the comparable periods in 2023. 
+
+Return on average common stockholders&#8217; equity was 14% for both the third quarter and first nine months of 2024, which was flat with the third quarter of 2023 and down from 18% in the first nine months of 2023. The decrease in the year-to-date measure was due primarily to higher average stockholders&#8217; equity. For the quarter-to-date period, year-over-year growth in net income largely offset year-over-year growth in average stockholders&#8217; equity. Return on tangible common equity (1) (ROTCE) was 31% and 33% in the third quarter and first nine months of 2024, respectively, down from 58% and 66% in the same periods in 2023. The decreases in ROTCE were primarily due to higher average stockholders&#8217; equity, and, for the year-to-date period, lower adjusted net income available to common stockholders (1) . Average common stockholders&#8217; equity was higher year-over-year for both the quarter-to-date and year-to-date periods due to net income for full-year 2023 and the first nine months of 2024, as well as higher average AOCI. The increase in average AOCI was driven by lower unrealized losses on our available for sale (AFS) investment securities portfolio and securities transferred in 2022 from AFS to held to maturity (HTM) (see Item 1 &#8211; Note 15). 
+
+The Company continued its diligent approach to balance sheet management, seeking to prioritize flexibility. Total balance sheet assets increased 4% during the third quarter of 2024 to $466.1 billion, which was due in part to client cash inflows during the quarter. The growth of client cash helped us pay down $8.9 billion of our aggregate bank supplemental funding during the quarter, which includes brokered CDs, Federal Home Loan Bank (FHLB) borrowings, and borrowings under repurchase agreements at our banks. Total bank supplemental funding ended the third quarter at $64.8 billion, down $14.8 billion, or 19%, from year-end 2023. Supported by net income, our consolidated Tier 1 Leverage Ratio increased to 9.7% as of September 30, 2024. Our consolidated adjusted Tier 1 Leverage Ratio (1) , which includes AOCI in the ratio, increased to 6.7% as of the end of the third quarter, as we continue to build towards our operating objective of 6.75% - 7.00%. 
+
+- 5 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+(1) Adjusted diluted EPS, adjusted total expenses, adjusted net income available to common stockholders, return on tangible common equity, and adjusted Tier 1 Leverage Ratio are non-GAAP financial measures. See Non-GAAP Financial Measures for further details and a reconciliation of such measures to GAAP reported results. 
+
+Integration of Ameritrade 
+
+In May 2024, the Company completed the conversion of the final client transition group from Ameritrade to the Schwab platform. Over the course of five client transition groups throughout the integration, we converted approximately $1.9 trillion in client assets across more than 17 million client accounts, including 7,000 RIAs, from Ameritrade to Schwab, and conversion of this final client group is a significant milestone in our integration. In connection with these transitions, we have experienced some expected attrition of client assets from retail accounts and RIAs that continues to be below our initial estimates when we announced the acquisition. We continue to expect total acquisition and integration-related costs and capital expenditures will be between $2.4 billion and $2.5 billion. 
+
+Acquisition and integration-related costs, which are inclusive of related exit costs, totaled $23 million and $97 million for the third quarter and first nine months of 2024, respectively, and $106 million and $334 million for the third quarter and first nine months of 2023, respectively. Over the course of the integration, we expect to realize annualized cost synergies of between $1.8 billion and $2.0 billion, and, through September 30, 2024, we have achieved approximately 95% of this amount on an annualized run-rate basis. The Company expects to realize the remaining estimated cost synergies by the end of 2024, with anticipated full year synergy realization beginning in 2025. Estimated timing and amounts of costs incurred and synergies to be realized are subject to change as we work to complete the integration. Refer to Part II &#8211; Item 7 &#8211; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations (Item 7) &#8211; Overview in our 2023 Form 10-K, Results of Operations &#8211; Total Expenses Excluding Interest, Non-GAAP Financial Measures, and Item 1 &#8211; Note 10 for additional information regarding our integration of Ameritrade. 
+
+Other 
+
+In addition to cost synergies directly related to the integration of Ameritrade, the Company took incremental actions in 2023 to streamline its operations to prepare for post-integration, including through position eliminations and decreasing its real estate footprint. Through these actions, the Company has realized approximately $500 million of incremental run-rate cost savings in addition to integration synergies. In order to achieve these cost savings, the Company expects to incur total exit and related costs, primarily related to employee compensation and benefits and facility exit costs, of approximately $500 million, substantially all of which have been recognized as of September 30, 2024. Refer to Results of Operations &#8211; Total Expenses Excluding Interest and Item 1 &#8211; Note 10 for additional information. 
+
+Current Regulatory and Other Developments 
+
+In September 2024, the SEC adopted amendments to Rules 610 and 612 of Regulation National Market System (NMS) to (i) establish an additional minimum price increment, or &#8220;tick size,&#8221; for the quoting and trading of certain NMS stocks, (ii) reduce the exchange access fee caps, and (iii) require transparency of odd-lots. In March 2024, the SEC adopted amendments to Rule 605 of Regulation NMS requiring enhanced disclosures of order execution quality for large broker-dealers that handle retail orders. We do not expect the new rules to have a material impact on the Company&#8217;s business, financial condition, or results of operations. The two related equity market structure rule proposals released in December 2022 by the SEC remain pending. 
+
+On July 30, 2024, the Federal Deposit Insurance Corporation (FDIC) issued a notice of proposed rulemaking to amend the brokered deposits framework effective since 2021 (2021 framework) setting forth its conditions for when broker-dealers such as CS&#38;Co that place deposits with depository institutions through brokerage sweep arrangements qualify for the primary purpose exception (PPE) from the definition of a deposit broker, and from attendant restrictions for brokered deposits, under Section 29 of the Federal Deposit Insurance Act. Under the 2021 framework, a broker-dealer qualifies for the PPE if less than 25 percent of its customer assets under administration for a particular business line are placed at depository institutions. Among other changes, the FDIC is proposing a new framework that would revert back to the 10 percent threshold it applied to broker-dealers prior to 2021. The proposed new framework, certain alternatives, and other amendments described in the notice are subject to a public comment period through November 21, 2024. The impacts to Schwab from any ultimate changes will depend on further clarification of definitions and requirements in any final rule. 
+
+In April 2024, the U.S. Department of Labor adopted a final rule to significantly broaden the definition of &#8220;fiduciary&#8221; under the Employee Retirement Income Security Act of 1974. Among other requirements, the rule, in conjunction with associated 
+
+- 6 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+prohibited transaction exemptions (PTEs), subjects broker-dealers who provide non-discretionary investment advice to retirement plans and accounts to a &#8220;best interest&#8221; standard. The rule was scheduled to take effect September 23, 2024, with a one-year transition period for certain PTE provisions. On July 25 and 26, 2024, federal district court judges in two separate industry lawsuits seeking to vacate the rule stayed effectiveness of the rule pending resolution of litigation. 
+
+In November 2023, the FDIC approved a final special assessment to recover losses incurred by the Deposit Insurance Fund (DIF) to protect uninsured depositors due to the March 2023 closures of two banks, which was subject to potential extension and a potential one-time final special assessment for any shortfall in the DIF. The pre-tax impact of the final rule&#8217;s initial assessment to the Company was $172 million, which was tax deductible and was recognized in earnings in the fourth quarter of 2023. In late February 2024, the FDIC notified banks, including the Company&#8217;s banking subsidiaries, that the estimated assessed losses to the DIF increased. Accordingly, during the first quarter of 2024, Schwab recognized a pre-tax charge of $25 million for its estimate of this incremental special assessment, which is tax deductible. During the second quarter of 2024, the Company recognized an additional pre-tax charge of $5 million based on the FDIC&#8217;s June 2024 invoices, resulting in a year-to-date total of $30 million. The Company paid its first amount on the special assessment in the second quarter of 2024 and expects the remaining collection period to be the next two years. The FDIC has indicated that its special assessments and related collection period remain subject to further refinement. 
+
+See Part II &#8211; Item 7 &#8211; Current Regulatory and Other Developments in our 2023 Form 10-K for additional information regarding these and other pending regulatory matters including: 
+
+&#8226; The U.S. federal banking agencies&#8217; August 2023 proposed rulemaking on long-term debt requirements for certain large banking organizations; 
+
+&#8226; The U.S. federal banking agencies&#8217; July 2023 notice of proposed rulemaking with amendments to the regulatory capital rules, which, among other things, would require us to include AOCI in regulatory capital and to calculate our risk-weighted assets using a revised risk-based approach, a component of which is based on operational risk; and 
+
+&#8226; The SEC&#8217;s November 2022 proposed rule that would require substantial changes to the liquidity risk management programs for open-end mutual funds other than money market funds and require them to implement &#8220;swing pricing&#8221; and impose a &#8220;hard close&#8221; on the acceptance of purchase and redemption orders. 
+
+- 7 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+RESULTS OF OPERATIONS 
+
+Total Net Revenues 
+
+The following tables present a comparison of revenue by category: 
+
+&#160; 2024 2023 Three Months Ended September 30, Percent Change Amount % of Total Net Revenues Amount % of Total Net Revenues Net interest revenue Interest revenue (2) % $ 3,928 81 % $ 4,028 88 % Interest expense (5) % (1,706) (35) % (1,791) (39) % Net interest revenue (1) % 2,222 46 % 2,237 49 % Asset management and administration fees &#160; &#160; &#160; Mutual funds, exchange-traded funds (ETFs), and collective trust funds (CTFs) 24 % 827 17 % 666 14 % Advice solutions 17 % 559 12 % 476 10 % Other 10 % 90 2 % 82 2 % Asset management and administration fees 21 % 1,476 31 % 1,224 26 % Trading revenue &#160; &#160; Commissions (2) % 388 8 % 394 9 % Order flow revenue 10 % 357 7 % 325 7 % Principal transactions 6 % 52 1 % 49 1 % Trading revenue 4 % 797 16 % 768 17 % Bank deposit account fees (26) % 152 3 % 205 4 % Other 16 % 200 4 % 172 4 % Total net revenues 5 % $ 4,847 100 % $ 4,606 100 % 
+
+2024 2023 Nine Months Ended September 30, Percent Change Amount % of Total Net Revenues Amount % of Total Net Revenues Net interest revenue Interest revenue (4) % $ 11,686 82 % $ 12,148 85 % Interest expense 5 % (5,073) (36) % (4,851) (34) % Net interest revenue (9) % 6,613 46 % 7,297 51 % Asset management and administration fees Mutual funds, ETFs, and CTFs 26 % 2,370 17 % 1,881 13 % Advice solutions 13 % 1,572 11 % 1,393 10 % Other 10 % 265 2 % 241 1 % Asset management and administration fees 20 % 4,207 30 % 3,515 24 % Trading revenue Commissions (2) % 1,184 8 % 1,210 8 % Order flow revenue (3) % 1,066 8 % 1,104 8 % Principal transactions (5) % 141 1 % 149 1 % Trading revenue (3) % 2,391 17 % 2,463 17 % Bank deposit account fees (8) % 488 3 % 531 4 % Other 1 % 578 4 % 572 4 % Total net revenues (1) % $ 14,277 100 % $ 14,378 100 % 
+
+- 8 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Net Interest Revenue 
+
+Revenue on interest-earning assets is affected by various factors, such as the composition of assets, prevailing interest rates and spreads at the time of origination or purchase, changes in interest rates on cash and cash equivalents, floating-rate securities and loans, and changes in prepayment levels for mortgage-backed and other asset-backed securities and loans. Schwab establishes the rates paid on client-related liabilities, and management expects that it will generally adjust the rates paid on these liabilities at some fraction of any movement in short-term rates. Interest expense on long-term debt, FHLB borrowings, other short-term borrowings, and other funding sources is impacted by market interest rates at the time of borrowing and changes in interest rates on floating-rate liabilities. See also Risk Management &#8211; Market Risk. 
+
+In response to inflation, the Federal Reserve raised the federal funds target overnight rate four times in the first three quarters of 2023 for a total of 100 basis points. The Federal Reserve maintained the upper bound of the target overnight rate at 5.50% from July 2023 through much of the first nine months of 2024 before reducing the rate by 50 basis points towards the end of September 2024. 
+
+Schwab&#8217;s average interest-earning assets in the third quarter and first nine months of 2024 were lower compared with the same periods in 2023, reflecting clients&#8217; reallocation of cash from sweep products to higher-yielding investment cash alternatives and fixed income investments particularly throughout 2023, which resulted from the higher interest rate environment. The Company saw additional reduction of sweep cash through much of the first nine months of 2024, which also reflected strong client engagement in the equity markets. These changes in client cash reduced average balances of bank deposits in the third quarter and first nine months of 2024. To support client cash allocation activity that resulted from the higher interest rate environment during 2023 and through most of 2024, the Company has utilized bank supplemental funding, including drawing upon FHLB secured lending facilities, engaging with external financial institutions in repurchase agreements, and issuing brokered CDs. The average pace of client cash allocation out of sweep products into higher-yielding investment solutions decreased significantly beginning in the second half of 2023, and continued to decrease through the third quarter and first nine months of 2024 from peak levels seen in mid-2023. 
+
+The following tables present net interest revenue information corresponding to interest-earning assets and funding sources on the condensed consolidated balance sheets: 2024 2023 Three Months Ended September 30, Average Balance Interest Revenue/ Expense Average Yield/Rate Average Balance Interest Revenue/ Expense Average Yield/Rate Interest-earning assets &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents $ 27,623 $ 369 5.24 % $ 34,391 $ 459 5.22 % Cash and investments segregated 26,220 345 5.15 % 21,987 285 5.08 % Receivables from brokerage clients 73,102 1,431 7.66 % 63,760 1,282 7.87 % 
+
+Available for sale securities (1) 
+
+98,645 531 2.14 % 129,545 724 2.22 % 
+
+Held to maturity securities (1) 
+
+151,004 650 1.71 % 163,904 706 1.72 % Bank loans 42,653 484 4.52 % 40,177 426 4.23 % Total interest-earning assets 419,247 3,810 3.58 % 453,764 3,882 3.37 % Securities lending revenue 87 105 Other interest revenue 31 41 Total interest-earning assets $ 419,247 $ 3,928 3.69 % $ 453,764 $ 4,028 3.50 % Funding sources Bank deposits $ 248,405 $ 841 1.35 % $ 290,853 $ 911 1.24 % Payables to brokerage clients 72,700 79 0.43 % 63,731 66 0.41 % 
+
+Other short-term borrowings 
+
+10,821 150 5.52 % 7,315 97 5.26 % 
+
+Federal Home Loan Bank borrowings 
+
+22,621 310 5.38 % 36,287 477 5.18 % Long-term debt 22,446 208 3.71 % 23,492 193 3.30 % Total interest-bearing liabilities 376,993 1,588 1.67 % 421,678 1,744 1.64 % 
+
+Non-interest-bearing funding sources 
+
+42,254 32,086 
+
+Securities lending expense 
+
+118 46 
+
+Other interest expense 
+
+&#8212; 1 Total funding sources $ 419,247 $ 1,706 1.61 % $ 453,764 $ 1,791 1.56 % Net interest revenue $ 2,222 2.08 % $ 2,237 1.94 % 
+
+- 9 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+2024 2023 Nine Months Ended September 30, Average Balance Interest Revenue/ Expense Average Yield/Rate Average Balance Interest Revenue/ Expense Average Yield/Rate Interest-earning assets Cash and cash equivalents $ 30,128 $ 1,205 5.26 % $ 38,700 $ 1,419 4.83 % Cash and investments segregated 25,744 1,014 5.18 % 29,752 1,041 4.61 % Receivables from brokerage clients 68,557 4,042 7.75 % 61,682 3,533 7.55 % 
+
+Available for sale securities (1) 
+
+104,830 1,680 2.13 % 143,360 2,340 2.17 % 
+
+Held to maturity securities (1) 
+
+154,231 1,998 1.72 % 167,405 2,172 1.73 % Bank loans 41,585 1,384 4.44 % 40,183 1,227 4.08 % Total interest-earning assets 425,075 11,323 3.52 % 481,082 11,732 3.23 % Securities lending revenue 258 341 Other interest revenue 105 75 Total interest-earning assets $ 425,075 $ 11,686 3.63 % $ 481,082 $ 12,148 3.35 % Funding sources Bank deposits $ 260,254 $ 2,602 1.34 % $ 315,309 $ 2,392 1.01 % Payables to brokerage clients 69,586 229 0.44 % 68,548 205 0.40 % Other short-term borrowings 9,164 382 5.57 % 7,286 280 5.13 % Federal Home Loan Bank borrowings 24,347 988 5.36 % 35,896 1,387 5.11 % Long-term debt 23,299 640 3.66 % 21,685 489 3.01 % Total interest-bearing liabilities 386,650 4,841 1.67 % 448,724 4,753 1.41 % Non-interest-bearing funding sources 38,425 32,358 Securities lending expense 230 96 Other interest expense 2 2 Total funding sources $ 425,075 $ 5,073 1.59 % $ 481,082 $ 4,851 1.35 % Net interest revenue $ 6,613 2.04 % $ 7,297 2.00 % 
+
+(1) Amounts have been calculated based on amortized cost. Interest revenue on investment securities is presented net of related premium amortization. 
+
+Net interest revenue decreased $15 million, or 1%, and $684 million, or 9%, in the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. These decreases were primarily due to lower average interest-earning assets, higher average rates paid on funding sources, and lower net interest revenue contributed from securities lending, partially offset by lower average bank supplemental funding. Average interest-earning assets were lower by 8% and 12% for the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. These decreases were due primarily to lower average bank sweep deposits, which reflected client cash reallocation into higher-yielding investment cash alternatives and fixed income investments as well as client engagement with the equity markets. The decreases in average interest-earning assets in the third quarter and first nine months of 2024 were partially offset by growth in margin lending, which was supported by increased use of broker-dealer funding sources including securities lending, and growth in bank loans. Additionally, principal and interest on the AFS and HTM investment securities portfolio, along with deceleration of client cash reallocation activity, supported a reduction of bank supplemental funding balances. 
+
+Net interest margin increased to 2.08% and 2.04% during the third quarter and first nine months of 2024, respectively, compared to 1.94% and 2.00% during the same periods in 2023 as improved yields on most interest-earning assets offset higher rates paid across interest-bearing funding sources. 
+
+The Company&#8217;s average balances of FHLB borrowings and brokered CDs were lower in the third quarter of 2024 compared to the same period in 2023, which helped contribute to a 14-basis-point improvement in net interest margin for the third quarter of 2024 compared with the same period in 2023. The Company continues to prioritize repayment of bank supplemental funding balances. The total outstanding balance of bank supplemental funding decreased by $8.9 billion during the third quarter of 2024. Our use and the financial impacts of such bank supplemental funding is dependent on several factors, including the volume and pace of clients&#8217; cash allocation activity, which is driven primarily by changes in market interest rates, as well as asset gathering and the level of maturities and paydowns on our investment securities portfolios. While client cash realignment activity has continued to decline from peak levels, uncertainty remains, including the path of market interest rates and client behavior, which could significantly impact our utilization of bank supplemental funding sources. The impacts to net interest revenue of using bank supplemental funding sources also depend on the type of funding source used, levels of interest rates, and the use of proceeds. The Company currently expects its outstanding balances of bank supplemental funding sources to decrease over time. Certain balances outstanding at September 30, 2024 will require rollover into new borrowings, the amount and costs 
+
+- 10 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+of which will depend on the above noted factors. See also Risk Management &#8211; Liquidity Risk, Capital Management, Item 1 &#8211; Note 7, Note 8, and Note 12 for additional information on these and other funding sources. 
+
+Asset Management and Administration Fees 
+
+The following table presents asset management and administration fees, average client assets, and average fee yields: 
+
+Three Months Ended September 30, 2024 2023 Average Client Assets Revenue Average Fee Average Client Assets Revenue Average Fee Schwab money market funds $ 551,945 $ 379 0.27 % $ 414,074 $ 270 0.26 % Schwab equity and bond funds, ETFs, and CTFs 603,314 118 0.08 % 485,326 99 0.08 % 
+
+Mutual Fund OneSource &#174; and other no-transaction-fee (NTF) funds (1) 
+
+354,664 224 0.25 % 255,039 170 0.26 % 
+
+Other third-party mutual funds and ETFs (1) 
+
+611,555 106 0.07 % 632,902 127 0.08 % Total mutual funds, ETFs, and CTFs (2) 
+
+$ 2,121,478 $ 827 0.16 % $ 1,787,341 $ 666 0.15 % 
+
+Advice solutions (2) 
+
+Fee-based $ 554,726 $ 559 0.40 % $ 468,305 $ 476 0.40 % Non-fee-based 114,307 &#8212; &#8212; 97,957 &#8212; &#8212; Total advice solutions $ 669,033 $ 559 0.33 % $ 566,262 $ 476 0.33 % 
+
+Other balance-based fees (3) 
+
+795,737 72 0.04 % 610,450 64 0.04 % 
+
+Other (4) 
+
+18 18 Total asset management and administration fees $ 1,476 $ 1,224 Nine Months Ended September 30, Schwab money market funds $ 525,166 $ 1,072 0.27 % $ 368,788 $ 735 0.27 % Schwab equity and bond funds, ETFs, and CTFs 569,608 337 0.08 % 466,995 284 0.08 % 
+
+Mutual Fund OneSource &#174; and other NTF funds (1) 
+
+335,813 647 0.26 % 235,561 469 0.27 % 
+
+Other third-party mutual funds and ETFs (1) 
+
+606,026 314 0.07 % 663,577 393 0.08 % Total mutual funds, ETFs, and CTFs (2) 
+
+$ 2,036,613 $ 2,370 0.16 % $ 1,734,921 $ 1,881 0.14 % 
+
+Advice solutions (2) 
+
+Fee-based $ 528,850 $ 1,572 0.40 % $ 455,730 $ 1,393 0.41 % Non-fee-based 110,191 &#8212; &#8212; 95,951 &#8212; &#8212; Total advice solutions $ 639,041 $ 1,572 0.33 % $ 551,681 $ 1,393 0.34 % 
+
+Other balance-based fees (3) 
+
+759,645 210 0.04 % 588,922 189 0.04 % 
+
+Other (4) 
+
+55 52 Total asset management and administration fees $ 4,207 $ 3,515 
+
+(1) The third quarter and first nine months of 2023 include transfers from other third-party mutual funds and ETFs to Mutual Fund OneSource &#174; and other NTF funds. 
+
+(2) Average client assets for advice solutions may also include the asset balances contained in the mutual fund and/or ETF categories listed above. 
+
+(3) Includes various asset-related fees, such as trust fees, 401(k) recordkeeping fees, and mutual fund clearing fees and other service fees. 
+
+(4) Includes miscellaneous service and transaction fees relating to mutual funds and ETFs that are not balance-based. 
+
+Asset management and administration fees increased by $252 million, or 21%, and $692 million, or 20%, in the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. These increases were primarily a result of higher balances in Schwab money market funds as clients shifted their cash allocations to higher-yielding investment solutions. These increases were also due to growth in balances in fee-based advice solutions and Mutual Fund OneSource, as a result of strong equity markets and, for advice solutions, net inflows of client assets. 
+
+- 11 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following tables present a roll forward of client assets for the Schwab money market funds, Schwab equity and bond funds, ETFs, and CTFs, and Mutual Fund OneSource &#174; and other NTF funds. These funds generated 49% of the asset management and administration fees earned in both the third quarter and first nine months of 2024, compared with 44% and 42% in the third quarter and first nine months of 2023, respectively: 
+
+Schwab Money Market Funds Schwab Equity and Bond Funds, ETFs, and CTFs Mutual Fund OneSource &#174; and Other NTF funds 
+
+Three Months Ended September 30, 2024 2023 2024 2023 2024 2023 Balance at beginning of period $ 533,586 $ 392,887 $ 564,002 $ 465,847 $ 344,813 $ 254,636 Net inflows (outflows) 26,829 38,265 13,238 3,010 (6,555) (7,060) 
+
+Net market gains (losses) and other (1) 
+
+1,664 5,174 37,537 (14,763) 19,733 40,416 Balance at end of period $ 562,079 $ 436,326 $ 614,777 $ 454,094 $ 357,991 $ 287,992 Nine Months Ended September 30, Balance at beginning of period $ 476,409 $ 278,926 $ 506,149 $ 412,942 $ 306,222 $ 235,738 Net inflows (outflows) 69,064 144,108 29,751 15,669 (17,579) (18,339) 
+
+Net market gains (losses) and other (1) 
+
+16,606 13,292 78,877 25,483 69,348 70,593 Balance at end of period $ 562,079 $ 436,326 $ 614,777 $ 454,094 $ 357,991 $ 287,992 
+
+(1) Includes $39.8 billion of transfers from other third-party mutual funds and ETFs to Mutual Fund OneSource and Other NTF Funds for the three and nine months ended September 30, 2023. 
+
+Trading Revenue 
+
+The following tables present trading revenue, client trading activity, and related information: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2024 2023 2024 2023 Commissions $ 388 $ 394 (2) % $ 1,184 $ 1,210 (2) % Order flow revenue Options 250 219 14 % 740 751 (1) % Equities 107 106 1 % 326 353 (8) % Total order flow revenue 357 325 10 % 1,066 1,104 (3) % Principal transactions 52 49 6 % 141 149 (5) % Total trading revenue $ 797 $ 768 4 % $ 2,391 $ 2,463 (3) % 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2024 2023 2024 2023 DATs (in thousands) 5,697 5,218 9 % 5,711 5,461 5 % Product as a percentage of DATs Equities 52 % 49 % 52 % 49 % Derivatives 21 % 24 % 22 % 23 % ETFs 20 % 19 % 19 % 20 % Mutual funds 6 % 6 % 6 % 6 % Fixed income 1 % 2 % 1 % 2 % Number of trading days 63.5 62.5 2 % 187.5 186.5 1 % 
+
+Revenue per trade (1) 
+
+$ 2.20 $ 2.35 (6) % $ 2.23 $ 2.42 (8) % 
+
+(1) Revenue per trade is calculated as trading revenue divided by the product of DATs multiplied by the number of trading days. 
+
+Trading revenue increased $29 million in the third quarter compared to the same period in 2023, primarily due to higher volumes and changes in the mix of client trading activity. Trading revenue decreased $72 million in the first nine months of 2024 compared to the same period in 2023, reflecting lower order flow and commissions revenue primarily due to changes in the mix of client trading activity. 
+
+- 12 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Bank Deposit Account Fees 
+
+The Company earns bank deposit account fee revenue from TD Bank USA, National Association and TD Bank, National Association (together, the TD Depository Institutions). These fees are affected by changes in interest rates and the composition of balances designated as fixed- and floating-rate obligation amounts. In accordance with the Second Amended and Restated Insured Deposit Account Agreement (2023 IDA agreement) executed on May 4, 2023, cash held in eligible brokerage client accounts is swept off-balance sheet to deposit accounts at the TD Depository Institutions. Schwab provides recordkeeping and support services to the TD Depository Institutions with respect to the deposit accounts for which Schwab receives an aggregate monthly fee. Under the 2023 IDA agreement, the service fee on client cash deposits held at the TD Depository Institutions is 15 basis points. See Item 1 &#8211; Note 9 for additional discussion of the 2023 IDA agreement. 
+
+The following table presents bank deposit account fee revenue and related information: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2024 2023 2024 2023 Bank deposit account fees $ 152 $ 205 (26) % $ 488 $ 531 (8) % Average BDA balances $ 83,099 $ 101,666 (18) % $ 87,641 $ 107,003 (18) % Average net yield 0.72 % 0.79 % 0.73 % 0.66 % Percentage of average BDA balances designated as: Fixed-rate balances 87 % 91 % 88 % 93 % Floating-rate balances 13 % 9 % 12 % 7 % 
+
+Bank deposit account fees decreased $53 million, or 26%, and $43 million, or 8%, in the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. The decrease in the third quarter and first nine months of 2024 compared to the same periods in 2023 was primarily due to lower average BDA balances. The decrease in the first nine months of 2024 compared to the same period in 2023 was partially offset by $97 million of breakage fees incurred that resulted in lower bank deposit account fee revenue in the first nine months of 2023. The decrease in average BDA balances in the third quarter and first nine months of 2024 compared to the same periods in 2023 was primarily due to client cash allocation decisions in response to higher short-term market interest rates during 2023 and through most of 2024. 
+
+Average net yield decreased in the third quarter of 2024 compared to the same period in 2023, as the increase in the average amount of floating-rate BDA balances was more than offset by a decrease in average net yield on fixed-rate BDA balances. Average net yield increased in the first nine months of 2024 compared to the same period in 2023, due to the breakage fees incurred in 2023 and the increase in the average amount of floating-rate BDA balances, which was partially offset by the decrease in average net yield on fixed-rate BDA balances. The percentages of BDA balances designated as fixed-rate and floating-rate obligation amounts as of September 30, 2024 were 84% and 16%, respectively. 
+
+Other Revenue 
+
+Other revenue includes exchange processing fees, certain service fees, other gains and losses from the sale of assets, and the provision for credit losses on bank loans. 
+
+Other revenue increased $28 million, or 16%, and $6 million, or 1%, in the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. The increase in the third quarter and first nine months of 2024 was primarily due to higher exchange processing fees and lower losses recognized on sales of AFS securities, partially offset by certain lower service and other fees and a smaller release from the provision for credit losses on bank loans. Exchange processing fees increased in the third quarter and first nine months of 2024 due to higher SEC fee rates compared to the same periods in 2023. Effective May 22, 2024, the SEC increased its fee rates applicable to most securities transactions from the rate in effect since late February 2023. 
+
+- 13 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Total Expenses Excluding Interest 
+
+The following table presents a comparison of expenses excluding interest: 
+
+Three Months Ended September 30, Percent Change Nine Months Ended September 30, Percent Change 2024 2023 2024 2023 Compensation and benefits Salaries and wages $ 893 $ 1,229 (27) % $ 2,633 $ 3,162 (17) % Incentive compensation 384 300 28 % 1,100 951 16 % Employee benefits and other 245 241 2 % 777 793 (2) % Total compensation and benefits $ 1,522 $ 1,770 (14) % $ 4,510 $ 4,906 (8) % Professional services 256 275 (7) % 756 805 (6) % Occupancy and equipment 271 305 (11) % 784 923 (15) % Advertising and market development 101 102 (1) % 296 293 1 % Communications 147 151 (3) % 460 485 (5) % Depreciation and amortization 231 198 17 % 692 566 22 % Amortization of acquired intangible assets 130 135 (4) % 389 404 (4) % Regulatory fees and assessments 88 114 (23) % 309 277 12 % Other 259 173 50 % 694 535 30 % Total expenses excluding interest $ 3,005 $ 3,223 (7) % $ 8,890 $ 9,194 (3) % Expenses as a percentage of total net revenues Compensation and benefits 31 % 38 % 32 % 34 % Advertising and market development 2 % 2 % 2 % 2 % Full-time equivalent employees (in thousands) At quarter end 32.1 35.9 (11) % Average 32.3 36.1 (11) % 32.4 36.0 (10) % 
+
+Expenses excluding interest decreased by $218 million, or 7%, and $304 million, or 3%, in the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. Adjusted total expenses, which excludes acquisition and integration-related costs, amortization of acquired intangible assets, and, beginning in the third quarter of 2023, restructuring costs, increased 6% and 3% in the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. See Non-GAAP Financial Measures for further details and a reconciliation of such measures to GAAP reported results. 
+
+Total compensation and benefits expense decreased in the third quarter and first nine months of 2024 compared to the same periods in 2023, primarily due to the recognition of $276 million of restructuring costs during the third quarter of 2023. The decreases were also due to lower headcount as a result of position eliminations from the restructuring and Ameritrade integration, partially offset by higher incentive compensation and annual merit increases. Compensation and benefits included acquisition and integration-related costs of $9 million and $52 million in the third quarter of 2024 and 2023, respectively, and $44 million and $158 million in the first nine months of 2024 and 2023, respectively. Compensation and benefits also included a $34 million benefit in the first nine months of 2024, due to a change in estimated restructuring costs. 
+
+Professional services expense decreased in the third quarter and first nine months of 2024 compared to the same periods in 2023, primarily due to lower utilization of professional services as we completed the final Ameritrade client account transitions in the second quarter of 2024, and approach the completion of the Ameritrade integration. Professional services included acquisition and integration-related costs of $3 million and $37 million in the third quarter of 2024 and 2023, respectively, and $32 million and $111 million in the first nine months of 2024 and 2023, respectively. 
+
+Occupancy and equipment expense decreased in the third quarter and first nine months of 2024 compared to the same periods in 2023, primarily due to lower technology equipment and software costs, lower property tax expense, and lower occupancy costs as a result of facility closures in 2023 related to restructuring and the Ameritrade integration. Occupancy and equipment included restructuring costs of $3 million in the first nine months of 2024. Occupancy and equipment included acquisition and integration-related costs of $7 million and $21 million in the third quarter and first nine months of 2023, respectively. 
+
+- 14 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Advertising and market development expense remained consistent in the third quarter and first nine months of 2024 compared to the same periods in 2023, as higher client promotional spending largely offset lower digital advertising costs. 
+
+Communications expense decreased in the third quarter and first nine months of 2024, compared to the same periods in 2023, primarily as a result of lower exchange quotation services expenses. 
+
+Depreciation and amortization expense increased in the third quarter and first nine months of 2024 compared to the same periods in 2023, primarily as a result of higher amortization of purchased and internally developed software, driven by capital expenditures in 2023 and the first nine months of 2024 primarily to enhance our technological infrastructure to support growth of the business. Depreciation and amortization expense included acquisition and integration-related costs of $8 million and $13 million in the third quarter and first nine months of 2024, respectively. 
+
+Amortization of acquired intangible assets decreased in the third quarter and first nine months of 2024 compared to the same periods in 2023, as certain assets from the Ameritrade acquisition were fully amortized during 2023. 
+
+Regulatory fees and assessments decreased in the third quarter and increased in the first nine months of 2024 compared to the same periods in 2023. The decrease in the third quarter of 2024 was primarily due to lower FDIC deposit insurance assessments, reflecting a decrease in brokered CDs compared to the third quarter of 2023, and a lower assessment base. The increase in the first nine months of 2024 was primarily as a result of incremental FDIC special assessments and higher FDIC deposit insurance assessments, reflecting greater use of brokered CDs compared to the first nine months of 2023, partially offset by a lower assessment base. The incremental FDIC special assessments totaled $30 million in the first nine months of 2024. See Current Regulatory and Other Developments for further discussion of these special assessments. 
+
+Other expense increased in the third quarter and first nine months of 2024 compared to the same periods in 2023, primarily due to higher exchange processing fees, partially offset by lower other clearing costs. The first nine months of 2024 also included a $43 million accrual related to an industry-wide regulatory review of off-channel communications (see Item 1 &#8211; Note 9). Exchange processing fees increased, due largely to higher SEC fee rates in effect during the third quarter of 2024 compared to the third quarter of 2023. Effective May 22, 2024, the SEC increased its fee rates applicable to most securities transactions from the rate in effect since late February 2023. Other expense included restructuring costs of $13 million in the first nine months of 2024. Other expense included acquisition and integration-related costs of $4 million and $26 million in the third quarter and first nine months of 2023, respectively. 
+
+Capital expenditures were $135 million and $250 million in the third quarter of 2024 and 2023, respectively, and $349 million and $605 million in the first nine months of 2024 and 2023, respectively. Capital expenditures decreased for the third quarter and first nine months of 2024 compared to the same periods in 2023, primarily due to lower purchased and internally developed software as we completed Ameritrade client account transitions in the second quarter of 2024 and approach the completion of the Ameritrade integration. As a result of higher year-to-date total net revenues and lower spending, we continue to estimate capital expenditures for full-year 2024 will be on the lower end of our previously disclosed expected range of approximately 3-5% of total net revenues. 
+
+Taxes on Income 
+
+Taxes on income were $434 million and $258 million for the third quarter of 2024 and 2023, respectively, resulting in effective tax rates of 23.6% and 18.7%, respectively. Taxes on income were $1.3 billion and $1.2 billion for the first nine months of 2024 and 2023, respectively, resulting in effective tax rates of 23.9% and 22.4%, respectively. The increase in the effective tax rates in the third quarter and first nine months of 2024 compared to the same periods in 2023 was primarily due to the recognition of certain tax credits in the third quarter of 2023, partially offset by a decrease in state tax expense and additional tax credits recognized in the third quarter of 2024. 
+
+- 15 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Segment Information 
+
+Financial information for our segments is presented in the following tables: 
+
+Investor Services Advisor Services Total Three Months Ended September 30, Percent Change 2024 2023 Percent Change 2024 2023 Percent Change 2024 2023 Net Revenues &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Net interest revenue 3 % $ 1,755 $ 1,710 (11) % $ 467 $ 527 (1) % $ 2,222 $ 2,237 Asset management and administration fees 19 % 1,046 877 24 % 430 347 21 % 1,476 1,224 Trading revenue 5 % 706 672 (5) % 91 96 4 % 797 768 Bank deposit account fees (27) % 114 157 (21) % 38 48 (26) % 152 205 Other 15 % 166 144 21 % 34 28 16 % 200 172 Total net revenues 6 % 3,787 3,560 1 % 1,060 1,046 5 % 4,847 4,606 Expenses Excluding Interest (4) % 2,262 2,356 (14) % 743 867 (7) % 3,005 3,223 Income before taxes on income 27 % $ 1,525 $ 1,204 77 % $ 317 $ 179 33 % $ 1,842 $ 1,383 
+
+Net new client assets (in billions) (1) 
+
+28 % $ 36.7 $ 28.6 176 % $ 54.1 $ 19.6 88 % $ 90.8 $ 48.2 Nine Months Ended September 30, Net Revenues Net interest revenue (4) % $ 5,212 $ 5,448 (24) % $ 1,401 $ 1,849 (9) % $ 6,613 $ 7,297 Asset management and administration fees 18 % 2,966 2,523 25 % 1,241 992 20 % 4,207 3,515 Trading revenue (2) % 2,104 2,148 (9) % 287 315 (3) % 2,391 2,463 Bank deposit account fees (9) % 362 396 (7) % 126 135 (8) % 488 531 Other 4 % 469 451 (10) % 109 121 1 % 578 572 Total net revenues 1 % 11,113 10,966 (7) % 3,164 3,412 (1) % 14,277 14,378 Expenses Excluding Interest &#8212; 6,758 6,780 (12) % 2,132 2,414 (3) % 8,890 9,194 Income before taxes on income 4 % $ 4,355 $ 4,186 3 % $ 1,032 $ 998 4 % $ 5,387 $ 5,184 
+
+Net new client assets (in billions) (1) 
+
+(23) % $ 111.5 $ 144.0 12 % $ 141.7 $ 126.9 (7) % $ 253.2 $ 270.9 
+
+(1) In the third quarter and first nine months of 2024, Investor Services includes net outflows of $4.4 billion and $9.1 billion, respectively, from off-platform brokered CDs issued by CSB, and an outflow of $0.1 billion from an international relationship. Also in the first nine months of 2024, Investor Services includes an inflow of $10.3 billion from a mutual fund clearing services client. In the third quarter and first nine months of 2023, Investor Services includes net inflows of $3.3 billion and $30.1 billion, respectively, from off-platform brokered CDs issued by CSB. Also in the first nine months of 2023, Investor Services includes an inflow of $12.0 billion from a mutual fund clearing services client. In the third quarter and first nine months of 2023, Advisor Services includes an outflow of $0.8 billion from an international relationship. 
+
+Segment Net Revenues 
+
+Investor Services and Advisor Services total net revenues increased by 6% and 1%, respectively, in the third quarter of 2024 compared to the same period in 2023. Asset management and administration fees increased for both segments, primarily as a result of higher balances in money market funds and Mutual Fund OneSource &#174; , and, additionally for Investor Services, fee-based advice solutions. Net interest revenue increased for Investor Services primarily due to higher margin loan balances, partially offset by other lower average interest-earning assets and higher average rates on funding sources, while net interest revenue decreased for Advisor Services primarily due to lower average interest-earning assets and higher average rates on funding sources. Additionally, trading revenue increased for Investor Services, primarily due to higher order flow revenue as a result of higher trading volume and changes in the mix of client trading activity. These increases were partially offset by decreases in bank deposit account fees for both segments, primarily due to lower average BDA balances. 
+
+Investor Services and Advisor Services total net revenues increased by 1% and decreased by 7%, respectively, in the first nine months of 2024 compared to the same period in 2023. Asset management and administration fees increased for both segments, primarily as a result of higher balances in money market funds and Mutual Fund OneSource, and, additionally for Investor Services, fee-based advice solutions. Net interest revenue decreased for both segments, primarily due to lower average interest-earning assets and higher average rates on funding sources, which were partially offset by higher margin loan balances for Investor Services. Trading revenue decreased for both segments, primarily due to lower commissions for Investor Services and lower order flow revenue for Advisor Services as a result of changes in the mix of client trading activity. Additionally, bank deposit account fees decreased for both segments, primarily due to lower average BDA balances. 
+
+- 16 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Segment Expenses Excluding Interest 
+
+Investor Services total expenses excluding interest decreased by 4% in the third quarter of 2024 and remained flat in the first nine months of 2024, compared to the same periods in 2023. Advisor Services total expenses excluding interest decreased by 14% and 12% in the third quarter and first nine months of 2024, respectively, compared to the same periods in 2023. Compensation and benefits expense decreased in both segments, primarily due to restructuring costs recognized during the third quarter of 2023 and lower headcount as a result of position eliminations, partially offset by higher incentive compensation and annual merit increases. Occupancy and equipment expense decreased in both segments, primarily due to lower technology equipment and software costs, lower property tax expense, and facility closures in 2023 related to restructuring and the Ameritrade integration. For Investor Services, depreciation and amortization expense increased, primarily due to higher amortization of purchased and internally developed software, driven by capital expenditures in 2023 and the first nine months of 2024 to enhance our technological infrastructure to support growth of the business. Regulatory fees and assessments increased in both segments in the first nine months of 2024, primarily due to higher FDIC assessments, as described above. In Investor Services, other expense increased primarily due to higher exchange processing fees and, for the nine-month period, accruals related to an industry-wide regulatory review of off-channel communications. 
+
+RISK MANAGEMENT 
+
+Schwab&#8217;s business activities expose it to a variety of risks, including operational, compliance, credit, market, and liquidity risks. The Company has a comprehensive risk management program to identify and manage these risks and their associated potential for financial and reputational impact. 
+
+For a discussion of our risk management programs, see Part II &#8211; Item 7 &#8211; Risk Management in the 2023 Form 10-K. 
+
+Market Risk 
+
+Market risk is the potential for changes in earnings or the value of financial instruments held by Schwab as a result of fluctuations in interest rates, equity prices, or market conditions. Schwab is exposed to market risk primarily from changes in interest rates within our interest-earning assets relative to changes in the costs of funding sources that finance these assets. 
+
+To manage interest rate risk, we have established policies and procedures, which include setting limits on net interest revenue risk and economic value of equity (EVE) risk. To remain within these limits, we manage the maturity, repricing, and cash flow characteristics of the investment portfolios. Management monitors established guidelines to stay within the Company&#8217;s risk appetite. The Company utilizes interest rate swap derivative instruments to assist with managing interest rate risk, the effects of which are incorporated into the Company&#8217;s net interest revenue and EVE analyses. For further information on our interest rate risk management strategies utilizing interest rate swaps, see Item 1 &#8211; Note 11. 
+
+Net Interest Revenue Simulation 
+
+For our net interest revenue sensitivity analysis, we use net interest revenue simulation modeling techniques to evaluate and manage the effect of changing interest rates. The simulations include all balance sheet interest rate-sensitive assets and liabilities, and include derivative instruments. Key assumptions include the projection of interest rate scenarios with rate floors, rates and balances of non-maturity client cash held on the balance sheet, prepayment speeds of mortgage-related investments, repricing of financial instruments, and reinvestment of matured or paid-down securities and loans. We use independent third-party models to simulate net interest revenue sensitivity and related analyses. Fixed income analytical vendors provide term structure models, prepayment speed models for mortgage-backed securities and mortgage loans, and cash flow projections based on interest income, contractual maturities, and prepayments. Consistent with our policies related to the management of interest rate risk, the Company&#8217;s net interest revenue sensitivity analysis primarily involves gradual parallel increases/decreases in interest rates over a twelve-month period, though we also regularly simulate the effects of non-parallel shifts and instantaneous shifts of interest rates on net interest revenue. 
+
+Net interest revenue is affected by various factors, such as the distribution and composition of interest-earning assets and interest-bearing liabilities, the spread between yields earned on interest-earning assets and rates paid on interest-bearing liabilities, which may reprice at different times or by different amounts, and the spread between short- and long-term interest rates. Interest-earning assets include investment securities, margin loans, bank loans, and cash and cash equivalents. These assets are sensitive to changes in interest rates and changes in prepayment levels that tend to increase in a declining rate environment and decrease in a rising rate environment. Because we establish the rates paid on certain brokerage client cash 
+
+- 17 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+balances and bank deposits and the rates charged on certain margin and bank loans, and control the composition of our investment securities, we have some ability to manage our net interest spread, depending on competitive factors and market conditions. When we have liquidity needs that exceed our primary sources of funding, the Company has needed to utilize higher-cost funding sources, which can reduce net interest margin and net interest revenue. 
+
+Higher prevailing short-term interest rates generally improve yields on shorter duration interest-earning assets. During periods of rapidly rising interest rates, clients tend to reallocate cash out of sweep products into higher-yielding, off-balance sheet, fixed income investments and money market funds within Schwab&#8217;s product offerings. This can result in lower interest-earning assets and/or may require supplemental funding with higher funding costs, which therefore tend to constrain net interest revenue when interest rates are moving rapidly higher. A decline in short-term interest rates could negatively impact the yield on the Company&#8217;s investment and loan portfolios to a greater degree than any offsetting reduction in interest expense from funding sources, compressing net interest margin. 
+
+Net interest revenue sensitivity analysis assumes the asset and liability structure of the consolidated balance sheet would not be changed as a result of the simulated changes in interest rates. While this approach is useful to isolate the impact of changes in interest rates on a statically-sized asset and liability structure, it does not capture changes to client cash allocations. We conduct simulations on EVE to capture the impact of client cash allocation changes on our balance sheet. As we actively manage the consolidated balance sheet and interest rate exposure, we have taken and would typically seek to take steps to manage additional interest rate exposure that could result from changes in the interest rate environment. 
+
+The following table presents simulated changes to net interest revenue over the next 12 months beginning September 30, 2024 and December 31, 2023 of a gradual increase or decrease in market interest rates relative to prevailing market rates at the end of each reporting period: 
+
+September 30, 2024 December 31, 2023 Increase of 200 basis points 10.4% 10.8% Increase of 100 basis points 5.2% 5.8% Increase of 50 basis points 2.7% 3.1% Decrease of 50 basis points (1.8)% 0.4% Decrease of 100 basis points (4.1)% (0.2)% Decrease of 200 basis points (9.4)% (4.2)% 
+
+The Company&#8217;s simulated incremental increases in market interest rates had a largely consistent impact on net interest revenue as of September 30, 2024 compared to December 31, 2023. The Company&#8217;s simulated incremental decreases in market interest rates had a larger impact on net interest revenue as of September 30, 2024 compared to December 31, 2023, primarily due to lower non-maturity deposit rates, which reduced interest expense savings in a lower interest rate environment, and a decreased allocation to shorter-term liabilities across the Company&#8217;s banking subsidiaries, partially offset by lower cash balances. 
+
+Effective Duration 
+
+Effective duration measures price sensitivity relative to a change in prevailing interest rates, taking account of amortizing cash flows and prepayment optionality for mortgage-related securities and loans. Duration is measured in years and commonly interpreted as the average timing of principal and interest cash flows. We seek to manage the Company&#8217;s asset duration in relation to management&#8217;s estimate of the Company&#8217;s liability duration. The Company&#8217;s liability duration is impacted by the composition of funding sources, and typically decreases in periods of rising market interest rates and increases in periods of declining market interest rates. 
+
+- 18 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following table presents the Company&#8217;s estimated effective durations, which reflects anticipated future payments, by category: 
+
+September 30, 2024 September 30, 2023 In years Estimated effective duration, exclusive of derivatives: Consolidated total assets 2.3 2.6 AFS investment securities portfolio 2.3 2.5 AFS and HTM investment securities portfolio 3.9 4.0 
+
+Estimated effective duration, inclusive of derivatives (1) : 
+
+Consolidated total assets 2.3 2.5 AFS investment securities portfolio 2.0 2.2 AFS and HTM investment securities portfolio 3.8 3.9 
+
+(1) See Item 1 &#8211; Note 11 for additional discussion on the Company&#8217;s derivatives. 
+
+AFS and HTM securities comprised approximately 51% and 57% of the Company&#8217;s consolidated total assets as of September 30, 2024 and 2023, respectively. The estimated effective duration of the remaining balance sheet assets in aggregate was less than one year as of both September 30, 2024 and 2023. 
+
+Economic Value of Equity Simulation 
+
+Management also uses EVE simulations to measure interest rate risk. EVE sensitivity measures the long-term impact of interest rate changes on the net present value of assets and liabilities, and includes the impact of derivative instruments. While EVE does not have a direct accounting relationship, the measure aims to capture a theoretical value of assets and liabilities under a variety of interest rate environments. EVE is calculated by subjecting the balance sheet to hypothetical instantaneous shifts in the level of interest rates. This analysis is highly dependent upon asset and liability assumptions based on historical behaviors. Key assumptions in our EVE calculation include projection of interest rate scenarios with rate floors, prepayment speeds of mortgage-related investments, term structure models of interest rates, behavior of non-maturity client cash held on the balance sheet, and pricing assumptions. We use both proprietary and independent third-party models to simulate EVE sensitivity and related analyses. We develop and maintain client credits and deposits run-off models internally based on historical experience and prevailing client cash realignment behaviors. We rely on third-party models for term structure modeling and prepayment speed modeling for mortgage-backed securities and mortgage loans. 
+
+As interest rates rose in the Federal Reserve&#8217;s tightening cycle, EVE sensitivity has generally trended higher due to a shortening of liability duration. While the Company&#8217;s asset duration remained largely stable during the period of rising interest rates, liability duration shortened significantly and is now consistent with asset duration. 
+
+Bank Deposit Account Fees Simulation 
+
+Consistent with the presentation on the consolidated statement of income, the sensitivity of bank deposit account fee revenue to interest rate changes is assessed separately from the net interest revenue simulation described above. As of September 30, 2024 and December 31, 2023, simulated changes in bank deposit account fee revenue from gradual changes in market interest rates relative to prevailing market rates, under the interest rate scenarios described above for net interest revenue, did not have a significant impact on the Company&#8217;s total net revenues. Our net interest revenue, EVE, and bank deposit account fee revenue simulations reflect the assumption of non-negative investment yields. 
+
+Liquidity Risk 
+
+Liquidity risk is the potential that Schwab will be unable to sell assets or meet cash flow obligations when they come due without incurring unacceptable losses. 
+
+Due to its role as a source of financial strength, CSC&#8217;s liquidity needs are primarily driven by the liquidity and capital needs of: CS&#38;Co, our principal broker-dealer subsidiary; the capital needs of the banking subsidiaries; principal and interest due on corporate debt; and dividend payments on CSC&#8217;s preferred and common stock. The liquidity needs of our broker-dealer subsidiary are primarily driven by client activity, including trading and margin lending activities, and capital expenditures. The capital needs of the banking subsidiaries are primarily driven by client deposit levels and other borrowings. We have established liquidity policies to support the successful execution of business strategies, while ensuring ongoing and sufficient 
+
+- 19 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+liquidity to meet operational needs and satisfy applicable regulatory requirements under both normal and stressed conditions. We seek to maintain client confidence in the balance sheet and the safety of client assets by maintaining liquidity and diversity of funding sources to allow the Company to meet its obligations. To this end, we have established limits and contingency funding plans to support liquidity levels during both business as usual and stressed conditions. 
+
+We employ a variety of metrics to monitor and manage liquidity. We conduct regular liquidity stress testing to develop a view of liquidity risk exposures and to ensure our ability to maintain sufficient liquidity during market-related or company-specific liquidity stress events. Liquidity sources are also tested periodically and results are reported to the Financial Risk Oversight Committee. A number of early warning indicators are monitored to help identify emerging liquidity stresses in the market or within the organization and are reviewed with management periodically. 
+
+Funding Sources 
+
+Schwab&#8217;s primary source of funds is cash generated by client activity which includes bank deposits and cash balances in client brokerage accounts. These funds are used to purchase investment securities and extend loans to clients. Other sources of funds may include cash flows from operations, maturities and sales of investment securities, repayments on loans, securities lending of assets held in client brokerage accounts, FHLB borrowings, borrowings under repurchase agreements with external financial institutions, issuance of CDs, cash provided by securities issuances by CSC in the capital markets, and other facilities described below. 
+
+To meet daily funding needs, we maintain liquidity in the form of overnight cash deposits and short-term investments. For unanticipated liquidity needs, we also maintain a buffer of highly liquid investments, including U.S. Treasury securities. 
+
+Our clients&#8217; bank deposits and brokerage cash balances primarily originate from our 36.0 million active brokerage accounts. More than 80% of our bank deposits qualified for FDIC insurance as of September 30, 2024. Our clients&#8217; allocation of cash held on our balance sheet as bank deposits or payables to brokerage clients is sensitive to interest rate levels, with clients typically increasing their utilization of investment cash solutions such as purchased money market funds and certain fixed income products when those yields are higher than those of cash sweep features. 
+
+Schwab&#8217;s need for borrowings from external debt facilities arises primarily from timing differences between cash flow requirements, including in the event the outflow of client cash from the balance sheet is greater than cash flows from operations, investment securities, and bank loans; payments on interest-earning investments; movements of cash to meet regulatory brokerage client cash segregation requirements; and general corporate purposes. We maintain policies and procedures necessary to access funding, and test borrowing procedures on a periodic basis. Rollover risk is the risk that we will not be able to refinance or payoff borrowings as they mature. We manage rollover risk on borrowings, taking into account expected principal paydowns on our investment and loan portfolios along with expected deposit flows. 
+
+- 20 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following table describes external debt facilities available at September 30, 2024: 
+
+Description Borrower Outstanding Available Maturity of Amounts Outstanding Weighted-Average Interest Rate on Amounts Outstanding FHLB secured credit facilities Banking subsidiaries $ 22,600 $ 57,099 
+
+(1) 
+
+October 2024 - June 2025 5.34% Federal Reserve discount window Banking subsidiaries &#8212; 32,481 
+
+(1) 
+
+N/A &#8212; Repurchase agreements Banking subsidiaries, CSC 8,093 &#8212; 
+
+(2) 
+
+October 2024 - May 2025 5.27% Unsecured uncommitted lines of credit with various external banks CSC, CS&#38;Co &#8212; 1,692 N/A &#8212; Unsecured commercial paper CSC &#8212; 5,000 N/A &#8212; Secured uncommitted lines of credit with various external banks CS&#38;Co 2,500 &#8212; (3) 
+
+October 2024 - December 2024 5.71% Unsecured committed revolving line of credit with various external banks CSC &#8212; 2,100 
+
+(4) 
+
+N/A &#8212; 
+
+(1) Amounts shown as available from the FHLB and Federal Reserve facilities represent remaining capacity based on assets pledged as of September 30, 2024. Incremental borrowing capacity may be made available by pledging additional assets, subject to applicable facility terms. See below and Item 1 &#8211; Note 8 for additional information. 
+
+(2) Secured borrowing capacity is made available based on the banking subsidiaries&#8217; or CSC&#8217;s ability to provide collateral deemed acceptable by each respective counterparty. See below and Item 1 &#8211; Note 12 for additional information. 
+
+(3) Secured borrowing capacity is made available based on CS&#38;Co&#8217;s ability to provide acceptable collateral to the lenders as determined by the credit agreements. 
+
+(4) During the first quarter of 2024, CSC entered into an unsecured committed revolving line of credit with various external banks. 
+
+N/A Not applicable. 
+
+Available borrowing capacity from the FHLB and Federal Reserve facilities maintained by our banking subsidiaries is dependent on the value of assets pledged and the terms of the borrowing arrangements. As of September 30, 2024, the Company had additional investment securities with a par value of approximately $128 billion, or a fair value of approximately $121 billion, available to be pledged to obtain additional capacity. Additional details regarding availability and use of these facilities is described below. 
+
+Amounts available under secured credit facilities with the FHLB are dependent on the value of our First Mortgages, home equity lines of credit (HELOCs), and the value of certain of our investment securities that are pledged as collateral. These credit facilities are also available as backup financing in the event the outflow of client cash from the banking subsidiaries&#8217; respective balance sheets is greater than maturities and paydowns on investment securities and bank loans. CSC&#8217;s banking subsidiaries must each maintain positive tangible capital, as defined by the Federal Housing Finance Agency, in order to place new draws upon these credit facilities, and the Company manages capital with consideration of minimum tangible capital ratios at our banking subsidiaries. Tangible capital pursuant to the requirements of the FHLB borrowing facilities for our banking subsidiaries is common equity less goodwill and intangible assets. 
+
+Our banking subsidiaries also have access to short-term secured funding through the Federal Reserve discount window. Amounts available under the Federal Reserve discount window are dependent on the value of certain investment securities that are pledged as collateral. Our banking subsidiaries may also engage with external financial institutions in repurchase agreements collateralized by investment securities as another source of short-term liquidity. In addition, our banking subsidiaries are counterparties to the Standing Repo Facility with the Federal Reserve Bank of New York; other than de minimis tests performed to satisfy the Federal Reserve Bank of New York&#8217;s testing requirements, this facility was not used during the first nine months of 2024 and there were no amounts outstanding at September 30, 2024. CSC maintains standing bilateral repurchase agreements with external banks. Other than de minimis tests, these facilities were not used during the first nine months of 2024 and there were no amounts outstanding under these facilities at September 30, 2024. 
+
+CSC&#8217;s ratings for Commercial Paper Notes were P1 by Moody&#8217;s Investor Service (Moody&#8217;s), A2 by Standard &#38; Poor&#8217;s Rating Group (Standard &#38; Poor&#8217;s), and F1 by Fitch Ratings, Ltd (Fitch) at September 30, 2024. 
+
+CSC also has a universal automatic shelf registration statement on file with the SEC, which enables it to issue debt, equity, and other securities. 
+
+Beginning in 2024, CSC has access to an unsecured, committed revolving line of credit with various external banks. This line will expire in January 2025. Other than an overnight borrowing to test the availability, the facility was not used during the first nine months of 2024. 
+
+- 21 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+CS&#38;Co maintains uncommitted, unsecured bank credit lines with a group of banks as a source of short-term liquidity, which can also be accessed by CSC. CS&#38;Co also maintains secured, uncommitted lines of credit, under which CS&#38;Co may borrow on a short-term basis and pledge either client margin securities or firm securities as collateral, based on the terms of the agreements. CS&#38;Co is also able to lend eligible securities held in client brokerage accounts in exchange for cash collateral as a source of short-term liquidity. As of September 30, 2024, liabilities for securities loaned totaled $12.5 billion and are included in accrued expenses and other liabilities on the condensed consolidated balance sheet. At September 30, 2024, $7.5 billion of securities loaned had overnight and continuous remaining contractual maturities; $5.0 billion of securities loaned had contractual maturities of 30-95 days and had a weighted-average interest rate of 5.09%. See Item 1 &#8211; Note 12 for additional information on securities lending activities. 
+
+CSB issues brokered CDs as a supplemental funding source. The following table provides information about brokered CDs issued by CSB and outstanding as of September 30, 2024: 
+
+Amount Outstanding Maturity Weighted-Average Interest Rate Brokered CDs $ 34,075 October 2024 - September 2025 5.18% 
+
+Cash Flow Activity 
+
+As a result of rapidly increasing short-term interest rates beginning in 2022, the Company saw an increase in the pace at which clients moved certain cash balances out of our sweep features and into higher-yielding investment cash alternatives at Schwab. As a result of these outflows, our banking subsidiaries have supplemented excess cash on hand and cash generated by maturities and paydowns on our investment securities portfolios with fixed- and floating-rate FHLB advances, repurchase agreements, and issuances of brokered CDs. The average pace of client cash allocations out of sweep products into higher-yielding investment solutions decreased significantly beginning in the second half of 2023, and continued to decrease in the first nine months of 2024. 
+
+During the third quarter of 2024, the Company saw an increase in client sweep cash, which, along with principal and interest on the AFS and HTM investment securities portfolio, supported the Company&#8217;s net reduction of $8.9 billion of aggregate bank supplemental funding. Bank deposits decreased $6.0 billion during the third quarter of 2024, which reflected a net decrease of $6.2 billion in brokered CDs, and a $0.6 billion increase in deposits swept from brokerage accounts. 
+
+During the first nine months of 2024, the Company&#8217;s cash and cash equivalents decreased $8.5 billion from year-end 2023 to $34.9 billion at September 30, 2024; cash and cash equivalents, including amounts restricted, decreased $7.5 billion from year-end 2023 to $67.0 billion at September 30, 2024. These decreases reflected a net reduction of bank supplemental funding balances of $14.8 billion and maturities of long-term debt of $3.7 billion. Bank deposits decreased during the first nine months of 2024 by $43.5 billion, which reflected a $27.4 billion decrease in deposits swept from brokerage accounts due to client cash allocations and client engagement with equity markets, as well as a net decrease in brokered CDs of $14.2 billion. Partially offsetting the decrease in bank deposits and repayment of borrowings, net investing cash inflows from our AFS and HTM securities totaled $31.1 billion in the first nine months of 2024, and net cash inflows from operations totaled $13.5 billion. 
+
+Liquidity Coverage Ratio 
+
+Schwab is subject to the full LCR rule, which requires the Company to hold high quality liquid assets (HQLA) in an amount equal to at least 100% of the Company&#8217;s projected net cash outflows over a prospective 30-calendar-day period of acute liquidity stress, calculated on each business day. See Part I &#8211; Item 1 &#8211; Business &#8211; Regulation in the 2023 Form 10-K for additional information. The Company was in compliance with the LCR rule at September 30, 2024, and the table below presents information about our average daily LCR: 
+
+Average for the Three Months Ended September 30, 2024 June 30, 2024 Total eligible HQLA $ 56,288 $ 53,815 Net cash outflows 43,356 45,086 LCR 130 % 120 % 
+
+To support growth in margin loan balances at our broker-dealer subsidiary while meeting our LCR requirements, the Company may issue commercial paper, draw on secured lines of credit, or engage in securities lending, in addition to capital markets 
+
+- 22 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+issuances. In managing compliance with our LCR requirements, the broker-dealer subsidiary may also retain client cash balances rather than sweeping such balances to our banking subsidiaries. 
+
+Net Stable Funding Ratio 
+
+Schwab is subject to disclosure requirements under the NSFR rule, which requires the semi-annual public disclosure of its NSFR levels. The NSFR rule stipulates that the Company&#8217;s available stable funding (ASF) must be at least 100% of the Company&#8217;s required stable funding (RSF). ASF is calculated by assessing the stability of the Company&#8217;s funding sources and RSF is calculated by evaluating the characteristics of the Company&#8217;s assets, derivatives, and off-balance-sheet exposures. The Company was in compliance with the NSFR rule at September 30, 2024. 
+
+Long-Term Borrowings 
+
+The Company&#8217;s long-term debt is primarily comprised of Senior Notes and totaled $22.4 billion and $26.1 billion at September 30, 2024 and December 31, 2023, respectively. 
+
+The following table provides information about our Senior Notes outstanding at September 30, 2024: 
+
+September 30, 2024 Par Outstanding Maturity Weighted Average Interest Rate Moody&#8217;s Standard &#38; Poor&#8217;s Fitch CSC Senior Notes $ 22,262 2025 - 2034 3.71% A2 A- A Ameritrade Holding LLC Senior Notes 163 2025 - 2029 3.38% A2 A- &#8212; 
+
+New Debt Issuances 
+
+There were no new debt issuances of senior unsecured obligations in the first nine months of 2024. 
+
+Schwab additionally enters into guarantees and other similar arrangements in the ordinary course of business. For information on these arrangements, see Item 1 &#8211; Notes 5, 6, 8, 9, and 12. 
+
+Additional information regarding our sources and uses of liquidity and management of liquidity risk is included in Part II &#8211; Item 7 &#8211; Risk Management &#8211; Liquidity Risk in our 2023 Form 10-K. See also Item 1 &#8211; Condensed Consolidated Statements of Cash Flows, Item 1 &#8211; Note 7 for the Company&#8217;s bank deposits, Item 1 &#8211; Note 8 for the Company&#8217;s debt and borrowing facilities, Item 1 &#8211; Note 12 for the Company&#8217;s securities lending activities, and Item 1 &#8211; Note 14 for the Company&#8217;s equity outstanding balances and activity. 
+
+CAPITAL MANAGEMENT 
+
+Schwab seeks to manage capital to a level and composition sufficient to support execution of our business strategy, inclusive of balance sheet growth over time, management of the 2023 IDA agreement, financial support to our subsidiaries, sustained access to the capital markets, and regulatory capital requirements. Schwab also seeks to return excess capital to stockholders. We may return excess capital through such activities as dividends, repurchases of common shares, preferred stock redemptions, and repurchases of our preferred stock represented by depositary shares. Schwab&#8217;s primary sources of capital are funds generated by the operations of subsidiaries and securities issuances by CSC in the capital markets. To ensure that Schwab has sufficient capital to absorb unanticipated losses or declines in asset values, we have adopted a policy to remain well capitalized even in stressed scenarios. 
+
+Regulatory Capital Requirements 
+
+CSC and certain subsidiaries, including our banking and broker-dealer subsidiaries, are subject to various capital requirements set by regulatory agencies as discussed in further detail in Part II &#8211; Item 7 &#8211; Capital Management of the 2023 Form 10-K and in Item 1 &#8211; Note 17. As of September 30, 2024, CSC and our banking subsidiaries are considered well capitalized, and CS&#38;Co is in compliance with its net capital requirements. 
+
+- 23 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following table details the capital ratios for CSC (consolidated) and CSB: 
+
+September 30, 2024 December 31, 2023 CSC CSB CSC CSB Total stockholders&#8217; equity $ 47,215 $ 19,606 $ 40,958 $ 16,079 Less: Preferred stock 9,191 &#8212; 9,191 &#8212; Common Equity Tier 1 Capital before regulatory adjustments $ 38,024 $ 19,606 $ 31,767 $ 16,079 Less: Goodwill, net of associated deferred tax liabilities $ 11,755 $ 13 $ 11,782 $ 13 Other intangible assets, net of associated deferred tax liabilities 6,341 &#8212; 6,664 &#8212; Deferred tax assets, net of valuation allowances and deferred tax liabilities 47 37 41 35 AOCI adjustment (1) 
+
+(14,620) (12,669) (18,131) (15,746) Common Equity Tier 1 Capital $ 34,501 $ 32,225 $ 31,411 $ 31,777 Tier 1 Capital $ 43,692 $ 32,225 $ 40,602 $ 31,777 Total Capital 43,721 32,246 40,645 31,816 Risk-Weighted Assets 118,612 79,464 128,230 83,809 Average Assets with regulatory adjustments 450,752 287,924 476,069 315,851 Total Leverage Exposure 453,939 290,001 479,302 318,007 Common Equity Tier 1 Capital/Risk-Weighted Assets 29.1 % 40.6 % 24.5 % 37.9 % Tier 1 Capital/Risk-Weighted Assets 36.8 % 40.6 % 31.7 % 37.9 % Total Capital/Risk-Weighted Assets 36.9 % 40.6 % 31.7 % 38.0 % Tier 1 Leverage Ratio 9.7 % 11.2 % 8.5 % 10.1 % Supplementary Leverage Ratio 9.6 % 11.1 % 8.5 % 10.0 % 
+
+(1) Changes in market interest rates can result in unrealized gains or losses on AFS securities, which are included in AOCI. As a Category III banking organization, CSC has elected to exclude AOCI from regulatory capital. 
+
+The Company&#8217;s consolidated Tier 1 Leverage Ratio increased to 9.7% at September 30, 2024 from 9.4% at June 30, 2024 and 8.5% at year-end 2023. This increase during the third quarter of 2024 was primarily due to the benefit of net income earned during the quarter. CSB&#8217;s Tier 1 Leverage Ratio increased from 10.9% at June 30, 2024 and 10.1% at year-end 2023, ending the third quarter of 2024 at 11.2% primarily as a result of lower total assets as well as net income during the quarter. 
+
+In light of the Federal Reserve&#8217;s 2023 regulatory capital rule proposal, which among other things, would require the Company to include AOCI in regulatory capital (see Part II &#8211; Item 7 &#8211; Current Regulatory and Other Developments in the 2023 Form 10-K), the Company has developed an adjusted Tier 1 Leverage Ratio, which is a non-GAAP financial measure that includes AOCI in the ratio. The primary component of AOCI for Schwab is unrealized gains and losses on our AFS investment securities portfolio and on securities transferred from AFS to the HTM category. 
+
+During the second quarter of 2024, Schwab updated its long-term operating objective to be its consolidated adjusted Tier 1 Leverage Ratio of 6.75% - 7.00%. As of September 30, 2024, our adjusted Tier 1 Leverage Ratio, which includes AOCI in the ratio, was 6.7% for CSC (consolidated) and 7.1% for CSB (see Non-GAAP Financial Measures for further details and a reconciliation of such measures to GAAP reported results). In working toward our long-term operating objective, the Company is continuing to retain and accrete capital organically. The Company will continue to manage its capital as described above. In evaluating returns of excess capital to stockholders, we will consider the amount of bank supplemental funding outstanding, and may choose to utilize the liquidity we would otherwise use for capital returns to repay outstanding bank supplemental funding balances. 
+
+IDA Agreement 
+
+Certain brokerage client deposits are swept off-balance sheet to the TD Depository Institutions pursuant to the 2023 IDA agreement. During the first nine months of 2024, Schwab did not move IDA balances to its balance sheet. The Company&#8217;s overall capital management strategy includes supporting migration of IDA balances in future periods as available pursuant to the terms of the 2023 IDA agreement. The Company&#8217;s ability to migrate these balances to its balance sheet is dependent upon multiple factors including having sufficient capital levels to sustain these incremental deposits. See Item 1 &#8211; Note 9 for further information on the 2023 IDA agreement. 
+
+- 24 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+Dividends 
+
+Cash dividends paid and per share amounts, exclusive of amounts related to preferred stock repurchases, for the first nine months of 2024 and 2023 are as follows: 
+
+2024 2023 Nine Months Ended September 30, Cash Paid Per Share Amount Cash Paid Per Share Amount Common and Nonvoting Common Stock $ 1,379 $ .75 $ 1,379 $ .75 Preferred Stock: Series D (1) 
+
+33 44.64 33 44.64 Series F (2) 
+
+12 2,500.00 12 2,500.00 Series G (1) 
+
+99 4,031.25 100 4,031.25 Series H (1) 
+
+67 3,000.00 68 3,000.00 Series I (1) 
+
+62 3,000.00 63 3,000.00 Series J (1) 
+
+20 33.39 20 33.39 Series K (1) 
+
+28 3,750.00 28 3,750.00 
+
+(1) Dividends paid quarterly. 
+
+(2) Dividends paid semi-annually until December 1, 2027 and quarterly thereafter. 
+
+Share Repurchases 
+
+On July 27, 2022, CSC publicly announced that its Board of Directors approved a share repurchase authorization to repurchase up to $15.0 billion of common stock, replacing the previous and now terminated share repurchase authorization of up to $4.0 billion of common stock. The share repurchase authorization does not have an expiration date. There were no repurchases of CSC&#8217;s common stock during the three and nine months ended September 30, 2024, and for the three months ended September 30, 2023. CSC repurchased 37 million shares of its common stock for $2.8 billion during the nine months ended September 30, 2023. As of September 30, 2024, approximately $8.7 billion remained on the authorization. 
+
+There were no repurchases of CSC &#8217;s preferred stock during the three and nine months ended September 30, 2024, and for the three months ended September 30, 2023 . During the nine months ended September 30, 2023, the Company repurchased on the open market 11,620 depositary shares representing interests in Series F preferred stock for $11 million, 42,036 depositary shares representing interests in Series G preferred stock for $42 million, 273,251 depositary shares representing interests in Series H preferred stock for $235 million, and 194,567 depositary shares representing interests in Series I preferred stock for $179 million . The repurchase prices are inclusive of $3 million of dividends accrued by the stockholders as of the repurchase date. 
+
+Share repurchases, net of issuances, are subject to a nondeductible 1% excise tax which was recognized as a direct and incremental cost associated with these transactions. For repurchases of common stock, the tax is recorded as part of the cost basis of the treasury stock repurchased, resulting in no impact to the condensed consolidated statements of income. For repurchases of preferred stock, the tax impact is included within preferred stock dividends and other on the condensed consolidated statements of income. 
+
+OTHER 
+
+Foreign Exposure 
+
+At September 30, 2024, Schwab had exposure to non-sovereign financial and non-financial institutions in foreign countries, as well as agencies of foreign governments. At September 30, 2024, the fair value of these holdings totaled $17.5 billion, with the top three exposures being to issuers and counterparties domiciled in France at $7.0 billion, the United Kingdom at $6.2 billion, and Canada at $906 million. At December 31, 2023, the fair value of these holdings totaled $12.8 billion, with the top three exposures being to issuers and counterparties domiciled in the United Kingdom at $5.0 billion, France at $3.2 billion, and Canada at $1.5 billion. In addition, Schwab had outstanding margin loans to foreign residents of $2.9 billion and $2.5 billion at September 30, 2024 and December 31, 2023, respectively. 
+
+- 25 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+Certain of our accounting policies that involve a higher degree of judgment and complexity are discussed in Part II &#8211; Item 7 &#8211; Critical Accounting Estimates in the 2023 Form 10-K. There have been no changes to critical accounting estimates during the first nine months of 2024. 
+
+NON-GAAP FINANCIAL MEASURES 
+
+In addition to disclosing financial results in accordance with generally accepted accounting principles in the U.S. (GAAP), Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations contain references to the non-GAAP financial measures described below. We believe these non-GAAP financial measures provide useful supplemental information about the financial performance of the Company, and facilitate meaningful comparison of Schwab&#8217;s results in the current period to both historic and future results. These non-GAAP measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may not be comparable to non-GAAP financial measures presented by other companies. 
+
+Schwab&#8217;s use of non-GAAP measures is reflective of certain adjustments made to GAAP financial measures as described below. Beginning in the third quarter of 2023, these adjustments also include restructuring costs, which the Company began incurring in connection with its previously announced plans to streamline its operations to prepare for post-integration of Ameritrade. See Item 1 &#8211; Note 10 for additional information. 
+
+Non-GAAP Adjustment or Measure Definition Usefulness to Investors and Uses by Management 
+
+Acquisition and integration-related costs, amortization of acquired intangible assets, and restructuring costs 
+
+Schwab adjusts certain GAAP financial measures to exclude the impact of acquisition and integration-related costs incurred as a result of the Company&#8217;s acquisitions, amortization of acquired intangible assets, restructuring costs, and, where applicable, the income tax effect of these expenses. 
+
+Adjustments made to exclude amortization of acquired intangible assets are reflective of all acquired intangible assets, which were recorded as part of purchase accounting. These acquired intangible assets contribute to the Company&#8217;s revenue generation. Amortization of acquired intangible assets will continue in future periods over their remaining useful lives. 
+
+We exclude acquisition and integration-related costs, amortization of acquired intangible assets, and restructuring costs for the purpose of calculating certain non-GAAP measures because we believe doing so provides additional transparency of Schwab&#8217;s ongoing operations, and is useful in both evaluating the operating performance of the business and facilitating comparison of results with prior and future periods. 
+
+Costs related to acquisition and integration or restructuring fluctuate based on the timing of acquisitions, integration and restructuring activities, thereby limiting comparability of results among periods, and are not representative of the costs of running the Company&#8217;s ongoing business. Amortization of acquired intangible assets is excluded because management does not believe it is indicative of the Company&#8217;s underlying operating performance. 
+
+Return on tangible common equity Return on tangible common equity represents annualized adjusted net income available to common stockholders as a percentage of average tangible common equity. Tangible common equity represents common equity less goodwill, acquired intangible assets &#8211; net, and related deferred tax liabilities. Acquisitions typically result in the recognition of significant amounts of goodwill and acquired intangible assets. We believe return on tangible common equity may be useful to investors as a supplemental measure to facilitate assessing capital efficiency and returns relative to the composition of Schwab&#8217;s balance sheet. Adjusted Tier 1 Leverage Ratio 
+
+Adjusted Tier 1 Leverage Ratio represents the Tier 1 Leverage Ratio as prescribed by bank regulatory guidance for the consolidated company and for CSB, adjusted to reflect the inclusion of AOCI in the ratio. 
+
+Inclusion of the impacts of AOCI in the Company&#8217;s Tier 1 Leverage Ratio provides additional information regarding the Company&#8217;s current capital position. We believe Adjusted Tier 1 Leverage Ratio may be useful to investors as a supplemental measure of the Company&#8217;s capital levels. 
+
+The Company also uses adjusted diluted EPS and return on tangible common equity as components of performance criteria for employee bonus and certain executive management incentive compensation arrangements. The Compensation Committee of CSC&#8217;s Board of Directors maintains discretion in evaluating performance against these criteria. Additionally, the Company uses adjusted Tier 1 Leverage Ratio in managing capital, including its use of the measure as its long-term operating objective. 
+
+- 26 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+The following tables present reconciliations of GAAP measures to non-GAAP measures: 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Total expenses excluding interest (GAAP) $ 3,005 $ 3,223 $ 8,890 $ 9,194 Acquisition and integration-related costs (1) 
+
+(23) (106) (97) (334) Amortization of acquired intangible assets (130) (135) (389) (404) Restructuring costs (2) 
+
+&#8212; (279) 18 (279) Adjusted total expenses (non-GAAP) $ 2,852 $ 2,703 $ 8,422 $ 8,177 
+
+(1) Acquisition and integration-related costs for the three and nine months ended September 30, 2024 primarily consist of $9 million and $44 million of compensation and benefits, $3 million and $32 million of professional services, and $8 million and $13 million of depreciation and amortization. Acquisition and integration-related costs for the three and nine months ended September 30, 2023 primarily consist of $52 million and $158 million of compensation and benefits, $37 million and $111 million of professional services, $7 million and $21 million of occupancy and equipment, and $4 million and $26 million of other. 
+
+(2) Restructuring costs for the nine months ended September 30, 2024 reflect a change in estimate of $34 million in compensation and benefits, offset by $3 million of occupancy and equipment and $13 million of other. Restructuring costs for the three and nine months ended September 30, 2023 primarily consist of $276 million of compensation and benefits. 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Amount Diluted EPS Amount Diluted EPS Amount Diluted EPS Amount Diluted EPS Net income available to common stockholders (GAAP), Earnings per common share &#8212; diluted (GAAP) $ 1,299 $ .71 $ 1,017 $ .56 $ 3,761 $ 2.05 $ 3,723 $ 2.03 Acquisition and integration-related costs 23 .01 106 .06 97 .05 334 .18 Amortization of acquired intangible assets 130 .07 135 .07 389 .21 404 .22 Restructuring costs &#8212; &#8212; 279 .15 (18) (.01) 279 .15 Income tax effects (1) 
+
+(36) (.02) (127) (.07) (111) (.05) (247) (.13) Adjusted net income available to common stockholders &#160;(non-GAAP), Adjusted diluted EPS (non-GAAP) $ 1,416 $ .77 $ 1,410 $ .77 $ 4,118 $ 2.25 $ 4,493 $ 2.45 
+
+(1) The income tax effects of the non-GAAP adjustments are determined using an effective tax rate reflecting the exclusion of non-deductible acquisition costs and are used to present the acquisition and integration-related costs, amortization of acquired intangible assets, and restructuring costs on an after-tax basis. 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Return on average common stockholders&#8217; equity (GAAP) 14 % 14 % 14 % 18 % Average common stockholders&#8217; equity $ 36,393 $ 28,274 $ 34,895 $ 27,747 Less: Average goodwill (11,951) (11,951) (11,951) (11,951) Less: Average acquired intangible assets &#8212; net (7,938) (8,457) (8,067) (8,589) Plus: Average deferred tax liabilities related to goodwill and 
+
+acquired intangible assets &#8212; net 
+
+1,735 1,822 1,747 1,830 Average tangible common equity $ 18,239 $ 9,688 $ 16,624 $ 9,037 Adjusted net income available to common stockholders (1) 
+
+$ 1,416 $ 1,410 $ 4,118 $ 4,493 Return on tangible common equity (non-GAAP) 31 % 58 % 33 % 66 % 
+
+(1) See table above for the reconciliation of net income available to common stockholders to adjusted net income available to common stockholders (non-GAAP). 
+
+- 27 - 
+
+THE CHARLES SCHWAB CORPORATION 
+
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+(Tabular Amounts in Millions, Except Ratios, or as Noted) 
+
+September 30, 2024 December 31, 2023 CSC CSB CSC CSB 
+
+Tier 1 Leverage Ratio (GAAP) 
+
+9.7 % 11.2 % 8.5 % 10.1 % Tier 1 Capital 
+
+$ 43,692 $ 32,225 $ 40,602 $ 31,777 Plus: AOCI adjustment (14,620) (12,669) (18,131) (15,746) Adjusted Tier 1 Capital 29,072 19,556 22,471 16,031 Average assets with regulatory adjustments 
+
+450,752 287,924 476,069 315,851 Plus: AOCI adjustment (15,353) (13,480) (19,514) (17,194) Adjusted average assets with regulatory adjustments $ 435,399 $ 274,444 $ 456,555 $ 298,657 
+
+Adjusted Tier 1 Leverage Ratio (non-GAAP) 
+
+6.7 % 7.1 % 4.9 % 5.4 % 
+

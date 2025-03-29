@@ -1,0 +1,590 @@
+ ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+Special Note Regarding Forward-Looking Statements 
+
+This report contains statements that may constitute forward-looking statements within the meaning of the safe-harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, such as statements other than historical facts contained or incorporated by reference into this report. These forward-looking statements include statements with respect to the Corporation&#8217;s financial condition, results of operations, plans, objectives, future performance and business, including statements preceded by, followed by or that include the words &#8220;believes,&#8221; &#8220;expects,&#8221; or &#8220;anticipates,&#8221; references to estimates or similar expressions. Future filings by the Corporation with the SEC, and future statements other than historical facts contained in written material, press releases and oral statements issued by, or on behalf of the Corporation may also constitute forward-looking statements. 
+
+All forward-looking statements contained in this report or which may be contained in future statements made for or on behalf of the Corporation are based upon information available at the time the statement is made and the Corporation assumes no obligation to update any forward-looking statements, except as required by federal securities law. Forward-looking statements are subject to significant risks and uncertainties, and the Corporation&#8217;s actual results may differ materially from the expected results discussed in such forward-looking statements. Factors that might cause actual results to differ from the results discussed in forward-looking statements include, but are not limited to, the risk factors in Item 1A, Risk Factors, in the Corporation&#8217;s Annual Report on Form 10-K for the year ended December 31, 2021, in the Corporation's Quarterly Report on Form 10-Q for the quarters ended June 30, 2022 and March 31, 2022, in Item 1A of Part II and as may be described from time to time in the Corporation&#8217;s subsequent SEC filings. 
+
+Overview 
+
+The following discussion and analysis is presented to assist in the understanding and evaluation of the Corporation&#8217;s financial condition and results of operations. It is intended to complement the unaudited consolidated financial statements, footnotes, and supplemental financial data appearing elsewhere in this Quarterly Report on Form 10-Q and should be read in conjunction therewith. Management continually evaluates strategic acquisition opportunities and various other strategic alternatives that could involve the sale or acquisition of branches or other assets, or the consolidation or creation of subsidiaries. Within the tables presented, certain columns and rows may not sum due to the use of rounded numbers for disclosure purposes. 
+
+Performance Summary 
+
+&#8226; Average loans of $25.5 billion increased $1.4 billion, or 6%, compared to the first nine months of 2021, with growth across nearly all loan categories. 
+
+&#8226; Average deposits of $28.6 billion increased $1.1 billion, or 4%, from the first nine months of 2021, driven primarily by increases in lower cost deposits partially offset by decreases in higher cost deposits. 
+
+&#8226; Net interest income of $668 million increased $129 million, or 24%, from the first nine months of 2021, and net interest margin was 2.76% compared to 2.38% for the first nine months of 2021. The increase in net interest income was driven by higher interest income as a result of growth in nearly all loan categories, along with higher investment balances resulting in more interest income. Both of these further benefited from the Federal Reserve increasing the federal funds target interest rate 300 bp during the first nine months of 2022. For 2022, the Corporation expects net interest income of more than $935 million, assuming a 75 bp rate increase in November and a 50 bp rate increase in December at the FOMC meeting. 
+
+&#8226; Provision for credit losses had a provision of $13 million, compared to a release of $82 million for the first nine months of 2021, due to loan growth within the portfolio. 
+
+&#8226; Noninterest income of $221 million decreased $30 million, or 12%, from the first nine months of 2021, primarily driven by the $26 million, or 61%, decrease in mortgage banking, net, resulting from decreased gains on sold loans due to lower mortgage settlements. 
+
+&#8226; Noninterest expense of $551 million increased $23 million, or 4%, from the first nine months of 2021, primarily driven by higher personnel expense due to additional staffing for implementation of recently announced initiatives and continued investment in our employees. For 2022, the Corporation expects noninterest expense will be approximately $740 million to $750 million. 
+
+Table 1 Summary Results of Operations: Trends Nine months ended Three months ended ($ in Thousands, except per share data) Sep 30, 2022 Sep 30, 2021 Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 Net income $ 257,360 $ 274,117 $ 96,275 $ 86,824 $ 74,262 $ 76,877 $ 88,809 Net income available to common equity 248,735 259,880 93,400 83,949 71,387 74,002 84,655 Earnings per common share - basic 1.66 1.70 0.62 0.56 0.48 0.49 0.56 Earnings per common share - diluted 1.65 1.69 0.62 0.56 0.47 0.49 0.56 Effective tax rate 20.94 % 20.37 % 21.37 % 21.20 % 20.07 % 16.48 % 20.61 % 
+
+Back to table of contents 
+
+Income Statement Analysis 
+
+Net Interest Income 
+
+Table 2 Net Interest Income Analysis &#160; Nine Months Ended Sep 30, &#160; 2022 2021 
+
+&#160; ($ in Thousands) 
+
+Average Balance Interest Income / Expense Average Yield / Rate Average Balance Interest Income / Expense Average Yield / Rate Assets Earning assets 
+
+Loans (a)(b)(c) 
+
+Commercial PPP lending $ 20,633 $ 1,885 12.21 % $ 592,571 $ 28,582 6.45 % 
+
+Asset-based lending (ABL) &#38; equipment finance (d) 
+
+255,442 7,658 4.01 % 119,352 2,732 3.06 % Commercial and business lending (excl PPP, ABL and equipment finance) 9,347,852 227,429 3.25 % 8,442,471 159,343 2.52 % Commercial real estate lending 6,438,335 176,006 3.65 % 6,163,684 133,314 2.89 % Total commercial 16,062,262 412,977 3.44 % 15,318,077 323,971 2.83 % Residential mortgage 7,920,382 177,906 2.99 % 7,879,992 166,146 2.81 % Auto finance 657,150 17,837 3.63 % 8,591 284 4.41 % Other retail 888,241 35,900 5.40 % 939,858 33,664 4.78 % Total loans 25,528,036 644,621 3.37 % 24,146,518 524,065 2.90 % Investment securities Taxable 4,385,580 54,009 1.64 % 3,152,994 24,600 1.04 % 
+
+Tax-exempt (a) 
+
+2,416,064 61,771 3.41 % 1,961,528 54,357 3.69 % Other short-term investments 625,748 7,696 1.64 % 1,662,571 5,802 0.47 % Investments and other 7,427,392 123,477 2.22 % 6,777,093 84,759 1.67 % Total earning assets 32,955,428 $ 768,098 3.11 % 30,923,610 $ 608,824 2.63 % Other assets, net 3,120,342 3,354,657 Total assets $ 36,075,770 $ 34,278,268 Liabilities and Stockholders' Equity Interest-bearing liabilities Interest-bearing deposits Savings $ 4,650,105 $ 1,427 0.04 % $ 4,061,728 $ 1,066 0.04 % Interest-bearing demand 6,573,680 14,307 0.29 % 5,981,295 3,596 0.08 % Money market 7,090,960 12,642 0.24 % 6,956,591 3,101 0.06 % Network transaction deposits 795,059 6,460 1.09 % 960,308 880 0.12 % Time deposits 1,266,116 2,754 0.29 % 1,533,466 6,302 0.55 % Total interest-bearing deposits 20,375,920 37,590 0.25 % 19,493,387 14,945 0.10 % Federal funds purchased and securities sold under agreements to repurchase 376,687 1,200 0.43 % 177,875 103 0.08 % Commercial paper 23,106 2 0.01 % 51,330 21 0.05 % FHLB advances 2,445,486 38,663 2.11 % 1,624,320 27,979 2.30 % Long-term funding 249,759 8,182 4.37 % 461,390 14,323 4.14 % Total short and long-term funding 3,095,039 48,047 2.07 % 2,314,915 42,425 2.45 % Total interest-bearing liabilities 23,470,959 $ 85,637 0.49 % 21,808,303 $ 57,371 0.35 % Noninterest-bearing demand deposits 8,189,067 7,961,119 Other liabilities 446,249 403,925 Stockholders&#8217; equity 3,969,495 4,104,921 Total liabilities and stockholders&#8217; equity $ 36,075,770 $ 34,278,268 Interest rate spread 2.62 % 2.28 % Net free funds 0.14 % 0.10 % Fully tax-equivalent net interest income and net interest margin ("NIM") $ 682,461 2.76 % $ 551,453 2.38 % Fully tax-equivalent adjustment 14,129 12,362 Net interest income $ 668,332 $ 539,092 
+
+(a) The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions. 
+
+(b) Nonaccrual loans and loans held for sale have been included in the average balances. (c) Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount. 
+
+(d) Periods prior to March 31, 2022 do not include equipment finance. 
+
+Table 2 Net Interest Income Analysis &#160; Three Months Ended &#160; Sep 30, 2022 Jun 30, 2022 Sep 30, 2021 &#160;($ in Thousands) Average Balance Interest Income / Expense Average Yield / Rate Average Balance Interest Income / Expense Average Yield / Rate Average Balance Interest Income / Expense Average Yield / Rate Assets Earning assets 
+
+Loans (a)(b)(c) 
+
+Commercial PPP lending $ 4,531 $ 261 22.83 % $ 14,026 $ 346 9.91 % $ 275,414 $ 9,633 13.88 % 
+
+Asset-based lending (ABL) &#38; equipment finance (d) 
+
+317,857 4,027 5.03 % 244,369 2,181 3.58 % 99,463 766 3.06 % Commercial and business lending (excl PPP, ABL and equipment finance) 9,870,075 105,927 4.26 % 9,346,218 68,748 2.95 % 8,609,196 53,333 2.46 % Commercial real estate lending 6,768,054 78,887 4.62 % 6,363,395 53,233 3.36 % 6,160,241 44,859 2.89 % Total commercial 16,960,517 189,101 4.42 % 15,968,007 124,509 3.13 % 15,144,314 108,591 2.85 % Residential mortgage 8,223,531 64,069 3.12 % 7,860,220 58,434 2.97 % 7,817,737 55,305 2.83 % Auto finance 969,918 9,170 3.75 % 689,027 6,017 3.50 % 7,157 79 4.39 % Other retail 901,738 13,868 6.13 % 880,910 11,370 5.17 % 914,749 11,041 4.81 % Total loans 27,055,703 276,209 4.06 % 25,398,163 200,331 3.16 % 23,883,957 175,016 2.92 % Investment securities Taxable 4,344,409 19,221 1.77 % 4,448,811 18,317 1.65 % 3,258,587 8,745 1.07 % 
+
+Tax-exempt (a) 
+
+2,435,957 20,838 3.42 % 2,427,068 20,637 3.40 % 2,029,126 18,412 3.63 % Other short-term investments 378,528 3,284 3.45 % 352,310 2,420 2.75 % 2,215,805 2,281 0.41 % Investments and other 7,158,894 43,342 2.42 % 7,228,189 41,374 2.29 % 7,503,518 29,439 1.57 % Total earning assets 34,214,597 $ 319,551 3.72 % 32,626,351 $ 241,705 2.97 % 31,387,475 $ 204,455 2.59 % Other assets, net 3,057,182 3,106,232 3,372,013 Total assets $ 37,271,779 $ 35,732,583 $ 34,759,489 Liabilities and Stockholders' equity Interest-bearing liabilities Interest-bearing deposits Savings $ 4,735,285 $ 516 0.04 % $ 4,682,783 $ 530 0.05 % $ 4,248,493 $ 377 0.04 % Interest-bearing demand 6,587,404 10,306 0.62 % 6,413,077 2,977 0.19 % 6,344,504 1,361 0.09 % Money market 7,328,165 9,474 0.51 % 6,910,505 2,203 0.13 % 7,011,075 1,019 0.06 % Network transaction deposits 873,168 4,716 2.14 % 775,593 1,480 0.77 % 893,991 290 0.13 % Time deposits 1,230,859 989 0.32 % 1,255,292 829 0.26 % 1,434,588 1,379 0.38 % Total interest-bearing deposits 20,754,882 26,000 0.50 % 20,037,250 8,019 0.16 % 19,932,650 4,427 0.09 % Federal funds purchased and securities sold under agreements to repurchase 380,674 756 0.79 % 454,519 406 0.36 % 238,735 48 0.08 % Commercial paper 18,308 1 0.01 % 23,154 1 0.01 % 55,864 8 0.05 % FHLB advances 3,283,328 20,792 2.51 % 2,423,771 9,689 1.60 % 1,620,790 8,962 2.19 % Long-term funding 249,838 2,722 4.36 % 249,805 2,730 4.37 % 288,236 3,163 4.39 % Total short and long-term funding 3,932,149 24,270 2.45 % 3,151,249 12,826 1.63 % 2,203,625 12,180 2.20 % Total interest-bearing liabilities 24,687,031 $ 50,270 0.81 % 23,188,499 $ 20,845 0.36 % 22,136,276 $ 16,607 0.30 % Noninterest-bearing demand deposits 8,119,475 8,133,492 8,141,723 Other liabilities 480,672 473,478 401,077 Stockholders&#8217; Equity 3,984,602 3,937,114 4,080,413 Total liabilities and stockholders&#8217; equity $ 37,271,779 $ 35,732,583 $ 34,759,489 Interest rate spread 2.91 % 2.61 % 2.29 % Net free funds 0.22 % 0.10 % 0.09 % Fully tax-equivalent net interest income and net interest margin ("NIM") $ 269,281 3.13 % $ 220,860 2.71 % $ 187,848 2.38 % Fully tax-equivalent adjustment 4,843 4,713 4,172 Net interest income $ 264,439 $ 216,146 $ 183,675 (a) The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions. 
+
+(b) Nonaccrual loans and loans held for sale have been included in the average balances. (c) Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount. 
+
+(d) Periods prior to March 31, 2022 do not include equipment finance. 
+
+Notable Contributions to the Change in Net Interest Income 
+
+&#8226; Fully tax-equivalent net interest income and net interest income were $131 million, or 24%, and $129 million, or 24%, higher than the first nine months of 2021, respectively. Average loans increased $1.4 billion, or 6%, while average investments and other short-term investments increased $650 million, or 10%, from the first nine months of 2021. The increase in net interest income was driven by higher interest income as a result of growth in nearly all loan categories, along with higher investment balances resulting in more interest income. Both of these further benefited from the Federal Reserve increasing the federal funds target interest rate 300 bp during the first nine months of 2022, which resulted in the yield on earning assets increasing by 48 bp. See sections Interest Rate Risk and Quantitative and Qualitative Disclosures about Market Risk for a discussion of interest rate risk and market risk. 
+
+&#8226; Average interest-bearing liabilities were up $1.7 billion, or 8%, compared to the first nine months of 2021. Interest-bearing deposits increased $883 million, or 5%, driven primarily by increases in low cost deposits partially offset by decreases in higher cost deposits. Average noninterest-bearing demand deposits were up $228 million, or 3%, versus the first nine months of 2021. FHLB advances increased $821 million, or 51%, to fund loan growth. The cost of interest-bearing liabilities increased 14 bp from the first nine months of 2021. 
+
+Provision for Credit Losses 
+
+The provision for credit losses is predominantly a function of the Corporation&#8217;s reserving methodology and judgments as to other qualitative and quantitative factors used to determine the appropriate level of the ACLL, which focuses on changes in the size and character of the loan portfolio, changes in levels of individually evaluated and other nonaccrual loans, historical losses and delinquencies in each portfolio category, the risk inherent in specific loans, concentrations of loans to specific borrowers or industries, existing economic conditions and economic forecasts, the fair value of underlying collateral, and other factors which could affect potential credit losses. The forecast the Corporation used for September 30, 2022 was the Moody's baseline forecast from August 2022, which was reviewed against the September 2022 forecast for material updates, over a 2 year reasonable and supportable period with straight-line reversion to historical losses over the second year of the period. See additional discussion under the sections titled Loans, Credit Risk, Nonperforming Assets, and Allowance for Credit Losses on Loans. 
+
+Noninterest Income 
+
+Table 3 Noninterest Income Nine months ended Three months ended Changes vs ($ in Thousands, except as noted) Sep 30, 2022 Sep 30, 2021 YTD % Change Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 Jun 30, 2022 Sep 30, 2021 Wealth management fees $ 63,719 $ 67,229 (5) % $ 19,984 $ 21,332 $ 22,404 $ 22,625 $ 22,110 (6) % (10) % Service charges and deposit account fees 48,392 47,366 2 % 15,029 16,506 16,856 17,039 16,962 (9) % (11) % Card-based fees 32,847 31,838 3 % 11,479 11,442 9,926 11,176 11,113 &#8212; % 3 % Other fee-based revenue 12,613 12,769 (1) % 4,487 4,360 3,766 4,316 3,929 3 % 14 % Total fee-based revenue 157,571 159,203 (1) % 50,979 53,641 52,952 55,157 54,113 (5) % (6) % Capital markets, net 24,331 20,928 16 % 7,675 8,010 8,646 9,674 7,114 (4) % 8 % 
+
+Mortgage servicing fees, net (a) 
+
+5,847 (1,230) N/M 2,135 1,882 1,830 795 323 13 % N/M Gains and fair value adjustments on loans held for sale 1,046 31,709 (97) % 625 (363) 785 3,290 8,341 N/M (93) % 
+
+Changes in mortgage servicing rights valuation, net of economic hedge (b) 
+
+9,742 12,231 (20) % (661) 4,627 5,776 3,955 1,993 N/M N/M Mortgage banking, net 16,635 42,710 (61) % 2,098 6,145 8,391 8,041 10,657 (66) % (80) % Bank and corporate owned life insurance 8,004 8,551 (6) % 1,827 4,106 2,071 4,704 2,760 (56) % (34) % Other 6,613 8,425 (22) % 2,527 1,888 2,198 2,941 2,205 34 % 15 % Subtotal 213,154 239,817 (11) % 65,106 73,790 74,258 80,517 76,848 (12) % (15) % Asset gains, net 1,883 10,024 (81) % 18 1,677 188 985 5,228 (99) % (100) % Investment securities gains (losses), net 5,676 (16) N/M 5,664 (8) 21 &#8212; &#8212; N/M N/M Gain on the sale of branches, net (c) 
+
+&#8212; 1,038 (100) % &#8212; &#8212; &#8212; &#8212; &#8212; N/M N/M Total noninterest income $ 220,713 $ 250,862 (12) % $ 70,788 $ 75,458 $ 74,467 $ 81,502 $ 82,076 (6) % (14) % Mortgage loans originated for sale during period $ 535,694 $ 1,345,158 (60) % $ 131,743 $ 151,838 $ 252,113 $ 404,398 $ 455,842 (13) % (71) % Mortgage loan settlements during period 619,940 1,348,006 (54) % 119,530 204,321 296,089 426,785 463,425 (41) % (74) % 
+
+Assets under management, at market value (d) 
+
+11,142 11,561 12,937 13,679 13,148 (4) % (15) % N/M = Not Meaningful (a) Includes mortgage origination and servicing fees, net of MSRs amortization/decay. (b) On January 1, 2022, the Corporation made the irrevocable election to account for MSRs at fair value. For all prior periods, MSRs were carried at LOCOM. (c) Includes the deposit premium on the sale of branches net of miscellaneous costs to sell. See Note 2 Acquisitions and Dispositions of the notes to the consolidated financial statements for additional details on the branch sales. (d) $ in millions. Excludes assets held in brokerage accounts. 
+
+Notable Contributions to the Change in Noninterest Income 
+
+&#8226; Mortgage banking, net decreased $26 million from the first nine months of 2021, driven by decreased gains on sold loans due to lower mortgage settlements offset partially by a decrease in MSRs expense. 
+
+&#8226; Asset gains, net decreased $8 million from the first nine months of 2021, due to higher gains from private equity investments during the first nine months of 2021 and a gain of $2 million from the sale of Whitnell on March 1, 2021. 
+
+&#8226; Investment securities gains (losses), net increased $6 million from the first nine months of 2021, primarily due to the sale of Visa Class B restricted shares acquired from First Staunton and the subsequent write up of the remaining shares still held. 
+
+&#8226; Capital markets, net increased $3 million from the first nine months of 2021 as a result of higher interest rate swap revenue and higher syndication fees. 
+
+Noninterest Expense 
+
+Table 4 Noninterest Expense Nine months ended Three months ended Change vs ($ in Thousands) Sep 30, 2022 Sep 30, 2021 YTD % Change Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 Jun 30, 2022 Sep 30, 2021 Personnel $ 335,720 $ 318,900 5 % $ 118,243 $ 112,666 $ 104,811 $ 107,787 $ 107,880 5 % 10 % Technology 65,401 60,902 7 % 22,694 21,223 21,485 20,787 19,927 7 % 14 % Occupancy 43,948 46,649 (6) % 13,717 14,151 16,080 16,863 15,814 (3) % (13) % Business development and advertising 17,388 15,522 12 % 6,778 5,655 4,954 5,627 6,156 20 % 10 % Equipment 14,841 16,199 (8) % 4,921 4,960 4,960 4,905 5,200 (1) % (5) % Legal and professional 14,118 17,495 (19) % 4,159 4,873 5,087 4,428 4,304 (15) % (3) % Loan and foreclosure costs 5,121 6,508 (21) % 1,631 1,476 2,014 1,636 1,616 11 % 1 % FDIC assessment 16,300 13,350 22 % 5,800 5,400 5,100 4,800 5,000 7 % 16 % Other intangible amortization 6,608 6,642 (1) % 2,203 2,203 2,203 2,203 2,203 &#8212; % &#8212; % Other 31,057 25,547 22 % 15,645 8,815 6,597 13,173 9,793 77 % 60 % Total noninterest expense $ 550,503 $ 527,713 4 % $ 195,791 $ 181,420 $ 173,292 $ 182,210 $ 177,892 8 % 10 % 
+
+Average FTEs (a) 
+
+4,101 4,006 2 % 4,182 4,101 4,018 3,992 4,010 2 % 4 % (a) Average FTEs without overtime 
+
+Notable Contributions to the Change in Noninterest Expense 
+
+&#8226; Personnel expense increased $17 million from the first nine months of 2021, largely as a result of increased FTEs due to hiring related to previously announced initiatives and continued investment in our employees. 
+
+&#8226; Other expense increased $6 million from the first nine months of 2021, driven by a $6 million contribution to the Corporation's charitable remainder trust to fund donations out of the foundation. 
+
+&#8226; Legal and professional expenses decreased $3 million from the first nine months of 2021 as a result of lower consulting costs associated with mortgage activity. 
+
+&#8226; FDIC expense increased $3 million from the first nine months of 2021 due to a decrease in liquid assets. 
+
+Income Taxes 
+
+The Corporation recognized income tax expense of $68 million for the nine months ended September 30, 2022, compared to income tax expense of $70 million for the nine months ended September 30, 2021. The Corporation's effective tax rate was 20.94% for the first nine months of 2022, compared to an effective tax rate of 20.37% for the first nine months of 2021. The decrease in income tax expense during the first nine months of 2022 was primarily driven by a decrease in income before tax. The increase in the effective tax rate was primarily driven by an increase in state tax expense. The Corporation expects a full year effective tax rate of approximately 21%, assuming no change in the statutory corporate tax rate. 
+
+Income tax expense recorded on the consolidated statements of income involves the interpretation and application of certain accounting pronouncements and federal and state tax laws and regulations. The Corporation is subject to examination by various taxing authorities. Examination by taxing authorities may impact the amount of tax expense and/or the reserve for uncertainty in income taxes if their interpretations differ from those of management, based on their judgments about information available to them at the time of their examinations. 
+
+Balance Sheet Analysis 
+
+&#8226; At September 30, 2022, total assets were $38.0 billion, up $2.9 billion, or 8%, from December 31, 2021 and up $3.6 billion, or 10%, from September 30, 2021. 
+
+&#8226; Interest bearing deposits in other financial institutions were $112 million at September 30, 2022, down $570 million, or 84%, from December 31, 2021 and down $1.2 billion, or 91%, from September 30, 2021, due to the deployment of excess liquidity into investment securities purchases and loan growth. 
+
+&#8226; AFS investment securities, at fair value were $2.5 billion at September 30, 2022, down $1.8 billion, or 43%, from December 31, 2021, and down $1.4 billion, or 36%, from September 30, 2021. HTM investment securities, net, at amortized cost were $4.0 billion at September 30, 2022, up $1.7 billion, or 76%, from December 31, 2021 and up $2.0 billion, or 105%, from September 30, 2021, driven by a $1.6 billion transfer of AFS investment securities, at fair value, to HTM investment securities, net, at amortized cost during the first quarter of 2022. See Note 6 Investment Securities of the notes to consolidated financial statements for additional details. 
+
+&#8226; Lo ans of $27.8 billion at September 30, 2022 were up $3.6 billion , or 15%, from December 31, 2021 and up $4.2 billion, or 18%, from September 30, 2021 . See Note 7 Loans of the notes to consolidated financial statements for additional details. 
+
+&#8226; At September 30, 2022, total deposits of $29.2 billion were up $732 million, or 3%, from December 31, 2021 and were up $1.3 billion , or 5%, from September 30, 2021. See section Deposits and Customer Funding for additional information on deposits. 
+
+&#8226; FHLB advances were $3.8 billion at September 30, 2022, up $2.2 billion, or 133%, from both December 31, 2021 and September 30, 2021, mainly due to loan growth. See Note 9 Short and Long-Term Funding of the notes to consolidated financial statements for additional details. 
+
+Loans 
+
+Table 5 Period End Loan Composition &#160; Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 &#160;($ in Thousands) Amount % of Total Amount % of Total Amount % of Total Amount % of Total Amount % of Total PPP $ 1,050 &#8212; % $ 9,514 &#8212; % $ 17,995 &#8212; % $ 66,070 &#8212; % $ 182,121 1 % 
+
+Asset-based lending &#38; equipment finance (a) 
+
+380,830 1 % 263,044 1 % 231,040 1 % 178,027 1 % 111,027 &#8212; % Commercial and industrial 9,190,045 33 % 8,984,127 34 % 8,102,380 33 % 8,208,289 34 % 7,816,432 33 % Commercial real estate &#8212; owner occupied 999,786 4 % 928,152 4 % 973,572 4 % 971,326 4 % 879,554 4 % Commercial and business lending 10,571,711 38 % 10,184,836 38 % 9,324,986 38 % 9,423,711 39 % 8,989,133 38 % Commercial real estate &#8212; investor 5,064,289 18 % 4,790,241 18 % 4,469,241 18 % 4,384,569 18 % 4,296,489 18 % Real estate construction 1,835,159 7 % 1,775,648 7 % 1,760,076 7 % 1,808,976 7 % 1,834,871 8 % Commercial real estate lending 6,899,449 25 % 6,565,889 25 % 6,229,317 25 % 6,193,545 26 % 6,131,360 26 % Total commercial 17,471,159 63 % 16,750,726 63 % 15,554,303 63 % 15,617,256 64 % 15,120,493 64 % Residential mortgage 8,314,902 30 % 8,002,943 30 % 7,609,343 31 % 7,567,310 31 % 7,590,895 32 % Auto finance 1,117,136 4 % 847,969 3 % 497,523 2 % 143,045 1 % 6,739 &#8212; % Home equity 612,608 2 % 592,843 2 % 580,867 2 % 595,615 2 % 608,566 3 % Other consumer 301,475 1 % 300,217 1 % 289,889 1 % 301,723 1 % 294,979 1 % Total consumer 10,346,121 37 % 9,743,972 37 % 8,977,622 37 % 8,607,693 36 % 8,501,180 36 % Total loans $ 27,817,280 100 % $ 26,494,698 100 % $ 24,531,926 100 % $ 24,224,949 100 % $ 23,621,673 100 % 
+
+(a) Periods prior to March 31, 2022 do not include equipment finance. 
+
+The Corporation has long-term guidelines relative to the proportion of Commercial and Business, CRE, and Consumer loan commitments within the overall loan portfolio, with each targeted to represent 30 to 40% of the overall loan portfolio. The targeted long-term guidelines were unchanged during 2021 and the first nine months of 2022. Furthermore, certain sub-asset classes within the respective portfolios are further defined and dollar limitations are placed on these sub-portfolios. These guidelines and limits are reviewed quarterly and approved annually by the Enterprise Risk Committee of the Corporation&#8217;s Board of Directors. These guidelines and limits are designed to create balance and diversification within the loan portfolios. 
+
+The Corporation&#8217;s loan distribution and interest rate sensitivity as of September 30, 2022 are summarized in the following table: 
+
+Table 6 Loan Distribution and Interest Rate Sensitivity ($ in Thousands) Within 1 Year (a) 
+
+1-5 Years 5-15 Years Over 15 Years Total % of Total PPP $ 62 $ 988 $ &#8212; $ &#8212; $ 1,050 &#8212; % Asset-based lending &#38; equipment finance 175,462 134,233 71,135 &#8212; 380,830 1 % Commercial and industrial 8,673,678 387,540 119,480 9,347 9,190,045 33 % Commercial real estate &#8212; owner occupied 610,221 269,484 119,513 568 999,786 4 % Commercial real estate &#8212; investor 4,656,409 257,711 150,170 &#8212; 5,064,289 18 % Real estate construction 1,794,918 35,360 4,881 &#8212; 1,835,159 7 % Commercial - adjustable 8,593,863 17,829 17,326 &#8212; 8,629,018 31 % Commercial - fixed 7,316,888 1,067,486 447,852 9,915 8,842,141 32 % Residential mortgage - adjustable 316,296 675,107 1,853,298 88,305 2,933,006 11 % Residential mortgage - fixed 25,430 81,871 627,869 4,646,726 5,381,896 19 % Auto finance 253 246,150 870,733 &#8212; 1,117,136 4 % Home equity 554,178 16,388 34,671 7,370 612,608 2 % Other consumer 210,529 38,303 34,265 18,379 301,475 1 % Total loans $ 17,017,437 $ 2,143,135 $ 3,886,014 $ 4,770,694 $ 27,817,280 100 % Fixed-rate $ 7,921,998 $ 1,204,747 $ 1,144,682 $ 4,682,389 $ 14,953,816 54 % Floating or adjustable rate 9,095,439 938,388 2,741,332 88,305 12,863,464 46 % Total $ 17,017,437 $ 2,143,135 $ 3,886,014 $ 4,770,694 $ 27,817,280 100 % (a) Demand loans, past due loans, overdrafts, and credit cards are reported in the &#8220;Within 1 Year&#8221; category. 
+
+At September 30, 2022, $20.8 billion, or 75%, of the loans outstanding and $15.9 billion, or 91%, of the commercial loans outstanding were floating rate, adjustable rate, re-pricing within one year, or maturing within one year. 
+
+Credit Risk 
+
+An active credit risk management process is used for commercial loans to ensure that sound and consistent credit decisions are made. Credit risk is controlled by detailed underwriting procedures, comprehensive loan administration, and periodic review of borrowers&#8217; outstanding loans and commitments. Borrower relationships are formally reviewed and graded on an ongoing basis for early identification of potential problems. Further analysis by customer, industry, and geographic location are performed to monitor trends, financial performance, and concentrations. See Note 7 Loans of the notes to consolidated financial statements for additional information on managing overall credit quality. 
+
+The loan portfolio is widely diversified by types of borrowers, industry groups, and market areas within the Corporation's branch footprint. Significant loan concentrations are considered to exist when there are amounts loaned to numerous borrowers engaged in similar activities that would cause them to be similarly impacted by economic or other conditions. At September 30, 2022, no significant concentrations existed in the Corporation&#8217;s portfolio in excess of 10% of total loan exposure. 
+
+Commercial and business lending: The commercial and business lending classification primarily includes commercial loans to large corporations, middle market companies, small businesses, and lease financing. 
+
+Table 7 Largest Commercial and Industrial Industry Group Exposures, by NAICS Subsector September 30, 2022 NAICS Subsector Outstanding Balance Total Exposure % of Total Loan Exposure 
+
+Real Estate (a) 
+
+531 $ 1,799,566 $ 3,319,689 8 % 
+
+Credit Intermediation and Related Activities (b) 
+
+522 1,000,071 2,477,339 6 % 
+
+Utilities (c) 
+
+221 2,107,765 2,471,723 6 % Merchant Wholesalers, Durable Goods 423 423,488 805,326 2 % 
+
+(a) Includes REIT lines 
+
+(b) Includes mortgage warehouse lines 
+
+(c) 51% of the total exposure supports wind and solar projects 
+
+The remaining commercial and industrial portfolio is spread over a diverse range of industries, none of which exceed 2% of total loan exposure. 
+
+The CRE-owner occupied portfolio is spread over a diverse range of industries, none of which exceed 2% of total loan exposure. 
+
+The credit risk related to commercial loans is largely influenced by general economic conditions and the resulting impact on a borrower&#8217;s operations or on the value of underlying collateral, if any. 
+
+Commercial real estate - investor: CRE-investor is comprised of loans secured by various non-owner occupied or investor income producing property types. 
+
+Table 8 Largest Commercial Real Estate Investor Property Type Exposures September 30, 2022 % of Total Loan Exposure % of Total Commercial Real Estate - Investor Loan Exposure Multi-Family 4 % 33 % Office 3 % 23 % Industrial 3 % 23 % 
+
+The remaining CRE-investor portfolio is spread over various other property types, none of which exceed 2% of total loan exposure. 
+
+Credit risk is managed in a similar manner to commercial and business lending by employing sound underwriting guidelines, lending primarily to borrowers in local markets and businesses, periodically evaluating the underlying collateral, and formally reviewing the borrower&#8217;s financial soundness and relationship on an ongoing basis. 
+
+Real estate construction: Real estate construction loans are primarily short-term or interim loans that provide financing for the acquisition or development of commercial income properties, multi-family projects, or residential development, both single family and condominium. Real estate construction loans are made to developers and project managers who are generally well known to the Corporation and have prior successful project experience. The credit risk associated with real estate construction loans is generally confined to specific geographic areas but is also influenced by general economic conditions. The Corporation controls the credit risk on these types of loans by making loans in familiar markets to developers, reviewing the merits of individual projects, controlling loan structure, and monitoring project progress and construction advances. 
+
+Table 9 Largest Real Estate Construction Property Type Exposures September 30, 2022 % of Total Loan Exposure % of Total Real Estate Construction Loan Exposure Multi-Family 4 % 37 % Industrial 3 % 26 % Single Family 3 % 21 % 
+
+The remaining real estate construction portfolio is spread over various other property types, none of which exceed 2% of total loan exposure. 
+
+The Corporation&#8217;s current lending standards for CRE and real estate construction lending are determined by property type and specifically address many criteria, including: maximum loan amounts, maximum LTV, requirements for pre-leasing and / or presales, minimum borrower equity, and maximum loan-to-cost. Currently, the maximum standard for LTV is 80%, with lower limits established for certain higher risk types, such as raw land that has a 50% LTV maximum. The Corporation&#8217;s LTV guidelines are in compliance with regulatory supervisory limits. In most cases, for real estate construction loans, the loan amounts include interest reserves, which are built into the loans and sized to fund loan payments through construction and lease up and / or sell out. 
+
+Residential mortgages: Residential mortgage loans are primarily first lien home mortgages with a maximum loan-to-collateral value without credit enhancement (e.g. private mortgage insurance) of 80%. The residential mortgage portfolio is focused primarily in the Corporation's three-state branch footprint, with approximately 87% of the outstanding loan balances in the Corporation's branch footprint at September 30, 2022. The rates on adjustable rate mortgages adjust based upon the movement in the underlying index which is then added to a margin and rounded to the nearest 0.125%. That result is then subjected to any periodic caps to produce the borrower's interest rate for the coming term. Most of the adjustable rate mortgages have an initial fixed rate term of 3, 5, 7 or 10 years. 
+
+The Corporation generally retains certain fixed-rate residential real estate mortgages in its loan portfolio, including retail and private banking jumbo mortgages and CRA-related mortgages. As part of management&#8217;s historical practice of originating and servicing residential mortgage loans, generally the Corporation&#8217;s 30 year, agency conforming, fixed-rate residential real estate mortgage loans have been sold in the secondary market with servicing rights retained. Subject to management&#8217;s analysis of the current interest rate environment, among other market factors, the Corporation may choose to retain mortgage loan production on its balance sheet. See section Loans for additional information on loans. 
+
+The Corporation&#8217;s underwriting and risk-based pricing guidelines for residential mortgage loans include minimum borrower FICO score and maximum LTV of the property securing the loan. Residential mortgage products generally are underwritten using FHLMC and FNMA secondary marketing guidelines. 
+
+Home equity: Home equity consists of both home equity lines of credit and closed-end home equity loans. The Corporation&#8217;s credit risk monitoring guidelines for home equity are based on an ongoing review of loan delinquency status, as well as a quarterly review of FICO score deterioration and property devaluation. The Corporation does not routinely obtain appraisals on performing loans to update LTV ratios after origination; however, the Corporation monitors the local housing markets by reviewing the various home price indices and incorporates the impact of the changing market conditions in its ongoing credit monitoring process. For junior lien home equity loans, the Corporation is unable to track the performance of the first lien loan if it does not own or service the first lien loan. However, the Corporation obtains a refreshed FICO score on a quarterly basis and monitors this as part of its assessment of the home equity portfolio. 
+
+The Corporation&#8217;s underwriting and risk-based pricing guidelines for home equity lines of credit and loans consist of a combination of both borrower FICO score and the original cumulative LTV against the property securing the loan. Currently, the Corporation's policy sets the maximum acceptable LTV at 90%. The Corporation's current home equity line of credit offering is priced based on floating rate indices and generally allows 10 years of interest-only payments followed by a 20-year amortization of the outstanding balance. The loans in the Corporation's portfolio generally have an original term of 20 years with principal and interest payments required. See section Loans for additional information on loans. 
+
+Indirect Auto: The Corporation currently purchases retail auto sales contracts via a network of approved auto dealerships across 13 states throughout the Northeast, Mid-Atlantic and Midwestern United States. The auto dealerships finance the sale of automobiles as the initial lender and then assign the contracts to the Corporation pursuant to dealer agreements. The Corporation&#8217;s underwriting and pricing guidelines are based on a dual risk grade derived from a combination of FICO auto score and proprietary internal custom score. Minimum grade and FICO score standards ensure the credit risk is appropriately managed to the Corporation&#8217;s risk appetite. Further, the grade influences loan-specific parameters such as vehicle age, term, LTV, loan amount, mileage, payment and debt service thresholds, and pricing. Maximum loan terms offered are 84 months on select grades with vehicle age, mileage, and other limitations in place to qualify. The program is designed to capture primarily prime and super prime contracts. Over time, the Corporation expects roughly 60% of originations to be secured by used vehicles. 
+
+Other consumer: Other consumer consists of student loans, short-term personal installment loans, and credit cards. The Corporation had $85 million and $101 million of student loans at September 30, 2022 and December 31, 2021, respectively, the majority of which are government guaranteed. Currently, there is federal student loan relief in effect through December 31, 2022. Credit risk for non-government guaranteed student loans, short-term personal installment loans, and credit cards is influenced by general economic conditions, the characteristics of individual borrowers, and the nature of the loan collateral. Risks of loss are generally on smaller average balances per loan spread over many borrowers. Once charged off, there is usually less opportunity for recovery of these smaller consumer loans. Credit risk is primarily controlled by reviewing the creditworthiness of the borrowers, monitoring payment histories, and taking appropriate collateral and guarantee positions. The student loan portfolio is in run-off and no new student loans are being originated. 
+
+Nonperforming Assets 
+
+Management is committed to a proactive nonaccrual and problem loan identification philosophy. This philosophy is implemented through the ongoing monitoring and review of all pools of risk in the loan portfolio to ensure that problem loans are identified quickly and the risk of loss is minimized. Table 10 provides detailed information regarding NPAs, which include nonaccrual loans, OREO, and repossessed assets: 
+
+Table 10 Nonperforming Assets &#160;($ in Thousands) Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 Nonperforming assets PPP $ &#8212; $ &#8212; $ 41 $ 46 $ &#8212; Commercial and industrial 15,576 843 225 6,233 8,497 Commercial real estate &#8212; owner occupied &#8212; &#8212; &#8212; &#8212; 7 Commercial and business lending 15,576 843 266 6,279 8,504 Commercial real estate &#8212; investor 37,479 46,823 80,886 60,677 61,504 Real estate construction 141 604 609 177 247 Commercial real estate lending 37,620 47,427 81,495 60,855 61,751 Total commercial 53,196 48,270 81,761 67,134 70,256 Residential mortgage 55,485 52,840 53,827 55,362 56,678 Auto finance 302 53 49 52 67 Home equity 7,325 7,100 7,490 7,726 7,838 Other consumer 98 83 95 170 222 Total consumer 63,210 60,075 61,460 63,309 64,806 Total nonaccrual loans 116,406 108,345 143,221 130,443 135,062 Commercial real estate owned 325 957 861 984 1,005 Residential real estate owned 2,560 3,042 2,209 3,666 2,126 
+
+Bank properties real estate owned (a) 
+
+13,487 13,880 15,123 24,969 30,724 OREO 16,373 17,879 18,194 29,619 33,855 Repossessed assets 299 102 &#8212; &#8212; &#8212; Total nonperforming assets $ 133,078 $ 126,327 $ 161,414 $ 160,062 $ 168,917 Accruing loans past due 90 days or more Commercial $ 121 $ 133 $ 125 $ 151 $ 98 Consumer 1,297 1,422 1,470 1,111 932 Total accruing loans past due 90 days or more $ 1,417 $ 1,555 $ 1,595 $ 1,263 $ 1,029 Restructured loans (accruing) Commercial $ 16,097 $ 15,425 $ 10,127 $ 22,763 $ 25,582 Consumer 19,036 18,828 19,876 19,768 18,917 Total restructured loans (accruing) $ 35,132 $ 34,253 $ 30,003 $ 42,530 $ 44,499 Nonaccrual restructured loans (included in nonaccrual loans) $ 21,650 $ 22,172 $ 19,352 $ 17,426 $ 15,226 Ratios Nonaccrual loans to total loans 0.42 % 0.41 % 0.58 % 0.54 % 0.57 % NPAs to total loans plus OREO and repossessed assets 0.48 % 0.48 % 0.66 % 0.66 % 0.71 % NPAs to total assets 0.35 % 0.34 % 0.46 % 0.46 % 0.49 % Allowance for credit losses on loans to nonaccrual loans 285.79 % 293.09 % 221.92 % 245.16 % 246.02 % 
+
+Table 10 Nonperforming Assets (continued) &#160;($ in Thousands) Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 Accruing loans 30-89 days past due PPP $ 252 $ 1,475 $ 1 $ 83 $ 568 Commercial and industrial 1,609 167 1,085 632 1,229 Commercial real estate &#8212; owner occupied &#8212; &#8212; 198 163 30 Commercial and business lending 1,861 1,642 1,284 878 1,827 Commercial real estate &#8212; investor &#8212; 5,484 &#8212; 616 17,021 Real estate construction 43 &#8212; &#8212; 1,620 &#8212; Commercial real estate lending 43 5,484 &#8212; 2,236 17,021 Total commercial 1,904 7,126 1,284 3,114 18,848 Residential mortgage 6,517 5,315 4,957 6,169 7,095 Auto finance 6,206 2,906 949 11 10 Home equity 4,234 2,961 4,207 3,711 2,931 Other consumer 1,592 1,365 1,232 2,307 1,272 Total consumer 18,549 12,547 11,345 12,198 11,308 Total accruing loans 30-89 days past due $ 20,452 $ 19,673 $ 12,629 $ 15,312 $ 30,156 Potential problem loans 
+
+PPP (b) 
+
+$ 40 $ 47 $ 54 $ 2,000 $ 4,160 
+
+Asset-based lending &#38; equipment finance (c) 
+
+19,266 19,813 19,057 17,697 &#8212; Commercial and industrial 89,250 84,785 93,396 120,561 124,990 Commercial real estate &#8212; owner occupied 28,287 38,628 24,005 26,723 21,241 Commercial and business lending 136,843 143,273 136,513 166,981 150,391 Commercial real estate &#8212; investor 117,982 132,635 130,792 106,138 78,962 Real estate construction &#8212; 82 200 21,408 19,187 Commercial real estate lending 117,982 132,717 130,992 127,546 98,150 Total commercial 254,825 275,990 267,505 294,527 248,541 Residential mortgage 2,845 3,297 3,032 2,214 2,374 Home equity 185 188 156 165 171 Total consumer 3,030 3,486 3,188 2,379 2,546 Total potential problem loans $ 257,855 $ 279,475 $ 270,693 $ 296,905 $ 251,087 
+
+(a) Primarily closed branches and other bank operated real estate facilities, pending disposition. 
+
+(b) The Corporation&#8217;s policy is to assign risk ratings at the borrower level. PPP loans are 100% guaranteed by the SBA and therefore the Corporation considers these loans to have a &#160; risk profile similar to pass rated loans. 
+
+(c) Periods prior to March 31, 2022 do not include equipment finance . 
+
+Nonaccrual loans: Nonaccrual loans are considered to be one indicator of potential future loan losses. See Note 7 Loans of the notes to consolidated financial statements for additional nonaccrual loan disclosures. See also sections Credit Risk and Allowance for Credit Losses on Loans. 
+
+Accruing loans past due 90 days or more: Loans past due 90 days or more but still accruing interest are classified as such where the underlying loans are both well secured (the collateral value is sufficient to cover principal and accrued interest) and are in the process of collection. 
+
+Restructured loans: Loans are considered restructured loans if concessions have been granted to borrowers that are experiencing financial difficulty. See also Note 7 Loans of the notes to consolidated financial statements for additional restructured loans disclosures. 
+
+Potential problem loans: The level of potential problem loans is another predominant factor in determining the relative level of risk in the loan portfolio and in determining the appropriate level of the ACLL. Potential problem loans are generally defined by management to include loans rated as substandard by management that are collectively evaluated (not nonaccrual loans or accruing TDRs); however, there are circumstances present to create doubt as to the ability of the borrower to comply with present repayment terms. The decision of management to include performing loans in potential problem loans does not necessarily mean that the Corporation expects losses to occur, but that management recognizes a higher degree of risk associated with these loans. 
+
+OREO: Management actively seeks to ensure OREO properties held are monitored to minimize the Corporation&#8217;s risk of loss. 
+
+Allowance for Credit Losses on Loans 
+
+Credit risks within the loan portfolio are inherently different for each loan type. Credit risk is controlled and monitored through the use of lending standards, a thorough review of potential borrowers, and ongoing review of loan payment performance. Active asset quality administration, including early problem loan identification and timely resolution of problems, aids in the management of credit risk and the minimization of loan losses. Credit risk management for each loan type is discussed in the section entitled Credit Risk. See Note 7 Loans of the notes to consolidated financial statements for additional disclosures on the ACLL. 
+
+To assess the appropriateness of the ACLL, the Corporation focuses on the evaluation of many factors, including but not limited to: evaluation of facts and issues related to specific loans, management&#8217;s ongoing review and grading of the loan portfolio, credit report refreshes, consideration of historical loan loss and delinquency experience on each portfolio category, trends in past due and nonaccrual loans, the level of potential problem loans, the risk characteristics of the various classifications of loan segments, changes in the size and character of the loan portfolio, concentrations of loans to specific borrowers or industries, existing economic conditions and economic forecasts, the fair value of underlying collateral, funding assumptions on lines, and other qualitative and quantitative factors which could affect potential credit losses. The Corporation utilized the Moody's baseline forecast for August 2022 which was compared to the September 2022 forecast for material updates, in the allowance model. The forecast is applied over a 2 year reasonable and supportable period with straight-line reversion to historical losses over the second year of the period. Assessing these factors involves significant judgment. Because each of the criteria used is subject to change, the ACLL is not necessarily indicative of the trend of future credit losses on loans in any particular segment. Therefore, management considers the ACLL a critical accounting estimate, see section Critical Accounting Estimates for additional information on the ACLL. See section Nonperforming Assets for a detailed discussion on asset quality. See also Note 7 Loans of the notes to consolidated financial statements for additional ACLL disclosures. Table 5 provides information on loan growth and period end loan composition, Table 10 provides additional information regarding NPAs, and Table 11 and Table 12 provide additional information regarding activity in the ACLL. 
+
+The loan segmentation used in calculating the ACLL at September 30, 2022 and December 31, 2021 was generally comparable. The methodology to calculate the ACLL consists of the following components: a valuation allowance estimate is established for commercial and consumer loans determined by the Corporation to be individually evaluated, using discounted cash flows, estimated fair value of underlying collateral, and/or other data available. Loans are segmented for criticized loan pools by loan type as well as for non-criticized loan pools by loan type, primarily based on risk rating rates after considering loan type, historical loss and delinquency experience, credit quality, and industry classifications. Loans that have been criticized are considered to have a higher risk of default than non-criticized loans, as circumstances were present to support the lower loan grade, warranting higher loss factors. Additionally, management allocates ACLL to absorb losses that may not be provided for by the other components due to qualitative factors evaluated by management, such as limitations within the credit risk grading process, known current economic or business conditions that may not yet show in trends, industry or other concentrations with current issues that impose higher inherent risks than are reflected in the loss factors, and other relevant considerations. The total allowance is available to absorb losses from any segment of the loan portfolio. 
+
+Table 11 Allowance for Credit Losses on Loans YTD Quarter Ended ($ in Thousands) Sep 30, 2022 Sep 30, 2021 Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 Allowance for Loan Losses Balance at beginning of period $ 280,015 $ 383,702 $ 280,771 $ 279,058 $ 280,015 $ 290,997 $ 318,811 Provision for loan losses 13,000 (75,500) 14,000 2,000 (3,000) (4,500) (20,000) Charge offs (7,165) (31,784) (3,346) (1,791) (2,028) (8,869) (10,929) Recoveries 7,054 14,579 1,478 1,504 4,072 2,387 3,115 Net (charge offs) recoveries (111) (17,205) (1,867) (287) 2,044 (6,482) (7,814) Balance at end of period $ 292,904 $ 290,997 $ 292,904 $ 280,771 $ 279,058 $ 280,015 $ 290,997 Allowance for Unfunded Commitments Balance at beginning of period $ 39,776 $ 47,776 $ 36,776 $ 38,776 $ 39,776 $ 41,276 $ 45,276 Provision for unfunded commitments &#8212; (6,500) 3,000 (2,000) (1,000) (1,500) (4,000) Balance at end of period $ 39,776 $ 41,276 $ 39,776 $ 36,776 $ 38,776 $ 39,776 $ 41,276 Allowance for credit losses on loans $ 332,680 $ 332,273 $ 332,680 $ 317,547 $ 317,835 $ 319,791 $ 332,273 Provision for credit losses on loans 13,000 (82,000) 17,000 &#8212; (4,000) (6,000) (24,000) Net loan (charge offs) recoveries 
+
+Asset-based lending &#38; equipment finance (a) 
+
+$ &#8212; $ 385 $ &#8212; $ &#8212; $ &#8212; $ 27 $ 91 Commercial and industrial 512 (6,743) (897) (444) 1,854 (6,669) (9,149) Commercial real estate &#8212; owner occupied 10 115 3 4 3 4 106 Commercial and business lending 523 (6,242) (894) (440) 1,857 (6,638) (8,951) Commercial real estate &#8212; investor &#8212; (11,293) &#8212; &#8212; &#8212; 109 181 Real estate construction 43 69 9 2 32 52 18 Commercial real estate lending 43 (11,224) 9 2 32 162 199 Total commercial 565 (17,467) (885) (439) 1,889 (6,476) (8,752) Residential mortgage 465 (32) (42) 220 288 (6) 300 Auto finance (175) 20 (165) (14) 4 (11) 8 Home equity 675 1,640 (101) 461 315 546 959 Other consumer (1,642) (1,366) (675) (516) (451) (534) (329) Total consumer (676) 262 (983) 151 155 (6) 938 Total net (charge offs) recoveries $ (111) $ (17,205) $ (1,867) $ (287) $ 2,044 $ (6,482) $ (7,814) Ratios Allowance for credit losses on loans to total loans 1.20 % 1.20 % 1.30 % 1.32 % 1.41 % Allowance for credit losses on loans to net charge offs (annualized) N/M 14.4x 44.9x N/M N/M 12.4x 10.7x Loan Evaluation Method for ACLL Individually evaluated for impairment $ 15,739 $ 10,068 $ 13,625 $ 15,194 $ 19,913 Collectively evaluated for impairment 316,942 307,480 304,210 304,597 312,359 Total ACLL $ 332,680 $ 317,547 $ 317,835 $ 319,791 $ 332,273 Loan Balance Individually evaluated for impairment $ 87,712 $ 81,457 $ 110,445 $ 115,643 $ 131,484 Collectively evaluated for impairment 27,729,568 26,413,241 24,421,481 24,109,306 23,490,189 Total loan balance $ 27,817,280 $ 26,494,698 $ 24,531,926 $ 24,224,949 $ 23,621,673 
+
+N/M = Not Meaningful 
+
+(a) Periods prior to March 31, 2022 do not include equipment finance. 
+
+Table 12 Annualized Net (Charge Offs) Recoveries (a) YTD Quarter Ended (In basis points) Sep 30, 2022 Sep 30, 2021 Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 Net loan (charge offs) recoveries 
+
+Asset-based lending &#38; equipment finance (b) 
+
+&#8212; 43 &#8212; &#8212; &#8212; 9 36 Commercial and industrial 1 (12) (4) (2) 10 (34) (47) Commercial real estate &#8212; owner occupied &#8212; 2 &#8212; &#8212; &#8212; &#8212; 5 Commercial and business lending 1 (9) (3) (2) 8 (29) (40) Commercial real estate &#8212; investor &#8212; (35) &#8212; &#8212; &#8212; 1 2 Real estate construction &#8212; &#8212; &#8212; &#8212; 1 1 &#8212; Commercial real estate lending &#8212; (24) &#8212; &#8212; &#8212; 1 1 Total commercial &#8212; (15) (2) (1) 5 (17) (23) Residential mortgage 1 &#8212; &#8212; 1 2 &#8212; 2 Auto finance (4) 31 (7) (1) 1 (9) 43 Home equity 15 34 (7) 32 22 36 61 Other consumer (74) (62) (89) (70) (62) (71) (44) Total consumer (1) &#8212; (4) 1 1 &#8212; 4 Total net (charge offs) recoveries &#8212; (10) (3) &#8212; 3 (11) (13) 
+
+(a) Annualized ratio of net charge offs to average loans by loan type. 
+
+(b) Periods prior to March 31, 2022 do not include equipment finance. 
+
+Notable Contributions to the Change in the Allowance for Credit Losses on Loans 
+
+&#8226; Potential problem loans decreased $39 million, or 13%, from December 31, 2021, and increased $7 million, or 3%, from September 30, 2021. The decrease from December 31, 2021 was primarily driven by decreases in commercial and industrial and real estate construction lending, partially offset by an increase in CRE-investor lending. The increase from September 30, 2021 was primarily driven by increases in CRE-investor and asset-based lending and equipment finance, partially offset by decreases in commercial and industrial and real estate construction lending. See Table 10 for additional information regarding potential problem loans. 
+
+&#8226; Total nonaccrual loans decreased $14 million, or 11%, from December 31, 2021, and decreased $19 million, or 14%, from September 30, 2021. The decreases from both December 31, 2021 and September 30, 2021 were primarily due to a decrease in CRE-investor lending, partially offset by an increase in commercial and industrial lending. See Note 7 Loans of the notes to consolidated financial statements and Table 10 for additional disclosures on the changes in asset quality. 
+
+&#8226; YTD net charge offs decreased $17 million from September 30, 2021, primarily driven by no charge offs in the CRE-investor portfolio in the current period, combined with a net recovery within the commercial portfolio. See Table 11 and Table 12 for additional information on the activity in the ACLL. 
+
+Management believes the level of ACLL to be appropriate at September 30, 2022. 
+
+Deposits and Customer Funding 
+
+The following table summarizes the composition of our deposits and customer funding: 
+
+Table 13 Period End Deposit and Customer Funding Composition Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 &#160;($ in Thousands) Amount % of Total Amount % of Total Amount % of Total Amount % of Total Amount % of Total Noninterest-bearing demand $ 8,224,579 28 % $ 8,085,702 28 % $ 8,315,699 29 % $ 8,504,077 30 % $ 8,170,105 29 % Savings 4,708,720 16 % 4,708,156 16 % 4,661,232 16 % 4,410,198 15 % 4,278,453 15 % Interest-bearing demand 7,122,218 24 % 6,789,722 24 % 6,616,767 23 % 7,019,782 25 % 6,407,844 23 % Money market 7,909,232 27 % 7,769,415 27 % 7,522,797 26 % 7,185,111 25 % 7,583,978 27 % Time deposits 1,233,833 4 % 1,223,581 4 % 1,288,913 5 % 1,347,262 5 % 1,410,886 5 % Total deposits $ 29,198,581 100 % $ 28,576,577 100 % $ 28,405,409 100 % $ 28,466,430 100 % $ 27,851,266 100 % 
+
+Customer funding (a) 
+
+283,856 296,440 299,301 354,142 322,081 Total deposits and customer funding $ 29,482,437 $ 28,873,017 $ 28,704,710 $ 28,820,572 $ 28,173,348 
+
+Network transaction deposits (b) 
+
+$ 864,086 $ 891,902 $ 762,680 $ 766,965 $ 929,174 Net deposits and customer funding (total deposits and customer funding, excluding network transaction deposits) 
+
+28,618,351 27,981,114 27,942,029 28,053,607 27,244,174 Time deposits of more than $250,000 222,318 180,705 209,208 215,100 223,075 (a) Securities sold under agreement to repurchase and commercial paper. (b) Included above in interest-bearing demand and money market. 
+
+&#8226; Total deposits, which are the Corporation's largest source of funds, increased $732 million, or 3%, from December 31, 2021, and increased $1.3 billion, or 5%, from September 30, 2021. 
+
+Liquidity 
+
+The objective of liquidity risk management is to ensure that the Corporation has the ability to generate sufficient cash or cash equivalents in a timely and cost effective manner to satisfy the cash flow requirements of depositors and borrowers and to meet its other commitments as they become due. The Corporation&#8217;s liquidity risk management process is designed to identify, measure, and manage the Corporation&#8217;s funding and liquidity risk to meet its daily funding needs in the ordinary course of business, as well as to address expected and unexpected changes in its funding requirements. The Corporation engages in various activities to manage its liquidity risk, including diversifying its funding sources, stress testing, and holding readily-marketable assets which can be used as a source of liquidity, if needed. 
+
+The Corporation performs dynamic scenario analysis in accordance with industry best practices. Measures have been established to ensure the Corporation has sufficient high quality short-term liquidity to meet cash flow requirements under stressed scenarios. In addition, the Corporation also reviews static measures such as deposit funding as a percentage of total assets and liquid asset levels. Strong capital ratios, credit quality, and core earnings are also essential to maintaining cost effective access to wholesale funding markets. At September 30, 2022, the Corporation was in compliance with its internal liquidity objectives and had sufficient asset-based liquidity to meet its obligations under a stressed scenario. 
+
+The Corporation maintains diverse and readily available liquidity sources, including: 
+
+&#8226; Investment securities, which are an important tool to the Corporation&#8217;s liquidity objective and can be pledged or sold to enhance liquidity, if necessary. See Note 6 Investment Securities of the notes to consolidated financial statements for additional information on the Corporation's investment securities portfolio, including pledged investment securities. 
+
+&#8226; Pledgeable loan collateral, which is eligible collateral with both the Federal Reserve Bank and the FHLB under established lines of credit. Based on the amount of collateral pledged, the FHLB established a collateral value from which the Bank may draw advances, and issue letters of credit in favor of public fund depositors, against the collateral. As of September 30, 2022, the Bank had $1.4 billion available for future funding. The Federal Reserve Bank also establishes a collateral value of assets to support borrowings from the discount window. As of September 30, 2022, the Bank had $566 million available for discount window borrowings. 
+
+&#8226; A $200 million Parent Company commercial paper program, of which $8 million was outstanding as of September 30, 2022. 
+
+&#8226; Dividends and service fees from subsidiaries, as well as the proceeds from issuance of capital, which are also funding sources for the Parent Company. 
+
+&#8226; Acquisition related equity issuances by the Parent Company; the Corporation has filed a shelf registration statement with the SEC under which the Parent Company may, from time to time, offer shares of the Corporation&#8217;s common stock in connection with acquisitions of businesses, assets, or securities of other companies. 
+
+&#8226; Other issuances by the Parent Company; the Corporation maintains on file with the SEC a universal shelf registration statement, under which the Parent Company may offer the following securities, either separately or in units: debt securities, preferred stock, depositary shares, common stock, and warrants. 
+
+&#8226; Bank issuances; the Bank may also issue institutional CDs, network transaction deposits, and brokered CDs. 
+
+&#8226; Global Bank Note Program issuances; the Bank has implemented a program pursuant to which it may from time to time offer up to $2.0 billion aggregate principal amount of its unsecured senior and subordinated notes. 
+
+Credit ratings relate to the Corporation&#8217;s ability to issue debt securities and the cost to borrow money, and should not be viewed as an indication of future stock performance or a recommendation to buy, sell, or hold securities. Adverse changes in these factors could result in a negative change in credit ratings and impact not only the ability to raise funds in the capital markets but also the cost of these funds. The credit ratings of the Parent Company and the Bank at September 30, 2022 are displayed below: 
+
+Table 14 Credit Ratings &#160; Moody&#8217;s S&#38;P Bank short-term deposits P-1 - Bank long-term deposits/issuer A1 BBB+ Corporation commercial paper P-2 - Corporation long-term senior debt/issuer Baa1 BBB Outlook Negative Stable 
+
+For the nine months ended September 30, 2022, net cash provided by operating and financing activities was $722 million and $2.7 billion, respectively, while net cash used in investing activities was $4.0 billion, for a net decrease in cash and cash equivalents of $523 million since year-end 2021. At September 30, 2022, assets of $38.0 billion increased $2.9 billion, or 8%, from year-end 2021, primarily due to loan growth. On the funding side, deposits of $29.2 billion increased $732 million, or 3%, from year-end 2021 and FHLB advances increased $2.2 billion, or 133%, to fund loan growth. 
+
+For the nine months ended September 30, 2021, net cash provided by operating activities and financing activities was $364 million and $768 million, respectively, while net cash used in investing activities was $162 million, for a net increase in cash and cash equivalents of $970 million from year-end 2020. At September 30, 2021, assets of $34.4 billion increased $1.0 billion, or 3%, from year-end 2020, primarily driven by a $983 million increase in interest-bearing deposits in other financial institutions and an increase of $808 million, or 26%, in AFS investment securities, at fair value, partially offset by a $830 million, or 3%, decrease in loans. On the funding side, deposits of $27.9 billion increased $1.4 billion, or 5%, from year-end 2020 related to deposit inflows from government stimulus programs and changing customer savings habits. 
+
+Quantitative and Qualitative Disclosures about Market Risk 
+
+Market risk and interest rate risk are managed centrally. Market risk is the potential for loss arising from adverse changes in the fair value of fixed-income securities, equity securities, other earning assets and derivative financial instruments as a result of changes in interest rates or other factors. Interest rate risk is the potential for reduced net interest income resulting from adverse changes in the level of interest rates. As a financial institution that engages in transactions involving an array of financial products, the Corporation is exposed to both market risk and interest rate risk. In addition to market risk, interest rate risk is measured and managed through a number of methods. The Corporation uses financial modeling simulation techniques that measure the sensitivity of future earnings due to changing rate environments to measure interest rate risk. 
+
+Policies established by the Corporation&#8217;s ALCO and approved by the Board of Directors are intended to limit these risks. The Board has delegated day-to-day responsibility for managing market and interest rate risk to ALCO. The primary objectives of market risk management are to minimize any adverse effect that changes in market risk factors may have on net interest income and to offset the risk of price changes for certain assets recorded at fair value. 
+
+Interest Rate Risk 
+
+The primary goal of interest rate risk management is to control exposure to interest rate risk within policy limits approved by the Board of Directors. These limits and guidelines reflect the Corporation's risk appetite for interest rate risk over both short-term and long-term horizons. No interest rate limit breaches occurred during the first nine months of 2022. 
+
+The major sources of the Corporation's non-trading interest rate risk are timing differences in the maturity and re-pricing characteristics of assets and liabilities, changes in the shape of the yield curve, and the potential exercise of explicit or embedded options. We measure these risks and their impact by identifying and quantifying exposures through the use of sophisticated simulation and valuation models which are employed by management to understand NII at risk, interest rate sensitive EAR, and MVE at risk. The Corporation&#8217;s interest rate risk profile is such that a higher or steeper yield curve adds to income while a flatter yield curve is relatively neutral, and a lower or inverted yield curve generally has a negative impact on earnings. The Corporation's EAR profile is asset sensitive at September 30, 2022. 
+
+For further discussion of the Corporation's interest rate risk and corresponding key assumptions, see the Interest Rate Risk section of Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations included in the Corporation&#8217;s 2021 Annual Report on Form 10-K. 
+
+The sensitivity analysis included below is measured as a percentage change in NII and EAR due to gradual moves in benchmark interest rates from a baseline scenario over 12 months. We evaluate the sensitivity using: 1) a dynamic forecast incorporating expected growth in the balance sheet, and 2) a static forecast where the current balance sheet is held constant. 
+
+While a gradual shift in interest rates was used in this analysis to provide an estimate of exposure under a probable scenario, an instantaneous shift in interest rates would have a more significant impact. 
+
+Table 15 Estimated % Change in Rate Sensitive Earnings at Risk Over 12 Months Sep 30, 2022 Dec 31, 2021 &#160; Dynamic Forecast Static Forecast Dynamic Forecast Static Forecast Gradual Rate Change 100 bp increase in interest rates 4.6 % 3.4 % 5.0 % 5.4 % 200 bp increase in interest rates 9.2 % 6.8 % 10.6 % 11.7 % 
+
+At September 30, 2022, the MVE profile indicates a decrease in net balance sheet value due to instantaneous upward changes in rates. 
+
+Table 16 Market Value of Equity Sensitivity Sep 30, 2022 Dec 31, 2021 Instantaneous Rate Change 100 bp increase in interest rates (4.2) % (1.8) % 200 bp increase in interest rates (8.2) % (3.7) % 
+
+Since MVE measures the discounted present value of cash flows over the estimated lives of instruments, the change in MVE does not directly correlate to the degree that earnings would be impacted over a shorter time horizon (i.e., the current year). Further, MVE does not take into account factors such as future balance sheet growth, changes in product mix, changes in yield curve relationships, and changes in product spreads that could mitigate the adverse impact of changes in interest rates. 
+
+The above NII, EAR, and MVE measures do not include all actions that management may undertake to manage this risk in response to anticipated changes in interest rates. 
+
+In 2014, the Financial Stability Oversight Council and Financial Stability Board raised concerns about the reliability and robustness of LIBOR and called for the development of alternative interest rate benchmarks. The ARRC, through authority from the Federal Reserve, has selected SOFR as the alternative rate and developed a paced transition plan which addresses the risk that LIBOR may not exist beyond June 2023. 
+
+As part of the Corporation's efforts to limit exposure to LIBOR based loans, performing borrowers can modify or refinance their residential mortgage loans to a fixed interest rate or an adjustable rate mortgage tied to the one-year treasury adjusted to a constant maturity of one year with an appropriate margin. This provides the Bank and borrower with greater certainty around the loan structure. The Bank has not booked a LIBOR adjustable rate mortgage since the first quarter of 2020. 
+
+Additionally, the Corporation has been monitoring its volume of commercial credits and derivatives tied to LIBOR. In 2021, the Corporation began prioritizing SOFR, Prime and Ameribor as the preferred alternative reference rates and ceased booking LIBOR based commitments after the end of 2021. Loans with a maturity after June 2023 are being reviewed and monitored to ensure there is appropriate fallback language in place when LIBOR is no longer published. Loans with a maturity date before that time should naturally mature and be re-underwritten with an appropriate alternative index rate. 
+
+Contractual Obligations, Commitments, Off-Balance Sheet Arrangements, and Contingent Liabilities 
+
+The following table summarizes significant contractual obligations and other commitments at September 30, 2022, at those amounts contractually due to the recipient, including any unamortized premiums or discounts, hedge basis adjustments, or other similar carrying value adjustments. 
+
+Table 17 Contractual Obligations and Other Commitments ($ in Thousands) Note Reference One Year or Less One to Three Years Three to Five Years Over Five Years Total Time deposits $ 982,413 $ 211,002 $ 40,412 $ 5 $ 1,233,833 Short-term funding 9 284,361 &#8212; &#8212; &#8212; 284,361 FHLB advances 9 2,583,485 393,670 605,195 195,129 3,777,478 Other long-term funding 9 85 249,170 182 46 249,484 Operating leases 18 5,679 9,640 7,659 6,920 29,897 Total $ 3,856,023 $ 863,482 $ 653,448 $ 202,100 $ 5,575,052 
+
+The Corporation utilizes a variety of financial instruments in the normal course of business to meet the financial needs of its customers and to manage its own exposure to fluctuations in interest rates. These financial instruments include derivatives and lending-related commitments. Additional discussion of these instruments can be found in Note 10 Derivative and Hedging Activities and Note 12 Commitments, Off-Balance Sheet Arrangements, Legal Proceedings, Regulatory Matters and Operational Matters of the notes to consolidated financial statements, respectively. The Corporation also has obligations under its retirement plans as described in Note 14 Retirement Plans of the notes to the consolidated financial statements. 
+
+Capital 
+
+Management actively reviews capital strategies for the Corporation and each of its subsidiaries in light of perceived business risks, future growth opportunities, industry standards, and compliance with regulatory requirements. The assessment of overall capital adequacy depends on a variety of factors, including asset quality, liquidity, stability of earnings, changing competitive forces, economic condition in markets served, and strength of management. At September 30, 2022, the capital ratios of the Corporation and its banking subsidiaries were in excess of regulatory minimum requirements. The Corporation&#8217;s capital ratios are summarized in the following table. 
+
+Table 18 Capital Ratios YTD Quarter Ended 
+
+&#160; ($ in Thousands) 
+
+Sep 30, 2022 Sep 30, 2021 Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 
+
+Risk-based Capital (a) 
+
+CET1 $ 2,955,710 $ 2,896,675 $ 2,837,789 $ 2,808,289 $ 2,779,943 Tier 1 capital 3,149,822 3,089,593 3,030,579 3,001,074 2,972,622 Total capital 3,582,099 3,506,864 3,448,108 3,570,026 3,550,556 Total risk-weighted assets 31,405,843 29,863,512 27,780,642 27,242,735 26,303,703 Modified CECL transitional amount 67,276 67,276 67,276 89,702 92,822 CET1 capital ratio 9.41 % 9.70 % 10.22 % 10.31 % 10.57 % Tier 1 capital ratio 10.03 % 10.35 % 10.91 % 11.02 % 11.30 % Total capital ratio 11.41 % 11.74 % 12.41 % 13.10 % 13.50 % Tier 1 leverage ratio 8.66 % 8.87 % 8.86 % 8.83 % 8.81 % Selected Equity and Performance Ratios Total stockholders&#8217; equity / assets 10.39 % 10.63 % 11.30 % 11.47 % 11.60 % 
+
+Dividend payout ratio (b) 
+
+36.14 % 32.94 % 32.26 % 35.71 % 41.67 % 40.82 % 35.71 % Return on average assets 0.95 % 1.07 % 1.02 % 0.97 % 0.86 % 0.87 % 1.01 % Annualized noninterest expense / average assets 2.04 % 2.06 % 2.08 % 2.04 % 2.00 % 2.06 % 2.03 % (a) The Federal Reserve establishes regulatory capital requirements, including well-capitalized standards for the Corporation. The Corporation follows Basel III, subject to certain transition provisions. These regulatory capital measurements are used by management, regulators, investors, and analysts to assess, monitor and compare the quality and composition of the Corporation's capital with the capital of other financial services companies. (b) Ratio is based upon basic earnings per common share. 
+
+See Part II, Item 2, Unregistered Sales of Equity Securities and Use of Proceeds, for information on the shares repurchased during the third quarter of 2022. 
+
+Non-GAAP Measures 
+
+Table 19 Non-GAAP Measures YTD Quarter Ended ($ in Thousands) Sep 30, 2022 Sep 30, 2021 Sep 30, 2022 Jun 30, 2022 Mar 31, 2022 Dec 31, 2021 Sep 30, 2021 
+
+Selected equity and performance ratios (a)(b)(c) 
+
+Tangible common equity / tangible assets 7.06 % 7.23 % 7.68 % 7.86 % 7.92 % Return on average equity 8.67 % 8.93 % 9.59 % 8.85 % 7.55 % 7.62 % 8.63 % Return on average tangible common equity 12.96 % 13.56 % 14.32 % 13.29 % 11.26 % 11.34 % 12.97 % Return on average CET1 11.60 % 12.62 % 12.69 % 11.77 % 10.27 % 10.50 % 12.11 % Return on average tangible assets 1.00 % 1.13 % 1.08 % 1.03 % 0.90 % 0.92 % 1.07 % Average stockholders' equity / average assets 11.00 % 11.98 % 10.69 % 11.02 % 11.33 % 11.43 % 11.74 % 
+
+Tangible common equity reconciliation (a) 
+
+Common equity $ 3,759,840 $ 3,766,187 $ 3,755,092 $ 3,831,658 $ 3,801,766 Goodwill and other intangible assets, net (1,156,477) (1,158,680) (1,160,883) (1,163,085) (1,165,288) Tangible common equity $ 2,603,363 $ 2,607,507 $ 2,594,209 $ 2,668,573 $ 2,636,478 
+
+Tangible assets reconciliation (a) 
+
+Total assets $ 38,049,607 $ 37,235,990 $ 34,955,900 $ 35,104,253 $ 34,439,666 Goodwill and other intangible assets, net (1,156,477) (1,158,680) (1,160,883) (1,163,085) (1,165,288) Tangible assets $ 36,893,130 $ 36,077,310 $ 33,795,017 $ 33,941,167 $ 33,274,378 
+
+Average tangible common equity and average CET1 reconciliation (a) 
+
+Common equity $ 3,776,296 $ 3,782,141 $ 3,791,396 $ 3,743,919 $ 3,793,597 $ 3,810,668 $ 3,807,083 Goodwill and other intangible assets, net (1,159,982) (1,169,964) (1,157,754) (1,160,035) (1,162,204) (1,164,394) (1,166,589) Tangible common equity 2,616,314 2,612,177 2,633,642 2,583,884 2,631,393 2,646,273 2,640,494 Modified CECL transitional amount 67,276 106,277 67,276 67,276 67,276 90,528 97,420 Accumulated other comprehensive loss (income) 147,258 (4,589) 189,935 170,253 80,383 18,513 (5,320) Deferred tax assets, net 36,085 40,135 29,875 39,072 39,411 39,640 39,893 Average CET1 $ 2,866,934 $ 2,754,000 $ 2,920,729 $ 2,860,485 $ 2,818,464 $ 2,794,954 $ 2,772,487 
+
+Average tangible assets reconciliation (a) 
+
+Total assets $ 36,075,770 $ 34,278,268 $ 37,271,779 $ 35,732,583 $ 35,200,182 $ 35,016,159 $ 34,759,489 Goodwill and other intangible assets, net (1,159,982) (1,169,964) (1,157,754) (1,160,035) (1,162,204) (1,164,394) (1,166,589) Tangible assets $ 34,915,788 $ 33,108,304 $ 36,114,025 $ 34,572,548 $ 34,037,978 $ 33,851,765 $ 33,592,900 
+
+Adjusted net income reconciliation (b) 
+
+Net income $ 257,360 $ 274,117 $ 96,275 $ 86,824 $ 74,262 $ 76,877 $ 88,809 Other intangible amortization, net of tax 4,956 4,981 1,652 1,652 1,652 1,652 1,652 Adjusted net income $ 262,316 $ 279,098 $ 97,927 $ 88,476 $ 75,914 $ 78,529 $ 90,461 
+
+Adjusted net income available to common equity reconciliation (b) 
+
+Net income available to common equity $ 248,735 $ 259,880 $ 93,400 $ 83,949 $ 71,387 $ 74,002 $ 84,655 Other intangible amortization, net of tax 4,956 4,981 1,652 1,652 1,652 1,652 1,652 Adjusted net income available to common equity $ 253,691 $ 264,861 $ 95,052 $ 85,601 $ 73,039 $ 75,654 $ 86,307 
+
+Efficiency ratio reconciliation (d) 
+
+Federal Reserve efficiency ratio 62.32 % 65.98 % 60.32 % 61.53 % 65.71 % 67.36 % 65.43 % Fully tax-equivalent adjustment (0.98) % (1.02) % (0.87) % (0.98) % (1.13) % (1.10) % (1.01) % Other intangible amortization (0.75) % (0.84) % (0.67) % (0.76) % (0.84) % (0.82) % (0.83) % Fully tax-equivalent efficiency ratio 60.60 % 64.13 % 58.79 % 59.80 % 63.76 % 65.46 % 63.61 % Provision for unfunded commitments adjustment &#8212; % 0.81 % (0.90) % 0.67 % 0.37 % 0.55 % 1.48 % Asset gains, net adjustment 0.13 % 0.82 % &#8212; % 0.34 % 0.05 % 0.24 % 1.29 % Acquisitions, branch sales, and initiatives (0.20) % (0.22) % (0.53) % &#8212; % &#8212; % (1.43) % (0.91) % Adjusted efficiency ratio 60.53 % 65.54 % 57.36 % 60.82 % 64.18 % 64.82 % 65.46 % 
+
+(a) Tangible common equity and tangible assets exclude goodwill and other intangible assets, net. 
+
+(b) Adjusted net income and adjusted net income available to common equity, which are used in the calculation of return on average tangible assets and return on average tangible common equity, respectively, add back other intangible amortization, net of tax. 
+
+(c) These capital measurements are used by management, regulators, investors, and analysts to assess, monitor and compare the quality and composition of our capital with the capital of other financial services companies. 
+
+(d) The efficiency ratio as defined by the Federal Reserve guidance is noninterest expense (which includes the provision for unfunded commitments) divided by the sum of net interest income plus noninterest income, excluding investment securities gains (losses), net. The fully tax-equivalent efficiency ratio is noninterest expense (which includes the provision for unfunded commitments), excluding other intangible amortization, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net. The adjusted efficiency ratio is noninterest expense, which excludes the provision for unfunded commitments, other intangible amortization, acquisition related costs, and announced initiatives, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net, asset gains, net, and gain on sale of branches, net. Management believes the adjusted efficiency ratio is a meaningful measure as it enhances the comparability of net interest income arising from taxable and tax-exempt sources and provides a better measure as to how the Corporation is managing its expenses by adjusting for acquisition related costs, provision for unfunded commitments, asset gains, net, branch sales, and announced initiatives. 
+
+Sequential Quarter Results 
+
+The Corporation reported net income of $96 million for the third quarter of 2022, compared to net income of $87 million for the second quarter of 2022. Net income available to common equity was $93 million for the third quarter of 2022, or $0.62 for both basic and diluted earnings per common share. Comparatively, net income available to common equity for the second quarter of 2022 was $84 million, or $0.56 for both basic and diluted earnings per common share (see Table 1). 
+
+Fully tax-equivalent net interest income for the third quarter of 2022 was $269 million, $48 million, or 22%, higher than the second quarter of 2022. The net interest margin in the third quarter of 2022 was up 42 bp to 3.13%. The increases in net interest income and net interest margin were due to increased earning assets as well as higher interest on earning assets resulting from the Federal Reserve increasing their federal funds target rate. Average earning assets increased $1.6 billion, or 5%, to $34.2 billion in the third quarter of 2022. Average loans increased $1.7 billion, or 7%, driven by growth across nearly all loan categories. On the funding side, average FHLB advances increased $860 million, or 35%, and total interest-bearing deposits increased $718 million, or 4% (see Table 2). 
+
+The provision for credit losses had a $17 million provision for the third quarter of 2022, compared to a negligible release for the second quarter of 2022 (see Table 11). See discussion under sections: Provision for Credit Losses, Nonperforming Assets, and Allowance for Credit Losses on Loans. 
+
+Noninterest income for the third quarter of 2022 was $71 million, down $5 million, or 6%, from the second quarter of 2022, driven by lower mortgage banking, net, bank owned life insurance income, and asset gains, net, partially offset by higher investment securities gains (losses), net (see Table 3). 
+
+Noninterest expense for the third quarter of 2022 was $196 million, up $14 million, or 8%, from the second quarter of 2022, driven by a $6 million contribution to the Corporation's charitable remainder trust and higher personnel expense (see Table 4). 
+
+For the third quarter of 2022, the Corporation recognized income tax expense of $26 million, compared to income tax expense of $23 million for the second quarter of 2022. See Income Taxes section for a detailed discussion on income taxes. 
+
+Comparable Quarter Results 
+
+The Corporation reported net income of $96 million for the third quarter of 2022, compared to $89 million for the third quarter of 2021. Net income available to common equity was $93 million for the third quarter of 2022, or $0.62 for both basic and diluted earnings per common share. Comparatively, net income available to common equity for the third quarter of 2021 was $85 million, or $0.56 for both basic and diluted earnings per share (see Table 1). 
+
+Fully tax-equivalent net interest income for the third quarter of 2022 was $269 million, $81 million, or 43%, higher than the third quarter of 2021. The net interest margin between the comparable quarters was up 75 bp, to 3.13% in the third quarter of 2022. The increases in net interest income and net interest margin were due to increased earning assets as well as higher interest on earning assets resulting from the Federal Reserve increasing their federal funds target rate. Average earning assets increased $2.8 billion, or 9%, to $34.2 billion in the third quarter of 2022 as average loans increased $3.2 billion, or 13%, driven by growth across nearly all loan categories, while investments and other decreased $345 million, or 5%. On the funding side, average interest-bearing deposits increased $822 million, or 4%, from the third quarter of 2021, due to increases in lower cost deposits, partially offset by a decrease in higher cost deposits. Average short and long-term funding increased $1.7 billion, or 78% (see Table 2), primarily driven by an increase in FHLB advances. 
+
+The provision for credit losses had a $17 million provision for the third quarter of 2022, compared to a release of $24 million for the third quarter of 2021, (see Table 11). See discussion under sections: Provision for Credit Losses, Nonperforming Assets, and Allowance for Credit Losses on Loans. 
+
+Noninterest income for the third quarter of 2022 was $71 million, down $11 million, or 14%, compared to the third quarter of 2021, primarily due to lower income in mortgage banking, net and asset gains, net, partially offset by higher investment securities gains (losses), net (see Table 3). 
+
+Noninterest expense increased $18 million, or 10%, to $196 million for the third quarter of 2022, primarily due to higher personnel expenses and a $6 million contribution to the Corporation's charitable remainder trust (see Table 4). 
+
+The Corporation recognized income tax expense of $26 million for the third quarter of 2022, compared to an income tax expense of $23 million for the third quarter of 2021. See section Income Taxes for a detailed discussion on income taxes. 
+
+Segment Review 
+
+As discussed in Note 15 Segment Reporting of the notes to consolidated financial statements, the Corporation&#8217;s reportable segments have been determined based upon its internal profitability reporting system, which is organized by strategic business unit. Certain strategic business units have been combined for segment information reporting purposes where the nature of the products and services, the type of customer, and the distribution of those products and services are similar. The reportable segments are Corporate and Commercial Specialty; Community, Consumer and Business; and Risk Management and Shared Services. 
+
+Table 20 Selected Segment Financial Data Three Months Ended Sep 30, Nine Months Ended Sep 30, ($ in Thousands) 2022 2021 % Change 2022 2021 % Change Corporate and Commercial Specialty 
+
+Total revenue (a) 
+
+$ 158,808 $ 136,601 16 % $ 440,981 $ 404,394 9 % Provision for credit losses 11,904 14,349 (17) % 36,803 46,745 (21) % Noninterest expense 58,934 56,209 5 % 172,141 165,568 4 % Income tax expense 16,420 11,920 38 % 42,692 35,021 22 % Net income 71,551 54,123 32 % 189,346 157,060 21 % Average earning assets 16,123,187 14,111,675 14 % 15,213,821 14,062,442 8 % Average loans 16,118,417 14,110,630 14 % 15,210,316 14,061,619 8 % Average deposits 9,256,598 8,888,016 4 % 9,139,639 8,690,457 5 % 
+
+Average allocated capital (Average CET1) (b) 
+
+1,606,052 1,403,893 14 % 1,514,786 1,402,580 8 % 
+
+Return on average allocated capital (b) 
+
+17.67 % 15.30 % N/M 16.71 % 14.97 % 174 bp Community, Consumer, and Business Total revenue $ 163,476 $ 125,952 30 % $ 424,817 $ 382,384 11 % Provision for credit losses 5,378 4,748 13 % 14,958 15,955 (6) % Noninterest expense 107,782 98,172 10 % 311,210 300,913 3 % Income tax expense 10,567 4,837 118 % 20,716 13,758 51 % Net income 39,749 18,196 118 % 77,933 51,758 51 % Average earning assets 10,416,253 9,108,909 14 % 9,796,760 9,365,653 5 % Average loans 10,416,253 9,108,909 14 % 9,796,760 9,365,653 5 % Average deposits 18,636,223 18,194,868 2 % 18,532,576 17,714,096 5 % 
+
+Average allocated capital (Average CET1) (b) 
+
+640,571 529,609 21 % 583,265 547,471 7 % 
+
+Return on average allocated capital (b) 
+
+24.62 % 13.63 % N/M 17.86 % 12.64 % N/M Risk Management and Shared Services Total revenue $ 12,943 $ 3,199 N/M $ 23,247 $ 3,176 N/M Provision for credit losses (283) (43,107) (99) % (38,756) (144,717) (73) % Noninterest expense 29,076 23,512 24 % 67,153 61,233 10 % Income tax expense (benefit) (824) 6,304 N/M 4,769 21,363 (78) % Net income (loss) (15,025) 16,490 N/M (9,918) 65,298 N/M Average earning assets 7,675,157 8,166,891 (6) % 7,944,848 7,495,515 6 % Average loans 521,033 664,419 (22) % 520,961 719,246 (28) % Average deposits 981,535 991,490 (1) % 892,773 1,049,953 (15) % 
+
+Average allocated capital (Average CET1) (b) 
+
+674,106 838,985 (20) % 768,883 803,950 (4) % 
+
+Return on average allocated capital (b) 
+
+(10.54) % 5.83 % N/M (3.22) % 8.49 % N/M Consolidated Total 
+
+Total revenue (a) 
+
+$ 335,227 $ 265,752 26 % $ 889,045 $ 789,954 13 % 
+
+Return on average allocated capital (b) 
+
+12.69 % 12.11 % 58 bp 11.60 % 12.62 % -102 bp 
+
+N//M = Not meaningful 
+
+(a) For the nine months ended September 30, 2021, the Corporation recognized a $2 million pre-tax gain on sale of Whitnell. 
+
+(b) The Federal Reserve establishes capital adequacy requirements for the Corporation, including CET1. For segment reporting purposes, the ROCET1 reflects return on average allocated CET1. The ROCET1 for the Risk Management and Shared Services segment and the Consolidated Total is inclusive of the annualized effect of the preferred stock dividends. 
+
+Notable Changes in Segment Financial Data 
+
+The Corporate and Commercial Specialty segment consists of lending and deposit solutions to larger businesses, developers, not-for-profits, municipalities, and financial institutions, and the support to deliver, fund, and manage such banking solutions. In addition, this segment provides a variety of investment, fiduciary, and retirement planning products and services to individuals and small to mid-sized businesses. 
+
+&#8226; Total revenue increased $37 million from the nine months ended September 30, 2021 and increased $22 million from the three months ended September 30, 2021, primarily attributable to higher loan volumes and interest rates. 
+
+&#8226; Provision for credit losses decreased $10 million from the nine months ended September 30, 2021 and decreased $2 million from the three months ended September 30, 2021, as a result of improving credit quality. 
+
+&#8226; Average loans increased $1.1 billion from the nine months ended September 30, 2021 and increased $2.0 billion from the three months ended September 30, 2021, driven by loan growth across all categories. 
+
+&#8226; Average deposits increased $449 million from the nine months ended September 30, 2021 and increased $369 million from the three months ended September 30, 2021, primarily driven by increases in lower cost interest bearing deposits and money market accounts, respectively. 
+
+The Community, Consumer, and Business segment consists of lending and deposit solutions to individuals and small to mid-sized businesses. 
+
+&#8226; Total revenue increased $42 million from the nine months ended September 30, 2021 and increased $38 million from the three months ended September 30, 2021, as a result of receiving FTP credit for providing funding for the Corporation's loan growth. 
+
+&#8226; Average loans increased $431 million from the nine months ended September 30, 2021 and increased $1.3 billion from the three months ended September 30, 2021, primarily driven by growth in auto finance and residential mortgage lending within the consumer portfolio. 
+
+&#8226; Noninterest expense increased $10 million from both the nine and three months ended September 30, 2021, driven by increased personnel expense largely driven by hiring related to previously announced initiatives and continued investment in our employees. 
+
+&#8226; Average deposits increased $818 million from the nine months ended September 30, 2021 and increased $441 million from the three months ended September 30, 2021, as a result of customers holding higher savings account balances. 
+
+The Risk Management and Shared Services segment includes key shared Corporate functions, Parent Company activity, intersegment eliminations, and residual revenues and expenses. 
+
+&#8226; Revenues increased $20 million from the nine months ended September 30, 2021 and increased $10 million from the three months ended September 30, 2021, primarily driven by increased interest income as a result of higher investment income due to the current rate environment, as well as increased investment holdings after deploying excess cash into higher yielding securities earlier in 2022. 
+
+&#8226; Provision for credit losses increased $106 million from the nine months ended September 30, 2021 and increased $43 million from the three months ended September 30, 2021, driven by larger provision releases during 2021. 
+
+&#8226; Average loans decreased $198 million from the nine months ended September 30, 2021 and decreased $143 million from the three months ended September 30, 2021, primarily driven by decreases in commercial and business lending. 
+
+&#8226; Average deposits decreased $157 million from the nine months ended September 30, 2021 and decreased $10 million from the three months ended September 30, 2021, primarily driven by decreases in network deposits. 
+
+Critical Accounting Estimates 
+
+In preparing the consolidated financial statements, management is required to make estimates and assumptions that affect the reported amounts of assets and liabilities as of the date of the balance sheet and revenues and expenses for the period. Actual results could differ significantly from those estimates. Estimates that are particularly susceptible to significant change include the determination of the ACLL and MSRs valuation. A discussion of these estimates can be found in the Critical Accounting Estimates section in Management's Discussion and Analysis of Financial Condition and Results of Operations included in the Corporation&#8217;s 2021 Annual Report on Form 10-K. There has been one change in the Corporation's application of critical 
+
+accounting estimates since December 31, 2021 driven by the irrevocable election to account for MSRs under the fair value measurement methodology. 
+
+Mortgage Servicing Rights Valuation: We have a significant investment in MSRs. Our MSRs are primarily retained from sales in the secondary market of residential mortgage loans we have originated or purchased from correspondent lenders. MSRs are initially recognized and subsequently carried at fair value. Changes in fair value are recognized in earnings as they occur through mortgage banking, net on the consolidated statements of income. 
+
+MSRs are not traded in active markets. The fair value of MSRs is determined by discounting the projected cash flows. Certain significant assumptions and estimates used in valuing MSRs are based on current market sources including projected prepayment speeds, assumed servicing costs, ancillary income, costs to service delinquent loans, costs of foreclosure, and discount rates with option-adjusted spreads. Assumptions used to value our MSRs are considered significant unobservable inputs and represent our best estimate of assumptions that market participants would use to value this asset. A separate third party model is used to estimate prepayment speeds based on interest rates, housing turnover rates, estimated loan curtailment, anticipated defaults and other relevant factors. The prepayment model is updated periodically for changes in market conditions and adjusted to better correlate with actual performance of our servicing portfolio. The option-adjusted spread is added to the discount rate across all interest rate paths generated in a stochastic process, which will properly capture the embedded options for MSRs cash flows. 
+
+The assumptions used in this model are primarily based on mortgage interest rates. Evaluation of the effect of a change in one assumption without considering the effect of that change on other assumptions is not meaningful. Considering all related assumptions, we expect a 50 basis point increase in the yield curve to increase the fair value of our servicing rights by $3 million and decrease the value of the hedge by $3 million. Likewise, we expect a 50 basis point decrease in the yield curve to decrease the fair value of our servicing rights by $4 million and increase the value of our hedge by $3 million. 
+
+Recent Developments 
+
+On October 25, 2022, the Corporation&#8217;s Board of Directors declared a regular quarterly cash dividend of $0.21 per common share, payable on December 15, 2022 to shareholders of record at the close of business on December 1, 2022. This is an increase of $0.01 from the previous quarterly cash dividend of $0.20 per common share. The Board of Directors also declared a regular quarterly cash dividend of $0.3671875 per depositary share on Associated's 5.875% Series E Perpetual Preferred Stock, payable on December 15, 2022 to shareholders of record at the close of business on December 1, 2022. The Board of Directors also declared a regular quarterly cash dividend of $0.3515625 per depositary share on Associated's 5.625% Series F Perpetual Preferred Stock, payable on December 15, 2022 to shareholders of record at the close of business on December 1, 2022. 
+

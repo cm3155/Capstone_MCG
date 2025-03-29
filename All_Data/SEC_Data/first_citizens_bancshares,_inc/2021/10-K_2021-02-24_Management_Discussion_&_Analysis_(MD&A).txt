@@ -1,0 +1,546 @@
+ Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Management&#8217;s discussion and analysis (&#8220;MD&#38;A&#8221;) of earnings and related financial data are presented to assist in understanding the financial condition and results of operations of First Citizens BancShares, Inc. (&#8220;BancShares&#8221;) and its banking subsidiary, First-Citizens Bank &#38; Trust Company (&#8220;FCB&#8221;). This discussion and analysis should be read in conjunction with the audited consolidated financial statements and related notes presented within this Annual Report on Form 10-K. Intercompany accounts and transactions have been eliminated. See Note A, Accounting Policies and Basis of Presentation, in the Notes to the Consolidated Financial Statements included in Part II, Item 8, of this Annual Report on Form 10-K for more detail. Although certain amounts for prior years have been reclassified to conform to statement presentations for 2020, the reclassifications had no effect on shareholders&#8217; equity or net income as previously reported. Unless otherwise noted, the terms &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our,&#8221; and &#8220;BancShares&#8221; in this section refer to the consolidated financial position and consolidated results of operations for BancShares. 
+
+Year-over-year comparisons of the financial results for 2019 and 2018 are contained in Item 7 of BancShares&#8217; Annual Report on Form 10-K for 2019 filed with the Securities and Exchange Commission (&#8220;SEC&#8221;) on February 26, 2020 and available through FCB&#8217;s website www.firstcitizens.com or the SEC&#8217;s EDGAR database. 
+
+FORWARD-LOOKING STATEMENTS 
+
+Statements in this Annual Report on Form 10-K includes statements and exhibits relating to plans, strategies, economic performance and trends, projections of results of specific activities or investments, expectations or beliefs about future events or results and other statements that are not descriptions of historical facts may be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. 
+
+Forward-looking statements may be identified by terms such as &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;could,&#8221; &#8220;expects,&#8221; &#8220;plans,&#8221; &#8220;intends,&#8221; &#8220;anticipates,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; &#8220;predicts,&#8221; &#8220;forecasts,&#8221; &#8220;projects,&#8221; &#8220;potential&#8221; or &#8220;continue,&#8221; or similar terms or the negative of these terms, or other statements concerning opinions or judgments of BancShares&#8217; management about future events. 
+
+Forward-looking information is inherently subject to risks and uncertainties, and actual results could differ materially from those currently anticipated due to a number of factors which include, but are not limited to, risks, uncertainties and other factors relating to our proposed merger with CIT Group Inc. (&#8220;CIT&#8221;), including the ability to obtain regulatory approvals and satisfy other conditions to the proposed transaction, and delay in closing the proposed transaction, as well as risks, uncertainties and other factors relating to the impact of COVID-19 on our business and the economy, the financial success or changing strategies of our customers, customer acceptance of our services, products and fee structure, the competitive nature of the financial services industry, our ability to compete effectively against other financial institutions in our banking markets, actions of government regulators, the level of market interest rates and our ability to manage our interest rate risk, changes in general economic conditions affecting our loan and lease portfolio, the abilities of our borrowers to repay their loans and leases, the values of real estate and other collateral, the impact of our prior acquisitions, the risks discussed in Item 1A. Risk Factors above and other developments or changes in our business that we do not expect. 
+
+Actual results may differ materially from those expressed in or implied by any forward-looking statements. Except to the extent required by applicable law or regulation, BancShares undertakes no obligation to revise or update publicly any forward-looking statements for any reason. 
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+The accounting and reporting policies of BancShares are in accordance with accounting principles generally accepted in the United States of America (&#8220;GAAP&#8221;) and are described in Note A, Accounting Policies and Basis of Presentation, of the Notes to the Consolidated Financial Statements. The preparation of financial statements in conformity with GAAP requires us to exercise judgment in determining many of the estimates and assumptions utilized to arrive at the carrying value of assets and liabilities and amounts reported for revenues and expenses. Our financial position and results of operations could be materially affected by changes to these estimates and assumptions. 
+
+The following is a summary of the more critical areas where these critical assumptions and estimates could impact the financial condition, results of operations and cash flows of BancShares: 
+
+A llowance for credit losses. As of January 1, 2020, BancShares adopted Financial Accounting Standards Board (&#8220;FASB&#8221;) Accounting Standard Update (&#8220;ASU&#8221;) 2016-13 Financial Instruments&#8212;Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (&#8220;ASC 326&#8221;), which changed the methodology, accounting policies and inputs used in determining the allowance for credit losses (&#8220;ACL&#8221;). See Note A, Accounting Policies and Basis of Presentation, in the Notes to Consolidated Financial Statements for discussion of our accounting policies for the ACL and the implementation impact of 
+
+ASC 326. See Note E, Allowance for Credit Losses, in the Notes to Consolidated Financial Statements for additional disclosures. 
+
+The ACL represents the best estimate of expected credit losses on loans and leases as of the balance sheet date. The ACL is assessed at each balance sheet date and adjustments are recorded in provision for credit losses. Losses are estimated using historical loss rates and a projection of a reasonable and supportable macroeconomic forecast period which reverts to historical assumptions. This estimation process requires judgment in determining the amount and timing of charge-offs, economic forecast assumptions and loan specific attributes impacting the borrower&#8217;s ability to repay contractual obligations. Other factors such as the composition of and risks within the loan portfolio, collateral values and prepayments are also considered. Loan balances considered uncollectible are charged off against the ACL. If it is probable a borrower will be unable to pay all amounts due according to the contractual terms of the loan agreement and a loss is probable, a specific valuation allowance is determined. Recoveries of amounts previously charged-off are generally credited to the ACL. 
+
+Financial Measurements. Fair value is the price that could be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants as of the measurement date. Certain assets and liabilities are measured at fair value on a recurring basis. Examples of recurring uses of fair value include marketable equity securities, investment securities available for sale and loans held for sale. There were no liabilities measured at fair value on a recurring basis at December 31, 2020. We also measure certain assets at fair value on a non-recurring basis. Examples include collateral-dependent loans, other real estate owned (&#8220;OREO&#8221;), goodwill and intangible assets. Assets acquired and liabilities assumed in a business combination are recognized at fair value as of the acquisition date. 
+
+Fair value is determined using different inputs and assumptions based upon the instrument being valued. Where observable market prices from transactions for identical assets or liabilities are not available, we identify market prices for similar assets or liabilities. If observable market prices are unavailable or impracticable to obtain for any such similar assets or liabilities, we look to other modeling techniques, which often incorporate unobservable inputs which are inherently subjective and require significant judgment. Fair value estimates requiring significant judgments are determined using various inputs developed by management with the appropriate skills, understanding and knowledge of the underlying asset or liability to ensure the development of fair value estimates is reasonable. Typical pricing sources used in estimating fair values include, but are not limited to, active markets with high trading volume, third-party pricing services, external appraisals, valuation models and commercial and residential evaluation reports. In certain cases, our assessments, with respect to assumptions market participants would make, may be inherently difficult to determine, and the use of different assumptions could result in material changes to these fair value measurements. See Note P, Estimated Fair Values, and Note B, Business Combinations, in the Notes to Consolidated Financial Statements for additional disclosures regarding fair value. 
+
+Income taxes . Management estimates income tax expense using the asset and liability method. Under this method, deferred tax assets and liabilities are recognized for future tax consequences attributable to differences between the amount of assets and liabilities reported in the consolidated financial statements and their respective tax bases. In estimating the liabilities and corresponding expense related to income taxes, management assesses the relative merits and risks of various tax positions considering statutory, judicial and regulatory guidance. Because of the complexity of tax laws and regulations, interpretation is difficult and subject to differing judgments. Accrued income taxes payable represents an estimate of the net amounts due to or from taxing jurisdictions based upon various estimates, interpretations and judgments. 
+
+We evaluate our effective tax rate on a quarterly basis based upon the current estimate of net income, the favorable impact of various credits, statutory tax rates expected for the year and the amount of tax liability. We file tax returns in relevant jurisdictions and settle our return liabilities. 
+
+Changes in estimated income tax liabilities occur periodically due to changes in actual or estimated future tax rates and projections of taxable income, interpretations of tax laws, the complexities of multi-state income tax reporting, the status of examinations conducted by various taxing authorities and the impact of newly enacted legislation or guidance as well as income tax accounting pronouncements. See Note O, Income Taxes, in the Notes to Consolidated Financial Statements for additional disclosures. 
+
+CURRENT ACCOUNTING PRONOUNCEMENTS 
+
+Table 2 details ASUs issued by the FASB adopted in 2020. See Note A, Accounting Policies and Basis of Presentation, in the Notes to the Consolidated Financial Statements for more detail on the impact on the consolidated financial statements. 
+
+Table 2 
+
+RECENTLY ADOPTED ACCOUNTING PRONOUNCEMENTS 
+
+##TABLE_START Standard Date of Adoption 
+
+ASU 2016-13 - Financial Instruments-Credit Losses (Topic 326): Measure of Credit Losses on Financial Instruments (including all subsequent ASUs on this topic) 
+
+January 1, 2020 ASU 2017-04 - Intangibles - Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment 
+
+January 1, 2020 ASU 2018-13 - Fair Value Measurement (Topic 820): Disclosure Framework - Changes to the Disclosure Requirements for Fair Value Measurement 
+
+January 1, 2020 
+
+ASU 2018-14 - Compensation &#8211; Retirement Benefits &#8211; Defined Benefit Plans &#8211; General (Subtopic 715-20): Disclosure Framework &#8211; Changes to the Disclosure Requirements for Defined Benefit Plans 
+
+December 31, 2020 ##TABLE_END
+
+EXECUTIVE OVERVIEW 
+
+BancShares conducts its banking operations through its wholly owned subsidiary FCB, a state-chartered bank organized under the laws of the state of North Carolina. 
+
+BancShares&#8217; earnings and cash flows are primarily derived from our commercial and retail banking activities. We gather deposits from retail and commercial customers and we secure funding through various non-deposit sources. We invest the liquidity generated from these funding sources in interest-earning assets, including loans, investment securities and overnight investments. We also invest in bank premises, computer hardware and software and furniture and equipment used to conduct our commercial and retail banking business. We provide treasury management services, cardholder and merchant services, wealth management services and other products and services typically offered by commercial banks. The fees generated from these products and services are a primary source of noninterest income and an essential component of our total revenue. 
+
+Our strong financial position enables us to pursue growth through strategic acquisitions to enhance organizational value by providing opportunities to grow capital and increase earnings. These transactions allow us to strengthen our presence in existing markets as well as expand our footprint into new markets. 
+
+With interest rates at historical lows, our ability to generate earnings and shareholder value has been challenging. While our balance sheet is asset sensitive overall, we seek to reduce volatility and minimize the risk to earnings from interest rate movements in either direction. Additionally, our initiatives focus on growth of noninterest income sources, management of noninterest expenses, optimization of our branch network and further enhancements to our technology and delivery channels. 
+
+In lending, we continue to focus our activities within our core competencies of retail, small business, medical, commercial and commercial real estate lending to build a diversified portfolio. Our low to moderate risk appetite continues to govern all lending activities. 
+
+We also pursue noninterest income through enhanced credit card offerings and wealth management and merchant services. We have recently redesigned our credit card programs to offer more competitive products, intended to both increase the number of accounts and frequency of card usage. Enhancements include more comprehensive reward programs and improved card benefits. In wealth management, we have broadened our products and services to better align with the specialized needs and desires of those customers. Services include holistic financial planning, business owner advisory services and enhanced private banking offerings. 
+
+Our goals are to increase efficiencies and control costs while effectively executing an operating model that best serves our customers&#8217; needs. We seek the appropriate footprint and staffing levels to take advantage of the revenue opportunities in each of our markets. Management is pursuing opportunities to improve operational efficiency and increase profitability through expense control, while continuing enterprise sustainability projects to improve the operating environment. Such initiatives include the automation of certain manual processes, elimination of duplicated and outdated systems, enhancements to existing technology, implementation of new digital technologies, outsourcing to third party service providers and actively managing personnel expenses and discretionary spending. We routinely review vendor agreements and third party contracts for cost savings. 
+
+Recent Economic and Industry Developments 
+
+During the first quarter of 2020, a novel strain of coronavirus (&#8220;COVID-19&#8221;) spread throughout the world, causing significant disruptions to the domestic and global economies which continue to date. In response to the outbreak, governments have imposed restrictions resulting in business shutdowns, regional quarantines, disruptions of supply chains, changes in consumer behavior and overall economic instability. This uncertainty has led to volatility in the financial markets. This impact was coupled with spikes in unemployment as a result of business shutdowns that continue to impact financial institutions operationally and financially. For a discussion of the risks we face with respect to the COVID-19 pandemic, the associated economic uncertainty, the steps taken to mitigate the pandemic and the resulting economic contraction, see Item 1A. Risk Factors in Part I of this Annual Report on Form 10-K. Various external factors influence the focus of our business efforts and the results of our operations can change significantly based on those external factors. Based on the latest real gross domestic product (&#8220;GDP&#8221;) information available, the Bureau of Economic Analysis&#8217; revised estimate of fourth quarter 2020 GDP growth was 4.0%, up from 2.1% GDP growth in the fourth quarter 2020. The acceleration in real GDP in the fourth quarter reflected increases in exports, nonresidential fixed investment, personal consumption expenditures, residential fixed investment, and private inventory investment that were partly offset by decreases in state and local government spending and federal government spending. Imports, which are a subtraction in the calculation of GDP, increased. The increase in fourth quarter GDP reflected both the continued economic recovery from the sharp declines earlier in the year and the ongoing impact of the COVID-19 pandemic, including new restrictions and closures that took effect in some areas of the United States. The full economic effects of the COVID-19 pandemic cannot be quantified in the GDP estimate for the fourth quarter of 2020 because the impacts are generally embedded in source data and cannot be separately identified. 
+
+On March 27, 2020, the Coronavirus Aid Relief and Economic Security Act (the &#8220;CARES Act&#8221;) was passed. The bill was designed to provide short-term economic relief to individuals and businesses most impacted by the fallout of the pandemic. Key provisions include: for individuals, economic impact payments and enhanced unemployment benefits; for small businesses, access to loans and support through the Small Business Administration Paycheck Protection Program (&#8220;SBA-PPP&#8221;), direct aid and loans to the medical industry and other affected sectors, and certain tax benefits that can be used in conjunction with the other aid mentioned. While direct aid to financial services entities is not a primary goal of the provisions, financial institutions will function to transmit funds from the Federal Reserve, SBA and United States (the &#8220;U.S.&#8221;) Treasury to the public. This was supplemented by the Paycheck Protection Program Flexibility Act, which was signed into law on June 5, 2020 and amended provisions of the SBA-PPP including timing of the program and changes to forgiveness criteria. Additionally, the Consolidated Appropriations Act 2021 was signed into law on December 27, 2020, and contained provisions for new funding of SBA-PPP loans. We began accepting applications for this round of funding in the first quarter of 2021. 
+
+There were other regulatory actions taken that may impact our business including changes in credit reporting on customer forbearance, federally backed mortgage forbearance, potential legal lending limit relaxation and other economic stabilization efforts. Further legislation is expected as the government continues to mitigate the economic impact on the crisis. 
+
+The U.S. unemployment rate increased from 3.5% in December 2019 to 6.7% in December 2020. According to the U.S. Department of Labor, nonfarm payroll employment declined 9.2 million in 2020, compared to growth of 2.1 million in 2019. 
+
+During the first quarter of 2020, the FOMC lowered the federal funds rate to a target range of 0.00% to 0.25%. The FOMC cited the effects of COVID-19 on economic activity and the risks posed to the economic outlook. The FOMC expects to maintain this target range until labor market conditions have reached levels consistent with the FOMC&#8217;s assessments of maximum employment and inflation has risen to 2% and is on track to moderately exceed 2% for some time. 
+
+The U.S. Census Bureau and the Department of Housing and Urban Development&#8217;s latest estimate for sales of new single-family homes in December 2020 was at a seasonally adjusted annual rate of 842,000, up 15.2% from the December 2019 estimate of 731,000. Purchases of existing homes in 2020 are also up 5.6% from a year ago. 
+
+Similar to the economic environment, the performance trends in the banking industry are mixed, as shown in the latest national banking results from the third quarter of 2020. FDIC-insured institutions reported a 10.7% decrease in net income compared to the third quarter of 2019 primarily a result of lower interest rates. Loan-loss provisions increased by 3.5% while noninterest expense rose by 3.0% from a year earlier. Banking industry average net interest margin (&#8220;NIM&#8221;) was 2.68% in the third quarter of 2020, down from 3.35% in the same quarter a year ago primarily due to a decline in interest-earning asset yields. Total loans increased by 4.9% over the past twelve months primarily due to growth in commercial and industrial loans. Total deposits increased 19.9%, largely driven by government stimulus. 
+
+BANCSHARES&#8217; COVID-19 CONTINUED MONITORING AND RESPONSE 
+
+We remain in a strong capital and liquidity position providing stability in navigating the COVID-19 crisis. Our leadership team continues to work to identify and enact appropriate measures in an effort to protect the welfare of our employees and soundness of the organization, while continuing to support our customers. A significant majority of our branches have re-opened with enhanced safety protocols and our corporate locations remain at limited occupancy due to current virus trends. 
+
+Through December 31, 2020, we granted over 22,000 COVID-19 related loan extensions, representing loan balances of approximately $6.31 billion. Of these extensions, over 97% of have begun repayment. Delinquency trends among loans entering repayment are in line with the remainder of the portfolio. We have not seen significant declines in overall credit quality, though the impacts of the SBA-PPP and payment extensions could be delaying signs of credit deterioration. 
+
+During 2020, we originated over 23,000 SBA-PPP loans with an original balance of over $3.2 billion and an outstanding balance of $2.4 billion at December 31, 2020. We have collected all $117.2 million in SBA-PPP related loan fees per the program terms. These fees were deferred and are being recognized in interest income over the life of the respective loans. SBA-PPP loans have a stated rate of 1.00%, but with the accretion of these fees, the average yield on the portfolio was 4.33% for 2020. As of December 31, 2020, remaining net deferred fees were $41.1 million. 
+
+Table 3 
+
+SBA-PPP LOANS BY LOAN SIZE 
+
+##TABLE_START (Dollars in thousands) Loan Size $ of Loans % of Loans $ Less than $150,000 $ 688,354 28.6 % $150,000 to $2,000,000 1,236,448 51.4 Greater than $2,000,000 481,489 20.0 Total $ 2,406,291 100.0 % ##TABLE_END
+
+We began accepting and processing applications for forgiveness during the third quarter of 2020. Table 4 represents the forgiveness status of SBA-PPP loans as of December 31, 2020. 
+
+Table 4 
+
+SBA-PPP LOAN FORGIVENESS STATUS 
+
+##TABLE_START (Dollars in thousands) Forgiveness Status $ of Loans % of Total Received by FCB $ 1,384,859 43.1 % Submitted to SBA 1,190,171 37.1 Approved by SBA 746,643 23.3 Funds Received 746,442 23.2 ##TABLE_END
+
+To date, we have received over 7,200 forgiveness decisions from the SBA, representing approximately $1.0 billion in forgiveness payments. The Consolidated Appropriations Act 2021 was signed into law during the fourth quarter of 2020 and contained provisions for new funding of SBA-PPP loans. We began accepting applications for this round of funding in January 2021 and have funded over $670 million of loans to date. 
+
+Strong Liquidity and Capital Position 
+
+We maintain a strong level of liquidity. As of December 31, 2020, liquid assets (available cash and unencumbered high quality liquid assets at market value) totaled approximately $9.63 billion representing 19.8% of consolidated assets as of December 31, 2020. 
+
+In addition to liquid assets, we had contingent sources of liquidity totaling approximately $11.90 billion in the form of Federal Home Loan Bank (&#8220;FHLB&#8221;) borrowing capacity, Federal Reserve Discount Window availability, federal funds lines and a committed line of credit. 
+
+At December 31, 2020, our regulatory capital ratios were well in excess of Basel III capital requirements. 
+
+FINANCIAL PERFORMANCE SUMMARY 
+
+Income Statement Highlights 
+
+For the year ended December 31, 2020, net income was $491.7 million, or $47.50 per share, compared to $457.4 million, or $41.05 per share, during 2019. The return on average assets was 1.07% during 2020, compared to 1.23% during 2019. The return on average shareholders&#8217; equity was 12.96% and 12.88% for the respective periods. The $34.3 million, or 7.5% increase in net income was primarily the result of the net effect of the following: 
+
+&#8226; Net interest income for the year ended 2020 increased $76.8 million, or by 5.9%, compared to the year ended 2019. The increase was due to loan growth driven largely by SBA-PPP balances, partially offset by a decrease in interest-earning asset yields. 
+
+&#8226; The taxable-equivalent net interest margin was 3.17% for the year ended 2020, a decrease of 57 basis points from the year ended 2019. The decrease was primarily due to a decline in yield on interest-earning assets coupled with an increase in total borrowings, partially offset by a decline in the rate paid on interest-bearing deposits. 
+
+&#8226; We recorded provision for credit losses of $58.4 million in 2020, compared to $31.4 million in 2019. Provision expense includes $36.1 million of reserve build for credit losses specifically related to the uncertainty surrounding COVID-19 and considers the potential impact of slower economic activity and elevated unemployment, as well as potential mitigants due to government stimulus and loan accommodations. The net charge-off to loans ratio was 0.07% for the year, down 4 basis points from 2019. 
+
+&#8226; Noninterest income for the year ended 2020 was $476.8 million, an increase of $60.9 million, or 14.6%, from the prior year. Fair value adjustments on marketable equity securities and realized gains on available for sale securities increased by a combined $61.9 million. Mortgage income increased by $18.5 million due to increased production and sales resulting from lower mortgage interest rates. These positive impacts were partially offset by a decline in service charges on deposits of $17.5 million due to lower volume with increased deposit balances and an increase in waived fees to aid our customers during the COVID-19 pandemic. 
+
+&#8226; Noninterest expense was $1.19 billion for the year ended December 31, 2020, compared to $1.10 billion for the same period in 2019. This 7.7% increase was primarily attributable to higher personnel expenses and processing fees paid to third parties reflecting continued investment in digital and technological capabilities. 
+
+&#8226; Income tax expense was $126.2 million and $134.7 million for the years ended 2020 and 2019, respectively, representing effective tax rates of 20.4% and 22.7%. The decline in the effective tax rate related primarily to the decision to utilize an allowable alternative for computing our 2020 federal income tax liability. The allowable alternative provided us the ability to use the federal income tax rate for certain current year deductible amounts related to prior year FDIC-assisted acquisitions that was applicable when these amounts were originally subjected to tax. 
+
+Balance Sheet Highlights 
+
+&#8226; During 2020, loans increased by $3.91 billion, or by 13.5% to $32.79 billion. Of this growth, $2.41 billion was related to SBA-PPP loans. Excluding SBA-PPP loans and loans from acquisitions, total loans increased $1.40 billion since December 31, 2019, or by 4.9%. 
+
+&#8226; The allowance for credit losses as a percentage of total loans was 0.68% at December 31, 2020, compared to 0.78% at December 31, 2019. At December 31, 2020, BancShares&#8217; nonperforming assets, including nonaccrual loans and OREO, increased $74.1 million to $242.4 million or 0.74% of total loans from $168.3 million or 0.58% of total loans at December 31, 2019. Of the increase in nonperforming assets, $24.9 million related to the transfer of loans in performing PCI pools to nonaccrual status under the adoption of ASC 326. A majority of the remainder of the increase related to increases within our acquired residential real estate loan portfolio. 
+
+&#8226; Deposit growth continued in 2020, up $9.00 billion, or by 26.1% to $43.43 billion. This growth includes estimated deposits of $0.93 billion related to the SBA-PPP and deposits from acquisitions of $203.2 million. Excluding the impact of these deposits, total deposits increased $7.87 billion since December 31, 2019, or by 22.9%. 
+
+&#8226; During the first quarter of 2020, BancShares successfully completed a $695 million capital raise which consisted of $350 million of subordinated notes and $345 million of depositary shares (the &#8220;Depositary Shares&#8221;) each representing a 1/40th interest in a share of our 5.375% Non-Cumulative Perpetual Preferred Stock, Series A, par value $0.01 per share. 
+
+Capital Highlights 
+
+&#8226; In 2020, we returned $364.5 million of capital to shareholders through the repurchase of 813,090 shares of Class A common stock and cash dividends to common and preferred shareholders. 
+
+&#8226; Total shareholders&#8217; equity increased from $3.59 billion on December 31, 2019 to $4.23 billion on December 31, 2020. The increase was primarily due to earnings and the net proceeds of the issuance of the Depositary Shares, partially offset by share repurchases and dividends during the year. 
+
+&#8226; Under Basel III capital requirements, BancShares remained well-capitalized at December 31, 2020, with a total risk-based capital ratio of 10.61%, Tier 1 risk based capital ratio of 13.81%, common Tier 1 ratio of 11.63%, Tier 1 leverage capital ratio of 7.86% and a capital conservation buffer of 5.6%. 
+
+BUSINESS COMBINATIONS 
+
+Recently Announced Business Combinations 
+
+CIT Group Inc. 
+
+On October 15, 2020, BancShares and CIT entered into the Merger Agreement by and among BancShares, FCB, the Merger Sub, and CIT, the parent company of CIT Bank. Pursuant to the terms and subject to the conditions set forth in the Merger Agreement, Merger Sub and CIT will ultimately merge with and into FCB, with FCB as the surviving entity. The Merger Agreement further provides that immediately following the consummation of the Mergers, CIT Bank will merge with and into FCB, with FCB as the surviving bank. Subject to the fulfillment of customary closing conditions, the parties anticipate that the Transaction will close in the first half of 2021. 
+
+Completed Business Combinations 
+
+We evaluated the financial statement significance for all business combinations completed during 2020 and 2019 and concluded the completed business combinations noted below are not material to BancShares&#8217; financial statements, individually or in aggregate, and therefore, pro forma financial data is not included. 
+
+Community Financial Holding Co. Inc. 
+
+On February 1, 2020, we completed the merger of Duluth, Georgia-based Community Financial Holding Company, Inc. (&#8220;Community Financial&#8221;) and its bank subsidiary, Gwinnett Community Bank, into FCB. Under the terms of the agreement, total cash consideration of $2.3 million was paid to the shareholders of Community Financial. The merger allowed us to expand our presence and enhance banking efforts in Georgia. The merger contributed $222.1 million in consolidated assets, which included $686 thousand of goodwill, $134.0 million in loans, and $209.3 million in deposits. 
+
+Entegra Financial Corp. 
+
+On December 31, 2019, we completed the merger of Franklin, North Carolina-based Entegra Financial Corp. (&#8220;Entegra&#8221;) and its bank subsidiary, Entegra Bank. Under the terms of the agreement, cash consideration of $30.18 for each share of common stock was paid to the shareholders of Entegra, totaling approximately $222.8 million. The merger allowed us to enhance banking efforts and expand our presence in western North Carolina. As part of the transaction, we agreed to divest certain branches, other assets and liabilities as a requirement of regulatory approval. The merger contributed $1.73 billion in consolidated assets, which included $1.03 billion in loans, and $1.33 billion in deposits. 
+
+On April 17, 2020, we completed the divestiture of the branches including loans and leases, premises and equipment and total deposits with a fair value of $110.1 million, $2.1 million and $184.8 million, respectively. The divestiture included an 8% premium for deposits acquired that was applied as a reduction of goodwill generated as part of the merger with Entegra. 
+
+First South Bancorp, Inc. 
+
+On May 1, 2019, we completed the merger of Spartanburg, South Carolina-based First South Bancorp, Inc. (&#8220;First South Bancorp&#8221;) and its bank subsidiary, First South Bank. Under the terms of the agreement, cash consideration of $1.15 for each share of common stock was paid to the shareholders of First South Bancorp, totaling approximately $37.5 million. The merger allowed us to expand our presence and enhance banking efforts in South Carolina. The merger contributed $253.0 million in consolidated assets, which included $179.2 million in loans, and $207.6 million in deposits, as of the merger date. 
+
+Biscayne Bancshares, Inc. 
+
+On April 2, 2019, FCB completed the merger of Coconut Grove, Florida-based Biscayne Bancshares, Inc. (&#8220;Biscayne Bancshares&#8221;) and its bank subsidiary, Biscayne Bank. Under the terms of the agreement, cash consideration of $25.05 for each share of common stock was paid to the shareholders of Biscayne Bancshares, totaling approximately $118.9 million. The merger allowed us to expand our presence in Florida and enhance banking efforts in South Florida. The merger contributed $1.08 billion in consolidated assets, which included $863.4 million in loans, and $786.5 million in deposits, as of the merger date. 
+
+See Note B, Business Combinations, in the Notes to Consolidated Financial Statements for additional disclosures. 
+
+FDIC-ASSISTED TRANSACTIONS 
+
+Between 2009 and 2017, we completed fourteen FDIC-assisted transactions with a carrying value of loans acquired in these transactions of approximately $410.4 million at December 31, 2020. Nine of the fourteen FDIC-assisted transactions included shared-loss agreements that protected us from a substantial portion of the credit and asset quality risk we would otherwise incur. 
+
+At December 31, 2020, shared-loss protection remains for a single acquired bank related to single family residential loans of $34.5 million. Cumulative losses for all fourteen acquisitions incurred through December 31, 2020 totaled $1.21 billion. Cumulative amounts reimbursed by the FDIC through December 31, 2020 totaled $674.9 million. The shared-loss agreements for two FDIC-assisted transactions include provisions related to payments owed to the FDIC at the termination of the agreements if actual cumulative losses on covered assets are lower than originally estimated by the FDIC at the time of acquisition (&#8220;clawback liability&#8221;). As of December 31, 2020, and December 31, 2019, the estimated clawback liability was $15.6 million and $112.4 million, respectively. The reduction in the clawback liability was the result of a payment to the FDIC in the first quarter of 2020 for $99.5 million related to one of the transactions. We expect to make a clawback liability payment to the FDIC in March 2021 in the amount of $15.9 million. 
+
+Table 5 provides changes in the FDIC clawback liability for the years ended December 31, 2020 and 2019. 
+
+Table 5 
+
+FDIC CLAWBACK LIABILITY 
+
+##TABLE_START (Dollars in thousands) 2020 2019 Beginning balance $ 112,395 $ 105,618 Accretion 2,674 6,777 Payments to FDIC for settlement of shared-loss agreements (99,468) &#8212; Ending balance $ 15,601 $ 112,395 ##TABLE_END
+
+Table 6 
+
+AVERAGE BALANCE SHEETS 
+
+##TABLE_START &#160; 2020 2019 (Dollars in thousands, taxable equivalent) Average Balance Interest Income/ Expense Yield/ Rate Average Balance Interest Income/ Expense Yield/ Rate Assets 
+
+Loans and leases (1) 
+
+$ 31,605,090 $ 1,335,008 4.18 % $ 26,656,048 $ 1,219,825 4.54 % Investment securities: U.S. Treasury 432,938 3,103 0.72 945,094 22,235 2.35 Government agency 665,318 8,457 1.27 491,001 14,308 2.91 Mortgage-backed securities 7,414,661 108,604 1.46 5,198,884 114,819 2.21 Corporate bonds 397,322 20,349 5.12 153,841 7,945 5.16 Other investments 144,694 4,254 2.94 130,249 2,205 1.69 Total investment securities 9,054,933 144,767 1.60 6,919,069 161,512 2.33 Overnight investments 2,691,096 6,847 0.25 1,291,617 26,245 2.03 Total interest-earning assets 43,351,119 $ 1,486,622 3.40 % 34,866,734 $ 1,407,582 4.01 % Cash and due from banks 344,938 271,466 Premises and equipment 1,259,325 1,218,611 Allowance for credit losses (211,413) (226,600) Other real estate owned 53,137 45,895 Other assets 1,224,332 985,613 Total assets $ 46,021,438 $ 37,161,719 Liabilities Interest-bearing deposits: Checking with interest $ 8,922,902 $ 5,913 0.07 % $ 7,503,325 $ 6,018 0.08 % Savings 2,936,593 1,217 0.04 2,604,217 1,700 0.07 Money market accounts 7,821,266 22,504 0.29 6,025,740 23,315 0.39 Time deposits 3,344,492 37,001 1.11 3,315,478 45,221 1.36 Total interest-bearing deposits 23,025,253 66,635 0.29 19,448,760 76,254 0.39 Securities sold under customer repurchase agreements 632,362 1,610 0.25 530,818 1,995 0.38 Other short-term borrowings 50,549 1,054 2.05 23,087 671 2.87 Long-term obligations 1,186,145 26,558 2.20 392,150 13,722 3.45 Total interest-bearing liabilities 24,894,309 95,857 0.38 20,394,815 92,642 0.45 Demand deposits 16,721,363 12,769,776 Other liabilities 451,759 445,347 Shareholders&#8217; equity 3,954,007 3,551,781 Total liabilities and shareholders&#8217; equity $ 46,021,438 $ 37,161,719 Interest rate spread 3.02 % 3.56 % Net interest income and net yield on interest-earning assets $ 1,390,765 3.17 % $ 1,314,940 3.74 % ##TABLE_END
+
+(1) Loans and leases include non-PCD and PCD loans, nonaccrual loans and loans held for sale. Interest income on loans and leases includes accretion income and loan fees. Loan fees were $85.7 million, $9.7 million, and $8.8 million for the years ended 2020, 2019, and 2018, respectively. Yields related to loans, leases and securities exempt from both federal and state income taxes, federal income taxes only, or state income taxes only are stated on a taxable-equivalent basis assuming statutory federal income tax rates of 21.0% for 2020, 2019, and 2018, as well as state income tax rates of 3.5%, 3.9%, and 3.4% for the years ended 2020, 2019, and 2018, respectively. The taxable-equivalent adjustment was $2.6 million, $3.6 million, and $3.4 million, for the years ended 2020, 2019, and 2018, respectively. 
+
+(2) The rate/volume variance is allocated proportionally between the changes in volume and rate. 
+
+Table 6 
+
+AVERAGE BALANCE SHEETS (continued) 
+
+##TABLE_START 2020 2019 2018 Change from previous year due to: Change from previous year due to: Average Balance Interest Income/ Expense Yield/ Rate Volume Yield/Rate Total Change (2) 
+
+Volume Yield/Rate Total Change (2) 
+
+$ 24,483,719 $ 1,075,682 4.36 % $ 232,398 $ (117,215) $ 115,183 $ 83,908 $ 60,235 $ 144,143 1,514,598 28,277 1.87 (12,058) (7,074) (19,132) (10,632) 4,590 (6,042) 106,067 2,697 2.54 5,080 (10,931) (5,851) 9,787 1,824 11,611 5,241,865 113,698 2.17 51,357 (57,572) (6,215) (191) 1,312 1,121 104,796 5,727 5.46 12,575 (171) 12,404 2,680 (462) 2,218 107,603 1,059 0.98 208 1,841 2,049 230 916 1,146 7,074,929 151,458 2.14 57,162 (73,907) (16,745) 1,874 8,180 10,054 1,289,013 21,997 1.71 28,418 (47,816) (19,398) 45 4,203 4,248 32,847,661 $ 1,249,137 3.78 % $ 317,978 $ (238,938) $ 79,040 $ 85,827 $ 72,618 $ 158,445 281,510 1,164,542 (223,300) 47,053 762,446 $ 34,879,912 $ 7,278,662 $ 3,725 0.05 % $ 1,122 $ (1,227) $ (105) $ 112 $ 2,181 $ 2,293 2,466,734 789 0.03 214 (697) (483) 44 867 911 5,903,823 8,196 0.14 6,886 (7,697) (811) 170 14,949 15,119 2,427,949 9,773 0.40 295 (8,515) (8,220) 3,572 31,876 35,448 18,077,168 22,483 0.12 8,517 (18,136) (9,619) 3,898 49,873 53,771 555,555 1,738 0.31 377 (762) (385) (77) 334 257 58,686 1,919 3.27 788 (405) 383 (1,164) (84) (1,248) 304,318 10,717 3.48 28,558 (15,722) 12,836 3,057 (52) 3,005 18,995,727 36,857 0.19 38,240 (35,025) 3,215 5,714 50,071 55,785 12,088,081 373,163 3,422,941 $ 34,879,912 3.59 % $ 1,212,280 3.66 % $ 279,738 $ (203,913) $ 75,825 $ 80,113 $ 22,547 $ 102,660 ##TABLE_END
+
+RESULTS OF OPERATIONS 
+
+Net Interest Margin and Income (Taxable Equivalent Basis) 
+
+Taxable-equivalent net interest income was $1.39 billion for the year ended December 31, 2020, an increase of $75.8 million, or 5.8%, compared to 2019. Interest income increased $79.0 million and interest expense increased by $3.2 million. 
+
+Interest income earned on loans and leases was $1.34 billion during 2020, an increase of $115.2 million compared to 2019. The increase was primarily due to the impacts of SBA-PPP loans, which contributed $90.1 million, and organic loan growth, partially offset by lower yields. 
+
+Interest income earned on investment securities was $144.8 million and $161.5 million during 2020 and 2019, respectively. The $16.7 million decrease was primarily due to a 73 basis point decline in the investment yield, partially offset by higher average balances. 
+
+Interest expense on interest-bearing deposits was $66.6 million in 2020, a decrease of $9.6 million compared to 2019, primarily due to lower rates paid on money market and time deposits. Interest expense on borrowings was $29.2 million in 2020, an increase of $12.8 million compared to 2019, primarily due to an increase in average borrowings, partially offset by lower rates paid. 
+
+The year-to-date taxable equivalent net interest margin for 2020 was 3.17%, compared to 3.74% during 2019. The margin compression was primarily due to a decline in the yield on interest-earning assets coupled with an increase in total borrowings, partially offset by a decline in the rate paid on interest-bearing deposits. During 2020, yields on loans, investment securities and overnight investments decreased 36 basis points to 4.18%, 73 basis points to 1.60% and 178 basis points to 0.25%, respectively. 
+
+Average interest-earning assets increased $8.48 billion, or by 24.3% for the year ended December 31, 2020. Growth in average interest-earning assets during 2020 was primarily due to higher investment balances, the impact of SBA-PPP loans and other organic loan growth. The year-to-date taxable-equivalent yield on interest-earning assets in 2020 declined by 61 basis points to 3.40%. 
+
+Average interest-bearing liabilities increased $4.50 billion for the year ended December 31, 2020, primarily due to increased interest-bearing deposits and borrowings. The rate paid on interest-bearing liabilities decreased 7 basis points in 2020 from 0.45% to 0.38%. 
+
+Provision for Credit Losses 
+
+BancShares recorded a provision for credit losses for loans and leases of $58.4 million for the year ended December 31, 2020, compared to $31.4 million for same period in 2019. This increase was primarily due to a COVID-19-related reserve build of $36.1 million during the first half of 2020 as loss estimates consider the potential uncertainty of slower economic activity and elevated unemployment, as well as potential mitigants due to government stimulus and loan accommodations. 
+
+Noninterest Income 
+
+Table 7 
+
+NONINTEREST INCOME 
+
+##TABLE_START Year ended December 31 (Dollars in thousands) 2020 2019 2018 Wealth management services $ 102,776 $ 99,241 $ 97,966 Service charges on deposit accounts 87,662 105,191 105,486 Cardholder services, net 74,291 69,078 65,478 Mortgage income 39,592 21,126 16,433 Other service charges and fees 30,911 31,644 30,606 Merchant services, net 24,122 24,304 24,504 Insurance commissions 14,544 12,810 12,702 ATM income 5,758 6,296 7,980 Realized gains on investment securities available for sale, net 60,253 7,115 351 Marketable equity securities gains (losses), net 29,395 20,625 (7,610) Gain on extinguishment of debt &#8212; &#8212; 26,553 Other 7,446 18,431 19,700 Total noninterest income $ 476,750 $ 415,861 $ 400,149 ##TABLE_END
+
+For the year ended December 31, 2020, total noninterest income was $476.8 million, compared to $415.9 million for 2019, an increase of $60.9 million, or 14.6%. The change was primarily attributable to the following: 
+
+&#8226; Gains on sale of investment securities available for sale increased by $53.1 million. 
+
+&#8226; Mortgage income increased $18.5 million primarily due to origination volume brought about by lower mortgage rates. The production-related income was partially offset by a $4.1 million impairment of mortgage servicing rights recorded due to accelerated prepayments. 
+
+&#8226; The $29.4 million net gain included realized gains on the sale equity securities of $44.6 million. 
+
+&#8226; Service charges on deposit accounts decreased $17.5 million primarily due to lower volume with increased deposit balances and an increase in waived fees to aid our customers during the COVID-19 pandemic. 
+
+&#8226; Other noninterest income decreased $11.0 million primarily due to acquired recoveries on PCD loans, formerly reported in noninterest income. After adoption of CECL, these are recorded as a component of the allowance for credit losses. 
+
+Noninterest Expense 
+
+Table 8 
+
+NONINTEREST EXPENSE 
+
+##TABLE_START Year ended December 31 (Dollars in thousands) 2020 2019 2018 Salaries and wages $ 590,020 $ 551,112 $ 527,691 Employee benefits 132,244 120,501 118,203 Occupancy expense 117,169 111,179 109,169 Equipment expense 115,535 112,290 102,909 Processing fees paid to third parties 44,791 29,552 30,017 Merger-related expenses 17,450 17,166 6,462 Core deposit intangible amortization 14,255 16,346 17,165 Collection and foreclosure-related expenses 13,658 11,994 16,567 Consultant expense 12,751 12,801 14,345 FDIC insurance expense 12,701 10,664 18,890 Telecommunications expense 12,179 9,391 10,471 Advertising expense 10,010 11,437 11,650 Other 95,922 89,308 93,432 Total noninterest expense $ 1,188,685 $ 1,103,741 $ 1,076,971 ##TABLE_END
+
+For the year ended December 31, 2020, total noninterest expense was $1.19 billion, compared to $1.10 billion for 2019, an increase of $84.9 million, or 7.7%. The change was primarily attributable to the following: 
+
+&#8226; Personnel expense, which includes salaries, wages and employee benefits, increased by $50.7 million, primarily due to an increase in salaries and wages as a result of merit increases and additional headcount from recent acquisitions. 
+
+&#8226; Processing fees paid to third parties increased $15.2 million primarily due to the continued investment in our digital banking offerings as well as processing fees related to recent acquisitions. 
+
+&#8226; Other noninterest expense increased $6.6 million primarily due to increased pension costs due to a lower discount rate and a higher provision related to unfunded loan commitments as a result of the potential economic impact of COVID-19. The increase was partially offset by a decrease in travel expense. 
+
+&#8226; Occupancy expense increased $6.0 million primarily due to cleaning and sanitizing efforts in branches and corporate buildings to combat the spread of COVID-19. 
+
+Income Taxes 
+
+For 2020, income tax expense was $126.2 million compared to $134.7 million during 2019 and $103.3 million during 2018. Effective tax rates were 20.4%, 22.7% and 20.5% during the respective periods. 
+
+The effective tax rate for the year ended 2020 was favorably impacted by $13.9 million due to the decision to utilize an allowable alternative for computing our 2020 federal income tax liability. Without this alternative, the effective tax rate would have been approximately 22.7% for the year ended 2020. The allowable alternative provides us the ability to use the federal income tax rate for certain current year deductible amounts related to prior year FDIC-assisted acquisitions that was applicable when these amounts were originally subjected to tax. 
+
+INTEREST-EARNING ASSETS 
+
+Interest-earning assets include overnight investments, investment securities and loans and leases, all of which reflect varying interest rates based on the risk level and repricing characteristics of the underlying asset. Higher risk investments typically carry a higher interest rate, but expose us to higher levels of market and/or credit risk. We strive to maintain a high level of interest-earning assets relative to total assets, while keeping non-earning assets at a minimum. 
+
+Interest-earning assets totaled $47.19 billion and $37.23 billion at December 31, 2020 and December 31, 2019, respectively. The $9.96 billion increase was primarily composed of a $3.91 billion increase in loans and leases, a $3.24 billion increase in overnight investments and a $2.75 billion increase in investment securities. 
+
+Investment Securities 
+
+The primary objective of the investment portfolio is to generate incremental income by deploying excess funds into securities that have minimal liquidity risk and low to moderate interest rate risk and credit risk. Other objectives include acting as a stable source of liquidity, serving as a tool for asset and liability management and maintaining an interest rate risk profile compatible with BancShares&#8217; objectives. Additionally, purchases of equities and corporate bonds in other financial institutions have been made largely under a long-term earnings optimization strategy. Changes in the total balance of our investment securities portfolio result from trends in balance sheet funding and market performance. Generally, when inflows arising from deposit and treasury services products exceed loan and lease demand, we invest excess funds into the securities portfolio or into overnight investments. Conversely, when loan demand exceeds growth in deposits and short-term borrowings, we allow any overnight investments to decline and use proceeds from maturing securities and prepayments to fund loan demand. See Note A, Accounting Policies and Basis of Presentation, and Note C, Investments, in the Notes to Consolidated Financial Statements for additional disclosures regarding investment securities. 
+
+The carrying value of all investment securities was $9.92 billion at December 31, 2020, an increase of $2.75 billion compared to $7.17 billion at December 31, 2019. The increase in the portfolio was primarily attributable to purchases totaling $10.64 billion, partially offset by maturities and paydowns of $3.09 billion and sales of $4.94 billion. This increase was due to excess liquidity generated by significant deposit growth during the year. 
+
+As of December 31, 2020, investment securities available for sale had a net pre-tax unrealized gain of $102.3 million, compared to a net pre-tax unrealized gain of $7.5 million as of December 31, 2019. After evaluating the investment securities with unrealized losses, management concluded that no credit-related impairment existed as of December 31, 2020. Investment securities classified as available for sale are reported at fair value and unrealized gains and losses are included as a component of accumulated other comprehensive income (&#8220;AOCI&#8221;), net of deferred taxes. 
+
+On November 1, 2020, mortgage-backed securities with an amortized cost of $1.46 billion were transferred from investment securities available for sale to the held to maturity portfolio. At the time of transfer, the mortgage-backed securities had a fair value of $1.47 billion and a weighted average contractual maturity of 18 years. The unrealized gain on these securities at the date of transfer was $5.9 million, or $4.5 million net of tax, and was reported as a component of AOCI. This unrealized gain is accreted over the remaining expected life of the securities as an adjustment of yield. 
+
+On November 1, 2019, as part of the adoption of ASU 2019-04, mortgage-backed securities with an amortized cost of $2.08 billion were transferred from investment securities held to maturity to the available for sale portfolio. At the time of the transfer, the mortgage-backed securities had a fair value of $2.15 billion. The transfer resulted in a reclassification of unrealized losses of $72.5 million, or $55.8 million net of tax, previously frozen in AOCI. The transfer does not impact our intent and ability to hold the remainder of the held to maturity portfolio to maturity. 
+
+Table 9 presents the investment securities portfolio at December 31, 2020 segregated by major category. 
+
+Table 9 
+
+INVESTMENT SECURITIES 
+
+##TABLE_START December 31, 2020 December 31, 2019 (Dollars in thousands) Composition (1) 
+
+Cost Fair Value Composition (1) 
+
+Cost Fair Value Investment securities available for sale U.S. Treasury 5.0 % $ 499,832 $ 499,933 5.7 % $ 409,397 $ 409,999 Government agency 7.0 706,241 701,391 9.5 684,085 682,772 Residential mortgage-backed securities 44.5 4,369,130 4,438,103 73.4 5,269,060 5,267,090 Commercial mortgage-backed securities 7.9 745,892 771,537 5.3 373,105 380,020 Corporate bonds 6.1 590,870 603,279 2.8 198,278 201,566 State, county and municipal &#8212; &#8212; &#8212; 1.7 118,227 118,227 Total investment securities available for sale 70.5 6,911,965 7,014,243 98.4 7,052,152 7,059,674 Investment in marketable equity securities 0.9 84,837 91,680 1.2 59,262 82,333 Investment securities held to maturity Residential mortgage-backed securities 19.1 1,877,692 1,895,381 &#8212; &#8212; &#8212; Commercial mortgage-backed securities 9.4 937,034 940,862 &#8212; &#8212; &#8212; Other 0.1 2,256 2,256 0.4 30,996 30,996 Total investment securities held to maturity 28.6 2,816,982 2,838,499 0.4 30,996 30,996 Total investment securities 100.0 % $ 9,813,784 $ 9,944,422 100.0 % $ 7,142,410 $ 7,173,003 
+
+(1) Calculated as a percent of the total fair value of investment securities. 
+
+##TABLE_END
+
+Table 10 presents the weighted average taxable-equivalent yields for investment securities held to maturity at December 31, 2020 segregated by major category with ranges of contractual maturities. The weighted average yield on the portfolio is calculated using security-level annualized yields. 
+
+Table 10 
+
+WEIGHTED AVERAGE YIELD ON INVESTMENT SECURITIES 
+
+##TABLE_START December 31, 2020 Within One Year One to Five Years Five to 10 Years After 10 Years Total Investment securities held to maturity Residential mortgage-backed securities (1) 
+
+&#8212; % &#8212; % &#8212; % 1.13 % 1.13 % Commercial mortgage-backed securities (1) 
+
+&#8212; &#8212; &#8212; 1.27 1.27 Other investments 1.17 1.37 &#8212; &#8212; 1.31 Total investment securities held to maturity 1.17 % 1.37 % &#8212; % 1.18 % 1.18 % ##TABLE_END
+
+(1) Residential mortgage-backed and commercial mortgage-backed securities, which are not due at a single maturity date, have been included in maturity groupings based on the contractual maturity. The expected life will differ from contractual maturities because borrowers have the right to prepay the underlying loans. 
+
+Loans and Leases 
+
+Loans held for sale were $124.8 million at December 31, 2020, a net increase of $57.0 million since December 31, 2019. The increase is primarily due to originations of $1.08 billion driven by low interest rates, partially offset by sales of $1.05 billion. 
+
+Loans and leases held for investment are classified differently, dependent on whether they are originated or purchased, and if purchased, whether or not the loans reflect more than insignificant credit deterioration since origination as of the date of acquisition. Non-PCD loans consist of loans which were originated by us or purchased from other institutions that did not reflect more than insignificant credit deterioration at acquisition. PCD loans are purchased loans which reflect a more than insignificant credit deterioration since origination as of the date of acquisition. 
+
+Loans and leases held for investment were $32.79 billion at December 31, 2020, a net increase of $3.91 billion, representing growth of 13.5% since December 31, 2019. This increase was driven by a $4.01 billion net increase in the non-PCD portfolio offset by a $95.8 million net decrease in the PCD loan portfolio. The net increase in the non-PCD portfolio was due to $2.41 billion related to SBA-PPP loans as well as organic growth, primarily in our commercial segments. The net decrease in PCD loans was primarily due to pay downs and pay-offs, partially offset by a $19.0 million increase from the adoption of ASC 326. Excluding 2020 loans related to SBA-PPP and acquired loans, total loans grew by 4.9%. 
+
+We report non-PCD and PCD loan portfolios separately, with the non-PCD portfolio further divided into commercial and consumer segments. Non-PCD loans and leases at December 31, 2020 were $32.33 billion compared to $28.32 billion at December 31, 2019, representing 98.6% and 98.1% of total loans, respectively. PCD loans at December 31, 2020 were $462.9 million, compared to $558.7 million of PCI loans at December 31, 2019, representing 1.4% and 1.9% of loans, respectively. 
+
+The discount related to acquired non-PCD loans and leases at December 31, 2020 and non-PCI loans and leases at December 31, 2019 was $19.5 million and $30.9 million, respectively. The discount related to PCD loans at December 31, 2020 and PCI loans at December 31, 2019 was $45.3 million and $88.2 million, respectively. The primary driver of the decrease in PCD discount was loan payoffs as well as the adoption of ASC 326, which resulted in a $19.0 million reclassification of the credit portion of the loan discount to the ACL. 
+
+During the year ended December 31, 2020 and 2019, accretion income on purchased non-PCD loans and leases was $11.3 million and $13.2 million, respectively. During the year ended December 31, 2020 and 2019, interest and accretion income on purchased PCD loans and leases was $59.7 million and $58.0 million, respectively. 
+
+Table 11 provides the composition of net loans and leases for the past three years. 
+
+Table 11 
+
+LOANS AND LEASES 
+
+##TABLE_START December 31 (Dollars in thousands) 2020 Non-PCD loans and leases: Commercial: Construction and land development $ 985,424 Owner occupied commercial mortgage 11,165,012 Non-owner occupied commercial mortgage 2,987,689 Commercial and industrial and leases 5,013,644 SBA-PPP 2,406,291 Total commercial loans 22,558,060 Consumer: Residential mortgage 5,561,686 Revolving mortgage 2,052,854 Construction and land development 348,123 Consumer auto 1,255,402 Consumer other 552,968 Total consumer loans 9,771,033 Total non-PCD loans and leases 32,329,093 PCD loans 462,882 Total loans and leases 32,791,975 Less allowance for credit losses (224,314) Net loans and leases $ 32,567,661 ##TABLE_END
+
+##TABLE_START December 31 (Dollars in thousands) 2019 2018 Non-PCI loans and leases: Commercial: Construction and land development $ 1,013,454 $ 757,854 Commercial mortgage 12,282,635 10,717,234 Other commercial real estate 542,028 426,985 Commercial and industrial and leases 4,403,792 3,938,730 Other 310,093 296,424 Total commercial loans 18,552,002 16,137,227 Noncommercial: Residential mortgage 5,293,917 4,265,687 Revolving mortgage 2,339,072 2,542,975 Construction and land development 357,385 257,030 Consumer 1,780,404 1,713,781 Total noncommercial loans 9,770,778 8,779,473 Total non-PCI loans and leases $ 28,322,780 $ 24,916,700 PCI loans $ 558,716 $ 606,576 Total loans and leases 28,881,496 25,523,276 Less allowance for credit losses (225,141) (223,712) Net loans and leases $ 28,656,355 $ 25,299,564 ##TABLE_END
+
+Allowance for Credit Losses 
+
+During January 2020, we adopted ASU 2016-13 Financial Instruments&#8212;Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments (&#8220;ASC 326&#8221;), which changed the methodology, accounting policies, and inputs used in determining the ACL. Refer to Note A, Accounting Policies and Basis of Presentation, in the Notes to Consolidated Financial Statements for a discussion of the methodology used in the determination of the ACL, as well as further information about the adoption, under the "Recently Issued Accounting Pronouncements" section. 
+
+The ACL was $224.3 million at December 31, 2020, compared to $225.1 million and $223.7 million at December 31, 2019 and 2018, respectively. The ACL as a percentage of total loans and leases was 0.68% at December 31, 2020, compared to 0.78% and 0.88% at December 31, 2019 and 2018, respectively. The ACL as a percentage of total loans and leases excluding SBA-PPP loans, which have no associated ACL, was 0.74% at December 31, 2020. 
+
+Upon adoption of ASC 326 on January 1, 2020, BancShares recorded a net decrease of $37.9 million in the ACL which included a decrease of $56.9 million in the ACL on non-PCD loans, partially offset by an increase of $19.0 million in the ACL on PCD loans. The decrease in the ACL on non-PCD loans was primarily in the commercial segments as these portfolios have exhibited strong historical credit performance and have relatively short average lives. This decrease was partially offset by an increase in the consumer segments due to their longer average lives. The increase in the ACL on PCD loans was primarily the result of reallocating credit discount from loan balances into the ACL. At the time of adoption of ASC 326, the scope and severity of the COVID-19 pandemic and the related impacts were unknown. The economic forecasts did not project the impacts of the recession. 
+
+The ACL is calculated using a variety of factors, including, but not limited to, charge-off and recovery activity, loan growth, changes in macroeconomic factors, collateral type, estimated loan life and changes in credit quality. For the period ended December 31, 2020 the primary reason for the ACL change since the adoption of ASC 326, was a $36.1 million reserve build due to the potential economic impact of COVID-19 and its estimated potential impact on credit losses. Forecasted economic conditions are developed using third party macroeconomic scenarios adjusted based on management&#8217;s expectations over a reasonable and supportable forecast period of two years. Assumptions revert to the long term historic averages over a one year period. Significant macroeconomic factors used in estimating the expected losses include unemployment, gross domestic product, home price index and commercial real estate index. Our model results consider baseline, adverse and upside scenarios. To calculate the ACL, we utilized the baseline scenario, which considers government stimulus and incorporates significant improvements to the most significant forecast assumptions when compared on the COVID-19-impacted levels from early in 2020. 
+
+As of December 31, 2020, the baseline forecast utilized the following significant inputs over the two-year reasonable and supportable forecast period: 
+
+Unemployment - Rates are projected to remain elevated, and will generally decrease to just below 6% by the end of 2022. 
+
+GDP Growth - Peak growth of 3.6% in the first quarter of 2021, primarily decreasing to under 3% in late 2022. 
+
+Home Pricing Index - Growth rates below 1% in early 2021 which increase to close to 4% in late 2022. 
+
+Commercial Real Estate Index - Forecasted downturn beginning 1Q21 with a maximum 20.7% drop by the end of 2021, and then slowly improving towards positive growth. 
+
+The model result was calibrated using management&#8217;s expectation of borrower performance based upon COVID-19 residual risk by industry. These loss estimates were also influenced by strong credit quality, low net charge-offs and recent credit trends, which remained relatively stable through the period ended December 31, 2020. 
+
+At December 31, 2020, the ACL on non-PCD loans and leases was $200.3 million, or 0.62% of non-PCD loans and leases, compared to $217.6 million, or 0.77%, at December 31, 2019, and $214.6 million, or 0.86%, at December 31, 2018. The ACL as a percentage of non-PCD loans and leases excluding SBA-PPP loans was 0.67% at December 31, 2020. Aside from SBA-PPP loans, which have no allowance, the decrease since December 31, 2019 was primarily due to the adoption of ASC 326, partially offset by the forecasted potential economic impact of the COVID-19 pandemic on expected credit losses. The adoption of ASC 326 resulted in a decrease of 18 basis points, while the COVID-19 reserve build resulted in an increase of 11 basis points. 
+
+In the period after adoption of ASC 326, the ACL on commercial portfolios increased $26.0 million, with the largest share of the increase within the non-owner occupied commercial real estate as this portfolio contained industries hardest hit by the pandemic such as hospitality, lessors and retail. The ACL on consumer portfolios increased $13.6 million, with the largest increase within residential mortgages, due to loan growth during the year. 
+
+At December 31, 2020, the ACL on PCD loans totaled $24.0 million compared to $7.5 million at December 31, 2019 and $9.1 million, at December 31, 2018. The increase was primarily due the adoption of ASC 326, partially offset by loan payoffs. 
+
+At December 31, 2020, the ACL on unfunded commitments was $12.8 million compared to $1.1 million at December 31, 2019 and $1.1 million, at December 31, 2018. The increase was primarily due the adoption of ASC 326. 
+
+Table 12 provides details of the ACL, provision components and net charge-off ratio by loan class for the past three years. 
+
+Table 12 
+
+ALLOWANCE FOR CREDIT LOSSES 
+
+##TABLE_START Year ended December 31, 2020 (Dollars in thousands) Construction and land development - commercial Owner occupied commercial mortgage Non-owner occupied commercial mortgage Commercial and industrial and leases Residential mortgage Revolving mortgage Construction and land development - consumer Consumer auto Consumer other PCD Total Allowance for credit losses: Balance at December 31, 2019 $ 33,213 $ 36,444 $ 11,102 $ 61,610 $ 18,232 $ 19,702 $ 2,709 $ 4,292 $ 30,301 $ 7,536 $ 225,141 Adoption of ASC 326 (31,061) (19,316) 460 (37,637) 17,118 3,665 (1,291) 1,100 10,037 19,001 (37,924) Balance at January 1, 2020 2,152 17,128 11,562 23,973 35,350 23,367 1,418 5,392 40,338 26,537 187,217 Provision (credits) 4,301 6,729 12,917 13,816 9,684 1,134 266 6,297 10,410 (7,202) 58,352 Initial allowance on PCD loans &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; 1,193 1,193 Charge-offs (138) (593) (1,951) (14,904) (1,653) (1,662) (70) (3,646) (17,188) (3,300) (45,105) Recoveries 431 401 124 4,894 717 1,918 117 1,417 5,879 6,759 22,657 Balance at December 31, 2020 $ 6,746 $ 23,665 $ 22,652 $ 27,779 $ 44,098 $ 24,757 $ 1,731 $ 9,460 $ 39,439 $ 23,987 $ 224,314 Net charge-off ratio (0.03) % &#8212; % 0.06 % 0.21 % 0.02 % (0.01) % (0.01) % 0.18 % 2.06 % (0.67) % 0.07 % Net charge-offs $ (293) $ 192 $ 1,827 $ 10,010 $ 936 $ (256) $ (47) $ 2,229 $ 11,309 $ (3,459) $ 22,448 Average loans 1,017,595 10,418,447 2,995,382 4,881,884 5,382,045 2,122,144 355,368 1,207,820 550,223 517,121 31,417,256 ##TABLE_END
+
+##TABLE_START Years ended December 31, 2019 and 2018 (Dollars in thousands) Construction and land development - commercial Commercial mortgage Other commercial real estate Commercial and industrial and leases Other Residential mortgage Revolving mortgage Construction and land development - non- commercial Consumer PCI Total Allowance for credit losses: Balance at January 1, 2019 $ 35,270 $ 43,451 $ 2,481 $ 55,620 $ 2,221 $ 15,472 $ 21,862 $ 2,350 $ 35,841 $ 9,144 $ 223,712 Provision (credits) (2,171) 2,384 (285) 14,212 (754) 3,481 (788) 359 16,611 (1,608) 31,441 Charge-offs (196) (1,096) &#8212; (13,352) (100) (1,137) (2,584) &#8212; (24,562) &#8212; (43,027) Recoveries 310 596 15 2,894 869 416 1,212 &#8212; 6,703 &#8212; 13,015 Balance at December 31, 2019 $ 33,213 $ 45,335 $ 2,211 $ 59,374 $ 2,236 $ 18,232 $ 19,702 $ 2,709 $ 34,593 $ 7,536 $ 225,141 Net charge-off ratio (0.01) % &#8212; % &#8212; % 0.26 % (0.26) % 0.02 % 0.06 % &#8212; % 1.03 % &#8212; % 0.11 % Net charge-offs $ (114) $ 500 $ (15) $ 10,458 $ (769) $ 721 $ 1,372 $ &#8212; $ 17,859 $ &#8212; $ 30,012 Average loans 817,633 11,240,281 495,737 4,024,300 297,849 4,709,971 2,430,788 302,118 1,739,693 537,131 26,595,501 Balance at January 1, 2018 24,470 45,005 4,571 59,824 4,689 15,706 22,436 3,962 31,204 10,026 221,893 Provision (credits) 10,533 (1,490) (2,171) 2,511 (2,827) 897 1,112 (1,520) 22,187 (765) 28,467 Charge-offs (44) (1,140) (69) (10,211) (130) (1,689) (3,235) (219) (22,817) (117) (39,671) Recoveries 311 1,076 150 3,496 489 558 1,549 127 5,267 &#8212; 13,023 Balance at December 31, 2018 $ 35,270 $ 43,451 $ 2,481 $ 55,620 $ 2,221 $ 15,472 $ 21,862 $ 2,350 $ 35,841 $ 9,144 $ 223,712 Net charge-off ratio (0.04) % &#8212; % (0.02) % 0.18 % (0.12) % 0.03 % 0.06 % 0.04 % 1.10 % 0.02 % 0.11 % Net charge-offs $ (267) $ 64 $ (81) $ 6,715 $ (359) $ 1,131 $ 1,686 $ 92 $ 17,550 $ 117 $ 26,648 Average loans 717,668 10,255,531 443,956 3,732,452 298,364 3,903,796 2,610,110 249,488 1,601,226 671,128 24,483,719 ##TABLE_END
+
+Table 13 provides trends of the ACL ratios for the past three years. 
+
+Table 13 
+
+ALLOWANCE FOR CREDIT LOSSES RATIOS 
+
+##TABLE_START (Dollars in thousands) 2020 2019 2018 Allowance for credit losses to total loans and leases: 0.68 % 0.78 % 0.88 % Allowance for credit losses $ 224,314 $ 225,141 $ 223,712 Total loans and leases 32,791,975 28,881,496 25,523,276 Allowance for credit losses to non-PCD loans and leases: 0.62 % 0.77 % 0.86 % Allowance for credit losses on non-PCD loans and leases $ 200,327 $ 217,605 $ 214,568 Total non-PCD loans and leases 32,329,093 28,322,780 24,916,700 Allowance for credit losses to PCD loans: 5.18 % 1.35 % 1.51 % Allowance for credit losses on PCD loans $ 23,987 $ 7,536 $ 9,144 Total PCD loans 462,882 558,716 606,576 ##TABLE_END
+
+Table 14 details the allocation of the ACL among the various loan types. See Note E, Allowance for Credit Losses, in the Notes to Consolidated Financial Statements for additional disclosures regarding the ACL. 
+
+Table 14 
+
+ALLOCATION OF ALLOWANCE FOR CREDIT LOSSES 
+
+##TABLE_START &#160; December 31 &#160; 2020 (dollars in thousands) Allowance for credit losses Percent of loans to total loans Non-PCI loans and leases Commercial: Construction and land development $ 6,746 3.0 % Owner occupied commercial mortgage 23,665 34.0 Non-owner occupied commercial mortgage 22,652 9.1 Commercial and industrial and leases 27,779 15.3 SBA-PPP &#8212; 7.3 Total commercial loans and leases 80,842 68.7 Consumer: Residential mortgage 44,098 17.0 Revolving mortgage 24,757 6.3 Construction and land development 1,731 1.1 Consumer auto 9,460 3.8 Consumer other 39,439 1.7 Total consumer loans 119,485 29.9 Total non-PCD loans and leases 200,327 98.6 PCD loans 23,987 1.4 Total loans and leases $ 224,314 100.0 % ##TABLE_END
+
+##TABLE_START December 31 2019 2018 (dollars in thousands) Allowance for loan and lease losses Percent of loans to total loans Allowance for loan and lease losses Percent of loans to total loans Non-PCI loans and leases Commercial: Construction and land development $ 33,213 3.5 % $ 35,270 3.0 % Commercial mortgage 45,335 42.5 43,451 42.0 Other commercial real estate 2,211 1.9 2,481 1.7 Commercial and industrial and leases 59,374 15.3 55,620 15.3 Other 2,236 1.1 2,221 1.2 Total commercial loans and leases 142,369 64.3 139,043 63.2 Noncommercial: Residential mortgage 18,232 18.3 15,472 16.7 Revolving mortgage 19,702 8.1 21,862 10.0 Construction and land development 2,709 1.2 2,350 1.0 Consumer 34,593 6.2 35,841 6.7 Total noncommercial loans 75,236 33.8 75,525 34.4 Total non-PCI loans and leases 217,605 98.1 214,568 97.6 PCI loans 7,536 1.9 9,144 2.4 Total loans and leases $ 225,141 100.0 % $ 223,712 100.0 % ##TABLE_END
+
+Nonperforming Assets 
+
+Nonperforming assets include nonaccrual loans and other real estate owned (&#8220;OREO&#8221;) resulting from both non-PCD and PCD loans. Non-PCD loans are generally placed on nonaccrual when principal or interest becomes 90 days past due or when it is probable that principal or interest is not fully collectable. When non-PCD loans are placed on nonaccrual, all previously uncollected accrued interest is reversed from interest income and the ongoing accrual of interest is discontinued. Non-PCD loans and leases are generally removed from nonaccrual status when they become current for a sustained period of time as to both principal and interest and there is no longer concern as to the collectability of principal and interest. Accretion of income for PCD loans is discontinued when we are unable to estimate the amount or timing of cash flows. PCD loans may begin or resume accretion of income when information becomes available that allows us to estimate the amount and timing of future cash flows. 
+
+OREO includes foreclosed property and branch facilities that we have closed but not sold. Net book values of OREO are reviewed at least annually to evaluate if write-downs are required. The level of review is dependent on the value and type of the collateral, with higher value and more complex properties receiving a more detailed review. Changes to the value of the assets between scheduled valuation dates are monitored through continued communication with brokers and monthly reviews by the asset manager assigned to each asset. The asset manager uses the information gathered from brokers and other market sources to identify any significant changes in the market or the subject property as they occur. Valuations are then adjusted or new appraisals are ordered to ensure the reported values reflect the most current information. 
+
+Since OREO is carried at the lower of cost or market value, less estimated selling costs, book value adjustments are only recorded when fair values have declined. Decisions regarding write-downs are based on factors including appraisals, previous offers received on the property, market conditions and the number of days the property has been on the market. 
+
+Table 15 provides details on nonperforming assets and other risk elements. 
+
+Table 15 
+
+NONPERFORMING ASSETS 
+
+##TABLE_START December 31 (Dollars in thousands, except ratios) 2020 2019 2018 Nonaccrual loans and leases: Non-PCD $ 136,544 $ 114,946 $ 84,546 PCD 54,939 6,743 1,276 Total nonaccrual loans 191,483 121,689 85,822 Other real estate owned 50,890 46,591 48,030 Total nonperforming assets $ 242,373 $ 168,280 $ 133,852 Accruing loans and leases 90 days or more past due: Non-PCD $ 5,507 $ 3,291 $ 2,888 PCD 355 24,257 37,020 Ratio of total nonperforming assets to total loans, leases and other real estate owned 0.74 0.58 0.52 Ratio of nonaccrual loans and leases to total loans and leases 0.58 0.42 0.34 Ratio of allowance for credit losses to nonaccrual loans and leases 117.1 185.0 260.7 ##TABLE_END
+
+The increase in nonaccrual loans and leases was impacted by the dissolution of PCI loan pools under the adoption of ASC 326 as those nonaccrual loans within performing PCI pools were previously excluded from reporting. As of December 31, 2020, there were $24.9 million of nonaccrual loans that had been released from performing PCI pools. The remaining increase in nonaccrual loans was primarily due to increases within our acquired residential real estate loan portfolio. The credit quality of the portfolio remains in line with our risk tolerances and management is actively monitoring any potential increases in portfolio risk due to COVID-19. 
+
+Troubled Debt Restructurings 
+
+A loan is considered a troubled debt restructuring (&#8220;TDR&#8221;) when both of the following occur: (1) a modification to a borrower&#8217;s debt agreement is made and (2) a concession is granted for economic or legal reasons related to a borrower&#8217;s financial difficulties that otherwise would not be granted. TDR concessions could include deferrals of interest, modifications of payment terms, or, in certain limited instances, forgiveness of principal or interest. Acquired loans are classified as TDRs if a modification is made subsequent to acquisition. We further classify TDRs as performing and nonperforming. Performing TDRs accrue interest at the time of restructure and continue to perform based on the restructured terms. Nonperforming TDRs do not accrue interest and are included with other nonperforming assets within nonaccrual loans and leases in Table 14 above. 
+
+The Interagency Statement on Loan Modifications and Reporting for Financial Institutions Working with Customers Affected by the Coronavirus was published by banking regulators in April 2020 to clarify expectations around loan modifications and the determination of TDRs for borrowers experiencing COVID-19-related financial difficulty. BancShares applied this regulatory guidance during its TDR identification process for short-term loan forbearance agreements as a result of COVID-19 and in most cases is not recording these as TDRs. See Note A, Accounting Policies and Basis of Presentation, in the Notes to Consolidated Financial Statements for discussion of our accounting policies for TDRs. 
+
+Table 16 provides further details on performing and nonperforming TDRs for the last three years. 
+
+Table 16 
+
+TROUBLED DEBT RESTRUCTURINGS 
+
+##TABLE_START December 31 (Dollars in thousands) 2020 2019 2018 Accruing TDRs: Non-PCD $ 139,747 $ 111,676 $ 108,992 PCD 17,617 17,074 18,101 Total accruing TDRs $ 157,364 $ 128,750 $ 127,093 Nonaccruing TDRs: Non-PCD 43,470 42,331 28,918 PCD 7,346 111 119 Total nonaccruing TDRs $ 50,816 $ 42,442 $ 29,037 All TDRs: Non-PCD 183,217 154,007 137,910 PCD 24,963 17,185 18,220 Total TDRs $ 208,180 $ 171,192 $ 156,130 ##TABLE_END
+
+INTEREST-BEARING LIABILITIES 
+
+Interest-bearing liabilities include interest-bearing deposits, securities sold under customer repurchase agreements, FHLB borrowings, subordinated debt, and other borrowings. Interest-bearing liabilities totaled $27.31 billion at December 31, 2020, compared to $22.83 billion at December 31, 2019. The $4.48 billion increase was due to an increase in interest-bearing deposits of $3.91 billion and an increase in total borrowings of $562.8 million. 
+
+Deposits 
+
+At December 31, 2020, total deposits were $43.43 billion, an increase of $9.00 billion, or 26.1%, since 2019. This growth includes estimated deposits of $0.93 billion related to the SBA-PPP and deposits from acquisitions of $203.2 million. Excluding the impact of these deposits, total deposits increased $7.87 billion since December 31, 2019, or by 22.9%. 
+
+Table 17 provides deposit balances as of December 31, 2020 and 2019. 
+
+Table 17 
+
+DEPOSITS 
+
+##TABLE_START December 31 (Dollars in thousands) 2020 2019 Demand $ 18,014,029 $ 12,926,796 Checking with interest 10,591,687 8,284,302 Money market 8,632,713 6,817,752 Savings 3,304,167 2,564,777 Time 2,889,013 3,837,609 Total deposits $ 43,431,609 $ 34,431,236 ##TABLE_END
+
+Due to our focus on maintaining a strong liquidity position, core deposit retention remains a key business objective. We believe that traditional bank deposit products remain an attractive option for many customers, but as economic conditions improve, we recognize that our liquidity position could be adversely affected as bank deposits are withdrawn and invested elsewhere. Our ability to fund future loan growth is significantly dependent on our success retaining existing deposits and generating new deposits at a reasonable cost. 
+
+Table 18 provides the expected maturity of time deposits in excess of $250 thousand, the FDIC insurance limit, as of December 31, 2020. 
+
+Table 18 
+
+MATURITIES OF TIME DEPOSITS IN EXCESS OF $250,000 
+
+##TABLE_START December 31 (Dollars in thousands) 2020 2019 Time deposits maturing in: Three months or less $ 136,200 $ 245,743 Over three months through six months 118,496 164,335 Over six months through 12 months 86,260 200,199 More than 12 months 311,956 209,941 Total $ 652,912 $ 820,218 ##TABLE_END
+
+We estimate total uninsured deposits were $18.02 billion and $12.31 billion at December 31, 2020 and 2019, respectively. 
+
+Borrowings 
+
+At December 31, 2020, total borrowings were $1.89 billion compared to $1.33 billion at December 31, 2019. The $562.8 million increase was primarily due to an increase in subordinated debt of $341.1 million and an increase of $198.5 million in securities sold under customer repurchase agreements. 
+
+Table 19 
+
+BORROWINGS 
+
+##TABLE_START December 31 (Dollars in thousands) 2020 2019 Securities sold under customer repurchase agreements $ 641,487 $ 442,956 Federal Home Loan Bank borrowings 655,175 572,185 Subordinated debt SCB Capital Trust I 9,779 9,739 FCB/SC Capital Trust II 17,664 17,532 FCB/NC Capital Trust III 88,145 88,145 Capital Trust debentures assumed in acquisitions 14,433 14,433 3.375 %Fixed-to-Floating Rate Subordinated Notes due 2030 346,541 &#8212; Other subordinated debt 27,956 33,563 Total subordinated debt 504,518 163,412 Other borrowings 88,470 148,318 Total borrowings $ 1,889,650 $ 1,326,871 ##TABLE_END
+
+BancShares owns four special purpose entities &#8211; SCB Capital Trust I, FCB/SC Capital Trust II, FCB/NC Capital Trust III, and Macon Capital Trust I (the &#8220;Trusts&#8221;), which mature in 2034, 2034, 2036 and 2034, respectively. Subordinated debentures included junior subordinated debentures representing obligations to the Trusts, which may be redeemed at par in whole or in part at any time. BancShares has guaranteed all obligations of the Trusts. 
+
+On March 4, 2020, we completed a public offering of $350 million aggregate principal amount of our 3.375% Fixed-to-Floating Rate Subordinated Notes due 2030 and redeemable starting with the interest payment due March 15, 2025, subject to obtaining the prior approval of the Federal Reserve to the extent such approval is then required under the rules of the Federal Reserve, or earlier upon the occurrence of certain events. 
+
+Commitments and Contractual Obligations 
+
+Table 20 identifies significant obligations and commitments as of December 31, 2020 representing required and potential cash outflows. See Note T, Commitments and Contingencies, for additional information regarding total commitments. Loan commitments and standby letters of credit are presented at contractual amounts and do not necessarily reflect future cash outflows as many are expected to expire unused or partially used. 
+
+Table 20 
+
+COMMITMENTS AND CONTRACTUAL OBLIGATIONS 
+
+##TABLE_START Type of obligation Payments due by period (Dollars in thousands) Less than 1 year 1-3 years 3-5 years Thereafter Total Contractual obligations: Time deposits $ 1,844,860 $ 791,788 $ 110,868 $ 141,497 $ 2,889,013 Short-term borrowings 641,487 &#8212; &#8212; &#8212; 641,487 Long-term obligations 10,000 224,209 13,644 1,000,310 1,248,163 Estimated payment to settle FDIC clawback liability 15,888 &#8212; &#8212; &#8212; 15,888 Total contractual obligations $ 2,512,235 $ 1,015,997 $ 124,512 $ 1,141,807 $ 4,794,551 Commitments: Loan commitments $ 6,043,887 $ 2,065,797 $ 692,086 $ 3,296,647 $ 12,098,417 Standby letters of credit 114,042 15,572 45 160 129,819 Affordable housing partnerships 27,423 22,751 2,526 1,039 53,739 Total commitments $ 6,185,352 $ 2,104,120 $ 694,657 $ 3,297,846 $ 12,281,975 ##TABLE_END
+
+SHAREHOLDERS&#8217; EQUITY AND CAPITAL ADEQUACY 
+
+We are committed to effectively managing our capital to protect our depositors, creditors and shareholders. We continually monitor the capital levels and ratios for BancShares and FCB to ensure they exceed the minimum requirements imposed by regulatory authorities and to ensure they are appropriate, given growth projections, risk profile and potential changes in the regulatory environment. Failure to meet certain capital requirements may result in actions by regulatory agencies which could have a material impact on our consolidated financial statements. 
+
+During 2020, BancShares repurchased a total of 813,090 shares of Class A common stock, or 8.4% of outstanding Class A shares as of December 31, 2019, for $333.8 million at an average cost per share of $410.48. During 2019 , BancShares repurchased a total of 998,910 shares of Class A common stock, or 9.4% of outstanding Class A shares of as of December 31, 2018, for $450.8 million at an average cost per share of $451.33 . All share repurchases were executed under previously approved authorities. 
+
+Upon expiration of the most recent share repurchase authorization on July 31, 2020, share repurchase activity has ended and will be reevaluated in subsequent periods. 
+
+During 2020 and 2019, the share repurchases included 45,000 and 100,000 shares, respectively, of Class A common stock purchased from Ella Anna Holding, as trustee of her revocable trust. Mrs. Holding is the widow of BancShares&#8217; former Executive Vice Chairman, Frank B. Holding, and the mother of Frank B. Holding, Jr. and Hope H. Bryant, our Chairman and Chief Executive Officer and Vice Chairman, respectively. 
+
+Table 21 provides information on capital adequacy for BancShares and FCB as of December 31, 2020 and 2019. 
+
+Table 21 
+
+ANALYSIS OF CAPITAL ADEQUACY 
+
+##TABLE_START December 31, 2020 December 31, 2019 (Dollars in thousands) Requirements to be well-capitalized Amount Ratio Amount Ratio BancShares Risk-based capital ratios Total risk-based capital 10.00 % $ 4,577,212 13.81 % $ 3,731,501 12.12 % Tier 1 risk-based capital 8.00 3,856,086 11.63 3,344,305 10.86 Common equity Tier 1 6.50 3,516,149 10.61 3,344,305 10.86 
+
+Tier 1 leverage capital (1) 
+
+5.00 3,856,086 7.86 3,344,305 8.81 FCB Risk-based capital ratios Total risk-based capital 10.00 4,543,496 13.72 3,837,670 12.46 Tier 1 risk-based capital 8.00 4,276,870 12.92 3,554,974 11.54 Common equity Tier 1 6.50 4,276,870 12.92 3,554,974 11.54 
+
+Tier 1 leverage capital (2) 
+
+5.00 4,276,870 8.72 3,554,974 9.38 (1) The SBA-PPP program added $2.41 billion in outstanding loan balances and consequently decreased BancShares&#8217; Tier 1 leverage ratio by 59 bps; BancShares&#8217; Tier 1 leverage ratio would be estimated at 8.45% at December 31, 2020 without the impact of the SBA PPP program. 
+
+(2) The SBA-PPP program added $2.41 billion in outstanding loan balances and consequently decreased FCB&#8217;s Tier 1 leverage ratio by 65 bps; FCB&#8217;s Tier 1 leverage ratio would be estimated at 9.37% at December 31, 2020 without the impact of the SBA PPP program. 
+
+##TABLE_END
+
+BancShares and FCB are required to meet minimum capital requirements set forth by regulatory authorities. Bank regulatory agencies have approved regulatory capital guidelines (&#8220;Basel III&#8221;) aimed at strengthening existing capital requirements for banking organizations. Basel III became effective for BancShares on January 1, 2015. Under Basel III, requirements include total risk-based capital ratio minimum of 8.00%, Tier 1 risk-based capital minimum of 6.00%, a common equity Tier 1 ratio minimum of 4.50%, and Tier 1 leverage capital ratio minimum of 4.00%. Failure to meet minimum capital requirements may result in certain actions by regulators which could have a direct material effect on the consolidated financial statements. 
+
+BancShares and FCB both remain well-capitalized under Basel III capital requirements. BancShares and FCB had capital conservation buffers of 5.63% and 5.72%, respectively, at December 31, 2020. These buffers exceeded the 2.50% minimum requirement below which the regulators may impose limits on distributions. 
+
+At December 31, 2020, BancShares and FCB had $128.5 million and $24.0 million, respectively, of trust preferred capital securities and $377.5 million and $27.5 million, respectively, of qualifying subordinated debentures included in Tier 2 capital. At December 31, 2019, BancShares and FCB had $128.5 million and $24.0 million, respectively, of trust preferred capital securities and $32.5 million of qualifying subordinated debentures included in Tier 2 capital. Under current regulatory guidelines, when subordinated debentures are within five years of scheduled maturity date, issuers must discount the amount included in Tier 2 capital by 20% for each year until the debt matures. Once the debt is within one year of its scheduled maturity date, no amount of the debt is allowed to be included in Tier 2 capital. 
+

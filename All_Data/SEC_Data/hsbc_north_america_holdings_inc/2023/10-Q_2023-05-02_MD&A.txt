@@ -1,0 +1,1130 @@
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward-Looking Statements 
+
+Certain matters discussed throughout this Form 10-Q are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In addition, we may make or approve certain statements in future filings with the United States Securities and Exchange Commission ("SEC"), in press releases, or oral or written presentations by representatives of HSBC USA Inc. ("HSBC USA" and, together with its subsidiaries, "HUSI") that are not statements of historical fact and may also constitute forward-looking statements. Words such as "may," "will," "should," "would," "could," "appears," "believe," "intends," "expects," "estimates," "targeted," "plans," "anticipates," "goal," and similar expressions are intended to identify forward-looking statements but should not be considered as the only means through which these statements may be made. These matters or statements will relate to our future operations, strategy, financial condition, economic forecast, results of operations, plans, objectives, performance or business developments and will involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from that which was expressed or implied by such forward-looking statements. 
+
+All forward-looking statements are, by their nature, subject to risks and uncertainties, many of which are beyond our control. Our actual future results may differ materially from those set forth in our forward-looking statements. While there is no assurance that any list of risks and uncertainties or risk factors is complete, below are certain factors which could cause actual results to differ materially from those in the forward-looking statements: 
+
+&#8226; our ability to effectively implement and deliver on our business strategies, and the effect implementation of our business strategy may have on our financial results, operations and relationships with our customers, regulators, employees and other stakeholders; 
+
+&#8226; uncertainty concerning the future market and economic conditions in the United States and abroad, including but not limited to, changes in interest rates, energy prices, inflation, supply chain issues, a decline in housing prices, the availability of credit and liquidity, unemployment levels, turmoil in the financial markets and related efforts of government agencies to stabilize the financial system, changes in consumer confidence and consumer spending and behavior, consumer perception as to the continuing availability of credit and price competition in the market segments we serve and the consequences of unexpected geopolitical events, such as trade disputes; 
+
+&#8226; compliance with the Chinese National Security Law and the Hong Kong Autonomy Act, which may impact, among other things, individuals or entities with which we are able to conduct business; 
+
+&#8226; changes in laws and regulatory requirements; 
+
+&#8226; the potential impact of any legal, regulatory or policy changes affecting financial institutions and the global economy as a result of the new administration; 
+
+&#8226; the ability to deliver on our regulatory priorities; 
+
+&#8226; capital and liquidity requirements under Basel guidance, the Federal Reserve Board's ("FRB") Comprehensive Capital Analysis and Review ("CCAR") program, and the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 ("Dodd-Frank Act" or "Dodd-Frank") stress testing ("DFAST"), including the U.S. FRB requirements for U.S. global systemically important banks ("G-SIBs") and U.S. intermediate holding companies ("IHCs") owned by non-U.S. G-SIBs to issue total loss-absorbing capacity ("TLAC") instruments; 
+
+&#8226; regulatory requirements in the U.S. and in non-U.S. jurisdictions to facilitate the future orderly resolution of large financial institutions; 
+
+&#8226; changes in central banks' policies with respect to the provision or removal of liquidity support to financial markets; 
+
+&#8226; the ability of HSBC Holdings plc ("HSBC" and, together with its subsidiaries, "HSBC Group") and HSBC Bank USA, National Association (together with its subsidiaries, "HSBC Bank USA") to fulfill the requirements imposed by a consent order or guidance from regulators generally; 
+
+&#8226; the use of us as a conduit for illegal activities without our knowledge by third parties; 
+
+&#8226; the ability to successfully manage our risks; 
+
+&#8226; the possibility of the inadequacy of our data management and policies and processes; 
+
+&#8226; the financial condition of our clients and counterparties and our ability to manage counterparty risk; 
+
+&#8226; concentrations of credit and market risk; 
+
+&#8226; increases in our allowance for credit losses and changes in our assessment of our loan portfolios; 
+
+&#8226; the ability to successfully implement changes to our operational practices as needed and/or required from time to time; 
+
+HSBC USA Inc. 
+
+&#8226; damage to our reputation; 
+
+&#8226; the ability to attract or retain key employees, including foreign workers, and customers; 
+
+&#8226; the effects of competition in the markets where we operate including increased competition from non-bank financial services companies, including securities firms; 
+
+&#8226; the effects of operational risks that are inherent in banking operations, including fraudulent and other criminal activities, breakdowns in processes or procedures and systems failure or non-availability; 
+
+&#8226; disruption in our operations from the external environment arising from events such as natural disasters, outbreaks of contagious disease, acts of war, terrorist attacks, or essential utility outages; 
+
+&#8226; risks associated with Environmental, Social and Governance ("ESG") matters such as climate change and anti-trust and human rights issues; 
+
+&#8226; a failure in or a breach of our operation or security systems or infrastructure, or those of third party servicers or vendors, including as a result of cyberattacks; 
+
+&#8226; the ability of third party suppliers, outsourcing vendors, off-shored functions and our affiliates to provide adequate services; 
+
+&#8226; losses suffered due to the negligence, fraud or misconduct of our employees or the negligence, fraud or misconduct on the part of third parties; 
+
+&#8226; a failure in our internal controls; 
+
+&#8226; our ability to meet our funding requirements; 
+
+&#8226; adverse changes to our credit ratings; 
+
+&#8226; financial difficulties or credit downgrades of mortgage bond insurers; 
+
+&#8226; changes in Financial Accounting Standards Board and International Accounting Standards Board ("IASB") accounting standards and their interpretation; 
+
+&#8226; heightened regulatory and government enforcement scrutiny of financial institutions, including in connection with product governance and sales practices, account opening and closing procedures, customer and employee complaints and sales compensation structures related to such practices; 
+
+&#8226; possible negative impact of regulatory investigations and legal proceedings related to alleged foreign exchange manipulation; 
+
+&#8226; changes in the methodology for determining benchmark rates and the implementation of alternative benchmark rates, such as the Secured Overnight Financing Rate ("SOFR"); 
+
+&#8226; heightened regulatory and government enforcement scrutiny of financial markets, with a particular focus on traded asset classes, including foreign exchange; 
+
+&#8226; the possibility of incorrect assumptions or estimates in our financial statements, including reserves related to litigation, deferred tax assets and the fair value of certain assets and liabilities; 
+
+&#8226; model limitations or failure; 
+
+&#8226; the possibility of incorrect interpretations, application of or changes in tax laws to which we and our clients are subject; 
+
+&#8226; unexpected and/or increased expenses relating to, among other things, litigation and regulatory matters, remediation efforts, penalties and fines; and 
+
+&#8226; the other risk factors and uncertainties described under Item 1A, "Risk Factors," in our Annual Report on Form 10-K for the year ended December 31, 2022 (the "2022 Form 10-K"). 
+
+Forward-looking statements are based on our current views and assumptions and speak only as of the date they are made. We undertake no obligation to update any forward-looking statement to reflect subsequent circumstances or events. You should, however, consider any additional disclosures of a forward-looking nature that arise after the date hereof as may be discussed in any of our subsequent Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q or Current Reports on Form 8-K. 
+
+HSBC USA Inc. 
+
+Executive Overview 
+
+HSBC USA is a wholly-owned subsidiary of HSBC North America Holdings Inc. ("HSBC North America"), which is an indirect wholly-owned subsidiary of HSBC. HUSI may also be referred to in Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD&#38;A") as "we," "us" or "our." 
+
+Economic Environment &#160; U.S. economic activity slowed during the first quarter of 2023 reflecting continued pressures from high inflation and rising interest rates. In addition, recent bank failures have raised concerns about potential weakness in the banking sector, which could lead to tighter credit conditions for households and businesses, further weighing on economic activity. U.S. Gross Domestic Product ("GDP") is currently forecast to have grown at an annual rate of 1.1 percent in the first quarter of 2023, while the personal consumption expenditures price index of 4.2 percent in March 2023 remained well above the FRB's target inflation rate. In March 2023, the FRB increased short-term interest rates by 25 basis points, the second such rate increase this quarter, and indicated that some additional increases in short-term interest rates may be needed in 2023 in order to fight inflation. 
+
+The impacts of high inflation, rising interest rates and slowing economic growth, in addition to recent banking sector concerns, have created significant uncertainty about the future economic environment which will continue to impact our business in future periods. Concerns over domestic and global policy issues, trade policy in the U.S. and geopolitical events, as well as the implications of those events on the markets in general, further add to the global uncertainty. There is also a risk that interest rate increases to fight inflation could lead to a recession. Interest rate levels, inflation and economic growth, in combination with global economic conditions, fiscal and monetary policy and the level of regulatory and government scrutiny of financial institutions will continue to impact our results in 2023 and beyond. 
+
+Performance, Developments and Trends During the first quarter of 2023, two regional bank failures triggered turmoil throughout the banking industry as contagion fears spread. To date, we have not experienced any significant impact to our liquidity, deposits or funding capabilities as a result of this industry turmoil. 
+
+The following tables set forth selected financial metrics of HUSI for the three months ended March 31, 2023 and 2022 and at March 31, 2023 and December 31, 2022: 
+
+Three Months Ended March 31, 2023 2022 &#160; (dollars are in millions) Net income $ 217 &#160; $ 201 Rate of return on average: Total assets .5 &#160; % .4 % Common equity 7.3 &#160; 5.3 Tangible common equity (1) 
+
+7.6 &#160; 5.4 Total equity 7.1 &#160; 4.9 Net interest margin 1.28 &#160; 1.12 Efficiency ratio 67.2 &#160; 71.2 
+
+Commercial net charge-off ratio (2) 
+
+.04 &#160; .15 
+
+Consumer net charge-off ratio (2) 
+
+.09 &#160; (.10) 
+
+(1) The following table provides a reconciliation of average common equity to average tangible common equity: 
+
+Three Months Ended March 31, 2023 2022 &#160; (in millions) Common equity $ 12,091 &#160; $ 15,510 Less: Goodwill 458 &#160; 458 Less: Intangible assets - purchased credit card relationships &#8212; &#160; 1 Tangible common equity $ 11,633 &#160; $ 15,051 
+
+(2) Excludes loans held for sale. 
+
+HSBC USA Inc. 
+
+March 31, 2023 December 31, 2022 Additional Select Ratios: 
+
+Allowance as a percent of loans (1) 
+
+.99 &#160; % .98 % 
+
+Commercial allowance as a percent of loans (1) 
+
+1.36 &#160; 1.32 
+
+Consumer allowance as a percent of loans (1) 
+
+.11 &#160; .19 
+
+Loans to deposits ratio (2) 
+
+48.58 &#160; 48.00 Common equity Tier 1 capital to risk-weighted assets 13.8 &#160; 13.5 Tier 1 capital to risk-weighted assets 14.1 &#160; 13.8 Total capital to risk-weighted assets 16.4 &#160; 16.1 Tier 1 leverage ratio 8.6 &#160; 8.5 Total equity to total assets 7.6 &#160; 7.4 
+
+(1) Excludes loans held for sale. 
+
+(2) Represents period end loans, net of allowance for loan losses, as a percentage of total deposits. 
+
+Net income was $217 million during the three months ended March 31, 2023 compared with $201 million during the three months ended March 31, 2022. Income before income tax was $287 million during the three months ended March 31, 2023 compared with $266 million during the three months ended March 31, 2022. The increase in income before income tax during the three months ended March 31, 2023 was due primarily to lower operating expenses driven by the completion of our strategic plan to restructure our operations ("Restructuring Plan"), including the non-recurrence of $48 million of costs related to the delivery of our Restructuring Plan ("Costs to Achieve") recorded during the first quarter of 2022 as discussed further below. This increase was partially offset by lower other revenues driven by the non-recurrence of a gain of $111 million recorded during the first quarter of 2022 on the sale of the branch disposal group associated with the exit of our mass market retail banking business. See Note 3, "Sale of Certain Branch Assets and Liabilities," in the accompanying consolidated financial statements for additional information. 
+
+As previously disclosed, we completed our Restructuring Plan over the three-year period of 2020-2022. Costs to Achieve primarily consisted of lease impairment and other related costs, severance costs and allocated costs from HSBC Technology &#38; Services (USA) Inc. ("HTSU"). Costs to Achieve also included allocated costs from other HSBC affiliates related to the HSBC Group's restructuring activities. See Note 2, "Strategic Initiatives," in the accompanying consolidated financial statements for a more detailed discussion of these costs. 
+
+See "Results of Operations" for a more detailed discussion of our operating trends. In addition, see "Balance Sheet Review" for further discussion on our asset and liability trends, "Liquidity and Capital Resources" for further discussion on funding and capital and "Credit Quality" for additional discussion on our credit trends. 
+
+London Interbank Offered Rate ("LIBOR") Transition Regulators and central banks in various national jurisdictions continue to actively work to help transition from interbank offered rates to acceptable alternative rates, such as the Secured Overnight Financing Rate ("SOFR") recommended by the Alternative Reference Rates Committee convened by the FRB. In March 2023, the United Kingdom ("U.K") Financial Conduct Authority announced that the one-month, three-month and six-month U.S. dollar ("USD") LIBOR tenors will continue to be published until September 30, 2024, using an amended methodology (i.e., on an unrepresentative "synthetic" basis), while the less commonly used overnight and twelve-month USD LIBOR tenors will cease to be provided immediately after June 30, 2023 as previously planned. The extension of certain USD LIBOR tenors on a synthetic basis until September 2024 further aids in reducing the risks associated with transitioning legacy contracts onto replacement rates. These synthetic tenors will be available only for use in certain legacy contracts, and are not for use in new business. 
+
+We continue to actively participate in HSBC's global transition program with the objective of facilitating an orderly transition of all products, processes, models and curves, as well as all legacy LIBOR-based contracts, onto replacement rates. The focus of our client transition efforts is on those remaining USD-LIBOR based contracts that mature after June 30, 2023. Such contracts outstanding at March 31, 2023 consisted primarily of contracts for USD LIBOR-based loans with a carrying value of approximately $14.3 billion, USD LIBOR-based long-term debt with a carrying value of approximately $1.1 billion ($1.0 billion of which is already set to transition to SOFR as of July 1, 2023), and USD LIBOR-based derivatives with a notional value of approximately $16.9 billion. The substantial majority of our outstanding USD LIBOR-based derivative contracts adhere to and are covered by the International Swaps and Derivatives Association fallback protocol, and are set to automatically transition at the first reset subsequent to June 30, 2023. For USD LIBOR-based loans, approximately $6.6 billion represents legacy contracts in our consumer mortgage loan portfolio which are set to transition to a SOFR-based rate at the first applicable 
+
+HSBC USA Inc. 
+
+reset subsequent to June 30, 2023. The remainder of our USD LIBOR-based loans are legacy contracts in our commercial loan portfolio of approximately $7.7 billion which will require further outreach with our clients in order to transition. 
+
+The ability of HUSI and its clients to transition legacy contracts onto replacement rates is dependent on the availability of products that reference replacement rates, including SOFR, and on our customers being ready and able to adapt their own processes and systems to accommodate the replacement products. Market and industry use of SOFR has increased and we remain committed to completing the transition of substantially all outstanding contracts during the first half of 2023. We continue to engage with industry participants, the official sector and our clients to support an orderly transition and the mitigation of the risks resulting from the transition. 
+
+Basis of Reporting 
+
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States ("U.S. GAAP"). 
+
+Group Reporting Basis We report financial information to HSBC in accordance with HSBC Group accounting and reporting policies, which apply International Financial Reporting Standards ("IFRSs") as issued by the IASB. As a result, our segment results are prepared and presented using financial information prepared on the basis of HSBC Group's accounting and reporting policies ("Group Reporting Basis"). Because operating results on the Group Reporting Basis are used in managing our businesses and rewarding performance of employees, our management also separately monitors profit before tax under this basis of reporting. The following table reconciles our U.S. GAAP versus Group Reporting Basis profit before tax: 
+
+Three Months Ended March 31, 2023 2022 &#160; (in millions) Profit before tax &#8211; U.S. GAAP basis $ 287 &#160; $ 266 Adjustments: Other long-lived assets 33 &#160; 11 Renewable energy tax credit investments 4 &#160; 7 Loans held for sale (2) (5) Expected credit losses (8) 52 Other 7 &#160; 2 Profit before tax &#8211; Group Reporting Basis $ 321 &#160; $ 333 
+
+The significant differences between U.S. GAAP and the Group Reporting Basis as they impact our results are summarized in Note 25, "Business Segments," in our 2022 Form 10-K. There have been no significant changes since December 31, 2022 in the differences between U.S. GAAP and the Group Reporting Basis impacting our results. Differences in reported profit before tax in the table above that were individually significant for the periods presented are explained below. 
+
+During the first quarter of 2023, other long-lived assets in the table above reflects $19 million of lease related impairment charges under U.S. GAAP associated with the exit of certain office space, while under the Group Reporting Basis, impairment was recognized when we committed to vacate the space in the fourth quarter of 2022. In addition, amortization expense for long-lived assets in both periods was higher under U.S. GAAP due to the impact of impairment charges recorded under the Group Reporting Basis in prior years. In 2020, we recorded an impairment charge under the Group Reporting Basis related to the write-off of all the capitalized software and a portion of the leasehold improvements associated with our Wealth and Personal Banking business segment, while under U.S. GAAP no impairment charge was required. Subsequent to the impairment charge in 2020, we recorded additional impairment charges under the Group Reporting Basis for newly completed leasehold improvements in our Wealth and Personal Banking business segment, while under U.S. GAAP they are capitalized and amortized. Consequently, the carrying amounts of capitalized software and leasehold improvements are higher under U.S. GAAP than under the Group Reporting Basis and, as a result, corresponding amortization expense is higher under U.S. GAAP. 
+
+During the first quarter of 2023, expected credit losses were lower under U.S. GAAP than under the Group Reporting Basis. Under the Group Reporting Basis, a majority of our loans are considered to be in "stage 1" (which requires a 12-month expected credit losses estimate), while under U.S. GAAP such loans require a lifetime expected credit losses ("ECL") estimate. Primarily as a result of the different requirements, the favorable impact of improved housing price forecasts on residential mortgages was more pronounced under U.S. GAAP. 
+
+During the first quarter of 2022, expected credit losses were higher under U.S. GAAP than under the Group Reporting Basis. Primarily as a result of the different requirements related to stage 1 loans discussed above, the impact of higher loss estimates associated with loan growth and maturity extensions was more pronounced under U.S. GAAP. 
+
+HSBC USA Inc. 
+
+Balance Sheet Review 
+
+The following table provides balance sheet totals at March 31, 2023 and increases (decreases) since December 31, 2022: 
+
+&#160; &#160; Increase (Decrease) From December 31, 2022 
+
+&#160; &#160; 
+
+March 31, 2023 Amount % &#160; (dollars are in millions) Period end assets: Short-term investments $ 45,810 &#160; $ 3,977 9.5 % Loans, net 58,874 &#160; 78 .1 Loans held for sale 474 &#160; 120 33.9 Trading assets 17,559 &#160; (4,171) (19.2) Securities 37,278 &#160; 2,616 7.5 All other assets 6,555 &#160; (725) (10.0) $ 166,550 &#160; $ 1,895 1.2 % Period end liabilities and equity: Total deposits $ 122,168 &#160; $ (1,055) (.9) % Trading liabilities 2,243 &#160; (560) (20.0) Short-term borrowings 6,822 &#160; 877 14.8 Long-term debt 19,517 &#160; 1,926 10.9 Interest, taxes and other liabilities 3,109 &#160; 129 4.3 Total equity 12,691 &#160; 578 4.8 $ 166,550 &#160; $ 1,895 1.2 % 
+
+Short-Term Investments Short-term investments include cash and due from banks, interest bearing deposits with banks and federal funds sold and securities purchased under agreements to resell. Balances may fluctuate from period to period depending upon our liquidity position at the time and our strategy for deploying liquidity. Short-term investments increased compared with December 31, 2022 due to an increase in overall liquidity as we raised funds in advance of their usage. The increase in funds was driven by lower trading security positions, new issuances of long-term debt and higher short-term borrowings as discussed in detail below. These increases were partially offset by net purchases of securities and lower deposits from affiliates. 
+
+HSBC USA Inc. 
+
+Loans, Net The following table summarizes our loan balances at March 31, 2023 and increases (decreases) since December 31, 2022: 
+
+&#160; &#160; Increase (Decrease) From December 31, 2022 
+
+&#160; &#160; 
+
+March 31, 2023 Amount % &#160; (dollars are in millions) Commercial loans: Real estate, including construction 
+
+$ 7,930 &#160; $ (33) (.4) % Business and corporate banking 
+
+16,495 &#160; 420 2.6 Global banking (1) 
+
+10,510 &#160; (68) (.6) Other commercial (2) 
+
+6,848 &#160; (353) (4.9) Total commercial 
+
+41,783 &#160; (34) (.1) Consumer loans: Residential mortgages 
+
+16,988 &#160; 150 .9 Home equity mortgages 
+
+362 &#160; (8) (2.2) Credit cards 198 &#160; (15) (7.0) Other consumer 131 &#160; (11) (7.7) Total consumer 17,679 &#160; 116 .7 Total loans 59,462 &#160; 82 .1 Allowance for credit losses (3) 
+
+588 &#160; 4 .7 Loans, net $ 58,874 &#160; $ 78 .1 % 
+
+(1) Represents large multinational firms including globally focused U.S. corporate and financial institutions, U.S. dollar lending to multinational banking clients managed by HSBC on a global basis and complex large business clients supported by Global Banking and Markets relationship managers. 
+
+(2) Includes loans to HSBC affiliates which totaled $3,409 million and $3,557 million at March 31, 2023 and December 31, 2022, respectively. 
+
+(3) See "Credit Quality" in this MD&#38;A for a discussion of trends in our allowance for credit losses on loans. 
+
+Commercial loans were relatively flat compared with December 31, 2022 as paydowns, maturities and lower loans to affiliates were largely offset by new business activity in business and corporate banking as we continued to apply a disciplined lending approach. The trend in commercial non-affiliate loans reflects declines in the software, diversified financials and chemicals industries which were largely offset by increases in the semiconductor, banking and utilities industries. 
+
+Consumer loans increased modestly compared with December 31, 2022 due to growth in residential mortgage loans. 
+
+The following table presents loan-to-value ("LTV") ratios for our residential mortgage loan portfolio, excluding mortgage loans held for sale: 
+
+LTV Ratios (1)(2) 
+
+&#160; March 31, 2023 December 31, 2022 
+
+&#160; &#160; 
+
+First Lien Second Lien First Lien Second Lien LTV &#60; 80% 98.1 &#160; % 97.1 &#160; % 98.5 % 98.9 % 
+
+80% &#60; LTV &#60; 90% 
+
+1.9 &#160; 2.9 &#160; 1.5 1.1 
+
+90% &#60; LTV &#60; 100% 
+
+&#8212; &#160; &#8212; &#160; &#8212; &#8212; 
+
+LTV &#62; 100% 
+
+&#8212; &#160; &#8212; &#160; &#8212; &#8212; Average LTV for portfolio 49.4 &#160; 44.6 &#160; 48.8 43.1 
+
+(1) LTVs for first liens are calculated using the loan balance as of the reporting date. LTVs for second liens are calculated using the loan balance as of the reporting date plus the senior lien amount at origination. Current estimated property values are derived from the property's appraised value at the time of loan origination updated by the change in the Federal Housing Finance Agency's House Price Index ("HPI") at either a Core Based Statistical Area or state level. The estimated value of the homes could differ from actual fair values due to changes in condition of the underlying property, variations in housing price changes within metropolitan statistical areas and other factors. As a result, actual property values associated with loans that end in foreclosure may be significantly lower than the estimates used for purposes of this disclosure. 
+
+(2) Current estimated property values are calculated using the most current HPIs available and applied on an individual loan basis, which results in an approximate three month delay in the production of reportable statistics. Therefore, the information in the table above reflects current estimated property values using HPIs at December 31, 2023 and September 30, 2022, respectively. 
+
+HSBC USA Inc. 
+
+Loans Held for Sale The following table summarizes loans held for sale at March 31, 2023 and increases (decreases) since December 31, 2022: 
+
+&#160; &#160; Increase (Decrease) From December 31, 2022 
+
+&#160; &#160; 
+
+March 31, 2023 Amount % &#160; (dollars are in millions) Commercial loans: Business and corporate banking $ 19 &#160; $ 19 * Global banking 453 &#160; 104 29.8 Total commercial 472 &#160; 123 35.2 Consumer loans: Residential mortgages 2 &#160; (3) (60.0) Total consumer 2 &#160; (3) (60.0) Total loans held for sale $ 474 &#160; $ 120 33.9 % 
+
+* Percentage change is greater than 100 percent. 
+
+Commercial loans held for sale increased compared with December 31, 2022. Included in commercial loans held for sale are certain loans that we have elected to designate under the fair value option which consists of loans that we originate in connection with our participation in a number of syndicated credit facilities with the intent of selling them to unaffiliated third parties as well as loans that we purchase from the secondary market and hold as hedges against our exposure to certain total return swaps or intend to sell. The fair value of these loans totaled $354 million and $237 million at March 31, 2023 and December 31, 2022, respectively. Balances will fluctuate from period to period depending on the volume and level of activity. 
+
+Commercial loans held for sale also includes certain loans that we no longer intend to hold for investment and were transferred to held for sale which totaled $118 million and $112 million at March 31, 2023 and December 31, 2022, respectively. 
+
+Consumer loans held for sale decreased compared with December 31, 2022. Included in residential mortgage loans held for sale are agency-eligible conforming residential mortgage loans which are originated and held for sale to third parties, currently on a servicing retained basis. Balances will fluctuate from period to period depending on the volume and level of activity. Gains and losses from the sale of these residential mortgage loans are reflected as a component of other income (loss) in the accompanying consolidated statement of income. 
+
+Excluding the loans designated under the fair value option discussed above, loans held for sale are recorded at the lower of amortized cost or fair value, with adjustments to fair value being recorded as a valuation allowance through other revenues. The valuation allowance on loans held for sale was immaterial at both March 31, 2023 and December 31, 2022. 
+
+Trading Assets and Liabilities The following table summarizes trading assets and liabilities at March 31, 2023 and increases (decreases) since December 31, 2022: 
+
+&#160; &#160; Increase (Decrease) From December 31, 2022 
+
+&#160; &#160; 
+
+March 31, 2023 Amount % &#160; (dollars are in millions) Trading assets: Securities (1) 
+
+$ 11,918 &#160; $ (4,367) (26.8) % Precious metals 4,430 &#160; 599 15.6 Derivatives, net 1,211 &#160; (403) (25.0) $ 17,559 &#160; $ (4,171) (19.2) % Trading liabilities: Securities sold, not yet purchased $ 984 &#160; $ 147 17.6 % Derivatives, net 1,259 &#160; (707) (36.0) $ 2,243 &#160; $ (560) (20.0) % 
+
+(1) See Note 4, "Trading Assets and Liabilities," in the accompanying consolidated financial statements for a breakout of trading securities by category. 
+
+HSBC USA Inc. 
+
+Trading securities balances were lower compared with December 31, 2022 due primarily to a decrease in foreign sovereign positions. Trading security positions are primarily held as economic hedges of interest rate, credit and equity derivative products issued to clients of domestic and emerging markets. Balances of securities sold, not yet purchased were higher compared with December 31, 2022 due to an increase in short U.S. Treasury positions related to economic hedges of trading security positions held for Community Reinvestment Act purposes. 
+
+Precious metals trading assets were higher compared with December 31, 2022 due primarily to an increase in our own gold inventory position, partially offset by decrease in our own silver inventory position. Precious metal positions may not represent our net underlying exposure as we may use derivatives contracts to reduce our risk associated with these positions, the fair value of which would appear in derivatives in the table above. 
+
+Derivative asset and liability balances both declined compared with December 31, 2022 mainly from market movements which resulted in lower valuations of foreign exchange and interest rate derivatives, partially offset by higher valuations of commodity and credit derivatives. Market movements on equity derivatives were mixed, resulting in lower derivative asset valuations, but higher derivative liability valuations. 
+
+Securities Securities include securities available-for-sale and securities held-to-maturity, net. Securities balances were higher compared with December 31, 2022 driven by purchases of U.S. Government agency mortgage-backed and U.S. Treasury securities held-to-maturity, partially offset by maturities of foreign sovereign securities available-for-sale as part of our continuing strategy to maximize returns while balancing the securities portfolio for risk management purposes. 
+
+All Other Assets &#160; All other assets include, among other items, properties and equipment, net, and goodwill. All other assets were lower compared with December 31, 2022 due primarily to the completion of a client share repurchase transaction during the first quarter of 2023 as well as decreases in cash collateral posted, outstanding settlement balances related to security sales and deferred tax assets. These decreases were partially offset by higher margin requirements related to futures trading. 
+
+Deposits The following table summarizes deposit balances by major depositor categories at March 31, 2023 and increases (decreases) since December 31, 2022: 
+
+&#160; &#160; Increase (Decrease) From December 31, 2022 
+
+&#160; &#160; 
+
+March 31, 2023 Amount % &#160; (dollars are in millions) Individuals, partnerships and corporations $ 109,661 &#160; $ 1,491 1.4 % Domestic and foreign banks 9,775 &#160; (2,581) (20.9) U.S. government and states and political subdivisions 125 &#160; (35) (21.9) Foreign governments and official institutions 2,607 &#160; 70 2.8 Total deposits $ 122,168 &#160; $ (1,055) (.9) % 
+
+Total deposits decreased compared with December 31, 2022 due primarily to lower deposits from affiliates and the continued attrition of retail savings deposits. These decreases were partially offset by increased time deposits as well as deposit inflows associated with the recent banking industry turmoil. 
+
+Short-Term Borrowings &#160; Short-term borrowings were higher compared with December 31, 2022 reflecting increases in securities sold under repurchase agreements and commercial paper outstanding. 
+
+Long-Term Debt Long-term debt increased compared with December 31, 2022 due to debt issuances and fair value movements on fair value option debt, partially offset by debt retirements. Debt issuances during the three months ended March 31, 2023 totaled $2,037 million, of which $3 million was issued by HSBC Bank USA. 
+
+Incremental issuances from our shelf registration statement with the SEC totaled $2,034 million of senior debt during the three months ended March 31, 2023, which included $1,250 million of senior notes that were issued by HSBC USA in March as well as $784 million of structured notes. Total long-term debt outstanding under this shelf was $11,043 million and $9,597 million at March 31, 2023 and December 31, 2022, respectively. 
+
+Incremental issuances from the HSBC Bank USA Global Bank Note Program totaled $3 million during the three months ended March 31, 2023. Total debt outstanding under this program was $1,932 million at both March 31, 2023 and December 31, 2022. 
+
+Borrowings from the Federal Home Loan Bank ("FHLB") totaled $1,000 million at both March 31, 2023 and December 31, 2022. 
+
+Interest, Taxes and Other Liabilities Interest, taxes and other liabilities were higher compared with December 31, 2022 due primarily to an increase in outstanding settlement balances related to security purchases, partially offset by the completion of a client share repurchase transaction during the first quarter of 2023. 
+
+HSBC USA Inc. 
+
+Results of Operations 
+
+Net Interest Income Net interest income is the total interest income on earning assets less the total interest expense on deposits and borrowed funds. An analysis of consolidated average balances and interest rates is presented in this MD&#38;A under the caption "Consolidated Average Balances and Interest Rates." 
+
+The significant components of net interest margin are summarized in the following table: 
+
+&#160; 2023 Compared with 2022 Increase (Decrease) &#160; Three Months Ended March 31, 2023 Volume Rate 2022 &#160; (dollars are in millions) Interest income: Short-term investments $ 410 &#160; $ (7) $ 390 $ 27 Trading securities 49 &#160; (13) (1) 63 Securities 323 &#160; (19) 201 141 Commercial loans 657 &#160; 7 412 238 Consumer loans 146 &#160; (9) 17 138 Other 19 &#160; (1) 15 5 Total interest income 1,604 &#160; (42) 1,034 612 Interest expense: Deposits 756 &#160; (4) 702 58 Short-term borrowings 100 &#160; &#8212; 95 5 Long-term debt 256 &#160; 8 180 68 Tax liabilities and other 9 &#160; (1) 6 4 Total interest expense 1,121 &#160; 3 983 135 Net interest income $ 483 &#160; $ (45) $ 51 $ 477 Yield on total interest earning assets 
+
+4.23 &#160; % 1.43 % Cost of total interest bearing liabilities 
+
+3.87 &#160; .44 Interest rate spread 
+
+.36 &#160; .99 Benefit from net non-interest paying funds (1) 
+
+.92 &#160; .13 Net interest margin on average earning assets 
+
+1.28 &#160; % 1.12 % 
+
+(1) Represents the benefit associated with interest earning assets in excess of interest bearing liabilities. Increased percentages reflect growth in this excess or a higher cost of interest bearing liabilities, while decreased percentages reflect a reduction in this excess or a lower cost of interest bearing liabilities. 
+
+Net interest income increased modestly during the three months ended March 31, 2023 due primarily to higher interest income from commercial loans, short-term investments and securities driven by higher yields, partially offset by higher interest expense from interest bearing liabilities driven by higher rates paid. 
+
+Short-term investments Interest income increased during the three months ended March 31, 2023 due to higher yields reflecting the impact of higher market rates. 
+
+Trading securities Interest income decreased during the three months ended March 31, 2023 due primarily to lower average balances driven by a decline in equity positions, partially offset by an increase in foreign sovereign positions. Interest income associated with trading securities was partially offset within trading revenue by the performance of the associated derivatives as discussed further below. 
+
+Securities Interest income was higher during the three months ended March 31, 2023 due to higher yields reflecting the impact of higher market rates, partially offset by lower average balances. Lower average balances were driven by declines in U.S. Government sponsored mortgage-backed, U.S. Treasury and foreign sovereign securities. 
+
+Commercial loans Interest income increased during the three months ended March 31, 2023 due primarily to higher yields reflecting the impact of higher market rates on variable rate loans and newly originated loans. 
+
+HSBC USA Inc. 
+
+Consumer loans Interest income was higher during the three months ended March 31, 2023 due primarily to higher yields on residential mortgage loans reflecting the impact of higher market rates on variable rate loans and newly originated loans, partially offset by lower average balances driven by the impact of loan sales during the first quarter of 2022. 
+
+Other Higher interest income during the three months ended March 31, 2023 was due to higher yields reflecting the impact of higher market rates on cash collateral posted and Federal Reserve Bank stock. 
+
+Deposits Interest expense increased during the three months ended March 31, 2023 due to higher rates paid reflecting the impact of higher market rates and, to a lesser extent, a shift in mix to higher cost time deposits. 
+
+Short-term borrowings Higher interest expense during the three months ended March 31, 2023 was due to higher rates paid reflecting the impact of higher market rates. 
+
+Long-term debt Interest expense increased during the three months ended March 31, 2023 due primarily to higher rates paid reflecting the impact of higher market rates on variable rate borrowings and newly issued debt. 
+
+Tax liabilities and other Interest expense increased during the three months ended March 31, 2023 due to higher rates paid on securities sold, not yet repurchased reflecting the impact of higher market rates. 
+
+Provision for Credit Losses The following table summarizes the components of the provision for credit losses: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Loans: Commercial loans: Real estate, including construction $ (28) $ 49 $ (77) * Business and corporate banking 38 &#160; (40) 78 * Global banking 12 &#160; 29 (17) (58.6) Other commercial &#8212; &#160; (2) 2 100.0 Total commercial loans 22 &#160; 36 (14) (38.9) Consumer loans: Residential mortgages (10) (4) (6) * Home equity mortgages 1 &#160; &#8212; 1 * Credit cards &#8212; &#160; (1) 1 100.0 Other consumer (1) &#8212; (1) * Total consumer loans (10) (5) (5) (100.0) Total loans 12 &#160; 31 (19) (61.3) Securities available-for-sale &#8212; &#160; (1) 1 100.0 Off-balance sheet credit exposures 8 &#160; (19) 27 * Total provision for credit losses $ 20 &#160; $ 11 $ 9 81.8 % 
+
+* Percentage change is greater than 100 percent. 
+
+Our provision for credit losses increased $9 million during the three months ended March 31, 2023 due primarily to a higher provision for credit losses on off-balance sheet credit exposures, partially offset by a lower provision for credit losses on both our commercial and consumer loan portfolios. 
+
+The provision for credit losses on our commercial loan portfolio decreased $14 million during the three months ended March 31, 2023. The loss provision in the current year period was driven by increases in credit reserves for risk factors associated with higher risk industry exposures and large loan exposures as well as downgrades reflecting weakness in the financial condition of certain clients. In the prior year period, the loss provision was driven by increases in credit reserves for risk factors associated with economic uncertainty, including higher risk industry exposures and supply chain disruptions, as well as higher provisions associated with loan growth and maturity extensions. The loss provision in the prior year period was partially offset by improved economic conditions which resulted in improved economic forecasts. 
+
+The provision for credit losses on our consumer loan portfolio decreased $5 million during the three months ended March 31, 2023 reflecting a higher release in credit loss reserves. The release in credit reserves in the current year period was driven by improved housing price forecasts, partially offset by an increase in credit reserves for risk factors associated with a change in 
+
+HSBC USA Inc. 
+
+New York State foreclosure law. In the prior year period, the release in credit reserves was driven by improved economic conditions which resulted in improved economic forecasts, partially offset by an increase in credit reserves for risk factors associated with economic uncertainty. 
+
+The provision for credit losses on off-balance sheet credit exposures increased $27 million during the three months ended March 31, 2023 reflecting a loss provision compared with a release in credit loss reserves in the prior year period. The loss provision in the current year period resulted from an increase in credit reserves for risk factors associated with large loan exposures and downgrades reflecting weakness in the financial condition of certain clients. In the prior year period, the release in credit reserves resulted from improved economic conditions and improvements in the credit condition of certain clients. 
+
+See "Credit Quality" in this MD&#38;A for additional discussion on the allowance for credit losses associated with our various loan portfolios. 
+
+Other Revenues The following table summarizes the components of other revenues: 
+
+Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Credit card fees, net $ 11 &#160; $ 15 $ (4) (26.7) % Trust and investment management fees 31 &#160; 26 5 19.2 Other fees and commissions 148 &#160; 178 (30) (16.9) Trading revenue 225 &#160; 72 153 * Other securities gains, net 3 &#160; 20 (17) (85.0) Servicing and other fees from HSBC affiliates 74 &#160; 101 (27) (26.7) Gain (loss) on instruments designated at fair value and related derivatives (22) 6 (28) * Gain on sale of branch disposal group, net &#8212; &#160; 111 (111) (100.0) Other income (loss): Valuation of loans held for sale &#8212; &#160; 3 (3) (100.0) Residential mortgage banking revenue 1 &#160; 6 (5) (83.3) Insurance 1 &#160; 1 &#8212; &#8212; Miscellaneous income (loss) (19) (53) 34 64.2 Total other income (loss) (17) (43) 26 60.5 Total other revenues $ 453 &#160; $ 486 $ (33) (6.8) % 
+
+* Percentage change is greater than 100 percent. 
+
+Credit card fees, net Credit card fees, net decreased during the three months ended March 31, 2023 due primarily to the non-recurrence of loan servicing fees recorded in the prior year period reflecting the temporary servicing agreement we entered into associated with the sale of a portfolio of mass market retail credit cards during the fourth quarter of 2021. 
+
+Trust and investment management fees Trust and investment management fees increased during the three months ended March 31, 2023 due to higher fees from liquidity funds driven by lower fee waivers reflecting the impact of higher market interest rates. 
+
+Other fees and commissions Other fees and commissions decreased during the three months ended March 31, 2023 due primarily to lower fees from loan syndication reflecting lower business activity compared with the prior year period. See Note 13, "Fee Income from Contracts with Customers," in the accompanying consolidated financial statements for additional information including a summary of the components of other fees and commissions. 
+
+HSBC USA Inc. 
+
+Trading revenue Trading revenue is generated by participation in the foreign exchange, precious metals, rates, credit and equities markets. The following table presents trading revenue by business activity. Not included in the table below is the impact of net interest income associated with trading securities which is an integral part of trading activities' overall performance. Certain derivatives, such as total return swaps, are economically hedged by holding the underlying interest bearing referenced assets. Net interest income related to trading activities is recorded in net interest income in the consolidated statement of income (loss). Trading revenue related to the mortgage banking business is included as a component of other income (loss). 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Business Activities: Foreign Exchange $ 102 &#160; $ 61 $ 41 67.2 % Metals 57 &#160; 24 33 * Debt Markets 1 &#160; (3) 4 * Securities Financing 71 &#160; (35) 106 * Markets Treasury (2) 26 (28) * Legacy structured credit products &#8212; &#160; 1 (1) (100.0) Other trading (1) 
+
+(4) (2) (2) (100.0) Total trading revenue $ 225 &#160; $ 72 $ 153 * 
+
+* Percentage change is greater than 100 percent. 
+
+(1) Includes trading revenue related to Global Banking and Equities. 
+
+Trading revenue increased during the three months ended March 31, 2023 due primarily to higher revenue in Securities Financing due to improved revenue from swaps in prime brokerage as well as higher revenue in Foreign Exchange and Metals as market volatility resulted in increased trading opportunities. These increases were partially offset by lower revenue in Markets Treasury due to the unfavorable performance of economic hedge positions used to manage interest rate risk. 
+
+Other securities gains, net We maintain securities portfolios as part of our balance sheet diversification and risk management strategies. During the three months ended March 31, 2023 and 2022, we sold $681 million and $316 million, respectively, of primarily U.S. Treasury securities as part of a continuing strategy to maximize returns while balancing the securities portfolio for risk management purposes. Other securities gains, net decreased during the three months ended March 31, 2023 driven by lower gains from the sale of U.S. Treasury securities. The gross realized gains and losses from sales of securities, which are included as a component of other securities gains, net above, are summarized in Note 5, "Securities," in the accompanying consolidated financial statements. 
+
+Servicing and other fees from HSBC affiliates Servicing and other fees from HSBC affiliates decreased during the three months ended March 31, 2023 due primarily to lower performance fees associated with trading activity booked on the balance sheet of HSBC Bank plc and, to a lesser extent, lower cost reimbursements associated with shared services performed on behalf of other HSBC affiliates. 
+
+Gain (loss) on instruments designated at fair value and related derivatives We have elected to apply fair value option accounting to certain commercial loans held for sale, certain student loans, certain of our own fixed-rate debt issuances, all of our hybrid instruments issued, including structured notes and deposits, and, at December 31, 2022, a client share repurchase transaction. We also use derivatives to economically hedge the interest rate and other risks associated with certain financial assets and liabilities for which fair value option accounting has been elected. Gain (loss) on instruments designated at fair value and related derivatives decreased during the three months ended March 31, 2023 attributable to unfavorable movements related to the economic hedging of interest rate risk and other risks within our hybrid instruments. See Note 11, "Fair Value Option," in the accompanying consolidated financial statements for additional information including a breakout of these amounts by individual component. 
+
+Gain on sale of branch disposal group, net During the first quarter of 2022, we completed the sale of the branch disposal group associated with the exit of our mass market retail banking business to third parties and recognized a gain on sale of $111 million, net of transaction costs. See Note 3, "Sale of Certain Branch Assets and Liabilities," in the accompanying consolidated financial statements for additional information. 
+
+Other income (loss) &#160; Other income (loss) was higher during the three months ended March 31, 2023 due primarily to the non-recurrence of a loss of $35 million recorded during the first quarter of 2022 on the sale of a portfolio of consumer mortgage loans. Also contributing to the increase was higher income associated with bank owned life insurance. These increases were 
+
+HSBC USA Inc. 
+
+partially offset by a loss associated with credit default swap protection which largely reflects the hedging of a few client relationships compared with a gain in the period year period as well as lower residential mortgage banking revenue driven by unfavorable fair value adjustments on mortgage servicing rights. 
+
+Operating Expenses The following table summarizes the components of operating expenses: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Salaries and employee benefits $ 121 &#160; $ 154 $ (33) (21.4) % Support services from HSBC affiliates: Fees paid to HTSU 220 &#160; 260 (40) (15.4) Fees paid to HSBC Markets (USA) Inc. ("HMUS") 53 &#160; 37 16 43.2 Fees paid to other HSBC affiliates 111 &#160; 121 (10) (8.3) Total support services from HSBC affiliates 384 &#160; 418 (34) (8.1) Occupancy expense, net 30 &#160; 17 13 76.5 Other expenses: Equipment and software 27 &#160; 24 3 12.5 Marketing 3 &#160; 7 (4) (57.1) Outside services 12 &#160; 16 (4) (25.0) Professional fees 12 &#160; 21 (9) (42.9) Federal Deposit Insurance Corporation assessment fees 22 &#160; 15 7 46.7 Miscellaneous 18 &#160; 14 4 28.6 Total other expenses 94 &#160; 97 (3) (3.1) Total operating expenses $ 629 &#160; $ 686 $ (57) (8.3) % Personnel - average number 2,045 &#160; 2,965 Efficiency ratio 67.2 &#160; % 71.2 % 
+
+Salaries and employee benefits Salaries and employee benefits expense decreased during the three months ended March 31, 2023 due primarily to lower salaries expense, incentive compensation and other staff costs driven by staff reductions related to the completion of our Restructuring Plan, including the sale of the branch disposal group during the first quarter of 2022. 
+
+Support services from HSBC affiliates Servicing and other fees from HSBC affiliates decreased during the three months ended March 31, 2023 due to the non-recurrence of $40 million of allocated Costs to Achieve from HTSU and other HSBC affiliates, primarily support service project costs and severance costs, recorded during the prior year period. Also contributing to the decrease were lower cost allocations from our support service functions driven by the completion of our Restructuring Plan. These decreases were partially offset by higher cost allocations from HMUS associated with Global Banking activities reflecting the impact of a higher utilization percentage. A summary of the services received from various HSBC affiliates is included in Note 14, "Related Party Transactions," in the accompanying consolidated financial statements. 
+
+Occupancy expense, net Occupancy expense, net was higher during the three months ended March 31, 2023 due to $19 million of lease impairment and other related costs recorded during the first quarter of 2023 related to the exit of certain office space. This increase was partially offset by lower operating lease costs driven by the completion of our Restructuring Plan. 
+
+Other expenses Other expenses decreased modestly during the three months ended March 31, 2023 due to lower professional fees, marketing expense and outside services expense which were partially offset by higher deposit insurance assessment fees and capitalized software amortization expense. 
+
+Efficiency ratio Our efficiency ratio improved during the three months ended March 31, 2023 due primarily to lower operating expenses driven by the completion of our Restructuring Plan, partially offset by lower other revenues driven by the non-recurrence of the gain on sale of the branch disposal group recorded in the prior year period as discussed above. 
+
+HSBC USA Inc. 
+
+Income tax expense The following table summarizes our effective tax rate based on the provision for income taxes attributable to pretax income: 
+
+Three Months Ended March 31, 2023 2022 &#160; (dollars are in millions) Income before income tax $ 287 &#160; $ 266 Income tax expense 70 &#160; 65 Effective tax rate 24.4 &#160; % 24.4 % 
+
+During the three months ended March 31, 2023, income tax expense increased driven by higher pre-tax income, while there was no change in the effective tax rate. 
+
+Management evaluated the need for a valuation allowance against deferred tax assets at March 31, 2023 and 2022 and it was determined that a valuation allowance was not required. 
+
+Segment Results &#8211; Group Reporting Basis 
+
+We have distinct businesses, which are aligned with HSBC's global business strategy: Wealth and Personal Banking ("WPB"), Commercial Banking ("CMB"), and Global Banking and Markets ("GBM"). These businesses and a Corporate Center ("CC") serve as our reportable segments with the exception of GBM. Our GBM business is comprised of three distinct operating segments: Global Banking ("GB"), Markets and Securities Services ("MSS"), and Global Banking and Markets Other ("GBM Other"), which are separately reported. See Item 1, "Business," in our 2022 Form 10-K for a description of our segments, including a discussion of the main business activities of the segments and a summary of their products and services. There have been no changes in the basis of our segmentation as compared with the presentation in our 2022 Form 10-K. 
+
+Net interest income of each segment represents the difference between actual interest earned on assets and interest incurred on liabilities of the segment, adjusted for a funding charge or credit that includes both interest rate and liquidity components. Segments are charged a cost to fund assets (e.g., customer loans) and receive a funding credit for funds provided (e.g., customer deposits) based on equivalent market rates that incorporate both repricing (interest rate risk) and tenor (liquidity) characteristics. The objective of these charges/credits is to transfer interest rate risk to one centralized unit in Markets Treasury. Markets Treasury income statement and balance sheet results are allocated to each of the global businesses based upon tangible equity levels and levels of any surplus liabilities. 
+
+Certain other revenue and operating expense amounts are also apportioned among the business segments based upon the benefits derived from this activity or the relationship of this activity to other segment activity. These inter-segment transactions have not been eliminated, and we generally account for them as if they were with third parties. 
+
+We report financial information to our parent, HSBC, in accordance with HSBC Group accounting and reporting policies, which apply IFRSs as issued by the IASB. As a result, our segment results are prepared and presented using financial information prepared on the Group Reporting Basis as operating results are monitored and reviewed, trends are evaluated and decisions about allocating resources, such as employees, are primarily made on this basis. We continue, however, to monitor capital adequacy and report to regulatory agencies on a U.S. GAAP basis. 
+
+There have been no changes in the measurement of segment profit as compared with the presentation in our 2022 Form 10-K. 
+
+The significant differences between U.S. GAAP and the Group Reporting Basis as they impact our results are summarized in Note 25, "Business Segments," in our 2022 Form 10-K. There have been no significant changes since December 31, 2022 in the differences between U.S. GAAP and the Group Reporting Basis impacting our results. 
+
+HSBC USA Inc. 
+
+Wealth and Personal Banking The following table summarizes the Group Reporting Basis results for our WPB segment: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Net interest income $ 213 &#160; $ 169 $ 44 26.0 % Other operating income 52 &#160; 163 (111) (68.1) 
+
+Total operating income (1) 
+
+265 &#160; 332 (67) (20.2) Expected credit losses 10 &#160; 4 6 * Net operating income 255 &#160; 328 (73) (22.3) Operating expenses 175 &#160; 242 (67) (27.7) Profit before tax $ 80 &#160; $ 86 $ (6) (7.0) % 
+
+* Percentage change is greater than 100 percent. 
+
+(1) The following table summarizes the impact of key activities on the total operating income of our WPB segment: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Retail banking current accounts, savings and deposits $ 126 &#160; $ 84 $ 42 50.0 % Retail banking mortgages, credit cards and other personal lending 35 &#160; 64 (29) (45.3) Wealth and asset management products 21 &#160; 18 3 16.7 Private banking 56 &#160; 47 9 19.1 
+
+Retail business banking and other (2) 
+
+27 &#160; 119 (92) (77.3) Total operating income $ 265 &#160; $ 332 $ (67) (20.2) % 
+
+(2) Includes cost reimbursements associated with activities performed on behalf of other HSBC affiliates and allocated Markets Treasury revenue. During the first quarter of 2022, retail business banking and other also reflects a gain of $148 million on the sale of the branch disposal group associated with the exit of our mass market retail banking business as well as a loss on the sale of a portfolio of consumer mortgage loans as discussed below. 
+
+Our WPB segment reported a lower profit before tax during the three months ended March 31, 2023 due primarily to lower other operating income driven by the non-recurrence of a gain of $148 million recorded during the first quarter of 2022 on the sale of the branch disposal group associated with the exit of our mass market retail banking business. Also contributing to the lower profit before tax was higher expected credit losses, partially offset by lower operating expenses and higher net interest income. 
+
+Net interest income increased during the three months ended March 31, 2023 due primarily to the favorable impact of higher market rates. 
+
+Excluding the gain on sale of the branch disposal group as discussed above, other operating income increased during the three months ended March 31, 2023 due primarily to the non-recurrence of a loss of $55 million recorded during the first quarter of 2022 on the sale of a portfolio of consumer mortgage loans. Also contributing to the increase were higher investment management fees driven by lower liquidity fee waivers reflecting the impact of higher market interest rates. These increases were partially offset by lower allocated Markets Treasury revenue, lower residential mortgage banking revenue driven by unfavorable fair value adjustments on residential mortgage loans held for trading and lower fees from account services. 
+
+Expected credit losses increased during the three months ended March 31, 2023. The loss provision in the current year period was due primarily to a higher loss estimate for risk factors associated with a change in New York State foreclosure law, partially offset by improved housing price forecasts. In the prior year period, the loss provision was driven by a higher loss estimate for risk factors associated with economic uncertainty, partially offset by improved economic conditions which resulted in improved economic forecasts. 
+
+Operating expenses decreased during the three months ended March 31, 2023 driven by the completion of our Restructuring Plan which resulted in declines in staff costs, operating lease costs, marketing expense and cost allocations from our technology and support service functions. Also contributing to the decrease were lower deposit insurance assessment fees. 
+
+HSBC USA Inc. 
+
+Client Assets The following table provides information regarding private banking client assets during the three months ended March 31, 2023 and 2022: 
+
+Three Months Ended March 31, 2023 2022 (in millions) Client assets at beginning of period $ 49,549 &#160; $ 66,181 Net new money (outflows) (581) (1,170) Value change 5,408 &#160; 867 Client assets at end of period $ 54,376 &#160; $ 65,878 
+
+Commercial Banking The following table summarizes the Group Reporting Basis results for our CMB segment: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Net interest income $ 285 &#160; $ 185 $ 100 54.1 % Other operating income 72 &#160; 83 (11) (13.3) 
+
+Total operating income (1) 
+
+357 &#160; 268 89 33.2 Expected credit losses 16 &#160; (27) 43 * Net operating income 341 &#160; 295 46 15.6 Operating expenses 150 &#160; 147 3 2.0 Profit before tax $ 191 &#160; $ 148 $ 43 29.1 % 
+
+* Percentage change is greater than 100 percent. 
+
+(1) The following table summarizes the impact of key activities on the total operating income of our CMB segment: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Lending and Transaction Management $ 109 &#160; $ 108 $ 1 .9 % Global Payments Solutions ("GPS") 173 &#160; 97 76 78.4 Global Trade and Receivables Finance ("GTRF") 18 &#160; 19 (1) (5.3) 
+
+Investment banking products and other (2) 
+
+57 &#160; 44 13 29.5 Total operating income $ 357 &#160; $ 268 $ 89 33.2 % 
+
+(2) Includes allocated Markets Treasury revenue. 
+
+Our CMB segment reported a higher profit before tax during the three months ended March 31, 2023 due to higher net interest income, partially offset by higher expected credit losses and lower other operating income. 
+
+Net interest income increased during the three months ended March 31, 2023 due to higher deposit spreads reflecting the impact of higher market rates, higher average loan balances and higher earnings on capital. These increases were partially offset by lower average deposit balances. 
+
+Other operating income decreased during the three months ended March 31, 2023 due to lower fees from loan syndication. 
+
+Expected credit losses increased during the three months ended March 31, 2023 reflecting a loss provision compared with a release in credit loss reserves in the prior year period. The loss provision in the current year period was driven by a higher loss estimate for risk factors associated with higher risk industry exposures as well as downgrades reflecting weakness in the financial condition of certain clients. In the prior year period, the release in credit reserves was driven by improved economic conditions which resulted in improved economic forecasts as well as a lower loss estimate for risk factors associated with oil and gas industry loan exposures. The release in credit reserves in the prior year period was partially offset by higher provisions associated with loan growth. 
+
+Operating expenses increased modestly during the three months ended March 31, 2023 due primarily to higher cost allocations from our technology and support service functions. 
+
+HSBC USA Inc. 
+
+Global Banking and Markets Our GBM business is comprised of three reportable operating segments: 
+
+Global Banking The following table summarizes the Group Reporting Basis results for our GB segment: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Net interest income $ 139 &#160; $ 78 $ 61 78.2 % Other operating income 54 &#160; 124 (70) (56.5) 
+
+Total operating income (1) 
+
+193 &#160; 202 (9) (4.5) Expected credit losses 3 &#160; (2) 5 * Net operating income 190 &#160; 204 (14) (6.9) Operating expenses 135 &#160; 117 18 15.4 Profit before tax $ 55 &#160; $ 87 $ (32) (36.8) % 
+
+* Percentage change is greater than 100 percent. 
+
+(1) The following table summarizes the impact of key activities on the total operating income of our GB segment. For purposes of the discussion below the table, total operating income is referred to as revenue. 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % (dollars are in millions) GPS $ 123 &#160; $ 90 $ 33 36.7 % Capital Markets 60 &#160; 65 (5) (7.7) Credit and Lending 20 &#160; 21 (1) (4.8) GTRF 13 &#160; 12 1 8.3 
+
+GB Other (2) 
+
+(23) 14 (37) * Total operating income $ 193 &#160; $ 202 $ (9) (4.5) % 
+
+(2) Includes net interest income on capital held in the business and not assigned to products as well as revenue associated with credit default swap protection, certain credit-linked structured notes and loan sales. 
+
+Our GB segment reported a lower profit before tax during the three months ended March 31, 2023 due to lower other operating income, higher operating expenses and higher expected credit losses, partially offset by higher net interest income. 
+
+Revenue decreased during the three months ended March 31, 2023 due primarily to lower revenue in GB Other and Capital Markets, partially offset by higher revenue in GPS. Lower revenue in GB Other was driven by unfavorable fair value adjustments on certain credit-linked structured notes and a loss associated with credit default swap protection which largely reflects the hedging of a few client relationships compared with a gain in the prior year period. Lower Capital Markets revenue was driven by lower fees from loan syndication, partially offset by higher net interest income in issuer services reflecting the impact of higher market rates. Higher revenue in GPS was driven by higher net interest income reflecting the impact of higher market rates. 
+
+Expected credit losses increased during the three months ended March 31, 2023 reflecting a loss provision compared with a release in credit loss reserves in the prior year period. The loss provision in the current year period was driven by downgrades reflecting weakness in the financial condition of certain clients as well as a higher loss estimate for risk factors associated with higher risk industry exposures. In the prior year period, the release in credit reserves was driven by improved economic conditions which resulted in improved economic forecasts as well as a lower loss estimate for risk factors associated with oil and gas industry loan exposures. 
+
+Operating expenses increased during the three months ended March 31, 2023 due primarily to higher cost allocations from HMUS reflecting the impact of a higher utilization percentage and higher cost allocations from our technology and support service functions. 
+
+HSBC USA Inc. 
+
+Markets and Securities Services The following table summarizes the Group Reporting Basis results for our MSS segment: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Net interest income (expense) $ (68) $ 16 $ (84) * Other operating income 177 &#160; 142 35 24.6 
+
+Total operating income (1) 
+
+109 &#160; 158 (49) (31.0) Expected credit losses &#8212; &#160; &#8212; &#8212; &#8212; Net operating income 109 &#160; 158 (49) (31.0) Operating expenses 69 &#160; 69 &#8212; &#8212; Profit before tax $ 40 &#160; $ 89 $ (49) (55.1) % 
+
+* Percentage change is greater than 100 percent. 
+
+(1) The following table summarizes the impact of key activities on the total operating income of our MSS segment. For purposes of the discussion below the table, total operating income is referred to as revenue. 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % (dollars are in millions) Foreign Exchange and Metals $ 83 &#160; $ 91 $ (8) (8.8) % Debt Markets 5 &#160; 2 3 * Securities Financing 5 &#160; 20 (15) (75.0) Equities 2 &#160; 27 (25) (92.6) Securities Services 9 &#160; 8 1 12.5 MSS Other &#8212; &#160; (1) 1 100.0 Credit and funding valuation adjustments 5 &#160; 11 (6) (54.5) Total MSS $ 109 &#160; $ 158 $ (49) (31.0) % 
+
+Our MSS segment reported a lower profit before tax during the three months ended March 31, 2023 due to higher net interest expense, partially offset by higher other operating income. The net interest expense in the first quarter of 2023 was due to a higher cost of funds reflecting the impact of higher market rates. 
+
+Revenue decreased during the three months ended March 31, 2023 due to lower revenue in Equities, Securities Financing, Foreign Exchange and Metals, and Credit and funding valuation adjustments. Lower Equities revenue was driven by lower performance fees associated with trading activity booked on the balance sheet of HSBC Bank plc. Lower revenue in Securities Financing and Foreign Exchange and Metals was due primarily to lower balance sheet deployment driven by spread compression. Credit and funding valuation adjustments were unfavorable attributable primarily to lower gains from credit valuation adjustments on derivative assets. 
+
+Operating expenses were flat during the three months ended March 31, 2023. 
+
+Global Banking and Markets Other The following table summarizes the Group Reporting Basis results for our GBM Other segment. For purposes of the discussion below the table, total operating income is referred to as revenue. 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (in millions) Net interest income (expense) $ &#8212; &#160; $ (2) $ 2 100.0 % Other operating income 21 &#160; 24 (3) (12.5) Total operating income 21 &#160; 22 (1) (4.5) Expected credit losses &#8212; &#160; &#8212; &#8212; &#8212; Net operating income 21 &#160; 22 (1) (4.5) Operating expenses 18 &#160; 24 (6) (25.0) Profit (loss) before tax $ 3 &#160; $ (2) $ 5 * 
+
+Our GBM Other segment reported a profit before tax during the three months ended March 31, 2023 compared with a loss before tax in the prior year period due primarily to lower operating expenses driven by lower cost allocations from our technology and support service functions. 
+
+HSBC USA Inc. 
+
+Corporate Center The following table summarizes the Group Reporting Basis results for our CC segment: 
+
+Increase (Decrease) Three Months Ended March 31, 2023 2022 Amount % &#160; (dollars are in millions) Net interest expense $ (26) $ (1) $ (25) * Other operating income (expense) 10 &#160; (8) 18 * Total operating income (expense) (16) (9) (7) (77.8) Expected credit losses &#8212; &#160; &#8212; &#8212; &#8212; Net operating income (expense) (16) (9) (7) (77.8) Operating expenses 32 &#160; 66 (34) (51.5) Loss before tax $ (48) $ (75) $ 27 36.0 % 
+
+* Percentage change is greater than 100 percent. 
+
+Our CC segment reported a lower loss before tax during the three months ended March 31, 2023 due to lower operating expenses and higher other operating income, partially offset by higher net interest expense. 
+
+Net interest expense increased during the three months ended March 31, 2023 driven by a higher cost of funds reflecting the impact of higher market rates. 
+
+Other operating income increased during the three months ended March 31, 2023 due primarily to favorable movements related to the economic hedging of interest rate risk within our own debt, lower losses on certain investments held for Community Reinvestment Act purposes and favorable fair value adjustments on certain equity investments. 
+
+Operating expenses decreased during the three months ended March 31, 2023 driven by the non-recurrence of allocated Costs to Achieve from HTSU and other HSBC affiliates, primarily support service project costs and severance costs, recorded during the prior year period. 
+
+Reconciliation of Segment Results As previously discussed, segment results are reported on a Group Reporting Basis. See Note 15, "Business Segments," in the accompanying consolidated financial statements for a reconciliation of our Group Reporting Basis segment results to U.S. GAAP consolidated totals. 
+
+HSBC USA Inc. 
+
+Credit Quality 
+
+In the normal course of business, we enter into a variety of transactions that involve both on and off-balance sheet credit risk. Principal among these activities is lending to various commercial, institutional, governmental and individual customers. We participate in lending activity throughout the United States and, on a limited basis, internationally. 
+
+Allowance for Credit Losses / Liability for Off-Balance Sheet Credit Exposures &#160; Our accounting policies and methodologies related to the allowance for credit losses and liability for off-balance sheet credit exposures are presented under the caption "Critical Accounting Estimates" in MD&#38;A and in Note 2, "Summary of Significant Accounting Policies and New Accounting Pronouncements," in our 2022 Form 10-K. Our approach toward credit risk management is summarized under the caption "Risk Management" in MD&#38;A in our 2022 Form 10-K. There have been no significant revisions to our policies or methodologies during the first quarter of 2023. 
+
+The following table summarizes our allowance for credit losses and the liability for off-balance sheet credit exposures: 
+
+March 31, 2023 December 31, 2022 &#160; (in millions) Allowance for credit losses: Loans: Commercial loans $ 569 &#160; $ 551 Consumer loans 19 &#160; 33 Total loans 588 &#160; 584 Securities held-to-maturity &#8212; &#160; &#8212; 
+
+Other financial assets measured at amortized cost (1) 
+
+&#8212; &#160; &#8212; Securities available-for-sale &#8212; &#160; &#8212; Total allowance for credit losses $ 588 &#160; $ 584 Liability for off-balance sheet credit exposures $ 125 &#160; $ 117 
+
+(1) Primarily includes accrued interest receivables and customer acceptances. 
+
+The total allowance for credit losses at March 31, 2023 increased $4 million or 1 percent as compared with December 31, 2022 due to a higher loss estimate on our commercial loan portfolio, partially offset by a lower loss estimate on our consumer loan portfolio. 
+
+Our commercial allowance for credit losses at March 31, 2023 increased $18 million or 3 percent as compared with December 31, 2022 driven by increases in credit reserves for risk factors associated with higher risk industry exposures and large loan exposures as well as downgrades reflecting weakness in the financial condition of certain clients. 
+
+Our consumer allowance for credit losses at March 31, 2023 decreased $14 million or 42 percent as compared with December 31, 2022 driven by improved housing price forecasts, partially offset by an increase in credit reserves for risk factors associated with a change in New York State foreclosure law. 
+
+The liability for off-balance sheet credit exposures at March 31, 2023 increased $8 million or 7 percent as compared with December 31, 2022 resulting from an increase in credit reserves for risk factors associated with large loan exposures and downgrades reflecting weakness in the financial condition of certain clients. 
+
+HSBC USA Inc. 
+
+Analysis of the Allowance for Credit Losses on Loans 
+
+The following table presents the allowance for credit losses on loans by major loan categories: 
+
+Amount % of Loans to Total Loans Amount % of Loans to Total Loans March 31, 2023 December 31, 2022 &#160; (dollars are in millions) Commercial: Real estate, including construction $ 172 &#160; 13.3 &#160; % $ 200 13.4 % Business and corporate banking 264 &#160; 27.7 &#160; 230 27.1 Global banking 132 &#160; 17.8 &#160; 120 17.8 Other commercial 1 &#160; 11.5 &#160; 1 12.1 Total commercial 569 &#160; 70.3 &#160; 551 70.4 Consumer: Residential mortgages (2) 28.6 &#160; 11 28.4 Home equity mortgages 3 &#160; .6 &#160; 2 .6 Credit cards 15 &#160; .3 &#160; 16 .4 Other consumer 3 &#160; .2 &#160; 4 .2 Total consumer 19 &#160; 29.7 &#160; 33 29.6 Total $ 588 &#160; 100.0 &#160; % $ 584 100.0 % 
+
+The following table sets forth key ratios for the allowance for credit losses on loans: 
+
+March 31, 2023 December 31, 2022 Ratio of Allowance for credit losses to: 
+
+Loans: (1) 
+
+Commercial: Non-affiliates 1.48 &#160; % 1.44 % Affiliates &#8212; &#160; &#8212; Total commercial 1.36 &#160; 1.32 Consumer: Residential mortgages (.01) .07 Home equity mortgages .83 &#160; .54 Credit cards 7.58 &#160; 7.51 Other consumer 2.29 &#160; 2.82 Total consumer .11 &#160; .19 Total loans .99 &#160; .98 
+
+Nonperforming loans: (1)(2) 
+
+Commercial 219 &#160; % 255 % Consumer 8 &#160; 15 Total nonperforming loans 119 &#160; 133 
+
+(1) Ratios exclude loans held for sale as these loans are carried at the lower of amortized cost or fair value. 
+
+(2) Represents our commercial and consumer allowance for credit losses, as appropriate, divided by the corresponding outstanding balance of total nonperforming loans held for investment. Nonperforming loans include accruing loans contractually past due 90 days or more. 
+
+See Note 7, "Allowance for Credit Losses," in the accompanying consolidated financial statements for a rollforward of credit losses by loan categories for the three months ended March 31, 2023 and 2022. 
+
+The allowance for credit losses on loans as a percentage of total loans held for investment at March 31, 2023 was relatively flat as compared with December 31, 2022. 
+
+HSBC USA Inc. 
+
+The allowance for credit losses on loans as a percentage of nonperforming loans held for investment at March 31, 2023 decreased as compared with December 31, 2022 as an increase in nonperforming loans as discussed further below in both our commercial and consumer loan portfolios outpaced the increase in our allowance for credit losses for the reasons discussed above. 
+
+Delinquency The following table summarizes dollars of two-months-and-over contractual delinquency and two-months-and-over contractual delinquency as a percentage of total loans, excluding loans held for sale ("delinquency ratio"). 
+
+&#160; March 31, 2023 December 31, 2022 
+
+&#160; &#160; 
+
+Delinquent Loans Delinquency Ratio Delinquent Loans Delinquency Ratio &#160; (dollars are in millions) Commercial $ 102 &#160; .24 &#160; % $ 126 .30 % Consumer: Residential mortgages (1)(2) 
+
+138 &#160; .81 &#160; 141 .84 Home equity mortgages (1)(2) 
+
+8 &#160; 2.21 &#160; 3 .81 Credit cards 4 &#160; 2.02 &#160; 3 1.41 Other consumer 2 &#160; 1.53 &#160; 3 2.11 Total consumer 152 &#160; .86 &#160; 150 .85 Total $ 254 &#160; .43 &#160; $ 276 .46 
+
+(1) At March 31, 2023 and December 31, 2022, consumer mortgage loan delinquency includes $63 million and $60 million, respectively, of loans that are carried at the lower of amortized cost or fair value of the collateral less costs to sell. 
+
+(2) The following table reflects dollars of contractual delinquency and delinquency ratios for interest-only loans and adjustable rate mortgage ("ARM") loans: 
+
+&#160; March 31, 2023 December 31, 2022 Delinquent Loans Delinquency Ratio Delinquent Loans Delinquency Ratio &#160; (dollars are in millions) Interest-only loans $ 16 &#160; .39 &#160; % $ 9 .22 % ARM loans 88 &#160; .70 &#160; 85 .67 
+
+Our two-months-and-over contractual delinquency ratio decreased 3 basis points compared with December 31, 2022 due to lower dollars of delinquency in our commercial loan portfolio. 
+
+Our commercial loan two-months-and-over contractual delinquency ratio decreased 6 basis points compared with December 31, 2022 due to lower dollars of delinquency driven primarily by collections of a few large private banking loans, partially offset by a commercial real estate loan and two corporate banking loans which became 60 days past due. 
+
+Our consumer loan two-months-and-over contractual delinquency ratio was relatively flat compared with December 31, 2022 as higher dollars of delinquency in home equity mortgages driven by a large private banking loan which became 60 days past due, was largely offset by lower dollars of delinquency in residential mortgages reflecting collections. 
+
+HSBC USA Inc. 
+
+Net Charge-offs of Loans The following table summarizes net charge-off (recovery) dollars as well as net charge-off (recovery) of loans for the period as a percentage of average loans, excluding loans held for sale ("net charge-off ratio"): 
+
+Three Months Ended March 31, 2023 2022 Net Charge-off Dollars Average Loans Net Charge-off Ratio Net Charge-off Dollars Average Loans Net Charge-off Ratio &#160; (dollars are in millions) Commercial: Real estate, including construction $ &#8212; &#160; $ 7,998 &#160; &#8212; &#160; % $ &#8212; $ 8,175 &#8212; % Business and corporate banking 4 &#160; 16,504 &#160; .10 &#160; 6 14,723 .16 Global banking &#8212; &#160; 10,328 &#160; &#8212; &#160; 9 11,174 .33 Other commercial &#8212; &#160; 7,258 &#160; &#8212; &#160; &#8212; 6,827 &#8212; Total commercial 4 &#160; 42,088 &#160; .04 &#160; 15 40,899 .15 Consumer: Residential mortgages 3 &#160; 16,886 &#160; .07 &#160; (1) 15,593 (.03) Home equity mortgages &#8212; &#160; 365 &#160; &#8212; &#160; (1) 322 (1.24) Credit cards 1 &#160; 199 &#160; 2.01 &#160; (2) 168 (4.77) Other consumer &#8212; &#160; 136 &#160; &#8212; &#160; &#8212; 62 &#8212; Total consumer 4 &#160; 17,586 &#160; .09 &#160; (4) 16,145 (.10) Total $ 8 &#160; $ 59,674 &#160; .05 &#160; $ 11 $ 57,044 .08 
+
+Our net charge-off ratio decreased 3 basis points during the three months ended March 31, 2023 due to a lower level of net charge-offs in our commercial loan portfolio driven by the deterioration of a global banking loan in the prior year period, partially offset by a higher level of net charge-offs in our consumer loan portfolio reflecting a modest level of net charge-offs in the current year period compared with a modest level of net recoveries in the prior year period. Also contributing to the decrease in the ratio were higher average loan balances. 
+
+HSBC USA Inc. 
+
+Nonperforming Loans The following table summarizes nonperforming loans, including nonaccrual loans and accruing loans contractually 90 days or more past due, as well as nonperforming loans as a percentage of total loans, excluding loans held for sale ("nonperforming ratio"): 
+
+March 31, 2023 December 31, 2022 Nonperforming 
+
+Loans (1) 
+
+Nonperforming Ratio Nonperforming 
+
+Loans (1) 
+
+Nonperforming Ratio &#160; (dollars are in millions) Commercial $ 260 &#160; .62 &#160; % $ 216 .52 % Consumer: Residential mortgages (2)(3)(4) 
+
+219 &#160; 1.29 &#160; 213 1.26 Home equity mortgages (2)(3) 
+
+11 &#160; 3.04 &#160; 7 1.89 Credit cards 3 &#160; 1.52 &#160; 2 .94 Other consumer &#8212; &#160; &#8212; &#160; 1 .70 Total consumer 233 &#160; 1.32 &#160; 223 1.27 Total $ 493 &#160; .83 &#160; $ 439 .74 
+
+Other real estate owned (5) 
+
+$ 2 &#160; $ 2 
+
+(1) See Note 6, "Loans," in the accompanying consolidated financial statements for a breakout of nonaccrual loans and accruing loans contractually 90 days or more past due. At both March 31, 2023 and December 31, 2022, total nonperforming loans include $4 million of accruing loans contractually 90 days or more past due. 
+
+(2) At March 31, 2023 and December 31, 2022, nonperforming consumer mortgage loans include $123 million and $109 million, respectively, of loans that are carried at the lower of amortized cost or fair value of the collateral less cost to sell. 
+
+(3) Nonperforming consumer mortgage loans held for investment include all loans which are 90 or more days contractually delinquent as well as loans discharged under Chapter 7 bankruptcy and not re-affirmed and second lien loans where the first lien loan that we own or service is 90 or more days contractually delinquent. 
+
+(4) Nonperforming consumer mortgage loans for all periods does not include guaranteed loans purchased from the Government National Mortgage Association. Repayment of these loans is predominantly insured by the Federal Housing Administration and as such, these loans have different risk characteristics from the rest of our customer loan portfolio. 
+
+(5) Includes $1 million or less of commercial other real estate owned at both March 31, 2023 and December 31, 2022. 
+
+Our nonperforming loans ratio increased 9 basis points compared with December 31, 2022 due to higher nonperforming loans in our commercial loan portfolio and, to a lesser extent, our consumer loan portfolio. 
+
+Our commercial nonperforming loans ratio increased 10 basis points compared with December 31, 2022 due to higher nonperforming loans driven primarily by the downgrade of a commercial real estate loan, partially offset by the paydown of a corporate banking loan. 
+
+Our consumer nonperforming loans ratio increased 5 basis points compared with December 31, 2022 due to higher nonperforming loans as customers which became 90 days past due, including a large private banking home equity mortgage loan, outpaced decreases due to foreclosure reflecting the impact of previous loan sales or customers returning to accrual status. 
+
+Our policies and practices for problem loan management and placing loans on nonaccrual status are summarized in Note 2, "Summary of Significant Accounting Policies and New Accounting Pronouncements," in our 2022 Form 10-K. 
+
+HSBC USA Inc. 
+
+Concentration of Credit Risk A concentration of credit risk is defined as a significant credit exposure with an individual or group engaged in similar activities or affected similarly by economic conditions. We enter into a variety of transactions in the normal course of business that involve both on and off-balance sheet credit risk. Principal among these activities is lending to various commercial, institutional, governmental and individual customers. We manage the varying degrees of credit risk associated with on and off-balance sheet transactions through specific credit policies and procedures which provide for a strict approval, monitoring and reporting process. It is our policy to require collateral when it is deemed appropriate. Varying degrees and types of collateral are secured depending upon management's credit evaluation. 
+
+Commercial Credit Exposure Our commercial credit exposure is diversified across a broad range of industries. Commercial loans outstanding, excluding loans held for sale, and unused commercial commitments by industry are presented in the table below: 
+
+March 31, 2023 December 31, 2022 Commercial Utilized Unused Commercial Commitments Commercial Utilized Unused Commercial Commitments &#160; (in millions) Diversified financials $ 8,025 &#160; $ 10,892 &#160; $ 8,415 $ 11,779 Real estate 6,323 &#160; 1,697 &#160; 6,198 1,909 Commercial and professional services 3,129 &#160; 5,649 &#160; 3,002 5,677 Consumer services 2,868 &#160; 3,308 &#160; 2,783 3,251 Retailing 2,285 &#160; 6,530 &#160; 2,285 5,779 Capital goods 2,143 &#160; 6,379 &#160; 2,167 6,076 Consumer durables and apparel 1,915 &#160; 2,940 &#160; 1,937 2,975 Technology hardware and equipment 1,394 &#160; 6,456 &#160; 1,265 6,530 Software and services 1,271 &#160; 4,197 &#160; 1,726 4,356 Health care equipment and services 1,208 &#160; 2,547 &#160; 1,182 2,624 Chemicals 1,204 &#160; 3,965 &#160; 1,367 4,109 Utilities 992 &#160; 1,236 &#160; 842 991 Energy 934 &#160; 4,612 &#160; 988 4,464 Banks 926 &#160; 306 &#160; 702 590 Food, beverage and tobacco 710 &#160; 2,330 &#160; 668 2,351 Metals and mining 648 &#160; 491 &#160; 629 462 Food and staples retailing 606 &#160; 1,486 &#160; 628 1,457 Semiconductors and semiconductor equipment 535 &#160; 3,186 &#160; 238 3,531 Pharmaceuticals, biotechnology and life science 368 &#160; 4,284 &#160; 398 5,313 Media and entertainment 352 &#160; 728 &#160; 315 693 
+
+Total commercial credit exposure in top 20 industries (1) 
+
+37,836 &#160; 73,219 &#160; 37,735 74,917 All other industries 538 &#160; 8,605 &#160; 525 7,969 
+
+Total commercial credit exposure (2) 
+
+$ 38,374 &#160; $ 81,824 &#160; $ 38,260 $ 82,886 
+
+(1) Based on utilization at March 31, 2023. 
+
+(2) Excludes commercial credit exposures with affiliates. 
+
+HSBC USA Inc. 
+
+Geographic Concentrations The following table reflects regional exposure at March 31, 2023 and December 31, 2022 for our real estate secured loan portfolios, excluding loans held for sale: 
+
+Commercial Real Estate, including Construction Loans Residential Mortgages and Home Equity Mortgages March 31, 2023 New York State 23.8 &#160; % 31.3 &#160; % California 15.7 &#160; 44.1 &#160; North Central United States 11.5 &#160; 1.0 &#160; North Eastern United States, excluding New York State 4.5 &#160; 7.8 &#160; Southern United States 37.2 &#160; 10.2 &#160; Western United States, excluding California 7.3 &#160; 5.6 &#160; Total 100.0 &#160; % 100.0 &#160; % December 31, 2022 New York State 23.6 % 31.6 % California 17.3 43.9 North Central United States 11.2 1.0 North Eastern United States, excluding New York State 4.4 7.8 Southern United States 36.3 10.1 Western United States, excluding California 7.2 5.6 Total 100.0 % 100.0 % 
+
+Residential Mortgage Loans Our consumer loan portfolio includes the following types of loans: 
+
+&#8226; Interest-only loans &#8211; A loan which allows a customer to pay the interest-only portion of the monthly payment for a period of time which results in lower payments during the initial loan period. 
+
+&#8226; ARM loans &#8211; A loan which allows us to adjust pricing on the loan in line with market movements. 
+
+The following table summarizes the balances of interest-only and ARM loans in our loan portfolios, excluding mortgages held for sale, at March 31, 2023 and December 31, 2022. Each category is not mutually exclusive and loans may appear in more than one category below. 
+
+March 31, 2023 December 31, 2022 &#160; (in millions) Interest-only residential mortgage and home equity mortgage loans $ 4,101 &#160; $ 4,063 
+
+ARM loans (1) 
+
+12,662 &#160; 12,663 
+
+(1) During the remainder of 2023 and during 2024, approximately $292 million and $459 million, respectively, of the ARM loans will experience their first interest rate reset. 
+
+The following table summarizes the concentrations of first and second liens within the outstanding residential mortgage and home equity mortgage portfolios, excluding mortgages held for sale, at March 31, 2023 and December 31, 2022: 
+
+March 31, 2023 December 31, 2022 &#160; (in millions) Closed end: First lien $ 16,988 &#160; $ 16,838 Second lien 16 &#160; 16 
+
+Revolving (1) 
+
+346 &#160; 354 Total $ 17,350 &#160; $ 17,208 
+
+(1) A majority of revolving are second lien mortgages. 
+
+HSBC USA Inc. 
+
+Credit Risks Associated with Derivative Contracts Credit risk associated with derivatives is measured as the net replacement cost of derivative contracts in a receivable position in the event the counterparties of such contracts fail to perform under the terms of those contracts. In managing derivative credit risk, both the current exposure, which is the replacement cost of contracts on the measurement date, as well as an estimate of the potential change in value of contracts over their remaining lives are considered. Counterparties to our derivative activities include financial institutions, central clearing parties, foreign and domestic government agencies, corporations, funds (mutual funds, hedge funds, etc.), insurance companies and private clients as well as other HSBC entities. These counterparties are subject to regular credit review by the credit risk management department. To minimize credit risk, we may enter into legally enforceable master netting agreements which reduce risk by permitting the closeout and netting of transactions with the same counterparty upon occurrence of certain events. In addition, we reduce credit risk by obtaining collateral from counterparties. The determination of the need for and the levels of collateral will differ based on an assessment of the credit risk of the counterparty and/or regulatory requirements. 
+
+The total risk in a derivative contract is a function of a number of variables, such as: 
+
+&#8226; volatility of interest rates, currencies, equity or corporate reference entity used as the basis for determining contract payments; 
+
+&#8226; current market events or trends; 
+
+&#8226; country risk; 
+
+&#8226; maturity and liquidity of contracts; 
+
+&#8226; creditworthiness of the counterparties in the transaction; 
+
+&#8226; the existence of a master netting agreement among the counterparties; and 
+
+&#8226; existence and value of collateral received from counterparties to secure exposures. 
+
+The table below presents total credit risk exposure calculated using the general risk-based capital rules of the Basel III Standardized Approach which includes the net positive mark-to-market of the derivative contracts plus any adjusted potential future exposure as measured in reference to the notional amount. The regulatory capital rules recognize that bilateral netting agreements reduce credit risk and, therefore, allow for reductions of risk-weighted assets when netting requirements have been met and collateral exists. As a result, risk-weighted amounts for regulatory capital purposes are a portion of the original gross exposures. Furthermore, many contracts contain provisions that allow us to close out the transaction if the counterparty fails to post required collateral. In addition, many contracts give us the right to break the transactions earlier than the final maturity date. As a result, these contracts have potential future exposures that are often much smaller than the future exposures derived from the regulatory capital rules. 
+
+March 31, 2023 December 31, 2022 &#160; (in millions) Risk associated with derivative contracts: Total credit risk exposure $ 11,164 &#160; $ 12,437 Less: collateral held against exposure 2,669 &#160; 3,488 Net credit risk exposure $ 8,495 &#160; $ 8,949 
+
+Liquidity and Capital Resources 
+
+Effective liquidity management is defined as ensuring we can meet customer loan requests, customer deposit maturities/withdrawals and other cash commitments efficiently under both normal operating conditions and under unpredictable circumstances of industry or market stress. To achieve this objective, we have guidelines that require sufficient liquidity to cover potential funding requirements in both the short- and long-term and to avoid over-dependence on volatile, less reliable funding markets. Guidelines are set for the consolidated balance sheet of HSBC USA to ensure that it is a source of strength for our regulated, deposit-taking banking subsidiary, as well as to address the more limited sources of liquidity available to it as a holding company. Similar guidelines are set for HSBC Bank USA to ensure that it can meet its liquidity needs in various stress scenarios. Cash flow analysis, including stress testing scenarios, forms the basis for liquidity management and contingency funding plans. See "Risk Management" in this MD&#38;A for further discussion of our approach towards liquidity and funding risk management, including information regarding the key measures employed to define, monitor and control our liquidity and funding risk. 
+
+During the first quarter of 2023, two regional bank failures triggered turmoil throughout the banking industry as contagion fears spread. To date, we have not experienced any significant impact to our liquidity, deposits or funding capabilities as a result of this industry turmoil. 
+
+HSBC USA Inc. 
+
+Interest Bearing Deposits with Banks totaled $23,167 million and $17,744 million at March 31, 2023 and December 31, 2022, respectively, of which $22,751 million and $17,633 million, respectively, were held with the Federal Reserve Bank. Balances may fluctuate from period to period depending upon our liquidity position at the time and our strategy for deploying liquidity. Surplus interest bearing deposits with the Federal Reserve Bank may be deployed into securities purchased under agreements to resell or other investments depending on market conditions and the opportunity to maximize returns. 
+
+Federal Funds Sold and Securities Purchased under Agreements to Resell totaled $21,721 million and $23,085 million at March 31, 2023 and December 31, 2022, respectively. Balances may fluctuate from period to period depending upon our liquidity position at the time and our strategy for deploying liquidity. 
+
+Trading Assets includes securities totaling $11,918 million and $16,285 million at March 31, 2023 and December 31, 2022, respectively. See "Balance Sheet Review" in this MD&#38;A for further analysis and discussion on trends. 
+
+Securities includes securities available-for-sale and securities held-to-maturity totaling $37,278 million and $34,662 million at March 31, 2023 and December 31, 2022, respectively. See "Balance Sheet Review" in this MD&#38;A for further analysis and discussion on trends. 
+
+Short-Term Borrowings totaled $6,822 million and $5,945 million at March 31, 2023 and December 31, 2022, respectively. See "Balance Sheet Review" in this MD&#38;A for further analysis and discussion on short-term borrowing trends. 
+
+Deposits totaled $122,168 million and $123,223 million at March 31, 2023 and December 31, 2022, respectively. See "Balance Sheet Review" in this MD&#38;A for further analysis and discussion on deposit trends. 
+
+Long-Term Debt increased to $19,517 million at March 31, 2023 from $17,591 million at December 31, 2022. The following table presents the maturities of long-term debt at March 31, 2023: 
+
+&#160; &#160; 
+
+(in millions) 2023 $ 1,817 2024 4,575 2025 6,241 2026 724 2027 1,276 Thereafter 4,884 Total $ 19,517 
+
+The following table summarizes issuances and retirements of long-term debt during the three months ended March 31, 2023 and 2022: 
+
+Three Months Ended March 31, 2023 2022 &#160; (in millions) Long-term debt issued $ 2,037 &#160; $ 647 Long-term debt repaid (603) (1,241) Net long-term debt issued (repaid) $ 1,434 &#160; $ (594) 
+
+See "Balance Sheet Review" in this MD&#38;A for further analysis and discussion on long-term debt trends, including additional information on debt issued and repaid during the three months ended March 31, 2023. 
+
+Under our shelf registration statement on file with the SEC, we may issue certain securities including debt securities and preferred stock. We satisfy the eligibility requirements for designation as a "well-known seasoned issuer," which allows us to file a registration statement that does not have a limit on issuance capacity. The ability to issue under the registration statement is limited by the authority granted by the Board of Directors. At March 31, 2023, we were authorized to issue up to $15,000 million, of which $3,957 million was available. HSBC Bank USA has a $40,000 million Global Bank Note Program that provides for the issuance of subordinated and senior notes, of which $11,973 million was available at March 31, 2023. 
+
+As a member of the FHLB and the Federal Reserve Bank of New York, we have secured borrowing facilities which are collateralized by loans and investment securities. At March 31, 2023, long-term debt included $1,000 million of borrowings from the FHLB facility. Based upon the amounts pledged as collateral under these facilities, we have additional borrowing capacity of up to $13,831 million. 
+
+Preferred Equity See Note 19, "Preferred Stock," in our 2022 Form 10-K for information regarding all outstanding preferred share issues. 
+
+Common Equity During the first quarter of 2023, HSBC USA did not receive any cash capital contributions from its parent, HSBC North America, and did not make any capital contributions to its subsidiary, HSBC Bank USA. 
+
+HSBC USA Inc. 
+
+Capital Ratios In managing capital, we develop targets for common equity Tier 1 capital to risk-weighted assets, Tier 1 capital to risk-weighted assets, total capital to risk-weighted assets and Tier 1 capital to adjusted quarterly average assets (i.e., the "Tier 1 leverage ratio"). Capital targets are reviewed at least semi-annually to ensure they reflect our business mix and risk profile, as well as real-time conditions and circumstances. The following table summarizes HSBC USA's Basel III capital ratios calculated as of March 31, 2023 and December 31, 2022: 
+
+March 31, 2023 December 31, 2022 Common equity Tier 1 capital to risk-weighted assets 13.8 &#160; % 13.5 % Tier 1 capital to risk-weighted assets 14.1 &#160; 13.8 Total capital to risk-weighted assets 16.4 &#160; 16.1 
+
+Tier 1 leverage ratio (1) 
+
+8.6 &#160; 8.5 
+
+(1) Adjusted quarterly average assets, the Tier 1 leverage ratio denominator, reflects quarterly average assets adjusted for amounts permitted to be deducted from Tier 1 capital. 
+
+We manage capital in accordance with HSBC Group policy. The HSBC North America Internal Capital Adequacy Assessment Process ("ICAAP") works in conjunction with the HSBC Group's ICAAP. The HSBC North America ICAAP applies to HSBC Bank USA and evaluates regulatory capital adequacy and capital adequacy under various stress scenarios. Our approach is to meet our capital needs for these stress scenarios locally through activities which reduce risk. To the extent that local alternatives are insufficient, as a wholly-owned subsidiary of HSBC, we would seek support from our ultimate parent. Regulatory capital requirements are based on the amount of capital required to be held, plus applicable capital buffers, as defined by regulations, and the amount of risk-weighted assets and leverage exposure, also calculated based on regulatory definitions. 
+
+We are subject to regulatory capital rules issued by U.S. banking regulators including Basel III (the "Basel III rule"). The Basel III rule establishes minimum capital ratios and overall capital adequacy standards for banks and bank holding companies ("BHCs"). HSBC North America, HSBC USA and HSBC Bank USA each calculate their risk-based capital requirements for credit risk under the Standardized Approach in the Basel III rule. In 2019, the FRB and the other federal banking agencies jointly finalized rules to implement the Economic Growth, Regulatory Relief and Consumer Protection Act that tailor the application of the enhanced prudential standards for large BHC and foreign banking organizations (the "Tailoring Rules"). The Tailoring Rules assign each BHC and IHC with $50 billion or more in total U.S. assets into one of five classifications (Categories I through IV, and 'other firms') based on its size and four risk-based indicators. Under the Tailoring Rules, HSBC North America and HSBC Bank USA are subject to Category IV standards. For additional discussion of the Basel III rule requirements, including required minimum capital ratios, as well as further discussion of the Tailoring Rules and Category IV standards see Part I, "Regulation and Competition - Regulatory Capital and Liquidity Requirements," in our 2022 Form 10-K. We continue to review the composition of our capital structure. 
+
+Capital Planning and Stress Testing The FRB requires certain U.S. top-tier BHCs and IHCs, including HSBC North America, to comply with the FRB's capital plan rule and CCAR program, as well as the supervisory stress tests conducted by the FRB. The stress tests are forward looking exercises to assess the impact of hypothetical macroeconomic baseline and severely adverse scenarios provided by the FRB on the financial condition and capital adequacy of a CCAR firm over a nine quarter planning horizon. As a Category IV firm, HSBC North America is subject to supervisory stress testing on a biennial basis, although it may opt-in to such testing in an "off year" in order to recalibrate its stress capital buffer based on its most recent supervisory stress test. The FRB continues to supervise Category IV firms on an ongoing basis, including evaluation of the capital adequacy and capital planning processes during off-cycle years. For further discussion of capital planning and stress testing, including detail regarding the FRB's supervisory assessment as part of the CCAR process, see Part I, "Regulation and Competition - Regulatory Capital and Liquidity Requirements," in our 2022 Form 10-K. 
+
+HSBC North America submitted its 2023 CCAR capital plan in April 2023. As discussed above, HSBC North America is subject to supervisory stress testing on a biennial basis and will not have results publicly disclosed in 2023. Capital planning and stress testing for HSBC North America may impact our future capital and liquidity. 
+
+While BHC regulatory capital compliance is generally performed at the HSBC North America level, and also separately for HSBC Bank USA, as a BHC we are required to meet minimum capital requirements imposed by the FRB. We present our capital ratios, together with HSBC Bank USA's in Note 16, "Retained Earnings and Regulatory Capital Requirements," in the accompanying consolidated financial statements. 
+
+HSBC USA Inc. 
+
+2023 Funding Strategy Our current estimate for funding needs and sources for 2023 are summarized in the following table: 
+
+Actual January 1 through 
+
+March 31, 2023 
+
+Estimated April 1 through 
+
+December 31, 2023 
+
+Estimated Full Year 2023 
+
+&#160; (in billions) Increase (decrease) in funding needs: Net change in loans $ &#8212; $ 4 $ 4 Net change in short-term investments and securities 7 (3) 4 Net change in trading and other assets (5) 3 (2) Total funding needs $ 2 $ 4 $ 6 Increase (decrease) in funding sources: Net change in deposits $ (1) $ 5 $ 4 Net change in trading and other short-term liabilities 1 (1) &#8212; Net change in long-term debt 2 &#8212; 2 Total funding sources $ 2 $ 4 $ 6 
+
+The above table reflects a long-term funding strategy. Daily balances fluctuate as we accommodate customer needs, while ensuring that we have liquidity in place to support the balance sheet maturity funding profile. Should market conditions deteriorate, we have contingency plans to generate additional liquidity through the sales of assets or financing transactions. We remain confident in our ability to access the market for long-term debt funding needs in the current market environment. We continue to seek well-priced and stable customer deposits. We also continue to sell new agency-eligible conforming residential mortgage loans to third parties. 
+
+HSBC Bank USA is subject to significant restrictions imposed by federal law on extensions of credit to, and certain other 'covered transactions' with HSBC USA and other affiliates. For further discussion, see Part I, "Regulation and Competition - Affiliate Transaction Restrictions," in our 2022 Form 10-K. 
+
+See "Risk Management" in this MD&#38;A for further discussion relating to our liquidity contingency plans and our approach to liquidity and funding risk management. 
+
+Off-Balance Sheet Arrangements As part of our normal operations, we enter into credit derivatives and various off-balance sheet arrangements with affiliates and third parties. These arrangements arise principally in connection with our lending and client intermediation activities and involve primarily commitments to extend credit and, in certain cases, guarantees. 
+
+Commitments to extend credit include arrangements whereby we are contractually obligated to extend credit in the form of loans, participations in loans or similar transactions. At March 31, 2023 and December 31, 2022, we had commitments to extend credit totaling $88.6 billion and $88.8 billion, respectively, comprised primarily of commercial commitments and, to a lesser extent, consumer commitments. Commercial commitments comprise primarily those related to secured and unsecured loans and lines of credit. Consumer commitments comprise unused MasterCard/Visa credit card lines, where we have the right to change terms or conditions upon notification to the customer, and commitments to extend credit secured by residential properties, where we have the right to change terms or conditions, for cause, upon notification to the customer. For a summary of guarantees, including standby letters of credit and certain credit derivative transactions, as well as the contractual amounts outstanding at March 31, 2023 and December 31, 2022, see Note 18, "Guarantee Arrangements, Pledged Asset and Repurchase Agreements," in the accompanying consolidated financial statements. 
+
+The contractual amounts of these financial instruments represent our maximum possible credit exposure in the event that a counterparty draws down the full commitment amount or we are required to fulfill our maximum obligation under a guarantee. Many of these commitments and guarantees expire unused or without default. As a result, we believe that the contractual amount is not representative of the actual future credit exposure or funding requirements. 
+
+Our off-balance sheet arrangements also include transactions with unconsolidated variable interest entities ("VIEs"). See Note 17, "Variable Interest Entities," in the accompanying consolidated financial statements for a summary of these unconsolidated VIEs. 
+
+HSBC USA Inc. 
+
+Fair Value 
+
+Fair Value Hierarchy Fair value measurement accounting principles establish a fair value hierarchy structure that prioritizes the inputs to determine the fair value of an asset or liability (the "Fair Value Framework"). The Fair Value Framework distinguishes between inputs that are based on observed market data and unobservable inputs that reflect market participants' assumptions. It emphasizes the use of valuation methodologies that maximize observable market inputs. For financial instruments carried at fair value, the best evidence of fair value is a quoted price in an actively traded market (Level 1). Where the market for a financial instrument is not active, valuation techniques are used. The majority of our valuation techniques use market inputs that are either observable or indirectly derived from and corroborated by observable market data for substantially the full term of the financial instrument (Level 2). Because Level 1 and Level 2 instruments are determined by observable inputs, less judgment is applied in determining their fair values. In the absence of observable market inputs, the financial instrument is valued based on valuation techniques that feature one or more significant unobservable inputs (Level 3). The determination of the level of fair value hierarchy within which the fair value measurement of an asset or a liability is classified often requires judgment and may change over time as market conditions evolve. We consider the following factors in developing the fair value hierarchy: 
+
+&#8226; whether the asset or liability is transacted in an active market with a quoted market price; 
+
+&#8226; the level of bid-ask spreads; 
+
+&#8226; a lack of pricing transparency due to, among other things, complexity of the product and market liquidity; 
+
+&#8226; whether only a few transactions are observed over a significant period of time; 
+
+&#8226; whether the pricing quotations differ substantially among independent pricing services; 
+
+&#8226; whether inputs to the valuation techniques can be derived from or corroborated with market data; and 
+
+&#8226; whether significant adjustments are made to the observed pricing information or model output to determine the fair value. 
+
+Level 1 inputs are unadjusted quoted prices in active markets that the reporting entity has the ability to access for identical assets or liabilities. A financial instrument is classified as a Level 1 measurement if it is listed on an exchange or is an instrument actively traded in the over-the-counter ("OTC") market where transactions occur with sufficient frequency and volume. We regard financial instruments such as debt securities, equity securities and derivative contracts listed on the primary exchanges of a country to be actively traded. Non-exchange-traded instruments classified as Level 1 assets include securities issued by the U.S. Treasury, to-be-announced securities, non-callable securities issued by U.S. Government sponsored enterprises and certain foreign government-backed debt. 
+
+Level 2 inputs are those that are observable either directly or indirectly but do not qualify as Level 1 inputs. We classify mortgage pass-through securities, agency and certain non-agency mortgage collateralized obligations, non-exchange-traded derivative contracts, asset-backed securities, obligations of U.S. states and political subdivisions, corporate debt securities, certain foreign government-backed debt, preferred securities, securities purchased and sold under resale and repurchase agreements, precious metals, certain loans held for sale, certain student loans, residential mortgage loans whose carrying amount was reduced based on the fair value of the underlying collateral, real estate owned and, at December 31, 2022, a client share repurchase transaction as Level 2 measurements. Where possible, at least two quotations from independent sources are obtained based on transactions involving comparable assets and liabilities to validate the fair value of these instruments. We have established a process to understand the methodologies and inputs used by the third party pricing services to ensure that pricing information meets the fair value objective and, where appropriate, this pricing data is back-tested to market trade executions. Where significant differences arise among the independent pricing quotes and the internally determined fair value, we investigate and reconcile the differences. If the investigation results in a significant adjustment to the fair value, the instrument will be classified as Level 3 within the fair value hierarchy. In general, we have observed that there is a correlation between the credit standing and the market liquidity of a non-derivative instrument. 
+
+Level 2 derivative instruments are generally valued based on discounted future cash flows or an option pricing model adjusted for counterparty credit risk and market liquidity. The fair value of certain derivative products is determined using valuation techniques based on inputs derived from observable indices traded in the OTC market. Appropriate control processes and procedures have been applied to ensure that the derived inputs are applied to value only those instruments that share similar risks to the relevant benchmark indices and therefore demonstrate a similar response to market factors. 
+
+Level 3 inputs are unobservable estimates that management expects market participants would use to determine the fair value of the asset or liability. That is, Level 3 inputs incorporate market participants' assumptions about risk and the risk premium required by market participants in order to bear that risk. We develop Level 3 inputs based on the best information available in the circumstances. At March 31, 2023 and December 31, 2022, our Level 3 measurements included the following: certain structured deposits and structured notes for which the embedded derivatives have significant unobservable inputs (e.g., 
+
+HSBC USA Inc. 
+
+volatility or default correlations), certain asset-backed securities, individually assessed commercial loans, mortgage servicing rights, derivatives with certain inputs which are unobservable, certain credit default swaps, certain loans held for sale and swap agreements entered into in conjunction with the sales of Visa Class B Shares for which the fair value is dependent upon the final resolution of the related litigation. See Note 19, "Fair Value Measurements," in the accompanying consolidated financial statements for additional information on Level 3 inputs. 
+
+Level 3 Measurements The following table provides information about Level 3 assets/liabilities in relation to total assets/liabilities measured at fair value at March 31, 2023 and December 31, 2022: 
+
+March 31, 2023 December 31, 2022 &#160; (dollars are in millions) 
+
+Level 3 assets (1)(2) 
+
+$ 414 &#160; $ 322 
+
+Total assets measured at fair value (1)(3) 
+
+59,848 &#160; 68,441 
+
+Level 3 liabilities (1) 
+
+2,888 &#160; 3,365 
+
+Total liabilities measured at fair value (1) 
+
+26,633 &#160; 30,414 Level 3 assets as a percent of total assets measured at fair value 0.7 &#160; % 0.5 % Level 3 liabilities as a percent of total liabilities measured at fair value 10.8 &#160; % 11.1 % 
+
+(1) Presented without netting which allows the offsetting of amounts relating to certain contracts if certain conditions are met. 
+
+(2) Includes $291 million of recurring Level 3 assets and $123 million of non-recurring Level 3 assets at March 31, 2023. Includes $270 million of recurring Level 3 assets and $52 million of non-recurring Level 3 assets at December 31, 2022. 
+
+(3) Includes $59,568 million of assets measured on a recurring basis and $280 million of assets measured on a non-recurring basis at March 31, 2023. Includes $68,276 million of assets measured on a recurring basis and $165 million of assets measured on a non-recurring basis at December 31, 2022. 
+
+Significant Changes in Fair Value for Level 3 Assets and Liabilities See Note 19, "Fair Value Measurements," in the accompanying consolidated financial statements for information on additions to and transfers into (out of) Level 3 measurements during the three months ended March 31, 2023 and 2022 as well as for further details including the classification hierarchy associated with assets and liabilities measured at fair value. 
+
+Effect of Changes in Significant Unobservable Inputs &#160; The fair value of certain financial instruments is measured using valuation techniques that incorporate pricing assumptions not supported by, derived from or corroborated by observable market data. The resultant fair value measurements are dependent on unobservable input parameters which can be selected from a range of estimates and may be interdependent. Changes in one or more of the significant unobservable input parameters may change the fair value measurements of these financial instruments. For the purpose of preparing the financial statements, the final valuation inputs selected are based on management's best judgment that reflect the assumptions market participants would use in pricing similar assets or liabilities. 
+
+The unobservable input parameters selected are subject to the internal valuation control processes and procedures. When we perform a test of all the significant input parameters to the extreme values within the range at the same time, it could result in an increase of the overall fair value measurement of approximately $24 million or a decrease of the overall fair value measurement of approximately $60 million at March 31, 2023. The effect of changes in significant unobservable input parameters are primarily driven by the uncertainty in determining the fair value of certain credit-linked structured notes and swap agreements entered into in conjunction with the sales of Visa Class B Shares. 
+
+Risk Management 
+
+Overview &#160; The primary role of risk management is to protect our customers, business, colleagues and the communities that we serve, while ensuring we are able to support our strategy and provide sustainable growth. 
+
+We aim to use a comprehensive risk management approach across the organization and across all risk types underpinned by our culture and values. This is outlined in our risk management framework, including the key principles and practices that we employ in managing material risks, both financial and non-financial. This framework fosters continuous monitoring, promotes risk awareness, and encourages sound operational and strategic decision-making and escalation processes. It also supports a consistent approach to identifying, assessing, managing, and reporting the risks we accept and incur in our activities, with clear accountabilities. 
+
+Our Board of Directors has the ultimate responsibility for the effective oversight of risk management and approves our risk appetite. It is advised on risk matters by the Risk Committee of the Board of Directors, notably risk appetite and its alignment with our strategy, risk governance and internal controls, as well as high-level risk related matters. We use a defined executive 
+
+HSBC USA Inc. 
+
+risk governance structure to help ensure there is appropriate oversight and accountability embedded throughout our business for the effective management of risk. 
+
+Our material risks The principal risks associated with our operations include the following: 
+
+&#8226; Credit risk is the risk of financial loss if a customer or counterparty fails to meet an obligation under a contract; 
+
+&#8226; Treasury risk is the risk of having insufficient capital, liquidity or funding resources to meet financial obligations and satisfy regulatory requirements, including the risk of an adverse impact on earnings due to changes in market interest rates, together with pension risk; 
+
+&#8226; Market risk is the risk of an adverse financial impact on trading activities arising from changes in market parameters such as interest rates, foreign exchange rates, asset prices, volatilities, correlations and credit spreads; 
+
+&#8226; Climate risk relates to the financial and non-financial impacts that may arise as a result of climate change and the move to a greener economy; 
+
+&#8226; Resilience risk is the risk that we are unable to provide critical services to our customers, affiliates and counterparties as a result of sustained and significant operational disruption; 
+
+&#8226; Regulatory compliance risk is the risk associated with breaching our duty to clients and other counterparties, inappropriate market conduct and breaching related financial services regulatory standards; 
+
+&#8226; Financial crime risk is the risk of knowingly or unknowingly helping parties to commit or to further potentially illegal activity, including money laundering, fraud, bribery and corruption, tax evasion, sanctions breaches, and terrorist and proliferation financing; 
+
+&#8226; Strategic risk is the risk that the business will fail to identify, execute and react appropriately to opportunities and/or threats arising from changes in the market, some of which may emerge over a number of years such as changing economic and political circumstances, customer requirements, demographic trends, regulatory developments or competitor action; and 
+
+&#8226; Model risk is the risk of inappropriate or incorrect business decisions arising from the use of models that have been inadequately designed, implemented or used, or from models that do not perform in line with expectations and predictions. 
+
+In the course of our regular risk management activities, we use models to help quantify the risk we are taking. We believe that the assumptions used in these models are reasonable within the parameters for which the models have been built and calibrated to operate, but events may unfold differently than what is assumed in the models. Adjustments to model outputs to reflect consideration of management judgment are used with stringent governance in place to ensure appropriate results. Where models do not require adjustments, enhanced model monitoring confirms models are performing as intended. 
+
+See "Risk Management" in MD&#38;A in our 2022 Form 10-K for a more complete discussion of the objectives of our risk management system as well as our risk management policies and practices. There have been no material changes to our approach to risk management since December 31, 2022. 
+
+Credit Risk Management Credit risk is managed through a robust risk identification and control framework which outlines clear and consistent policies, principles and guidance for risk managers. Credit risk is monitored using various internal risk management measures and within limits approved by individuals within a framework of delegated authorities. Our credit risk management procedures are designed for all stages of economic and financial cycles, including challenging periods of market volatility and economic uncertainty. During the first quarter of 2023, the future economic environment remained uncertain amidst high inflation, rising interest rates and slowing economic growth. We continue to monitor the performance of our material commercial loans as conditions evolve and take necessary credit actions where warranted. See "Risk Management" in MD&#38;A in our 2022 Form 10-K for a more complete discussion of our approach to credit risk. 
+
+Treasury Risk Management We continuously monitor our capital ratios and the impact of market events on our liquidity positions and will continue to adapt our frameworks as necessary to reflect market events and the evolving regulatory landscape and view as to best practices. See "Risk Management" in MD&#38;A in our 2022 Form 10-K for a more complete discussion of our approach to treasury risk. 
+
+Capital risk See "Liquidity and Capital Resources" in this MD&#38;A for a discussion of our approach to capital risk management, including our capital ratios and regulatory capital requirements. 
+
+Liquidity and funding risk As part of our approach towards liquidity and funding risk management, we employ the measures discussed below to define, monitor and control our liquidity and funding risk in accordance with HSBC policy. 
+
+HSBC North America and HSBC Bank USA are subject to the U.S. liquidity coverage ratio ("LCR") rule, which is designed to be a short-term liquidity measure to ensure banks have sufficient High Quality Liquid Assets ("HQLA") to cover net stressed cash outflows over the next 30 days, and are required to report their LCR to U.S. regulators on a daily basis. During the three 
+
+HSBC USA Inc. 
+
+months ended March 31, 2023, HSBC Bank USA's LCR remained above 100 percent. Under the Tailoring Rules, a 70 percent LCR requirement applies to Category IV firms with weighted short-term wholesale funding that equals or exceeds $50 billion and their depository institution subsidiaries. As a result, a LCR of 100 percent or higher reflects an unencumbered HQLA balance that is equal to or exceeds 70 percent of a Category IV firm's liquidity needs for a 30 calendar day liquidity stress scenario. HQLA consists of cash or assets that can be converted into cash at little or no loss of value in private markets. 
+
+HSBC North America and HSBC Bank USA are also subject to the U.S. net stable funding ratio ("NSFR") rule, which is a longer term liquidity measure with a 12-month time horizon to ensure a sustainable maturity structure of assets and liabilities. At both March 31, 2023 and December 31, 2022, HSBC Bank USA's NSFR exceeded 100 percent. Under the Tailoring Rules, a 70 percent NSFR requirement applies to Category IV firms with weighted short-term wholesale funding that equals or exceeds $50 billion and their depository institution subsidiaries. As a result, a NSFR of 100 percent or more reflects an available stable funding balance from liabilities and capital over the next 12 months that is equal to or exceeds 70 percent of a Category IV firm's required amount of funding for assets and off-balance sheet exposures. In addition, under the U.K. Prudential Regulatory Authority ("PRA") based NSFR rule, HSBC USA's NSFR exceeded 100 percent at both March 31, 2023 and December 31, 2022. Under the U.K. PRA NSFR rule, a NSFR of 100 percent or more reflects an available stable funding balance from liabilities and capital over the next 12 months that is equal to or exceeds the required amount of funding for assets and off-balance sheet exposures. 
+
+As a Category IV firm, HSBC North America remains subject to liquidity stress testing and related liquidity buffer and liquidity risk management requirements. HSBC North America and HSBC Bank USA have liquidity profiles to support compliance with these rules and may need to make changes to their liquidity profiles to support compliance with any future rules. 
+
+Our liquidity and funding risk management approach includes deposits, supplemented by wholesale borrowing to fund our balance sheet, and using security sales or secured borrowings for liquidity stress situations in our liquidity contingency plans. In addition, regulations require banks to retain a portfolio of HQLA. As such, we are maintaining a large portfolio of high quality sovereign and sovereign guaranteed securities. 
+
+Our ability to regularly attract wholesale funds at a competitive cost is enhanced by strong ratings from the major credit rating agencies. The following table reflects the short and long-term credit ratings of HSBC USA and HSBC Bank USA at March 31, 2023: 
+
+&#160; &#160; 
+
+Moody's S&#38;P Fitch HSBC USA: Short-term borrowings P-1 A-2 F1+ Long-term/senior debt A1 A- A+ HSBC Bank USA: Short-term borrowings P-1 A-1 F1+ Long-term/senior debt Aa3 A+ AA- 
+
+Rating agencies continue to evaluate economic and geopolitical trends, regulatory developments, future profitability, risk management practices and legal matters, all of which could lead to adverse ratings actions. 
+
+Although we closely monitor and strive to manage factors influencing our credit ratings, there is no assurance that our credit ratings will not change in the future. At March 31, 2023, none of the ratings on the debt of HSBC USA or HSBC Bank USA from any of the rating agencies were under review for potential downgrade. 
+
+See "Liquidity and Capital Resources" in this MD&#38;A for further discussion of our liquidity position, including additional information regarding our outstanding borrowings, the remaining availability of our debt issuance programs and our funding strategy. 
+
+Interest rate risk Various techniques are utilized to quantify and monitor risks associated with the repricing characteristics of our assets, liabilities and derivative contracts. See "Risk Management" in MD&#38;A in our 2022 Form 10-K for a more complete discussion of our approach to interest rate risk. 
+
+Economic value of equity ("EVE") EVE represents the present value of the banking book cash flows that could be provided to our equity holder under a managed run-off scenario. An EVE sensitivity represents the change in EVE due to a defined movement in interest rates. We manage to an immediate parallel upward shock of 200 basis points and an immediate parallel downward shock of 200 basis points to the market implied interest rates. At both March 31, 2023 and December 31, 2022, our EVE remained within risk limits for the up 200 and down 200 basis point interest rate shock scenarios. 
+
+Net interest income simulation modeling techniques We utilize simulation modeling to monitor a number of interest rate scenarios for their impact on projected net interest income. These techniques simulate the impact on projected net interest income under various scenarios, such as rate shock scenarios which assume immediate market rate movements by 100 basis 
+
+HSBC USA Inc. 
+
+points, as well as scenarios in which rates gradually rise or fall by 100 basis points over a twelve month period. In the gradual scenarios, 25 percent of the interest rate movement occurs at the beginning of each quarter. The following table reflects the impact on our projected net interest income of the scenarios utilized by these modeling techniques: 
+
+March 31, 2023 December 31, 2022 Amount % Amount % &#160; (dollars are in millions) Estimated increase (decrease) in projected net interest income (reflects projected rate movements on April 1, 2023 and January 1, 2023, respectively): 
+
+Resulting from a gradual 100 basis point increase in the yield curve $ 41 &#160; 1 &#160; % $ 34 1 % Resulting from a gradual 100 basis point decrease in the yield curve (54) (2) (43) (2) Other significant scenarios monitored (reflects projected rate movements on April 1, 2023 and January 1, 2023, respectively): 
+
+Resulting from an immediate 100 basis point increase in the yield curve 75 &#160; 3 &#160; 66 2 Resulting from an immediate 100 basis point decrease in the yield curve (70) (2) (60) (2) 
+
+The projections do not take into consideration possible complicating factors such as the effect of changes in interest rates on the credit quality, size and composition of the balance sheet. Therefore, although this provides a reasonable estimate of interest rate sensitivity, actual results will differ from these estimates, possibly by significant amounts. 
+
+Non-trading value at risk ("VaR") Non-trading VaR predominantly relates to Markets Treasury and represents the potential negative changes in the investment portfolio market value (which includes available-for-sale and held-to-maturity assets) and associated hedges. Our investment portfolio holdings comprise mainly U.S. Treasury, U.S. Government agency mortgage-backed and U.S. Government sponsored mortgage-backed securities. Our non-trading VaR exposure is driven by interest rates and agency spread volatility. Refer to "Market Risk Management" below for further discussion regarding VaR and the management of market risk in our non-trading portfolios. 
+
+The following table summarizes our non-trading VaR for the three months ended March 31, 2023 and at December 31, 2022: 
+
+Credit Spread Interest Rate Portfolio Diversification (1) 
+
+Total (2) 
+
+&#160; (in millions) At March 31, 2023 $ 60 &#160; $ 67 &#160; $ (38) $ 89 &#160; Three Months Ended March 31, 2023 Average 55 &#160; 58 &#160; (38) 75 &#160; Maximum 60 &#160; 70 &#160; 96 &#160; Minimum 51 &#160; 50 &#160; 61 &#160; At December 31, 2022 $ 51 $ 65 $ (34) $ 82 
+
+(1) Refer to the Trading VaR table in "Market Risk Management" below for additional information. 
+
+Non-trading VaR also includes the interest rate risk of non-trading financial assets and liabilities held by the global businesses and transfer priced into Markets Treasury which has the mandate to centrally manage and hedge it. 
+
+Market Risk Management Exposure to market risk is separated into two portfolios: 
+
+&#8226; Trading portfolios comprise positions arising from market-making and warehousing of client-derived positions. 
+
+&#8226; Non-trading portfolios comprise positions that primarily arise from the interest rate management of our retail and commercial banking assets and liabilities and financial investments classified as available-for-sale and held-to-maturity. 
+
+We apply similar risk management policies and measurement techniques to both trading and non-trading portfolios. Our objective is to manage and control market risk exposures to optimize return on risk while maintaining a market profile consistent with our established risk appetite. See "Risk Management" in MD&#38;A in our 2022 Form 10-K for a more complete discussion of our approach to market risk. 
+
+Value at risk ("VaR") VaR is a technique for estimating potential losses on risk positions as a result of movements in market rates and prices over a specified time horizon and to a given level of confidence. The use of VaR is integrated into market risk management and calculated for all trading positions regardless of how we capitalize them. In addition, we calculate VaR for non-trading portfolios to have a complete picture of risk. VaR measures are calculated to a 99 percent confidence level and use a one-day holding period. 
+
+HSBC USA Inc. 
+
+Trading VaR Trading VaR is generated principally from trading activities within the MSS segment of GBM. These include positions in foreign exchange, precious metals (i.e., gold, silver, platinum) and credit default swaps. 
+
+The following graph summarizes daily VaR for our trading portfolios at a 99 percent confidence level (in millions): 
+
+The following table summarizes our trading VaR for the three months ended March 31, 2023 and at December 31, 2022: 
+
+Credit Spread Foreign Exchange and Commodity Interest Rate Portfolio Diversification (1) 
+
+Total (2) 
+
+&#160; (in millions) At March 31, 2023 $ &#8212; &#160; $ 5 &#160; $ 4 &#160; $ (3) $ 6 &#160; Three Months Ended March 31, 2023 Average &#8212; &#160; 4 &#160; 4 &#160; (3) 5 &#160; Maximum 1 &#160; 6 &#160; 6 &#160; 8 &#160; Minimum &#8212; &#160; 1 &#160; 3 &#160; 3 &#160; At December 31, 2022 $ &#8212; $ 4 $ 6 $ (2) $ 8 
+
+(1) Portfolio diversification is the market risk dispersion effect of holding a portfolio containing different risk types. It represents the reduction in unsystematic market risk that occurs when combining a number of different risk types, for example, foreign exchange, interest rate and credit spread, together in one portfolio. It is measured as the difference between the sum of the VaR by individual risk type and the combined total VaR. A negative number represents the benefit of portfolio diversification. As the maximum and minimum occur on different days for different risk types, it is not meaningful to calculate a portfolio diversification benefit for these measures. 
+
+(2) The total VaR is non-additive across risk types due to diversification effects. For presentation purposes, portfolio diversification of the VaR for trading portfolios includes VaR-based risk-not-in-VaR. 
+
+Refer to "Treasury Risk Management" above for disclosure of our non-trading VaR. 
+
+Back-testing We routinely validate the accuracy of our VaR models by back-testing them against hypothetical profit and loss that excludes non-modeled items such as fees, commissions and revenues of intra-day transactions from the actual reported profit and loss. We would expect, under stable market conditions, to experience two or three losses in excess of VaR at the 99 percent confidence level over a one-year period. However, in periods of unstable market conditions, we could see an increase in the number of back-testing exceptions. 
+
+During the first quarter of 2023, we experienced no loss back-testing exceptions. 
+
+HSBC USA Inc. 
+
+CONSOLIDATED AVERAGE BALANCES AND INTEREST RATES 
+
+The following table summarizes the quarter-to-date average daily balances of the principal components of assets, liabilities and equity together with their respective interest amounts and rates earned or paid. Net interest margin is calculated by dividing net interest income by the average interest earning assets from which interest income is earned. Loan interest for the three months ended March 31, 2023 and 2022 included fees of $7 million and $13 million, respectively. 
+
+Three Months Ended March 31, 2023 2022 Average Balance Interest Rate Average Balance Interest Rate &#160; (dollars are in millions) Assets: Interest bearing deposits with banks 
+
+$ 34,325 &#160; $ 269 &#160; 3.18 &#160; % $ 52,435 $ 25 .19 % Federal funds sold and securities purchased under resale agreements 
+
+9,326 &#160; 141 &#160; 6.13 &#160; 2,766 2 .29 Trading securities 12,752 &#160; 49 &#160; 1.56 &#160; 16,063 63 1.59 Securities 35,153 &#160; 323 &#160; 3.73 &#160; 39,957 141 1.43 Loans: Commercial 42,494 &#160; 657 &#160; 6.27 &#160; 41,273 238 2.34 Consumer: Residential mortgages 16,889 &#160; 134 &#160; 3.22 &#160; 17,735 126 2.88 Home equity mortgages 365 &#160; 6 &#160; 6.67 &#160; 502 3 2.42 Credit cards 199 &#160; 4 &#160; 8.15 &#160; 287 6 8.48 Other consumer 136 &#160; 2 &#160; 5.96 &#160; 211 3 5.77 Total consumer 17,589 &#160; 146 &#160; 3.37 &#160; 18,735 138 2.99 Total loans 60,083 &#160; 803 &#160; 5.42 &#160; 60,008 376 2.54 Other 1,968 &#160; 19 &#160; 3.92 &#160; 2,214 5 .92 Total interest earning assets $ 153,607 &#160; $ 1,604 &#160; 4.23 &#160; % $ 173,443 $ 612 1.43 % Allowance for credit losses (588) (449) Cash and due from banks 942 &#160; 952 Other assets 12,288 &#160; 9,915 Total assets $ 166,249 &#160; $ 183,861 Liabilities and Equity: 
+
+Domestic deposits: Savings deposits $ 49,307 &#160; $ 262 &#160; 2.15 &#160; % $ 60,696 $ 21 .14 % Time deposits 16,185 &#160; 215 &#160; 5.39 &#160; 8,671 19 .89 Other interest bearing deposits 20,411 &#160; 233 &#160; 4.63 &#160; 19,828 15 .31 Foreign deposits 6,082 &#160; 46 &#160; 3.07 &#160; 5,985 1 .07 Deposits held for sale &#8212; &#160; &#8212; &#160; &#8212; &#160; 3,939 2 .21 Total interest bearing deposits 91,985 &#160; 756 &#160; 3.33 &#160; 99,119 58 .24 Short-term borrowings: Securities sold under repurchase agreements 425 &#160; 38 &#160; 36.26 &#160; 2,577 1 .16 Commercial paper 5,304 &#160; 61 &#160; 4.66 &#160; 3,711 4 .44 Other short-term borrowings 391 &#160; 1 &#160; 1.04 &#160; 254 &#8212; .00 Total short-term borrowings 6,120 &#160; 100 &#160; 6.63 &#160; 6,542 5 .31 Long-term debt 18,301 &#160; 256 &#160; 5.67 &#160; 16,450 68 1.68 Total interest bearing debt 116,406 &#160; 1,112 &#160; 3.87 &#160; 122,111 131 .44 Tax liabilities and other 930 &#160; 9 &#160; 3.92 &#160; 1,057 4 1.53 Total interest bearing liabilities $ 117,336 &#160; $ 1,121 &#160; 3.87 &#160; % $ 123,168 $ 135 .44 % Net interest income/Interest rate spread 
+
+$ 483 &#160; .36 &#160; % $ 477 .99 % Noninterest bearing deposits 30,254 &#160; 39,811 Other liabilities 6,303 &#160; 4,107 Total equity 12,356 &#160; 16,775 Total liabilities and equity 
+
+$ 166,249 &#160; $ 183,861 Net interest margin on average earning assets 
+
+1.28 &#160; % 1.12 % 
+
+HSBC USA Inc. 
+

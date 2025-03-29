@@ -1,0 +1,692 @@
+ ITEM 2. &#8211; MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+In this Report, the words &#8220;Synovus,&#8221; &#8220;the Company,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; and &#8220;our&#8221; refer to Synovus Financial Corp. together with Synovus Bank and Synovus' other wholly-owned subsidiaries, except where the context requires otherwise. 
+
+FORWARD-LOOKING STATEMENTS 
+
+Certain statements made or incorporated by reference in this Report which are not statements of historical fact, including those under &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations,&#8221; and elsewhere in this Report, constitute forward-looking statements within the meaning of, and subject to the protections of, Section 27A of the Securities Act and Section 21E of the Exchange Act. Forward-looking statements include statements with respect to Synovus' beliefs, plans, objectives, goals, targets, expectations, anticipations, assumptions, estimates, intentions and future performance and involve known and unknown risks, many of which are beyond Synovus' control and which may cause Synovus' actual results, performance or achievements or the financial services industry or economy generally, to be materially different from future results, performance or achievements expressed or implied by such forward-looking statements. 
+
+All statements other than statements of historical fact are forward-looking statements. You can identify these forward-looking statements through Synovus' use of words such as &#8220;believes,&#8221; &#8220;anticipates,&#8221; &#8220;expects,&#8221; &#8220;may,&#8221; &#8220;will,&#8221; &#8220;assumes,&#8221; &#8220;predicts,&#8221; &#8220;could,&#8221; &#8220;should,&#8221; &#8220;would,&#8221; &#8220;intends,&#8221; &#8220;targets,&#8221; &#8220;estimates,&#8221; &#8220;projects,&#8221; &#8220;plans,&#8221; &#8220;potential&#8221; and other similar words and expressions of the future or otherwise regarding the outlook for Synovus' future business and financial performance and/or the performance of the financial services industry and economy in general. Forward-looking statements are based on the current beliefs and expectations of Synovus' management and are subject to significant risks and uncertainties. Actual results may differ materially from those contemplated by such forward-looking statements. A number of factors could cause actual results to differ materially from those contemplated by the forward-looking statements in this document. Many of these factors are beyond Synovus' ability to control or predict. These factors include, but are not limited to: 
+
+(1) &#160; the risks and uncertainties related to the impact of the COVID-19 pandemic on our assets, business, capital and liquidity, financial condition, prospects and results of operations; 
+
+(2) &#160; the risk that the current and any further economic downturn and contraction could have a material adverse effect on our capital, liquidity, financial condition, credit quality, results of operations and future growth, including the risk that the current economic contraction could last much longer and be much more severe if efforts to contain the pandemic are unsuccessful and restrictions on movement last longer than currently anticipated; 
+
+(3) &#160; &#160; the risk that competition in the financial services industry may adversely affect our future earnings and growth; 
+
+(4) &#160; the risk that we may not realize the expected benefits from our efficiency and growth initiatives or that we may not be able to realize those cost savings or revenue initiatives in the time period expected, which could negatively impact our future profitability; 
+
+(5) &#160; &#160; changes in the cost and availability of funding due to changes in the deposit market and credit market; 
+
+(6) &#160; &#160; restrictions or limitations on access to funds from historical and alternative sources of liquidity could adversely affect our overall liquidity, which could restrict our ability to make payments on our obligations and our ability to support asset growth and sustain our operations and the operations of Synovus Bank; 
+
+(7) &#160; &#160; the risks that if economic conditions worsen further or regulatory capital rules are modified, we may be required to undertake initiatives to improve our capital position; 
+
+(8) &#160; &#160; our ability to identify and address cyber-security risks such as data security breaches, malware, "denial of service" attacks, "hacking" and identity theft, a failure of which could disrupt our business and result in the disclosure of and/or misuse or misappropriation of confidential or proprietary information, disruption or damage of our systems, increased costs, significant losses, or adverse effects to our reputation; 
+
+(9) &#160; changes in the interest rate environment, including changes to the federal funds rate to include a possible negative interest rate environment, and competition in our primary market area may result in increased funding costs or reduced earning assets yields, thus further reducing margins and net interest income; 
+
+(10) &#160; &#160; the risk that our asset quality may deteriorate, our allowance for credit losses may prove to be inadequate or may be negatively affected by credit risk exposures, and the risk that we may be unable to obtain full payment in respect of any loan or other receivables; 
+
+(11) &#160; &#160; the risk that our current and future information technology system enhancements and operational initiatives may not be successfully implemented, which could negatively impact our operations; 
+
+(12) &#160; &#160; the risk that our enterprise risk management framework, our compliance program, or our corporate governance and supervisory oversight functions may not identify or address risks adequately, which may result in unexpected losses; 
+
+(13) &#160; &#160; our ability to attract and retain employees that are key to our strategic and growth initiatives; 
+
+(14) &#160; &#160; our ability to receive dividends from our subsidiaries could affect our liquidity, including our ability to pay dividends or take other capital actions; 
+
+(15) &#160; &#160; the risk that we may be required to make substantial expenditures to keep pace with regulatory initiatives and the rapid technological changes in the financial services market; 
+
+(16) &#160; &#160; risks related to our business relationships with, and reliance upon, third parties that have strategic partnerships with us or that provide key components of our business infrastructure, including the costs of services and products provided to us by third parties, and risks related to disruptions in service or financial difficulties with a third-party vendor or business relationship; 
+
+(17) &#160; &#160; risks related to the ability of our operational framework to identify and manage risks associated with our business such as credit risk, compliance risk, reputational risk, and operational risk, including third-party business partners, as well as our relationship with third-party vendors and other service providers; 
+
+(18) &#160; &#160; the risk related to our implementation of new lines of business, new products and services or new technologies; 
+
+(19) &#160; the impact of recent and proposed changes in governmental policy, laws and regulations, including recently enacted laws, regulations and guidance related to government stimulus programs related to the COVID-19 pandemic, proposed and recently enacted changes in the regulation and taxation of banks and financial institutions, or the interpretation or application thereof and the uncertainty of future implementation and enforcement of these regulations; 
+
+(20) &#160; &#160; the risk that we could realize losses if we sell non-performing assets and the proceeds we receive are lower than the carrying value of such assets; 
+
+(21) &#160; &#160; the risk that we may be exposed to potential losses in the event of fraud and/or theft, or in the event that a third-party vendor, obligor, or business partner fails to pay amounts due to us under that relationship or under any arrangement that we enter into with them; 
+
+(22) &#160; &#160; risks related to the fluctuation in our stock price and general volatility in the stock market; 
+
+(23) &#160; &#160; the impact on our financial results, reputation, and business if we are unable to comply with all applicable federal and state regulations or other supervisory actions or directives and any necessary capital initiatives; 
+
+(24) &#160; &#160; risks related to regulatory approval to take certain actions, including any dividends on our common stock or preferred stock, any repurchases of common stock or any issuance or redemption of any other regulatory capital instruments; 
+
+(25) &#160; &#160; risks related to the continued use, availability and reliability of LIBOR and other "benchmark" rates; 
+
+(26) &#160; &#160; the costs and effects of litigation, investigations, inquiries or similar matters, or adverse facts and developments related thereto, including the costs and effects of litigation related to our participation in government stimulus programs associated with the COVID-19 pandemic; 
+
+(27) &#160; &#160; the risk that we may fail to realize all of the anticipated benefits of the Merger or those benefits may take longer to realize than expected; 
+
+(28) &#160; &#160; the risk that we may not be able to identify suitable bank and non-bank acquisition opportunities as part of our growth strategy and even if we are able to identify attractive acquisition opportunities, we may not be able to complete such transactions on favorable terms or realize anticipated benefits from such transactions; 
+
+(29) &#160; &#160; the effects of any damages to our reputation resulting from developments related to any of the items identified above; and 
+
+(30) &#160; &#160; other factors and other information contained in this Report and in other reports and filings that we make with the SEC under the Exchange Act, including, without limitation, those found in "Part II - Item 1A. Risk Factors" of this Report. 
+
+For a discussion of these and other risks that may cause actual results to differ from expectations, refer to &#8220;Part I-Item 1A. Risk Factors&#8221; and other information contained in Synovus' 2019 Form 10-K and our other periodic filings, including quarterly reports on Form 10-Q and current reports on Form 8-K, that we file from time to time with the SEC. All written or oral forward-looking statements that are made by or are attributable to Synovus are expressly qualified by this cautionary notice. You should not place undue reliance on any forward-looking statements since those statements speak only as of the date on which the statements are made. Synovus undertakes no obligation to update any forward-looking information and statements, whether oral or written, to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of new information or unanticipated events, except as may otherwise be required by law. 
+
+INTRODUCTION AND CORPORATE PROFILE 
+
+Synovus Financial Corp. is a financial services company and a registered bank holding company headquartered in Columbus, Georgia. Through its wholly-owned subsidiary, Synovus Bank, a Georgia state-chartered bank that is a member of the Federal Reserve System, the Company provides commercial and retail banking in addition to a full suite of specialized products and services including private banking, treasury management, wealth management, mortgage services, premium finance and international banking. Synovus also provides financial planning, and investment advisory services through its wholly-owned subsidiaries, Synovus Trust and Synovus Securities, as well as its GLOBALT and Creative Financial Group divisions. 
+
+Synovus Bank is positioned in some of the highest growth markets in the Southeast, with 299 branches in Alabama, Florida, Georgia, South Carolina, and Tennessee. 
+
+The following financial review summarizes the significant trends, changes in our business, transactions, and other matters affecting Synovus&#8217; results of operations for the three months ended March 31, 2020 and financial condition as of March 31, 2020 and December 31, 2019. This discussion supplements, and should be read in conjunction with, the unaudited interim consolidated financial statements and notes thereto contained elsewhere in this Report and the consolidated financial statements of Synovus, the notes thereto, and management&#8217;s discussion and analysis contained in Synovus&#8217; 2019 Form 10-K. 
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations consists of: 
+
+&#8226; Discussion of Results of Operations - Reviews Synovus' financial performance, as well as selected balance sheet items, items from the statements of income, significant transactions, and certain key ratios that illustrate Synovus' performance. 
+
+&#8226; Credit Quality, Capital Resources and Liquidity - Discusses credit quality, market risk, capital resources, and liquidity, as well as performance trends. It also includes a discussion of liquidity policies, how Synovus obtains funding, and related performance. 
+
+&#8226; Additional Disclosures - Discusses additional important matters including critical accounting policies and non-GAAP financial measures used within this Report. 
+
+A reading of each section is important to understand fully our financial performance. 
+
+DISCUSSION OF RESULTS OF OPERATIONS 
+
+Table 1 - Consolidated Financial Highlights Three Months Ended March 31, (dollars in thousands, except per share data) 2020 2019 Change Net interest income 
+
+$ 373,260 &#160; $ 397,175 &#160; (6.0) % Provision for credit losses (1) 
+
+158,722 &#160; 23,569 &#160; 573.4 &#160; Non-interest revenue 
+
+103,857 &#160; 79,378 &#160; 30.8 &#160; Adjusted non-interest revenue (2) 
+
+99,378 &#160; 78,445 &#160; 26.7 &#160; Total FTE revenues 
+
+477,903 &#160; 477,183 &#160; 0.2 &#160; Adjusted total revenues (2) 
+
+473,424 &#160; 476,250 &#160; (0.6) &#160; Non-interest expense 
+
+276,279 &#160; 292,410 &#160; (5.5) &#160; Adjusted non-interest expense (2) 
+
+271,155 &#160; 242,653 &#160; 11.7 &#160; Income before income taxes 
+
+42,116 &#160; 160,574 &#160; (73.8) &#160; Net income 
+
+38,521 &#160; 120,186 &#160; (67.9) &#160; Net income available to common shareholders 
+
+30,230 &#160; 117,036 &#160; (74.2) &#160; Net income per common share, basic 
+
+0.21 &#160; 0.73 &#160; (71.8) &#160; Net income per common share, diluted 
+
+0.20 &#160; 0.72 &#160; (71.7) &#160; Adjusted net income per common share, diluted (2) 
+
+0.21 &#160; 0.98 &#160; (79.0) &#160; Net interest margin (3) 
+
+3.37 % 3.78 % (41) bps Net charge-off ratio (3) 
+
+0.21 &#160; 0.19 &#160; 2 &#160; Return on average assets (3) 
+
+0.32 &#160; 1.06 &#160; (74) &#160; Adjusted return on average assets (2)(3) 
+
+0.32 &#160; 1.45 &#160; (113) &#160; Efficiency ratio-FTE 
+
+57.81 &#160; 61.28 &#160; (347) &#160; Adjusted tangible efficiency ratio (2) 
+
+56.72 &#160; 50.24 &#160; 648 &#160; 
+
+(1) Beginning January 1, 2020, provision calculation is based on current expected loss methodology. Prior to January 1, 2020, calculation was based on incurred loss methodology. 
+
+(2) See "Table 14 - Reconciliation of Non-GAAP Financial Measures&#8221; in this Report for the applicable reconciliation to the most comparable GAAP measure. 
+
+(3) Annualized 
+
+March 31, 2020 December 31, 2019 Sequential Quarter Change March 31, 2019 Year-Over-Year Change (dollars in thousands) Loans, net of deferred fees and costs $ 38,258,024 &#160; $ 37,162,450 &#160; $ 1,095,574 &#160; $ 35,634,501 &#160; $ 2,623,523 &#160; Total average loans 37,593,045 &#160; 36,508,035 &#160; 1,085,010 &#160; 35,320,014 &#160; 2,273,031 &#160; Total deposits 39,826,585 &#160; 38,405,504 &#160; 1,421,081 &#160; 38,075,190 &#160; 1,751,395 &#160; Core deposits 
+
+35,838,637 &#160; 34,975,511 &#160; 863,126 &#160; 35,366,186 &#160; 472,451 &#160; Core transaction deposits 
+
+24,790,621 &#160; 24,167,582 &#160; 623,039 &#160; 23,168,085 &#160; 1,622,536 &#160; Total average deposits 
+
+38,687,207 &#160; 37,878,818 &#160; 808,389 &#160; 37,826,952 &#160; 860,255 &#160; Non-performing assets ratio 0.50 % 0.37 % 13 bps 0.44 % 6 &#160; bps &#160; Non-performing loans ratio 0.41 &#160; 0.27 &#160; 14 &#160; 0.40 &#160; 1 &#160; Past due loans over 90 days 0.02 &#160; 0.04 &#160; (2) &#160; 0.01 &#160; 1 &#160; CET1 capital $ 3,744,415 &#160; $ 3,743,459 &#160; $ 956 &#160; $ 3,790,393 &#160; $ (45,978) &#160; Tier 1 capital 4,281,560 &#160; 4,280,604 &#160; 956 &#160; 3,985,533 &#160; 296,027 &#160; Total risk-based capital 5,289,039 &#160; 5,123,381 &#160; 165,658 &#160; 4,803,639 &#160; 485,400 &#160; CET1 capital ratio 8.70 % 8.95 % (25) bps 9.52 % (82) &#160; bps &#160; Tier 1 capital ratio 9.95 &#160; 10.23 &#160; (28) &#160; 10.01 &#160; (6) &#160; Total risk-based capital ratio 12.29 &#160; 12.25 &#160; 4 &#160; 12.06 &#160; 23 &#160; Total shareholders&#8217; equity to total assets ratio 
+
+10.01 &#160; 10.25 &#160; (24) &#160; 9.86 &#160; 15 &#160; Tangible common equity ratio (1) 
+
+7.94 &#160; 8.08 &#160; (14) &#160; 8.34 &#160; (40) &#160; 
+
+Return on average common equity (2) 
+
+2.75 &#160; 13.08 &#160; (1,033) &#160; 10.98 &#160; (823) &#160; 
+
+Adjusted return on average common equity (1)(2) 
+
+2.79 &#160; 12.78 &#160; (999) &#160; 15.03 &#160; nm &#160; Adjusted return on average tangible common equity (1)(2) 
+
+3.39 &#160; 14.84 &#160; (1,145) &#160; 17.52 &#160; nm &#160; 
+
+(1) See "Table 14 - Reconciliation of Non-GAAP Financial Measures&#8221; in this Report for the applicable reconciliation to the most comparable GAAP measure. 
+
+(2) Quarter annualized 
+
+COVID-19 Healthcare Crisis and Economic Environment 
+
+The COVID-19 outbreak and public health response to contain it have resulted in recessionary economic and financial market conditions as of the end of the first quarter. During March 2020 in response, the Federal Reserve reduced the federal funds rate 1.5 percentage points to 0.00 to 0.25 percent and the U.S. government enacted the CARES Act, the largest economic stimulus package in the nation&#8217;s history in an effort to lessen the impact of COVID-19 on consumers and businesses. Synovus' response to the COVID-19 pandemic has included the following actions: 
+
+&#8226; Over 95% of branches were converted to drive-thru and appointment-only, and Synovus implemented aggressive cleaning, sanitizing and hygiene protocols at all company facilities; 
+
+&#8226; More than 80 percent of Synovus' 5,400 team members were repositioned to work remotely; 
+
+&#8226; Offered bonus payments to hourly team members required to work on-site and provided additional paid time off to team members who are sick, quarantining, or dealing with childcare or other COVID-related family hardships; 
+
+&#8226; To help customers through the period of financial distress, Synovus is offering to waive NSF and monthly service charges for customers impacted by COVID-19, and offering payment deferment and other loan relief as appropriate; 
+
+&#8226; Synovus participated in delivering PPP loans to customers beginning on April 3, 2020. 
+
+Additionally, in light of current economic uncertainty, Synovus has suspended share repurchase activity beyond the $16.2 million completed during the first quarter and withdrawn 2020 guidance and long-term goals announced at the beginning of the year. 
+
+Executive Summary 
+
+Net income available to common shareholders for the first quarter of 2020 was $30.2 million, or $0.20 per diluted common share, a decrease of 74.2% and 71.7%, respectively, compared to the first quarter of 2019. Adjusted net income per common share, diluted (1) was $0.21 for the first quarter of 2020, down 79.0% compared to $0.98 for the first quarter of 2019. The year-over-year decline was driven by a significant increase in provision for credit losses following the adoption of CECL on January 1, 2020, as well as the impact of COVID-19, a 225 bps reduction in the federal funds rate, and PAA including loan discount accretion and deposit premium amortization that positively impacted 2019,. 
+
+Net interest income was $373.3 million for the three months ended March 31, 2020, down 6.0% from the comparable period in 2019 and down 6.5% from the fourth quarter of 2019, due primarily to the decline in rates and decline in PAA associated with the FCB acquisition. The net interest margin was 3.37% for the first quarter of 2020, down 41 bps and 28 bps from the first and fourth quarter of 2019, respectively. Synovus expects net interest income in the second quarter to be relatively flat compared to first quarter levels as a result of significant loan growth associated with the PPP. However, with this growth, along with a depressed rate environment and an elevated cash position, we expect continued downward pressure on our net interest margin in the second quarter. 
+
+Non-interest revenue for the first quarter of 2020 was $103.9 million, up $24.5 million, or 30.8%, compared to the first quarter of 2019 and adjusted non-interest revenue (1) of $99.4 million was up $20.9 million, or 26.7%. The increase in adjusted non-interest revenue was due primarily to strong growth in mortgage banking income, capital markets income, and growth in fiduciary businesses. The disruption from COVID-19 will likely result in non-interest revenue declining 15-25% in the second quarter from our recent run rate of approximately $90 million. We expect non-interest revenues to normalize, assuming the economy stabilizes. 
+
+Non-interest expense for the first quarter of 2020 was $276.3 million, down $16.1 million, or 5.5%, compared to the first quarter of 2019 and adjusted non-interest expense (1) of $271.2 million was up $28.5 million, or 11.7%. The increase in adjusted expense over the first quarter of 2019 was largely driven by investments in talent and technology and growth in production related commissions and fees. The efficiency ratio-FTE for the first three months of 2020 was 57.81%, compared to 61.28% for the first three months of 2019. The adjusted tangible efficiency ratio (1) for the first three months of 2020 was 56.72%, up 648 bps compared to the same period a year ago. With the increased levels of COVID-19 related expenses, which we currently estimate at $5-6 million in the second quarter, we expect adjusted expenses to remain relatively stable quarter-on quarter, before declining in the second half of the year if the economy stabilizes. 
+
+The decrease in the effective tax rate for the three months ended March 31, 2020 to 8.5%, from 25.2% for the three months ended March 31, 2019, reflects a one-time benefit of $2.7 million for carrying back net operating loss deductions to pre-TJCA tax periods, as allowed by the CARES Act, and other discrete benefit items, while the effective tax rate in the first quarter of 2019 was higher largely due to non-deductible merger-related expenses associated with the FCB acquisition. 
+
+Loans grew $1.10 billion, or 11.9% annualized, sequentially, with total loans of $38.26 billion at March 31, 2020: C&#38;I loan growth was $878.8 million, CRE loan growth was $190.7 million, and consumer loan growth was $26.3 million. 
+
+Synovus' adoption of CECL resulted in a January 1, 2020 ACL increase of $110.4 million, or 39.1%, over December 31, 2019. Provision for credit losses of $158.7 million during the first quarter included the impact of the COVID-19 healthcare 
+
+crisis and the first quarter under CECL. The ACL at March 31, 2020 totaled $531.9 million consisting of an ALL of $493.5 million and reserve on unfunded commitments of $38.4 million resulting in an ACL to loans coverage ratio of 1.39%. While Synovus did see an increase from year-end 2019 in the March 31, 2020 NPA ratio of 0.50% and NPL ratio of 0.41%, the NPL ratio is up only one bp over prior year and total past dues declined to 0.22% from 0.33%, sequentially. Net charge-offs for the first quarter of 2020 were 21 bps, annualized, up from 10 bps in the fourth quarter of 2019. While Synovus does expect to experience stress in the portfolio as we progress through the current economic environment, the credit quality of the portfolio at March 31, 2020 was generally stable. If economic forecasts continue to deteriorate, we would expect to see a further increase in the ACL. 
+
+Total period-end deposits at March 31, 2020 increased $1.42 billion, or 14.9% annualized, compared to December 31, 2019, including strong core transaction deposit growth of $623.0 million, or 10.4% annualized. 
+
+At March 31, 2020, Synovus' CET1 ratio was 8.70%, well in excess of regulatory requirements including the capital conservation buffer of 2.5%. The 23 bps decline in Synovus' CET1 ratio from December 31, 2019 was largely due to the increase in risk-weighted assets from loan growth of $1.10 billion. 
+
+More detail on Synovus' financial results for the three months ended March 31, 2020 and current and expected effects from COVID-19 may be found in subsequent sections of "Item 2. &#8211; Management's Discussion and Analysis of Financial Condition and Results of Operations" of this Report. See also "Item 1A. - Risk Factors" of this Report. 
+
+(1) See "Table 14 - Reconciliation of Non-GAAP Financial Measures&#8221; in this Report for applicable reconciliation to the most comparable GAAP mea sure. 
+
+Changes in Financial Condition 
+
+During the three months ended March 31, 2020, total assets increased $2.42 billion from $48.20 billion at December 31, 2019 to $50.62 billion. Loans increased $1.10 billion, cash and cash equivalents increased $636.9 million, and investment securities available for sale increased $158.6 million. Additional investments in BOLI policies o f $250.0 mi llion during the three months ended March 31, 2020 also contributed to the increase in total assets. Other assets increased $490.9 million including increases in the fair value of derivative assets of $326.4 million and a $169.7 million receivable for securities available for sale sold during the quarter that will settle after quarter-end. The growth in assets was funded primarily by increases of $1.42 billion in deposits and the issuance of $400.0 million in long-term debt on February 12, 2020. Other liabilities increased $304.7 million including an increase in the fair value of derivative liabilities of $149.0 million and an accrued liability of $113.8 million for purchases of securities available for sale that will settle after quarter-end. 
+
+Synovus adopted CECL on January 1, 2020 with an increase to the ALL of $83.0 million and an increase to the reserve on unfunded commitments of $27.4 million with offsetting increases in loans of $62.2 million related to acquired PCI loans and net deferred tax assets of $12.5 million and a reduction to retained earnings of $35.7 million. 
+
+The loan to deposit ratio was 96.1% at March 31, 2020, compared to 96.8% at December 31, 2019, and 93.6% at March 31, 2019. 
+
+Loans 
+
+The following table compares the composition of the loan portfolio at March 31, 2020, December 31, 2019, and March 31, 2019. 
+
+Table 2 - Loans by Portfolio Class March 31, 2020 vs. December 31, 2019 % Change (1) 
+
+March 31, 2020 vs. March 31, 2019 % Change (dollars in thousands) March 31, 2020 December 31, 2019 March 31, 2019 Commercial, financial and agricultural $ 11,018,155 &#160; $ 10,252.859 &#160; 30.0 % $ 9,566,403 &#160; 15.2 % Owner-occupied 6,643,287 &#160; 6,529.811 &#160; 7.0 &#160; 6,542,506 &#160; 1.5 &#160; Total commercial and industrial 17,661,442 &#160; 16,782,670 &#160; 21.1 &#160; 16,108,909 &#160; 9.6 &#160; Investment properties 9,257,791 &#160; 9,042,679 &#160; 9.6 &#160; 8,853,494 &#160; 4.6 &#160; 1-4 family properties 751,468 &#160; 780,015 &#160; (14.7) &#160; 838,727 &#160; (10.4) &#160; Land and development 661,942 &#160; 657,790 &#160; 2.5 &#160; 594,925 &#160; 11.3 &#160; Total commercial real estate 10,671,201 &#160; 10,480,484 &#160; 7.3 &#160; 10,287,146 &#160; 3.7 &#160; Consumer mortgages 5,608,121 &#160; 5,546,368 &#160; 4.5 &#160; 5,365,635 &#160; 4.5 &#160; Home equity lines 1,778,862 &#160; 1,713,157 &#160; 15.4 &#160; 1,606,227 &#160; 10.7 &#160; Credit cards 261,581 &#160; 268,841 &#160; (10.9) &#160; 252,762 &#160; 3.5 &#160; Other consumer loans 2,302,349 &#160; 2,396,294 &#160; (15.8) &#160; 2,037,477 &#160; 13.0 &#160; Total consumer 9,950,913 &#160; 9,924,660 &#160; 1.1 &#160; 9,262,101 &#160; 7.4 &#160; Total loans 38,283,556 &#160; 37,187,814 &#160; 11.9 &#160; 35,658,156 &#160; 7.4 &#160; Deferred fees and costs, net (25,532) &#160; (25,364) &#160; 2.7 &#160; (23,655) &#160; 7.9 &#160; Total loans, net of deferred fees and costs $ 38,258,024 &#160; $ 37,162,450 &#160; 11.9 % $ 35,634,501 &#160; 7.4 % 
+
+(1) Percentage changes are annualized. 
+
+At March 31, 2020, total loans, net of deferred fees and costs of $38.26 billion increased $1.10 billion, or 11.9% annualized, from December 31, 2019 and $2.62 billion, or 7.4%, compared to March 31, 2019. C&#38;I loans remain the largest component of our balance sheet representing 46.1% of total loans, while CRE and consumer loans represent 27.9%, and 26.0%, respectively. Our portfolio composition is established through a comprehensive concentration management policy which sets limits for C&#38;I, CRE, and Consumer loan levels as well as for sub-categories therein. 
+
+Commercial Loans 
+
+Total commercial loans (which are comprised of C&#38;I and CRE loans) at March 31, 2020 were $28.33 billion, or 74.0% of the total loan portfolio, compared to $27.26 billion, or 73.4%, at December 31, 2019 and $26.40 billion, or 74.0%, at March 31, 2019. 
+
+At March 31, 2020, Synovus had 6 commercial loan relationships with total commitments of $100 million or more (including amounts funded), with no single relationship exceeding $150 million in commitments. 
+
+Commercial and Industrial Loans 
+
+The C&#38;I loan portfolio represents the largest category of Synovus' loan portfolio and is primarily comprised of general middle market and commercial banking clients across a diverse set of industries. The following table shows the composition of the C&#38;I loan portfolio aggregated by NAICS code. In accordance with Synovus' lending policy, each loan undergoes a detailed underwriting process which incorporates uniform underwriting standards and oversight in proportion to the size and complexity of the lending relationship . As of March 31, 2020, 92.3% of Synovus' C&#38;I loans are secured by real estate, business equipment, inventory, and other types of collateral. C&#38;I loans of $17.66 billion, or 46.1% of the loan portfolio, grew $878.8 million, or 21.1% annualized, from December 31, 2019, driven primarily by strong productivity from our Wholesale Banking segment across many specialty divisions as well as an increase in line utilization due to the economic and financial market conditions as of the end of the first quarter of 2020. 
+
+Table 3 - Commercial and Industrial Loans by Industry March 31, 2020 December 31, 2019 (dollars in thousands) Amount % (1) 
+
+Amount % (1) 
+
+Health care and social assistance $ 3,176,354 &#160; 18.0 % $ 3,083,355 &#160; 18.4 % Finance and insurance 1,506,106 &#160; 8.5 &#160; 1,263,521 &#160; 7.5 &#160; Manufacturing 1,282,100 &#160; 7.3 &#160; 1,208,688 &#160; 7.2 &#160; Retail trade 1,214,539 &#160; 6.9 &#160; 1,202,958 &#160; 7.2 &#160; Wholesale trade 1,163,175 &#160; 6.6 &#160; 1,138,145 &#160; 6.8 &#160; Real estate and rental and leasing 1,147,800 &#160; 6.5 &#160; 1,126,828 &#160; 6.7 &#160; Accommodation and food services 1,002,118 &#160; 5.7 &#160; 921,515 &#160; 5.5 &#160; Professional, scientific, and technical services 1,000,676 &#160; 5.7 &#160; 883,433 &#160; 5.3 &#160; Other services 986,081 &#160; 5.6 &#160; 1,005,420 &#160; 6.0 &#160; Transportation and warehousing 863,306 &#160; 4.9 &#160; 854,954 &#160; 5.1 &#160; Construction 825,388 &#160; 4.7 &#160; 716,192 &#160; 4.3 &#160; Arts, entertainment and recreation 789,778 &#160; 4.5 &#160; 771,846 &#160; 4.6 &#160; Real estate other 625,449 &#160; 3.5 &#160; 615,441 &#160; 3.7 &#160; Educational services 483,554 &#160; 2.7 &#160; 409,639 &#160; 2.4 &#160; Agriculture, forestry, fishing, and hunting 363,669 &#160; 2.1 &#160; 369,185 &#160; 2.2 &#160; Public Administration 345,702 &#160; 2.0 &#160; 342,329 &#160; 2.0 &#160; Administration, support, waste management, and remediation 318,624 &#160; 1.8 &#160; 302,711 &#160; 1.8 &#160; Information 307,495 &#160; 1.7 &#160; 314,740 &#160; 1.9 &#160; Other Industries 259,528 &#160; 1.3 &#160; 251,770 &#160; 1.4 &#160; Total commercial and industrial loans $ 17,661,442 &#160; 100.0 % $ 16,782,670 &#160; 100.0 % 
+
+(1) Loan balance in each category expressed as a percentage of total C&#38;I loans. 
+
+At March 31, 2020, $11.02 billion of C&#38;I loans, or 28.8% of the total loan portfolio, represented loans originated for the purpose of financing commercial, financial, and agricultural business activities. The primary source of repayment on these loans is revenue generated from products or services offered by the business or organization. The secondary source of repayment is the collateral, which consists primarily of equipment, inventory, accounts receivable, time deposits, cash surrender value of life insurance, and other business assets. 
+
+At March 31, 2020, $6.64 billion of C&#38;I loans, or 17.3% of the total loan portfolio, represented loans originated for the purpose of financing owner-occupied properties. The financing of owner-occupied facilities is considered a C&#38;I loan even though there is improved real estate as collateral. This treatment is a result of the credit decision process, which focuses on cash flow from operations of the business to repay the debt. The secondary source of repayment on these loans is the underlying real estate. These loans are predominately secured by owner-occupied and other real estate, and to a lesser extent, other types of collateral. 
+
+Commercial Real Estate Loans 
+
+CRE loans consist primarily of income-producing investment properties loans. Additionally, CRE loans include 1-4 family properties loans as well as land and development lo ans. Total CRE loans of $10.67 billion, or 27.9% of the loan portfolio, increased $190.7 million, or 7.3% annualized, from December 31, 2019, driven primarily by growth in income-producing investment properties. 
+
+Investment properties loans consist of construction and mortgage loans for income-producing properties and are primarily made to finance multi-family properties, hotels, office buildings, shopping centers, warehouses and other commercial development properties. Total investment properties loans as of March 31, 2020 were $9.26 billion, or 86.8% of the CRE loan portfolio and 24.2% of the loan portfolio, and increased $215.1 million, or 9.6% annualized, from December 31, 2019 with most sub-categories experiencing growth other than office buildings and shopping centers, which were flat and down 10.0% annualized, respectively. 
+
+1-4 Family Properties Loans 
+
+1-4 family properties loans include construction loans to home builders and commercial mortgage loans related to 1-4 family rental properties and are almost always secured by the underlying property being financed by such loans. These properties are primarily located in the markets served by Synovus. At March 31, 2020, 1-4 family properties loans totaled 
+
+$751.5 million, or 7.0% of the CRE loan portfolio and 2.0% of the loan portfolio, and decreased by $28.5 million, or 14.7% annualized from December 31, 2019. 
+
+Land and Development Loans 
+
+Land and development loans include commercial and residential development as well as land acquisition loans and are secured by land held for future development, typically in excess of one year. Properties securing these loans are substantially within markets served by Synovus, and loan terms generally include personal guarantees from the principals. Loans in this portfolio are underwritten based on the LTV of the collateral and the capacity of the guarantor(s). Land and development loans of $661.9 million at March 31, 2020, or 1.7% of the loan portfolio, increased slightly by $4.2 million, or 2.5% annualized, from December 31, 2019. 
+
+Consumer Loans 
+
+The consumer loan portfolio consists of a wide variety of loan products offered through Synovus' banking network including first and second residential mortgages, HELOCs, and credit card loans, as well as home impro vement, student, and personal loans from third-party lending partnerships. The majority of Synovus' consumer loans are consumer mortgages and HELOCs secured by first and second liens on residential real estate primarily located in the markets served by Synovus. 
+
+Consumer loans at March 31, 2020 of $9.95 billion, or 26.0% of the loan portfolio, increased $26.3 million, or 1.1% annualized, compared to $9.92 billion at December 31, 2019 . Consumer mortgages grew $61.8 million, or 4.5% annualized, from December 31, 2019 primarily as a result of the rate environment and additional mortgage loan originators. HELOCs increased $65.7 million, or 15.4% annualized, from December 31, 2019, driven primarily by an increase in line utilization due to the economic and financial market conditions as of the end of the first quarter of 2020. Credit card loans of $261.6 million at March 31, 2020 included $62.4 million of commercial credit card loans, and decreased marginally from $268.8 million at December 31, 2019. Other consumer loans decreased $93.9 million, or 15.8% annualized, from December 31, 2019, primarily due to pay-downs related to our third-party lending partnerships . As of March 31, 2020, these partnerships had combined balances of $1.89 billion, or 4.9% of the loan portfolio. 
+
+Consumer loans are subject to uniform lending policies and consist primarily of loans with strong borrower credit scores. Synovus makes consumer lending decisions based upon a number of key credit risk determinants including FICO scores as well as loan-to-value and debt-to-income ratios. Consumer loans are generally assigned a risk rating on a 9-point scale based on credit bureau scores, with a loan grade of 1 assigned as the lowest level of risk and a loan grade of 6 as the highest level of risk. No loans graded higher than a 6 at origination are approved for funding. At least annually, the consumer loan portfolio data is sent to a consumer credit reporting agency for a refresh of customers' credit scores so that management can evaluate ongoing consistency or negative migration in the quality of the portfolio, which impacts the ALL. Revolving lines of credit are reviewed for a material change in financial circumstances, and when appropriate, the line of credit may be suspended for further advances. FICO scores within the residential real estate portfolio have generally remained stable over the last several years. As of March 31, 2020, weighted-average FICO scores within the residential real estate portfolio based on committed balances were 786 for HELOCs and 775 for Consumer Mortgages. 
+
+U.S. Small Business Administration Paycheck Protection Program 
+
+The CARES Act included an allocation of $349 billion for loans to be issued by financial institutions through the Small Business Administration (&#8220;SBA&#8221;). This program is known as the Paycheck Protection Program (&#8220;PPP&#8221;). PPP loans are forgivable, in whole or in part, if the proceeds are used for payroll and other permitted purposes in accordance with the requirements of the PPP. These loans carry a fixed rate of 1.00% and a term of two years, if not forgiven, in whole or in part. Payments are deferred for the first six months of the loan. The loans are 100% guaranteed by the SBA. The SBA pays the originating bank a processing fee ranging from 1% to 5%, based on the size of the loan. The Paycheck Protection Program and Health Care Enhancement Act (&#8220;PPP / HCEA Act&#8221;) was passed by Congress on April 23, 2020 and signed into law on April 24, 2020. The PPP / HCEA Act authorizes additional funding under the CARES Act of $310 billion for PPP loans to be issued by financial institutions through the SBA. Synovus began accepting applications from qualified customers on April 3, 2020 and has provided over $2.8 billion in funding to over 18,000 customers through the PPP, as of May 7, 2020. 
+
+Deposits 
+
+Deposits provide the most significant funding source for interest earning assets. The following table shows the composition of period-end deposits as of the dates indicated. See Table 10 - Average Balances and Yields/Rates in this Report for information on average deposits including average rates. 
+
+Table 4 - Composition of Period-end Deposits (dollars in thousands) March 31, 2020 % (1) 
+
+December 31, 2019 % (1) 
+
+March 31, 2019 % (1) 
+
+Non-interest-bearing demand deposits (2) 
+
+$ 8,968,756 &#160; 22.5 % $ 8,661,220 &#160; 22.6 % $ 8,440,520 &#160; 22.2 % 
+
+Interest-bearing demand deposits (2) 
+
+4,617,368 &#160; 11.6 &#160; 4,769,505 &#160; 12.4 &#160; 4,911,215 &#160; 12.8 &#160; 
+
+Money market accounts (2) 
+
+10,255,014 &#160; 25.8 &#160; 9,827,357 &#160; 25.6 &#160; 8,912,528 &#160; 23.4 &#160; 
+
+Savings deposits (2) 
+
+949,483 &#160; 2.4 &#160; 909,500 &#160; 2.4 &#160; 903,822 &#160; 2.4 &#160; Public funds 5,261,383 &#160; 13.2 &#160; 4,622,318 &#160; 12.0 &#160; 4,630,022 &#160; 12.2 &#160; 
+
+Time deposits (2) 
+
+5,786,633 &#160; 14.5 &#160; 6,185,611 &#160; 16.1 &#160; 7,568,079 &#160; 19.9 &#160; Brokered deposits 3,987,948 &#160; 10.0 &#160; 3,429,993 &#160; 8.9 &#160; 2,709,004 &#160; 7.1 &#160; Total deposits $ 39,826,585 &#160; 100.0 % $ 38,405,504 &#160; 100.0 % $ 38,075,190 &#160; 100.0 % Core deposits (3) &#160; 
+
+$ 35,838,637 &#160; 90.0 % $ 34,975,511 &#160; 91.1 % $ 35,366,186 &#160; 92.9 % Core transaction deposits (4) &#160; 
+
+$ 24,790,621 &#160; 62.2 % $ 24,167,582 &#160; 62.9 % $ 23,168,085 &#160; 60.8 % Time deposits greater than $100,000, including brokered and public funds $ 7,176,468 &#160; 18.0 % $ 7,262,833 &#160; 18.9 % $ 8,318,082 &#160; 21.8 % Brokered time deposits $ 2,229,596 &#160; 5.6 % $ 2,154,095 &#160; 5.6 % $ 1,902,962 &#160; 5.0 % 
+
+(1) Deposits balance in each category expressed as percentage of total deposits. 
+
+(2) Excluding any public funds or brokered deposits. 
+
+(3) Core deposits exclude brokered deposits. 
+
+(4) Core transaction deposits consist of non-interest-bearing demand deposits, interest-bearing demand deposits, money market accounts, and savings deposits excluding public funds and brokered deposits. 
+
+Total period-end deposits at March 31, 2020 increased $1.42 billion, or 14.9% annualized, compared to December 31, 2019 . Core transaction deposit growth was very strong, up $623.0 million, or 10.4% annualized, compared to December 31, 2019. Within the core transaction deposit category, non-interest-bearing deposits increased $307.5 million and money market accounts increased $427.7 million. Public fund deposits increased $639.1 million while higher cost time deposits declined $399.0 million, compared to year-end 2019. Additionally, Synovus increased funding by $558.0 million in lower priced brokered deposits, at March 31, 2020, compared to December 31, 2019. 
+
+On an average basis, the increase in total deposits was $808.4 million, or 8.6% annualized, compared to the fourth quarter of 2019. 
+
+Non-interest Revenue 
+
+Non-interest revenue for the first quarter of 2020 was $103.9 million, up $24.5 million, or 30.8%, compared to the first quarter of 2019 and adjusted non-interest revenue of $99.4 million was up $20.9 million, or 26.7%. The increase in adjusted non-interest revenue was due primarily to strong growth in mortgage banking income, capital markets income, and growth in fiduciary businesses including growth in brokerage revenue. See "Table 14 - Reconciliation of Non-GAAP Financial Measures&#8221; in this Report for applicable reconciliation to GAAP measures. 
+
+The following table shows the principal components of non-interest revenue. 
+
+Table 5 - Non-interest revenue Three Months Ended March 31, (dollars in thousands) 2020 2019 % Change Service charges on deposit accounts $ 20,689 &#160; $ 20,859 &#160; (0.8) % Fiduciary and asset management fees 15,174 &#160; 13,578 &#160; 11.8 &#160; Card fees 10,950 &#160; 10,877 &#160; 0.7 &#160; Brokerage revenue 12,398 &#160; 9,379 &#160; 32.2 &#160; Mortgage banking income 12,227 &#160; 5,054 &#160; 141.9 &#160; Capital markets income 11,243 &#160; 5,245 &#160; 114.4 &#160; Income from bank-owned life insurance 6,038 &#160; 5,290 &#160; 14.1 &#160; Investment securities gains, net 8,734 &#160; 75 &#160; nm &#160; (Decrease) increase in fair value of private equity investments (4,255) &#160; 858 &#160; nm &#160; Other non-interest revenue 10,659 &#160; 8,163 &#160; 30.6 &#160; Total non-interest revenue $ 103,857 &#160; $ 79,378 &#160; 30.8 % 
+
+Three Months Ended March 31, 2020 compared to March 31, 2019 
+
+Service charges on deposit accounts for the three months ended March 31, 2020 were down $170 thousand, or 0.8%, Service charges on deposit accounts consist of NSF fees, account analysis fees, and all other service charges. NSF fees were up $215 thousand, or 2.5%, for the three months ended March 31, 2020. Account analysis fees were down $19 thousand, or 0.3%, for the three months ended March 31, 2020. All other service charges on deposit accounts, which consist primarily of monthly fees on retail demand deposits, saving accounts, and small business accounts, for the three months ended March 31, 2020, were down $366 thousand, or 7.1% . Beginning in March, to help customers through the period of financial distress, Synovus is offering to waive NSF and monthly service charges for customers impacted by COVID-19. The impact to the first quarter of 2020 from fee waivers was immaterial; however, Synovus does expect a larger impact in the second quarter of 2020. 
+
+Fiduciary and asset management fees are derived from providing estate administration, personal trust, corporate trust, corporate bond, investment management, and financial planning services. Fiduciary and asset management fees increased $1.6 million, or 11.8%, for the three months ended March 31, 2020, due primarily to increases in assets under management during the quarter which totaled $15.25 billion at March 31, 2020, as well as talent additions in the second quarter of 2019. Since certain fiduciary and asset management fees are based on the value of assets under management, the second quarter of 2020 may be negatively impacted by market dynamics due to COVID-19. 
+
+Card fees for the three months ended March 31, 2020 were essentially flat compared to the same period in 2019. Card fees consist primarily of credit card interchange fees, debit card interchange fees, and merchant discounts. Card fees are reported net of certain associated expense items including customer loyalty program expenses and network expenses. While flat compared to the same period a year ago, card fees did decline during the last two weeks of March due to lower transaction volume as a result of the impact of COVID -19, a trend that may continue in the second quarter due to economic uncertainty. 
+
+Brokerage revenue was $12.4 million for the three months ended March 31, 2020, up $3.0 million, or 32.2%, compared to the three months ended March 31, 2019, driven by growth in assets under management, increasing contributions from 2019 new hires, and higher transaction revenue from elevated market volatility. Brokerage revenue consists primarily of brokerage commissions as well as advisory fees earned from the management of customer assets. Brokerage assets under management were $3.4 billion at March 31, 2020, an increase of 11.5% from $3.1 billion at March 31, 2019. Since certain advisory fees are based on the value of brokerage assets under management, the second quarter of 2020 may be negatively impacted by market environment due to COVID-19. 
+
+Mortgage banking income increased $7.2 million for the three months ended March 31, 2020. Mortgage banking income was driven by higher production and sales, including an increase in refinance volume, due primarily to a decline in long-term interest rates during the quarter. Total secondary market mortgage loan production was $250.8 million for the three months ended March 31, 2020, up $127.5 million, or 103.4%, compared to the three months ended March 31, 2019. 
+
+Capital markets income primarily includes fee income from customer derivative transactions. Additionally, capital markets income includes fee income from capital raising investment banking transactions and foreign exchange as well as other miscellaneous income from capital market transactions. Capital markets income increased $6.0 million for the three months ended March 31, 2020 as commercial clients locked in lower rates on borrowings. 
+
+Income from BOLI, which includes increases in the cash surrender value of policies and proceeds from insurance benefits, increased $748 thousand, or 14.1% for the three months ended March 31, 2020, due pri marily to additional investments in BOLI policies during the first quarter of 2020. The first three months of 2020 included income on proceeds from insurance benefits of $118 thousand compared to $233 thousand in 2019. 
+
+Investment securities gains of $8.7 million for the three months ended March 31, 2020 reflected strategic repositioning of the portfolio. 
+
+(Decrease)/increase in the fair value of private equity investments included unrealized decreases in fair value of $4.3 million during the three months ended March 31, 2020, due primarily to market volatility in certain investments which recently became public and contain lock-up periods. 
+
+The main components of other non-interest revenue are fees for letters of credit and unused lines of credit, safe deposit box fees, access fees for ATM use, other service charges, income from insurance commissions, gains from sales of GGL/SBA loans, and other miscellaneous items. The first quarter of 2020 included a sale-leaseback gain of $2.4 million associated with a bank office propert y. While fees included in other non-interest revenue were not materially impacted by COVID-19 during the first quarter, Synovus does expect to see a decline in ATM and other services charges during the second quarter of 2020. 
+
+Non-interest Expense 
+
+Non-interest expense for the first quarter of 2020 was $276.3 million, down $16.1 million, or 5.5%, compared to the first quarter of 2019 and adjusted non-interest expense, which excludes merger-related expense, loss on early extinguishment of debt, and restructuring charges, of $271.2 million was up $28.5 million, or 11.7 %. The increase in adjusted expense over the first quarter of 2019 was largely driven by investments in talent and technology and growth in production-related commissions and fees. T he efficiency ratio-FTE for the first three months of 2020 was 57.81%, compared to 61.28% for the first three months of 2019. The adjusted tangible efficiency ratio for the first three months of 2020 was 56.72%, up 648 bps compared to the same period a year ago. See "Table 14 - Reconciliation of Non-GAAP Financial Measures&#8221; in this Report for applicable reconciliation to GAAP measures. 
+
+The following table summarizes the components of non-interest expense. 
+
+Table 6 - Non-interest Expense Three Months Ended March 31, (dollars in thousands) 2020 2019 % Change Salaries and other personnel expense $ 149,678 &#160; $ 139,427 &#160; 7.4 % Net occupancy and equipment expense 42,194 &#160; 38,394 &#160; 9.9 &#160; Third-party processing and other services 21,480 &#160; 17,758 &#160; 21.0 &#160; Professional fees 10,675 &#160; 6,348 &#160; 68.2 &#160; FDIC insurance and other regulatory fees 5,278 &#160; 6,761 &#160; (21.9) &#160; Advertising expense 4,752 &#160; 5,123 &#160; (7.2) &#160; Merger-related expense &#8212; &#160; 49,738 &#160; nm &#160; Restructuring charges 3,220 &#160; 19 &#160; nm &#160; Loss on early extinguishment of debt 1,904 &#160; &#8212; &#160; nm &#160; Other operating expenses 37,098 &#160; 28,842 &#160; 28.6 &#160; Total non-interest expense $ 276,279 &#160; $ 292,410 &#160; (5.5) % 
+
+Three Months Ended March 31, 2020 compared to March 31, 2019 
+
+Salaries and other personnel expense increased $10.3 million, or 7.4%, for the three months ended March 31, 2020 including talent additions and higher production-based commission and incentive compensation expense including $1.0 million in COVID-19 related bonus payments to certain front-line employee s. Synovus will continue to assess the need for bonus pay to front-line team members during the healthcare crisis. 
+
+Net occupancy and equipment expense increased $3.8 million, or 9.9%, during the three months ended March 31, 2020, primarily due to investments in technology. Synovus expects minimal technology expense due to COVID-19. 
+
+Third-party processing and other services includes all third-party core operating system and processing charg es as well as third-party loan servicing charges. Third-party processing expense increased $3.7 million, or 21.0%, for the three months ended March 31, 2020. The increase is primarily associated with loan growth from Synovus' consumer-based lending partnerships. 
+
+Professional fees increased $4.3 million, or 68.2%, for the three months ended March 31, 2020 mostly from increases in consulting fees with $2.0 million related to Synovus' internal revenue growth and efficiency initiative, "Synovus Forward". 
+
+FDIC insurance and other regulatory fees were down $1.5 million for the three months ended March 31, 2020 due to reversal of $1.5 million in estimated additional expense accrued during the fourth quarter of 2019. 
+
+In connection with the FCB acquisition, Synovus incurred merger-related expense totaling $49.7 million for the three months ended March 31, 2019, primarily related to employment compensation agreements, severance, and professional services. See "Part I - Item 1. Financial Statements and Supplementary Data - Note 2 - Acquisitions" in this Report for more information on the acquisition of FCB. 
+
+During the three months ended March 31, 2020, Synovus recorded $3.2 million in restructuring charges from asset impairments, lease terminations, and severance related to 7 branches closed in the first quarter of 2020. 
+
+On February 25, 2020, Synovus terminated a $250 million long-term FHLB obligation and incurred a $1.9 million loss on early extinguishment of debt. 
+
+Other operating expenses includes travel, insurance, network and communication, other taxes, subscriptions and dues, other loan and ORE expense, postage and freight, training, business development, supplies, donations, and other miscellaneous expenses. Other operating expenses were up $8.3 million for the three months ended March 31, 2020 including a $2.7 million valuation adjustment on a MPS receivable and a $2.5 million charge from termination of customer swaps. 
+
+Income Tax Expense 
+
+Income tax expense was $3.6 million and $40.4 million f or the three months ended March 31, 2020 and 2019, respectively. The effective tax rate for the same periods was 8.5% and 25.2%. The decrease in the effective tax rate for the three months ended March 31, 2020, as compared to the three months ended March 31, 2019, reflects a one-time benefit of $2.7 million for carrying back net operating loss deductions to pre-TJCA tax periods, as allowed by the CARES Act, and $3.4 million in other discrete benefit items, including discrete items related to prior periods. Additionally, the effective tax rate in the first quarter of 2019 was higher largely due to non-deductible merger-related expenses associated with the FCB acquisition. 
+
+The effective tax rate is affected by many factors including, but not limited to, the level of pre-tax income, BOLI, tax-exempt interest, and nondeductible expenses. In addition, the effective tax rate is affected by items that may occur in any given period but are not consistent from period-to-period, such as tax benefits related to share-based compensation, jurisdiction statutory tax rate changes, valuation allowance changes, income tax credits earned, and changes to unrecognized tax benefits. Accordingly, the comparability of the effective tax rate between periods may be impacted. 
+
+With the exception of the net operating loss carryback recorded in the first quarter of 2020, we do not expect the provisions of the CARES Act to have a significant impact on the Company&#8217;s current tax provision. 
+
+CREDIT QUALITY, CAPITAL RESOURCES AND LIQUIDITY 
+
+Credit Quality 
+
+Synov us continuously monitors the quality of its loan portfolio by industry, property type, geography, as well as credit quality metrics. While we expect to experience stress in the portfolio as we progress through the current economic environment, the credit quality of the portfolio at March 31, 2020 was generally stable. If economic forecasts continue to deteriorate, we would expect to see a further increase in the allowance for credit losses. 
+
+At March 31, 2020, 12% of Synovus' loan portfolio, or approximately $4.6 billion, is in sectors we expect to be most sensitive to the COVID-19 pandemic. Within this group, hotels represented the largest exposure at $1.31 billion, followed by shopping centers (excluding those with a grocery, pharmacy, or discount store anchor) at $1.01 billion and restaurants at $800 million. While our entire loan portfolio is being continuously assessed, enhanced monitoring for these sectors has been introduced. We are continuously working with these customers to evaluate how the current economic conditions are impacting, and will continue to impact, their business operations. Solid underwriting and strong credit performance, coupled with stronger balance sheets that have been built during our extended expansionary period, give us confidence that these sectors enter this downturn in the best possible position. 
+
+The table below includes selected credit quality metrics. 
+
+Table 7 - Credit Quality Metrics (dollars in thousands) March 31, 2020 December 31, 2019 March 31, 2019 Non-performing loans 
+
+$ 156,287 &#160; $ 101,636 &#160; $ 143,976 &#160; ORE and other assets 
+
+33,679 &#160; 35,810 &#160; 11,341 &#160; Non-performing assets 
+
+$ 189,966 &#160; $ 137,446 &#160; $ 155,317 &#160; Total loans 
+
+$ 38,258,024 &#160; $ 37,162,450 &#160; $ 35,634,501 &#160; Non-performing loans as a % of total loans 
+
+0.41 % 0.27 % 0.40 % Non-performing assets as a % of total loans, ORE, and specific other assets 
+
+0.50 &#160; 0.37 &#160; 0.44 &#160; Loans 90 days past due and still accruing 
+
+$ 6,398 &#160; $ 15,943 &#160; $ 4,486 &#160; As a % of total loans 
+
+0.02 % 0.04 % 0.01 % Total past due loans and still accruing 
+
+$ 83,235 &#160; $ 123,793 &#160; $ 88,135 &#160; As a % of total loans 
+
+0.22 % 0.33 % 0.25 % Net charge-offs, quarter 
+
+$ 20,061 &#160; $ 8,821 &#160; $ 17,088 &#160; Net charge-offs annualized/average loans, quarter 
+
+0.21 % 0.10 % 0.19 % Provision for loan losses, quarter $ 149,117 &#160; $ 24,470 &#160; $ 23,569 &#160; Provision for unfunded commitments, quarter 9,605 &#160; * * Provision for credit losses, quarter $ 158,722 &#160; $ 24,470 &#160; $ 23,569 &#160; Allowance for loan losses 493,452 &#160; 281,402 &#160; 257,036 &#160; Reserve for unfunded commitments 38,420 &#160; 1,375 &#160; 1,070 &#160; Allowance for credit losses $ 531,872 &#160; $ 282,777 &#160; $ 258,106 &#160; ACL to loans coverage ratio 
+
+1.39 % 0.76 % 0.72 % ALL to loans coverage ratio 
+
+1.29 &#160; 0.76 &#160; 0.72 &#160; ACL/NPLs 340.32 278.23 179.27 ALL/NPLs 315.74 276.87 178.53 
+
+* Prior to CECL implementation on January 1, 2020, the provision for unfunded commitments was reflected within other non-interest expense. 
+
+Non-performing Assets 
+
+Total NPAs as a percentage of total loans, ORE, and specific other assets were 0.50% at March 31, 2020 compared to 0.37% at December 31, 2019 and 0.44% at March 31, 2019. Total NPAs were $190.0 million at March 31, 2020 compared to $137.4 million at December 31, 2019 and $155.3 million at March 31, 2019. The sequential increase in NPLs and NPAs primarily related to the designation of a large C&#38;I relationship as non-performing which is collateralized and carries a specific reserve. The NPL ratio at 0.41% at March 31, 2020 is up only 1 bp over March 31, 2019, and total past dues of 0.22% at March 31, 2020 improved over both December 31, 2019 and March 31, 2019. 
+
+Provision for Credit Losses and Allowance for Credit Losses 
+
+Synovus' adoption of CECL resulted in a January 1, 2020 ACL increase of $110.4 million, or 39.1%, over December 31, 2019. Provision for credit losses of $158.7 million for the three months ended March 31, 2020 included the impact of the COVID-19 healthcare crisis and the first quarter under CECL. The ACL at March 31, 2020 totaled $531.9 million consisting of an ALL of $493.5 million and reserve for unfunded commitments of $38.4 million, resulting in an ACL to loans coverage ratio of 1.39% and an ACL to NPLs ratio of 340%. 
+
+Our modeling process incorporates quantitative and qualitative considerations that are used to inform CECL estimates. The internally developed economic forecast used to determine the allowance for credit losses as of March 31, 2020 was approved late in the first quarter, pursuant to Synovus' economic forecasting governance processes. Between that approval date and March 31, 2020, we saw further deterioration in the economic outlook which resulted in the need for a qualitative overlay to our allowance for credit losses. The qualitative overlay of $37.3 million adds 10 bps to the allowance for credit losses and better aligns the total allowance with the economic indicators and forecasts at March 31, 2020. Economic projections are an important consideration in CECL estimates. Significant economic uncertainty remains as a result of the continuing healthcare crisis and the ultimate impact of government stimulation efforts. If our economic outlook on June 30, 2020 evidences further deterioration, as might be suggested by certain external economic forecasts, then we would expect to see a further increase in the allowance for credit losses. 
+
+Table 8 - Accruing TDRs by Risk Grade March 31, 2020 December 31, 2019 March 31, 2019 (dollars in thousands) Amount % Amount % Amount % Pass $ 75,073 &#160; 46.9 % $ 70,574 &#160; 53.0 % $ 54,999 &#160; 49.0 % Special Mention 10,925 &#160; 6.8 &#160; 11,735 &#160; 8.8 &#160; 13,188 &#160; 11.8 &#160; Substandard accruing 74,130 &#160; 46.3 &#160; 50,836 &#160; 38.2 &#160; 44,018 &#160; 39.2 &#160; Total accruing TDRs $ 160,128 &#160; 100.0 % $ 133,145 &#160; 100.0 % $ 112,205 &#160; 100.0 % 
+
+Troubled Debt Restructurings 
+
+Accruing TDRs were $160.1 million at March 31, 2020, compared to $133.1 million at December 31, 2019 and $112.2 million at March 31, 2019. Accruing TDRs increased $27.0 million from December 31, 2019 and $47.9 million from March 31, 2019. Non-accruing TDRs were $12.8 million at March 31, 2020, compared to $17.1 million at December 31, 2019 and $22.3 million at March 31, 2019. The primary driver of the increase in accruing TDRs compared to December 31, 2019 is a result of a large relationship being designated as an accruing TDR due to interest rate and term concessions. 
+
+Accruing TDRs are considered performing because they are performing in accordance with the re structured terms. At March 31, 2020, December 31, 2019, and March 31, 2019, approximately 98%, 99%, and 99%, respectively, of accruing TDRs were current. In addition, subsequent defaults on accruing TDRs (defaults defined as the earlier of the TDR being placed on non-accrual status or reaching 90 days past due with respect to principal and/or interest payments within twelve months of the TDR designation) have continued to remain at low levels. 
+
+Non-TDR Modifications due to COVID-19 
+
+Regulatory agencies, as set forth in the Interagency Statement on Loan Modifications and Reporting for Financial Institutions Working with Customers Affected by the Coronavirus (initially issued on March 22, 2020 and revised on April 7, 2020), have encouraged financial institutions to work prudently with borrowers who are or may be unable to meet their contractual payment obligations because of the effects of COVID-19. In this statement, the regulatory agencies expressed their view of loan modification programs as positive actions that may mitigate adverse effects on borrowers due to COVID-19 and that the agencies will not criticize institutions for working with borrowers in a safe and sound manner. Moreover, the revised statement provides that eligible loan modifications related to COVID-19 may be accounted for under section 4013 of the CARES Act or in accordance with ASC 310-40. Section 4013 of The CARES Act allows banks to elect to not consider loan modifications related to COVID-19 that are made between March 1, 2020 and the earlier of December 31, 2020, or 60 days after the COVID-19 national emergency ends to borrowers that are current (i.e., less than 30 days past due as of December 31, 2019) as TDRs. The regulatory agencies further stated that performing loans granted payment deferrals due to COVID-19 are not considered past due or non-accrual. FASB confirmed the foregoing regulatory agencies' view, that such short-term modifications (e.g., six months) made on a good-faith basis in response to COVID-19 for borrowers who are current are not TDRs. Accordingly, beginning in late March 2020, Synovus provided relief programs consisting primarily of 90-day payment deferral relief to borrowers negatively impacted by COVID-19. At March 31, 2020, Synovus had approved payment deferral relief to borrowers due to the effects of COVID-19 on approximately $2.4 billion, or approximately 6%, of our loan portfolio. As of May 7, 2020, Synovus had approved payment deferral relief on ap proximately $5.8 billion, or 15%, of our loan portfolio. 
+
+Capital Resources 
+
+Synovus and Synovus Bank are required to comply with capital adequacy standards established by their primary federal regulator, the Federal Reserve. Synovus and Synovus Bank measure capital adequacy using the standardized approach to the Basel III Final Rule. At March 31, 2020, Synovus and Synovus Bank's capital levels remained strong and exceeded well-capitalized requirements currently in effect. The following table presents certain ratios used to measure Synovus and Synovus Bank's capitalization. 
+
+Table 9 - Capital Ratios (dollars in thousands) March 31, 2020 December 31, 2019 CET1 capital Synovus Financial Corp. $ 3,744,415 &#160; $ 3,743,459 &#160; Synovus Bank 4,607,218 &#160; 4,640,501 &#160; Tier 1 risk-based capital Synovus Financial Corp. 4,281,560 &#160; 4,280,604 &#160; Synovus Bank 4,607,218 &#160; 4,640,501 &#160; Total risk-based capital Synovus Financial Corp. 5,289,039 &#160; 5,123,381 &#160; Synovus Bank 5,054,697 &#160; 4,923,279 &#160; CET1 capital ratio Synovus Financial Corp. 8.70 % 8.95 % Synovus Bank 10.69 &#160; 11.10 &#160; Tier 1 risk-based capital ratio Synovus Financial Corp. 9.95 &#160; 10.23 &#160; Synovus Bank 10.69 &#160; 11.10 &#160; Total risk-based capital to risk-weighted assets ratio Synovus Financial Corp. 12.29 &#160; 12.25 &#160; Synovus Bank 11.72 &#160; 11.78 &#160; Leverage ratio Synovus Financial Corp. 8.92 &#160; 9.16 &#160; Synovus Bank 9.62 &#160; 9.94 &#160; 
+
+Tangible common equity ratio (1) 
+
+Synovus Financial Corp. 7.94 &#160; 8.08 &#160; 
+
+(1) See "Table 14 - Reconciliation of Non-GAAP Financial Measures&#8221; in this Report for the applicable reconciliation to the most comparable GAAP measure. 
+
+At March 31, 2020, Synovus' CET1 ratio was 8.70%, well in excess of regulatory requirements including the capital conservation buffer of 2.5%. The 25 bps decline in Synovus' CET1 ratio from December 31, 2019 was largely due to the increase in risk-weighted assets from loan growth of $1.10 billion. For additional information on regulatory capital requirements, see "Part II - Item 8. Financial Statements and Supplementary Data - Note 11 - Regulatory Capital" to the consolidated financial statements of Synovus' 2019 Form 10-K. Management currently believes, based on internal capital analyses and earnings projections, that Synovus' capital position is adequate to meet current and future regulatory minimum capital requirements inclusive of the capital conservation buffer. 
+
+Synovus is suspending share repurchase activity beyond the $16.2 million ( 450 thousand shares) of its common stock repurchased during the first quarter under the share repurchase program announced on January 24, 2020, due to greater economic uncertainty. 
+
+On March 27, 2020, the federal banking regulators issued an interim final rule, updating CECL transition options, which allows electing banking organizations to delay an estimate of the effect of CECL on regulatory capital for up to two years, followed by a three-year phase-in transition period. Synovus adopted CECL on January 1, 2020 and the March 31, 2020 regulatory capital ratios reflect Synovus' election of the five-year transition provision. For additional information on Synovus' adoption of CECL, see "Part I - Item 1. Financial Statements and Supplementary Data - Note 1 - Basis of Presentation and Accounting Policies" in this Report. 
+
+Dividends 
+
+Synovus has historically paid a quarterly cash dividend to the holders of its common stock. Management and the Board of Directors closely monitor current and projected capital levels, liquidity (including dividends from subsidiaries), financial markets and other economic trends, as well as regulatory requirements regarding the payment of dividends. As Synovus navigates through the current recession, the approach to common stock dividends will be continually evaluated based on an assessment of long-term earnings, capital projections, and liquidity. 
+
+Synovus' ability to pay dividends on its common stock and preferred stock is primarily dependent upon dividends and distributions that it receives from its bank and non-banking subsidiar ies, which are restricted by various regulations administered by federal and state bank regulatory authorities. 
+
+Synovus declared common stock dividends of $48.6 million, or $0.33 per common share, for the three months ended March 31, 2020 , up from $ 47.2 million, or $0.30 per common share, for the three months ended March 31, 2019, respectively. In addition, Synovus declared dividends on its preferred stock of $8.3 million and $3.2 million during the three months ended March 31, 2020 and 2019, respectively. 
+
+Liquidity 
+
+Liquidity represents the extent to which Synovus has readily available sources of funding to meet the needs of depositors, borrowers and creditors, to support asset growth, and to otherwise sustain operations of Synovus and its subsidiaries, at a reasonable cost, on a timely basis, and without adverse consequences. ALCO monitors Synovus' economic, competitive, and regulatory environment and is responsible for measuring, monitoring, and reporting on liquidity and funding risk, interest rate risk, and market risk. 
+
+In accordance with Synovus policies and regulatory guidance, ALCO evaluates contractual and anticipated cash flows under normal and stressed conditions to properly manage the Company&#8217;s liquidity profile. Synovus places an emphasis on maintaining numerous sources of current and contingent liquidity to meet its obligations to depositors, borrowers, and creditors on a timely basis. Liquidity is generated through various sources, including, but not limited to, maturities and repayments of loans by customers, maturities and sales of investment securities, and growth in core or wholesale deposits. Management continuously monitors and maintains appropriate levels of liquidity so as to provide adequate funding sources to manage customer deposit withdrawals, loan requests, and other funding demands. 
+
+Synovus Bank also generates liquidity through the issuance of brokered certificates of deposit and money market accounts. Synovus Bank accesses these funds from a broad geographic base to diversify its sources of fu nding and liquidity. Synovus Bank also has the capacity to access funding through its membership in the FHLB system and through the Federal Reserve Discount Window. During the first quarter of 2020, Synovus increased its FHLB availability by over $2.0 billion through expanding pledged collateral. At March 31, 2020, based on currently pledged collateral, Synovus Bank had access to incremental FHLB funding of $3.20 billion, subject to FHLB credit policies. In addition, Synovus expects to have considerable liquidity available through the Federal Reserve's Paycheck Protection Program Lending Facility. 
+
+In addition to bank level liquidity management, Synovus must manage liquidity at the parent company level for various operating needs including the servicing of debt, the payment of dividends on our common stock and preferred stock, share repurchases, payment of general corporate expenses and potential capital infusions into subsidiaries. The primary source of liquidity for Synovus consists of dividends from Synovus Bank, which is governed by certain rules and regulations of the GA DBF and the Federal Reserve Bank. Synovus' ability to receive dividends from Synovus Bank in future periods will depend on a number of factors, including, without limitation, Synovus Bank's future profits, asset quality, liquidit y, and overall condition. I n addition, both the GA DBF and Federal Reserve Bank may require approval to pay dividends, based on certain regulatory statutes and limitations. 
+
+On February 12, 2020, Synovus Bank issued $400.0 million aggregate principal amount of 2.289% Fixed-to-Floating Rate Senior Bank Notes due 2023. From and including the original issue date to, but excluding, February 10, 2022, the Notes bear interest at a fixed rate of 2.289% p er annum, payable semi-annually in arrears on each February 10 and August 10, beginning on August 10, 2020. Unless redeemed, from and including February 10, 2022 to but excluding the Maturity Date, the interest rate on the Notes is computed quarterly using an interest rate based on the SOFR with a daily index maturity plus a spread of 94.5 bps per annum, payable quarterly in arrears. Synovus Bank may redeem the Notes, at its option, on February 10, 2022 (which is the date that is one year prior to the Maturity Date) upon not less than 10 nor more than 60 days&#8217; prior notice given to holders of the Notes. The redemption price for any redemption is 100% of the principal amount of the Notes, plus accrued and unpaid interest thereon to but excluding the date of redemption. The Notes are not redeemable at the option or election of holders. 
+
+On February 25, 2020, Synovus terminated a $250.0 million long-term FHLB obligation and incurred a $1.9 million loss on early extinguishment of debt. 
+
+Synovus presently believes that the sources of liquidity discussed above, including existing liquid funds on hand, are sufficient to meet its anticipated funding needs. However, if economic conditions were to significantly deteriorate, regulatory capital requirements for Synovus or Synovus Bank were to increase as the result of regulatory directives or otherwise, or Synovus believes it is prudent to enhance current liquidity levels, then Synovus may seek additional liquidity from external sources. See "Part I- Item 1A. Risk Factors - the COVID-19 pandemic has resulted in significant market volatility and lower interest rates that could materially affect Synovus&#8217; results of operations and access to capital" of this Report and "Part I &#8211; Item 1A. Risk Factors - Changes in the cost and availability of funding due to changes in the deposit market and credit market may adversely affect our capital resources, liquidity and financial results " of Synovus' 2019 Form 10-K. Furthermore, Synovus may, from time to time, take advantage of attractive market opportunities to refinance its existing debt, redeem its preferred stock, or strengthen its liquidity or capital position. 
+
+Earning Assets and Sources of Funds 
+
+Average total assets for the three months ended March 31, 2020 increased $2.90 billion, or 6.3%, to $48.70 billion as compared to $45.79 billion for the first three months of 2019. Average earning assets increased $2.40 billion, or 5.6%, in the first three months of 2020 compared to the same period in 2019 and represented 92.3% of average total assets at March 31, 2020, as compared to 92.9% at March 31, 2019. The increase in average earning assets primarily resulted from a $2.16 billion increase in average loans, net, and a $143.8 million increase in average investment securities. 
+
+Average interest-bearing liabilities increased $2.00 billion, or 6.4%, to $33.51 billion for the first three months of 2020 compared to the same period in 2019. The increase in average interest-bearing liabilities resulted from a $1.74 billion, or 15.6%, increase in average money market deposits, a $866.9 million increase in other short-term borrowings, and a $694.7 million increase in average long-term debt, including $400.0 million of senior notes issued in February 2020. These increases were partially offset by a $1.32 billion, or 12.8%, decrease in average time deposits. Average non-interest-bearing demand deposits increased $354.8 million, or 3.9%, to $9.41 billion for the first three months of 2020 compared to the same period in 2019. 
+
+Net interest income was $373.3 million for the three months ended March 31, 2020, down $23.9 million, or 6.0%, compared to the same period of 2019 . The net interest margin was down 41 bps to 3.37%, due primarily to the decline in market interest rates and decline of $17.3 million in PAA primarily comprised of $5.8 million of loan accretion and $11.0 million of deposit premium amortization associated with the FCB acquisition. For the three months ended March 31, 2020, the yield on earning assets was 4.33%, a decrease of 47 bps compared to the three months ended March 31, 2019, while the total cost of funds decreased 3 bps to 1.04%. The yield on loans decreased 55 bps to 4.62% while the yield on investment securities increased 3 bps to 3.09% over the three months ended March 31, 2019. 
+
+On a sequential quarter basis, net interest income was down $26.0 million, or 6.5%, and the net interest margin for the first quarter was 3.37%, which was down 28 bps compared to the fourth quarter of 2019. The sequential quarter decline in net interest income and margin included a decline of $24.8 million in PAA primarily comprised of $13.6 million of loan accretion and $11.0 million of deposit premium amortization associated with the FCB acquisition as well as declines in market interest rates including a series of emergency rate cuts by the Federal Reserve in March. The net interest margin, excluding the impact of purchase accounting adjustments, was down 5 bps sequentially to 3.35% for the first quarter of 2020, driven by a 13 bp decrease in the yield on earning assets and a 8 bp decrease in the effective cost of funds. 
+
+Synovus expects net interest income in the second quarter to be relatively flat compared to first quarter levels as a result of significant loan growth associated with the PPP. However, with this growth, along with a depressed rate environment and an elevated cash position, we expect continued downward pressure on our net interest margin in the second quarter. 
+
+Quarterly yields earned on average interest-earning assets and rates paid on average interest-bearing liabilities for the five most recent quarters are presented below. 
+
+Table 10 - Average Balances and Yields/Rates 2020 2019 (dollars in thousands) (yields and rates annualized) First Quarter Fourth Quarter Third Quarter Second Quarter First Quarter Interest Earning Assets: 
+
+Investment securities (1)(2) 
+
+$ 6,680,047 &#160; 6,696,768 &#160; 6,831,036 &#160; 6,955,386 &#160; 6,536,199 &#160; Yield 
+
+3.09 % 3.12 &#160; 3.14 &#160; 3.03 &#160; 3.06 &#160; Trading account assets (3) 
+
+$ 6,306 &#160; 7,986 &#160; 5,519 &#160; 4,853 &#160; 2,049 &#160; Yield 
+
+2.70 % 2.69 &#160; 4.01 &#160; 1.83 &#160; 1.30 &#160; Commercial loans (2)(4) 
+
+$ 27,607,343 &#160; 26,698,202 &#160; 26,568,194 &#160; 26,353,973 &#160; 26,140,672 &#160; Yield 
+
+4.57 % 4.82 &#160; 5.09 &#160; 5.13 &#160; 5.16 &#160; Consumer loans (4) 
+
+$ 9,985,702 &#160; 9,809,832 &#160; 9,633,603 &#160; 9,423,427 &#160; 9,180,679 &#160; Yield 
+
+4.60 % 5.07 &#160; 5.08 &#160; 5.17 &#160; 5.10 &#160; Allowance for loan losses 
+
+$ (368,033) &#160; (269,052) &#160; (258,024) &#160; (259,284) &#160; (252,815) &#160; Loans, net (4) 
+
+$ 37,225,012 &#160; 36,238,982 &#160; 35,943,773 &#160; 35,518,116 &#160; 35,068,536 &#160; Yield 
+
+4.62 % 4.93 &#160; 5.13 &#160; 5.17 &#160; 5.17 &#160; Mortgage loans held for sale 
+
+$ 86,415 &#160; 117,909 &#160; 99,556 &#160; 70,497 &#160; 34,913 &#160; Yield 
+
+3.67 % 3.77 &#160; 3.93 &#160; 4.27 &#160; 4.48 &#160; Other earning assets (5) 
+
+$ 652,130 &#160; 514,635 &#160; 513,160 &#160; 511,488 &#160; 679,477 &#160; Yield 
+
+1.02 % 1.71 &#160; 2.08 &#160; 2.37 &#160; 2.45 &#160; Federal Home Loan Bank and Federal Reserve Bank Stock (3) 
+
+$ 284,082 &#160; 278,586 &#160; 254,994 &#160; 234,949 &#160; 211,408 &#160; Yield 
+
+3.38 % 2.85 &#160; 3.85 &#160; 3.29 &#160; 4.82 &#160; Total interest earning assets 
+
+$ 44,933,992 &#160; 43,854,866 &#160; 43,648,038 &#160; 43,295,289 &#160; 42,532,582 &#160; Yield 
+
+4.33 % 4.60 &#160; 4.78 &#160; 4.79 &#160; 4.80 &#160; Interest-Bearing Liabilities: 
+
+Interest-bearing demand deposits 
+
+$ 6,445,986 &#160; 6,381,282 &#160; 6,138,810 &#160; 6,335,953 &#160; 6,393,304 &#160; Rate 
+
+0.51 % 0.60 &#160; 0.69 &#160; 0.71 &#160; 0.68 &#160; Money market accounts, excluding brokered deposits 
+
+$ 11,548,014 &#160; 10,526,296 &#160; 10,138,783 &#160; 10,024,836 &#160; 10,244,556 &#160; Rate 
+
+1.00 % 1.13 &#160; 1.26 &#160; 1.23 &#160; 1.18 &#160; Savings deposits 
+
+$ 926,822 &#160; 915,640 &#160; 900,366 &#160; 904,183 &#160; 901,059 &#160; Rate 
+
+0.05 % 0.05 &#160; 0.05 &#160; 0.05 &#160; 0.06 &#160; Time deposits under $100,000 
+
+$ 1,761,741 &#160; 1,873,350 &#160; 2,100,492 &#160; 2,245,878 &#160; 2,238,568 &#160; Rate 
+
+1.64 % 1.27 &#160; 1.39 &#160; 1.39 &#160; 1.24 &#160; Time deposits over $100,000 
+
+$ 5,051,705 &#160; 5,198,266 &#160; 5,957,691 &#160; 6,331,665 &#160; 6,211,067 &#160; Rate 
+
+2.04 % 1.51 &#160; 1.69 &#160; 1.70 &#160; 1.60 &#160; Non-maturing brokered deposits 
+
+$ 1,376,669 &#160; 1,156,131 &#160; 993,078 &#160; 766,718 &#160; 937,630 &#160; Rate 
+
+1.42 % 1.84 &#160; 2.47 &#160; 2.46 &#160; 2.60 &#160; Brokered time deposits 
+
+$ 2,166,496 &#160; 2,121,069 &#160; 2,119,149 &#160; 1,985,589 &#160; 1,845,819 &#160; Rate 
+
+2.11 % 2.16 &#160; 2.27 &#160; 2.28 &#160; 2.13 &#160; Total interest-bearing deposits 
+
+$ 29,277,433 &#160; 28,172,034 &#160; 28,348,369 &#160; 28,594,822 &#160; 28,772,003 &#160; Rate 
+
+1.18 % 1.16 &#160; 1.32 &#160; 1.30 &#160; 1.24 &#160; Federal funds purchased and securities sold under repurchase agreements 
+
+$ 167,324 &#160; 192,731 &#160; 221,045 &#160; 300,168 &#160; 233,076 &#160; Rate 
+
+0.30 % 0.24 &#160; 0.22 &#160; 0.20 &#160; 0.22 &#160; Other short-term borrowings 
+
+$ 1,384,362 &#160; 1,565,507 &#160; 1,307,370 &#160; 1,090,581 &#160; 517,456 &#160; Rate 
+
+1.66 % 1.87 &#160; 2.31 &#160; 2.59 &#160; 2.58 &#160; Long-term debt 
+
+$ 2,678,651 &#160; 2,153,983 &#160; 2,286,221 &#160; 2,114,819 &#160; 1,983,910 &#160; Rate 
+
+2.78 % 3.07 &#160; 3.32 &#160; 3.53 &#160; 3.33 &#160; Total interest-bearing liabilities 
+
+$ 33,507,770 &#160; 32,084,255 &#160; 32,163,005 &#160; 32,100,390 &#160; 31,506,445 &#160; Rate 
+
+1.30 % 1.30 &#160; 1.47 &#160; 1.48 &#160; 1.38 &#160; Non-interest-bearing demand deposits 
+
+$ 9,409,774 &#160; 9,706,784 &#160; 9,365,776 &#160; 9,304,839 &#160; 9,054,949 &#160; Cost of funds 
+
+1.04 % 1.02 &#160; 1.16 &#160; 1.15 &#160; 1.07 &#160; Effective cost of funds (6) 
+
+0.96 % 0.95 &#160; 1.09 &#160; 1.10 &#160; 1.02 &#160; Net interest margin 
+
+3.37 % 3.65 &#160; 3.69 &#160; 3.69 &#160; 3.78 &#160; Taxable equivalent adjustment (2) 
+
+$ 786 &#160; 769 &#160; 819 &#160; 811 &#160; 630 &#160; 
+
+(1) Excludes net unrealized gains (losses). 
+
+(2) Reflects taxable-equivalent adjustments, using the statutory federal income tax rate of 21%, in adjusting interest on tax-exempt loans and investment securities to a taxable-equivalent basis. 
+
+(3) Included as a component of other assets on the consolidated balance sheets. 
+
+(4) Average loans are shown net of deferred fees and costs. NPLs are included. 
+
+(5) Includes interest-bearing funds with Federal Reserve Bank, interest earning deposits with banks, and federal funds sold and securities purchased under resale agreements. 
+
+(6) Includes the impact of non-interest-bearing capital funding sources. 
+
+Net Interest Income and Rate/Volume Analysis 
+
+The following table sets forth the major components of net interest income and the related annualized yields and rates for the three months ended March 31, 2020 and 2019, as well as the variances between the periods caused by changes in interest rates versus changes in volume. 
+
+Table 11 - Net Interest Income and Rate/Volume Analysis Three Months Ended March 31, 2020 Compared to 2019 Average Balances Interest Annualized Yield/Rate Change due to Increase (Decrease) (dollars in thousands) 2020 2019 2020 2019 2020 2019 Volume Rate Assets Interest earning assets: Investment securities $ 6,680,047 &#160; $ 6,536,199 &#160; $ 51,655 &#160; $ 49,986 &#160; 3.09 % 3.06 % $ 1,094 &#160; $ 575 &#160; $ 1,669 &#160; Trading account assets 6,306 &#160; 2,049 &#160; 43 &#160; 7 &#160; 2.70 &#160; 1.30 &#160; 14 &#160; 22 &#160; 36 &#160; 
+
+Taxable loans, net (1) 
+
+37,177,611 &#160; 34,987,418 &#160; 424,387 &#160; 445,602 &#160; 4.59 &#160; 5.17 &#160; 28,154 &#160; (49,369) &#160; (21,215) &#160; 
+
+Tax-exempt loans, net (1)(2) 
+
+415,434 &#160; 333,933 &#160; 3,734 &#160; 2,770 &#160; 3.61 &#160; 3.36 &#160; 681 &#160; 283 &#160; 964 &#160; Allowance for loan losses (368,033) &#160; (252,815) &#160; Loans, net 37,225,012 &#160; 35,068,536 &#160; 428,121 &#160; 448,372 &#160; 4.62 &#160; 5.17 &#160; 28,835 &#160; (49,086) &#160; (20,251) &#160; Mortgage loans held for sale 86,415 &#160; 34,913 &#160; 792 &#160; 391 &#160; 3.67 &#160; 4.48 &#160; 574 &#160; (173) &#160; 401 &#160; Other earning assets (3) 
+
+652,130 &#160; 679,477 &#160; 1,675 &#160; 4,164 &#160; 1.02 &#160; 2.45 &#160; (166) &#160; (2,323) &#160; (2,489) &#160; Federal Home Loan Bank and Federal Reserve Bank stock 284,082 &#160; 211,408 &#160; 2,397 &#160; 2,549 &#160; 3.38 &#160; 4.82 &#160; 871 &#160; (1,023) &#160; (152) &#160; Total interest earning assets 44,933,992 &#160; 42,532,582 &#160; 484,683 &#160; 505,469 &#160; 4.33 &#160; 4.80 &#160; 31,222 &#160; (52,008) &#160; (20,786) &#160; Cash and due from banks 515,153 &#160; 519,073 &#160; Premises and equipment, net 491,244 &#160; 479,200 &#160; Other real estate 13,395 &#160; 14,078 &#160; Cash surrender value of bank-owned life insurance 892,861 &#160; 764,590 &#160; Other assets (4) 
+
+1,849,950 &#160; 1,485,098 &#160; Total assets $ 48,696,595 &#160; $ 45,794,621 &#160; Liabilities and Shareholders' Equity Interest-bearing liabilities: Interest-bearing demand deposits $ 6,445,986 &#160; $ 6,393,304 &#160; $ 8,109 &#160; $ 10,681 &#160; 0.51 % 0.68 % $ 89 &#160; $ (2,661) &#160; $ (2,572) &#160; Money market accounts 12,924,683 &#160; 11,182,186 &#160; 33,625 &#160; 35,833 &#160; 1.05 &#160; 1.30 &#160; 5,632 &#160; (7,840) &#160; (2,208) &#160; Savings deposits 926,822 &#160; 901,059 &#160; 110 &#160; 138 &#160; 0.05 &#160; 0.06 &#160; 4 &#160; (32) &#160; (28) &#160; Time deposits 8,979,942 &#160; 10,295,454 &#160; 44,158 &#160; 41,032 &#160; 1.98 &#160; 1.62 &#160; (5,299) &#160; 8,425 &#160; 3,126 &#160; Federal funds purchased and securities sold under repurchase agreements 167,324 &#160; 233,076 &#160; 127 &#160; 127 &#160; 0.30 &#160; 0.22 &#160; (36) &#160; 36 &#160; &#8212; &#160; Other short-term borrowings 1,384,362 &#160; 517,456 &#160; 5,805 &#160; 3,336 &#160; 1.66 &#160; 2.58 &#160; 5,561 &#160; (3,092) &#160; 2,469 &#160; Long-term debt 2,678,651 &#160; 1,983,910 &#160; 18,703 &#160; 16,517 &#160; 2.78 &#160; 3.33 &#160; 5,752 &#160; (3,566) &#160; 2,186 &#160; Total interest-bearing liabilities 33,507,770 &#160; 31,506,445 &#160; 110,637 &#160; 107,664 &#160; 1.30 &#160; 1.38 &#160; 11,703 &#160; (8,730) &#160; 2,973 &#160; Non-interest-bearing deposits 9,409,774 &#160; 9,054,949 &#160; Other liabilities 817,627 &#160; 716,527 &#160; Shareholders' equity 4,961,424 &#160; 4,516,700 &#160; Total liabilities and equity $ 48,696,595 &#160; $ 45,794,621 &#160; Interest rate spread: 3.03 % 3.42 % 
+
+Net interest income - FTE/margin (5) 
+
+$ 374,046 &#160; $ 397,805 &#160; 3.37 % 3.78 % $ 19,519 &#160; $ (43,278) &#160; $ (23,759) &#160; Taxable equivalent adjustment 786 &#160; 630 &#160; Net interest income, actual $ 373,260 &#160; $ 397,175 &#160; 
+
+(1) Average loans are shown net of unearned income. NPLs are included. Interest income includes fees as follows: 2020 - $7.9 million, 2019 - $8.2 million. 
+
+(2) Reflects taxable-equivalent adjustments, using the statutory federal income tax rate of 21%, in adjusting interest on tax-exempt loans to a taxable-equivalent basis. 
+
+(3) Includes interest-bearing funds with Federal Reserve Bank, interest earning deposits with banks, and federal funds sold and securities purchased under resale agreements. 
+
+(4) Includes average net unrealized gains (losses) on investment securities available for sale of $166.8 million and $(85.6) million for the three months ended March 31, 2020 and 2019, respectively. 
+
+(5) The net interest margin is calculated by dividing annualized net interest income - FTE by average total interest earnings assets. 
+
+Market Risk Analysis 
+
+Interest rate risk is the primary market risk to which Synovus is potentially exposed. Synovus measures its sensitivity to changes in market interest rates through the use of a simulation model. Synovus uses this simulation model to determine a baseline net interest income forecast and the sensitivity of this forecast to changes in interest rates. These simulations include all of Synovus&#8217; earning assets and liabilities. Forecasted balance sheet changes, primarily reflecting loan and deposit growth forecasts, are included in the periods modeled. Anticipated deposit mix changes in each interest rate scenario are also included in the periods modeled. Assumptions utilized in the model are updated on an ongoing basis and are reviewed and approved by ALCO and the Risk Committee of the Board of Directors. 
+
+Synovus has modeled its baseline net interest income forecast assuming a flat interest rate environment with the federal funds rate at the Federal Reserve&#8217;s current targeted range of 0% to 0.25% and the current prime rate of 3.25%. Synovus has modeled the impact of a gradual increase in the targeted federal funds range and the prime rate of 100 and 200 bps and a gradual decline of 25 bps to determine the sensitivity of net interest income for the next twelve months. Synovus' current rate risk position is considered modestly asset-sensitive and would be expected to benefit net interest income in a rising interest rate environment and reduce net interest income in a declining interest rate environment. The following table represents the estimated sensitivity of net interest income at March 31, 2020, with comparable information for December 31, 2019. 
+
+Table 12 - Twelve Month Net Interest Income Sensitivity Estimated % Change in Net Interest Income as Compared to Unchanged Rates (for the next twelve months) Change in Short-term Interest Rates (in bps) March 31, 2020 December 31, 2019 +200 2.8% 2.8% +100 0.6% 2.0% Flat &#8212;% &#8212;% -25 (0.7)% N/A 
+
+The net interest income simulation model is the primary tool utilized to evaluate potential interest rate risks over a shorter-term time horizon. Synovus also evaluates potential longer-term interest rate risk through modeling and evaluation of EVE. Simulation modeling is utilized to measure the EVE and its sensitivity to immediate changes in interest rates. This EVE modeling allows Synovus to capture longer-term repricing risk and options risk embedded in the balance sheet. These simulations value only the current balance sheet and do not incorporate growth assumptions used in the net interest income simulation. The EVE is the net fair value of assets, liabilities, and off-balance sheet financial instruments derived from the present value of future cash flows discounted at current market interest rates. From this baseline valuation, Synovus evaluates changes in the value of each of these items in various interest rate scenarios to determine the net impact on the EVE. Key assumptions utilized in the model, namely loan prepayments, investment security prepayments, deposit repricing betas, and non-maturity deposit duration have a significant impact on the results of the EVE simulations. 
+
+LIBOR 
+
+In July 2017, the Financial Conduct Authority (FCA), which regulates LIBOR, announced that it intends to stop persuading or compelling banks to submit rates for the calculation of LIBOR after 2021, confirming the continuation of LIBOR will not be guaranteed beyond that date. However, due to the COVID-19 pandemic, the FCA has since softened its stance on the pre-cessation end dates scheduled in 2020 and early 2021 on the issuance of instruments tied to LIBOR. The ARRC has proposed SOFR as its preferred rate as an alternative to LIBOR and has proposed a paced market transition plan to SOFR from LIBOR. The ARRC recently recommended a spread adjustment methodology for cash products based on a historical median over a five-year lookback period calculating the difference between LIBOR and SOFR. Organizations are currently working on industry-wide and company-specific transition plans as it relates to derivatives and cash markets exposed to LIBOR. As noted within our 10-K Risk Factors, Synovus holds instruments that may be impacted by the discontinuance of LIBOR including floating rate obligations, loans, deposits, derivatives and hedges, and other financial instruments but is not able to currently predict the associated financial impacts of the transition to an alternative reference rate. Synovus has established a cross-functional LIBOR transition working group that is in the process of i) assessing the Company's current exposure to LIBOR indexed instruments and the data, systems and processes that may also be impacted; ii) establishing an implementation plan; and iii) developing a formal governance structure for the transition. 
+
+Critical Accounting Policies 
+
+The accounting and financial reporting policies of Synovus are in accordance with GAAP and conform to the accounting and reporting guidelines prescribed by bank regulatory authorities. Synovus has identified certain of its accounting policies as &#8220;critical accounting policies,&#8221; consisting of those related to the allowance for loan losses, fair value measurements and income taxes. In determining which accounting policies are critical in nature, Synovus has identified the policies that require significant judgment or involve complex estimates. It is management's practice to discuss critical accounting policies with the Board of Directors' Audit Committee, including the development, selection, implementation and disclosure of the critical accounting policies. The application of these policies has a significant impact on Synovus&#8217; unaudited interim consolidated financial statements. Synovus&#8217; financial results could differ significantly if different judgments or estimates are used in the application of these policies. All accounting policies described in "Part II - Item 8. Financial Statements and Supplementary Data - Note 1 - Summary of Significant Accounting Policies" in Synovus' 2019 Form 10-K should be reviewed for a greater understanding of how we record and report our financial perform ance. Excluding the adoption of ASU 2016-13, Financial Instruments-Credit Losses (CECL) on January 1, 2020 as disclosed in "Part I - Item 1. Financial Statements and Supplementary Data - Note 1 - Basis of Presentation and Accounting Policies" in this Report, there have been no significant changes to the accounting policies, estimates and assumptions, or the judgments affecting the application of these estimates and assumptions from those disclosed in Synovus' 2019 Form 10-K. 
+
+Non-GAAP Financial Measures 
+
+The measures entitled adjusted non-interest revenue; adjusted non-interest expense; adjusted total revenues; adjusted tangible efficiency ratio; adjusted net income per common share, diluted; adjusted return on average assets; adjusted return on average common equity; adjusted return on average tangible common equity; and tangible common equity ratio are not measures recognized under GAAP and therefore are considered non-GAAP financial measures. The most comparable GAAP measures to these measures are total non-interest revenue; total non-interest expense; total revenues; efficiency ratio-FTE; net income per common share, diluted; return on average assets; return on average common equity; and the ratio of total shareholders' equity to total assets, respectively. 
+
+Management believes that these non-GAAP financial measures provide meaningful additional information about Synovus to assist management and investors in evaluating Synovus&#8217; operating results, financial strength, the performance of its business, and the strength of its capital position. However, these non-GAAP financial measures have inherent limitations as analytical tools and should not be considered in isolation or as a substitute for analyses of operating results or capital position as reported under GAAP. The non-GAAP financial measures should be considered as additional views of the way our financial measures are affected by significant items and other factors, and since they are not required to be uniformly applied, they may not be comparable to other similarly titled measures at other companies. Adjusted total revenues and adjusted non-interest revenue are measures used by management to evaluate non-interest revenue exclusive of net investment securities gains and changes in fair value of private equity investments, net. Adjusted non-interest expense and the adjusted tangible efficiency ratio are measures utilized by management to measure the success of expense management initiatives focused on reducing recurring controllable operating costs. Adjusted net income per common share, diluted, adjusted return on average assets, and adjusted return on average common equity are measurements used by management to evaluate operating results exclusive of items that management believes are not indicative of ongoing operations and impact period-to-period comparisons. Adjusted return on average tangible common equity is a measure used by management to compare Synovus' performance with other financial institutions because it calculates the return available to common shareholders without the impact of intangible assets and their related amortization, thereby allowing management to evaluate the performance of the business consistently. The tangible common equity ratio is used by management to assess the strength of our capital position. The computations of these measures are set forth in the tables below. 
+
+Table 14 - Reconciliation of Non-GAAP Financial Measures Three Months Ended (in thousands) March 31, 2020 March 31, 2019 Adjusted non-interest revenue Total non-interest revenue $ 103,857 &#160; $ 79,378 &#160; Subtract: Investment securities gains, net (8,734) &#160; (75) &#160; Add/subtract: Decrease (increase) in fair value of private equity investments, net 4,255 &#160; (858) &#160; Adjusted non-interest revenue $ 99,378 &#160; $ 78,445 &#160; Adjusted non-interest expense Total non-interest expense $ 276,279 &#160; $ 292,410 &#160; Subtract: Merger-related expense &#8212; &#160; (49,738) &#160; Subtract: Restructuring charges, net (3,220) &#160; (19) &#160; Subtract: Loss on early extinguishment of debt, net (1,904) &#160; &#8212; &#160; Adjusted non-interest expense $ 271,155 &#160; $ 242,653 &#160; 
+
+Table 14 - Reconciliation of Non-GAAP Financial Measures, continued Three Months Ended (in thousands, except per share data) March 31, 2020 March 31, 2019 Adjusted total revenues and adjusted tangible efficiency ratio Adjusted non-interest expense $ 271,155 &#160; $ 242,653 &#160; Subtract: Amortization of intangibles (2,640) &#160; (3,392) &#160; Adjusted tangible non-interest expense 
+
+$ 268,515 &#160; $ 239,261 &#160; Net interest income $ 373,260 &#160; $ 397,175 &#160; Add: Tax equivalent adjustment 786 &#160; 630 &#160; Add: Total non-interest revenue 103,857 &#160; 79,378 &#160; Total FTE revenues $ 477,903 &#160; $ 477,183 &#160; Subtract: Investment securities gains, net (8,734) &#160; (75) &#160; Add/subtract: Decrease (increase) in fair value of private equity investments, net 4,255 &#160; (858) &#160; Adjusted total revenues $ 473,424 &#160; $ 476,250 &#160; Efficiency ratio-FTE 57.81 % 61.28 % Adjusted tangible efficiency ratio 56.72 &#160; 50.24 &#160; Adjusted net income per common share, diluted Net income available to common shareholders $ 30,230 &#160; $ 117,036 &#160; Add: Merger-related expense &#8212; &#160; 49,738 &#160; Add: Restructuring charges, net 3,220 &#160; 19 &#160; Add: Loss on early extinguishment of debt, net 1,904 &#160; &#8212; &#160; Subtract: Investment securities gains, net (8,734) &#160; (75) &#160; Add/subtract: Decrease (increase) in fair value of private equity investments, net 4,255 &#160; (858) &#160; Subtract: Tax effect of adjustments (167) &#160; (5,705) &#160; Adjusted net income available to common shareholders $ 30,708 &#160; $ 160,155 &#160; Weighted average common shares outstanding, diluted 148,401 &#160; 162,760 &#160; Adjusted net income per common share, diluted $ 0.21 &#160; $ 0.98 &#160; 
+
+Three Months Ended (dollars in thousands) March 31, 2020 March 31, 2019 Adjusted return on average assets (annualized) Net income $ 38,521 &#160; $ 120,186 &#160; Add: Merger-related expense &#8212; &#160; 49,738 &#160; Add: Restructuring charges, net 3,220 &#160; 19 &#160; Add: Loss on early extinguishment of debt, net 1,904 &#160; &#8212; &#160; Subtract: Investment securities gains, net (8,734) &#160; (75) &#160; Add/subtract: Decrease (increase) in fair value of private equity investments, net 4,255 &#160; (858) &#160; Subtract: Tax effect of adjustments (167) &#160; (5,705) &#160; Adjusted net income $ 38,999 &#160; $ 163,305 &#160; Net income annualized 154,931 &#160; 487,421 &#160; Adjusted net income annualized 156,853 &#160; 662,293 &#160; Total average assets 48,696,595 &#160; 45,794,621 &#160; Return on average assets (annualized) 0.32 % 1.06 % Adjusted return on average assets (annualized) 0.32 &#160; 1.45 &#160; 
+
+Table 14 - Reconciliation of Non-GAAP Financial Measures, continued Three Months Ended (dollars in thousands) March 31, 2020 December 31, 2019 March 31, 2019 Adjusted return on average common equity and adjusted return on average tangible common equity (annualized) Net income available to common shareholders $ 30,230 &#160; $ 143,393 &#160; $ 117,036 &#160; Subtract/add: Merger-related expense &#8212; &#160; (913) &#160; 49,738 &#160; Add: Restructuring charges, net 3,220 &#160; 1,259 &#160; 19 &#160; Add: Valuation adjustment to Visa derivative &#8212; &#160; 1,111 &#160; &#8212; &#160; Add: Loss on early extinguishment of debt, net 1,904 &#160; &#8212; &#160; &#8212; &#160; Subtract/add: Investment securities (gains) losses, net (8,734) &#160; 2,157 &#160; (75) &#160; Add/subtract: Decrease (increase) in fair value of private equity investments 4,255 &#160; (8,100) &#160; (858) &#160; Subtract/add: Tax effect of adjustments (167) &#160; 1,162 &#160; (5,705) &#160; Net income available to common shareholders $ 30,708 &#160; $ 140,069 &#160; $ 160,155 &#160; Adjusted net income available to common shareholders' annualized $ 123,507 &#160; $ 555,709 &#160; $ 649,518 &#160; Add: Amortization of intangibles 7,868 &#160; 8,528 &#160; 10,317 &#160; Adjusted net income available to common shareholders excluding amortization of intangibles annualized $ 131,375 &#160; $ 564,237 &#160; $ 659,835 &#160; Net income available to common shareholders annualized $ 121,584 &#160; $ 568,896 &#160; $ 474,646 &#160; Add: Amortization of intangibles 7,868 &#160; 8,528 &#160; 10,317 &#160; Net income available to common shareholders excluding amortization of intangibles $ 129,452 &#160; $ 577,424 &#160; $ 484,963 &#160; Total average shareholders' equity less preferred stock $ 4,424,278 &#160; $ 4,348,250 &#160; $ 4,321,561 &#160; Subtract: Goodwill (497,267) &#160; (488,223) &#160; (480,215) &#160; Subtract: Other intangible assets, net (54,514) &#160; (57,149) &#160; (75,191) &#160; Total average tangible shareholders' equity less preferred stock $ 3,872,497 &#160; $ 3,802,878 &#160; $ 3,766,155 &#160; Return on average common equity (annualized) 2.75 % 13.08 % 10.98 % Adjusted return on average common equity (annualized) 2.79 &#160; 12.78 &#160; 15.03 &#160; Return on average tangible common equity (annualized) 3.34 &#160; 15.18 &#160; 12.88 &#160; Adjusted return on average tangible common equity (annualized) 3.39 &#160; 14.84 &#160; 17.52 &#160; 
+
+(dollars in thousands) Tangible common equity ratio March 31, 2020 December 31, 2019 March 31, 2019 Total assets $ 50,619,585 &#160; $ 48,203,282 &#160; $ 46,630,025 &#160; Subtract: Goodwill (497,267) &#160; (497,267) &#160; (485,000) &#160; Subtract: Other intangible assets, net (53,032) &#160; (55,671) &#160; (74,683) &#160; Tangible assets $ 50,069,286 &#160; $ 47,650,344 &#160; $ 46,070,342 &#160; Total shareholders' equity $ 5,065,205 &#160; $ 4,941,690 &#160; $ 4,597,753 &#160; Subtract: Goodwill (497,267) &#160; (497,267) &#160; (485,000) &#160; Subtract: Other intangible assets, net (53,032) &#160; (55,671) &#160; (74,683) &#160; Subtract: Preferred Stock, no par value (537,145) &#160; (537,145) &#160; (195,140) &#160; Tangible common equity $ 3,977,761 &#160; $ 3,851,607 &#160; $ 3,842,930 &#160; Total shareholders' equity to total assets ratio 10.01 % 10.25 % 9.86 % Tangible common equity ratio 7.94 &#160; 8.08 &#160; 8.34 &#160; 
+

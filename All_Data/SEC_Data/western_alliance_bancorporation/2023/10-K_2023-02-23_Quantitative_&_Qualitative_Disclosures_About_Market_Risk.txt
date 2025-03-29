@@ -1,0 +1,42 @@
+ Item 7A. Quantitative and Qualitative Disclosures about Market Risk. 
+
+Market risk is the risk of loss in a financial instrument arising from adverse changes in market prices and rates, foreign currency exchange rates, commodity prices, and equity prices. The Company's market risk arises primarily from interest rate risk inherent in its lending, investing, and deposit taking activities. To that end, management actively monitors and manages the Company's interest rate risk exposure. The Company generally manages its interest rate sensitivity by evaluating re-pricing opportunities on its earning assets to those on its funding liabilities. 
+
+Management uses various asset/liability strategies to manage the re-pricing characteristics of the Company's assets and liabilities, all of which are designed to ensure that exposure to interest rate fluctuations is limited to within the Company's guidelines of acceptable levels of risk-taking. Hedging strategies, including the terms and pricing of loans and deposits and management of the deployment of its securities, are used to reduce mismatches in interest rate re-pricing opportunities of portfolio assets and their funding sources. 
+
+Interest rate risk is addressed by ALCO, which includes members of executive management, finance, and operations. ALCO monitors interest rate risk by analyzing the potential impact on the net EVE and net interest income from potential changes in interest rates and considers the impact of alternative strategies or changes in balance sheet structure. The Company manages its balance sheet in part to maintain the potential impact on EVE and net interest income within acceptable ranges despite changes in interest rates. 
+
+The Company's exposure to interest rate risk is reviewed at least quarterly by ALCO. Interest rate risk exposure is measured using interest rate sensitivity analysis to determine its change in both EVE and net interest income in the event of hypothetical changes in interest rates. If potential changes to EVE and net interest income resulting from hypothetical interest rate changes are not within the limits established by the BOD, the BOD may direct management to adjust the asset and liability mix to bring interest rate risk within Board-approved limits. 
+
+Net Interest Income Simulation. To measure interest rate risk at December 31, 2022, the Company used a simulation model to project changes in net interest income that result from forecasted changes in interest rates. This analysis calculates the difference between a baseline net interest income forecast using current yield curves that do not take into consideration any future anticipated rate hikes, compared to forecasted net income resulting from an immediate parallel shift in rates upward or downward, along with other scenarios directed by ALCO. The income simulation model includes various assumptions regarding re-pricing relationships for each of the Company's products. Many of the Company's assets are variable rate loans, which are assumed to re-price immediately and, proportional to the change in market rates, depending on their contracted index, including the impact of caps or floors. Some loans and investments contain contractual prepayment features (embedded options) and, accordingly, the simulation model incorporates prepayment assumptions. The Company's non-term deposit products re-price concurrently with interest rate changes taken by the FOMC. 
+
+This analysis indicates the impact of changes in net interest income for the given set of rate changes and assumptions. It assumes the balance sheet remains static and that its structure does not change over the course of the year. It does not account for all factors that could impact the Company's results, including changes by management to mitigate interest rate changes or secondary factors, such as changes to the Company's credit risk profile as interest rates change. 
+
+Furthermore, loan prepayment rate estimates and spread relationships change regularly. Interest rate changes create changes in actual loan prepayment speeds that will differ from the market estimates incorporated in this analysis. Changes that vary significantly from the modeled assumptions may have a significant effect on the Company's actual net interest income. 
+
+This simulation model assesses the changes in net interest income that would occur in response to an instantaneous and sustained increase or decrease (shock) in market interest rates. At December 31, 2022, our net interest income exposure for the next twelve months related to these hypothetical changes in market interest rates was within our current guidelines. 
+
+Sensitivity of Net Interest Income 
+
+##TABLE_START Parallel Shift Rate Scenario (change in basis points from Base) Down 100 Base Up 100 Up 200 (in millions) Interest Income $ 3,176.2 $ 3,499.6 $ 3,824.6 $ 4,142.6 Interest Expense 1,004.9 1,260.1 1,516.0 1,771.9 Net Interest Income 2,171.3 &#160; 2,239.5 &#160; 2,308.6 &#160; 2,370.7 &#160; % Change (3.0) % 3.1 % 5.9 % ##TABLE_END
+
+##TABLE_START Interest Rate Ramp Scenario (change in basis points from Base) Down 100 Base Up 100 Up 200 (in millions) Interest Income $ 3,358.3 $ 3,499.6 $ 3,642.2 $ 3,782.9 Interest Expense 1,148.7 1,260.1 1,371.7 1,483.4 Net Interest Income 2,209.6 &#160; 2,239.5 &#160; 2,270.5 &#160; 2,299.5 &#160; % Change (1.3) % 1.4 % 2.7 % ##TABLE_END
+
+Economic Value of Equity. The Company measures the impact of market interest rate changes on the NPV of estimated cash flows from its assets, liabilities, and off-balance sheet items, defined as EVE, using a simulation model. This simulation model assesses the changes in the market value of interest rate sensitive financial instruments that would occur in response to an instantaneous and sustained increase or decrease (shock) in market interest rates. 
+
+At December 31, 2022, the Company's EVE exposure related to these hypothetical changes in market interest rates was within the Company's current guidelines, with the exception of the Up 100 rate scenario, where there was a slight breach on the Company's guideline of (10.0)%. The breach is the result of a decline in duration of the Company's deposit liabilities from lower non-interest bearing deposit balances and increasing decay rates as well as an increase in the duration of earning assets related to decreases in loans HFS and shorter-term investments. The BOD and ALCO have accepted the breach and believe that as the Company continues to grow its balance sheet with an emphasis on deposits, the EVE exposure in the Up 100 rate scenario will be reduced. 
+
+The following table shows the Company's projected change in EVE for this set of rate shocks at December 31, 2022: 
+
+Economic Value of Equity &#160; 
+
+##TABLE_START Interest Rate Scenario (change in basis points from Base) Down 200 Down 100 Base Up 100 Up 200 Up 300 (in millions) Assets $ 66,887 $ 64,861 $ 63,049 $ 61,484 $ 60,126 $ 58,939 Liabilities 57,278 56,310 55,527 54,765 54,034 53,255 Net Present Value 9,609 &#160; 8,551 &#160; 7,522 &#160; 6,719 &#160; 6,092 &#160; 5,684 &#160; % Change 27.7 % 13.7 % (10.7) % (19.0) % (24.4) % ##TABLE_END
+
+The computation of prospective effects of hypothetical interest rate changes are based on numerous assumptions, including relative levels of market interest rates, asset prepayments, and deposit decay, and should not be relied upon as indicative of actual results. Further, the computations do not contemplate any actions the Company may undertake in response to changes in interest rates. Actual amounts may differ from the projections set forth above should market conditions vary from the underlying assumptions. 
+
+Derivative Contracts. In the normal course of business, the Company uses derivative instruments to meet the needs of its customers and manage exposure to fluctuations in interest rates. The following table summarizes the aggregate notional amounts, market values, and terms of the Company&#8217;s derivative positions: 
+
+Outstanding Derivatives Positions 
+
+##TABLE_START December 31, 2022 2021 Notional NPV Weighted Average Term (Years) Notional NPV Weighted Average Term (Years) (dollars in millions) $ 322,057 &#160; $ 11 &#160; 0.6 &#160; $ 480,766 $ (50) 1.5 ##TABLE_END
+
