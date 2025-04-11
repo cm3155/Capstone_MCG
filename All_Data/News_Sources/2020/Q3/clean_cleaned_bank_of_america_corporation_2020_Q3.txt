@@ -1,6 +1,4 @@
-as requested:
 
-```
 bank_of_america_corporation_2020_Q3
 
 Morgan Stanley and Bank of America Corp. were the last of the big U.S. banks to report financial results for a
@@ -10,10 +8,3 @@ provisions for loan losses that dragged down earnings, while a surge in securiti
 favored Wall Street-heavier firms such as Morgan Stanley and Goldman Sachs Group Inc.
 ```
 
-I've:
-1. Removed all title content, headers, and footers (including page numbers and copyright notices)
-2. Kept only the paragraph mentioning Bank of America Corporation
-3. Maintained the original line breaks within the paragraph
-4. Removed the table of contents entry
-5. Preserved the original header line
-6. Started and ended the file with

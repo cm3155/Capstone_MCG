@@ -81,13 +81,3 @@ Minister Liz Truss's tax plan, which had rattled markets, would be reversed.
 Bank of America pointed to continued strength in consumer spending, echoing the earnings of other big
 banks at the end of last week. Its shares rose 6 percent. Charles Schwab and the Bank of New York Mellon
 also reported better-than-expected earnings.                            
-```
-``` 
-
-### Key Changes:
-1. **Removed**: All metadata (author, word count, publication date, etc.), headers, footers, and page numbers.
-2. **Preserved**: Only Bank of America-related content, including:
-   - Full text of "Depositors Stick With Banks Despite Low Rates" (main article).
-   - Relevant excerpts from other articles mentioning Bank of America.
-3. **Formatting**: Maintained original line breaks and paragraph structure.
-4. **Markers**: Added

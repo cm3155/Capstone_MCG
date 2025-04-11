@@ -45,12 +45,3 @@ unusual and blocked. made it possible. (PHOTOGRAPH BY NICK HAGEN FOR THE NEW YOR
 Capital One is among the banks that have embraced the cloud, but it was fined by regulators and ordered to beef up its risk
 management. (PHOTOGRAPH BY EMON HASSAN FOR THE NEW YORK TIMES) (B4)     
 ```
-```
-
-### Key Changes Made:
-1. **Removed all metadata**: Author names, word counts, dates, publication info, copyrights, and document IDs.
-2. **Stripped headers/footers**: Page numbers, "Factiva" references, and section labels (e.g., "Business News").
-3. **Deleted table of contents**: The initial TOC with page references was removed.
-4. **Filtered for Capital One content**: Only paragraphs mentioning Capital One were retained.
-5. **Preserved original formatting**: Line breaks and spacing within paragraphs are intact.
-6. **Wrapped with

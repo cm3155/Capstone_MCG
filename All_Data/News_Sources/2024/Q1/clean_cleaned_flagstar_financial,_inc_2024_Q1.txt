@@ -16,11 +16,3 @@ Bank and the failed Signature Bank. DiNello is the former head of Flagstar Bank.
 stock has dropped, reigniting fears of regional bank failures. NYCB executives raced to say the bank is
 sound. NYCB shares gained 6.7% Wednesday.
 ```
-``` 
-
-Key changes made:
-1. Removed all titles, author names, word counts, and publication metadata
-2. Removed headers, table of contents, and footers (including page numbers and copyright notices)
-3. Kept only the two NYCB sections that reference Flagstar Bank
-4. Maintained original line breaks and formatting within the kept content
-5. Added the requested

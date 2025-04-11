@@ -10,10 +10,3 @@ year, as were Citi's and Wells Fargo's. This marks the second consecutive quarte
 in Goldman's investment-banking fees following two years of mostly declines. Solomon said the firm's
 investment-banking backlog increased significantly.                     
 ```
-
-I've:
-1. Removed all headers, footers, and metadata (author, date, word count, etc.)
-2. Kept only the content mentioning Citigroup (Citi)
-3. Preserved the original line breaks and formatting
-4. Removed all page numbers and copyright notices
-5. Started and ended the file with
