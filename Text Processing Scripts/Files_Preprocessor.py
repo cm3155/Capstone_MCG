@@ -26,6 +26,8 @@ class TextPreprocessor:
         text = re.sub(r'\s{2,}', ' ', text)
         text = text.replace('_', ' ')
         text = re.sub(r'\b\d+(?:\.\d+)?\s*(?:dollars|cents|shares)?\b', '', text)
+        text = re.sub(r'\bq[1-4]\b', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'\b\d{1,2}-[a-zA-Z]{3}-\d{4}\b', '', text)
         text = re.sub(
             r'\b(?:january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{1,2},\s+\d{4}\b',
             '', text, flags=re.IGNORECASE)
