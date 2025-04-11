@@ -2,7 +2,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import csv
 from collections import defaultdict
+import os
 from typing import List, Dict, Tuple, Set
 
 class KeywordExtractor:
@@ -41,7 +43,7 @@ class KeywordExtractor:
                 'metadata repositories', 'federated search', 'data observability', 'semantic search',
                 'integrity checks', 'validation rules', 'consistency standards', 'deduplication',
                 'real-time pipelines', 'etl', 'api-based integration', 'middleware',
-                'anonymization', 'pseudonymization', 'gdpr compliance', 'access logs',
+                'anonymization', 'pseudonymization', 'access logs',
                 'distributed systems', 'object storage', 'file systems', 'archival solutions',
                 'knowledge graphs', 'dynamic cataloging', 'operational insights', 'data democratization',
                 'stewardship roles', 'audit trails', 'role based controls', 'data ethics frameworks',
@@ -90,13 +92,13 @@ class KeywordExtractor:
                 "decision-making frameworks", "workforce training", "cross-functional collaboration", "leadership", "people",
                 "measures", "process optimization", "process automation", "work Skills", "training Programs",
                 "strategic Decisions", "managing Risks", "driving Innovation", "marketing Risk", "risk Management",
-                "fraud Risk", "chief data", "innovation", "virtual", "e-commerce", "governance", "stewardship",
+                "fraud risk", "innovation", "virtual", "e-commerce", "governance", "stewardship",
                 "cybersecurity", "privacy", "compliance", "confidentiality", "data privacy", 'growth mindset', 'transformational leadership', 'servant leadership', 'emotional intelligence',
                 'diversity equity inclusion', 'psychological safety', 'learning organizations', 'agile mindsets',
                 'scenario analysis', 'risk-aware culture', 'resilience planning', 'business continuity',
                 'co-creation', 'knowledge-sharing ecosystems', 'cross-functional pods', 'project retrospectives',
                 'value stream mapping', 'lean methodologies', 'throughput analysis', 'time-in-motion studies',
-                'ESG compliance', 'ethical AI', 'sustainability goals', 'stakeholder accountability',
+                'ESG compliance', 'sustainability goals', 'stakeholder accountability',
                 'upskilling', 'reskilling', 'microlearning', 'mentorship programs',
                 'net promoter score', 'personalized interactions', 'journey orchestration', 'proactive service'
             ]
@@ -191,6 +193,8 @@ class KeywordExtractor:
             results[filename] = self.categorize_keywords(combined_keywords)
                 
         return results
+    
+        
 
 def extract_sec_keywords(
     processed_data: Dict[str, Dict[str, List[str]]],
@@ -198,3 +202,44 @@ def extract_sec_keywords(
 ) -> Dict[str, Dict[str, List[str]]]:
     extractor = KeywordExtractor(processed_data, top_n)
     return extractor.extract_keywords()
+
+def load_all_txt_files(folder_path: str) -> Dict[str, Dict[str, List[str]]]:
+    processed_data = {}
+    for root, _, files in os.walk(folder_path):
+        for file in files:
+            if file.endswith(".txt"):
+                full_path = os.path.join(root, file)
+                with open(full_path, 'r', encoding='utf-8') as f:
+                    text = f.read()
+                relative_path = os.path.relpath(full_path, folder_path)
+                processed_data[relative_path] = {
+                    'sentences': [text],  # No sentence splitting
+                    'keywords': []
+                }
+    return processed_data 
+
+def save_keywords_to_csv(results: Dict[str, Dict[str, List[str]]], output_path: str):
+    category_keywords = defaultdict(set)
+    
+    # Aggregate keywords by category across all files
+    for file_result in results.values():
+        for category, keywords in file_result.items():
+            category_keywords[category].update(keywords)
+    
+    # Write to CSV
+    with open(output_path, mode='w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(["Category", "Keyword"])
+        for category, keywords in sorted(category_keywords.items()):
+            for keyword in sorted(keywords):
+                writer.writerow([category, keyword])
+
+# Call this at the end
+if __name__ == "__main__":
+    folder = "C:/Users/cassi/Capstone_MCG/All_Data_Processed"  # Replace with your actual path
+    data = load_all_txt_files(folder)
+    result = extract_sec_keywords(data, top_n=300)
+    
+    # Save result to CSV
+    output_csv_path = "C:/Users/cassi/Capstone_MCG/keywords_by_category_2.csv"
+    save_keywords_to_csv(result, output_csv_path)

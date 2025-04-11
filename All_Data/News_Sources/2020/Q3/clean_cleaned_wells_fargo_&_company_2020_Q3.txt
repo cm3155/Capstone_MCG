@@ -7,10 +7,3 @@ wells_fargo_&_company_2020_Q3
           than many European lenders, which have toiled for years as margins were squeezed by low interest rates in
           the wake of the last financial crisis.                                                                                  
 ```
-
-I've:
-1. Removed all title content, headers, table of contents, and footers
-2. Removed all keywords at the bottom
-3. Kept only the paragraph mentioning Wells Fargo & Co.
-4. Maintained the original formatting and spacing of the content
-5. Wrapped the content with

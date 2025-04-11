@@ -18,10 +18,3 @@ Among those new investors are many of the banks FMR hopes will be Akoya customer
 ```
 ``` 
 
-### Key Changes Made:
-1. **Removed all titles, author names, word counts, publication details, and copyright notices**
-2. **Removed page numbers and footers**
-3. **Removed table of contents and headers**
-4. **Kept only the substantive content mentioning Bank of America**
-5. **Preserved paragraph breaks and formatting within the content**
-6. **Wrapped the entire content in
