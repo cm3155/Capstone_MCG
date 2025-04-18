@@ -2,7 +2,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import csv
 from collections import defaultdict
+import os
 from typing import List, Dict, Tuple, Set
 
 class KeywordExtractor:
@@ -30,77 +32,95 @@ class KeywordExtractor:
         self._initialize_categories()
 
     def _initialize_categories(self):
-        self.categories ={
-            "Data": [
-                "information management", "data governance", "data quality", "data access", "data traceability",
-                "data health", "data centers", "ata services", "data integration", "data stewardship",
-                "data privacy", "data security", "data compliance", "data migration", "data modeling",
-                "data warehousing", "master data management", "mdm", "data cataloging", "data retention", "data monetization",
-                "information management", "data health", "data governance", "data access", "data traceability",
-                "insights", "data centers", "data services", "data and analytics",'access', 'acquisition', 'architecture', 'availability', 'auto-scaling', 'auto-optimization', 'audit',
-                'metadata repositories', 'federated search', 'data observability', 'semantic search',
-                'integrity checks', 'validation rules', 'consistency standards', 'deduplication',
-                'real-time pipelines', 'etl', 'api-based integration', 'middleware',
-                'anonymization', 'pseudonymization', 'gdpr compliance', 'access logs',
-                'distributed systems', 'object storage', 'file systems', 'archival solutions',
-                'knowledge graphs', 'dynamic cataloging', 'operational insights', 'data democratization',
-                'stewardship roles', 'audit trails', 'role based controls', 'data ethics frameworks',
-                'data as a service', 'subscription models', 'ip monetization', 'marketplace ecosystems'
-            ],
-            "Analytics": [
-                "predictive analytics", "prescriptive analytics", "descriptive analytics", "diagnostic analytics", "real-time analytics",
-                "data visualization", "statistical analysis", "machine learning", "artificial intelligence", "customer analytics",
-                "fraud detection", "risk analytics", "operational analytics", "marketing analytics",
-                "social media analytics", "sentiment analysis", "text analytics", "churn analysis", "market basket analysis",
-                "customer segmentation", "lifetime value analysis", "anomaly detection", "behavioral analytics", "analytic framework",
-                "roles and skills", "analytics services", "analytics processes", "analysis complexity", "analytics",
-                "capital efficiency", "create recommendations", "accuracy", "operational efficiency", "different sources",
-                "personalization", "personalized", "credit decision", "fraud detection", "market data", "forecasted data",
-                "actual data", "reporting", "historical data", "competitor analytics", 'predictive modeling', 'decision intelligence', 'automation in analytics',
-                'behavioral insights', 'real-time optimization', 'strategic forecasts',
-                'reinforcement learning', 'causality analysis', 'ensemble modeling', 'geospatial analytics',
-                'journey mapping', 'propensity models', 'omnichannel behavior', 'upsell strategies',
-                'workflow optimization', 'process mining', 'productivity analytics', 'capacity planning',
-                'channel attribution', 'ROI measurement', 'audience profiling', 'campaign simulations',
-                'anomaly scoring', 'predictive triggers', 'identity matching', 'heuristic analysis',
-                'credit scoring', 'hedging models', 'stress testing', 'fiscal forecasts',
-                'embedding AI', 'cloud-based dashboards', 'serverless analytics', 'visualization ecosystems'
-            ],
-            "Technology": [
-                "cloud computing", "edge computing", "cybersecurity", "blockchain", "internet of things", "IoT"
-                "artificial intelligence", "machine learning", "big data", "devops", "api management",
-                "software engineering", "it infrastructure", "data encryption", "identity and access management",
-                "zero trust architecture", "digital transformation", "it governance", "disaster recovery", "cloud security",
-                "it infrastructure", "it development", "it support and service delivery", "software procurement", "it strategy",
-                "investment in iechnology", "ai", "artificial intelligence", "machine learning", "ml", "big Data",
-                "data Analytics", "genai", "generative ai", "capabilities", "cloud", "cloud Services", "technology",
-                "ai-powered", "rolled out", "api", "llm", "large language model", 'quantum computing', 'neuromorphic systems', 'bioinformatics platforms', 'holographic interfaces',
-                'containerization', 'microservices', 'hybrid clouds', 'DevSecOps',
-                'robotic process automation', 'intelligent automation', 'workflow bots', 'self-healing systems',
-                'intrusion detection', 'threat hunting', 'biometric access', 'penetration testing',
-                'transformers', 'generative adversarial networks', 'explainable AI', 'autoML',
-                'serverless computing', 'cloud-native design', 'multi-cloud orchestration', 'data lakes',
-                'edge-to-cloud continuum', 'digital twins', 'virtual collaboration platforms', 'no-code/low-code platforms'
-            ],
-            "Analog": [
-                "leadership", "employee engagement", "organizational culture", "risk management", "process automation",
-                "compliance management", "audit management", "stakeholder engagement", "innovation management",
-                "performance management", "strategic planning", "change management", "team collaboration",
-                "crisis management", "corporate governance", "customer experience", "ethics and integrity",
-                "decision-making frameworks", "workforce training", "cross-functional collaboration", "leadership", "people",
-                "measures", "process optimization", "process automation", "work Skills", "training Programs",
-                "strategic Decisions", "managing Risks", "driving Innovation", "marketing Risk", "risk Management",
-                "fraud Risk", "chief data", "innovation", "virtual", "e-commerce", "governance", "stewardship",
-                "cybersecurity", "privacy", "compliance", "confidentiality", "data privacy", 'growth mindset', 'transformational leadership', 'servant leadership', 'emotional intelligence',
-                'diversity equity inclusion', 'psychological safety', 'learning organizations', 'agile mindsets',
-                'scenario analysis', 'risk-aware culture', 'resilience planning', 'business continuity',
-                'co-creation', 'knowledge-sharing ecosystems', 'cross-functional pods', 'project retrospectives',
-                'value stream mapping', 'lean methodologies', 'throughput analysis', 'time-in-motion studies',
-                'ESG compliance', 'ethical AI', 'sustainability goals', 'stakeholder accountability',
-                'upskilling', 'reskilling', 'microlearning', 'mentorship programs',
-                'net promoter score', 'personalized interactions', 'journey orchestration', 'proactive service'
-            ]
-        }
+        self.categories = {
+        "Data": [
+            # Data Governance & Quality
+            "data governance", "data quality", "metadata management", "data stewardship", "master data management",
+            "data lineage", "data cataloging", "data ownership", "data governance frameworks", "data validation",
+
+            # Data Infrastructure
+            "data infrastructure", "data warehousing", "data architecture", "data centers",
+            "file systems", "distributed systems", "object storage", "archival solutions",
+
+            # Data Security & Compliance
+            "data privacy", "data security", "access controls", "encryption", "role-based access",
+            "anonymization", "pseudonymization", "audit trails", "data ethics frameworks",
+
+            # Data Integration & Access
+            "data integration", "data access", "real-time pipelines", "ETL", "api-based integration", "middleware",
+            "data observability", "data democratization", "federated search", "semantic search",
+
+            # Data Monetization
+            "data monetization", "data as a service", "subscription models", "marketplace ecosystems",
+            "IP monetization", "operational insights"
+        ],
+        "Analytics": [
+            # Advanced Analytics & AI
+            "machine learning", "artificial intelligence", "advanced analytics", "reinforcement learning",
+            "decision intelligence", "automation in analytics", "heuristic analysis", "generative AI", "LLM",
+            "causality analysis", "explainable AI",
+
+            # Predictive & Prescriptive Analytics
+            "predictive analytics", "prescriptive analytics", "predictive modeling", "forecasting", "propensity models",
+            "strategic forecasts", "fiscal forecasts", "predictive triggers", "scenario analysis", "simulation models",
+
+            # Banking-Specific Analytics
+            "credit scoring", "fraud detection", "risk analytics", "churn analysis", "customer segmentation",
+            "lifetime value analysis", "hedging models", "stress testing", "compliance analytics",
+
+            # Operational Analytics
+            "operational analytics", "workflow optimization", "process mining", "capacity planning",
+            "performance dashboards", "anomaly detection", "productivity analytics", "real-time optimization",
+
+            # Analytics Governance & Management
+            "analytics governance", "analytics services", "analytic framework", "roles and skills", "reporting",
+            "analytics processes", "data visualization", "cloud-based dashboards", "serverless analytics",
+            "analytics platforms", "visualization ecosystems"
+        ],
+        "Technology": [
+            # Cloud & Infrastructure
+            "cloud", "cloud computing", "multi-cloud", "hybrid cloud", "serverless computing", "containerization",
+            "microservices", "edge computing", "infrastructure as code", "digital twins", "cloud-native design",
+
+            # AI/ML Platform & Tools
+            "ai platforms", "ai tools", "autoML", "intelligent automation", "neuromorphic systems", "quantum computing",
+
+            # API & Integration
+            "api", "api management", "api-based integration", "middleware", "integration layers",
+            "enterprise bus", "workflow bots", "system interoperability", "orchestration tools",
+
+            # DevOps & Delivery
+            "devops", "DevSecOps", "CI/CD", "agile development", "software delivery", "test automation",
+            "self-healing systems", "incident response", "IT governance", "infrastructure management",
+
+            # Emerging Technologies
+            "blockchain", "holographic interfaces", "bioinformatics platforms", "robotic process automation",
+            "virtual collaboration platforms", "no-code/low-code platforms", "threat hunting",
+            "zero trust architecture", "penetration testing"
+        ],
+        "Analog": [
+            # Leadership & Strategy
+            "leadership", "strategic planning", "vision setting", "decision-making frameworks",
+            "transformational leadership", "servant leadership", "business continuity", "resilience planning",
+
+            # Talent & Capabilities
+            "talent development", "upskilling", "reskilling", "workforce training", "microlearning",
+            "mentorship programs", "emotional intelligence", "growth mindset", "learning organizations",
+
+            # Operating Model & Governance
+            "operating model", "corporate governance", "risk management", "audit management",
+            "organizational structure", "scenario planning", "change management", "strategic decisions",
+
+            # Digital Culture & Innovation
+            "innovation", "digital culture", "agile mindsets", "co-creation", "project retrospectives",
+            "journey orchestration", "virtual teams", "proactive service", "customer experience",
+
+            # Ecosystem Partnerships
+            "ecosystem partnerships", "stakeholder engagement", "knowledge-sharing ecosystems",
+            "cross-functional pods", "collaborative networks", "stakeholder accountability",
+            "ESG compliance", "sustainability goals", "net promoter score"
+        ]
+    }
         
         # Preprocess category keywords
         self.categories = {
@@ -191,6 +211,8 @@ class KeywordExtractor:
             results[filename] = self.categorize_keywords(combined_keywords)
                 
         return results
+    
+        
 
 def extract_sec_keywords(
     processed_data: Dict[str, Dict[str, List[str]]],
@@ -198,3 +220,44 @@ def extract_sec_keywords(
 ) -> Dict[str, Dict[str, List[str]]]:
     extractor = KeywordExtractor(processed_data, top_n)
     return extractor.extract_keywords()
+
+def load_all_txt_files(folder_path: str) -> Dict[str, Dict[str, List[str]]]:
+    processed_data = {}
+    for root, _, files in os.walk(folder_path):
+        for file in files:
+            if file.endswith(".txt"):
+                full_path = os.path.join(root, file)
+                with open(full_path, 'r', encoding='utf-8') as f:
+                    text = f.read()
+                relative_path = os.path.relpath(full_path, folder_path)
+                processed_data[relative_path] = {
+                    'sentences': [text],  # No sentence splitting
+                    'keywords': []
+                }
+    return processed_data 
+
+def save_keywords_to_csv(results: Dict[str, Dict[str, List[str]]], output_path: str):
+    category_keywords = defaultdict(set)
+    
+    # Aggregate keywords by category across all files
+    for file_result in results.values():
+        for category, keywords in file_result.items():
+            category_keywords[category].update(keywords)
+    
+    # Write to CSV
+    with open(output_path, mode='w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(["Category", "Keyword"])
+        for category, keywords in sorted(category_keywords.items()):
+            for keyword in sorted(keywords):
+                writer.writerow([category, keyword])
+
+# Call this at the end
+if __name__ == "__main__":
+    folder = "C:/Users/cassi/Capstone_MCG/All_Data_Processed_Engineered"  # Replace with your actual path
+    data = load_all_txt_files(folder)
+    result = extract_sec_keywords(data, top_n=300)
+    
+    # Save result to CSV
+    output_csv_path = "C:/Users/cassi/Capstone_MCG/keywords_by_category_2.csv"
+    save_keywords_to_csv(result, output_csv_path)

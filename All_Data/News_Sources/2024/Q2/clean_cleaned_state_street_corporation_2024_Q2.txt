@@ -18,11 +18,3 @@ everything."
 "In the last few weeks, we've seen significant inflows to loans," Arone added. "That tells me that investors'
 risk appetite is elevated, their confidence is higher and they're willing to take credit risk."
 ``` 
-
-Key changes:
-1. Removed all headers, footers, page numbers, and copyright notices
-2. Removed all author names, word counts, dates, and publication metadata
-3. Removed all sections not mentioning State Street Corporation or its subsidiaries
-4. Kept only the substantive content about State Street
-5. Preserved the original line breaks and paragraph formatting from the quoted sections
-6. Wrapped the entire content in
