@@ -5,7 +5,7 @@ from collections import defaultdict
 import numpy as np
 
 # Load bank text data
-bank_df = pd.read_csv('text_data_per_bank.csv')
+bank_df = pd.read_csv('text_data_by_bank.csv')
 
 # Load keyword categories
 keyword_df = pd.read_csv('keywords.csv')
