@@ -1,1 +1,38 @@
+Step 1:
+- Download VSCode for your machine -> https://code.visualstudio.com/Download
+- Follow installation instructions
+- Download git for your machine -> https://git-scm.com/downloads
+- Follow installation instructions
+Step 2:
+- Open VScode, Select "view" in the upper tab and click "terminal"
+- Enter command: git clone https://github.com/cm3155/Capstone_MCG.git
+- The Capstone_MCG repository is now cloned to your local computer
 
+Anytime you plan to implement a task, change code, change a file, etc.:
+- Enter command: git branch
+- make sure you are on "main branch"
+- Enter command: git branch NAME-OF-NEW-BRANCH-BE-DESCRIPTIVE
+- Enter command: git checkout NAME-OF-NEW-BRANCH-BE-DESCRIPTIVE
+- Enter command: git branch
+- make sure you are on NAME-OF-NEW-BRANCH-BE-DESCRIPTIVE
+
+When you are finished with whatever changes you have made:
+- Enter command: git add .
+- Enter command: git commit -m "Descriptive message of what changes you made"
+- Enter command: git push origin
+  - If you get "fatal: The current branch add-readme has no upstream branch."
+  - Enter command: git push --set-upstream origin NAME-OF-NEW-BRANCH-BE-DESCRIPTIVE
+- Go to the repository on github.com, in the dropdown menu under Capstone_MCG double check that the branch NAME-OF-NEW-BRANCH-BE-DESCRIPTIVE is there 
+- Check it to make sure all of the files and changes you have commited are there
+- There should be a popup message, click "Compare & pull request"
+  - If you don't see it click the "contribute" dropdown menu and click "compare" and green " create pull request"
+- add description then click the green create pull request at the bottom 
+- Resolve any conflicts
+- When there are no conflicts with base branch (you will see this message if true) Click green "Merge pull request"
+- Type description of merge request and click green "Merge button"
+- When you get "Pull request successfully merged and closed" you are good to go! 
+
+If someone else has made changes and you need it to update in your VSCode:
+- Make sure you are on "main", if not enter: git checkout main
+- Enter command: git pull
+- Check that the updates on the remote github match your local files
