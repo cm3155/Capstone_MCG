@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your actual API key
-FACTSET_API_KEY = "FrGmzkqL2rSotsQEMCwsIjQeIa38iysWyufba43p"
+FACTSET_API_KEY = "<key>"
 
 
 # API endpoint
