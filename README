@@ -30,7 +30,7 @@ the financial performance of these top 50 banks.
 * All_Data_Processed: Contains cleaned and processed text data, grouped by bank. 
 * Analysis: Contains scripts relating to the analysis portion of the project, including clustering and data visualizations. 
 * Reference_Code: Contains scripts from last semester's project, which were used as a starting point. 
-* Scoring: Contains scripts and csvs relating to DATA framework scoring. 
+* Scoring: Contains scripts and csvs relating to DATA framework scoring, including final DATA scores. 
 * Text Processing Scripts: Contains scripts that were used to manipulate, engineer, and clean raw text data. 
 
 
