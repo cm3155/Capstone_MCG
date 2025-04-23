@@ -3,7 +3,7 @@ import time  # Import time module for sleep
 from openai import OpenAI
 
 # Initialize OpenAI client with DeepSeek API
-client = OpenAI(api_key="sk-6cdebe6c89e944278f9f58db6a0fe608", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="<key>", base_url="https://api.deepseek.com")
 
 def clean_text_with_deepseek(text):
     try:
