@@ -2,12 +2,11 @@
 
 ## Organization
 
-* All_Data: Contains all raw text data, grouped by source. 
+* All_Data: Contains all raw text data, grouped by source (News Article, SEC 10-K or 10-Q, Earnings Call Transcript). 
 * All_Data_Processed: Contains cleaned and processed text data, grouped by bank. 
 * Analysis: Contains scripts relating to the analysis portion of the project, including clustering, calibration, visualization, and quantitative ranking. 
-* Reference_Code: Contains scripts from last semester's project, which were used as a starting point . 
-* Scoring: Contains scripts and csvs relating to DATA framework scoring, including final DATA scores. 
-* Text Processing Scripts: Contains scripts that were used to manipulate, engineer, and clean raw text data. 
+* Scoring: Contains scripts and csvs relating to DATA framework scoring, including final DATA scores. Scores are broken up into presence, maturity, and strategy scores. 
+* Text Processing Scripts: Contains scripts that were used to manipulate, engineer, and clean raw text data. The most important to our analysis include Files_Preprocessor.py (cleans raw text), FullPreprocessor.py (preprocesses and cleans text, including stemming and lemmatization), and Keyword_Extractor.py (adapted from last year's keyword extractor; was used to generate keywords). 
 
 ## Description
 
