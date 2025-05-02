@@ -1,5 +1,14 @@
 # Analyzing AI Capabilities of Large Financial Service Organizations
 
+## Organization
+
+* All_Data: Contains all raw text data, grouped by source. 
+* All_Data_Processed: Contains cleaned and processed text data, grouped by bank. 
+* Analysis: Contains scripts relating to the analysis portion of the project, including clustering, calibration, visualization, and quantitative ranking. 
+* Reference_Code: Contains scripts from last semester's project, which were used as a starting point . 
+* Scoring: Contains scripts and csvs relating to DATA framework scoring, including final DATA scores. 
+* Text Processing Scripts: Contains scripts that were used to manipulate, engineer, and clean raw text data. 
+
 ## Description
 
 With the development of new Artificial Intelligence technologies and the growth of fintech competition, 
@@ -23,15 +32,6 @@ analytics capabilities. We obtained these text based sources  from the same GW L
 individual bank websites, and publicly available government databases (such as SEC filings). By acquiring this 
 structured and unstructured data, it allowed us to conduct a thorough analysis of how AI and data capabilities affect 
 the financial performance of these top 50 banks. 
-
-## Organization
-
-* All_Data: Contains all raw text data, grouped by source. 
-* All_Data_Processed: Contains cleaned and processed text data, grouped by bank. 
-* Analysis: Contains scripts relating to the analysis portion of the project, including clustering and data visualizations. 
-* Reference_Code: Contains scripts from last semester's project, which were used as a starting point. 
-* Scoring: Contains scripts and csvs relating to DATA framework scoring, including final DATA scores. 
-* Text Processing Scripts: Contains scripts that were used to manipulate, engineer, and clean raw text data. 
 
 
 
