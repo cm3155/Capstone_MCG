@@ -1,7 +1,7 @@
-#This is just checking the API key, actual cleaner is under text processing scripts
+#This is just checking if the API key works
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-17bb09d52e354980846653b153efcfb4", base_url="https://api.deepseek.com") #sk-17bb09d52e354980846653b153efcfb4, or sk-6cdebe6c89e944278f9f58db6a0fe608
+client = OpenAI(api_key="<key>", base_url="https://api.deepseek.com") 
 
 response = client.chat.completions.create(
     model="deepseek-chat",
